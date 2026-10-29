@@ -491,9 +491,52 @@
     </p>
   </section>
 
+  <!-- 两层架构设计 -->
+  <section id="two-layer">
+    <h2 class="section-title">二、核心架构：两层本体设计</h2>
+    <div class="section-intro">
+      历史本体论严格区分「<strong>单本史书本体</strong>」（文本层，史料载体）和「<strong>整体通史本体</strong>」（史实层，跨书研究网络）两个层级，
+      前者解决"一本书的内容是什么"，后者解决"历史事实是什么"，二者通过「出处溯源」关系联通，形成完整的知识体系。
+    </div>
+    
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin-bottom: 32px;">
+      <!-- 单本史书本体 -->
+      <div style="background: linear-gradient(135deg, #fef5f5, #fff); border: 1px solid #f0d0d0; border-radius: 12px; padding: 28px;">
+        <h3 style="color: #8B0000; margin-bottom: 16px; font-size: 20px;">📕 单本史书本体（文本层）</h3>
+        <p style="color: #5a3c3c; margin-bottom: 16px; font-weight: 500;">以<strong>特定著作</strong>为中心，还原单本书的完整内在结构</p>
+        <ul style="line-height: 2; color: #4a3333; padding-left: 20px;">
+          <li><strong>中心实体</strong>：具体史书（Text），如《史记》《汉书》《资治通鉴》</li>
+          <li><strong>结构组织</strong>：遵循该书自身编排体例（纪传体/编年体/纪事本末体）</li>
+          <li><strong>注疏体系</strong>：收录该书专属历代注（如史记三家注、通鉴胡三省注）</li>
+          <li><strong>覆盖范围</strong>：仅包含单书原文、注文、作者、版本、校勘信息</li>
+          <li><strong>核心关系</strong>：以文本内部结构关系为主（卷次、篇章、注疏对应、篇目归属）</li>
+          <li><strong>典型问题</strong>：某篇记载了什么？某注对应哪段原文？某篇作者是谁？</li>
+        </ul>
+      </div>
+      
+      <!-- 整体通史本体 -->
+      <div style="background: linear-gradient(135deg, #f5f0ff, #fff); border: 1px solid #d0d0f0; border-radius: 12px; padding: 28px;">
+        <h3 style="color: #4B0082; margin-bottom: 16px; font-size: 20px;">📚 整体通史本体（史实层）</h3>
+        <p style="color: #3c3c5a; margin-bottom: 16px; font-weight: 500;">以<strong>历史本身</strong>为中心，跨书整合的统一史实网络</p>
+        <ul style="line-height: 2; color: #33334a; padding-left: 20px;">
+          <li><strong>中心实体</strong>：史实（Fact）——人物、事件、制度、地理、文化概念</li>
+          <li><strong>结构组织</strong>：按历史时序、因果关系、传承脉络组织，打破单书界限</li>
+          <li><strong>史料溯源</strong>：同一史实可标注多部史书的不同记载，支持异文校勘与考异</li>
+          <li><strong>覆盖范围</strong>：贯通所有已入库史书，实现人物去重、事件对齐、制度沿革追踪</li>
+          <li><strong>核心关系</strong>：以史实间关系为主（因果、时序、参与、传承、沿革、互证）</li>
+          <li><strong>典型问题</strong>：汉武帝打过哪些仗？均田制从北魏到唐如何演变？长平之战有哪些不同记载？</li>
+        </ul>
+      </div>
+    </div>
+    
+    <div style="background: #f8f9fa; border-left: 4px solid #8B0000; padding: 16px 20px; border-radius: 4px;">
+      <p style="margin: 0; color: #333;"><strong>两层联通规则：</strong>整体通史本体中的每一个人物、事件、制度、地理实体，都必须通过 <code style="background:#fff;padding:0.1rem 0.3rem;border-radius:2px;">recorded_in</code> 关系回溯到至少一本单本史书本体的具体篇章段落，确保所有史实都有可核查的文献依据，避免无来源的主观内容。</p>
+    </div>
+  </section>
+
   <!-- 四轴七层矩阵 -->
   <section id="matrix">
-    <h2 class="section-title">二、四轴七层正交矩阵</h2>
+    <h2 class="section-title">三、四轴七层正交矩阵</h2>
     <div class="section-intro">
       <strong>四轴</strong>回答"从哪个维度看历史"，<strong>七层</strong>回答"抽象到哪一级"。
       两轴正交，可定位任何一个历史类或实例，避免分类体系的冗余与冲突。

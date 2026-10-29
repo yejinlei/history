@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>整体通史本体 | 中国历史本体论</title>
+<style>
+  :root {
+    --ink: #1a1a1a;
+    --ink-light: #333;
+    --ink-soft: #555;
+    --paper: #faf8f5;
+    --paper-dark: #f3efe8;
+    --vermilion: #8b0000;
+    --vermilion-light: #c45a4e;
+    --gold: #b8860b;
+    --jade: #2e8b57;
+    --indigo: #4682b4;
+    --purple: #6a5acd;
+    --line: #d4cfc5;
+    --shadow: 0 2px 12px rgba(0,0,0,.06);
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: 'Noto Sans SC', "Noto Serif SC", "Source Han Serif CN", "Songti SC", SimSun, serif;
+    background: var(--paper);
+    color: var(--ink);
+    line-height: 1.8;
+  }
+  h1,h2,h3,h4 { font-family: 'Noto Serif SC', serif; font-weight: 700; }
+  a { text-decoration: none; color: inherit; }
+
+  /* 统一导航栏 */
+  nav {
+    position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+    background: rgba(250,248,245,.95); backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--line); padding: 0 2rem;
+  }
+  .nav-inner {
+    max-width: 1280px; margin: 0 auto;
+    display: flex; align-items: center; justify-content: space-between; height: 64px;
+  }
+  .logo {
+    font-family: 'Noto Serif SC', serif; font-size: 1.3rem; font-weight: 900;
+    color: var(--vermilion); display: flex; align-items: center; gap: .6rem;
+  }
+  .logo::before { content:""; width:4px; height:22px; background:var(--vermilion); border-radius:2px; }
+  .nav-menu { display: flex; gap: .2rem; list-style: none; }
+  .nav-item { position: relative; }
+  .nav-item > a {
+    display: block; padding: 0 1rem; line-height: 64px;
+    font-weight: 500; font-size: .95rem; transition: color .2s;
+  }
+  .nav-item > a:hover, .nav-item > a.active { color: var(--vermilion); }
+  .nav-item > a.active { box-shadow: inset 0 -2px 0 var(--vermilion); }
+  .dropdown {
+    position: absolute; top: 100%; left: 0; min-width: 200px;
+    background: #fff; border: 1px solid var(--line); border-radius: 8px;
+    box-shadow: var(--shadow); padding: .5rem 0;
+    opacity: 0; visibility: hidden; transform: translateY(8px);
+    transition: all .25s; list-style: none;
+  }
+  .nav-item:hover .dropdown { opacity: 1; visibility: visible; transform: translateY(0); }
+  .dropdown li a {
+    display: block; padding: .65rem 1.2rem; font-size: .9rem;
+    color: var(--ink-light); transition: all .2s;
+  }
+  .dropdown li a:hover { background: var(--paper-dark); color: var(--vermilion); padding-left: 1.5rem; }
+  .dropdown .divider { height: 1px; background: var(--line); margin: .4rem 0; }
+  .dropdown .coming-soon { padding: .65rem 1.2rem; font-size: .85rem; color: #aaa; font-style: italic; }
+  .dropdown .launched { color: var(--vermilion); font-weight: 500; }
+
+  /* 侧边快速导航 */
+  .side-nav {
+    position: fixed; top: 100px; left: 2rem; width: 180px;
+    background: #fff; border: 1px solid var(--line); border-radius: 8px;
+    padding: 1rem 0; box-shadow: var(--shadow); font-size: .85rem; z-index: 50;
+  }
+  .side-nav a {
+    display: block; padding: .5rem 1.2rem; color: var(--ink-light);
+    border-left: 3px solid transparent; transition: all .2s;
+  }
+  .side-nav a:hover { color: var(--purple); border-left-color: var(--purple); background: var(--paper-dark); }
+
+  /* 英雄区 */
+  .hero {
+    background: linear-gradient(rgba(44, 24, 60, 0.85), rgba(44, 24, 60, 0.9)),
+                url('http://cdn.yun.sooce.cn/6/54179/jpg/173742729468901ce71f214485a0a7070e81b45d3f660.jpg?version=1737427297') center/cover;
+    color: var(--paper);
+    padding: 5rem 2rem 3rem;
+    margin-top: 64px;
+    border-bottom: 5px double var(--purple);
+  }
+  .hero-inner { max-width: 1280px; margin: 0 auto; text-align: center; }
+  .hero h1 { font-size: 2.8rem; letter-spacing: 0.2em; margin-bottom: 1rem; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); }
+  .hero-subtitle { font-size: 1.2rem; opacity: 0.9; margin-bottom: 2rem; letter-spacing: 0.1em; }
+  .hero-stats { display: flex; justify-content: center; gap: 3rem; flex-wrap: wrap; font-size: 1rem; }
+  .hero-stat { text-align: center; }
+  .hero-stat-num { font-size: 2rem; font-weight: bold; color: var(--gold); }
+  .hero-stat-label { opacity: 0.85; font-size: 0.9rem; margin-top: 0.3rem; }
+
+  /* 内容区 */
+  .container { max-width: 900px; margin: 0 auto; padding: 3rem 2rem; margin-left: 240px; }
+  .section { margin-bottom: 4rem; }
+  .section-title {
+    font-size: 1.8rem; color: var(--ink); margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem; border-bottom: 2px solid var(--purple);
+    position: relative; letter-spacing: 0.1em;
+  }
+  .section-title::after {
+    content: ''; position: absolute; bottom: -2px; left: 0; width: 60px; height: 2px; background: var(--gold);
+  }
+  .section-desc { color: var(--ink-light); margin-bottom: 2rem; font-size: 1.05rem; line-height: 2; }
+
+  /* 架构示意图 */
+  .arch-diagram {
+    background: white; border-radius: 12px; padding: 2rem; box-shadow: var(--shadow);
+    margin: 2rem 0; border: 1px solid #e0d8f0;
+  }
+  .arch-layer {
+    border-radius: 8px; padding: 1.2rem; margin-bottom: 1rem; text-align: center;
+  }
+  .arch-layer-text { background: linear-gradient(135deg, #f5f0ff, #fff); border: 1px solid #d0c8e8; }
+  .arch-layer-bridge { background: linear-gradient(135deg, #fff8e6, #fff); border: 1px solid #f0e0b0; }
+  .arch-layer-fact { background: linear-gradient(135deg, #f0fff4, #fff); border: 1px solid #b8e0c8; }
+  .arch-layer-title { font-weight: bold; font-size: 1.1rem; margin-bottom: 0.5rem; }
+  .arch-layer-desc { font-size: 0.9rem; color: var(--ink-soft); }
+  .arch-arrow { text-align: center; font-size: 1.5rem; color: var(--ink-soft); margin: 0.5rem 0; }
+
+  /* 核心问题卡片 */
+  .problem-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-bottom: 2rem; }
+  .problem-card {
+    background: white; padding: 1.5rem; border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06); border-left: 4px solid var(--purple);
+  }
+  .problem-card h3 { color: var(--purple); margin-bottom: 0.8rem; font-size: 1.15rem; }
+  .problem-card p { color: var(--ink-light); line-height: 1.8; font-size: 0.95rem; }
+
+  /* 整合流程 */
+  .pipeline { position: relative; padding-left: 2rem; }
+  .pipeline::before { content: ''; position: absolute; left: 0.5rem; top: 0; bottom: 0; width: 2px solid var(--line); }
+  .pipeline-step {
+    position: relative; background: white; padding: 1.5rem; border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06); margin-bottom: 1.5rem; border-left: 4px solid var(--indigo);
+  }
+  .pipeline-step::before {
+    content: ''; position: absolute; left: -2.2rem; top: 1.8rem;
+    width: 12px; height: 12px; border-radius: 50%; background: var(--indigo); border: 3px solid var(--paper);
+  }
+  .step-title { font-size: 1.2rem; font-weight: bold; color: var(--indigo); margin-bottom: 0.5rem; }
+  .step-desc { color: var(--ink-light); line-height: 1.8; font-size: 0.95rem; }
+
+  /* 实体类型表 */
+  .entity-table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; background: white; box-shadow: var(--shadow); border-radius: 8px; overflow: hidden; }
+  .entity-table th { background: var(--purple); color: white; padding: 1rem; text-align: left; font-weight: 500; }
+  .entity-table td { padding: 0.8rem 1rem; border-bottom: 1px solid var(--line); color: var(--ink-light); }
+  .entity-table tr:hover td { background: #f8f5ff; }
+  .entity-name { font-weight: 600; color: var(--purple); font-family: monospace; }
+
+  /* 关系表 */
+  .relation-table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; background: white; box-shadow: var(--shadow); border-radius: 8px; overflow: hidden; }
+  .relation-table th { background: var(--jade); color: white; padding: 1rem; text-align: left; font-weight: 500; }
+  .relation-table td { padding: 0.8rem 1rem; border-bottom: 1px solid var(--line); color: var(--ink-light); }
+  .relation-table tr:hover td { background: #f0fff4; }
+  .rel-name { font-weight: 600; color: var(--jade); font-family: monospace; }
+
+  /* 进度卡片 */
+  .progress-card {
+    background: linear-gradient(135deg, #fff8f0, #fff);
+    border: 1px solid #f0e0d0; border-radius: 8px; padding: 1.5rem; margin-bottom: 1rem;
+  }
+  .progress-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.8rem; }
+  .progress-title { font-weight: bold; color: var(--gold); font-size: 1.1rem; }
+  .progress-percent { color: var(--gold); font-weight: bold; }
+  .progress-bar { height: 8px; background: #f0e0d0; border-radius: 4px; overflow: hidden; margin-bottom: 0.5rem; }
+  .progress-fill { height: 100%; background: linear-gradient(90deg, var(--gold), var(--vermilion)); border-radius: 4px; }
+  .progress-desc { font-size: 0.9rem; color: var(--ink-light); }
+
+  /* 页脚 */
+  footer {
+    background: var(--ink); color: var(--paper); padding: 3rem 2rem;
+    text-align: center; border-top: 5px double var(--vermilion);
+  }
+  .footer-links { display: flex; justify-content: center; gap: 2rem; margin-bottom: 1.5rem; }
+  .footer-links a { color: var(--gold); }
+  .copyright { opacity: 0.7; font-size: 0.9rem; }
+
+  @media (max-width: 1024px) {
+    .side-nav { display: none; }
+    .container { margin-left: auto; }
+  }
+</style>
+</head>
+<body>
+
+<!-- 导航栏 -->
+<nav>
+  <div class="nav-inner">
+    <a href="../index.html" class="logo">中国历史本体论</a>
+    <ul class="nav-menu">
+      <li class="nav-item"><a href="../index.html">首页</a></li>
+      <li class="nav-item"><a href="ontology.html">本体总纲</a></li>
+      <li class="nav-item">
+        <a href="tongshi-overview.html" class="active">通史</a>
+        <ul class="dropdown">
+          <li><a href="tongshi-overview.html" class="launched">通史概览（整体）✓</a></li>
+          <li><a href="zizhitongjian.html" class="launched">资治通鉴 ✓</a></li>
+          <li><a href="#" class="coming-soon">吕思勉《中国通史》</a></li>
+          <li><a href="#" class="coming-soon">钱穆《国史大纲》</a></li>
+          <li class="divider"></li>
+          <li><span class="coming-soon">更多通史持续收录中...</span></li>
+        </ul>
+      </li>
+      <li class="nav-item">
+        <a href="#">二十四史</a>
+        <ul class="dropdown">
+          <li><a href="shiji.html" class="launched">史记 ✓</a></li>
+          <li><a href="#" class="coming-soon">汉书</a></li>
+          <li><a href="#" class="coming-soon">后汉书</a></li>
+          <li><a href="#" class="coming-soon">三国志</a></li>
+          <li class="divider"></li>
+          <li><span class="coming-soon">剩余20部逐步建设中...</span></li>
+        </ul>
+      </li>
+      <li class="nav-item">
+        <a href="#">专题研究</a>
+        <ul class="dropdown">
+          <li><a href="#" class="coming-soon">现代史学四大家</a></li>
+          <li><a href="#" class="coming-soon">典章制度史</a></li>
+          <li><a href="#" class="coming-soon">历史地理</a></li>
+        </ul>
+      </li>
+      <li class="nav-item"><a href="https://github.com/yejinlei/history" target="_blank">GitHub</a></li>
+    </ul>
+  </div>
+</nav>
+
+<!-- 侧边导航 -->
+<div class="side-nav">
+  <a href="#overview">一、设计理念</a>
+  <a href="#architecture">二、两层架构</a>
+  <a href="#problems">三、解决的核心问题</a>
+  <a href="#pipeline">四、跨书整合流程</a>
+  <a href="#entities">五、核心实体类型</a>
+  <a href="#relations">六、跨书关系</a>
+  <a href="#roadmap">七、建设进度</a>
+</div>
+
+<!-- 英雄区 -->
+<section class="hero">
+  <div class="hero-inner">
+    <h1>整体通史本体</h1>
+    <div class="hero-subtitle">贯通所有史书 · 还原历史本身 · 跨书互证考异</div>
+    <div class="hero-stats">
+      <div class="hero-stat">
+        <div class="hero-stat-num">24</div>
+        <div class="hero-stat-label">正史（二十四史）</div>
+      </div>
+      <div class="hero-stat">
+        <div class="hero-stat-num">1362</div>
+        <div class="hero-stat-label">《资治通鉴》覆盖年数</div>
+      </div>
+      <div class="hero-stat">
+        <div class="hero-stat-num">5000+</div>
+        <div class="hero-stat-label">历史人物（规划）</div>
+      </div>
+      <div class="hero-stat">
+        <div class="hero-stat-num">10000+</div>
+        <div class="hero-stat-label">历史事件（规划）</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="container">
+  <!-- 一、设计理念 -->
+  <section id="overview" class="section">
+    <h2 class="section-title">一、设计理念</h2>
+    <p class="section-desc">
+      整体通史本体不是某一本具体的书，而是<strong>以历史事实本身为中心</strong>，把所有史书中分散的记载整合起来的统一知识网络。
+      它打破单本书的界限，解决"同一个人在不同书里名字不一样""同一件事不同书记载不同""同一个制度跨多朝演变"这些单本书本体无法解决的问题。
+    </p>
+    <p class="section-desc">
+      整体通史本体的核心原则是<strong>「无一字无来处」</strong>：每一个史实断言都必须能回溯到至少一本具体史书的具体篇章，
+      不同记载的差异予以保留（通过考异实体），不做主观的强行统一，体现史学研究的严谨性。
+    </p>
+  </section>
+
+  <!-- 二、两层架构 -->
+  <section id="architecture" class="section">
+    <h2 class="section-title">二、整体架构示意</h2>
+    <div class="arch-diagram">
+      <div class="arch-layer arch-layer-fact">
+        <div class="arch-layer-title" style="color: var(--jade);">📚 整体通史本体（史实层）</div>
+        <div class="arch-layer-desc">统一人物、统一事件、统一制度、统一地理、统一时序；跨书因果、沿革、传承网络</div>
+      </div>
+      <div class="arch-arrow">⬇ ⬆ <br><small>recorded_in / found_in（溯源） / corresponds_to（对应）</small></div>
+      <div class="arch-layer arch-layer-bridge">
+        <div class="arch-layer-title" style="color: var(--gold);">🔗 出处溯源与考异层</div>
+        <div class="arch-layer-desc">人物去重映射、事件对齐、异文校勘、史料可信度标注、考异条目</div>
+      </div>
+      <div class="arch-arrow">⬇ ⬆</div>
+      <div class="arch-layer arch-layer-text">
+        <div class="arch-layer-title" style="color: var(--purple);">📕 单本史书本体（文本层）</div>
+        <div class="arch-layer-desc">《史记》《汉书》《后汉书》《三国志》《资治通鉴》……各书内部结构、注疏、原文</div>
+      </div>
+    </div>
+    <p style="color: var(--ink-light); line-height: 2;">
+      数据流动方向自下而上：先把每一本史书做成独立的单本本体（文本层），然后通过实体对齐把相同的人物、事件、制度映射到统一的史实层实体，
+      遇到不同书记载有差异的地方，在考异层记录差异与考证结论，不强行统一。
+    </p>
+  </section>
+
+  <!-- 三、解决的核心问题 -->
+  <section id="problems" class="section">
+    <h2 class="section-title">三、解决的核心史学问题</h2>
+    <div class="problem-grid">
+      <div class="problem-card">
+        <h3>👤 人物重名与异名</h3>
+        <p>同一个人在不同书里可能有名、字、号、避讳改字、谥号、封号等不同称呼，如刘邦/刘季/汉高祖、项羽/项籍、魏徵/魏征，需要做人物实体对齐去重。</p>
+      </div>
+      <div class="problem-card">
+        <h3>📅 事件异文与考异</h3>
+        <p>同一件事在《史记》《汉书》《资治通鉴》里记载可能有差异（时间、经过、人物对话等），需要保留差异，参考《通鉴考异》的方法做史料批判。</p>
+      </div>
+      <div class="problem-card">
+        <h3>🏛️ 制度沿革追踪</h3>
+        <p>如郡县制、科举制、均田制、三省六部制等制度跨多个朝代演变，单本史书记载断代，通史本体可以追踪制度从产生到演变到消亡的完整脉络。</p>
+      </div>
+      <div class="problem-card">
+        <h3>📍 地理沿革变迁</h3>
+        <p>同一个地名在不同朝代可能指不同地方，同一个地方在不同朝代名字不同（如长安→西安、建康→南京），需要建立古今地名对应与行政沿革链条。</p>
+      </div>
+      <div class="problem-card">
+        <h3>⏳ 因果链条贯通</h3>
+        <p>单本史书只记一个朝代，事件的前因可能在上一朝代，后果可能在下一朝代，通史本体可以贯通整个历史的因果链条，看清长时段发展规律。</p>
+      </div>
+      <div class="problem-card">
+        <h3>📜 史料溯源与互证</h3>
+        <p>每个史实都标注来源书名、篇章、卷次，支持追溯原始记载；同一事件多条史料可以互证，提高可信度；孤证则予以标注。</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- 四、跨书整合流程 -->
+  <section id="pipeline" class="section">
+    <h2 class="section-title">四、跨书本体构建流程</h2>
+    <p class="section-desc">整体通史本体采用「单本录入→实体对齐→关系联通→考异补充」的四步流程构建，继承司马光《资治通鉴考异》的考据传统。</p>
+    <div class="pipeline">
+      <div class="pipeline-step">
+        <div class="step-title">第一步：单本史书本体录入</div>
+        <div class="step-desc">每一本史书独立构建本体，包含卷次结构、篇章、原文、注疏、作者信息、版本信息，确保单本书内部结构完整，不提前做跨书合并。</div>
+      </div>
+      <div class="pipeline-step">
+        <div class="step-title">第二步：命名实体识别与初步对齐</div>
+        <div class="step-desc">从各书中识别人名、地名、官名、事件名、制度名，通过姓名、字号、时间、籍贯、事迹等信息做实体对齐，将同一个实体的不同名称映射到统一URI。</div>
+      </div>
+      <div class="pipeline-step">
+        <div class="step-title">第三步：跨书关系联通</div>
+        <div class="step-desc">在统一实体之间建立关系：时序关系（先后）、因果关系、人物关系（亲属、同僚、师承）、制度沿革关系、地理沿革关系，形成贯通的知识网络。</div>
+      </div>
+      <div class="pipeline-step">
+        <div class="step-title">第四步：考异与异文处理</div>
+        <div class="step-desc">对于不同书记载有差异的内容，创建考异实体，记录各书的说法、差异点、历史上学者的考证结论，不强行统一，保留史料的多面性。</div>
+      </div>
+      <div class="pipeline-step">
+        <div class="step-title">第五步：学者研究成果整合</div>
+        <div class="step-desc">整合近现代史学家（吕思勉、陈垣、陈寅恪、钱穆等）的研究成果，对史实的解释、评价、考证结论作为学术观点实体接入，标注学者与出处。</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 五、核心实体类型 -->
+  <section id="entities" class="section">
+    <h2 class="section-title">五、整体通史本体核心实体类型</h2>
+    <p class="section-desc">整体通史本体在TBox层定义以下核心实体类型，所有单本书的实例最终都映射到这些类型上：</p>
+    <table class="entity-table">
+      <thead>
+        <tr>
+          <th>类名</th>
+          <th>中文名</th>
+          <th>说明</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><span class="entity-name">UnifiedPerson</span></td>
+          <td>统一历史人物</td>
+          <td>跨书去重后的历史人物实体，包含所有异名（名、字、号、谥号、封号、避讳名）</td>
+        </tr>
+        <tr>
+          <td><span class="entity-name">UnifiedEvent</span></td>
+          <td>统一历史事件</td>
+          <td>跨书记载对齐后的历史事件实体，带有起止时间、地点、参与人物，可关联多条不同记载</td>
+        </tr>
+        <tr>
+          <td><span class="entity-name">UnifiedInstitution</span></td>
+          <td>统一典章制度</td>
+          <td>跨朝代制度实体，如郡县制、科举制、均田制、三省六部制，记录制度沿革脉络</td>
+        </tr>
+        <tr>
+          <td><span class="entity-name">UnifiedPlace</span></td>
+          <td>统一历史地理</td>
+          <td>跨朝代地名对齐后的地理实体，记录古今地名对应、行政级别变迁、地理位置坐标</td>
+        </tr>
+        <tr>
+          <td><span class="entity-name">UnifiedReign</span></td>
+          <td>统一朝代与帝王</td>
+          <td>朝代、帝王、年号的时间轴实体，提供统一的时序坐标，用于所有事件的时间定位</td>
+        </tr>
+        <tr>
+          <td><span class="entity-name">HistoricalSource</span></td>
+          <td>史料来源</td>
+          <td>每一条史实的来源标注，包含书名、卷次、篇章、版本，可回溯到原文位置</td>
+        </tr>
+        <tr>
+          <td><span class="entity-name">KaoyiEntry</span></td>
+          <td>考异条目</td>
+          <td>不同史料记载差异的记录，包含各书记载、差异点、考证结论、考证学者</td>
+        </tr>
+        <tr>
+          <td><span class="entity-name">ScholarlyView</span></td>
+          <td>学术观点</td>
+          <td>近现代史学家对某一史实的观点、考证、评价，标注学者、出处、发表时间</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <!-- 六、跨书关系 -->
+  <section id="relations" class="section">
+    <h2 class="section-title">六、核心跨书关系谓词</h2>
+    <table class="relation-table">
+      <thead>
+        <tr>
+          <th>谓词</th>
+          <th>主体 → 客体</th>
+          <th>说明</th>
+          <th>特性</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><span class="rel-name">recorded_in</span></td>
+          <td>史实 → 单书篇章</td>
+          <td>该史实被某书记载，是史实层到文本层的溯源关系</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><span class="rel-name">same_as</span></td>
+          <td>单书人物/地名 → 统一实体</td>
+          <td>单书中的实体对应通史本体中的统一实体（去重/对齐）</td>
+          <td><span style="font-size:0.75rem;padding:0.1rem 0.3rem;background:#f0f0f0;border-radius:3px;">传递性</span><span style="font-size:0.75rem;padding:0.1rem 0.3rem;background:#f0f0f0;border-radius:3px;margin-left:0.2rem;">对称性</span></td>
+        </tr>
+        <tr>
+          <td><span class="rel-name">different_record</span></td>
+          <td>史实 → 考异条目</td>
+          <td>该史实存在不同记载，对应一条考异</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><span class="rel-name">evolves_from</span></td>
+          <td>制度 → 制度</td>
+          <td>某制度由前代某制度演变而来（如科举制 evolves_from 九品中正制）</td>
+          <td><span style="font-size:0.75rem;padding:0.1rem 0.3rem;background:#f0f0f0;border-radius:3px;">传递性</span></td>
+        </tr>
+        <tr>
+          <td><span class="rel-name">precedes</span></td>
+          <td>事件 → 事件</td>
+          <td>时间上先于某事件</td>
+          <td><span style="font-size:0.75rem;padding:0.1rem 0.3rem;background:#f0f0f0;border-radius:3px;">传递性</span><span style="font-size:0.75rem;padding:0.1rem 0.3rem;background:#f0f0f0;border-radius:3px;margin-left:0.2rem;">反对称</span></td>
+        </tr>
+        <tr>
+          <td><span class="rel-name">causes</span></td>
+          <td>事件 → 事件</td>
+          <td>因果关系，是某事件的原因</td>
+          <td><span style="font-size:0.75rem;padding:0.1rem 0.3rem;background:#f0f0f0;border-radius:3px;">传递性</span><span style="font-size:0.75rem;padding:0.1rem 0.3rem;background:#f0f0f0;border-radius:3px;margin-left:0.2rem;">反对称</span></td>
+        </tr>
+        <tr>
+          <td><span class="rel-name">during_reign</span></td>
+          <td>事件/人物 → 朝代/帝王</td>
+          <td>发生于/生活于某朝代或帝王统治时期</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><span class="rel-name">located_in</span></td>
+          <td>事件/人物 → 地理实体</td>
+          <td>发生于/籍贯/任职地在某地</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><span class="rel-name">scholarly_opinion</span></td>
+          <td>学者 → 史实</td>
+          <td>某学者对该史实有某一观点（与观点实体相连）</td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <!-- 七、建设进度 -->
+  <section id="roadmap" class="section">
+    <h2 class="section-title">七、当前建设进度</h2>
+    <div class="progress-card">
+      <div class="progress-header">
+        <div class="progress-title">✅ 本体框架设计</div>
+        <div class="progress-percent">100%</div>
+      </div>
+      <div class="progress-bar"><div class="progress-fill" style="width:100%"></div></div>
+      <div class="progress-desc">两层架构、核心类、关系谓词已全部定义完成，整体框架稳定。</div>
+    </div>
+    <div class="progress-card">
+      <div class="progress-header">
+        <div class="progress-title">📕 单本史书本体 - 第一批</div>
+        <div class="progress-percent">2/26</div>
+      </div>
+      <div class="progress-bar"><div class="progress-fill" style="width:8%"></div></div>
+      <div class="progress-desc">已完成《史记》《资治通鉴》单本本体框架，下一步建设《汉书》《后汉书》《三国志》。</div>
+    </div>
+    <div class="progress-card">
+      <div class="progress-header">
+        <div class="progress-title">🔗 实体对齐与考异</div>
+        <div class="progress-percent">0%</div>
+      </div>
+      <div class="progress-bar"><div class="progress-fill" style="width:0%"></div></div>
+      <div class="progress-desc">待单本史书数量达到3-5部后启动第一批人物、事件、地名对齐工作。</div>
+    </div>
+    <div class="progress-card">
+      <div class="progress-header">
+        <div class="progress-title">👨‍🏫 学者研究成果整合</div>
+        <div class="progress-percent">10%</div>
+      </div>
+      <div class="progress-bar"><div class="progress-fill" style="width:10%"></div></div>
+      <div class="progress-desc">已完成现代史学四大家（吕思勉、陈垣、陈寅恪、钱穆）基础信息录入，后续逐步补充具体研究观点。</div>
+    </div>
+    <div class="progress-card">
+      <div class="progress-header">
+        <div class="progress-title">🗺️ 知识图谱可视化与检索</div>
+        <div class="progress-percent">0%</div>
+      </div>
+      <div class="progress-bar"><div class="progress-fill" style="width:0%"></div></div>
+      <div class="progress-desc">待数据量积累到一定程度后上线，支持人物关系查询、事件脉络追溯、制度沿革查看。</div>
+    </div>
+  </section>
+</div>
+
+<!-- 页脚 -->
+<footer>
+  <div class="footer-links">
+    <a href="../index.html">首页</a>
+    <a href="ontology.html">本体总纲</a>
+    <a href="https://github.com/yejinlei/history" target="_blank">GitHub</a>
+  </div>
+  <div class="copyright">
+    中国历史本体论项目 © 2025 | 基于语义网技术构建 · 传承中华史学传统
+  </div>
+</footer>
+
+</body>
+</html>

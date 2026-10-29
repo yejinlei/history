@@ -1,0 +1,626 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>《资治通鉴》本体论 | 中国历史本体论</title>
+<style>
+  :root {
+    --ink: #1a1a1a;
+    --ink-light: #333;
+    --ink-soft: #555;
+    --paper: #faf8f5;
+    --paper-dark: #f3efe8;
+    --vermilion: #8b0000;
+    --vermilion-light: #c45a4e;
+    --gold: #b8860b;
+    --jade: #2e8b57;
+    --indigo: #4682b4;
+    --purple: #6a5acd;
+    --line: #d4cfc5;
+    --shadow: 0 2px 12px rgba(0,0,0,.06);
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: 'Noto Sans SC', "Noto Serif SC", "Source Han Serif CN", "Songti SC", SimSun, serif;
+    background: var(--paper);
+    color: var(--ink);
+    line-height: 1.8;
+  }
+  h1,h2,h3,h4 { font-family: 'Noto Serif SC', serif; font-weight: 700; }
+  a { text-decoration: none; color: inherit; }
+
+  /* 统一导航栏 */
+  nav {
+    position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+    background: rgba(250,248,245,.95); backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--line); padding: 0 2rem;
+  }
+  .nav-inner {
+    max-width: 1280px; margin: 0 auto;
+    display: flex; align-items: center; justify-content: space-between; height: 64px;
+  }
+  .logo {
+    font-family: 'Noto Serif SC', serif; font-size: 1.3rem; font-weight: 900;
+    color: var(--vermilion); display: flex; align-items: center; gap: .6rem;
+  }
+  .logo::before { content:""; width:4px; height:22px; background:var(--vermilion); border-radius:2px; }
+  .nav-menu { display: flex; gap: .2rem; list-style: none; }
+  .nav-item { position: relative; }
+  .nav-item > a {
+    display: block; padding: 0 1rem; line-height: 64px;
+    font-weight: 500; font-size: .95rem; transition: color .2s;
+  }
+  .nav-item > a:hover, .nav-item > a.active { color: var(--vermilion); }
+  .nav-item > a.active { box-shadow: inset 0 -2px 0 var(--vermilion); }
+  .dropdown {
+    position: absolute; top: 100%; left: 0; min-width: 200px;
+    background: #fff; border: 1px solid var(--line); border-radius: 8px;
+    box-shadow: var(--shadow); padding: .5rem 0;
+    opacity: 0; visibility: hidden; transform: translateY(8px);
+    transition: all .25s; list-style: none;
+  }
+  .nav-item:hover .dropdown { opacity: 1; visibility: visible; transform: translateY(0); }
+  .dropdown li a {
+    display: block; padding: .65rem 1.2rem; font-size: .9rem;
+    color: var(--ink-light); transition: all .2s;
+  }
+  .dropdown li a:hover { background: var(--paper-dark); color: var(--vermilion); padding-left: 1.5rem; }
+  .dropdown .divider { height: 1px; background: var(--line); margin: .4rem 0; }
+  .dropdown .coming-soon { padding: .65rem 1.2rem; font-size: .85rem; color: #aaa; font-style: italic; }
+  .dropdown .launched { color: var(--vermilion); font-weight: 500; }
+
+  /* 侧边快速导航 */
+  .side-nav {
+    position: fixed; top: 100px; left: 2rem; width: 160px;
+    background: #fff; border: 1px solid var(--line); border-radius: 8px;
+    padding: 1rem 0; box-shadow: var(--shadow); font-size: .85rem; z-index: 50;
+  }
+  .side-nav a {
+    display: block; padding: .5rem 1.2rem; color: var(--ink-light);
+    border-left: 3px solid transparent; transition: all .2s;
+  }
+  .side-nav a:hover { color: var(--vermilion); border-left-color: var(--vermilion); background: var(--paper-dark); }
+
+  /* 英雄区 */
+  .book-hero {
+    background: linear-gradient(rgba(44, 24, 16, 0.85), rgba(44, 24, 16, 0.9)),
+                url('http://cdn.yun.sooce.cn/6/54179/jpg/173742729468901ce71f214485a0a7070e81b45d3f660.jpg?version=1737427297') center/cover;
+    color: var(--paper);
+    padding: 5rem 2rem 3rem;
+    margin-top: 64px;
+    border-bottom: 5px double var(--vermilion);
+  }
+  .book-hero-inner { max-width: 1280px; margin: 0 auto; display: flex; gap: 3rem; align-items: center; }
+  .book-title-block h1 { font-size: 3rem; letter-spacing: 0.2em; margin-bottom: 0.5rem; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); }
+  .book-subtitle { font-size: 1.2rem; opacity: 0.9; margin-bottom: 1.5rem; letter-spacing: 0.1em; }
+  .book-meta { display: flex; gap: 2rem; font-size: 0.95rem; opacity: 0.85; flex-wrap: wrap; }
+  .book-meta-item { display: flex; align-items: center; gap: 0.4rem; }
+
+  /* 内容区 */
+  .container { max-width: 900px; margin: 0 auto; padding: 3rem 2rem; margin-left: 220px; }
+  .section { margin-bottom: 4rem; }
+  .section-title {
+    font-size: 1.8rem; color: var(--ink); margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem; border-bottom: 2px solid var(--vermilion);
+    position: relative; letter-spacing: 0.1em;
+  }
+  .section-title::after {
+    content: ''; position: absolute; bottom: -2px; left: 0; width: 60px; height: 2px; background: var(--gold);
+  }
+  .section-desc { color: var(--ink-light); margin-bottom: 2rem; font-size: 1.05rem; line-height: 2; }
+
+  /* 信息卡片 */
+  .info-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-bottom: 2rem; }
+  .info-card {
+    background: white; padding: 1.5rem; border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06); border-left: 4px solid var(--vermilion);
+  }
+  .info-card h3 { color: var(--vermilion); margin-bottom: 0.8rem; font-size: 1.2rem; }
+  .info-card p { color: var(--ink-light); line-height: 1.8; font-size: 0.95rem; }
+
+  /* 目录结构 编年体 */
+  .structure-timeline { position: relative; padding-left: 2rem; }
+  .structure-timeline::before { content: ''; position: absolute; left: 0.5rem; top: 0; bottom: 0; width: 2px; background: var(--line); }
+  .period-card {
+    position: relative; background: white; padding: 1.5rem; border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06); margin-bottom: 1.5rem; border-left: 4px solid var(--indigo);
+  }
+  .period-card::before {
+    content: ''; position: absolute; left: -2.2rem; top: 1.8rem;
+    width: 12px; height: 12px; border-radius: 50%; background: var(--indigo); border: 3px solid var(--paper);
+  }
+  .period-title { font-size: 1.3rem; font-weight: bold; color: var(--indigo); margin-bottom: 0.5rem; }
+  .period-meta { color: var(--jade); font-size: 0.9rem; margin-bottom: 0.8rem; }
+  .period-desc { color: var(--ink-light); line-height: 1.8; font-size: 0.95rem; }
+
+  /* 注疏体系 */
+  .annotation-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1.5rem; }
+  .annotation-card {
+    background: linear-gradient(135deg, white, #f8f4ff);
+    padding: 1.5rem; border-radius: 8px; border-top: 4px solid var(--purple);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  }
+  .annotation-card h3 { color: var(--purple); margin-bottom: 0.5rem; font-size: 1.2rem; }
+  .annotation-author { color: var(--gold); font-size: 0.9rem; margin-bottom: 0.8rem; font-weight: 500; }
+  .annotation-card p { color: var(--ink-light); line-height: 1.8; font-size: 0.95rem; }
+
+  /* 考异体系 */
+  .kaoyi-box {
+    background: linear-gradient(135deg, #fff8f0, #fff);
+    border: 1px solid #f0e0d0; border-radius: 8px; padding: 2rem; margin: 2rem 0;
+  }
+  .kaoyi-box h3 { color: var(--gold); margin-bottom: 1rem; font-size: 1.3rem; }
+  .kaoyi-list { line-height: 2; color: var(--ink-light); padding-left: 1.5rem; }
+
+  /* 关系谓词表 */
+  .predicate-table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; background: white; box-shadow: var(--shadow); border-radius: 8px; overflow: hidden; }
+  .predicate-table th { background: var(--vermilion); color: white; padding: 1rem; text-align: left; font-weight: 500; }
+  .predicate-table td { padding: 0.8rem 1rem; border-bottom: 1px solid var(--line); color: var(--ink-light); }
+  .predicate-table tr:hover td { background: var(--paper-dark); }
+  .predicate-name { font-weight: 600; color: var(--vermilion); font-family: monospace; }
+  .predicate-domain { color: var(--jade); font-size: 0.9rem; }
+  .predicate-range { color: var(--indigo); font-size: 0.9rem; }
+  .sym-tag { display: inline-block; padding: 0.1rem 0.4rem; background: #f0f0f0; border-radius: 3px; font-size: 0.75rem; margin-left: 0.3rem; color: #666; }
+
+  /* 学者研究 */
+  .scholar-research { background: white; padding: 1.5rem; border-radius: 8px; margin-bottom: 1rem; border-left: 4px solid var(--gold); box-shadow: var(--shadow); }
+  .scholar-research h3 { color: var(--gold); margin-bottom: 0.5rem; }
+  .scholar-research p { color: var(--ink-light); line-height: 1.8; }
+
+  /* 页脚 */
+  footer {
+    background: var(--ink); color: var(--paper); padding: 3rem 2rem;
+    text-align: center; border-top: 5px double var(--vermilion);
+  }
+  .footer-links { display: flex; justify-content: center; gap: 2rem; margin-bottom: 1.5rem; }
+  .footer-links a { color: var(--gold); }
+  .copyright { opacity: 0.7; font-size: 0.9rem; }
+
+  @media (max-width: 1024px) {
+    .side-nav { display: none; }
+    .container { margin-left: auto; }
+  }
+</style>
+</head>
+<body>
+
+<!-- 导航栏 -->
+<nav>
+  <div class="nav-inner">
+    <a href="../index.html" class="logo">中国历史本体论</a>
+    <ul class="nav-menu">
+      <li class="nav-item"><a href="../index.html">首页</a></li>
+      <li class="nav-item"><a href="ontology.html">本体总纲</a></li>
+      <li class="nav-item">
+        <a href="tongshi-overview.html" class="active">通史</a>
+        <ul class="dropdown">
+          <li><a href="tongshi-overview.html">通史概览（整体）</a></li>
+          <li><a href="zizhitongjian.html" class="launched">资治通鉴 ✓</a></li>
+          <li><a href="#" class="coming-soon">吕思勉《中国通史》</a></li>
+          <li><a href="#" class="coming-soon">钱穆《国史大纲》</a></li>
+          <li class="divider"></li>
+          <li><span class="coming-soon">更多通史持续收录中...</span></li>
+        </ul>
+      </li>
+      <li class="nav-item">
+        <a href="#">二十四史</a>
+        <ul class="dropdown">
+          <li><a href="shiji.html" class="launched">史记 ✓</a></li>
+          <li><a href="#" class="coming-soon">汉书</a></li>
+          <li><a href="#" class="coming-soon">后汉书</a></li>
+          <li><a href="#" class="coming-soon">三国志</a></li>
+          <li class="divider"></li>
+          <li><span class="coming-soon">剩余20部逐步建设中...</span></li>
+        </ul>
+      </li>
+      <li class="nav-item">
+        <a href="#">专题研究</a>
+        <ul class="dropdown">
+          <li><a href="#" class="coming-soon">现代史学四大家</a></li>
+          <li><a href="#" class="coming-soon">典章制度史</a></li>
+          <li><a href="#" class="coming-soon">历史地理</a></li>
+        </ul>
+      </li>
+      <li class="nav-item"><a href="https://github.com/yejinlei/history" target="_blank">GitHub</a></li>
+    </ul>
+  </div>
+</nav>
+
+<!-- 侧边导航 -->
+<div class="side-nav">
+  <a href="#overview">一、基本概况</a>
+  <a href="#structure">二、编年结构</a>
+  <a href="#annotation">三、注疏体系</a>
+  <a href="#kaoyi">四、考异方法</a>
+  <a href="#events">五、重大事件</a>
+  <a href="#tbox">六、专属本体类</a>
+  <a href="#predicates">七、关系谓词</a>
+  <a href="#research">八、学者研究</a>
+</div>
+
+<!-- 英雄区 -->
+<section class="book-hero">
+  <div class="book-hero-inner">
+    <div class="book-title-block">
+      <h1>资治通鉴</h1>
+      <div class="book-subtitle">中国第一部编年体通史 · 鉴前世之兴衰，考当今之得失</div>
+      <div class="book-meta">
+        <div class="book-meta-item">📜 北宋 司马光 主编</div>
+        <div class="book-meta-item">📚 全书294卷 · 约300万字</div>
+        <div class="book-meta-item">⏳ 记载1362年历史（前403年-959年）</div>
+        <div class="book-meta-item">📝 胡三省音注 · 司马光《考异》30卷</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="container">
+  <!-- 一、基本概况 -->
+  <section id="overview" class="section">
+    <h2 class="section-title">一、基本概况</h2>
+    <p class="section-desc">
+      《资治通鉴》是北宋司马光主编的中国第一部编年体通史，历时19年完成，宋神宗认为此书「鉴于往事，有资于治道」，故赐名《资治通鉴》。
+      全书按朝代分为十六纪，上起周威烈王二十三年（公元前403年）三家分晋，下迄后周世宗显德六年（公元959年）征淮南，涵盖16朝1362年历史，
+      是中国史学史上与《史记》并称的两大通史巨著。与纪传体以人物为中心不同，《资治通鉴》以时间为纲、事件为目，按年、月、日顺序记述史事，
+      清晰展现历史事件的前因后果与发展脉络，开创了编年体通史的典范。
+    </p>
+    <div class="info-grid">
+      <div class="info-card">
+        <h3>成书背景</h3>
+        <p>北宋治平三年（1066年）司马光设局修书，刘攽负责两汉、刘恕负责魏晋南北朝五代、范祖禹负责唐，最后由司马光统一删定定稿。元丰七年（1084年）成书，历时19年。</p>
+      </div>
+      <div class="info-card">
+        <h3>编纂特点</h3>
+        <p>采用「长编法」与「考异法」：先作丛目、次作长编、最后删削定稿；对史料异同之处另撰《考异》30卷，说明取舍理由，开创了史学考异的优良传统。</p>
+      </div>
+      <div class="info-card">
+        <h3>历史地位</h3>
+        <p>是中国编年史中包含时间最长的一部巨著，与《史记》并称「史学双璧」；其编纂方法、史料考证、叙事艺术均达到传统史学的高峰，成为后世编年体史书的典范。</p>
+      </div>
+      <div class="info-card">
+        <h3>政治思想</h3>
+        <p>以「资治」为目的，重点记录历代治乱兴衰、君臣得失，总结治国经验教训，主张重视民生、任用贤才、虚心纳谏，体现了传统儒家的政治理想。</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- 二、编年结构 -->
+  <section id="structure" class="section">
+    <h2 class="section-title">二、全书编年结构（十六纪）</h2>
+    <p class="section-desc">
+      《资治通鉴》全书294卷，按朝代分为十六纪，按年月日记事，是典型的编年体结构。
+      与《史记》的五体结构不同，编年体严格以时间为序，同一事件不会分散在不同篇章，便于看清历史发展脉络。
+    </p>
+    <div class="structure-timeline">
+      <div class="period-card">
+        <div class="period-title">周纪 5卷</div>
+        <div class="period-meta">周威烈王二十三年（前403年）—— 周赧王五十九年（前256年）</div>
+        <div class="period-desc">记战国时期史事，自三家分晋始，至秦灭周止，共148年。</div>
+      </div>
+      <div class="period-card">
+        <div class="period-title">秦纪 3卷</div>
+        <div class="period-meta">秦昭襄王五十二年（前255年）—— 秦二世三年（前207年）</div>
+        <div class="period-desc">记秦统一六国与秦末农民战争，共49年。</div>
+      </div>
+      <div class="period-card">
+        <div class="period-title">汉纪 60卷</div>
+        <div class="period-meta">汉高祖元年（前206年）—— 汉献帝建安二十四年（219年）</div>
+        <div class="period-desc">记西汉、东汉共425年史事，是全书占比最大的部分。</div>
+      </div>
+      <div class="period-card">
+        <div class="period-title">魏纪 10卷</div>
+        <div class="period-meta">魏文帝黄初元年（220年）—— 魏元帝咸熙元年（264年）</div>
+        <div class="period-desc">记三国曹魏时期史事，以魏为正统，蜀吴史事附见。</div>
+      </div>
+      <div class="period-card">
+        <div class="period-title">晋纪 40卷</div>
+        <div class="period-meta">晋武帝泰始元年（265年）—— 晋恭帝元熙元年（419年）</div>
+        <div class="period-desc">记两晋155年史事，包含八王之乱、永嘉之乱、东晋偏安等。</div>
+      </div>
+      <div class="period-card">
+        <div class="period-title">宋纪 16卷 · 齐纪 10卷 · 梁纪 22卷 · 陈纪 10卷</div>
+        <div class="period-meta">420年 —— 589年</div>
+        <div class="period-desc">记南朝宋齐梁陈共169年史事。</div>
+      </div>
+      <div class="period-card">
+        <div class="period-title">隋纪 8卷</div>
+        <div class="period-meta">隋文帝开皇九年（589年）—— 隋恭帝义宁元年（617年）</div>
+        <div class="period-desc">记隋统一到隋亡共29年史事。</div>
+      </div>
+      <div class="period-card">
+        <div class="period-title">唐纪 81卷</div>
+        <div class="period-meta">唐高祖武德元年（618年）—— 唐哀帝天祐三年（906年）</div>
+        <div class="period-desc">记唐代289年史事，是全书篇幅最长的部分，篇幅占全书近三分之一。</div>
+      </div>
+      <div class="period-card">
+        <div class="period-title">后梁纪 6卷 · 后唐纪 8卷 · 后晋纪 6卷 · 后汉纪 4卷 · 后周纪 5卷</div>
+        <div class="period-meta">907年 —— 959年</div>
+        <div class="period-desc">记五代53年史事，迄于后周世宗显德六年，是全书的终点。</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 三、注疏体系 -->
+  <section id="annotation" class="section">
+    <h2 class="section-title">三、注疏体系</h2>
+    <p class="section-desc">《资治通鉴》最著名的注本是宋末元初胡三省的《资治通鉴音注》，与《史记》三家注并称史注双璧。此外还有朱熹《通鉴纲目》、王夫之《读通鉴论》等衍生著作。</p>
+    <div class="annotation-grid">
+      <div class="annotation-card">
+        <h3>资治通鉴音注</h3>
+        <div class="annotation-author">宋末元初 · 胡三省 撰，294卷</div>
+        <p>《资治通鉴》最权威注本，胡三省历时30年完成。注文包括注音、释词、训诂、典章制度考证、地理沿革、史事补充，对《通鉴》所载的官制、地理、礼仪、乐律、刑法等都有详细注释，是读《通鉴》不可或缺的参考书。</p>
+      </div>
+      <div class="annotation-card">
+        <h3>资治通鉴考异</h3>
+        <div class="annotation-author">北宋 · 司马光 撰，30卷</div>
+        <p>司马光修《通鉴》时，对不同史料记载的异同，逐条考证辨析，说明取舍理由，开创了中国史学史上的考异体裁，体现了严谨的考据精神。原与《通鉴》别行，胡三省作注时散入各文之下。</p>
+      </div>
+      <div class="annotation-card">
+        <h3>通鉴目录</h3>
+        <div class="annotation-author">北宋 · 司马光 撰，30卷</div>
+        <p>相当于《资治通鉴》的目录与索引，按年列举重要事件，相当于大事年表，便于检索。</p>
+      </div>
+      <div class="annotation-card">
+        <h3>读通鉴论</h3>
+        <div class="annotation-author">明末清初 · 王夫之 撰，30卷</div>
+        <p>王夫之阅读《资治通鉴》的史论著作，结合明末清初的历史背景，对历代治乱兴衰、君臣得失进行评论，是中国古代史论的代表作，体现了深刻的历史哲学思想。</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- 四、考异方法 -->
+  <section id="kaoyi" class="section">
+    <h2 class="section-title">四、《考异》方法论：跨书互证的史学方法</h2>
+    <p class="section-desc">
+      司马光创立的「考异法」是中国传统史学最具现代史学精神的方法之一，对同一史事参考多种史料，考辨异同，去伪存真，
+      是连接单本史书与整体通史本体的关键方法论——考异本身就是跨史书的史实比对过程。
+    </p>
+    <div class="kaoyi-box">
+      <h3>《资治通鉴考异》的核心方法</h3>
+      <ul class="kaoyi-list">
+        <li><strong>参取众书</strong>：参考正史、实录、杂史、笔记、文集、碑志等各类史料，不专据一书</li>
+        <li><strong>考辨异同</strong>：对同一事件的不同记载，逐一列出异同点</li>
+        <li><strong>取可信者</strong>：根据事理、时间、人物行迹、史料来源等判断真伪，选择最可信的记载</li>
+        <li><strong>存疑备考</strong>：两说皆有根据、无法判断时，并存其说，不武断取舍</li>
+        <li><strong>说明理由</strong>：每一条取舍都说明理由，不是凭空判断，体现了现代史学「证据优先」的精神</li>
+      </ul>
+    </div>
+    <p style="color: var(--ink-light); line-height: 2;">
+      《考异》引用的史料超过300种，其中很多原书今天已经失传，仅靠《考异》保存了部分佚文。
+      这种「证据→考证→结论」的方法，正是整体通史本体进行跨书史料对齐、异文校勘、史实去重的核心方法论基础。
+    </p>
+  </section>
+
+  <!-- 五、重大历史事件时间线 -->
+  <section id="events" class="section">
+    <h2 class="section-title">五、核心重大历史事件脉络</h2>
+    <p class="section-desc">《资治通鉴》以时间为序，完整记录了从战国到五代1362年间的重大历史事件，清晰展现了历史发展的因果链条。</p>
+    <div class="structure-timeline">
+      <div class="period-card" style="border-left-color: var(--vermilion);">
+        <div class="period-title" style="color: var(--vermilion);">三家分晋（前403年）</div>
+        <div class="period-desc">周威烈王正式承认韩、赵、魏三家为诸侯，战国时代开始，是《资治通鉴》全书的开端，体现了司马光「礼分」的政治思想。</div>
+      </div>
+      <div class="period-card" style="border-left-color: var(--vermilion);">
+        <div class="period-title" style="color: var(--vermilion);">秦统一六国（前221年）</div>
+        <div class="period-desc">秦王嬴政统一六国，建立中国历史上第一个大一统王朝，确立了中央集权制度。</div>
+      </div>
+      <div class="period-card" style="border-left-color: var(--vermilion);">
+        <div class="period-title" style="color: var(--vermilion);">楚汉战争与西汉建立（前206-前202年）</div>
+        <div class="period-desc">秦朝灭亡后，刘邦与项羽争夺天下，最终刘邦建立汉朝。</div>
+      </div>
+      <div class="period-card" style="border-left-color: var(--vermilion);">
+        <div class="period-title" style="color: var(--vermilion);">汉武帝盛世（前140-前87年）</div>
+        <div class="period-desc">汉武帝时期独尊儒术、北击匈奴、开疆拓土，西汉达到鼎盛。</div>
+      </div>
+      <div class="period-card" style="border-left-color: var(--vermilion);">
+        <div class="period-title" style="color: var(--vermilion);">三国鼎立（220-280年）</div>
+        <div class="period-desc">东汉灭亡后魏蜀吴三分天下，最终由西晋统一。</div>
+      </div>
+      <div class="period-card" style="border-left-color: var(--vermilion);">
+        <div class="period-title" style="color: var(--vermilion);">贞观之治与开元盛世（627-755年）</div>
+        <div class="period-desc">唐代唐太宗、武则天、唐玄宗时期，国力达到鼎盛，是中国古代盛世的典范，也是《通鉴》着墨最多的部分。</div>
+      </div>
+      <div class="period-card" style="border-left-color: var(--vermilion);">
+        <div class="period-title" style="color: var(--vermilion);">安史之乱（755-763年）</div>
+        <div class="period-desc">安禄山、史思明叛乱，是唐朝由盛转衰的转折点，对后世历史影响深远。</div>
+      </div>
+      <div class="period-card" style="border-left-color: var(--vermilion);">
+        <div class="period-title" style="color: var(--vermilion);">五代更迭（907-959年）</div>
+        <div class="period-desc">唐朝灭亡后中原地区先后建立后梁、后唐、后晋、后汉、后周五个政权，是《资治通鉴》记事的终点。</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 六、专属TBox本体类 -->
+  <section id="tbox" class="section">
+    <h2 class="section-title">六、《资治通鉴》专属TBox本体类</h2>
+    <p class="section-desc">在全局历史本体类的基础上，针对编年体特点与《资治通鉴》的特性，定义以下专属本体类：</p>
+    <table class="predicate-table">
+      <thead>
+        <tr>
+          <th>类名</th>
+          <th>中文名</th>
+          <th>说明</th>
+          <th>层级</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><span class="predicate-name">ZizhiTongjian</span></td>
+          <td>资治通鉴文本</td>
+          <td>《资治通鉴》全书实体，包含294卷</td>
+          <td>L4 文献载体层</td>
+        </tr>
+        <tr>
+          <td><span class="predicate-name">Ji</span></td>
+          <td>纪（朝代单元）</td>
+          <td>对应十六纪，如周纪、汉纪、唐纪，按朝代划分的大单元</td>
+          <td>L4 文献载体层</td>
+        </tr>
+        <tr>
+          <td><span class="predicate-name">Juan</span></td>
+          <td>卷</td>
+          <td>基本编纂单元，共294卷，每卷对应特定的年份范围</td>
+          <td>L4 文献载体层</td>
+        </tr>
+        <tr>
+          <td><span class="predicate-name">AnnualEntry</span></td>
+          <td>年度条目</td>
+          <td>编年体最小单位，对应某一年的所有史事记录</td>
+          <td>L4 文献载体层</td>
+        </tr>
+        <tr>
+          <td><span class="predicate-name">HuSanxingZhu</span></td>
+          <td>胡三省音注</td>
+          <td>胡三省的注文，附于对应正文之下</td>
+          <td>L4 文献载体层</td>
+        </tr>
+        <tr>
+          <td><span class="predicate-name">Kaoyi</span></td>
+          <td>考异条目</td>
+          <td>司马光的史料考证条目，比对不同史料异同，说明取舍理由</td>
+          <td>L4 文献载体层</td>
+        </tr>
+        <tr>
+          <td><span class="predicate-name">ChronicleEvent</span></td>
+          <td>编年事件</td>
+          <td>按时间顺序记录的历史事件，带有精确时间戳</td>
+          <td>L6 记忆书写层</td>
+        </tr>
+        <tr>
+          <td><span class="predicate-name">SourceComparison</span></td>
+          <td>史料比对</td>
+          <td>同一史事在不同史书中的不同记载，对应《考异》内容</td>
+          <td>L2 史学范畴层</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <!-- 七、核心关系谓词 -->
+  <section id="predicates" class="section">
+    <h2 class="section-title">七、《资治通鉴》专属核心关系谓词</h2>
+    <p class="section-desc">在全局关系谓词基础上，针对编年体和考异特点补充以下专属关系：</p>
+    <table class="predicate-table">
+      <thead>
+        <tr>
+          <th>谓词</th>
+          <th>域（主体）</th>
+          <th>范围（客体）</th>
+          <th>说明</th>
+          <th>特性</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><span class="predicate-name">records_event</span></td>
+          <td><span class="predicate-domain">AnnualEntry</span></td>
+          <td><span class="predicate-range">HistoricalEvent</span></td>
+          <td>该年度条目记录了某历史事件</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><span class="predicate-name">dated_in</span></td>
+          <td><span class="predicate-domain">AnnualEntry</span></td>
+          <td><span class="predicate-range">ReignYear</span></td>
+          <td>该条目对应具体帝王年号年份</td>
+          <td><span class="sym-tag">函数性</span></td>
+        </tr>
+        <tr>
+          <td><span class="predicate-name">annotated_by</span></td>
+          <td><span class="predicate-domain">TextSegment</span></td>
+          <td><span class="predicate-range">HuSanxingZhu</span></td>
+          <td>正文有胡三省注</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><span class="predicate-name">has_kaoyi</span></td>
+          <td><span class="predicate-domain">HistoricalEvent</span></td>
+          <td><span class="predicate-range">Kaoyi</span></td>
+          <td>该事件有司马光考异辨析</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><span class="predicate-name">compares_source</span></td>
+          <td><span class="predicate-domain">Kaoyi</span></td>
+          <td><span class="predicate-range">Text</span></td>
+          <td>考异过程中比对了某部其他史书</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><span class="predicate-name">corresponds_to_jizhuan</span></td>
+          <td><span class="predicate-domain">ChronicleEvent</span></td>
+          <td><span class="predicate-range">Liezhuan/Benji/Shu</span></td>
+          <td>编年事件对应纪传体史书中的某篇章</td>
+          <td><span class="sym-tag">对称性</span></td>
+        </tr>
+        <tr>
+          <td><span class="predicate-name">precedes</span></td>
+          <td><span class="predicate-domain">HistoricalEvent</span></td>
+          <td><span class="predicate-range">HistoricalEvent</span></td>
+          <td>时间上先于某事件</td>
+          <td><span class="sym-tag">传递性</span><span class="sym-tag">反对称</span></td>
+        </tr>
+        <tr>
+          <td><span class="predicate-name">causes</span></td>
+          <td><span class="predicate-domain">HistoricalEvent</span></td>
+          <td><span class="predicate-range">HistoricalEvent</span></td>
+          <td>因果关系：是某事件的原因</td>
+          <td><span class="sym-tag">传递性</span><span class="sym-tag">反对称</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <!-- 八、近现代学者研究 -->
+  <section id="research" class="section">
+    <h2 class="section-title">八、近现代学者对《资治通鉴》的研究</h2>
+    
+    <div class="scholar-research">
+      <h3>陈垣《通鉴胡注表微》</h3>
+      <p>
+        陈垣在抗日战争时期撰写《通鉴胡注表微》，系统发掘胡三省注中的爱国思想与史学方法，将史注研究提升到学术思想史的高度，
+        是《资治通鉴》胡注研究的里程碑式著作，也是陈垣「有意义之史学」的代表作。
+      </p>
+    </div>
+    
+    <div class="scholar-research">
+      <h3>司马光与《资治通鉴》研究</h3>
+      <p>
+        现代史学界普遍认为，《资治通鉴》不仅是一部史书，更是一部政治哲学著作。其编纂方法（长编法、考异法）体现了严谨的实证精神，
+        其叙事艺术达到了传统史学的高峰，其「鉴于往事，有资于治道」的史学目的论，对后世史学产生了深远影响。
+      </p>
+    </div>
+    
+    <div class="scholar-research">
+      <h3>柴德赓《资治通鉴介绍》</h3>
+      <p>
+        柴德赓系统介绍了《资治通鉴》的编纂过程、体例特点、史料价值、阅读方法，是当代通鉴学入门的经典读物。
+      </p>
+    </div>
+    
+    <div class="scholar-research">
+      <h3>张煦侯《通鉴学》</h3>
+      <p>
+        张煦侯《通鉴学》系统梳理了《资治通鉴》的编纂过程、体例、史料、书法、胡注、版本，是20世纪通鉴学的总结性著作。
+      </p>
+    </div>
+  </section>
+</div>
+
+<!-- 页脚 -->
+<footer>
+  <div class="footer-links">
+    <a href="../index.html">首页</a>
+    <a href="ontology.html">本体总纲</a>
+    <a href="https://github.com/yejinlei/history" target="_blank">GitHub</a>
+  </div>
+  <div class="copyright">
+    中国历史本体论项目 © 2025 | 基于语义网技术构建 · 传承中华史学传统
+  </div>
+</footer>
+
+</body>
+</html>
