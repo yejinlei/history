@@ -4,259 +4,153 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>中国历史本体论 · History Ontology Project</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700;900&family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
 <style>
-  :root {
-    --ink: #2c1810;
-    --ink-light: #5a3e2b;
-    --paper: #f5f0e6;
-    --paper-dark: #e8dfd0;
-    --vermilion: #9c2c1a;
-    --vermilion-light: #c4553f;
-    --gold: #b8860b;
-    --jade: #2f6b5a;
-    --indigo: #3b4a6b;
-  }
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  body {
-    font-family: "Noto Serif SC", "Source Han Serif CN", "Songti SC", "SimSun", serif;
-    background: var(--paper);
-    color: var(--ink);
-    line-height: 1.8;
-  }
-  nav {
-    background: linear-gradient(135deg, var(--ink) 0%, #4a2f1f 100%);
-    color: var(--paper);
-    padding: 1.2rem 2rem;
-    border-bottom: 3px solid var(--vermilion);
-  }
-  .nav-container {
-    max-width: 1200px;
-    margin: 0 auto;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-  .logo { font-size: 1.5rem; font-weight: bold; letter-spacing: 0.2em; }
-  .logo span { color: var(--vermilion-light); }
-  .nav-links { display: flex; gap: 2rem; list-style: none; }
-  .nav-links a { color: var(--paper); text-decoration: none; transition: color 0.3s; }
-  .nav-links a:hover { color: var(--gold); }
+:root{--ink:#1a1a1a;--ink-light:#333;--ink-soft:#555;--paper:#faf8f5;--paper-2:#f3efe8;--zhu:#8b0000;--zhu-2:#a52a2a;--zhu-light:#c45a4e;--gold:#b8860b;--jade:#2e8b57;--indigo:#4682b4;--line:#d4cfc5;--shadow:0 2px 12px rgba(0,0,0,.06)}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{font-family:'Noto Sans SC',sans-serif;background:var(--paper);color:var(--ink);line-height:1.8}
+h1,h2,h3,h4{font-family:'Noto Serif SC',serif;font-weight:700}
+a{text-decoration:none;color:inherit}
 
-  .hero {
-    min-height: 80vh;
-    background: linear-gradient(rgba(44, 24, 16, 0.75), rgba(44, 24, 16, 0.9)),
-                url('http://cdn.yun.sooce.cn/6/54179/jpg/173742729468901ce71f214485a0a7070e81b45d3f660.jpg?version=1737427297') center/cover;
-    color: var(--paper);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    padding: 2rem;
-    position: relative;
-  }
-  .hero-content { max-width: 800px; }
-  .hero h1 {
-    font-size: 4rem;
-    letter-spacing: 0.5em;
-    margin-bottom: 1.5rem;
-    text-shadow: 3px 3px 6px rgba(0,0,0,0.6);
-  }
-  .hero .subtitle {
-    font-size: 1.5rem;
-    opacity: 0.95;
-    letter-spacing: 0.2em;
-    margin-bottom: 2rem;
-  }
-  .hero-motto {
-    font-size: 1.2rem;
-    opacity: 0.85;
-    letter-spacing: 0.15em;
-    margin-bottom: 3rem;
-    font-style: italic;
-  }
-  .hero-buttons { display: flex; gap: 1.5rem; justify-content: center; flex-wrap: wrap; }
-  .btn {
-    padding: 1rem 2.5rem;
-    border-radius: 2px;
-    text-decoration: none;
-    font-size: 1rem;
-    letter-spacing: 0.1em;
-    transition: all 0.3s;
-    border: 2px solid transparent;
-  }
-  .btn-primary {
-    background: var(--vermilion);
-    color: white;
-  }
-  .btn-primary:hover {
-    background: transparent;
-    border-color: var(--vermilion-light);
-    color: var(--vermilion-light);
-  }
-  .btn-outline {
-    background: transparent;
-    color: var(--paper);
-    border-color: var(--paper);
-  }
-  .btn-outline:hover {
-    background: var(--paper);
-    color: var(--ink);
-  }
+/* 导航栏 */
+nav{position:fixed;top:0;left:0;right:0;z-index:100;background:rgba(250,248,245,.95);backdrop-filter:blur(10px);border-bottom:1px solid var(--line);padding:0 2rem}
+.nav-inner{max-width:1280px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;height:64px}
+.logo{font-family:'Noto Serif SC',serif;font-size:1.3rem;font-weight:900;color:var(--zhu);display:flex;align-items:center;gap:.6rem}
+.logo::before{content:"";width:4px;height:22px;background:var(--zhu);border-radius:2px}
+.nav-menu{display:flex;gap:.2rem;list-style:none}
+.nav-item{position:relative}
+.nav-item > a{display:block;padding:0 1rem;line-height:64px;font-weight:500;font-size:.95rem;transition:color .2s}
+.nav-item > a:hover,.nav-item > a.active{color:var(--zhu)}
+.nav-item > a.active{box-shadow:inset 0 -2px 0 var(--zhu)}
+.dropdown{position:absolute;top:100%;left:0;min-width:200px;background:#fff;border:1px solid var(--line);border-radius:8px;box-shadow:var(--shadow);padding:.5rem 0;opacity:0;visibility:hidden;transform:translateY(8px);transition:all .25s;list-style:none}
+.nav-item:hover .dropdown{opacity:1;visibility:visible;transform:translateY(0)}
+.dropdown li a{display:block;padding:.65rem 1.2rem;font-size:.9rem;color:var(--ink-light);transition:all .2s}
+.dropdown li a:hover{background:var(--paper-2);color:var(--zhu);padding-left:1.5rem}
+.dropdown .divider{height:1px;background:var(--line);margin:.4rem 0}
+.dropdown .coming-soon{padding:.65rem 1.2rem;font-size:.85rem;color:#aaa;font-style:italic}
+.dropdown .launched{color:var(--zhu);font-weight:500}
 
-  .container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 4rem 2rem;
-  }
-  .section-title {
-    font-size: 2rem;
-    color: var(--vermilion);
-    text-align: center;
-    margin-bottom: 1rem;
-    letter-spacing: 0.2em;
-  }
-  .section-subtitle {
-    text-align: center;
-    color: var(--ink-light);
-    margin-bottom: 3rem;
-    font-size: 1.1rem;
-  }
+/* Hero */
+.hero{margin-top:64px;min-height:85vh;background:linear-gradient(rgba(26,26,26,0.75),rgba(26,26,26,0.9)),url('http://cdn.yun.sooce.cn/6/54179/jpg/173742729468901ce71f214485a0a7070e81b45d3f660.jpg?version=1737427297') center/cover;color:var(--paper);display:flex;align-items:center;justify-content:center;text-align:center;padding:2rem;position:relative}
+.hero-content{max-width:900px;position:relative}
+.hero h1{font-size:4.5rem;letter-spacing:0.3em;margin-bottom:1.5rem;text-shadow:3px 3px 8px rgba(0,0,0,.7);font-family:'Noto Serif SC',serif}
+.hero .subtitle{font-size:1.5rem;opacity:.95;letter-spacing:.2em;margin-bottom:2rem}
+.hero .motto{font-size:1.2rem;opacity:.8;letter-spacing:.15em;margin-bottom:3rem;font-style:italic;font-family:'Noto Serif SC',serif}
+.hero-buttons{display:flex;gap:1.5rem;justify-content:center;flex-wrap:wrap}
+.btn{padding:1rem 2.5rem;border-radius:2px;text-decoration:none;font-size:1rem;letter-spacing:.1em;transition:all .3s;border:2px solid transparent;font-weight:500}
+.btn-primary{background:var(--zhu);color:white}
+.btn-primary:hover{background:transparent;border-color:var(--zhu-light);color:var(--zhu-light)}
+.btn-outline{background:transparent;color:var(--paper);border-color:var(--paper)}
+.btn-outline:hover{background:var(--paper);color:var(--ink)}
 
-  /* 特性卡片 */
-  .features {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-    gap: 2rem;
-    margin-bottom: 4rem;
-  }
-  .feature-card {
-    background: white;
-    padding: 2rem;
-    border-top: 4px solid var(--vermilion);
-    box-shadow: 0 3px 15px rgba(0,0,0,0.08);
-    transition: transform 0.3s;
-    text-align: center;
-  }
-  .feature-card:hover { transform: translateY(-5px); }
-  .feature-icon {
-    font-size: 3rem;
-    margin-bottom: 1rem;
-    color: var(--vermilion);
-  }
-  .feature-card:nth-child(2) { border-color: var(--gold); }
-  .feature-card:nth-child(2) .feature-icon { color: var(--gold); }
-  .feature-card:nth-child(3) { border-color: var(--jade); }
-  .feature-card:nth-child(3) .feature-icon { color: var(--jade); }
-  .feature-card:nth-child(4) { border-color: var(--indigo); }
-  .feature-card:nth-child(4) .feature-icon { color: var(--indigo); }
-  .feature-title {
-    font-size: 1.3rem;
-    font-weight: bold;
-    margin-bottom: 0.8rem;
-    color: var(--ink);
-  }
-  .feature-desc { color: var(--ink-light); line-height: 1.8; }
+.container{max-width:1200px;margin:0 auto;padding:4rem 2rem}
+.section-title{font-size:2rem;color:var(--zhu);text-align:center;margin-bottom:1rem;letter-spacing:.2em}
+.section-subtitle{text-align:center;color:var(--ink-soft);margin-bottom:3rem;font-size:1.1rem}
 
-  /* 数据统计 */
-  .stats {
-    background: linear-gradient(135deg, var(--ink) 0%, #4a2f1f 100%);
-    color: var(--paper);
-    padding: 4rem 2rem;
-    text-align: center;
-    border-top: 5px double var(--vermilion);
-    border-bottom: 5px double var(--vermilion);
-  }
-  .stats-grid {
-    max-width: 1200px;
-    margin: 0 auto;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 2rem;
-  }
-  .stat-number {
-    font-size: 3rem;
-    font-weight: bold;
-    color: var(--gold);
-    margin-bottom: 0.5rem;
-  }
-  .stat-label { font-size: 1rem; opacity: 0.9; letter-spacing: 0.1em; }
+/* 特性卡片 */
+.features{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:2rem;margin-bottom:4rem}
+.feature-card{background:white;padding:2rem;border-top:4px solid var(--zhu);box-shadow:var(--shadow);transition:transform .3s;text-align:center;border-radius:4px}
+.feature-card:hover{transform:translateY(-5px)}
+.feature-icon{font-size:3rem;margin-bottom:1rem;color:var(--zhu)}
+.feature-card:nth-child(2){border-color:var(--gold)}
+.feature-card:nth-child(2) .feature-icon{color:var(--gold)}
+.feature-card:nth-child(3){border-color:var(--jade)}
+.feature-card:nth-child(3) .feature-icon{color:var(--jade)}
+.feature-card:nth-child(4){border-color:var(--indigo)}
+.feature-card:nth-child(4) .feature-icon{color:var(--indigo)}
+.feature-title{font-size:1.3rem;font-weight:bold;margin-bottom:.8rem;color:var(--ink)}
+.feature-desc{color:var(--ink-soft);line-height:1.8}
 
-  /* 内容板块 */
-  .modules {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-    gap: 2rem;
-  }
-  .module-card {
-    background: white;
-    border-radius: 4px;
-    overflow: hidden;
-    box-shadow: 0 3px 12px rgba(0,0,0,0.1);
-    transition: all 0.3s;
-    text-decoration: none;
-    color: inherit;
-    display: block;
-  }
-  .module-card:hover { transform: translateY(-5px); box-shadow: 0 8px 25px rgba(0,0,0,0.15); }
-  .module-header {
-    padding: 1.5rem;
-    color: white;
-    font-size: 1.4rem;
-    font-weight: bold;
-    letter-spacing: 0.1em;
-  }
-  .module-1 .module-header { background: linear-gradient(135deg, var(--vermilion), var(--vermilion-light)); }
-  .module-2 .module-header { background: linear-gradient(135deg, var(--jade), #3f8b75); }
-  .module-3 .module-header { background: linear-gradient(135deg, var(--indigo), #556a95); }
-  .module-4 .module-header { background: linear-gradient(135deg, var(--gold), #d4a020); }
-  .module-body { padding: 1.5rem; color: var(--ink-light); line-height: 1.8; }
-  .module-tags { margin-top: 1rem; display: flex; flex-wrap: wrap; gap: 0.5rem; }
-  .module-tag {
-    padding: 0.2rem 0.7rem;
-    background: var(--paper-dark);
-    font-size: 0.8rem;
-    border-radius: 3px;
-    color: var(--ink-light);
-  }
+/* 数据统计 */
+.stats{background:linear-gradient(135deg,var(--ink) 0%,#333 100%);color:var(--paper);padding:4rem 2rem;text-align:center;border-top:5px double var(--zhu);border-bottom:5px double var(--zhu)}
+.stats-grid{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:2rem}
+.stat-number{font-size:3rem;font-weight:bold;color:var(--gold);margin-bottom:.5rem;font-family:'Noto Serif SC',serif}
+.stat-label{font-size:1rem;opacity:.9;letter-spacing:.1em}
 
-  footer {
-    background: var(--ink);
-    color: var(--paper);
-    padding: 3rem 2rem;
-    text-align: center;
-    border-top: 5px double var(--vermilion);
-  }
-  .footer-links { display: flex; justify-content: center; gap: 2rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
-  .footer-links a { color: var(--gold); text-decoration: none; }
-  .copyright { opacity: 0.7; font-size: 0.9rem; line-height: 2; }
+/* 内容板块 */
+.modules{display:grid;grid-template-columns:repeat(auto-fit,minmax(350px,1fr));gap:2rem}
+.module-card{background:white;border-radius:8px;overflow:hidden;box-shadow:var(--shadow);transition:all .3s;text-decoration:none;color:inherit;display:block}
+.module-card:hover{transform:translateY(-5px);box-shadow:0 8px 25px rgba(139,0,0,.12)}
+.module-header{padding:1.5rem;color:white;font-size:1.4rem;font-weight:bold;letter-spacing:.1em}
+.module-1 .module-header{background:linear-gradient(135deg,var(--zhu),var(--zhu-light))}
+.module-2 .module-header{background:linear-gradient(135deg,var(--jade),#3f8b75)}
+.module-3 .module-header{background:linear-gradient(135deg,var(--indigo),#5a94c9)}
+.module-4 .module-header{background:linear-gradient(135deg,var(--gold),#d4a020)}
+.module-body{padding:1.5rem;color:var(--ink-light);line-height:1.8}
+.module-tags{margin-top:1rem;display:flex;flex-wrap:wrap;gap:.5rem}
+.module-tag{padding:.2rem .7rem;background:var(--paper-2);font-size:.8rem;border-radius:3px;color:var(--ink-light)}
+.module-status{display:inline-block;margin-top:.8rem;padding:.2rem .6rem;background:rgba(139,0,0,.08);color:var(--zhu);border-radius:4px;font-size:.8rem;font-weight:500}
 
-  @media (max-width: 768px) {
-    .hero h1 { font-size: 2.5rem; letter-spacing: 0.2em; }
-    .nav-links { display: none; }
-  }
+footer{background:var(--ink);color:#aaa;padding:3rem 2rem;text-align:center;font-size:.9rem}
+.footer-links{display:flex;justify-content:center;gap:2rem;margin-bottom:1.5rem;flex-wrap:wrap}
+.footer-links a{color:var(--gold);text-decoration:none;transition:color .2s}
+.footer-links a:hover{color:var(--zhu-light)}
+.copyright{opacity:.7;font-size:.9rem;line-height:2}
+
+@media(max-width:900px){
+.hero h1{font-size:2.5rem;letter-spacing:.15em}
+.nav-menu{gap:0}
+.nav-item > a{padding:0 .6rem;font-size:.88rem}
+.modules{grid-template-columns:1fr}
+}
 </style>
 </head>
 <body>
 
+<!-- 导航栏 -->
 <nav>
-  <div class="nav-container">
-    <div class="logo">中<span>国</span>历<span>史</span>本<span>体</span>论</div>
-    <ul class="nav-links">
-      <li><a href="pages/ontology.html">本体总纲</a></li>
-      <li><a href="pages/ontology.html#twentyfour">二十四史</a></li>
-      <li><a href="pages/ontology.html#tongshi">通史体系</a></li>
-      <li><a href="https://github.com/yejinlei/history" target="_blank">GitHub</a></li>
-    </ul>
-  </div>
+<div class="nav-inner">
+  <a href="index.html" class="logo">中国历史本体</a>
+  <ul class="nav-menu">
+    <li class="nav-item"><a href="index.html" class="active">首页</a></li>
+    <li class="nav-item"><a href="pages/ontology.html">本体总纲</a></li>
+    <li class="nav-item">
+      <a href="javascript:;">通史 ▾</a>
+      <ul class="dropdown">
+        <li><a href="pages/ontology.html#tongshi">通史概览（建设中）</a></li>
+        <li><a href="#lvzhu">吕思勉《中国通史》（建设中）</a></li>
+        <li><a href="#guoshi">钱穆《国史大纲》（建设中）</a></li>
+        <li><a href="#zizhi">《资治通鉴》（建设中）</a></li>
+        <li class="divider"></li>
+        <li><span class="coming-soon">更多通史持续收录中…</span></li>
+      </ul>
+    </li>
+    <li class="nav-item">
+      <a href="javascript:;">二十四史 ▾</a>
+      <ul class="dropdown">
+        <li><a href="pages/shiji.html" class="launched">《史记》 【已上线】</a></li>
+        <li><a href="#hanshu">《汉书》（建设中）</a></li>
+        <li><a href="#houshu">《后汉书》（建设中）</a></li>
+        <li><a href="#sanguozhi">《三国志》（建设中）</a></li>
+        <li class="divider"></li>
+        <li><span class="coming-soon">剩余20部史书逐步建设…</span></li>
+      </ul>
+    </li>
+    <li class="nav-item">
+      <a href="javascript:;">专题研究 ▾</a>
+      <ul class="dropdown">
+        <li><a href="pages/ontology.html#scholars">现代史学四大家（建设中）</a></li>
+        <li><a href="#zhidu">历代制度史（建设中）</a></li>
+        <li><a href="#dili">历史地理（建设中）</a></li>
+        <li class="divider"></li>
+        <li><span class="coming-soon">更多专题开放建设…</span></li>
+      </ul>
+    </li>
+    <li class="nav-item"><a href="https://github.com/yejinlei/history" target="_blank">GitHub</a></li>
+  </ul>
+</div>
 </nav>
 
 <section class="hero">
   <div class="hero-content">
     <h1>以史为鉴</h1>
     <div class="subtitle">中国历史本体论工程</div>
-    <div class="hero-motto">"究天人之际，通古今之变，成一家之言"</div>
+    <div class="motto">"究天人之际，通古今之变，成一家之言"</div>
     <div class="hero-buttons">
       <a href="pages/ontology.html" class="btn btn-primary">进入本体总纲</a>
+      <a href="pages/shiji.html" class="btn btn-primary" style="background:var(--gold);border-color:var(--gold)">浏览《史记》本体</a>
       <a href="https://github.com/yejinlei/history" target="_blank" class="btn btn-outline">查看源码仓库</a>
     </div>
   </div>
@@ -301,8 +195,8 @@
       <div class="stat-label">卷次总数</div>
     </div>
     <div>
-      <div class="stat-number">4000+</div>
-      <div class="stat-label">万年史事跨度</div>
+      <div class="stat-number">5000+</div>
+      <div class="stat-label">年史事跨度</div>
     </div>
     <div>
       <div class="stat-number">7</div>
@@ -329,17 +223,19 @@
           <span class="module-tag">关系谓词</span>
           <span class="module-tag">TBox/ABox</span>
         </div>
+        <span class="module-status">✅ M1骨架已完成</span>
       </div>
     </a>
-    <a href="pages/ontology.html#twentyfour" class="module-card module-2">
-      <div class="module-header">▸ 二十四史本体</div>
+    <a href="pages/shiji.html" class="module-card module-2">
+      <div class="module-header">▸ 《史记》本体</div>
       <div class="module-body">
-        从《史记》到《明史》24部正史的单本本体论，每部独立实例，包含作者、卷数、断限、体裁、注本版本等完整元数据。
+        第一部深度构建的正史本体，包含五体结构、三家注注疏体系、核心人物分类、重大事件脉络、专属类与关系设计、近现代学者研究。
         <div class="module-tags">
-          <span class="module-tag">纪传体</span>
-          <span class="module-tag">正史</span>
-          <span class="module-tag">断代史</span>
+          <span class="module-tag">司马迁</span>
+          <span class="module-tag">纪传体通史</span>
+          <span class="module-tag">三家注</span>
         </div>
+        <span class="module-status">✅ 已上线</span>
       </div>
     </a>
     <a href="pages/ontology.html#tongshi" class="module-card module-3">
@@ -351,6 +247,7 @@
           <span class="module-tag">典志体</span>
           <span class="module-tag">通鉴学</span>
         </div>
+        <span class="module-status">🚧 规划建设中</span>
       </div>
     </a>
     <a href="pages/ontology.html#scholars" class="module-card module-4">
@@ -363,6 +260,7 @@
           <span class="module-tag">陈寅恪</span>
           <span class="module-tag">钱穆</span>
         </div>
+        <span class="module-status">🚧 规划建设中</span>
       </div>
     </a>
   </div>
@@ -372,14 +270,12 @@
   <div class="footer-links">
     <a href="https://github.com/yejinlei/history" target="_blank">GitHub 仓库</a>
     <a href="pages/ontology.html">本体总纲</a>
-    <a href="pages/ontology.html#twentyfour">二十四史</a>
-    <a href="pages/ontology.html#tongshi">通史体系</a>
-    <a href="pages/ontology.html#scholars">四大家</a>
+    <a href="pages/shiji.html">《史记》本体</a>
   </div>
   <div class="copyright">
     中国历史本体论工程 · History Ontology Project<br>
     鉴往知来 · 稽古揆今 · 究天人之际，通古今之变<br>
-    <span style="margin-top:0.5rem;display:inline-block;opacity:0.6;">© 2026 yejinlei.github.io/history</span>
+    <span style="margin-top:.5rem;display:inline-block;opacity:.6;">© 2026 yejinlei.github.io/history</span>
   </div>
 </footer>
 
