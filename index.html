@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>中国历史本体论 · History Ontology Project</title>
+<style>
+  :root {
+    --ink: #2c1810;
+    --ink-light: #5a3e2b;
+    --paper: #f5f0e6;
+    --paper-dark: #e8dfd0;
+    --vermilion: #9c2c1a;
+    --vermilion-light: #c4553f;
+    --gold: #b8860b;
+    --jade: #2f6b5a;
+    --indigo: #3b4a6b;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: "Noto Serif SC", "Source Han Serif CN", "Songti SC", "SimSun", serif;
+    background: var(--paper);
+    color: var(--ink);
+    line-height: 1.8;
+  }
+  nav {
+    background: linear-gradient(135deg, var(--ink) 0%, #4a2f1f 100%);
+    color: var(--paper);
+    padding: 1.2rem 2rem;
+    border-bottom: 3px solid var(--vermilion);
+  }
+  .nav-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .logo { font-size: 1.5rem; font-weight: bold; letter-spacing: 0.2em; }
+  .logo span { color: var(--vermilion-light); }
+  .nav-links { display: flex; gap: 2rem; list-style: none; }
+  .nav-links a { color: var(--paper); text-decoration: none; transition: color 0.3s; }
+  .nav-links a:hover { color: var(--gold); }
+
+  .hero {
+    min-height: 80vh;
+    background: linear-gradient(rgba(44, 24, 16, 0.75), rgba(44, 24, 16, 0.9)),
+                url('http://cdn.yun.sooce.cn/6/54179/jpg/173742729468901ce71f214485a0a7070e81b45d3f660.jpg?version=1737427297') center/cover;
+    color: var(--paper);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 2rem;
+    position: relative;
+  }
+  .hero-content { max-width: 800px; }
+  .hero h1 {
+    font-size: 4rem;
+    letter-spacing: 0.5em;
+    margin-bottom: 1.5rem;
+    text-shadow: 3px 3px 6px rgba(0,0,0,0.6);
+  }
+  .hero .subtitle {
+    font-size: 1.5rem;
+    opacity: 0.95;
+    letter-spacing: 0.2em;
+    margin-bottom: 2rem;
+  }
+  .hero-motto {
+    font-size: 1.2rem;
+    opacity: 0.85;
+    letter-spacing: 0.15em;
+    margin-bottom: 3rem;
+    font-style: italic;
+  }
+  .hero-buttons { display: flex; gap: 1.5rem; justify-content: center; flex-wrap: wrap; }
+  .btn {
+    padding: 1rem 2.5rem;
+    border-radius: 2px;
+    text-decoration: none;
+    font-size: 1rem;
+    letter-spacing: 0.1em;
+    transition: all 0.3s;
+    border: 2px solid transparent;
+  }
+  .btn-primary {
+    background: var(--vermilion);
+    color: white;
+  }
+  .btn-primary:hover {
+    background: transparent;
+    border-color: var(--vermilion-light);
+    color: var(--vermilion-light);
+  }
+  .btn-outline {
+    background: transparent;
+    color: var(--paper);
+    border-color: var(--paper);
+  }
+  .btn-outline:hover {
+    background: var(--paper);
+    color: var(--ink);
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 4rem 2rem;
+  }
+  .section-title {
+    font-size: 2rem;
+    color: var(--vermilion);
+    text-align: center;
+    margin-bottom: 1rem;
+    letter-spacing: 0.2em;
+  }
+  .section-subtitle {
+    text-align: center;
+    color: var(--ink-light);
+    margin-bottom: 3rem;
+    font-size: 1.1rem;
+  }
+
+  /* 特性卡片 */
+  .features {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 2rem;
+    margin-bottom: 4rem;
+  }
+  .feature-card {
+    background: white;
+    padding: 2rem;
+    border-top: 4px solid var(--vermilion);
+    box-shadow: 0 3px 15px rgba(0,0,0,0.08);
+    transition: transform 0.3s;
+    text-align: center;
+  }
+  .feature-card:hover { transform: translateY(-5px); }
+  .feature-icon {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    color: var(--vermilion);
+  }
+  .feature-card:nth-child(2) { border-color: var(--gold); }
+  .feature-card:nth-child(2) .feature-icon { color: var(--gold); }
+  .feature-card:nth-child(3) { border-color: var(--jade); }
+  .feature-card:nth-child(3) .feature-icon { color: var(--jade); }
+  .feature-card:nth-child(4) { border-color: var(--indigo); }
+  .feature-card:nth-child(4) .feature-icon { color: var(--indigo); }
+  .feature-title {
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-bottom: 0.8rem;
+    color: var(--ink);
+  }
+  .feature-desc { color: var(--ink-light); line-height: 1.8; }
+
+  /* 数据统计 */
+  .stats {
+    background: linear-gradient(135deg, var(--ink) 0%, #4a2f1f 100%);
+    color: var(--paper);
+    padding: 4rem 2rem;
+    text-align: center;
+    border-top: 5px double var(--vermilion);
+    border-bottom: 5px double var(--vermilion);
+  }
+  .stats-grid {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+  }
+  .stat-number {
+    font-size: 3rem;
+    font-weight: bold;
+    color: var(--gold);
+    margin-bottom: 0.5rem;
+  }
+  .stat-label { font-size: 1rem; opacity: 0.9; letter-spacing: 0.1em; }
+
+  /* 内容板块 */
+  .modules {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 2rem;
+  }
+  .module-card {
+    background: white;
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: 0 3px 12px rgba(0,0,0,0.1);
+    transition: all 0.3s;
+    text-decoration: none;
+    color: inherit;
+    display: block;
+  }
+  .module-card:hover { transform: translateY(-5px); box-shadow: 0 8px 25px rgba(0,0,0,0.15); }
+  .module-header {
+    padding: 1.5rem;
+    color: white;
+    font-size: 1.4rem;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+  }
+  .module-1 .module-header { background: linear-gradient(135deg, var(--vermilion), var(--vermilion-light)); }
+  .module-2 .module-header { background: linear-gradient(135deg, var(--jade), #3f8b75); }
+  .module-3 .module-header { background: linear-gradient(135deg, var(--indigo), #556a95); }
+  .module-4 .module-header { background: linear-gradient(135deg, var(--gold), #d4a020); }
+  .module-body { padding: 1.5rem; color: var(--ink-light); line-height: 1.8; }
+  .module-tags { margin-top: 1rem; display: flex; flex-wrap: wrap; gap: 0.5rem; }
+  .module-tag {
+    padding: 0.2rem 0.7rem;
+    background: var(--paper-dark);
+    font-size: 0.8rem;
+    border-radius: 3px;
+    color: var(--ink-light);
+  }
+
+  footer {
+    background: var(--ink);
+    color: var(--paper);
+    padding: 3rem 2rem;
+    text-align: center;
+    border-top: 5px double var(--vermilion);
+  }
+  .footer-links { display: flex; justify-content: center; gap: 2rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
+  .footer-links a { color: var(--gold); text-decoration: none; }
+  .copyright { opacity: 0.7; font-size: 0.9rem; line-height: 2; }
+
+  @media (max-width: 768px) {
+    .hero h1 { font-size: 2.5rem; letter-spacing: 0.2em; }
+    .nav-links { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-container">
+    <div class="logo">中<span>国</span>历<span>史</span>本<span>体</span>论</div>
+    <ul class="nav-links">
+      <li><a href="pages/ontology.html">本体总纲</a></li>
+      <li><a href="pages/ontology.html#twentyfour">二十四史</a></li>
+      <li><a href="pages/ontology.html#tongshi">通史体系</a></li>
+      <li><a href="https://github.com/yejinlei/history" target="_blank">GitHub</a></li>
+    </ul>
+  </div>
+</nav>
+
+<section class="hero">
+  <div class="hero-content">
+    <h1>以史为鉴</h1>
+    <div class="subtitle">中国历史本体论工程</div>
+    <div class="hero-motto">"究天人之际，通古今之变，成一家之言"</div>
+    <div class="hero-buttons">
+      <a href="pages/ontology.html" class="btn btn-primary">进入本体总纲</a>
+      <a href="https://github.com/yejinlei/history" target="_blank" class="btn btn-outline">查看源码仓库</a>
+    </div>
+  </div>
+</section>
+
+<div class="container">
+  <h2 class="section-title">项目简介</h2>
+  <div class="section-subtitle">以本体论方法重构中国历史知识体系</div>
+
+  <div class="features">
+    <div class="feature-card">
+      <div class="feature-icon">📜</div>
+      <div class="feature-title">四轴七层架构</div>
+      <div class="feature-desc">体裁分类、史实内容、人物主体、时序缘起四轴正交，从元模型到文化记忆七层抽象，兼容传统史学与现代研究范式。</div>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">📚</div>
+      <div class="feature-title">二十四史全本接入</div>
+      <div class="feature-desc">覆盖《史记》到《明史》3229卷，每部均作为独立本体实例，挂接注疏、版本、卷次结构与人物事件索引。</div>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">🔄</div>
+      <div class="feature-title">通史脉络贯通</div>
+      <div class="feature-desc">从先秦到近现代贯通叙事，整合编年、纪事本末、典志等多元体裁，打通历史分期与因果演化脉络。</div>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">🎓</div>
+      <div class="feature-title">现代史学范式</div>
+      <div class="feature-desc">融合吕思勉、陈垣、陈寅恪、钱穆四大家学术传统，兼容唯物史观、年鉴学派与传统考据学方法。</div>
+    </div>
+  </div>
+</div>
+
+<section class="stats">
+  <div class="stats-grid">
+    <div>
+      <div class="stat-number">24</div>
+      <div class="stat-label">正史典籍</div>
+    </div>
+    <div>
+      <div class="stat-number">3229</div>
+      <div class="stat-label">卷次总数</div>
+    </div>
+    <div>
+      <div class="stat-number">4000+</div>
+      <div class="stat-label">万年史事跨度</div>
+    </div>
+    <div>
+      <div class="stat-number">7</div>
+      <div class="stat-label">抽象层级</div>
+    </div>
+    <div>
+      <div class="stat-number">4</div>
+      <div class="stat-label">正交维度</div>
+    </div>
+  </div>
+</section>
+
+<div class="container">
+  <h2 class="section-title">核心模块</h2>
+  <div class="section-subtitle">多维度历史知识组织与展示</div>
+
+  <div class="modules">
+    <a href="pages/ontology.html" class="module-card module-1">
+      <div class="module-header">▸ 本体总纲</div>
+      <div class="module-body">
+        完整的TBox类体系、数据属性、对象关系谓词定义，四轴七层正交矩阵，M1-M5落地路线图，是整个项目的语义基础。
+        <div class="module-tags">
+          <span class="module-tag">类体系</span>
+          <span class="module-tag">关系谓词</span>
+          <span class="module-tag">TBox/ABox</span>
+        </div>
+      </div>
+    </a>
+    <a href="pages/ontology.html#twentyfour" class="module-card module-2">
+      <div class="module-header">▸ 二十四史本体</div>
+      <div class="module-body">
+        从《史记》到《明史》24部正史的单本本体论，每部独立实例，包含作者、卷数、断限、体裁、注本版本等完整元数据。
+        <div class="module-tags">
+          <span class="module-tag">纪传体</span>
+          <span class="module-tag">正史</span>
+          <span class="module-tag">断代史</span>
+        </div>
+      </div>
+    </a>
+    <a href="pages/ontology.html#tongshi" class="module-card module-3">
+      <div class="module-header">▸ 通史体系</div>
+      <div class="module-body">
+        从先秦到近现代的完整通史脉络，贯通纪传、编年、纪事本末、典制四大体裁，整合《资治通鉴》《通典》《通志》等通史要籍。
+        <div class="module-tags">
+          <span class="module-tag">编年体</span>
+          <span class="module-tag">典志体</span>
+          <span class="module-tag">通鉴学</span>
+        </div>
+      </div>
+    </a>
+    <a href="pages/ontology.html#scholars" class="module-card module-4">
+      <div class="module-header">▸ 现代史学四大家</div>
+      <div class="module-body">
+        吕思勉、陈垣、陈寅恪、钱穆四位现代史学奠基人，涵盖其生平、研究领域、代表著作与学术传承关系。
+        <div class="module-tags">
+          <span class="module-tag">吕思勉</span>
+          <span class="module-tag">陈垣</span>
+          <span class="module-tag">陈寅恪</span>
+          <span class="module-tag">钱穆</span>
+        </div>
+      </div>
+    </a>
+  </div>
+</div>
+
+<footer>
+  <div class="footer-links">
+    <a href="https://github.com/yejinlei/history" target="_blank">GitHub 仓库</a>
+    <a href="pages/ontology.html">本体总纲</a>
+    <a href="pages/ontology.html#twentyfour">二十四史</a>
+    <a href="pages/ontology.html#tongshi">通史体系</a>
+    <a href="pages/ontology.html#scholars">四大家</a>
+  </div>
+  <div class="copyright">
+    中国历史本体论工程 · History Ontology Project<br>
+    鉴往知来 · 稽古揆今 · 究天人之际，通古今之变<br>
+    <span style="margin-top:0.5rem;display:inline-block;opacity:0.6;">© 2026 yejinlei.github.io/history</span>
+  </div>
+</footer>
+
+</body>
+</html>
