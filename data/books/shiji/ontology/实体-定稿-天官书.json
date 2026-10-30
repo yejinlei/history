@@ -1,0 +1,53 @@
+{
+  "book": "史记",
+  "chapter": "天官书第五",
+  "persons": [
+    {"id": "tiangguan-p1", "name": "甘德", "alias": ["甘公"], "dynasty": "战国", "role": "齐国人（一说楚人），先秦著名天文星占家，著《天文星占》，为甘石星经作者之一，天官书星占体系直接继承其成果", "evidence": [1], "global_same_as": ""},
+    {"id": "tiangguan-p2", "name": "石申", "alias": ["石申夫"], "dynasty": "战国", "role": "魏国人，先秦著名天文星占家，著《天文》，为甘石星经作者之一，系统记载五星运行和星官位置", "evidence": [1], "global_same_as": ""},
+    {"id": "tiangguan-p3", "name": "张衡", "alias": ["张平子"], "dynasty": "东汉", "role": "天文学家，发明浑天仪、地动仪，著《灵宪》阐述浑天说", "evidence": [1], "global_same_as": ""},
+    {"id": "tiangguan-p4", "name": "司马迁", "alias": ["太史公"], "dynasty": "西汉", "role": "太史令，著《史记·天官书》，系统整理先秦以来天文观测成果，为中国现存最早系统天文学文献", "evidence": [126], "global_same_as": ""}
+  ],
+  "events": [
+    {"id": "tiangguan-e1", "name": "先秦星官体系建立", "dynasty": "战国", "evidence": [1], "description": "战国甘德、石申系统观测恒星、五星，建立早期星官体系和五星占法，为天官书的直接来源", "global_same_as": ""},
+    {"id": "tiangguan-e2", "name": "司马迁系统整理天官体系", "dynasty": "西汉", "evidence": [1,126], "description": "司马迁任太史令，继承先秦以来天文观测成果，将全天星官分为中宫、东、南、西、北五宫，系统记载五星、云气、候岁占法，完成《天官书》", "global_same_as": ""},
+    {"id": "tiangguan-e3", "name": "五星占体系形成", "dynasty": "战国至西汉", "evidence": [67,77,87,92,98], "description": "通过观测金木水火土五星运行位置、快慢、芒角、颜色等，占断对应国家吉凶、战争、水旱、灾荒，为古代星占核心体系", "global_same_as": ""},
+    {"id": "tiangguan-e4", "name": "云气占法形成", "dynasty": "战国至西汉", "evidence": [101], "description": "通过观测不同高度、不同形状、不同颜色的云气，占断战争胜负、城邑吉凶、水旱灾害", "global_same_as": ""},
+    {"id": "tiangguan-e5", "name": "候岁术形成", "dynasty": "西汉", "evidence": [108], "description": "正月初一（岁旦）观测风向、云气、星象，占卜全年年景丰歉、水旱灾害、战争与否", "global_same_as": ""}
+  ],
+  "institutions": [
+    {"id": "tiangguan-i1", "name": "天官", "alias": ["星官"], "type": "天文体系", "description": "中国古代星官体系，将天上星座按照人间官曹位置命名，分为中宫、东宫苍龙、南宫朱鸟、西宫咸池、北宫玄武五宫，共90多个星官、500多颗恒星", "evidence": [1,2], "global_same_as": ""},
+    {"id": "tiangguan-i2", "name": "三垣", "type": "天文/星垣体系", "description": "北天三大星垣：紫微垣（中宫，帝王宫廷）、太微垣（南宫，朝廷官署）、天市垣（东宫，天上集市），为中国星空划分核心框架，加上二十八宿，构成三垣二十八宿体系", "evidence": [2,13,30], "global_same_as": ""},
+    {"id": "tiangguan-i3", "name": "中宫紫微垣", "type": "星垣", "description": "北天中央区域，以北极星太一为中心，包括紫宫、北斗、文昌、三台等星官，对应人间帝王宫廷、三公将相、后官藩臣", "evidence": [2], "global_same_as": ""},
+    {"id": "tiangguan-i4", "name": "北斗七星", "type": "星官", "description": "天枢、天璇、天玑、天权、玉衡、开阳、摇光七星，古代用来定方向、定季节、定时辰，为天帝之车，临制四方，是全天最重要的星官，即《尚书》璇玑玉衡所指（一说璇玑玉衡为浑仪前身）", "evidence": [4], "global_same_as": ""},
+    {"id": "tiangguan-i5", "name": "文昌六星", "type": "星官", "description": "斗魁上方六星：上将、次将、贵相、司命、司中、司禄，主文运、寿命、灾咎、爵禄", "evidence": [5], "global_same_as": ""},
+    {"id": "tiangguan-i6", "name": "东宫苍龙七宿", "type": "星官/四象", "description": "东方七宿：角、亢、氐、房、心、尾、箕，组成龙形，对应东方、春季，包括大角、摄提、天市、天驷、王良、天潢、江星等星官，天市垣位于此天区", "evidence": [13], "global_same_as": ""},
+    {"id": "tiangguan-i7", "name": "南宫朱鸟七宿", "type": "星官/四象", "description": "南方七宿：井、鬼、柳、星、张、翼、轸，组成鸟形，对应南方、夏季，包括太微垣、轩辕、南北河、舆鬼等星官", "evidence": [30], "global_same_as": ""},
+    {"id": "tiangguan-i8", "name": "太微垣", "type": "星垣", "description": "南宫天区，为三光之廷，对应人间朝廷，有五帝坐、十二藩臣（将、相、执法、诸侯、郎位、将位），日月五星凌犯太微为君臣失位、以下犯上征兆", "evidence": [30], "global_same_as": ""},
+    {"id": "tiangguan-i9", "name": "轩辕", "type": "星官", "description": "南宫朱鸟区星官，形状如黄龙，女主象征，对应黄帝，前大星为皇后，旁小星为后宫嫔妃", "evidence": [39], "global_same_as": ""},
+    {"id": "tiangguan-i10", "name": "西宫咸池白虎七宿", "type": "星官/四象", "description": "西方七宿：奎、娄、胃、昴、毕、觜、参，组成虎形，对应西方、秋季，包括五潢、天廪、天厕、狼（天狼）、弧矢、南极老人等星官", "evidence": [46], "global_same_as": ""},
+    {"id": "tiangguan-i11", "name": "北宫玄武七宿", "type": "星官/四象", "description": "北方七宿：斗、牛、女、虚、危、室、壁，组成龟蛇形，对应北方、冬季，包括羽林天军、北落师门、营室、河鼓（牛郎）、织女等星官", "evidence": [60], "global_same_as": ""},
+    {"id": "tiangguan-i12", "name": "岁星", "alias": ["木星"], "type": "行星/星占", "description": "五纬之一，东方木精，主春、主农业，对应天干甲乙，岁星所在星宿对应国家不可征伐，岁星赢缩对应国家吉凶，12年一周天", "evidence": [67], "global_same_as": ""},
+    {"id": "tiangguan-i13", "name": "荧惑", "alias": ["火星"], "type": "行星/星占", "description": "五纬之一，南方火精，主夏、主兵丧饥旱，对应丙丁，荧惑守心为大凶兆，为星占中最凶之星，出则有乱，入则乱止", "evidence": [77], "global_same_as": ""},
+    {"id": "tiangguan-i14", "name": "填星", "alias": ["镇星、土星"], "type": "行星/星占", "description": "五纬之一，中央土精，主季夏、主德女主，对应戊己，28年一周天，所守星宿对应国家吉祥", "evidence": [87], "global_same_as": ""},
+    {"id": "tiangguan-i15", "name": "太白", "alias": ["金星"], "type": "行星/星占", "description": "五纬之一，西方金精，主秋、主刑杀兵革，对应庚辛，太白运行高低、迟速、昼见（经天）对应战争胜负、强国兴衰、女主掌权", "evidence": [92], "global_same_as": ""},
+    {"id": "tiangguan-i16", "name": "辰星", "alias": ["水星"], "type": "行星/星占", "description": "五纬之一，北方水精，主冬、主刑杀夷狄水旱，对应壬癸，辰星失次对应四季不调、天下大饥，出则有兵，入则兵解", "evidence": [98], "global_same_as": ""},
+    {"id": "tiangguan-i17", "name": "三垣二十八宿", "type": "天文体系", "description": "中国古代星空划分核心体系，三垣：紫微垣、太微垣、天市垣；二十八宿：东方苍龙七宿、南方朱鸟七宿、西方白虎七宿、北方玄武七宿，是中国古代天文观测、历法制定、星占分野的基础框架", "evidence": [2,13,30,46,60], "global_same_as": ""},
+    {"id": "tiangguan-i18", "name": "分野", "type": "天文/地理对应体系", "description": "将天上二十八宿与地上十二州、诸侯王国区域一一对应，通过观测某一星宿的变异，占断对应地区的吉凶祸福", "evidence": [126], "global_same_as": ""},
+    {"id": "tiangguan-i19", "name": "璇玑玉衡", "alias": ["浑仪雏形", "北斗"], "type": "天文仪器/星官", "description": "《尚书》载「在璇玑玉衡以齐七政」，一说为北斗七星，一说为古代观测天体运行的浑仪雏形，用来观测日月五星运行、确定季节历法", "evidence": [4], "global_same_as": ""}
+  ],
+  "relations": [
+    {"id": "tiangguan-r1", "type": "authored", "subject": "甘德", "object": "天文星占", "description": "甘德著《天文星占》八卷，记载五星运行和星官位置", "evidence": [1]},
+    {"id": "tiangguan-r2", "type": "authored", "subject": "石申", "object": "天文", "description": "石申著《天文》八卷，系统记载121颗恒星位置，后世合称甘石星经", "evidence": [1]},
+    {"id": "tiangguan-r3", "type": "authored", "subject": "张衡", "object": "灵宪", "description": "张衡著《灵宪》阐述浑天说天体理论，天官书正义引其说解释日月五星本质", "evidence": [1]},
+    {"id": "tiangguan-r4", "type": "authored", "subject": "司马迁", "object": "天官书", "description": "司马迁任太史令，继承甘石以来天文成果，系统整理五宫星官、五星、云气、候岁体系，著成《史记·天官书》，为中国现存最早系统天文学文献", "evidence": [126]},
+    {"id": "tiangguan-r5", "type": "part_of", "subject": "北斗七星", "object": "中宫紫微垣", "evidence": [4]},
+    {"id": "tiangguan-r6", "type": "part_of", "subject": "文昌六星", "object": "中宫紫微垣", "evidence": [5]},
+    {"id": "tiangguan-r7", "type": "part_of", "subject": "太微垣", "object": "南宫朱鸟天区", "evidence": [30]},
+    {"id": "tiangguan-r8", "type": "part_of", "subject": "轩辕", "object": "南宫朱鸟天区", "evidence": [39]},
+    {"id": "tiangguan-r9", "type": "part_of", "subject": "天市垣", "object": "东宫苍龙天区", "evidence": [13]},
+    {"id": "tiangguan-r10", "type": "part_of", "subject": "角亢氐房心尾箕", "object": "东宫苍龙七宿", "evidence": [13]},
+    {"id": "tiangguan-r11", "type": "part_of", "subject": "井鬼柳星张翼轸", "object": "南宫朱鸟七宿", "evidence": [30]},
+    {"id": "tiangguan-r12", "type": "part_of", "subject": "奎娄胃昴毕觜参", "object": "西宫咸池白虎七宿", "evidence": [46]},
+    {"id": "tiangguan-r13", "type": "part_of", "subject": "斗牛女虚危室壁", "object": "北宫玄武七宿", "evidence": [60]}
+  ]
+}
