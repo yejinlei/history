@@ -1,0 +1,547 @@
+{
+  "book": "shiji",
+  "book_name": "史记",
+  "chapter_id": "shiji-漢興以來諸侯王年表第五",
+  "chapter_title": "汉兴以来诸侯王年表第五",
+  "juan": "卷十七",
+  "tili": "表",
+  "evidence_range": "段1-段6（序文）及段7起表格主体",
+  "persons": [
+    {
+      "id": "person-simaqian",
+      "name": "司马迁",
+      "alias": ["太史公", "迁"],
+      "dynasty": "西汉",
+      "role": "《史记》作者，本卷序末自称'臣迁'",
+      "evidence": [4]
+    },
+    {
+      "id": "person-yingshao",
+      "name": "应劭",
+      "alias": ["应仲远"],
+      "dynasty": "东汉",
+      "role": "学者，索隐引其《汉书音义》论汉代诸侯王",
+      "evidence": [1]
+    },
+    {
+      "id": "person-zhouwuwang",
+      "name": "周武王",
+      "alias": ["武王", "姬发"],
+      "dynasty": "西周",
+      "role": "周王朝开国君主，大分封之始",
+      "evidence": [2]
+    },
+    {
+      "id": "person-zhouchengwang",
+      "name": "周成王",
+      "alias": ["成王", "姬诵"],
+      "dynasty": "西周",
+      "role": "武王之子，周公辅政，继续分封",
+      "evidence": [2]
+    },
+    {
+      "id": "person-zhoukangwang",
+      "name": "周康王",
+      "alias": ["康王", "姬钊"],
+      "dynasty": "西周",
+      "role": "成王之子，成康之治，继续分封",
+      "evidence": [2]
+    },
+    {
+      "id": "person-boqin",
+      "name": "伯禽",
+      "alias": ["鲁公", "鲁公伯禽"],
+      "dynasty": "西周",
+      "role": "周公之子，鲁国始封君",
+      "evidence": [2]
+    },
+    {
+      "id": "person-kangshu",
+      "name": "康叔",
+      "alias": ["卫康叔", "康叔封"],
+      "dynasty": "西周",
+      "role": "卫国始封君，武王同母少弟",
+      "evidence": [2]
+    },
+    {
+      "id": "person-taigong",
+      "name": "太公",
+      "alias": ["吕尚", "姜太公", "齐太公", "师尚父"],
+      "dynasty": "西周",
+      "role": "齐国始封君，周初开国功臣",
+      "evidence": [2]
+    },
+    {
+      "id": "person-guanshu",
+      "name": "管叔",
+      "alias": ["管叔鲜"],
+      "dynasty": "西周",
+      "role": "管国始封君，武王弟，后与蔡叔挟武庚作乱",
+      "evidence": [2]
+    },
+    {
+      "id": "person-caishu",
+      "name": "蔡叔",
+      "alias": ["蔡叔度"],
+      "dynasty": "西周",
+      "role": "蔡国始封君，武王弟",
+      "evidence": [2]
+    },
+    {
+      "id": "person-caoshu",
+      "name": "曹叔",
+      "alias": ["曹叔振铎"],
+      "dynasty": "西周",
+      "role": "曹国始封君，武王弟",
+      "evidence": [2]
+    },
+    {
+      "id": "person-zhenghuangong",
+      "name": "郑桓公",
+      "alias": ["郑伯友"],
+      "dynasty": "西周",
+      "role": "郑国始封君，宣王弟，太史公约举及之",
+      "evidence": [2]
+    },
+    {
+      "id": "person-zhouliwang",
+      "name": "周厉王",
+      "alias": ["厉王", "姬胡"],
+      "dynasty": "西周",
+      "role": "西周后期君主，被流于彘，王室始衰",
+      "evidence": [2]
+    },
+    {
+      "id": "person-zhouyouwang",
+      "name": "周幽王",
+      "alias": ["幽王", "姬宫湦"],
+      "dynasty": "西周",
+      "role": "西周末代君主，为犬戎所杀，平王东迁",
+      "evidence": [2]
+    },
+    {
+      "id": "person-hangaozu",
+      "name": "汉高祖",
+      "alias": ["刘邦", "高帝", "沛公", "汉王"],
+      "dynasty": "西汉",
+      "role": "汉朝开国皇帝，分封同姓九王，立白马之盟",
+      "evidence": [3]
+    },
+    {
+      "id": "person-lyuhou",
+      "name": "吕后",
+      "alias": ["吕雉", "高后", "吕太后"],
+      "dynasty": "西汉",
+      "role": "高祖皇后，临朝称制，封诸吕为王",
+      "evidence": [3, 6]
+    },
+    {
+      "id": "person-hanwendi",
+      "name": "汉文帝",
+      "alias": ["刘恒", "代王", "太宗孝文皇帝"],
+      "dynasty": "西汉",
+      "role": "高祖子，初封代王，后入即帝位",
+      "evidence": [3, 6]
+    },
+    {
+      "id": "person-hanjingdi",
+      "name": "汉景帝",
+      "alias": ["刘启", "孝景皇帝"],
+      "dynasty": "西汉",
+      "role": "文帝子，在位时爆发吴楚七国之乱，行削藩",
+      "evidence": [4]
+    },
+    {
+      "id": "person-hanwudi",
+      "name": "汉武帝",
+      "alias": ["刘彻", "孝武皇帝", "今上"],
+      "dynasty": "西汉",
+      "role": "景帝子，采纳主父偃策行推恩令，表讫太初",
+      "evidence": [4, 5]
+    },
+    {
+      "id": "person-wurui",
+      "name": "吴芮",
+      "alias": ["长沙王芮", "长沙文王"],
+      "dynasty": "秦汉之际",
+      "role": "秦末起兵，高祖五年封长沙王，为汉初五异姓王中唯一传世者",
+      "evidence": [3, 6]
+    },
+    {
+      "id": "person-hanxin",
+      "name": "韩信",
+      "alias": ["淮阴侯", "楚王信"],
+      "dynasty": "秦汉之际",
+      "role": "汉初三杰之一，先封齐王、徙楚王，后降为淮阴侯",
+      "evidence": [3, 5, 6]
+    },
+    {
+      "id": "person-pengyue",
+      "name": "彭越",
+      "alias": ["梁王越"],
+      "dynasty": "秦汉之际",
+      "role": "汉初功臣，封梁王，高祖十一年反诛",
+      "evidence": [5, 6]
+    },
+    {
+      "id": "person-liujia",
+      "name": "刘贾",
+      "alias": ["荆王贾"],
+      "dynasty": "西汉",
+      "role": "高祖从父兄，封荆王，为英布所杀",
+      "evidence": [5, 6]
+    },
+    {
+      "id": "person-liujiao",
+      "name": "刘交",
+      "alias": ["楚元王交"],
+      "dynasty": "西汉",
+      "role": "高祖弟，封楚王",
+      "evidence": [6]
+    },
+    {
+      "id": "person-liufei",
+      "name": "刘肥",
+      "alias": ["齐悼惠王肥"],
+      "dynasty": "西汉",
+      "role": "高祖庶长子，封齐王",
+      "evidence": [6]
+    },
+    {
+      "id": "person-liubi",
+      "name": "刘濞",
+      "alias": ["吴王濞"],
+      "dynasty": "西汉",
+      "role": "高祖兄仲之子，封吴王，吴楚七国之乱首谋",
+      "evidence": [4, 6]
+    },
+    {
+      "id": "person-liuyu",
+      "name": "刘余",
+      "alias": ["鲁共王", "鲁恭王"],
+      "dynasty": "西汉",
+      "role": "景帝子，封鲁王，索隐述赞称'鲁恭'",
+      "evidence": [5]
+    },
+    {
+      "id": "person-liuwu",
+      "name": "刘武",
+      "alias": ["梁孝王武"],
+      "dynasty": "西汉",
+      "role": "文帝子、景帝同母弟，封梁王，深得窦太后宠爱",
+      "evidence": [5]
+    },
+    {
+      "id": "person-jibei-wang",
+      "name": "济北王",
+      "alias": ["济北王兴居", "刘志"],
+      "dynasty": "西汉",
+      "role": "文帝时济北王刘兴居首叛，后有刘志等续封；为齐所分七国之一",
+      "evidence": [4, 5]
+    },
+    {
+      "id": "person-chengyang-wang",
+      "name": "城阳王",
+      "alias": ["城阳景王章"],
+      "dynasty": "西汉",
+      "role": "朱虚侯刘章以诛诸吕功封城阳王，齐所分七国之一",
+      "evidence": [4, 5]
+    },
+    {
+      "id": "person-chuwang-wu",
+      "name": "楚王戊",
+      "alias": ["刘戊"],
+      "dynasty": "西汉",
+      "role": "楚元王孙，参与吴楚七国之乱",
+      "evidence": [4]
+    },
+    {
+      "id": "person-zhufuyan",
+      "name": "主父偃",
+      "alias": [],
+      "dynasty": "西汉",
+      "role": "武帝时大臣，建议行推恩令以削弱诸侯",
+      "evidence": [4]
+    }
+  ],
+  "events": [
+    {
+      "id": "event-zhoufenfeng",
+      "name": "周初大分封",
+      "time": "周武王、成王、康王时期（约前11世纪）",
+      "description": "武王克商后，经成康之世，封国数百，同姓五十五，以伯禽封鲁、康叔封卫、太公封齐为代表，辅卫王室",
+      "evidence": [2]
+    },
+    {
+      "id": "event-liyou-shuaiwei",
+      "name": "厉幽之后王室衰微",
+      "time": "西周晚期至平王东迁（前9世纪-前770年）",
+      "description": "厉王被逐、幽王被杀，王室衰弱，侯伯强国兴起，天子弗能正",
+      "evidence": [2]
+    },
+    {
+      "id": "event-gaozu-tongxing-jiuwang",
+      "name": "高祖分封同姓九王",
+      "time": "高祖六年至十二年（前201-前195年）",
+      "description": "高祖铲除异姓王后，大封同姓子弟九王（齐、楚、荆、淮南、燕、赵、梁、代、淮阳），辅以长沙异姓王，功臣百余侯",
+      "evidence": [3]
+    },
+    {
+      "id": "event-baima-zhimeng",
+      "name": "白马之盟",
+      "alias": ["非刘氏不王之盟"],
+      "time": "高祖末年（约前195年）",
+      "description": "高祖与群臣刑白马盟誓：'非刘氏而王者，若无功上所不置而侯者，天下共诛之'",
+      "evidence": [3]
+    },
+    {
+      "id": "event-wu-chu-qiguo",
+      "name": "吴楚七国之乱",
+      "time": "汉景帝前元三年（前154年）",
+      "description": "吴王濞联合楚、赵、济南、菑川、胶西、胶东七国以'诛晁错、清君侧'为名起兵反，周亚夫率军平定",
+      "evidence": [4]
+    },
+    {
+      "id": "event-tuien-ling",
+      "name": "推恩令",
+      "time": "汉武帝元朔二年（前127年）起",
+      "description": "武帝采纳主父偃建议，令诸侯推恩分封子弟为侯，齐分为七、赵分为六、梁分为五、淮南分三，诸侯势力大衰",
+      "evidence": [4]
+    },
+    {
+      "id": "event-zhuhou-xiaodi",
+      "name": "诸侯削地",
+      "time": "景帝至武帝时期",
+      "description": "景帝用晁错策削诸侯支郡边郡名山陂海，吴楚乱后燕代无北边郡，吴淮南长沙无南边郡，齐赵梁楚支郡咸纳于汉",
+      "evidence": [4]
+    },
+    {
+      "id": "event-taichu",
+      "name": "太初年间",
+      "time": "汉武帝太初元年至四年（前104-前101年）",
+      "description": "司马迁作《史记》讫于太初，本表记事下限至于此",
+      "evidence": [5]
+    }
+  ],
+  "institutions": [
+    {
+      "id": "inst-wudengjue",
+      "name": "五等爵制",
+      "alias": ["公侯伯子男"],
+      "description": "周代分封爵位五等：公、侯、伯、子、男；封地大国不过百里，下三十里",
+      "evidence": [2]
+    },
+    {
+      "id": "inst-erdengjue",
+      "name": "二等爵制",
+      "alias": ["王侯二等"],
+      "description": "汉代封爵分二等：大者王，小者侯",
+      "evidence": [3]
+    },
+    {
+      "id": "inst-junguo-bingxing",
+      "name": "郡国并行制",
+      "description": "汉初中央直辖十五郡，其余为诸侯王国；天子自有三河、东郡、颍川、南阳，自江陵以西至蜀，北自云中至陇西与内史",
+      "evidence": [3]
+    },
+    {
+      "id": "inst-tuien",
+      "name": "推恩令",
+      "description": "武帝用主父偃言，使诸侯得推恩分子弟国邑，诸侯王子弟支庶百余人得封为侯，大国自行分解",
+      "evidence": [4]
+    },
+    {
+      "id": "inst-feiliushi-buwang",
+      "name": "非刘氏不王",
+      "alias": ["白马之盟原则"],
+      "description": "高祖末年约：非刘氏不得王，非有功不得侯，违则天下共诛之",
+      "evidence": [3]
+    },
+    {
+      "id": "inst-quanya-xiangzhi",
+      "name": "犬牙相制",
+      "alias": ["犬牙相临"],
+      "description": "汉郡八九十与诸侯封地犬牙交错、互相牵制，扼塞地利归汉廷掌握",
+      "evidence": [4]
+    },
+    {
+      "id": "inst-xingshi-renyi",
+      "name": "形势与仁义",
+      "description": "太史公论治国之本：形势（地理、制度格局）虽强，归根须以仁义为本；与厉幽之后'形势弱也'首尾呼应",
+      "evidence": [2, 5]
+    },
+    {
+      "id": "inst-qinqin-zhiyi",
+      "name": "亲亲之义",
+      "description": "周封伯禽、康叔于鲁卫各四百里，为'亲亲之义，褒有德'；汉初大封同姓亦此意",
+      "evidence": [2, 3]
+    }
+  ],
+  "states": [
+    {
+      "id": "state-lu",
+      "name": "鲁",
+      "start_fengjun": "伯禽",
+      "description": "周公之子伯禽封国，四百里，亲亲褒德",
+      "evidence": [2]
+    },
+    {
+      "id": "state-wei",
+      "name": "卫",
+      "start_fengjun": "康叔",
+      "description": "康叔封国，四百里，亲亲褒德",
+      "evidence": [2]
+    },
+    {
+      "id": "state-qi-zhou",
+      "name": "齐（周）",
+      "start_fengjun": "太公吕尚",
+      "description": "太公封国，兼五侯地，尊勤劳",
+      "evidence": [2]
+    },
+    {
+      "id": "state-guan",
+      "name": "管",
+      "start_fengjun": "管叔鲜",
+      "description": "周初封国，后因乱国除",
+      "evidence": [2]
+    },
+    {
+      "id": "state-cai",
+      "name": "蔡",
+      "start_fengjun": "蔡叔度",
+      "description": "周初封国",
+      "evidence": [2]
+    },
+    {
+      "id": "state-cao",
+      "name": "曹",
+      "start_fengjun": "曹叔振铎",
+      "description": "周初封国",
+      "evidence": [2]
+    },
+    {
+      "id": "state-zheng",
+      "name": "郑",
+      "start_fengjun": "郑桓公友",
+      "description": "宣王时封国，太史公约举及之",
+      "evidence": [2]
+    },
+    {
+      "id": "state-yan",
+      "name": "燕",
+      "description": "同姓九王之一，自雁门太原至辽阳为燕代",
+      "evidence": [3]
+    },
+    {
+      "id": "state-dai",
+      "name": "代",
+      "description": "同姓九王之一，文帝初封代王；与燕共北边",
+      "evidence": [3]
+    },
+    {
+      "id": "state-zhaoo-changshan",
+      "name": "赵（常山）",
+      "description": "同姓九王之一，常山以南太行以东为赵；后分为六",
+      "evidence": [3, 4]
+    },
+    {
+      "id": "state-qi-han",
+      "name": "齐（汉）",
+      "description": "同姓九王之一，阿甄以东薄海为齐；悼惠王肥始封，后分为七",
+      "evidence": [3, 4]
+    },
+    {
+      "id": "state-liang",
+      "name": "梁",
+      "description": "同姓九王之一，陈以西为梁；后分为五；梁孝王武时最盛",
+      "evidence": [3, 4]
+    },
+    {
+      "id": "state-chu",
+      "name": "楚",
+      "description": "同姓九王之一，刘交始封；楚元王系，七国之乱有楚王戊",
+      "evidence": [3, 4, 6]
+    },
+    {
+      "id": "state-wu-jing",
+      "name": "吴（荆）",
+      "description": "初为荆王刘贾，贾为英布杀后立吴王濞；江淮谷泗至会稽；七国之乱首事国",
+      "evidence": [3, 4, 6]
+    },
+    {
+      "id": "state-huainan",
+      "name": "淮南",
+      "description": "同姓九王之一，英布反诛后立子长；后分为三（淮南、庐江、衡山）",
+      "evidence": [3, 4, 6]
+    },
+    {
+      "id": "state-changsha",
+      "name": "长沙",
+      "description": "异姓王，吴芮始封；南至九疑外接越，五世后无嗣国除",
+      "evidence": [3, 6]
+    },
+    {
+      "id": "state-jing",
+      "name": "荆",
+      "description": "刘贾封国，高祖十一年为英布所杀国除，后改封吴",
+      "evidence": [5, 6]
+    },
+    {
+      "id": "state-huaiyin-hanxin",
+      "name": "淮陰（韩信楚）",
+      "description": "韩信初封齐王，徙楚王，高祖六年擒为淮阴侯，国除",
+      "evidence": [5, 6]
+    },
+    {
+      "id": "state-pengyue-liang",
+      "name": "彭越梁",
+      "description": "彭越封梁王，高祖十一年反诛国除，后立高祖子恢",
+      "evidence": [5, 6]
+    },
+    {
+      "id": "state-huaiyang",
+      "name": "淮阳",
+      "description": "同姓九王之一，高祖子友始封；徐广九国说列淮阳",
+      "evidence": [3]
+    },
+    {
+      "id": "state-jiuguo",
+      "name": "同姓九王（九国）",
+      "description": "高祖子弟同姓为王者九国：齐、楚、荆、淮南、燕、赵、梁、代、淮阳（徐广说），长沙异姓不在九数",
+      "evidence": [3]
+    },
+    {
+      "id": "state-chengyang",
+      "name": "城阳",
+      "description": "齐所分七国之一，刘章始封",
+      "evidence": [4, 5]
+    },
+    {
+      "id": "state-jibei",
+      "name": "济北",
+      "description": "齐所分七国之一，刘兴居始封",
+      "evidence": [4, 5]
+    }
+  ],
+  "places": [
+    {"id": "place-yanmen", "name": "雁门", "description": "汉郡，今山西北部，为燕代北界起点", "evidence": [3]},
+    {"id": "place-taiyuan", "name": "太原", "description": "汉郡，今山西中部", "evidence": [3]},
+    {"id": "place-liaoyang", "name": "辽阳", "description": "辽东郡辽阳县，今辽宁辽中一带，燕代东界", "evidence": [3]},
+    {"id": "place-changshan", "name": "常山", "description": "即恒山，避文帝讳改，今河北中部，为赵国北界", "evidence": [3]},
+    {"id": "place-taihang", "name": "大行（太行山）", "description": "即今太行山，常山以南左转即太行东麓", "evidence": [3]},
+    {"id": "place-heji", "name": "河济", "description": "黄河、济水，齐赵二国之界水", "evidence": [3]},
+    {"id": "place-e-zhen", "name": "阿甄", "description": "东阿、甄（鄄）城，今山东东阿、鄄城一带", "evidence": [3]},
+    {"id": "place-hai", "name": "海", "description": "东海、渤海，齐赵东界", "evidence": [3]},
+    {"id": "place-chen", "name": "陈", "description": "今河南淮阳，梁楚北界", "evidence": [3]},
+    {"id": "place-jiuyi", "name": "九疑", "description": "九嶷山，今湖南宁远南，长沙南界", "evidence": [3]},
+    {"id": "place-jianghuai-gusi", "name": "江淮谷泗", "description": "长江、淮河、谷水、泗水，吴淮南诸国所带水", "evidence": [3]},
+    {"id": "place-kuaiji", "name": "会稽", "description": "会稽山，今浙江绍兴，吴东界", "evidence": [3]},
+    {"id": "place-hu", "name": "胡", "description": "北胡，指匈奴，燕代外接", "evidence": [3]},
+    {"id": "place-yue", "name": "越", "description": "南越，长沙南外接", "evidence": [3]},
+    {"id": "place-neidi-beiju-shan", "name": "内地北距山以东", "description": "华山或崤山以东的关东地区，尽为诸侯地", "evidence": [3]},
+    {"id": "place-sanhe", "name": "三河", "description": "河东、河内、河南三郡，汉廷直辖", "evidence": [3]},
+    {"id": "place-neishi", "name": "内史", "description": "即京兆，长安畿内之地，汉廷直辖核心", "evidence": [3]},
+    {"id": "place-yunzhong-longxi", "name": "云中、陇西", "description": "北边西陲要郡，汉廷直辖", "evidence": [3]}
+  ]
+}

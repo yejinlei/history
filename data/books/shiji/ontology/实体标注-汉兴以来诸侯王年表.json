@@ -1,0 +1,120 @@
+{
+  "book": "shiji",
+  "chapter_id": "shiji-漢興以來諸侯王年表第五",
+  "chapter_title": "汉兴以来诸侯王年表第五",
+  "annotation_type": "sequence_labeling",
+  "evidence_range": "段1-段6序文为主",
+  "paragraphs": [
+    {
+      "para_id": "p0",
+      "text": "〔索隱〕應劭云：「雖名爲王，其實如古之諸侯。」",
+      "entities": [
+        {"start": 4, "end": 6, "text": "應劭", "type": "person", "ref": "person-yingshao"}
+      ]
+    },
+    {
+      "para_id": "p1",
+      "text": "太史公曰：殷以前尚矣。周封五等：公，侯，伯，子，男。然封伯禽、康叔於魯、衞，地各四百里，親親之義，襃有德也；太公於齊，兼五侯地，尊勤勞也。武王、成、康所封數百，而同姓五十五，地上不過百里，下三十里，以輔衞王室。管、蔡、康叔、曹、鄭，或過或損。厲、幽之後，王室缺，侯伯彊國興焉，天子微，弗能正。非德不純，形勢弱也。",
+      "entities": [
+        {"start": 0, "end": 3, "text": "太史公", "type": "person", "ref": "person-simaqian"},
+        {"start": 11, "end": 12, "text": "周", "type": "dynasty", "ref": ""},
+        {"start": 15, "end": 27, "text": "公，侯，伯，子，男", "type": "institution", "ref": "inst-wudengjue"},
+        {"start": 31, "end": 33, "text": "伯禽", "type": "person", "ref": "person-boqin"},
+        {"start": 34, "end": 36, "text": "康叔", "type": "person", "ref": "person-kangshu"},
+        {"start": 38, "end": 39, "text": "魯", "type": "state", "ref": "state-lu"},
+        {"start": 40, "end": 41, "text": "衞", "type": "state", "ref": "state-wei"},
+        {"start": 55, "end": 59, "text": "親親之義", "type": "institution", "ref": "inst-qinqin-zhiyi"},
+        {"start": 67, "end": 69, "text": "太公", "type": "person", "ref": "person-taigong"},
+        {"start": 70, "end": 71, "text": "齊", "type": "state", "ref": "state-qi-zhou"},
+        {"start": 85, "end": 91, "text": "武王、成、康", "type": "person", "ref": "person-zhouwuwang"},
+        {"start": 118, "end": 119, "text": "管", "type": "state", "ref": "state-guan"},
+        {"start": 120, "end": 121, "text": "蔡", "type": "state", "ref": "state-cai"},
+        {"start": 122, "end": 124, "text": "康叔", "type": "person", "ref": "person-kangshu"},
+        {"start": 125, "end": 126, "text": "曹", "type": "state", "ref": "state-cao"},
+        {"start": 127, "end": 128, "text": "鄭", "type": "state", "ref": "state-zheng"},
+        {"start": 134, "end": 135, "text": "厲", "type": "person", "ref": "person-zhouliwang"},
+        {"start": 136, "end": 137, "text": "幽", "type": "person", "ref": "person-zhouyouwang"},
+        {"start": 170, "end": 174, "text": "形勢弱也", "type": "institution", "ref": "inst-xingshi-renyi"}
+      ]
+    },
+    {
+      "para_id": "p2",
+      "text": "漢興，序二等。高祖末年，非劉氏而王者，若無功上所不置而侯者，天下共誅之。高祖子弟同姓爲王者九國，雖獨長沙異姓，而功臣侯者百有餘人。自鴈門、太原以東至遼陽，爲燕代國；常山以南，大行左轉，度河、濟，阿、甄以東薄海，爲齊、趙國；自陳以西，南至九疑，東帶江、淮、穀、泗，薄會稽，爲梁、楚、吳、淮南、長沙國：皆外接於胡、越。而內地北距山以東盡諸侯地，大者或五六郡，連城數十，置百官宮觀，僭於天子。漢獨有三河、東郡、潁川、南陽，自江陵以西至蜀，北自雲中至隴西，與內史凡十五郡，而公主列侯頗食邑其中。何者？天下初定，骨肉同姓少，故廣彊庶孽，以鎮撫四海，用承衞天子也。",
+      "entities": [
+        {"start": 4, "end": 7, "text": "序二等", "type": "institution", "ref": "inst-erdengjue"},
+        {"start": 8, "end": 10, "text": "高祖", "type": "person", "ref": "person-hangaozu"},
+        {"start": 14, "end": 50, "text": "非劉氏而王者，若無功上所不置而侯者，天下共誅之", "type": "institution", "ref": "inst-feiliushi-buwang"},
+        {"start": 63, "end": 65, "text": "九國", "type": "state", "ref": "state-jiuguo"},
+        {"start": 69, "end": 71, "text": "長沙", "type": "state", "ref": "state-changsha"},
+        {"start": 85, "end": 87, "text": "鴈門", "type": "place", "ref": "place-yanmen"},
+        {"start": 88, "end": 90, "text": "太原", "type": "place", "ref": "place-taiyuan"},
+        {"start": 94, "end": 96, "text": "遼陽", "type": "place", "ref": "place-liaoyang"},
+        {"start": 99, "end": 101, "text": "燕代", "type": "state", "ref": "state-yan"},
+        {"start": 103, "end": 105, "text": "常山", "type": "place", "ref": "place-changshan"},
+        {"start": 109, "end": 111, "text": "大行", "type": "place", "ref": "place-taihang"},
+        {"start": 115, "end": 118, "text": "河、濟", "type": "place", "ref": "place-heji"},
+        {"start": 119, "end": 122, "text": "阿、甄", "type": "place", "ref": "place-e-zhen"},
+        {"start": 125, "end": 126, "text": "海", "type": "place", "ref": "place-hai"},
+        {"start": 128, "end": 131, "text": "齊、趙", "type": "state", "ref": "state-qi-han"},
+        {"start": 134, "end": 135, "text": "陳", "type": "place", "ref": "place-chen"},
+        {"start": 140, "end": 142, "text": "九疑", "type": "place", "ref": "place-jiuyi"},
+        {"start": 147, "end": 154, "text": "江、淮、穀、泗", "type": "place", "ref": "place-jianghuai-gusi"},
+        {"start": 156, "end": 158, "text": "會稽", "type": "place", "ref": "place-kuaiji"},
+        {"start": 160, "end": 171, "text": "梁、楚、吳、淮南、長沙", "type": "state", "ref": "state-liang"},
+        {"start": 177, "end": 178, "text": "胡", "type": "place", "ref": "place-hu"},
+        {"start": 179, "end": 180, "text": "越", "type": "place", "ref": "place-yue"},
+        {"start": 184, "end": 190, "text": "內地北距山以東", "type": "place", "ref": "place-neidi-beiju-shan"},
+        {"start": 226, "end": 228, "text": "三河", "type": "place", "ref": "place-sanhe"},
+        {"start": 248, "end": 250, "text": "內史", "type": "place", "ref": "place-neishi"},
+        {"start": 238, "end": 240, "text": "雲中", "type": "place", "ref": "place-yunzhong-longxi"},
+        {"start": 242, "end": 244, "text": "隴西", "type": "place", "ref": "place-yunzhong-longxi"}
+      ]
+    },
+    {
+      "para_id": "p3",
+      "text": "漢定百年之間，親屬益踈，諸侯或驕奢忕，邪臣計謀爲淫亂，大者叛逆，小者不軌于法，以危其命，殞身亡國。天子觀於上古，然後加惠，使諸侯得推恩分子弟國邑，故齊分爲七，趙分爲六，梁分爲五，淮南分三，及天子支庶子爲王，王子支庶爲侯，百有餘焉。吳楚時，前後諸侯或以適削地，是以燕、代無北邊郡，吳、淮南、長沙無南邊郡，齊、趙、梁、楚支郡名山陂海咸納於漢。諸侯稍微，大國不過十餘城，小侯不過數十里，上足以奉貢職，下足以供養祭祀，以蕃輔京師。而漢郡八九十，形錯諸侯間，犬牙相臨，秉其阸塞地利，彊本幹，弱枝葉之勢也，尊卑明而萬事各得其所矣。",
+      "entities": [
+        {"start": 45, "end": 55, "text": "推恩分子弟國邑", "type": "institution", "ref": "inst-tuien"},
+        {"start": 58, "end": 62, "text": "齊分爲七", "type": "state", "ref": "state-qi-han"},
+        {"start": 63, "end": 67, "text": "趙分爲六", "type": "state", "ref": "state-zhaoo-changshan"},
+        {"start": 68, "end": 72, "text": "梁分爲五", "type": "state", "ref": "state-liang"},
+        {"start": 73, "end": 77, "text": "淮南分三", "type": "state", "ref": "state-huainan"},
+        {"start": 95, "end": 97, "text": "吳楚", "type": "event", "ref": "event-wu-chu-qiguo"},
+        {"start": 105, "end": 107, "text": "削地", "type": "event", "ref": "event-zhuhou-xiaodi"},
+        {"start": 159, "end": 163, "text": "犬牙相臨", "type": "institution", "ref": "inst-quanya-xiangzhi"},
+        {"start": 175, "end": 187, "text": "彊本幹，弱枝葉之勢", "type": "institution", "ref": "inst-quanya-xiangzhi"}
+      ]
+    },
+    {
+      "para_id": "p4",
+      "text": "臣遷謹記高祖以來至太初諸侯，譜其下益損之時，令時世得覽。形勢雖彊，要之以仁義爲本。",
+      "entities": [
+        {"start": 1, "end": 2, "text": "遷", "type": "person", "ref": "person-simaqian"},
+        {"start": 5, "end": 7, "text": "高祖", "type": "person", "ref": "person-hangaozu"},
+        {"start": 10, "end": 12, "text": "太初", "type": "event", "ref": "event-taichu"},
+        {"start": 29, "end": 39, "text": "形勢雖彊，要之以仁義爲本", "type": "institution", "ref": "inst-xingshi-renyi"}
+      ]
+    },
+    {
+      "para_id": "p5",
+      "text": "索隱述贊曰：漢有天下，爰鑒興亡。始誓河岳，言峻寵章。淮陰就楚，彭越封梁。荊燕懿戚，齊趙棣棠。犬牙相制，麟趾有光。降及文景，代有英王。魯恭梁孝，濟北城陽。仁賢足紀，忠烈斯彰。",
+      "entities": [
+        {"start": 25, "end": 27, "text": "淮陰", "type": "person", "ref": "person-hanxin"},
+        {"start": 30, "end": 31, "text": "楚", "type": "state", "ref": "state-huaiyin-hanxin"},
+        {"start": 32, "end": 34, "text": "彭越", "type": "person", "ref": "person-pengyue"},
+        {"start": 35, "end": 36, "text": "梁", "type": "state", "ref": "state-pengyue-liang"},
+        {"start": 38, "end": 39, "text": "荊", "type": "state", "ref": "state-jing"},
+        {"start": 39, "end": 40, "text": "燕", "type": "state", "ref": "state-yan"},
+        {"start": 44, "end": 45, "text": "齊", "type": "state", "ref": "state-qi-han"},
+        {"start": 45, "end": 46, "text": "趙", "type": "state", "ref": "state-zhaoo-changshan"},
+        {"start": 50, "end": 54, "text": "犬牙相制", "type": "institution", "ref": "inst-quanya-xiangzhi"},
+        {"start": 61, "end": 63, "text": "文景", "type": "person", "ref": "person-hanwendi"},
+        {"start": 69, "end": 71, "text": "魯恭", "type": "person", "ref": "person-liuyu"},
+        {"start": 71, "end": 73, "text": "梁孝", "type": "person", "ref": "person-liuwu"},
+        {"start": 74, "end": 76, "text": "濟北", "type": "person", "ref": "person-jibei-wang"},
+        {"start": 76, "end": 78, "text": "城陽", "type": "person", "ref": "person-chengyang-wang"}
+      ]
+    }
+  ],
+  "note": "标注范围为序文段0-段5共6段；start/end为段内字符起讫位置（0起算，含标点）；type分为person、place、state、event、institution、dynasty六类；ref指向实体定稿JSON中对应id。"
+}
