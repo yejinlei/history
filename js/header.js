@@ -12,20 +12,17 @@ function renderHeader(activePage) {
             <a href="https://yejinlei.github.io/history/pages/ontology.html">总纲索引</a>
             <a href="https://yejinlei.github.io/history/pages/ontology/architecture.html">核心架构：四轴七层</a>
             <a href="https://yejinlei.github.io/history/pages/ontology/single-books.html">单本史书构建方案</a>
-            <a href="https://yejinlei.github.io/history/pages/ontology/tongshi-system.html">整体通史构建方案</a>
+            <a href="https://yejinlei.github.io/history/pages/ontology/panorama-system.html">历史全景构建方案</a>
             <a href="https://yejinlei.github.io/history/pages/ontology/roadmap.html">路线图与质量规范</a>
           </div>
         </li>
         <li class="dropdown">
-          <a href="javascript:void(0)" class="${activePage === 'tongshi' ? 'active' : ''}">通史 ▾</a>
+          <a href="javascript:void(0)" class="${activePage === 'panorama' ? 'active' : ''}">历史全景 ▾</a>
           <div class="dropdown-content">
-            <a href="https://yejinlei.github.io/history/pages/tongshi-overview.html">通史概览（全局贯通）</a>
+            <a href="https://yejinlei.github.io/history/pages/panorama.html">历史全景·概览</a>
             <a href="https://yejinlei.github.io/history/pages/statistics.html">历史统计与推论（建设中）</a>
-            <a href="https://yejinlei.github.io/history/pages/zizhitongjian.html">《资治通鉴》【已上线】</a>
-            <a href="javascript:void(0)" style="color:#888;cursor:not-allowed;">吕思勉·中国通史（建设中）</a>
-            <a href="javascript:void(0)" style="color:#888;cursor:not-allowed;">钱穆·国史大纲（建设中）</a>
             <div class="dropdown-divider"></div>
-            <span style="display:block;padding:6px 16px;font-size:0.8em;color:#999;">更多通史著作持续收录中</span>
+            <span style="display:block;padding:6px 16px;font-size:0.8em;color:#999;">跨书全局研究，合全体正史为一整体</span>
           </div>
         </li>
         <li class="dropdown">
@@ -114,7 +111,7 @@ function renderHeader(activePage) {
       right: 0;
       top: 100%;
       background: #fffbf0;
-      min-width: 250px;
+      min-width: 260px;
       box-shadow: 0 4px 12px rgba(0,0,0,0.15);
       border: 1px solid #d4c4a8;
       border-top: 3px solid #8b2323;

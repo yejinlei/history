@@ -79,8 +79,57 @@ footer{background:var(--ink);color:#aaa;padding:3rem 2rem;text-align:center;font
 .hero-buttons .btn{padding:.8rem 1.5rem;font-size:.9rem}
 }
 </style>
-</head>
-<body>
+<style>
+.nav-dropdown { position:relative; }
+.nav-dropdown .dropdown-menu { display:none; position:absolute; top:100%; left:0; background:#fffdf5; border:1px solid #c9b48a; border-top:3px solid #a33; min-width:220px; box-shadow:0 6px 18px rgba(80,40,10,0.12); border-radius:0 0 3px 3px; z-index:200; padding:6px 0; }
+.nav-dropdown:hover .dropdown-menu { display:block; }
+.nav-dropdown .dropdown-menu a { display:block; padding:9px 18px; color:#3a2e1f; text-decoration:none; font-size:15px; border-bottom:1px dashed #eadcba; }
+.nav-dropdown .dropdown-menu a:last-child { border-bottom:none; }
+.nav-dropdown .dropdown-menu a:hover { background:#fff8e8; color:#a33; }
+.dropdown-hint { padding:8px 18px; font-size:13px; color:#9a8a6f; text-align:center; border-top:1px solid #eadcba; margin-top:4px; padding-top:10px; }
+</style></head>
+<body><nav class="navbar">
+    <a href="./index.html" class="logo">📜 中国历史本体论</a>
+    <a href="./index.html" class="nav-link">首页</a>
+    <div class="nav-dropdown">
+        <a href="./pages/ontology.html" class="nav-link">本体总纲 ▾</a>
+        <div class="dropdown-menu">
+            <a href="./pages/ontology.html">本体总纲</a>
+            <a href="./pages/ontology/architecture.html">核心架构·四轴七层</a>
+            <a href="./pages/ontology/single-book-schema.html">单本史书构建方案</a>
+            <a href="./pages/ontology/panorama-system.html">历史全景构建方案</a>
+            <a href="./pages/ontology/roadmap.html">路线图与质量规范</a>
+        </div>
+    </div>
+    <div class="nav-dropdown">
+        <a href="./pages/panorama.html" class="nav-link">历史全景 ▾</a>
+        <div class="dropdown-menu">
+            <a href="./pages/panorama.html">历史全景·概览</a>
+            <a href="./pages/panorama-stats.html">历史统计与推论（建设中）</a>
+        </div>
+    </div>
+    <div class="nav-dropdown">
+        <a href="./pages/zhengshi-texts.html" class="nav-link">正史 ▾</a>
+        <div class="dropdown-menu">
+            <a href="./pages/zhengshi-texts.html">📖 阅读正史文本</a>
+            <a href="./pages/shiji.html" style="color:#a33;font-weight:bold;">《史记》【已上线】</a>
+            <a href="./pages/zizhitongjian.html" style="color:#a33;font-weight:bold;">《资治通鉴》【已上线】</a>
+            <a href="#">《汉书》（建设中）</a>
+            <a href="#">《后汉书》（建设中）</a>
+            <a href="#">《三国志》（建设中）</a>
+            <div class="dropdown-hint">剩余22部正史逐步建设中</div>
+        </div>
+    </div>
+    <div class="nav-dropdown">
+        <a href="#" class="nav-link">专题研究 ▾</a>
+        <div class="dropdown-menu">
+            <a href="#">现代史学四大家</a>
+            <a href="#">历代政治制度</a>
+            <a href="#">历史地理沿革</a>
+        </div>
+    </div>
+    <a href="https://github.com/yejinlei/history" target="_blank" class="nav-link" style="margin-left:auto;">GitHub ↗</a>
+</nav>
 
 <div id="site-header" data-page="home"></div>
 
@@ -92,7 +141,7 @@ footer{background:var(--ink);color:#aaa;padding:3rem 2rem;text-align:center;font
     <div class="hero-buttons">
       <a href="pages/zhengshi-texts.html" class="btn btn-jade">📖 阅读正史原文</a>
       <a href="pages/ontology.html" class="btn btn-primary">进入本体总纲</a>
-      <a href="pages/tongshi-overview.html" class="btn" style="background:var(--gold);color:white;">通史概览</a>
+      <a href="pages/panorama.html" class="btn" style="background:var(--gold);color:white;">历史全景·概览</a>
       <a href="pages/shiji.html" class="btn btn-outline">浏览《史记》本体</a>
     </div>
   </div>
@@ -111,7 +160,7 @@ footer{background:var(--ink);color:#aaa;padding:3rem 2rem;text-align:center;font
     <div class="feature-card">
       <div class="feature-icon">📚</div>
       <div class="feature-title">双层本体设计</div>
-      <div class="feature-desc">单本史书本体尊重原书体例保留注疏，整体通史本体跨书整合贯通，史实均可回溯原文出处，无一字无来处。</div>
+      <div class="feature-desc">单本史书本体尊重原书体例保留注疏，历史全景本体跨书整合贯通，史实均可回溯原文出处，无一字无来处。</div>
     </div>
     <div class="feature-card">
       <div class="feature-icon">📜</div>
@@ -149,13 +198,13 @@ footer{background:var(--ink);color:#aaa;padding:3rem 2rem;text-align:center;font
 
 <div class="container">
   <h2 class="section-title">核心模块</h2>
-  <div class="section-subtitle">从单本到通史，从文本到研究</div>
+  <div class="section-subtitle">从单本到全景，从文本到研究</div>
 
   <div class="modules">
     <a href="pages/ontology.html" class="module-card module-1">
       <div class="module-header">📐 本体总纲</div>
       <div class="module-body">
-        四轴七层架构、类体系、关系谓词、单本与通史构建方案、质量规范与路线图。
+        四轴七层架构、类体系、关系谓词、单本与历史全景构建方案、质量规范与路线图。
         <div class="module-tags"><span class="module-tag">架构设计</span><span class="module-tag">TBox</span><span class="module-tag">规范</span></div>
         <div class="module-status">✓ 已发布</div>
       </div>
@@ -168,8 +217,8 @@ footer{background:var(--ink);color:#aaa;padding:3rem 2rem;text-align:center;font
         <div class="module-status">✓ 已上线1篇</div>
       </div>
     </a>
-    <a href="pages/tongshi-overview.html" class="module-card module-2">
-      <div class="module-header">🌐 通史贯通</div>
+    <a href="pages/panorama.html" class="module-card module-2">
+      <div class="module-header">🌐 历史全景</div>
       <div class="module-body">
         跨书整合人物、事件、制度、地理，去重对齐，考异互证，构建统一中国历史事实网络。
         <div class="module-tags"><span class="module-tag">实体对齐</span><span class="module-tag">考异</span><span class="module-tag">因果链</span></div>

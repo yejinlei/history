@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>史记·目录 - 中国历史本体论</title>
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
+body { font-family: "Noto Serif SC", "SimSun", serif; background: #f5efe0 url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80'%3E%3Cpath d='M0 0h80v80H0z' fill='%23f5efe0'/%3E%3Cpath d='M0 0h1v80H0zm20 0h1v80h-1zm20 0h1v80h-1zm20 0h1v80h-1zm20 0h1v80h-1zM0 0h80v1H0zm0 20h80v1H0zm0 20h80v1H0zm0 20h80v1H0zm0 20h80v1H0z' fill='%23e8ddc4' opacity='.3'/%3E%3C/svg%3E"); color:#3a2e1f; min-height:100vh; }
+.navbar { position:sticky; top:0; z-index:100; background:rgba(245,239,224,0.95); backdrop-filter:blur(8px); border-bottom:2px solid #a33; padding:12px 24px; display:flex; align-items:center; gap:28px; }
+.navbar .logo { font-size:22px; font-weight:bold; color:#a33; text-decoration:none; }
+.navbar a.nav-link { color:#3a2e1f; text-decoration:none; font-size:16px; padding:6px 4px; position:relative; }
+.navbar a.nav-link:hover { color:#a33; }
+.container { max-width:1100px; margin:0 auto; padding:40px 24px; }
+.book-header { background:linear-gradient(135deg, #fff8e8 0%, #f5efe0 100%); border:1px solid #c9b48a; border-left:6px solid #a33; padding:32px 36px; margin-bottom:40px; border-radius:4px; position:relative; }
+.book-header::before { content:""; position:absolute; top:12px; left:12px; right:12px; bottom:12px; border:1px solid #d4c5a0; pointer-events:none; border-radius:2px; }
+.book-title { font-size:40px; color:#a33; font-weight:bold; margin-bottom:8px; letter-spacing:6px; }
+.book-meta { font-size:15px; color:#6a5a3f; margin:8px 0; line-height:1.8; }
+.book-intro { font-size:16px; line-height:1.9; color:#4a3f2c; margin-top:16px; text-indent:2em; }
+.toc-section { margin-bottom:28px; }
+.toc-section-title { font-size:20px; color:#a33; border-bottom:2px solid #c9b48a; padding-bottom:6px; margin-bottom:14px; font-weight:bold; letter-spacing:2px; }
+.toc-items { display:grid; grid-template-columns:repeat(auto-fill, minmax(200px, 1fr)); gap:8px; }
+.toc-item { display:block; padding:8px 14px; background:#fff8e8; border:1px solid #e0d5ba; color:#3a2e1f; text-decoration:none; border-radius:3px; font-size:15px; transition:all .2s; }
+.toc-item:hover { background:#a33; color:#fff8e8; border-color:#a33; transform:translateY(-1px); }
+.footer { text-align:center; padding:40px 20px; color:#8a7a5f; font-size:14px; border-top:1px solid #d4c5a0; margin-top:60px; }
+</style>
+<style>
+.nav-dropdown { position:relative; }
+.nav-dropdown .dropdown-menu { display:none; position:absolute; top:100%; left:0; background:#fffdf5; border:1px solid #c9b48a; border-top:3px solid #a33; min-width:220px; box-shadow:0 6px 18px rgba(80,40,10,0.12); border-radius:0 0 3px 3px; z-index:200; padding:6px 0; }
+.nav-dropdown:hover .dropdown-menu { display:block; }
+.nav-dropdown .dropdown-menu a { display:block; padding:9px 18px; color:#3a2e1f; text-decoration:none; font-size:15px; border-bottom:1px dashed #eadcba; }
+.nav-dropdown .dropdown-menu a:last-child { border-bottom:none; }
+.nav-dropdown .dropdown-menu a:hover { background:#fff8e8; color:#a33; }
+.dropdown-hint { padding:8px 18px; font-size:13px; color:#9a8a6f; text-align:center; border-top:1px solid #eadcba; margin-top:4px; padding-top:10px; }
+</style></head>
+<body><nav class="navbar">
+    <a href="../index.html" class="logo">📜 中国历史本体论</a>
+    <a href="../index.html" class="nav-link">首页</a>
+    <div class="nav-dropdown">
+        <a href="../pages/ontology.html" class="nav-link">本体总纲 ▾</a>
+        <div class="dropdown-menu">
+            <a href="../pages/ontology.html">本体总纲</a>
+            <a href="../pages/ontology/architecture.html">核心架构·四轴七层</a>
+            <a href="../pages/ontology/single-book-schema.html">单本史书构建方案</a>
+            <a href="../pages/ontology/panorama-system.html">历史全景构建方案</a>
+            <a href="../pages/ontology/roadmap.html">路线图与质量规范</a>
+        </div>
+    </div>
+    <div class="nav-dropdown">
+        <a href="../pages/panorama.html" class="nav-link">历史全景 ▾</a>
+        <div class="dropdown-menu">
+            <a href="../pages/panorama.html">历史全景·概览</a>
+            <a href="../pages/panorama-stats.html">历史统计与推论（建设中）</a>
+        </div>
+    </div>
+    <div class="nav-dropdown">
+        <a href="../pages/zhengshi-texts.html" class="nav-link">正史 ▾</a>
+        <div class="dropdown-menu">
+            <a href="../pages/zhengshi-texts.html">📖 阅读正史文本</a>
+            <a href="../pages/shiji.html" style="color:#a33;font-weight:bold;">《史记》【已上线】</a>
+            <a href="../pages/zizhitongjian.html" style="color:#a33;font-weight:bold;">《资治通鉴》【已上线】</a>
+            <a href="#">《汉书》（建设中）</a>
+            <a href="#">《后汉书》（建设中）</a>
+            <a href="#">《三国志》（建设中）</a>
+            <div class="dropdown-hint">剩余22部正史逐步建设中</div>
+        </div>
+    </div>
+    <div class="nav-dropdown">
+        <a href="#" class="nav-link">专题研究 ▾</a>
+        <div class="dropdown-menu">
+            <a href="#">现代史学四大家</a>
+            <a href="#">历代政治制度</a>
+            <a href="#">历史地理沿革</a>
+        </div>
+    </div>
+    <a href="https://github.com/yejinlei/history" target="_blank" class="nav-link" style="margin-left:auto;">GitHub ↗</a>
+</nav>
+<nav>
+<div class="nav-inner">
+  <a href="../index.html" class="logo">中国历史本体论</a>
+  <ul class="nav-menu">
+    <li class="nav-item"><a href="../index.html">首页</a></li>
+    <li class="nav-item">
+      <a href="texts/shiji-wudi-benji.html">史书文本 ▾</a>
+      <ul class="dropdown">
+        <li><a href="texts/shiji-wudi-benji.html" class="launched">史记·五帝本纪 ✓</a></li>
+        <li><a href="#" class="coming-soon">史记·项羽本纪</a></li>
+        <li><a href="#" class="coming-soon">资治通鉴·周纪一</a></li>
+        <li class="divider"></li>
+        <li><span class="coming-soon">更多篇目持续录入中…</span></li>
+      </ul>
+    </li>
+    <li class="nav-item"><a href="ontology.html">本体总纲</a></li>
+    <li class="nav-item">
+      <a href="panorama.html">历史全景</a>
+      <ul class="dropdown">
+        <li><a href="panorama.html" class="launched">历史全景·概览（整体）✓</a></li>
+        <li><a href="#" class="launched">资治通鉴 ✓</a></li>
+        <li class="divider"></li>
+      </ul>
+    </li>
+    <li class="nav-item">
+      <a href="#" class="active">二十四史</a>
+      <ul class="dropdown">
+        <li><a href="shiji-index.html" class="launched">史记 ✓</a></li>
+        <li><a href="#" class="coming-soon">汉书</a></li>
+        <li><a href="#" class="coming-soon">后汉书</a></li>
+        <li><a href="#" class="coming-soon">三国志</a></li>
+        <li class="divider"></li>
+        <li><span class="coming-soon">剩余20部逐步建设中...</span></li>
+      </ul>
+    </li>
+    <li class="nav-item">
+      <a href="#">专题研究</a>
+      <ul class="dropdown">
+        <li><a href="#" class="coming-soon">现代史学四大家</a></li>
+        <li><a href="#" class="coming-soon">典章制度史</a></li>
+        <li><a href="#" class="coming-soon">历史地理</a></li>
+      </ul>
+    </li>
+    <li class="nav-item"><a href="https://github.com/yejinlei/history" target="_blank">GitHub</a></li>
+  </ul>
+</div>
+</nav>
+<div class="container">
+    <div class="book-header">
+        <div class="book-title">史记</div>
+        <div class="book-meta">📖 作者：【西汉】司马迁 &nbsp;|&nbsp; 📑 注疏：裴骃集解、司马贞索隐、张守节正义 &nbsp;|&nbsp; 📚 分类：二十四史·第一部 &nbsp;|&nbsp; 📜 共130卷</div>
+        <div class="book-intro">《史记》原名《太史公书》，是中国第一部纪传体通史，记载上起黄帝、下至汉武帝太初年间共约三千年历史。全书共一百三十篇，五十二万余字，分为十二本纪、十表、八书、三十世家、七十列传。</div>
+    </div>
+    <h2 style="color:#a33; font-size:24px; margin-bottom:24px; letter-spacing:4px;">📚 篇目总目（共130篇）</h2>
+    <div class="toc-section"><div class="toc-section-title">十二本纪（12）</div><div class="toc-items"><a class="toc-item" href="shiji-reader.html?ch=shiji-五帝本纪">五帝本纪</a><a class="toc-item" href="shiji-reader.html?ch=shiji-夏本纪">夏本纪</a><a class="toc-item" href="shiji-reader.html?ch=shiji-殷本纪">殷本纪</a><a class="toc-item" href="shiji-reader.html?ch=shiji-周本纪">周本纪</a><a class="toc-item" href="shiji-reader.html?ch=shiji-秦本纪">秦本纪</a><a class="toc-item" href="shiji-reader.html?ch=shiji-秦始皇本纪">秦始皇本纪</a><a class="toc-item" href="shiji-reader.html?ch=shiji-项羽本纪">项羽本纪</a><a class="toc-item" href="shiji-reader.html?ch=shiji-高祖本纪">高祖本纪</a><a class="toc-item" href="shiji-reader.html?ch=shiji-吕太后本纪">吕太后本纪</a><a class="toc-item" href="shiji-reader.html?ch=shiji-孝文本纪">孝文本纪</a><a class="toc-item" href="shiji-reader.html?ch=shiji-孝景本纪">孝景本纪</a><a class="toc-item" href="shiji-reader.html?ch=shiji-孝武本纪">孝武本纪</a></div></div><div class="toc-section"><div class="toc-section-title">十表（9）</div><div class="toc-items"><a class="toc-item" href="shiji-reader.html?ch=shiji-三代世表">三代世表</a><a class="toc-item" href="shiji-reader.html?ch=shiji-十二诸侯年表">十二诸侯年表</a><a class="toc-item" href="shiji-reader.html?ch=shiji-六国年表">六国年表</a><a class="toc-item" href="shiji-reader.html?ch=shiji-秦楚之际月表">秦楚之际月表</a><a class="toc-item" href="shiji-reader.html?ch=shiji-汉兴以来诸侯王年表">汉兴以来诸侯王年表</a><a class="toc-item" href="shiji-reader.html?ch=shiji-高祖功臣侯者年表">高祖功臣侯者年表</a><a class="toc-item" href="shiji-reader.html?ch=shiji-惠景间侯者年表">惠景间侯者年表</a><a class="toc-item" href="shiji-reader.html?ch=shiji-建元以来侯者年表">建元以来侯者年表</a><a class="toc-item" href="shiji-reader.html?ch=shiji-汉兴以来将相名臣年表">汉兴以来将相名臣年表</a></div></div><div class="toc-section"><div class="toc-section-title">八书（8）</div><div class="toc-items"><a class="toc-item" href="shiji-reader.html?ch=shiji-礼书">礼书</a><a class="toc-item" href="shiji-reader.html?ch=shiji-乐书">乐书</a><a class="toc-item" href="shiji-reader.html?ch=shiji-律书">律书</a><a class="toc-item" href="shiji-reader.html?ch=shiji-历书">历书</a><a class="toc-item" href="shiji-reader.html?ch=shiji-天官书">天官书</a><a class="toc-item" href="shiji-reader.html?ch=shiji-封禅书">封禅书</a><a class="toc-item" href="shiji-reader.html?ch=shiji-河渠书">河渠书</a><a class="toc-item" href="shiji-reader.html?ch=shiji-平准书">平准书</a></div></div><div class="toc-section"><div class="toc-section-title">三十世家（30）</div><div class="toc-items"><a class="toc-item" href="shiji-reader.html?ch=shiji-吴太伯世家">吴太伯世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-齐太公世家">齐太公世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-鲁周公世家">鲁周公世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-燕召公世家">燕召公世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-管蔡世家">管蔡世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-陈杞世家">陈杞世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-卫康叔世家">卫康叔世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-宋微子世家">宋微子世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-晋世家">晋世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-楚世家">楚世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-越王勾践世家">越王勾践世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-郑世家">郑世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-赵世家">赵世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-魏世家">魏世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-韩世家">韩世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-田敬仲完世家">田敬仲完世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-孔子世家">孔子世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-陈涉世家">陈涉世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-外戚世家">外戚世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-楚元王世家">楚元王世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-荆燕世家">荆燕世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-齐悼惠王世家">齐悼惠王世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-萧相国世家">萧相国世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-曹相国世家">曹相国世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-留侯世家">留侯世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-陈丞相世家">陈丞相世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-绛侯周勃世家">绛侯周勃世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-梁孝王世家">梁孝王世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-五宗世家">五宗世家</a><a class="toc-item" href="shiji-reader.html?ch=shiji-三王世家">三王世家</a></div></div><div class="toc-section"><div class="toc-section-title">七十列传（70）</div><div class="toc-items"><a class="toc-item" href="shiji-reader.html?ch=shiji-伯夷列传">伯夷列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-管晏列传">管晏列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-老子韩非列传">老子韩非列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-司马穰苴列传">司马穰苴列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-孙子吴起列传">孙子吴起列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-伍子胥列传">伍子胥列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-仲尼弟子列传">仲尼弟子列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-商君列传">商君列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-苏秦列传">苏秦列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-张仪列传">张仪列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-樗里子甘茂列传">樗里子甘茂列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-穰侯列传">穰侯列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-白起王翦列传">白起王翦列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-孟子荀卿列传">孟子荀卿列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-孟尝君列传">孟尝君列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-平原君虞卿列传">平原君虞卿列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-魏公子列传">魏公子列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-春申君列传">春申君列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-范雎蔡泽列传">范雎蔡泽列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-乐毅列传">乐毅列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-廉颇蔺相如列传">廉颇蔺相如列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-田单列传">田单列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-鲁仲连邹阳列传">鲁仲连邹阳列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-屈原贾生列传">屈原贾生列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-吕不韦列传">吕不韦列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-刺客列传">刺客列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-李斯列传">李斯列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-蒙恬列传">蒙恬列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-张耳陈馀列传">张耳陈馀列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-魏豹彭越列传">魏豹彭越列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-黥布列传">黥布列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-淮阴侯列传">淮阴侯列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-韩信卢绾列传">韩信卢绾列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-田儋列传">田儋列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-樊郦滕灌列传">樊郦滕灌列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-张丞相列传">张丞相列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-郦生陆贾列传">郦生陆贾列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-傅靳蒯成列传">傅靳蒯成列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-刘敬叔孙通列传">刘敬叔孙通列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-季布栾布列传">季布栾布列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-袁盎晁错列传">袁盎晁错列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-张释之冯唐列传">张释之冯唐列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-万石张叔列传">万石张叔列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-田叔列传">田叔列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-扁鹊仓公列传">扁鹊仓公列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-吴王濞列传">吴王濞列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-魏其武安侯列传">魏其武安侯列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-韩长孺列传">韩长孺列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-李将军列传">李将军列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-匈奴列传">匈奴列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-卫将军骠骑列传">卫将军骠骑列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-平津侯主父列传">平津侯主父列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-南越列传">南越列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-东越列传">东越列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-朝鲜列传">朝鲜列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-西南夷列传">西南夷列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-司马相如列传">司马相如列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-淮南衡山列传">淮南衡山列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-循吏列传">循吏列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-汲郑列传">汲郑列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-儒林列传">儒林列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-酷吏列传">酷吏列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-大宛列传">大宛列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-游侠列传">游侠列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-佞幸列传">佞幸列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-滑稽列传">滑稽列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-日者列传">日者列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-龟策列传">龟策列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-货殖列传">货殖列传</a><a class="toc-item" href="shiji-reader.html?ch=shiji-太史公自序">太史公自序</a></div></div><div class="toc-section"><div class="toc-section-title">其他（1）</div><div class="toc-items"><a class="toc-item" href="shiji-reader.html?ch=shiji-建元已来王子侯者年表">建元已来王子侯者年表</a></div></div>
+</div>
+<div class="footer">
+    中国历史本体论 · 正史文本库 · 史记
+</div>
+</body>
+</html>

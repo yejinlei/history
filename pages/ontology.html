@@ -29,8 +29,57 @@
     .arch-box.text h3 { color: #8b2323; }
     .arch-box.fact h3 { color: #2a6b2a; }
   </style>
-</head>
-<body>
+<style>
+.nav-dropdown { position:relative; }
+.nav-dropdown .dropdown-menu { display:none; position:absolute; top:100%; left:0; background:#fffdf5; border:1px solid #c9b48a; border-top:3px solid #a33; min-width:220px; box-shadow:0 6px 18px rgba(80,40,10,0.12); border-radius:0 0 3px 3px; z-index:200; padding:6px 0; }
+.nav-dropdown:hover .dropdown-menu { display:block; }
+.nav-dropdown .dropdown-menu a { display:block; padding:9px 18px; color:#3a2e1f; text-decoration:none; font-size:15px; border-bottom:1px dashed #eadcba; }
+.nav-dropdown .dropdown-menu a:last-child { border-bottom:none; }
+.nav-dropdown .dropdown-menu a:hover { background:#fff8e8; color:#a33; }
+.dropdown-hint { padding:8px 18px; font-size:13px; color:#9a8a6f; text-align:center; border-top:1px solid #eadcba; margin-top:4px; padding-top:10px; }
+</style></head>
+<body><nav class="navbar">
+    <a href="./index.html" class="logo">📜 中国历史本体论</a>
+    <a href="./index.html" class="nav-link">首页</a>
+    <div class="nav-dropdown">
+        <a href="./pages/ontology.html" class="nav-link">本体总纲 ▾</a>
+        <div class="dropdown-menu">
+            <a href="./pages/ontology.html">本体总纲</a>
+            <a href="./pages/ontology/architecture.html">核心架构·四轴七层</a>
+            <a href="./pages/ontology/single-book-schema.html">单本史书构建方案</a>
+            <a href="./pages/ontology/panorama-system.html">历史全景构建方案</a>
+            <a href="./pages/ontology/roadmap.html">路线图与质量规范</a>
+        </div>
+    </div>
+    <div class="nav-dropdown">
+        <a href="./pages/panorama.html" class="nav-link">历史全景 ▾</a>
+        <div class="dropdown-menu">
+            <a href="./pages/panorama.html">历史全景·概览</a>
+            <a href="./pages/panorama-stats.html">历史统计与推论（建设中）</a>
+        </div>
+    </div>
+    <div class="nav-dropdown">
+        <a href="./pages/zhengshi-texts.html" class="nav-link">正史 ▾</a>
+        <div class="dropdown-menu">
+            <a href="./pages/zhengshi-texts.html">📖 阅读正史文本</a>
+            <a href="./pages/shiji.html" style="color:#a33;font-weight:bold;">《史记》【已上线】</a>
+            <a href="./pages/zizhitongjian.html" style="color:#a33;font-weight:bold;">《资治通鉴》【已上线】</a>
+            <a href="#">《汉书》（建设中）</a>
+            <a href="#">《后汉书》（建设中）</a>
+            <a href="#">《三国志》（建设中）</a>
+            <div class="dropdown-hint">剩余22部正史逐步建设中</div>
+        </div>
+    </div>
+    <div class="nav-dropdown">
+        <a href="#" class="nav-link">专题研究 ▾</a>
+        <div class="dropdown-menu">
+            <a href="#">现代史学四大家</a>
+            <a href="#">历代政治制度</a>
+            <a href="#">历史地理沿革</a>
+        </div>
+    </div>
+    <a href="https://github.com/yejinlei/history" target="_blank" class="nav-link" style="margin-left:auto;">GitHub ↗</a>
+</nav>
   <div id="site-header" data-page="ontology"></div>
 
   <div class="container">
@@ -38,14 +87,14 @@
     <p class="subtitle">中国历史本体论建设规范与整体架构</p>
 
     <div class="intro">
-      <p>本历史本体论采用<strong>「单本史书本体 + 整体通史本体」双层架构</strong>，既尊重每一部史书自身的体例与结构，又通过跨文本整合形成统一的中国历史事实网络：</p>
+      <p>本历史本体论采用<strong>「单本史书本体 + 历史全景本体」双层架构</strong>，既尊重每一部史书自身的体例与结构，又通过跨文本整合形成统一的中国历史事实网络：</p>
       <div class="two-arch">
         <div class="arch-box text">
           <h3>📖 单本史书本体（文本层）</h3>
           <p style="font-size:0.95em;line-height:1.7;">以具体著作为中心，还原每部史书的原生体例（纪传体/编年体/纪事本末等）、篇目结构、注疏系统，解决「一本书里写了什么、怎么写的」问题。</p>
         </div>
         <div class="arch-box fact">
-          <h3>🌐 整体通史本体（史实层）</h3>
+          <h3>🌐 历史全景本体（史实层）</h3>
           <p style="font-size:0.95em;line-height:1.7;">以历史事实本身为中心，跨书整合所有正史、编年、纪事本末史料，完成人物去重、事件对齐、异文考异、制度沿革追踪，解决「历史真实是什么」的问题。</p>
         </div>
       </div>
@@ -75,8 +124,8 @@
       </div>
     </a>
 
-    <a href="ontology/tongshi-system.html" class="section-card">
-      <h2>🌐 三、整体通史本体构建方案 <span class="arrow">→</span></h2>
+    <a href="ontology/panorama-system.html" class="section-card">
+      <h2>🌐 三、历史全景本体构建方案 <span class="arrow">→</span></h2>
       <p>跨文本贯通建模规范，包含人物异名去重、事件异文对齐、制度沿革链、地理古今对照、因果关系网络、史料溯源考异等核心机制，继承司马光「考异法」传统，保证所有史实均有原文出处支撑。</p>
       <div class="tags">
         <span class="tag">实体对齐</span>

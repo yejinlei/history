@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>整体通史本体 | 中国历史本体论</title>
+<title>整体历史全景 | 中国历史本体论</title>
 <style>
   :root {
     --ink: #1a1a1a;
@@ -191,8 +191,57 @@
     .container { margin-left: auto; }
   }
 </style>
-</head>
-<body>
+<style>
+.nav-dropdown { position:relative; }
+.nav-dropdown .dropdown-menu { display:none; position:absolute; top:100%; left:0; background:#fffdf5; border:1px solid #c9b48a; border-top:3px solid #a33; min-width:220px; box-shadow:0 6px 18px rgba(80,40,10,0.12); border-radius:0 0 3px 3px; z-index:200; padding:6px 0; }
+.nav-dropdown:hover .dropdown-menu { display:block; }
+.nav-dropdown .dropdown-menu a { display:block; padding:9px 18px; color:#3a2e1f; text-decoration:none; font-size:15px; border-bottom:1px dashed #eadcba; }
+.nav-dropdown .dropdown-menu a:last-child { border-bottom:none; }
+.nav-dropdown .dropdown-menu a:hover { background:#fff8e8; color:#a33; }
+.dropdown-hint { padding:8px 18px; font-size:13px; color:#9a8a6f; text-align:center; border-top:1px solid #eadcba; margin-top:4px; padding-top:10px; }
+</style></head>
+<body><nav class="navbar">
+    <a href="./index.html" class="logo">📜 中国历史本体论</a>
+    <a href="./index.html" class="nav-link">首页</a>
+    <div class="nav-dropdown">
+        <a href="./pages/ontology.html" class="nav-link">本体总纲 ▾</a>
+        <div class="dropdown-menu">
+            <a href="./pages/ontology.html">本体总纲</a>
+            <a href="./pages/ontology/architecture.html">核心架构·四轴七层</a>
+            <a href="./pages/ontology/single-book-schema.html">单本史书构建方案</a>
+            <a href="./pages/ontology/panorama-system.html">历史全景构建方案</a>
+            <a href="./pages/ontology/roadmap.html">路线图与质量规范</a>
+        </div>
+    </div>
+    <div class="nav-dropdown">
+        <a href="./pages/panorama.html" class="nav-link">历史全景 ▾</a>
+        <div class="dropdown-menu">
+            <a href="./pages/panorama.html">历史全景·概览</a>
+            <a href="./pages/panorama-stats.html">历史统计与推论（建设中）</a>
+        </div>
+    </div>
+    <div class="nav-dropdown">
+        <a href="./pages/zhengshi-texts.html" class="nav-link">正史 ▾</a>
+        <div class="dropdown-menu">
+            <a href="./pages/zhengshi-texts.html">📖 阅读正史文本</a>
+            <a href="./pages/shiji.html" style="color:#a33;font-weight:bold;">《史记》【已上线】</a>
+            <a href="./pages/zizhitongjian.html" style="color:#a33;font-weight:bold;">《资治通鉴》【已上线】</a>
+            <a href="#">《汉书》（建设中）</a>
+            <a href="#">《后汉书》（建设中）</a>
+            <a href="#">《三国志》（建设中）</a>
+            <div class="dropdown-hint">剩余22部正史逐步建设中</div>
+        </div>
+    </div>
+    <div class="nav-dropdown">
+        <a href="#" class="nav-link">专题研究 ▾</a>
+        <div class="dropdown-menu">
+            <a href="#">现代史学四大家</a>
+            <a href="#">历代政治制度</a>
+            <a href="#">历史地理沿革</a>
+        </div>
+    </div>
+    <a href="https://github.com/yejinlei/history" target="_blank" class="nav-link" style="margin-left:auto;">GitHub ↗</a>
+</nav>
 <div id="site-header" data-page="tongshi"></div>
 
 <!-- 导航栏 -->
@@ -213,14 +262,11 @@
     </li>
       <li class="nav-item"><a href="ontology.html">本体总纲</a></li>
       <li class="nav-item">
-        <a href="tongshi-overview.html" class="active">通史</a>
+        <a href="panorama.html" class="active">历史全景</a>
         <ul class="dropdown">
-          <li><a href="tongshi-overview.html" class="launched">通史概览（整体）✓</a></li>
+          <li><a href="panorama.html" class="launched">历史全景·概览（整体）✓</a></li>
           <li><a href="zizhitongjian.html" class="launched">资治通鉴 ✓</a></li>
-          <li><a href="#" class="coming-soon">吕思勉《中国通史》</a></li>
-          <li><a href="#" class="coming-soon">钱穆《国史大纲》</a></li>
           <li class="divider"></li>
-          <li><span class="coming-soon">更多通史持续收录中...</span></li>
         </ul>
       </li>
       <li class="nav-item">
@@ -261,7 +307,7 @@
 <!-- 英雄区 -->
 <section class="hero">
   <div class="hero-inner">
-    <h1>整体通史本体</h1>
+    <h1>整体历史全景</h1>
     <div class="hero-subtitle">贯通所有史书 · 还原历史本身 · 跨书互证考异</div>
     <div class="hero-stats">
       <div class="hero-stat">
@@ -289,11 +335,11 @@
   <section id="overview" class="section">
     <h2 class="section-title">一、设计理念</h2>
     <p class="section-desc">
-      整体通史本体不是某一本具体的书，而是<strong>以历史事实本身为中心</strong>，把所有史书中分散的记载整合起来的统一知识网络。
+      整体历史全景不是某一本具体的书，而是<strong>以历史事实本身为中心</strong>，把所有史书中分散的记载整合起来的统一知识网络。
       它打破单本书的界限，解决"同一个人在不同书里名字不一样""同一件事不同书记载不同""同一个制度跨多朝演变"这些单本书本体无法解决的问题。
     </p>
     <p class="section-desc">
-      整体通史本体的核心原则是<strong>「无一字无来处」</strong>：每一个史实断言都必须能回溯到至少一本具体史书的具体篇章，
+      整体历史全景的核心原则是<strong>「无一字无来处」</strong>：每一个史实断言都必须能回溯到至少一本具体史书的具体篇章，
       不同记载的差异予以保留（通过考异实体），不做主观的强行统一，体现史学研究的严谨性。
     </p>
   </section>
@@ -303,7 +349,7 @@
     <h2 class="section-title">二、整体架构示意</h2>
     <div class="arch-diagram">
       <div class="arch-layer arch-layer-fact">
-        <div class="arch-layer-title" style="color: var(--jade);">📚 整体通史本体（史实层）</div>
+        <div class="arch-layer-title" style="color: var(--jade);">📚 整体历史全景（史实层）</div>
         <div class="arch-layer-desc">统一人物、统一事件、统一制度、统一地理、统一时序；跨书因果、沿革、传承网络</div>
       </div>
       <div class="arch-arrow">⬇ ⬆ <br><small>recorded_in / found_in（溯源） / corresponds_to（对应）</small></div>
@@ -337,7 +383,7 @@
       </div>
       <div class="problem-card">
         <h3>🏛️ 制度沿革追踪</h3>
-        <p>如郡县制、科举制、均田制、三省六部制等制度跨多个朝代演变，单本史书记载断代，通史本体可以追踪制度从产生到演变到消亡的完整脉络。</p>
+        <p>如郡县制、科举制、均田制、三省六部制等制度跨多个朝代演变，单本史书记载断代，历史全景可以追踪制度从产生到演变到消亡的完整脉络。</p>
       </div>
       <div class="problem-card">
         <h3>📍 地理沿革变迁</h3>
@@ -345,7 +391,7 @@
       </div>
       <div class="problem-card">
         <h3>⏳ 因果链条贯通</h3>
-        <p>单本史书只记一个朝代，事件的前因可能在上一朝代，后果可能在下一朝代，通史本体可以贯通整个历史的因果链条，看清长时段发展规律。</p>
+        <p>单本史书只记一个朝代，事件的前因可能在上一朝代，后果可能在下一朝代，历史全景可以贯通整个历史的因果链条，看清长时段发展规律。</p>
       </div>
       <div class="problem-card">
         <h3>📜 史料溯源与互证</h3>
@@ -357,7 +403,7 @@
   <!-- 四、跨书整合流程 -->
   <section id="pipeline" class="section">
     <h2 class="section-title">四、跨书本体构建流程</h2>
-    <p class="section-desc">整体通史本体采用「单本录入→实体对齐→关系联通→考异补充」的四步流程构建，继承司马光《资治通鉴考异》的考据传统。</p>
+    <p class="section-desc">整体历史全景采用「单本录入→实体对齐→关系联通→考异补充」的四步流程构建，继承司马光《资治通鉴考异》的考据传统。</p>
     <div class="pipeline">
       <div class="pipeline-step">
         <div class="step-title">第一步：单本史书本体录入</div>
@@ -384,8 +430,8 @@
 
   <!-- 五、核心实体类型 -->
   <section id="entities" class="section">
-    <h2 class="section-title">五、整体通史本体核心实体类型</h2>
-    <p class="section-desc">整体通史本体在TBox层定义以下核心实体类型，所有单本书的实例最终都映射到这些类型上：</p>
+    <h2 class="section-title">五、整体历史全景核心实体类型</h2>
+    <p class="section-desc">整体历史全景在TBox层定义以下核心实体类型，所有单本书的实例最终都映射到这些类型上：</p>
     <table class="entity-table">
       <thead>
         <tr>
@@ -461,7 +507,7 @@
         <tr>
           <td><span class="rel-name">same_as</span></td>
           <td>单书人物/地名 → 统一实体</td>
-          <td>单书中的实体对应通史本体中的统一实体（去重/对齐）</td>
+          <td>单书中的实体对应历史全景中的统一实体（去重/对齐）</td>
           <td><span style="font-size:0.75rem;padding:0.1rem 0.3rem;background:#f0f0f0;border-radius:3px;">传递性</span><span style="font-size:0.75rem;padding:0.1rem 0.3rem;background:#f0f0f0;border-radius:3px;margin-left:0.2rem;">对称性</span></td>
         </tr>
         <tr>

@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>整体通史本体构建方案 - 本体总纲</title>
+  <title>历史全景本体构建方案 - 本体总纲</title>
   <style>
     body { background: #f5efe0; margin: 0; padding-top: 80px; font-family: "PingFang SC", "Microsoft YaHei", sans-serif; color: #2a2018; }
     .container { max-width: 1100px; margin: 0 auto; padding: 20px 30px; }
@@ -26,16 +26,65 @@
     .step-item::before { content: counter(step); position: absolute; left: 15px; top: 12px; width: 28px; height: 28px; background: #2a6b2a; color: white; border-radius: 50%; text-align: center; line-height: 28px; font-weight: bold; }
     .step-name { font-weight: bold; font-size: 1.1em; margin-bottom: 5px; }
   </style>
-</head>
-<body>
+<style>
+.nav-dropdown { position:relative; }
+.nav-dropdown .dropdown-menu { display:none; position:absolute; top:100%; left:0; background:#fffdf5; border:1px solid #c9b48a; border-top:3px solid #a33; min-width:220px; box-shadow:0 6px 18px rgba(80,40,10,0.12); border-radius:0 0 3px 3px; z-index:200; padding:6px 0; }
+.nav-dropdown:hover .dropdown-menu { display:block; }
+.nav-dropdown .dropdown-menu a { display:block; padding:9px 18px; color:#3a2e1f; text-decoration:none; font-size:15px; border-bottom:1px dashed #eadcba; }
+.nav-dropdown .dropdown-menu a:last-child { border-bottom:none; }
+.nav-dropdown .dropdown-menu a:hover { background:#fff8e8; color:#a33; }
+.dropdown-hint { padding:8px 18px; font-size:13px; color:#9a8a6f; text-align:center; border-top:1px solid #eadcba; margin-top:4px; padding-top:10px; }
+</style></head>
+<body><nav class="navbar">
+    <a href="../index.html" class="logo">📜 中国历史本体论</a>
+    <a href="../index.html" class="nav-link">首页</a>
+    <div class="nav-dropdown">
+        <a href="../pages/ontology.html" class="nav-link">本体总纲 ▾</a>
+        <div class="dropdown-menu">
+            <a href="../pages/ontology.html">本体总纲</a>
+            <a href="../pages/ontology/architecture.html">核心架构·四轴七层</a>
+            <a href="../pages/ontology/single-book-schema.html">单本史书构建方案</a>
+            <a href="../pages/ontology/panorama-system.html">历史全景构建方案</a>
+            <a href="../pages/ontology/roadmap.html">路线图与质量规范</a>
+        </div>
+    </div>
+    <div class="nav-dropdown">
+        <a href="../pages/panorama.html" class="nav-link">历史全景 ▾</a>
+        <div class="dropdown-menu">
+            <a href="../pages/panorama.html">历史全景·概览</a>
+            <a href="../pages/panorama-stats.html">历史统计与推论（建设中）</a>
+        </div>
+    </div>
+    <div class="nav-dropdown">
+        <a href="../pages/zhengshi-texts.html" class="nav-link">正史 ▾</a>
+        <div class="dropdown-menu">
+            <a href="../pages/zhengshi-texts.html">📖 阅读正史文本</a>
+            <a href="../pages/shiji.html" style="color:#a33;font-weight:bold;">《史记》【已上线】</a>
+            <a href="../pages/zizhitongjian.html" style="color:#a33;font-weight:bold;">《资治通鉴》【已上线】</a>
+            <a href="#">《汉书》（建设中）</a>
+            <a href="#">《后汉书》（建设中）</a>
+            <a href="#">《三国志》（建设中）</a>
+            <div class="dropdown-hint">剩余22部正史逐步建设中</div>
+        </div>
+    </div>
+    <div class="nav-dropdown">
+        <a href="#" class="nav-link">专题研究 ▾</a>
+        <div class="dropdown-menu">
+            <a href="#">现代史学四大家</a>
+            <a href="#">历代政治制度</a>
+            <a href="#">历史地理沿革</a>
+        </div>
+    </div>
+    <a href="https://github.com/yejinlei/history" target="_blank" class="nav-link" style="margin-left:auto;">GitHub ↗</a>
+</nav>
   <div id="site-header" data-page="ontology"></div>
 
   <div class="container">
     <a href="../ontology.html" class="back-link">← 返回本体总纲</a>
-    <h1 class="title">🌐 整体通史本体构建方案</h1>
+    <h1 class="title">🌐 历史全景本体构建方案</h1>
 
     <div class="card">
-      <p>整体通史本体以<strong>「历史事实本身」</strong>为中心，不局限于某一部书，而是把所有正史、编年、纪事本末、典志、出土文献等史料作为证据来源，构建一个跨文本的中国历史事实网络。所有史实结论必须通过 <code>recorded_in</code> 关系回溯到单本原文，做到「无一字无来处」，继承司马光《资治通鉴考异》的「长编考异」传统。</p>
+      <p>历史全景本体以<strong>「历史事实本身」</strong>为中心，不局限于某一部书，而是把所有正史、编年、纪事本末、典志、出土文献等史料作为证据来源，构建一个跨文本的中国历史事实网络。所有史实结论必须通过 <code>recorded_in</code> 关系回溯到单本原文，做到「无一字无来处」，继承司马光《资治通鉴考异》的「长编考异」传统。</p>
     </div>
 
     <h2>三层架构</h2>
