@@ -14,36 +14,20 @@ body{font-family:'Noto Sans SC',sans-serif;background:var(--paper);color:var(--i
 h1,h2,h3,h4{font-family:'Noto Serif SC',serif;font-weight:700}
 a{text-decoration:none;color:inherit}
 
-/* 导航栏 */
-nav{position:fixed;top:0;left:0;right:0;z-index:100;background:rgba(250,248,245,.95);backdrop-filter:blur(10px);border-bottom:1px solid var(--line);padding:0 2rem}
-.nav-inner{max-width:1280px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;height:64px}
-.logo{font-family:'Noto Serif SC',serif;font-size:1.3rem;font-weight:900;color:var(--zhu);display:flex;align-items:center;gap:.6rem}
-.logo::before{content:"";width:4px;height:22px;background:var(--zhu);border-radius:2px}
-.nav-menu{display:flex;gap:.2rem;list-style:none}
-.nav-item{position:relative}
-.nav-item > a{display:block;padding:0 1rem;line-height:64px;font-weight:500;font-size:.95rem;transition:color .2s}
-.nav-item > a:hover,.nav-item > a.active{color:var(--zhu)}
-.nav-item > a.active{box-shadow:inset 0 -2px 0 var(--zhu)}
-.dropdown{position:absolute;top:100%;left:0;min-width:200px;background:#fff;border:1px solid var(--line);border-radius:8px;box-shadow:var(--shadow);padding:.5rem 0;opacity:0;visibility:hidden;transform:translateY(8px);transition:all .25s;list-style:none}
-.nav-item:hover .dropdown{opacity:1;visibility:visible;transform:translateY(0)}
-.dropdown li a{display:block;padding:.65rem 1.2rem;font-size:.9rem;color:var(--ink-light);transition:all .2s}
-.dropdown li a:hover{background:var(--paper-2);color:var(--zhu);padding-left:1.5rem}
-.dropdown .divider{height:1px;background:var(--line);margin:.4rem 0}
-.dropdown .coming-soon{padding:.65rem 1.2rem;font-size:.85rem;color:#aaa;font-style:italic}
-.dropdown .launched{color:var(--zhu);font-weight:500}
-
 /* Hero */
-.hero{margin-top:64px;min-height:85vh;background:linear-gradient(rgba(26,26,26,0.75),rgba(26,26,26,0.9)),url('http://cdn.yun.sooce.cn/6/54179/jpg/173742729468901ce71f214485a0a7070e81b45d3f660.jpg?version=1737427297') center/cover;color:var(--paper);display:flex;align-items:center;justify-content:center;text-align:center;padding:2rem;position:relative}
+.hero{min-height:85vh;background:linear-gradient(rgba(26,26,26,0.75),rgba(26,26,26,0.9)),url('http://cdn.yun.sooce.cn/6/54179/jpg/173742729468901ce71f214485a0a7070e81b45d3f660.jpg?version=1737427297') center/cover;color:var(--paper);display:flex;align-items:center;justify-content:center;text-align:center;padding:2rem;position:relative}
 .hero-content{max-width:900px;position:relative}
 .hero h1{font-size:4.5rem;letter-spacing:0.3em;margin-bottom:1.5rem;text-shadow:3px 3px 8px rgba(0,0,0,.7);font-family:'Noto Serif SC',serif}
 .hero .subtitle{font-size:1.5rem;opacity:.95;letter-spacing:.2em;margin-bottom:2rem}
 .hero .motto{font-size:1.2rem;opacity:.8;letter-spacing:.15em;margin-bottom:3rem;font-style:italic;font-family:'Noto Serif SC',serif}
 .hero-buttons{display:flex;gap:1.5rem;justify-content:center;flex-wrap:wrap}
-.btn{padding:1rem 2.5rem;border-radius:2px;text-decoration:none;font-size:1rem;letter-spacing:.1em;transition:all .3s;border:2px solid transparent;font-weight:500}
+.btn{padding:1rem 2rem;border-radius:2px;text-decoration:none;font-size:1rem;letter-spacing:.1em;transition:all .3s;border:2px solid transparent;font-weight:500;display:inline-block}
 .btn-primary{background:var(--zhu);color:white}
 .btn-primary:hover{background:transparent;border-color:var(--zhu-light);color:var(--zhu-light)}
 .btn-outline{background:transparent;color:var(--paper);border-color:var(--paper)}
 .btn-outline:hover{background:var(--paper);color:var(--ink)}
+.btn-jade{background:var(--jade);color:white}
+.btn-jade:hover{background:transparent;border-color:var(--jade);color:var(--jade)}
 
 .container{max-width:1200px;margin:0 auto;padding:4rem 2rem}
 .section-title{font-size:2rem;color:var(--zhu);text-align:center;margin-bottom:1rem;letter-spacing:.2em}
@@ -70,10 +54,10 @@ nav{position:fixed;top:0;left:0;right:0;z-index:100;background:rgba(250,248,245,
 .stat-label{font-size:1rem;opacity:.9;letter-spacing:.1em}
 
 /* 内容板块 */
-.modules{display:grid;grid-template-columns:repeat(auto-fit,minmax(350px,1fr));gap:2rem}
+.modules{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:2rem}
 .module-card{background:white;border-radius:8px;overflow:hidden;box-shadow:var(--shadow);transition:all .3s;text-decoration:none;color:inherit;display:block}
 .module-card:hover{transform:translateY(-5px);box-shadow:0 8px 25px rgba(139,0,0,.12)}
-.module-header{padding:1.5rem;color:white;font-size:1.4rem;font-weight:bold;letter-spacing:.1em}
+.module-header{padding:1.5rem;color:white;font-size:1.3rem;font-weight:bold;letter-spacing:.1em}
 .module-1 .module-header{background:linear-gradient(135deg,var(--zhu),var(--zhu-light))}
 .module-2 .module-header{background:linear-gradient(135deg,var(--jade),#3f8b75)}
 .module-3 .module-header{background:linear-gradient(135deg,var(--indigo),#5a94c9)}
@@ -91,67 +75,14 @@ footer{background:var(--ink);color:#aaa;padding:3rem 2rem;text-align:center;font
 
 @media(max-width:900px){
 .hero h1{font-size:2.5rem;letter-spacing:.15em}
-.nav-menu{gap:0}
-.nav-item > a{padding:0 .6rem;font-size:.88rem}
 .modules{grid-template-columns:1fr}
+.hero-buttons .btn{padding:.8rem 1.5rem;font-size:.9rem}
 }
 </style>
 </head>
 <body>
 
-<!-- 导航栏 -->
-<nav>
-<div class="nav-inner">
-  <a href="index.html" class="logo">中国历史本体</a>
-  <ul class="nav-menu">
-    <li class="nav-item"><a href="index.html" class="active">首页</a></li>
-    <li class="nav-item"><a href="pages/ontology.html">本体总纲</a></li>
-    <li class="nav-item">
-      <a href="pages/texts/shiji-wudi-benji.html" class="active">史书文本 ▾</a>
-      <ul class="dropdown">
-        <li><a href="pages/texts/shiji-wudi-benji.html" class="launched">史记·五帝本纪 ✓</a></li>
-        <li><a href="#" class="coming-soon">史记·项羽本纪</a></li>
-        <li><a href="#" class="coming-soon">资治通鉴·周纪一</a></li>
-        <li class="divider"></li>
-        <li><span class="coming-soon">更多篇目持续录入中…</span></li>
-      </ul>
-    </li>
-    <li class="nav-item">
-      <a href="pages/tongshi-overview.html">通史 ▾</a>
-      <ul class="dropdown">
-        <li><a href="pages/tongshi-overview.html" class="launched">通史概览（整体）✓</a></li>
-        <li><a href="pages/zizhitongjian.html" class="launched">资治通鉴 ✓</a></li>
-        <li><a href="#" class="coming-soon">吕思勉《中国通史》</a></li>
-        <li><a href="#" class="coming-soon">钱穆《国史大纲》</a></li>
-        <li class="divider"></li>
-        <li><span class="coming-soon">更多通史持续收录中…</span></li>
-      </ul>
-    </li>
-    <li class="nav-item">
-      <a href="javascript:;">二十四史 ▾</a>
-      <ul class="dropdown">
-        <li><a href="pages/shiji.html" class="launched">《史记》 【已上线】</a></li>
-        <li><a href="#hanshu">《汉书》（建设中）</a></li>
-        <li><a href="#houshu">《后汉书》（建设中）</a></li>
-        <li><a href="#sanguozhi">《三国志》（建设中）</a></li>
-        <li class="divider"></li>
-        <li><span class="coming-soon">剩余20部史书逐步建设…</span></li>
-      </ul>
-    </li>
-    <li class="nav-item">
-      <a href="javascript:;">专题研究 ▾</a>
-      <ul class="dropdown">
-        <li><a href="pages/ontology.html#scholars">现代史学四大家（建设中）</a></li>
-        <li><a href="#zhidu">历代制度史（建设中）</a></li>
-        <li><a href="#dili">历史地理（建设中）</a></li>
-        <li class="divider"></li>
-        <li><span class="coming-soon">更多专题开放建设…</span></li>
-      </ul>
-    </li>
-    <li class="nav-item"><a href="https://github.com/yejinlei/history" target="_blank">GitHub</a></li>
-  </ul>
-</div>
-</nav>
+<div id="site-header" data-page="home"></div>
 
 <section class="hero">
   <div class="hero-content">
@@ -159,38 +90,38 @@ footer{background:var(--ink);color:#aaa;padding:3rem 2rem;text-align:center;font
     <div class="subtitle">中国历史本体论工程</div>
     <div class="motto">"究天人之际，通古今之变，成一家之言"</div>
     <div class="hero-buttons">
-      <a href="pages/texts/shiji-wudi-benji.html" class="btn btn-primary" style="background:var(--indigo);border-color:var(--indigo)">📖 阅读史书原文</a>
+      <a href="pages/zhengshi-texts.html" class="btn btn-jade">📖 阅读正史原文</a>
       <a href="pages/ontology.html" class="btn btn-primary">进入本体总纲</a>
-      <a href="pages/shiji.html" class="btn btn-primary" style="background:var(--gold);border-color:var(--gold)">浏览《史记》本体</a>
-      <a href="https://github.com/yejinlei/history" target="_blank" class="btn btn-outline">查看源码仓库</a>
+      <a href="pages/tongshi-overview.html" class="btn" style="background:var(--gold);color:white;">通史概览</a>
+      <a href="pages/shiji.html" class="btn btn-outline">浏览《史记》本体</a>
     </div>
   </div>
 </section>
 
 <div class="container">
   <h2 class="section-title">项目简介</h2>
-  <div class="section-subtitle">以本体论方法重构中国历史知识体系</div>
+  <div class="section-subtitle">双层本体架构，重构中国历史知识体系</div>
 
   <div class="features">
     <div class="feature-card">
-      <div class="feature-icon">📜</div>
+      <div class="feature-icon">📐</div>
       <div class="feature-title">四轴七层架构</div>
       <div class="feature-desc">体裁分类、史实内容、人物主体、时序缘起四轴正交，从元模型到文化记忆七层抽象，兼容传统史学与现代研究范式。</div>
     </div>
     <div class="feature-card">
       <div class="feature-icon">📚</div>
-      <div class="feature-title">二十四史全本接入</div>
-      <div class="feature-desc">覆盖《史记》到《明史》3229卷，每部均作为独立本体实例，挂接注疏、版本、卷次结构与人物事件索引。</div>
+      <div class="feature-title">双层本体设计</div>
+      <div class="feature-desc">单本史书本体尊重原书体例保留注疏，整体通史本体跨书整合贯通，史实均可回溯原文出处，无一字无来处。</div>
     </div>
     <div class="feature-card">
-      <div class="feature-icon">🔄</div>
-      <div class="feature-title">通史脉络贯通</div>
-      <div class="feature-desc">从先秦到近现代贯通叙事，整合编年、纪事本末、典志等多元体裁，打通历史分期与因果演化脉络。</div>
+      <div class="feature-icon">📜</div>
+      <div class="feature-title">正史全文+注疏</div>
+      <div class="feature-desc">收录二十四史、资治通鉴等正史原文，配套裴骃集解、司马贞索隐、张守节正义、胡三省注等古人注疏，古籍风格沉浸式阅读。</div>
     </div>
     <div class="feature-card">
       <div class="feature-icon">🎓</div>
       <div class="feature-title">现代史学范式</div>
-      <div class="feature-desc">融合吕思勉、陈垣、陈寅恪、钱穆四大家学术传统，兼容唯物史观、年鉴学派与传统考据学方法。</div>
+      <div class="feature-desc">融合吕思勉、陈垣、陈寅恪、钱穆四大家学术传统，兼容唯物史观、年鉴学派、传统考据学与考异方法。</div>
     </div>
   </div>
 </div>
@@ -198,93 +129,59 @@ footer{background:var(--ink);color:#aaa;padding:3rem 2rem;text-align:center;font
 <section class="stats">
   <div class="stats-grid">
     <div>
-      <div class="stat-number">24</div>
-      <div class="stat-label">正史典籍</div>
+      <div class="stat-number">25</div>
+      <div class="stat-label">正史总数（24史+通鉴）</div>
     </div>
     <div>
-      <div class="stat-number">3229</div>
-      <div class="stat-label">卷次总数</div>
+      <div class="stat-number">2</div>
+      <div class="stat-label">已上线本体</div>
     </div>
     <div>
-      <div class="stat-number">5000+</div>
-      <div class="stat-label">年史事跨度</div>
+      <div class="stat-number">1</div>
+      <div class="stat-label">已录入原文篇目</div>
     </div>
     <div>
-      <div class="stat-number">7</div>
-      <div class="stat-label">抽象层级</div>
-    </div>
-    <div>
-      <div class="stat-number">4</div>
-      <div class="stat-label">正交维度</div>
+      <div class="stat-number">M2</div>
+      <div class="stat-label">当前建设阶段</div>
     </div>
   </div>
 </section>
 
 <div class="container">
   <h2 class="section-title">核心模块</h2>
-  <div class="section-subtitle">多维度历史知识组织与展示</div>
+  <div class="section-subtitle">从单本到通史，从文本到研究</div>
 
   <div class="modules">
     <a href="pages/ontology.html" class="module-card module-1">
-      <div class="module-header">▸ 本体总纲</div>
+      <div class="module-header">📐 本体总纲</div>
       <div class="module-body">
-        完整的TBox类体系、数据属性、对象关系谓词定义，四轴七层正交矩阵，M1-M5落地路线图，是整个项目的语义基础。
-        <div class="module-tags">
-          <span class="module-tag">类体系</span>
-          <span class="module-tag">关系谓词</span>
-          <span class="module-tag">TBox/ABox</span>
-        </div>
-        <span class="module-status">✅ M1骨架已完成</span>
+        四轴七层架构、类体系、关系谓词、单本与通史构建方案、质量规范与路线图。
+        <div class="module-tags"><span class="module-tag">架构设计</span><span class="module-tag">TBox</span><span class="module-tag">规范</span></div>
+        <div class="module-status">✓ 已发布</div>
       </div>
     </a>
-    <a href="pages/shiji.html" class="module-card module-2">
-      <div class="module-header">▸ 《史记》本体</div>
+    <a href="pages/zhengshi-texts.html" class="module-card module-3">
+      <div class="module-header">📖 正史文本</div>
       <div class="module-body">
-        第一部深度构建的正史本体，包含五体结构、三家注注疏体系、核心人物分类、重大事件脉络、专属类与关系设计、近现代学者研究。
-        <div class="module-tags">
-          <span class="module-tag">司马迁</span>
-          <span class="module-tag">纪传体通史</span>
-          <span class="module-tag">三家注</span>
-        </div>
-        <span class="module-status">✅ 已上线</span>
+        二十四史与资治通鉴原文，附古人注疏，古籍线装风格阅读器，点击朱色数字查看三家注。
+        <div class="module-tags"><span class="module-tag">史记</span><span class="module-tag">三家注</span><span class="module-tag">资治通鉴</span></div>
+        <div class="module-status">✓ 已上线1篇</div>
       </div>
     </a>
-    <a href="pages/tongshi-overview.html" class="module-card module-3">
-      <div class="module-header">▸ 整体通史本体</div>
+    <a href="pages/tongshi-overview.html" class="module-card module-2">
+      <div class="module-header">🌐 通史贯通</div>
       <div class="module-body">
-        贯通所有史书的统一史实网络，打破单本界限，解决人物去重、事件对齐、异文考异、制度沿革、地理变迁等跨书研究问题，实现历史因果链条贯通。
-        <div class="module-tags">
-          <span class="module-tag">跨书整合</span>
-          <span class="module-tag">史实层</span>
-          <span class="module-tag">考异方法</span>
-        </div>
-        <span class="module-status">✅ 框架已完成</span>
+        跨书整合人物、事件、制度、地理，去重对齐，考异互证，构建统一中国历史事实网络。
+        <div class="module-tags"><span class="module-tag">实体对齐</span><span class="module-tag">考异</span><span class="module-tag">因果链</span></div>
+        <div class="module-status">🚧 框架已发布</div>
       </div>
     </a>
-    <a href="pages/zizhitongjian.html" class="module-card module-5" style="border-top:4px solid var(--indigo)">
-      <div class="module-header" style="background:linear-gradient(135deg,var(--indigo),#5a94c9)">▸ 《资治通鉴》本体</div>
+    <a href="pages/scholars.html" class="module-card module-4">
+      <div class="module-header">🎓 专题研究</div>
       <div class="module-body">
-        中国第一部编年体通史，包含十六纪编年结构、胡三省音注体系、司马光《考异》方法论、重大事件脉络、编年体专属类与关系设计、通鉴学研究成果。
-        <div class="module-tags">
-          <span class="module-tag">司马光</span>
-          <span class="module-tag">编年体通史</span>
-          <span class="module-tag">胡三省注</span>
-          <span class="module-tag">考异法</span>
-        </div>
-        <span class="module-status">✅ 已上线</span>
-      </div>
-    </a>
-    <a href="pages/ontology.html#scholars" class="module-card module-4">
-      <div class="module-header">▸ 现代史学四大家</div>
-      <div class="module-body">
-        吕思勉、陈垣、陈寅恪、钱穆四位现代史学奠基人，涵盖其生平、研究领域、代表著作与学术传承关系。
-        <div class="module-tags">
-          <span class="module-tag">吕思勉</span>
-          <span class="module-tag">陈垣</span>
-          <span class="module-tag">陈寅恪</span>
-          <span class="module-tag">钱穆</span>
-        </div>
-        <span class="module-status">🚧 规划建设中</span>
+        现代史学四大家研究成果、历代制度史、历史地理沿革、历史统计与跨书推论分析。
+        <div class="module-tags"><span class="module-tag">四大家</span><span class="module-tag">制度史</span><span class="module-tag">历史地理</span></div>
+        <div class="module-status">🚧 建设中</div>
       </div>
     </a>
   </div>
@@ -293,15 +190,15 @@ footer{background:var(--ink);color:#aaa;padding:3rem 2rem;text-align:center;font
 <footer>
   <div class="footer-links">
     <a href="https://github.com/yejinlei/history" target="_blank">GitHub 仓库</a>
-    <a href="pages/ontology.html">本体总纲</a>
-    <a href="pages/shiji.html">《史记》本体</a>
+    <a href="pages/ontology/roadmap.html">建设路线图</a>
+    <a href="pages/zhengshi-texts.html">正史文本</a>
   </div>
   <div class="copyright">
-    中国历史本体论工程 · History Ontology Project<br>
-    鉴往知来 · 稽古揆今 · 究天人之际，通古今之变<br>
-    <span style="margin-top:.5rem;display:inline-block;opacity:.6;">© 2026 yejinlei.github.io/history</span>
+    中国历史本体论项目 © 2026<br>
+    "究天人之际，通古今之变，成一家之言"
   </div>
 </footer>
 
+<script src="js/header.js"></script>
 </body>
 </html>

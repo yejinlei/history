@@ -1,0 +1,234 @@
+/* 古籍阅读器样式 - 参考古典线装书风格 */
+.reader-container {
+  max-width: 900px;
+  margin: 80px auto 40px;
+  padding: 40px 50px;
+  background: #f8f1e3;
+  background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 18c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm48 25c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm-43-7c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm63 31c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM34 90c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm56-76c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM12 86c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm28-65c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm23-11c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-6 60c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm29 22c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zM32 63c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm57-13c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-9-21c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM60 91c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM35 41c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM12 60c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2z' fill='%23d9b982' fill-opacity='0.08' fill-rule='evenodd'/%3E%3C/svg%3E");
+  box-shadow: 0 2px 15px rgba(139, 69, 19, 0.15);
+  border: 1px solid #d4c4a8;
+  position: relative;
+}
+
+.reader-container::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 8px;
+  background: linear-gradient(90deg, #8b2323 0%, #a52a2a 50%, #8b2323 100%);
+}
+
+.reader-title {
+  font-family: "STKaiti", "KaiTi", "楷体", serif;
+  font-size: 2.4em;
+  color: #3a2a1a;
+  text-align: center;
+  margin: 20px 0 10px;
+  letter-spacing: 0.3em;
+}
+
+.reader-meta {
+  text-align: center;
+  color: #6b5344;
+  font-size: 0.95em;
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 1px double #8b2323;
+}
+
+.reader-meta span {
+  margin: 0 15px;
+}
+
+.reader-controls {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.reader-controls button {
+  background: transparent;
+  border: 1px solid #8b2323;
+  color: #8b2323;
+  padding: 6px 18px;
+  margin: 0 8px;
+  border-radius: 3px;
+  cursor: pointer;
+  font-family: inherit;
+  transition: all 0.2s;
+}
+
+.reader-controls button:hover, .reader-controls button.active {
+  background: #8b2323;
+  color: #f8f1e3;
+}
+
+.reader-body {
+  font-family: "STSong", "SimSun", "宋体", serif;
+  font-size: 1.15em;
+  line-height: 2.1;
+  color: #2a2018;
+  text-align: justify;
+  padding: 0 20px;
+}
+
+.reader-body p {
+  text-indent: 2em;
+  margin-bottom: 1em;
+}
+
+/* 注疏标记 - 朱红小字上标 */
+.note-marker {
+  color: #8b2323;
+  font-size: 0.7em;
+  vertical-align: super;
+  cursor: pointer;
+  margin: 0 2px;
+  font-weight: bold;
+}
+
+.note-marker:hover {
+  text-decoration: underline;
+}
+
+/* 注疏弹窗 */
+.note-popup {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  background: #fffbf0;
+  border: 1px solid #c9b896;
+  border-left: 4px solid #8b2323;
+  padding: 15px 20px;
+  max-width: 450px;
+  box-shadow: 3px 5px 15px rgba(0,0,0,0.2);
+  font-family: "STKaiti", "KaiTi", "楷体", serif;
+  font-size: 0.95em;
+  line-height: 1.8;
+  color: #4a3a2a;
+}
+
+.note-popup .note-source {
+  font-weight: bold;
+  color: #8b2323;
+  margin-bottom: 5px;
+  font-size: 0.9em;
+}
+
+/* 左侧目录 - 古籍书签风格 */
+.sidebar-toc {
+  position: fixed;
+  left: 20px;
+  top: 100px;
+  width: 220px;
+  max-height: calc(100vh - 120px);
+  overflow-y: auto;
+  background: #fffbf0;
+  border: 1px solid #d4c4a8;
+  border-right: 3px solid #8b2323;
+  padding: 20px 15px;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+}
+
+.sidebar-toc h4 {
+  font-family: "STKaiti", "KaiTi", serif;
+  color: #8b2323;
+  text-align: center;
+  margin: 0 0 15px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #d4c4a8;
+  font-size: 1.2em;
+  letter-spacing: 0.2em;
+}
+
+.toc-section {
+  margin-bottom: 15px;
+}
+
+.toc-section-title {
+  font-weight: bold;
+  color: #5a3a2a;
+  font-size: 0.95em;
+  margin-bottom: 8px;
+  padding-left: 5px;
+  border-left: 3px solid #8b2323;
+}
+
+.toc-item {
+  display: block;
+  padding: 5px 8px;
+  color: #4a3a2a;
+  text-decoration: none;
+  font-size: 0.9em;
+  border-radius: 2px;
+  transition: all 0.2s;
+}
+
+.toc-item:hover {
+  background: #f0e6d2;
+  color: #8b2323;
+}
+
+.toc-item.active {
+  background: #8b2323;
+  color: #fffbf0;
+}
+
+.toc-item.disabled {
+  color: #a89880;
+  cursor: not-allowed;
+  font-style: italic;
+}
+
+/* 页面导航底部 */
+.reader-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 1px double #8b2323;
+}
+
+.reader-nav a {
+  color: #8b2323;
+  text-decoration: none;
+  padding: 8px 16px;
+  border: 1px solid #8b2323;
+  border-radius: 3px;
+  transition: all 0.2s;
+}
+
+.reader-nav a:hover {
+  background: #8b2323;
+  color: #fffbf0;
+}
+
+/* 正文区域响应式 */
+@media (max-width: 1200px) {
+  .sidebar-toc {
+    position: static;
+    width: 100%;
+    max-height: none;
+    margin: 80px auto 20px;
+    max-width: 900px;
+  }
+  .reader-container {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .reader-container {
+    padding: 30px 20px;
+    margin: 70px 10px 20px;
+  }
+  .reader-title {
+    font-size: 1.8em;
+    letter-spacing: 0.1em;
+  }
+  .reader-body {
+    padding: 0;
+    font-size: 1em;
+  }
+}

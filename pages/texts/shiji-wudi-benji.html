@@ -1,328 +1,124 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>史记·五帝本纪 - 中国历史本体论</title>
-    <link rel="stylesheet" href="../css/style.css">
-    <style>
-        .text-container {
-            max-width: 900px;
-            margin: 0 auto;
-            padding: 40px 20px;
-        }
-        .text-header {
-            border-bottom: 2px solid var(--primary);
-            padding-bottom: 20px;
-            margin-bottom: 30px;
-        }
-        .text-title {
-            font-size: 2.2rem;
-            color: var(--primary);
-            margin-bottom: 10px;
-        }
-        .text-meta {
-            color: var(--gray);
-            font-size: 0.95rem;
-            display: flex;
-            gap: 20px;
-            flex-wrap: wrap;
-        }
-        .annotation-toggle {
-            margin: 20px 0;
-            padding: 10px 15px;
-            background: #f8f5f0;
-            border-radius: 8px;
-            display: flex;
-            gap: 20px;
-            align-items: center;
-        }
-        .toggle-btn {
-            padding: 6px 12px;
-            border: 1px solid var(--primary);
-            background: white;
-            border-radius: 4px;
-            cursor: pointer;
-            transition: all 0.3s;
-        }
-        .toggle-btn.active {
-            background: var(--primary);
-            color: white;
-        }
-        .text-content {
-            font-size: 1.1rem;
-            line-height: 2.2;
-            text-align: justify;
-        }
-        .text-content p {
-            margin-bottom: 20px;
-            text-indent: 2em;
-        }
-        .annotation {
-            color: var(--primary);
-            font-size: 0.9rem;
-            vertical-align: super;
-            cursor: pointer;
-            margin: 0 2px;
-        }
-        .annotation-popup {
-            display: none;
-            position: absolute;
-            background: white;
-            border: 1px solid var(--primary);
-            border-radius: 8px;
-            padding: 15px;
-            max-width: 400px;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.15);
-            z-index: 100;
-            font-size: 0.95rem;
-            line-height: 1.8;
-        }
-        .annotation-popup.show {
-            display: block;
-        }
-        .annotation-popup .close {
-            position: absolute;
-            top: 8px;
-            right: 12px;
-            cursor: pointer;
-            color: var(--gray);
-        }
-        .catalog-sidebar {
-            position: fixed;
-            left: 20px;
-            top: 120px;
-            width: 220px;
-            background: white;
-            border-radius: 8px;
-            padding: 15px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-            max-height: calc(100vh - 140px);
-            overflow-y: auto;
-        }
-        .catalog-sidebar h3 {
-            color: var(--primary);
-            margin-bottom: 10px;
-            font-size: 1.1rem;
-            border-bottom: 1px solid #eee;
-            padding-bottom: 8px;
-        }
-        .catalog-sidebar ul {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-        }
-        .catalog-sidebar li {
-            margin-bottom: 8px;
-        }
-        .catalog-sidebar a {
-            color: var(--dark);
-            text-decoration: none;
-            font-size: 0.9rem;
-            display: block;
-            padding: 4px 8px;
-            border-radius: 4px;
-            transition: all 0.2s;
-        }
-        .catalog-sidebar a:hover, .catalog-sidebar a.active {
-            background: #f8f5f0;
-            color: var(--primary);
-        }
-        @media (max-width: 1200px) {
-            .catalog-sidebar {
-                display: none;
-            }
-        }
-        .prev-next-nav {
-            display: flex;
-            justify-content: space-between;
-            margin-top: 50px;
-            padding-top: 20px;
-            border-top: 1px solid #eee;
-        }
-        .prev-next-nav a {
-            color: var(--primary);
-            text-decoration: none;
-            padding: 10px 20px;
-            border: 1px solid var(--primary);
-            border-radius: 8px;
-            transition: all 0.3s;
-        }
-        .prev-next-nav a:hover {
-            background: var(--primary);
-            color: white;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>史记·五帝本纪第一 - 中国历史本体论</title>
+  <link rel="stylesheet" href="https://yejinlei.github.io/history/css/reader.css">
 </head>
 <body>
-    <nav class="navbar">
-        <div class="nav-container">
-            <div class="nav-logo">
-                <a href="../index.html">📜 中国历史本体论</a>
-            </div>
-            <ul class="nav-menu">
-                <li><a href="../index.html">首页</a></li>
-                <li><a href="ontology.html">本体总纲</a></li>
-                <li class="dropdown">
-                    <a href="javascript:void(0)" class="active">史书文本</a>
-                    <div class="dropdown-content">
-                        <a href="texts/shiji-wudi-benji.html" class="active">史记·五帝本纪</a>
-                        <a href="javascript:void(0)" style="color:#999">史记·项羽本纪（建设中）</a>
-                        <a href="javascript:void(0)" style="color:#999">资治通鉴·周纪一（建设中）</a>
-                        <div style="padding:8px 16px;color:#999;font-size:0.85rem;border-top:1px solid #eee;margin-top:8px">更多篇目持续录入中</div>
-                    </div>
-                </li>
-                <li class="dropdown">
-                    <a href="javascript:void(0)">通史</a>
-                    <div class="dropdown-content">
-                        <a href="tongshi-overview.html">通史概览（整体）</a>
-                        <a href="zizhitongjian.html">资治通鉴</a>
-                        <a href="javascript:void(0)" style="color:#999">吕思勉·中国通史（建设中）</a>
-                        <a href="javascript:void(0)" style="color:#999">钱穆·国史大纲（建设中）</a>
-                        <div style="padding:8px 16px;color:#999;font-size:0.85rem;border-top:1px solid #eee;margin-top:8px">更多通史持续收录中</div>
-                    </div>
-                </li>
-                <li class="dropdown">
-                    <a href="javascript:void(0)">二十四史</a>
-                    <div class="dropdown-content">
-                        <a href="shiji.html">史记</a>
-                        <a href="javascript:void(0)" style="color:#999">汉书（建设中）</a>
-                        <a href="javascript:void(0)" style="color:#999">后汉书（建设中）</a>
-                        <a href="javascript:void(0)" style="color:#999">三国志（建设中）</a>
-                        <div style="padding:8px 16px;color:#999;font-size:0.85rem;border-top:1px solid #eee;margin-top:8px">剩余20部逐步建设中</div>
-                    </div>
-                </li>
-                <li class="dropdown">
-                    <a href="javascript:void(0)">专题研究</a>
-                    <div class="dropdown-content">
-                        <a href="javascript:void(0)" style="color:#999">史学四大家（建设中）</a>
-                        <a href="javascript:void(0)" style="color:#999">制度史（建设中）</a>
-                        <a href="javascript:void(0)" style="color:#999">历史地理（建设中）</a>
-                    </div>
-                </li>
-                <li><a href="https://github.com/yejinlei/history" target="_blank">GitHub</a></li>
-            </ul>
-        </div>
-    </nav>
+  <div id="site-header" data-page="zhengshi"></div>
 
-    <div class="catalog-sidebar">
-        <h3>📖 史记目录</h3>
-        <ul>
-            <li><strong>十二本纪</strong></li>
-            <li><a href="shiji-wudi-benji.html" class="active">五帝本纪第一</a></li>
-            <li><a href="javascript:void(0)" style="color:#999">夏本纪第二</a></li>
-            <li><a href="javascript:void(0)" style="color:#999">殷本纪第三</a></li>
-            <li><a href="javascript:void(0)" style="color:#999">周本纪第四</a></li>
-            <li><a href="javascript:void(0)" style="color:#999">秦本纪第五</a></li>
-            <li><a href="javascript:void(0)" style="color:#999">秦始皇本纪第六</a></li>
-            <li><a href="javascript:void(0)" style="color:#999">项羽本纪第七</a></li>
-            <li><a href="javascript:void(0)" style="color:#999">高祖本纪第八</a></li>
-            <li style="margin-top:10px;color:#999;font-size:0.85rem">十表、八书、三十世家、七十列传持续录入中</li>
-        </ul>
+  <!-- 左侧目录栏 -->
+  <aside class="sidebar-toc">
+    <h4>📖 史记目录</h4>
+    <div class="toc-section">
+      <div class="toc-section-title">十二本纪</div>
+      <a href="shiji-wudi-benji.html" class="toc-item active">五帝本纪第一</a>
+      <a href="#" class="toc-item disabled">夏本纪第二</a>
+      <a href="#" class="toc-item disabled">殷本纪第三</a>
+      <a href="#" class="toc-item disabled">周本纪第四</a>
+      <a href="#" class="toc-item disabled">秦本纪第五</a>
+      <a href="#" class="toc-item disabled">秦始皇本纪第六</a>
+      <a href="#" class="toc-item disabled">项羽本纪第七</a>
+      <a href="#" class="toc-item disabled">高祖本纪第八</a>
+      <a href="#" class="toc-item disabled">吕太后本纪第九</a>
+      <a href="#" class="toc-item disabled">孝文本纪第十</a>
+      <a href="#" class="toc-item disabled">孝景本纪第十一</a>
+      <a href="#" class="toc-item disabled">孝武本纪第十二</a>
+    </div>
+    <div class="toc-section">
+      <div class="toc-section-title">十表</div>
+      <span class="toc-item disabled">三代世表第一... （建设中）</span>
+    </div>
+    <div class="toc-section">
+      <div class="toc-section-title">八书</div>
+      <span class="toc-item disabled">礼书第一...（建设中）</span>
+    </div>
+    <div class="toc-section">
+      <div class="toc-section-title">三十世家</div>
+      <span class="toc-item disabled">吴太伯世家第一...（建设中）</span>
+    </div>
+    <div class="toc-section">
+      <div class="toc-section-title">七十列传</div>
+      <span class="toc-item disabled">伯夷列传第一...（建设中）</span>
+    </div>
+  </aside>
+
+  <!-- 正文阅读区 -->
+  <main class="reader-container">
+    <h1 class="reader-title">史记·五帝本纪第一</h1>
+    <div class="reader-meta">
+      <span>📝 作者：【汉】司马迁</span>
+      <span>📚 注疏：裴骃集解、司马贞索隐、张守节正义</span>
+      <span>📑 所属：十二本纪</span>
     </div>
 
-    <div class="text-container">
-        <div class="text-header">
-            <h1 class="text-title">史记·五帝本纪第一</h1>
-            <div class="text-meta">
-                <span>📚 作者：【汉】司马迁</span>
-                <span>📝 注疏：裴骃集解、司马贞索隐、张守节正义</span>
-                <span>📄 所属：十二本纪</span>
-            </div>
-        </div>
-
-        <div class="annotation-toggle">
-            <span>注疏显示：</span>
-            <button class="toggle-btn active" onclick="toggleAnnotation(true)">显示注疏</button>
-            <button class="toggle-btn" onclick="toggleAnnotation(false)">隐藏注疏</button>
-            <span style="margin-left:auto;color:var(--gray);font-size:0.9rem">点击正文红色上标数字查看注疏内容</span>
-        </div>
-
-        <div class="text-content" id="textContent">
-            <p>黄帝者，少典之子<span class="annotation" data-id="1">①</span>，姓公孙，名曰轩辕<span class="annotation" data-id="2">②</span>。生而神灵，弱而能言，幼而徇齐，长而敦敏，成而聪明<span class="annotation" data-id="3">③</span>。</p>
-            <p>轩辕之时，神农氏世衰。诸侯相侵伐，暴虐百姓，而神农氏弗能征。于是轩辕乃习用干戈，以征不享，诸侯咸来宾从。而蚩尤最为暴，莫能伐。炎帝欲侵陵诸侯，诸侯咸归轩辕。轩辕乃修德振兵，治五气，艺五种，抚万民，度四方，教熊罴貔貅貙虎，以与炎帝战于阪泉之野<span class="annotation" data-id="4">④</span>。三战，然后得其志。蚩尤作乱，不用帝命。于是黄帝乃征师诸侯，与蚩尤战于涿鹿之野<span class="annotation" data-id="5">⑤</span>，遂禽杀蚩尤。而诸侯咸尊轩辕为天子，代神农氏，是为黄帝。天下有不顺者，黄帝从而征之，平者去之，披山通道，未尝宁居。</p>
-            <p>东至于海，登丸山，及岱宗。西至于空桐，登鸡头。南至于江，登熊、湘。北逐荤粥，合符釜山，而邑于涿鹿之阿。迁徙往来无常处，以师兵为营卫。官名皆以云命，为云师。置左右大监，监于万国。万国和，而鬼神山川封禅与为多焉。获宝鼎，迎日推筴。举风后、力牧、常先、大鸿以治民。顺天地之纪，幽明之占，死生之说，存亡之难。时播百谷草木，淳化鸟兽虫蛾，旁罗日月星辰水波土石金玉，劳勤心力耳目，节用水火材物。有土德之瑞，故号黄帝。</p>
-            <p>黄帝二十五子，其得姓者十四人。</p>
-            <p>黄帝居轩辕之丘，而娶于西陵之女，是为嫘祖。嫘祖为黄帝正妃，生二子，其后皆有天下：其一曰玄嚣，是为青阳，青阳降居江水；其二曰昌意，降居若水。昌意娶蜀山氏女，曰昌仆，生高阳，高阳有圣德焉。黄帝崩，葬桥山<span class="annotation" data-id="6">⑥</span>。其孙昌意之子高阳立，是为帝颛顼也。</p>
-            <p>帝颛顼高阳者，黄帝之孙而昌意之子也。静渊以有谋，疏通而知事；养材以任地，载时以象天，依鬼神以制义，治气以教化，絜诚以祭祀。北至于幽陵，南至于交阯，西至于流沙，东至于蟠木。动静之物，大小之神，日月所照，莫不砥属。</p>
-        </div>
-
-        <div class="annotation-popup" id="annotationPopup">
-            <span class="close" onclick="closeAnnotation()">×</span>
-            <div id="annotationContent"></div>
-        </div>
-
-        <div class="prev-next-nav">
-            <a href="../shiji.html" style="border-color:var(--gray);color:var(--gray)">← 返回《史记》本体页</a>
-            <a href="javascript:void(0)" style="color:#999;border-color:#999;cursor:not-allowed">下一篇：夏本纪第二 →</a>
-        </div>
+    <div class="reader-controls">
+      <span style="color:#6b5344;margin-right:10px;">注疏显示：</span>
+      <button id="toggle-notes" class="active">隐藏注疏</button>
+      <span style="color:#8b2323;font-size:0.9em;margin-left:20px;">点击正文朱色数字查看三家注</span>
     </div>
 
-    <footer class="footer">
-        <div class="footer-container">
-            <p>© 2026 中国历史本体论项目 | 基于二十四史与中国通史构建 | 以史为鉴，可以知兴替</p>
-        </div>
-    </footer>
+    <div class="reader-body">
+      <p>黄帝者，少典之子<span class="note-marker" data-note="1">①</span>，姓公孙，名曰轩辕<span class="note-marker" data-note="2">②</span>。生而神灵，弱而能言，幼而徇齐，长而敦敏，成而聪明<span class="note-marker" data-note="3">③</span>。</p>
 
-    <script>
-        const annotations = {
-            1: {
-                title: "【集解】",
-                content: "谯周曰：『有熊国君，少典之子也。』皇甫谧曰：『有熊，今河南新郑是也。』<br><br>【索隐】：少典者，诸侯国号，非人名也。又案：国语云『少典娶有蟜氏女，生黄帝、炎帝』。然则炎帝亦少典之子。炎黄二帝虽则相承，如帝王代纪中间凡隔八帝，五百余年。若以少典是其父名，岂黄帝经五百余年而始代炎帝后为天子乎？何其年之长也！"
-            },
-            2: {
-                title: "【索隐】",
-                content: "案：皇甫谧云『黄帝生于寿丘，长于姬水，因以为姓。居轩辕之丘，因以为名，又以为号』。是本姓公孙，长居姬水，因改姓姬。"
-            },
-            3: {
-                title: "【正义】",
-                content: "言神异也。易曰『阴阳不测之谓神』，书云『人惟万物之灵』，故谓之神灵也。弱谓幼弱时也。盖未合能言之时而黄帝即言，所以为神异也。潘岳有哀弱子篇，其子未七旬曰弱。徇，疾也。齐，速也。言圣德幼而疾速也。敦，信也。敏，达也。成人，谓年二十冠，成人也。聪明，闻见明辩也。"
-            },
-            4: {
-                title: "【正义】",
-                content: "阪泉，在今妫州怀戎县东五十六里。出五里至涿鹿东北，与涿水合。又有涿鹿故城，在妫州东南五十里，本黄帝所都也。晋太康地里志云『涿鹿城东一里有阪泉，上有黄帝祠』。案：阪泉之野则平野之地也。"
-            },
-            5: {
-                title: "【正义】",
-                content: "涿鹿，山名，在妫州东南五十里，与阪泉相近。皇甫谧云：『黄帝使应龙杀蚩尤于凶黎之谷。』或曰，黄帝斩蚩尤于中冀，因名其地曰『绝辔之野』。"
-            },
-            6: {
-                title: "【集解】",
-                content: "皇览曰：『黄帝冢在上郡桥山。』<br><br>【索隐】：地理志桥山在上郡阳周县，山有黄帝冢也。<br><br>【正义】：括地志云：『黄帝陵在宁州罗川县东八十里子午山。地理志云上郡阳周县桥山南有黄帝冢。』案：阳周，隋改为罗川。尔雅云山锐而高曰桥也。"
-            }
-        };
+      <p>轩辕之时，神农氏世衰。诸侯相侵伐，暴虐百姓，而神农氏弗能征。于是轩辕乃习用干戈，以征不享，诸侯咸来宾从。而蚩尤最为暴，莫能伐。炎帝欲侵陵诸侯，诸侯咸归轩辕。轩辕乃修德振兵，治五气，艺五种，抚万民，度四方，教熊罴貔貅䝙虎，以与炎帝战于阪泉之野<span class="note-marker" data-note="4">④</span>。三战，然后得其志。蚩尤作乱，不用帝命。于是黄帝乃征师诸侯，与蚩尤战于涿鹿之野<span class="note-marker" data-note="5">⑤</span>，遂禽杀蚩尤。而诸侯咸尊轩辕为天子，代神农氏，是为黄帝。天下有不顺者，黄帝从而征之，平者去之，披山通道，未尝宁居。</p>
 
-        document.querySelectorAll('.annotation').forEach(el => {
-            el.addEventListener('click', (e) => {
-                e.stopPropagation();
-                const id = el.dataset.id;
-                const ann = annotations[id];
-                const popup = document.getElementById('annotationPopup');
-                const content = document.getElementById('annotationContent');
-                content.innerHTML = `<strong style="color:var(--primary)">${ann.title}</strong><br>${ann.content}`;
-                const rect = el.getBoundingClientRect();
-                popup.style.left = `${rect.left}px`;
-                popup.style.top = `${rect.bottom + window.scrollY + 10}px`;
-                popup.classList.add('show');
-            });
-        });
+      <p>东至于海，登丸山，及岱宗。西至于空桐，登鸡头。南至于江，登熊、湘。北逐荤粥，合符釜山，而邑于涿鹿之阿。迁徙往来无常处，以师兵为营卫。官名皆以云命，为云师。置左右大监，监于万国。万国和，而鬼神山川封禅与为多焉。获宝鼎，迎日推筴。举风后、力牧、常先、大鸿以治民。顺天地之纪，幽明之占，死生之说，存亡之难。时播百谷草木，淳化鸟兽虫蛾，旁罗日月星辰水波土石金玉，劳勤心力耳目，节用水火材物。有土德之瑞，故号黄帝。</p>
 
-        function closeAnnotation() {
-            document.getElementById('annotationPopup').classList.remove('show');
-        }
+      <p>黄帝二十五子，其得姓者十四人。</p>
 
-        document.addEventListener('click', () => {
-            closeAnnotation();
-        });
+      <p>黄帝居轩辕之丘，而娶于西陵之女，是为嫘祖。嫘祖为黄帝正妃，生二子，其后皆有天下：其一曰玄嚣，是为青阳，青阳降居江水；其二曰昌意，降居若水。昌意娶蜀山氏女，曰昌仆，生高阳，高阳有圣德焉。黄帝崩，葬桥山<span class="note-marker" data-note="6">⑥</span>。其孙昌意之子高阳立，是为帝颛顼也。</p>
+    </div>
 
-        function toggleAnnotation(show) {
-            document.querySelectorAll('.annotation').forEach(el => {
-                el.style.display = show ? 'inline' : 'none';
-            });
-            document.querySelectorAll('.toggle-btn').forEach(btn => btn.classList.remove('active'));
-            event.target.classList.add('active');
-            closeAnnotation();
-        }
-    </script>
+    <!-- 注疏弹窗 -->
+    <div class="note-popup" id="note-1">
+      <div class="note-source">【三家注·集解】</div>
+      谯周曰：「有熊国君，少典之子也。」皇甫谧曰：「有熊，今河南新郑是也。」<br>
+      <div class="note-source">【索隐】</div>
+      少典者，诸侯国号，非人名也。秦本纪云「颛顼氏之裔孙曰女修，吞鸟卵而生大业，大业娶少典氏而生柏翳」，明少典是国号，非人名也。
+    </div>
+
+    <div class="note-popup" id="note-2">
+      <div class="note-source">【集解】</div>
+      徐广曰：「号有熊。」<br>
+      <div class="note-source">【索隐】</div>
+      案：皇甫谧云「黄帝生于寿丘，长于姬水，因以为姓。居轩辕之丘，因以为名，又以为号」，是本姓公孙，长居姬水，因改姓姬。
+    </div>
+
+    <div class="note-popup" id="note-3">
+      <div class="note-source">【正义】</div>
+      言神异也。易曰「阴阳不测之谓神」，书云「人惟万物之灵」，故谓之神灵也。弱谓幼弱时也，盖未合能言之时而黄帝即言，所以为神异也。潘岳有哀弱子篇，其子未七旬曰弱。
+    </div>
+
+    <div class="note-popup" id="note-4">
+      <div class="note-source">【集解】</div>
+      服虔曰：「阪泉，地名。」皇甫谧曰：「在上谷。」<br>
+      <div class="note-source">【正义】</div>
+      阪音白板反。括地志云：「阪泉，今名黄帝泉，在妫州怀戎县东五十六里。出五里至涿鹿东北，与涿水合。又有涿鹿故城，在妫州东南五十里，本黄帝所都也。」
+    </div>
+
+    <div class="note-popup" id="note-5">
+      <div class="note-source">【集解】</div>
+      服虔曰：「涿鹿，山名，在涿郡。」张晏曰：「涿鹿在上谷。」<br>
+      <div class="note-source">【索隐】</div>
+      或作「浊鹿」，古今字异耳。案：地理志上谷有涿鹿县，然则服虔云「在涿郡」者，误也。
+    </div>
+
+    <div class="note-popup" id="note-6">
+      <div class="note-source">【集解】</div>
+      皇览曰：「黄帝冢在上郡桥山。」<br>
+      <div class="note-source">【正义】</div>
+      括地志云：「桥山在宁州罗川县东八十里，子午岭。黄帝陵在宁州罗川县东八十里子午山。地理志云上郡阳周县桥山南有黄帝冢。」
+    </div>
+
+    <div class="reader-nav">
+      <a href="../shiji.html">← 返回《史记》本体</a>
+      <a href="#" style="color:#aaa;border-color:#aaa;cursor:not-allowed;">下一篇：夏本纪第二（建设中）</a>
+    </div>
+  </main>
+
+  <script src="https://yejinlei.github.io/history/js/header.js"></script>
 </body>
 </html>

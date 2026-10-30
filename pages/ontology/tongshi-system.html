@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>整体通史本体构建方案 - 本体总纲</title>
+  <style>
+    body { background: #f5efe0; margin: 0; padding-top: 80px; font-family: "PingFang SC", "Microsoft YaHei", sans-serif; color: #2a2018; }
+    .container { max-width: 1100px; margin: 0 auto; padding: 20px 30px; }
+    h1.title { font-family: "STKaiti", "KaiTi", serif; font-size: 2.2em; color: #2a6b2a; text-align: center; margin: 20px 0; letter-spacing: 0.2em; }
+    .back-link { display: inline-block; color: #2a6b2a; text-decoration: none; margin-bottom: 20px; }
+    .back-link:hover { text-decoration: underline; }
+    h2 { font-family: "STKaiti", "KaiTi", serif; color: #2a6b2a; border-left: 4px solid #2a6b2a; padding-left: 12px; margin-top: 40px; font-size: 1.6em; }
+    .card { background: #fffbf0; border: 1px solid #b8d4b8; border-radius: 6px; padding: 25px; margin: 20px 0; line-height: 1.8; }
+    .arch-diagram { background: #fffbf0; border: 1px solid #b8d4b8; border-radius: 6px; padding: 30px; margin: 20px 0; text-align: center; font-family: "STKaiti", serif; }
+    .arch-layer { padding: 15px; margin: 8px auto; border-radius: 4px; max-width: 600px; }
+    .arch-fact { background: #d4e8d4; border: 2px solid #2a6b2a; font-size: 1.2em; font-weight: bold; color: #1a4b1a; }
+    .arch-middle { background: #e8f0e8; border: 1px dashed #2a6b2a; }
+    .arch-text { background: #f0f5e8; border: 1px solid #a8c8a8; }
+    .arrow-down { font-size: 1.5em; color: #2a6b2a; margin: 5px 0; }
+    .problem-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 15px; margin: 20px 0; }
+    .problem-card { background: #fffbf0; border: 1px solid #b8d4b8; border-left: 4px solid #2a6b2a; border-radius: 4px; padding: 15px; }
+    .problem-card h4 { margin-top: 0; color: #2a6b2a; font-family: "STKaiti", serif; }
+    .step-list { counter-reset: step; }
+    .step-item { counter-increment: step; padding: 15px 15px 15px 55px; position: relative; margin-bottom: 10px; background: #fffbf0; border: 1px solid #b8d4b8; border-radius: 4px; border-left: 4px solid #2a6b2a; }
+    .step-item::before { content: counter(step); position: absolute; left: 15px; top: 12px; width: 28px; height: 28px; background: #2a6b2a; color: white; border-radius: 50%; text-align: center; line-height: 28px; font-weight: bold; }
+    .step-name { font-weight: bold; font-size: 1.1em; margin-bottom: 5px; }
+  </style>
+</head>
+<body>
+  <div id="site-header" data-page="ontology"></div>
+
+  <div class="container">
+    <a href="../ontology.html" class="back-link">← 返回本体总纲</a>
+    <h1 class="title">🌐 整体通史本体构建方案</h1>
+
+    <div class="card">
+      <p>整体通史本体以<strong>「历史事实本身」</strong>为中心，不局限于某一部书，而是把所有正史、编年、纪事本末、典志、出土文献等史料作为证据来源，构建一个跨文本的中国历史事实网络。所有史实结论必须通过 <code>recorded_in</code> 关系回溯到单本原文，做到「无一字无来处」，继承司马光《资治通鉴考异》的「长编考异」传统。</p>
+    </div>
+
+    <h2>三层架构</h2>
+    <div class="arch-diagram">
+      <div class="arch-layer arch-fact">史实层（统一事实网络）</div>
+      <div class="arrow-down">⇅</div>
+      <div class="arch-layer arch-middle">溯源·考异层（异文比对、版本校勘、史家异说）</div>
+      <div class="arrow-down">⇅</div>
+      <div class="arch-layer arch-text">单本文本层（史记/汉书/后汉书/三国志/.../资治通鉴/...全文与注疏）</div>
+    </div>
+
+    <h2>解决六大核心史学问题</h2>
+    <div class="problem-grid">
+      <div class="problem-card">
+        <h4>① 人物异名去重</h4>
+        <p style="font-size:0.95em;line-height:1.7;">解决同一人物在不同史书中名、字、号、避讳改字、封号不同的问题，如"刘季=刘邦=汉高祖"，"韩信=淮阴侯≠韩王信"。</p>
+      </div>
+      <div class="problem-card">
+        <h4>② 事件异文考异</h4>
+        <p style="font-size:0.95em;line-height:1.7;">同一事件在不同史书记载矛盾（如玄武门之变细节、建文帝下落），并列各家说法，标注出处，不强行统一。</p>
+      </div>
+      <div class="problem-card">
+        <h4>③ 制度沿革追踪</h4>
+        <p style="font-size:0.95em;line-height:1.7;">追踪从先秦到明清制度流变（如郡县制起源→确立→演变，三省六部从形成到废止，科举制从隋到清的沿革）。</p>
+      </div>
+      <div class="problem-card">
+        <h4>④ 地理古今对应</h4>
+        <p style="font-size:0.95em;line-height:1.7;">古地名与今地名对应，行政建置沿革（如"彭城=今徐州"，"长安在不同时期位置不同"）。</p>
+      </div>
+      <div class="problem-card">
+        <h4>⑤ 因果链条贯通</h4>
+        <p style="font-size:0.95em;line-height:1.7;">建立事件间因果关系（如汉初郡国并行→七国之乱→推恩令→中央集权加强），形成长时段历史脉络。</p>
+      </div>
+      <div class="problem-card">
+        <h4>⑥ 史料溯源互证</h4>
+        <p style="font-size:0.95em;line-height:1.7;">每条史实都可以回溯到原始出处，标明引用了哪些史书、哪些注本，是否有出土文献佐证。</p>
+      </div>
+    </div>
+
+    <h2>构建五步流程</h2>
+    <div class="step-list">
+      <div class="step-item">
+        <div class="step-name">单本录入</div>
+        <div class="step-desc">先完成各单本史书本体（文本层），结构化录入正文与注疏，建立篇目结构。</div>
+      </div>
+      <div class="step-item">
+        <div class="step-name">实体对齐</div>
+        <div class="step-desc">跨书识别人物、地名、事件、制度的共指，建立 <code>same_as</code> 等同关系，完成去重合并。</div>
+      </div>
+      <div class="step-item">
+        <div class="step-name">关系联通</div>
+        <div class="step-desc">建立人物关系、事件因果、制度沿革、地理归属等各类关系，形成连通网络。</div>
+      </div>
+      <div class="step-item">
+        <div class="step-name">考异补充</div>
+        <div class="step-desc">对记载有矛盾的事件，录入《资治通鉴考异》及后世史家考证，并列异说。</div>
+      </div>
+      <div class="step-item">
+        <div class="step-name">学者研究整合</div>
+        <div class="step-desc">纳入吕思勉、陈寅恪、陈垣、钱穆等现代史学家的专题研究成果，补充今人研究视角。</div>
+      </div>
+    </div>
+
+    <h2>核心跨书关系谓词</h2>
+    <div class="card">
+      <ul style="line-height:2;">
+        <li><code>recorded_in(史实, 原文位置)</code>——史实记载出处（可多条）</li>
+        <li><code>same_as(实体A, 实体B)</code>——异名同实（对称、传递）</li>
+        <li><code>evolves_from(制度/地理, 前身)</code>——沿革关系（传递）</li>
+        <li><code>contradicts(记载A, 记载B)</code>——记载矛盾（对称）</li>
+        <li><code>causes(事件A, 事件B)</code>——因果关系（传递、反对称）</li>
+        <li><code>participates(人物, 事件)</code>——人物参与事件</li>
+        <li><code>holds_post(人物, 官职, 时间)</code>——任职经历（时间限定）</li>
+        <li><code>located_in(地名, 上级行政区, 时间)</code>——地理归属（时间限定）</li>
+        <li><code>annotated_by(原文, 注疏)</code>——被某注疏注释</li>
+      </ul>
+    </div>
+  </div>
+
+  <script src="https://yejinlei.github.io/history/js/header.js"></script>
+</body>
+</html>

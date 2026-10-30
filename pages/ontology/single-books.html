@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>单本史书本体构建方案 - 本体总纲</title>
+  <style>
+    body { background: #f5efe0; margin: 0; padding-top: 80px; font-family: "PingFang SC", "Microsoft YaHei", sans-serif; color: #2a2018; }
+    .container { max-width: 1100px; margin: 0 auto; padding: 20px 30px; }
+    h1.title { font-family: "STKaiti", "KaiTi", serif; font-size: 2.2em; color: #8b2323; text-align: center; margin: 20px 0; letter-spacing: 0.2em; }
+    .back-link { display: inline-block; color: #8b2323; text-decoration: none; margin-bottom: 20px; }
+    .back-link:hover { text-decoration: underline; }
+    h2 { font-family: "STKaiti", "KaiTi", serif; color: #8b2323; border-left: 4px solid #8b2323; padding-left: 12px; margin-top: 40px; font-size: 1.6em; }
+    .card { background: #fffbf0; border: 1px solid #d4c4a8; border-radius: 6px; padding: 25px; margin: 20px 0; line-height: 1.8; }
+    .genre-card { background: #fffbf0; border: 1px solid #d4c4a8; border-radius: 6px; padding: 20px; margin-bottom: 15px; border-left: 4px solid #8b2323; }
+    .genre-card h3 { margin-top: 0; color: #8b2323; font-family: "STKaiti", serif; font-size: 1.3em; }
+    .genre-stats { display: flex; gap: 20px; margin: 10px 0; flex-wrap: wrap; }
+    .genre-stat { background: #f5efe0; padding: 5px 12px; border-radius: 4px; font-size: 0.9em; }
+    .class-table { width: 100%; border-collapse: collapse; margin: 15px 0; }
+    .class-table th, .class-table td { border: 1px solid #d4c4a8; padding: 8px 12px; font-size: 0.95em; }
+    .class-table th { background: #f0e6d2; }
+  </style>
+</head>
+<body>
+  <div id="site-header" data-page="ontology"></div>
+
+  <div class="container">
+    <a href="../ontology.html" class="back-link">← 返回本体总纲</a>
+    <h1 class="title">📚 单本史书本体构建方案</h1>
+
+    <div class="card">
+      <p>单本史书本体以<strong>「尊重原生体例，保留注疏系统」</strong>为原则，针对不同体裁史书采用差异化建模方案，不强行套用统一结构。每部史书本体包含三部分：<strong>元数据层</strong>（作者、成书年代、版本源流）、<strong>结构层</strong>（篇目卷次结构）、<strong>内容层</strong>（人物/事件/制度记载与注疏）。</p>
+    </div>
+
+    <h2>一、纪传体（二十四史）建模方案</h2>
+    <div class="genre-card">
+      <h3>纪传体：以人物为中心的综合体裁</h3>
+      <p>以《史记》为开创，包含「本纪、表、书、世家、列传」五体结构，二十四史全部采用纪传体。</p>
+      <div class="genre-stats">
+        <span class="genre-stat">📖 史书：24部</span>
+        <span class="genre-stat">📄 总卷数：约3249卷</span>
+        <span class="genre-stat">⏱️ 覆盖：黄帝 → 明末</span>
+      </div>
+      <table class="class-table">
+        <tr><th>专属类</th><th>说明</th><th>关系谓词</th></tr>
+        <tr><td>Benji（本纪）</td><td>帝王传记，为全书大纲</td><td>reigns_over（统治某时期）</td></tr>
+        <tr><td>Biao（表）</td><td>世系、年表、月表，梳理时序</td><td>timeline_of（时序梳理）</td></tr>
+        <tr><td>Shu/Zhi（书/志）</td><td>典章制度专篇（礼、乐、律、历、天文、地理等）</td><td>records_institution（记载制度）</td></tr>
+        <tr><td>Shijia（世家）</td><td>诸侯、重要家族传记</td><td>hereditary_of（世袭传承）</td></tr>
+        <tr><td>Liezhuan（列传）</td><td>重要人物传记、边疆民族传记</td><td>biography_of（某人传记）</td></tr>
+        <tr><td>Lunzan（论赞）</td><td>篇末史家评论（"太史公曰""史臣曰"）</td><td>comments_on（评论某事某人）</td></tr>
+      </table>
+    </div>
+
+    <h2>二、编年体（资治通鉴等）建模方案</h2>
+    <div class="genre-card">
+      <h3>编年体：以时间为中心的叙事体裁</h3>
+      <p>以《春秋》为开端，《左传》发展，《资治通鉴》为集大成者。按年、月、日顺序记事，配合《考异》注明史料异同。</p>
+      <div class="genre-stats">
+        <span class="genre-stat">📖 代表：资治通鉴</span>
+        <span class="genre-stat">📄 总卷数：294卷</span>
+        <span class="genre-stat">⏱️ 覆盖：周威烈王23年 → 五代后周</span>
+      </div>
+      <table class="class-table">
+        <tr><th>专属类</th><th>说明</th><th>关系谓词</th></tr>
+        <tr><td>AnnualEntry（年度条目）</td><td>按年划分的叙事单元</td><td>in_reign_of（属某帝王纪年）</td></tr>
+        <tr><td>Kaoyi（考异）</td><td>司马光考证史料异同的专篇</td><td>cross_references（互证史料）</td></tr>
+        <tr><td>ChenguangComment（臣光曰）</td><td>司马光史论</td><td>comments_on（评论史实）</td></tr>
+        <tr><td>HuSanshengNote（胡三省注）</td><td>元胡三省音注，为通鉴主要注本</td><td>annotates（注释正文）</td></tr>
+      </table>
+    </div>
+
+    <h2>三、注疏系统纳入规范</h2>
+    <div class="card">
+      <p>所有正史的古人注疏（如史记三家注、汉书颜师古注、三国志裴松之注、通鉴胡三省注、后汉书李贤注等）全部纳入本体，与正文建立注释关联，保留注家、注疏类型（注音、训诂、考据、史评）信息。注疏采用弹窗展示，不打断正文阅读流畅度。</p>
+      <ul style="line-height:1.9;">
+        <li><strong>裴松之注三国志</strong>：引书200余种，补史实、备异闻、惩妄、论辩，是典型的补充式注释</li>
+        <li><strong>史记三家注</strong>：裴骃集解（刘宋）、司马贞索隐（唐）、张守节正义（唐），从南朝到唐代逐步累积</li>
+        <li><strong>汉书颜师古注</strong>：唐颜师古注，是汉书最重要注本</li>
+        <li><strong>资治通鉴胡三省注</strong>：宋元之际胡三省注，音注、地理、制度考证兼备</li>
+      </ul>
+    </div>
+
+    <h2>四、版本与校勘纳入规范</h2>
+    <div class="card">
+      <p>底本优先采用中华书局点校本二十四史（顾颉刚等点校，建国后最通行本），同时保留：</p>
+      <ul style="line-height:1.9;">
+        <li>版本源流（宋刻本、元刻本、明清刻本、百衲本、武英殿本、局本、点校本）</li>
+        <li>校勘记：点校本校勘记全部录入，标注异文、讹误、衍脱</li>
+        <li>标点分段：保留中华书局点校本的标点与分段，正文可切换"白文本/点校本"两种视图</li>
+      </ul>
+    </div>
+
+    <h2>已建设单本本体进度</h2>
+    <div class="card">
+      <p>✅ 《史记》：本体页+第一篇原文已上线<br>
+      ✅ 《资治通鉴》：本体页已上线，文本待录入<br>
+      ⏳ 《汉书》：建设中<br>
+      ⏳ 其余22部正史：按顺序建设中</p>
+    </div>
+  </div>
+
+  <script src="https://yejinlei.github.io/history/js/header.js"></script>
+</body>
+</html>

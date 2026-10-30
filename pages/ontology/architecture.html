@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>核心架构：四轴七层 - 本体总纲</title>
+  <style>
+    body { background: #f5efe0; margin: 0; padding-top: 80px; font-family: "PingFang SC", "Microsoft YaHei", sans-serif; color: #2a2018; }
+    .container { max-width: 1100px; margin: 0 auto; padding: 20px 30px; }
+    h1.title { font-family: "STKaiti", "KaiTi", serif; font-size: 2.2em; color: #8b2323; text-align: center; margin: 20px 0; letter-spacing: 0.2em; }
+    .back-link { display: inline-block; color: #8b2323; text-decoration: none; margin-bottom: 20px; }
+    .back-link:hover { text-decoration: underline; }
+    
+    h2 { font-family: "STKaiti", "KaiTi", serif; color: #8b2323; border-left: 4px solid #8b2323; padding-left: 12px; margin-top: 40px; font-size: 1.6em; }
+    h3 { color: #5a3a2a; margin-top: 25px; }
+    
+    .card { background: #fffbf0; border: 1px solid #d4c4a8; border-radius: 6px; padding: 25px; margin: 20px 0; line-height: 1.8; }
+    
+    .matrix-table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+    .matrix-table th, .matrix-table td { border: 1px solid #d4c4a8; padding: 12px; text-align: left; }
+    .matrix-table th { background: #8b2323; color: white; font-family: "STKaiti", serif; font-weight: normal; font-size: 1.05em; }
+    .matrix-table tr:nth-child(even) { background: #faf6ed; }
+    .matrix-table td:first-child { font-weight: bold; color: #8b2323; font-family: "STKaiti", serif; }
+    
+    .layer-list { counter-reset: layer; }
+    .layer-item { counter-increment: layer; padding: 15px 15px 15px 60px; position: relative; margin-bottom: 10px; background: #fffbf0; border: 1px solid #d4c4a8; border-radius: 4px; border-left: 4px solid #8b2323; }
+    .layer-item::before { content: "L" counter(layer); position: absolute; left: 15px; top: 15px; font-weight: bold; color: #8b2323; font-family: "STKaiti", serif; font-size: 1.3em; }
+    .layer-name { font-weight: bold; font-size: 1.1em; margin-bottom: 5px; }
+    .layer-desc { color: #5a4a3a; font-size: 0.95em; line-height: 1.6; }
+    
+    .predicate-table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+    .predicate-table th, .predicate-table td { border: 1px solid #d4c4a8; padding: 10px; font-size: 0.95em; }
+    .predicate-table th { background: #f0e6d2; color: #3a2a1a; }
+    .prop-trans { background: #e6f0ff !important; }
+    .prop-sym { background: #fff0e6 !important; }
+    .prop-asym { background: #ffe6e6 !important; }
+  </style>
+</head>
+<body>
+  <div id="site-header" data-page="ontology"></div>
+
+  <div class="container">
+    <a href="../ontology.html" class="back-link">← 返回本体总纲</a>
+    <h1 class="title">🧱 核心架构：四轴七层设计</h1>
+
+    <h2>一、四轴正交坐标系</h2>
+    <div class="card">
+      <p>四轴相互正交，任意历史实体、关系、实例都可在四轴中定位，避免分类冲突：</p>
+    </div>
+    <table class="matrix-table">
+      <tr><th>坐标轴</th><th>轴名</th><th>覆盖内容</th><th>典型类</th></tr>
+      <tr><td>A1</td><td>体裁分类轴</td><td>正史/编年/纪事本末/方志/专史/史料集</td><td>史书体裁、丛书、断代归属、版本目录</td></tr>
+      <tr><td>A2</td><td>史实内容轴</td><td>时间·地理·制度·社会·经济·文化</td><td>历史事件、典章制度、社会结构、经济形态</td></tr>
+      <tr><td>A3</td><td>人物主体轴</td><td>帝王→官僚→士人→庶民；史家</td><td>历史人物、历史学家、注家、学派传承人</td></tr>
+      <tr><td>A4</td><td>时序缘起轴</td><td>事件→变革→战争→运动→史料生成</td><td>历史事件、史料编纂事件、因果链、沿革过程</td></tr>
+    </table>
+
+    <h2>二、七层抽象层次</h2>
+    <div class="layer-list">
+      <div class="layer-item">
+        <div class="layer-name">元模型层</div>
+        <div class="layer-desc">定义轴(Axis)、层(Layer)、类(OntologyClass)、数据属性(DatatypeProperty)、对象属性(ObjectProperty)、实例(Individual)等最基础元类，为整个本体提供统一建模元语。</div>
+      </div>
+      <div class="layer-item">
+        <div class="layer-name">史观本体层</div>
+        <div class="layer-desc">唯物史观、循环史观、进步史观、年鉴学派长时段理论等最上层历史理论，是所有历史解释的顶层理论框架。</div>
+      </div>
+      <div class="layer-item">
+        <div class="layer-name">史学范畴层</div>
+        <div class="layer-desc">阶级分析法、计量史学、史料考据法等史学方法，以及封建、郡县、宗法、士族、改土归流等核心历史概念。</div>
+      </div>
+      <div class="layer-item">
+        <div class="layer-name">学派体系层</div>
+        <div class="layer-desc">年鉴学派、古史辨派、马克思主义史学派、计量史学派等史学流派，以及社会形态分期、断代王朝分期、全球史分期等历史分期体系。</div>
+      </div>
+      <div class="layer-item">
+        <div class="layer-name">文献载体层</div>
+        <div class="layer-desc">史书→卷→篇→段→正文/注，包含纪传体(本纪/表/书/世家/列传)、编年体(年度条目)、纪事本末体(事目)等不同体裁的结构化文本单元。</div>
+      </div>
+      <div class="layer-item">
+        <div class="layer-name">人物传承层</div>
+        <div class="layer-desc">帝王、官僚、士人、庶民等历史活动人物，以及史家、注家、师承关系、家族世系。</div>
+      </div>
+      <div class="layer-item">
+        <div class="layer-name">记忆书写外延层</div>
+        <div class="layer-desc">史学史、历史记忆、神话传说化人物、文化遗产等外延内容，覆盖史料生成之后的传播、诠释与记忆建构过程。</div>
+      </div>
+    </div>
+
+    <h2>三、核心类体系（TBox）</h2>
+    <div class="card">
+      <p>共包含7大根类、38个核心类：</p>
+      <ul style="line-height:2;">
+        <li><strong>L0元模型类</strong>：Entity / Axis / Layer / OntologyClass / DatatypeProperty / ObjectProperty / Individual（7类）</li>
+        <li><strong>L1史观类</strong>：HistoricalTheory</li>
+        <li><strong>L2范畴类</strong>：HistoriographyMethod / HistoricalConcept</li>
+        <li><strong>L3学派类</strong>：School / HistoricalPeriodization</li>
+        <li><strong>L4文献类</strong>：Text → Biography(纪传) / Chronicle(编年) / Treatise(典志) / EventNarrative(纪事本末) / Gazetteer(方志)，下含 Volume(卷) / Chapter(篇) / Section(段) / Commentary(注疏)</li>
+        <li><strong>L5人物类</strong>：HistoricalFigure → Emperor(帝王) / Official(官僚) / Literatus(士人) / Commoner(庶民) / Historian(史家)</li>
+        <li><strong>L6外延类</strong>：HistoricalMemory / MythicizedFigure / CulturalHeritage</li>
+      </ul>
+    </div>
+
+    <h2>四、对象关系谓词（28组）</h2>
+    <div class="card">
+      <p>按六组分类定义，标注关系特性（<span class="prop-trans">蓝色=传递性</span>，<span class="prop-sym">橙色=对称性</span>，<span class="prop-asym">红色=反对称性</span>）：</p>
+    </div>
+    <table class="predicate-table">
+      <tr><th>分组</th><th>谓词名</th><th>说明</th><th>特性</th></tr>
+      <tr><td rowspan="4">体裁分类</td><td>belongs_to_genre</td><td>归属某体裁</td><td></td></tr>
+      <tr><td>part_of</td><td>属于某书/卷</td><td class="prop-trans">传递</td></tr>
+      <tr><td>covers_period</td><td>所载断代</td><td></td></tr>
+      <tr><td>based_on_source</td><td>所据底本</td><td></td></tr>
+      
+      <tr><td rowspan="4">文献结构</td><td>has_volume / has_chapter / has_section</td><td>包含卷/篇/段</td><td class="prop-trans">传递</td></tr>
+      <tr><td>commentary_on</td><td>注疏某正文</td><td></td></tr>
+      <tr><td>quotation</td><td>引用他书</td><td></td></tr>
+      <tr><td>records</td><td>记载某史实</td><td></td></tr>
+      
+      <tr><td rowspan="4">学派分期</td><td>founding</td><td>创立学派</td><td></td></tr>
+      <tr><td>reliance</td><td>宗奉某史观</td><td></td></tr>
+      <tr><td>transmission</td><td>学脉传承</td><td class="prop-trans">传递</td></tr>
+      <tr><td>divergence</td><td>学术分歧</td><td class="prop-sym">对称</td></tr>
+      
+      <tr><td rowspan="4">人物关系</td><td>teacher_student</td><td>师承</td><td></td></tr>
+      <tr><td>authorship</td><td>著有某书</td><td></td></tr>
+      <tr><td>served</td><td>仕于某政权</td><td></td></tr>
+      <tr><td>member_of</td><td>归属某群体</td><td></td></tr>
+      
+      <tr><td rowspan="4">史观范畴</td><td>subsumption</td><td>概念摄属</td><td class="prop-trans">传递</td></tr>
+      <tr><td>interpretation</td><td>诠释某史实</td><td></td></tr>
+      <tr><td>opposition</td><td>观点对立</td><td class="prop-sym">对称</td></tr>
+      <tr><td>textual_evidence</td><td>史料佐证</td><td></td></tr>
+      
+      <tr><td rowspan="4">事件时序</td><td>occurred_at</td><td>发生于某时</td><td></td></tr>
+      <tr><td>occurred_in</td><td>发生于某地</td><td></td></tr>
+      <tr><td>caused</td><td>因果导致</td><td class="prop-trans">传递 · <span class="prop-asym">反对称</span></td></tr>
+      <tr><td>precedes</td><td>时间早于</td><td class="prop-trans">传递 · <span class="prop-asym">反对称</span></td></tr>
+    </table>
+  </div>
+
+  <script src="https://yejinlei.github.io/history/js/header.js"></script>
+</body>
+</html>

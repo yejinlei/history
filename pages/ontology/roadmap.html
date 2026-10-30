@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>建设路线图与质量规范 - 本体总纲</title>
+  <style>
+    body { background: #f5efe0; margin: 0; padding-top: 80px; font-family: "PingFang SC", "Microsoft YaHei", sans-serif; color: #2a2018; }
+    .container { max-width: 1100px; margin: 0 auto; padding: 20px 30px; }
+    h1.title { font-family: "STKaiti", "KaiTi", serif; font-size: 2.2em; color: #8b2323; text-align: center; margin: 20px 0; letter-spacing: 0.2em; }
+    .back-link { display: inline-block; color: #8b2323; text-decoration: none; margin-bottom: 20px; }
+    .back-link:hover { text-decoration: underline; }
+    h2 { font-family: "STKaiti", "KaiTi", serif; color: #8b2323; border-left: 4px solid #8b2323; padding-left: 12px; margin-top: 40px; font-size: 1.6em; }
+    .card { background: #fffbf0; border: 1px solid #d4c4a8; border-radius: 6px; padding: 25px; margin: 20px 0; line-height: 1.8; }
+    
+    .roadmap { position: relative; padding-left: 40px; }
+    .roadmap::before { content: ''; position: absolute; left: 15px; top: 0; bottom: 0; width: 3px; background: linear-gradient(to bottom, #8b2323, #d4c4a8); }
+    .m-stage { position: relative; margin-bottom: 30px; background: #fffbf0; border: 1px solid #d4c4a8; border-radius: 6px; padding: 20px; }
+    .m-stage::before { content: ''; position: absolute; left: -32px; top: 25px; width: 16px; height: 16px; background: #8b2323; border-radius: 50%; border: 3px solid #fffbf0; box-shadow: 0 0 0 2px #8b2323; }
+    .m-stage.done::before { background: #2a6b2a; box-shadow: 0 0 0 2px #2a6b2a; }
+    .m-stage h3 { margin-top: 0; font-family: "STKaiti", serif; color: #8b2323; font-size: 1.3em; }
+    .m-stage.done h3 { color: #2a6b2a; }
+    .m-stage .status { font-size: 0.8em; background: #8b2323; color: white; padding: 2px 8px; border-radius: 10px; margin-left: 10px; }
+    .m-stage.done .status { background: #2a6b2a; }
+    
+    .quality-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 15px; margin: 20px 0; }
+    .quality-card { background: #fffbf0; border: 1px solid #d4c4a8; border-left: 4px solid #8b2323; border-radius: 4px; padding: 15px; }
+    .quality-card h4 { margin-top: 0; color: #8b2323; font-family: "STKaiti", serif; }
+  </style>
+</head>
+<body>
+  <div id="site-header" data-page="ontology"></div>
+
+  <div class="container">
+    <a href="../ontology.html" class="back-link">← 返回本体总纲</a>
+    <h1 class="title">🗺️ 建设路线图与质量规范</h1>
+
+    <h2>分阶段落地计划（M1-M5）</h2>
+    <div class="roadmap">
+      <div class="m-stage done">
+        <h3>M1 骨架定版 <span class="status">已完成</span></h3>
+        <p>确定四轴×七层整体架构、TBox类体系、数据属性、对象关系谓词，发布本体总纲页面，搭建站点基础框架与导航结构。</p>
+      </div>
+      <div class="m-stage">
+        <h3>M2 史观·人物层实例填充 <span class="status">进行中</span></h3>
+        <p>录入历史概念、史观方法、史学流派实例；完成现代史学四大家（吕思勉、陈垣、陈寅恪、钱穆）学术数据；录入二十四史基本元数据。</p>
+      </div>
+      <div class="m-stage">
+        <h3>M3 文献载体层挂接 <span class="status">进行中</span></h3>
+        <p>逐部录入正史全文与注疏，按「书→卷→篇→段」结构化，完成史记、资治通鉴、汉书等重点史书文本入库，配套古籍风格阅读器。</p>
+      </div>
+      <div class="m-stage">
+        <h3>M4 事件层实例填充 <span class="status">待启动</span></h3>
+        <p>录入重大历史事件（战争、变法、制度变迁、文化运动），建立时序因果关系网络，完成跨书实体对齐与考异标注。</p>
+      </div>
+      <div class="m-stage">
+        <h3>M5 应用层开发 <span class="status">规划中</span></h3>
+        <p>开发知识图谱可视化（人物关系图、事件时序图、制度沿革图）、全文检索系统、基于本体的智能问答(RAG)、历史统计与推论展示。</p>
+      </div>
+    </div>
+
+    <h2>内容质量校验标准</h2>
+    <div class="quality-grid">
+      <div class="quality-card">
+        <h4>📜 史料溯源完备性</h4>
+        <p style="font-size:0.95em;line-height:1.7;">每条史实必须标注原文出处，包含书名、篇目、卷次，禁止无来源结论；引用注疏需注明注家与时代。</p>
+      </div>
+      <div class="quality-card">
+        <h4>⏱️ 时间线一致性</h4>
+        <p style="font-size:0.95em;line-height:1.7;">所有事件必须标注公历、朝代、帝王纪年三套时间，因果关系不得出现时间倒置（果先于因），人物生卒年与活动年代不得矛盾。</p>
+      </div>
+      <div class="quality-card">
+        <h4>🔍 异文考异标注率</h4>
+        <p style="font-size:0.95em;line-height:1.7;">史书记载矛盾处必须并列异说，不得自行取舍，标注不同说法来源与学者考证结论。</p>
+      </div>
+      <div class="quality-card">
+        <h4>🔗 实体去重准确率</h4>
+        <p style="font-size:0.95em;line-height:1.7;">人物、地名、官职异名必须正确合并，避免"一人多条"，同名异人（如两个韩信、两个卫青）必须正确区分。</p>
+      </div>
+      <div class="quality-card">
+        <h4>📖 文本准确性</h4>
+        <p style="font-size:0.95em;line-height:1.7;">原文录入以中华书局点校本为底本，点校勘记全部录入，不随意改字；避讳字、异体字保留原貌，必要处加注说明。</p>
+      </div>
+      <div class="quality-card">
+        <h4>🎨 阅读体验</h4>
+        <p style="font-size:0.95em;line-height:1.7;">正文采用古籍阅读友好版式，注疏弹窗不打断阅读，响应式适配移动端，保留古籍视觉风格。</p>
+      </div>
+    </div>
+
+    <h2>数据源登记规范</h2>
+    <div class="card">
+      <p>所有入库数据必须登记来源，格式：<code>[史书名称] · [篇目卷次] · [版本] · [页码]</code>，引用现代学者研究需注明作者、书名/论文名、出版社/期刊、出版年份。</p>
+      <ul style="line-height:1.9;">
+        <li><strong>正文底本</strong>：中华书局点校本二十四史 + 资治通鉴</li>
+        <li><strong>注疏来源</strong>：史记三家注、汉书颜师古注、后汉书李贤注、三国志裴松之注、资治通鉴胡三省注等</li>
+        <li><strong>现代学者著作</strong>：吕思勉、陈垣、陈寅恪、钱穆四大家全集，以及梁启超、王国维、顾颉刚、翦伯赞等学者代表作</li>
+      </ul>
+    </div>
+  </div>
+
+  <script src="https://yejinlei.github.io/history/js/header.js"></script>
+</body>
+</html>
