@@ -1,0 +1,3058 @@
+{
+  "book": "shiji",
+  "book_name": "史记",
+  "author": "司马迁",
+  "dynasty": "西汉",
+  "annotation_authors": {
+    "裴骃": "集解",
+    "司马贞": "索隐",
+    "张守节": "正义"
+  },
+  "total_chapters": 137,
+  "total_paragraphs": 9009,
+  "total_chars": 757319,
+  "total_annotations": 18081,
+  "structure": {
+    "benji": {
+      "name": "十二本纪",
+      "count": 12
+    },
+    "biao": {
+      "name": "十表",
+      "count": 10
+    },
+    "shu": {
+      "name": "八书",
+      "count": 8
+    },
+    "shijia": {
+      "name": "三十世家",
+      "count": 30
+    },
+    "liezhuan": {
+      "name": "七十列传",
+      "count": 70
+    },
+    "appendix": {
+      "name": "附录",
+      "count": 7
+    }
+  },
+  "chapters": [
+    {
+      "id": "shiji-五帝本紀第一",
+      "title": "五帝本紀第一",
+      "juan": "卷一",
+      "juan_num": 0,
+      "tili": "benji",
+      "tili_name": "本纪",
+      "para_count": 31,
+      "char_count": 6696,
+      "annotation_count": 477
+    },
+    {
+      "id": "shiji-夏本紀第二",
+      "title": "夏本紀第二",
+      "juan": "卷二",
+      "juan_num": 0,
+      "tili": "benji",
+      "tili_name": "本纪",
+      "para_count": 36,
+      "char_count": 5704,
+      "annotation_count": 442
+    },
+    {
+      "id": "shiji-殷本紀第三",
+      "title": "殷本紀第三",
+      "juan": "卷三",
+      "juan_num": 0,
+      "tili": "benji",
+      "tili_name": "本纪",
+      "para_count": 36,
+      "char_count": 4178,
+      "annotation_count": 167
+    },
+    {
+      "id": "shiji-周本紀第四",
+      "title": "周本紀第四",
+      "juan": "卷四",
+      "juan_num": 0,
+      "tili": "benji",
+      "tili_name": "本纪",
+      "para_count": 83,
+      "char_count": 12125,
+      "annotation_count": 532
+    },
+    {
+      "id": "shiji-秦本紀第五",
+      "title": "秦本紀第五",
+      "juan": "卷五",
+      "juan_num": 0,
+      "tili": "benji",
+      "tili_name": "本纪",
+      "para_count": 73,
+      "char_count": 11848,
+      "annotation_count": 402
+    },
+    {
+      "id": "shiji-秦始皇本紀第六",
+      "title": "秦始皇本紀第六",
+      "juan": "卷六",
+      "juan_num": 0,
+      "tili": "benji",
+      "tili_name": "本纪",
+      "para_count": 128,
+      "char_count": 17855,
+      "annotation_count": 569
+    },
+    {
+      "id": "shiji-項羽本紀第七",
+      "title": "項羽本紀第七",
+      "juan": "卷七",
+      "juan_num": 0,
+      "tili": "benji",
+      "tili_name": "本纪",
+      "para_count": 46,
+      "char_count": 12250,
+      "annotation_count": 344
+    },
+    {
+      "id": "shiji-高祖本紀第八",
+      "title": "高祖本紀第八",
+      "juan": "卷八",
+      "juan_num": 0,
+      "tili": "benji",
+      "tili_name": "本纪",
+      "para_count": 92,
+      "char_count": 12869,
+      "annotation_count": 395
+    },
+    {
+      "id": "shiji-呂后本紀第九",
+      "title": "呂后本紀第九",
+      "juan": "卷九",
+      "juan_num": 0,
+      "tili": "benji",
+      "tili_name": "本纪",
+      "para_count": 35,
+      "char_count": 5819,
+      "annotation_count": 93
+    },
+    {
+      "id": "shiji-孝文本紀第十",
+      "title": "孝文本紀第十",
+      "juan": "卷十",
+      "juan_num": 0,
+      "tili": "benji",
+      "tili_name": "本纪",
+      "para_count": 42,
+      "char_count": 7218,
+      "annotation_count": 159
+    },
+    {
+      "id": "shiji-孝景本紀第十一",
+      "title": "孝景本紀第十一",
+      "juan": "卷十一",
+      "juan_num": 0,
+      "tili": "benji",
+      "tili_name": "本纪",
+      "para_count": 19,
+      "char_count": 2061,
+      "annotation_count": 91
+    },
+    {
+      "id": "shiji-孝武本紀第十二",
+      "title": "孝武本紀第十二",
+      "juan": "卷十二",
+      "juan_num": 0,
+      "tili": "benji",
+      "tili_name": "本纪",
+      "para_count": 54,
+      "char_count": 8941,
+      "annotation_count": 274
+    },
+    {
+      "id": "shiji-三代世表第一",
+      "title": "三代世表第一",
+      "juan": "卷十三",
+      "juan_num": 0,
+      "tili": "biao",
+      "tili_name": "表",
+      "para_count": 8,
+      "char_count": 1407,
+      "annotation_count": 24
+    },
+    {
+      "id": "shiji-十二諸侯年表第二",
+      "title": "十二諸侯年表第二",
+      "juan": "卷十四",
+      "juan_num": 0,
+      "tili": "biao",
+      "tili_name": "表",
+      "para_count": 884,
+      "char_count": 9861,
+      "annotation_count": 25
+    },
+    {
+      "id": "shiji-六國年表第三",
+      "title": "六國年表第三",
+      "juan": "卷十五",
+      "juan_num": 0,
+      "tili": "biao",
+      "tili_name": "表",
+      "para_count": 647,
+      "char_count": 7788,
+      "annotation_count": 27
+    },
+    {
+      "id": "shiji-秦楚之際月表第四",
+      "title": "秦楚之際月表第四",
+      "juan": "卷十六",
+      "juan_num": 0,
+      "tili": "biao",
+      "tili_name": "表",
+      "para_count": 229,
+      "char_count": 3114,
+      "annotation_count": 19
+    },
+    {
+      "id": "shiji-漢興以來諸侯王年表第五",
+      "title": "漢興以來諸侯王年表第五",
+      "juan": "卷十七",
+      "juan_num": 0,
+      "tili": "biao",
+      "tili_name": "表",
+      "para_count": 289,
+      "char_count": 2673,
+      "annotation_count": 26
+    },
+    {
+      "id": "shiji-高祖功臣侯者年表第六",
+      "title": "高祖功臣侯者年表第六",
+      "juan": "卷十八",
+      "juan_num": 0,
+      "tili": "biao",
+      "tili_name": "表",
+      "para_count": 997,
+      "char_count": 12167,
+      "annotation_count": 28
+    },
+    {
+      "id": "shiji-惠景間侯者年表第七",
+      "title": "惠景間侯者年表第七",
+      "juan": "卷十九",
+      "juan_num": 0,
+      "tili": "biao",
+      "tili_name": "表",
+      "para_count": 406,
+      "char_count": 5110,
+      "annotation_count": 13
+    },
+    {
+      "id": "shiji-建元以來侯者年表第八",
+      "title": "建元以來侯者年表第八",
+      "juan": "卷二十",
+      "juan_num": 0,
+      "tili": "biao",
+      "tili_name": "表",
+      "para_count": 283,
+      "char_count": 4510,
+      "annotation_count": 6
+    },
+    {
+      "id": "shiji-建元已來王子侯者年表第九",
+      "title": "建元已來王子侯者年表第九",
+      "juan": "卷二十一",
+      "juan_num": 0,
+      "tili": "biao",
+      "tili_name": "表",
+      "para_count": 461,
+      "char_count": 5734,
+      "annotation_count": 7
+    },
+    {
+      "id": "shiji-漢興以來將相名臣年表第十",
+      "title": "漢興以來將相名臣年表第十",
+      "juan": "卷二十二",
+      "juan_num": 0,
+      "tili": "biao",
+      "tili_name": "表",
+      "para_count": 94,
+      "char_count": 1006,
+      "annotation_count": 6
+    },
+    {
+      "id": "shiji-禮書第一",
+      "title": "禮書第一",
+      "juan": "卷二十三",
+      "juan_num": 0,
+      "tili": "shu",
+      "tili_name": "书",
+      "para_count": 19,
+      "char_count": 3634,
+      "annotation_count": 175
+    },
+    {
+      "id": "shiji-樂書第二",
+      "title": "樂書第二",
+      "juan": "卷二十四",
+      "juan_num": 0,
+      "tili": "shu",
+      "tili_name": "书",
+      "para_count": 69,
+      "char_count": 11028,
+      "annotation_count": 687
+    },
+    {
+      "id": "shiji-律書第三",
+      "title": "律書第三",
+      "juan": "卷二十五",
+      "juan_num": 0,
+      "tili": "shu",
+      "tili_name": "书",
+      "para_count": 27,
+      "char_count": 3506,
+      "annotation_count": 109
+    },
+    {
+      "id": "shiji-曆書第四",
+      "title": "曆書第四",
+      "juan": "卷二十六",
+      "juan_num": 0,
+      "tili": "shu",
+      "tili_name": "书",
+      "para_count": 97,
+      "char_count": 13145,
+      "annotation_count": 126
+    },
+    {
+      "id": "shiji-天官書第五",
+      "title": "天官書第五",
+      "juan": "卷二十七",
+      "juan_num": 0,
+      "tili": "shu",
+      "tili_name": "书",
+      "para_count": 126,
+      "char_count": 12328,
+      "annotation_count": 491
+    },
+    {
+      "id": "shiji-封禪書第六",
+      "title": "封禪書第六",
+      "juan": "卷二十八",
+      "juan_num": 0,
+      "tili": "shu",
+      "tili_name": "书",
+      "para_count": 106,
+      "char_count": 14401,
+      "annotation_count": 301
+    },
+    {
+      "id": "shiji-河渠書第七",
+      "title": "河渠書第七",
+      "juan": "卷二十九",
+      "juan_num": 0,
+      "tili": "shu",
+      "tili_name": "书",
+      "para_count": 15,
+      "char_count": 2306,
+      "annotation_count": 85
+    },
+    {
+      "id": "shiji-平準書第八",
+      "title": "平準書第八",
+      "juan": "卷三十",
+      "juan_num": 0,
+      "tili": "shu",
+      "tili_name": "书",
+      "para_count": 52,
+      "char_count": 7099,
+      "annotation_count": 174
+    },
+    {
+      "id": "shiji-吳太伯世家第一",
+      "title": "吳太伯世家第一",
+      "juan": "卷三十一",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 42,
+      "char_count": 5724,
+      "annotation_count": 281
+    },
+    {
+      "id": "shiji-齊太公世家第二",
+      "title": "齊太公世家第二",
+      "juan": "卷三十二",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 83,
+      "char_count": 9813,
+      "annotation_count": 255
+    },
+    {
+      "id": "shiji-魯周公世家第三",
+      "title": "魯周公世家第三",
+      "juan": "卷三十三",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 38,
+      "char_count": 8085,
+      "annotation_count": 267
+    },
+    {
+      "id": "shiji-燕召公世家第四",
+      "title": "燕召公世家第四",
+      "juan": "卷三十四",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 36,
+      "char_count": 3423,
+      "annotation_count": 80
+    },
+    {
+      "id": "shiji-管蔡世家第五",
+      "title": "管蔡世家第五",
+      "juan": "卷三十五",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 34,
+      "char_count": 3263,
+      "annotation_count": 54
+    },
+    {
+      "id": "shiji-陳杞世家第六",
+      "title": "陳杞世家第六",
+      "juan": "卷三十六",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 33,
+      "char_count": 3237,
+      "annotation_count": 66
+    },
+    {
+      "id": "shiji-衞康叔世家第七",
+      "title": "衞康叔世家第七",
+      "juan": "卷三十七",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 51,
+      "char_count": 4557,
+      "annotation_count": 100
+    },
+    {
+      "id": "shiji-宋微子世家第八",
+      "title": "宋微子世家第八",
+      "juan": "卷三十八",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 59,
+      "char_count": 6080,
+      "annotation_count": 225
+    },
+    {
+      "id": "shiji-晉世家第九",
+      "title": "晉世家第九",
+      "juan": "卷三十九",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 144,
+      "char_count": 16242,
+      "annotation_count": 315
+    },
+    {
+      "id": "shiji-楚世家第十",
+      "title": "楚世家第十",
+      "juan": "卷四十",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 102,
+      "char_count": 14278,
+      "annotation_count": 332
+    },
+    {
+      "id": "shiji-越王勾踐世家第十一",
+      "title": "越王勾踐世家第十一",
+      "juan": "卷四十一",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 28,
+      "char_count": 4978,
+      "annotation_count": 103
+    },
+    {
+      "id": "shiji-鄭世家第十二",
+      "title": "鄭世家第十二",
+      "juan": "卷四十二",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 62,
+      "char_count": 6253,
+      "annotation_count": 108
+    },
+    {
+      "id": "shiji-趙世家第十三",
+      "title": "趙世家第十三",
+      "juan": "卷四十三",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 121,
+      "char_count": 15312,
+      "annotation_count": 378
+    },
+    {
+      "id": "shiji-魏世家第十四",
+      "title": "魏世家第十四",
+      "juan": "卷四十四",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 76,
+      "char_count": 7397,
+      "annotation_count": 221
+    },
+    {
+      "id": "shiji-韓世家第十五",
+      "title": "韓世家第十五",
+      "juan": "卷四十五",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 34,
+      "char_count": 3373,
+      "annotation_count": 98
+    },
+    {
+      "id": "shiji-田敬仲完世家第十六",
+      "title": "田敬仲完世家第十六",
+      "juan": "卷四十六",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 57,
+      "char_count": 7574,
+      "annotation_count": 148
+    },
+    {
+      "id": "shiji-孔子世家第十七",
+      "title": "孔子世家第十七",
+      "juan": "卷四十七",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 87,
+      "char_count": 10587,
+      "annotation_count": 333
+    },
+    {
+      "id": "shiji-陳涉世家第十八",
+      "title": "陳涉世家第十八",
+      "juan": "卷四十八",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 29,
+      "char_count": 4321,
+      "annotation_count": 113
+    },
+    {
+      "id": "shiji-外戚世家第十九",
+      "title": "外戚世家第十九",
+      "juan": "卷四十九",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 48,
+      "char_count": 5479,
+      "annotation_count": 119
+    },
+    {
+      "id": "shiji-楚元王世家第二十",
+      "title": "楚元王世家第二十",
+      "juan": "卷五十",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 11,
+      "char_count": 1071,
+      "annotation_count": 27
+    },
+    {
+      "id": "shiji-荊燕世家第二十一",
+      "title": "荊燕世家第二十一",
+      "juan": "卷五十一",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 12,
+      "char_count": 1496,
+      "annotation_count": 42
+    },
+    {
+      "id": "shiji-齊悼惠王世家第二十二",
+      "title": "齊悼惠王世家第二十二",
+      "juan": "卷五十二",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 45,
+      "char_count": 4473,
+      "annotation_count": 61
+    },
+    {
+      "id": "shiji-蕭相國世家第二十三",
+      "title": "蕭相國世家第二十三",
+      "juan": "卷五十三",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 18,
+      "char_count": 2384,
+      "annotation_count": 34
+    },
+    {
+      "id": "shiji-曹相國世家第二十四",
+      "title": "曹相國世家第二十四",
+      "juan": "卷五十四",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 19,
+      "char_count": 2821,
+      "annotation_count": 103
+    },
+    {
+      "id": "shiji-留侯世家第二十五",
+      "title": "留侯世家第二十五",
+      "juan": "卷五十五",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 26,
+      "char_count": 5252,
+      "annotation_count": 87
+    },
+    {
+      "id": "shiji-陳丞相世家第二十六",
+      "title": "陳丞相世家第二十六",
+      "juan": "卷五十六",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 29,
+      "char_count": 4487,
+      "annotation_count": 36
+    },
+    {
+      "id": "shiji-絳侯周勃世家第二十七",
+      "title": "絳侯周勃世家第二十七",
+      "juan": "卷五十七",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 25,
+      "char_count": 3924,
+      "annotation_count": 143
+    },
+    {
+      "id": "shiji-梁孝王世家第二十八",
+      "title": "梁孝王世家第二十八",
+      "juan": "卷五十八",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 27,
+      "char_count": 3978,
+      "annotation_count": 58
+    },
+    {
+      "id": "shiji-五宗世家第二十九",
+      "title": "五宗世家第二十九",
+      "juan": "卷五十九",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 25,
+      "char_count": 3127,
+      "annotation_count": 53
+    },
+    {
+      "id": "shiji-三王世家第三十",
+      "title": "三王世家第三十",
+      "juan": "卷六十",
+      "juan_num": 0,
+      "tili": "shijia",
+      "tili_name": "世家",
+      "para_count": 33,
+      "char_count": 5249,
+      "annotation_count": 75
+    },
+    {
+      "id": "shiji-伯夷列傳第一",
+      "title": "伯夷列傳第一",
+      "juan": "卷六十一",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 10,
+      "char_count": 1311,
+      "annotation_count": 70
+    },
+    {
+      "id": "shiji-管晏列傳第二",
+      "title": "管晏列傳第二",
+      "juan": "卷六十二",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 14,
+      "char_count": 1427,
+      "annotation_count": 45
+    },
+    {
+      "id": "shiji-老子韓非列傳第三",
+      "title": "老子韓非列傳第三",
+      "juan": "卷六十三",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 28,
+      "char_count": 3147,
+      "annotation_count": 142
+    },
+    {
+      "id": "shiji-司馬穰苴列傳第四",
+      "title": "司馬穰苴列傳第四",
+      "juan": "卷六十四",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 5,
+      "char_count": 1070,
+      "annotation_count": 20
+    },
+    {
+      "id": "shiji-孫子吳起列傳第五",
+      "title": "孫子吳起列傳第五",
+      "juan": "卷六十五",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 16,
+      "char_count": 2955,
+      "annotation_count": 30
+    },
+    {
+      "id": "shiji-伍子胥列傳第六",
+      "title": "伍子胥列傳第六",
+      "juan": "卷六十六",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 25,
+      "char_count": 4192,
+      "annotation_count": 83
+    },
+    {
+      "id": "shiji-仲尼弟子列傳第七",
+      "title": "仲尼弟子列傳第七",
+      "juan": "卷六十七",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 89,
+      "char_count": 7768,
+      "annotation_count": 325
+    },
+    {
+      "id": "shiji-商君列傳第八",
+      "title": "商君列傳第八",
+      "juan": "卷六十八",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 14,
+      "char_count": 4275,
+      "annotation_count": 74
+    },
+    {
+      "id": "shiji-蘇秦列傳第九",
+      "title": "蘇秦列傳第九",
+      "juan": "卷六十九",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 68,
+      "char_count": 9968,
+      "annotation_count": 292
+    },
+    {
+      "id": "shiji-張儀列傳第十",
+      "title": "張儀列傳第十",
+      "juan": "卷七十",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 60,
+      "char_count": 8845,
+      "annotation_count": 146
+    },
+    {
+      "id": "shiji-樗里子甘茂列傳第十一",
+      "title": "樗里子甘茂列傳第十一",
+      "juan": "卷七十一",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 21,
+      "char_count": 4289,
+      "annotation_count": 98
+    },
+    {
+      "id": "shiji-穰侯列傳第十二",
+      "title": "穰侯列傳第十二",
+      "juan": "卷七十二",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 12,
+      "char_count": 2290,
+      "annotation_count": 44
+    },
+    {
+      "id": "shiji-白起王翦列傳第十三",
+      "title": "白起王翦列傳第十三",
+      "juan": "卷七十三",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 16,
+      "char_count": 3447,
+      "annotation_count": 85
+    },
+    {
+      "id": "shiji-孟子荀卿列傳第十四",
+      "title": "孟子荀卿列傳第十四",
+      "juan": "卷七十四",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 15,
+      "char_count": 1945,
+      "annotation_count": 45
+    },
+    {
+      "id": "shiji-孟嘗君列傳第十五",
+      "title": "孟嘗君列傳第十五",
+      "juan": "卷七十五",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 20,
+      "char_count": 4622,
+      "annotation_count": 49
+    },
+    {
+      "id": "shiji-平原君虞卿列傳第十六",
+      "title": "平原君虞卿列傳第十六",
+      "juan": "卷七十六",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 20,
+      "char_count": 4360,
+      "annotation_count": 50
+    },
+    {
+      "id": "shiji-信陵君列傳第十七",
+      "title": "信陵君列傳第十七",
+      "juan": "卷七十七",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 18,
+      "char_count": 3322,
+      "annotation_count": 27
+    },
+    {
+      "id": "shiji-春申君列傳第十八",
+      "title": "春申君列傳第十八",
+      "juan": "卷七十八",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 23,
+      "char_count": 3903,
+      "annotation_count": 76
+    },
+    {
+      "id": "shiji-范雎蔡澤列傳第十九",
+      "title": "范雎蔡澤列傳第十九",
+      "juan": "卷七十九",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 36,
+      "char_count": 9497,
+      "annotation_count": 114
+    },
+    {
+      "id": "shiji-樂毅列傳第二十",
+      "title": "樂毅列傳第二十",
+      "juan": "卷八十",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 21,
+      "char_count": 2752,
+      "annotation_count": 58
+    },
+    {
+      "id": "shiji-廉頗藺相如列傳第二十一",
+      "title": "廉頗藺相如列傳第二十一",
+      "juan": "卷八十一",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 28,
+      "char_count": 4795,
+      "annotation_count": 61
+    },
+    {
+      "id": "shiji-田單列傳第二十二",
+      "title": "田單列傳第二十二",
+      "juan": "卷八十二",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 10,
+      "char_count": 1494,
+      "annotation_count": 27
+    },
+    {
+      "id": "shiji-魯仲連鄒陽列傳第二十三",
+      "title": "魯仲連鄒陽列傳第二十三",
+      "juan": "卷八十三",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 28,
+      "char_count": 5200,
+      "annotation_count": 144
+    },
+    {
+      "id": "shiji-屈原賈生列傳第二十四",
+      "title": "屈原賈生列傳第二十四",
+      "juan": "卷八十四",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 34,
+      "char_count": 4802,
+      "annotation_count": 237
+    },
+    {
+      "id": "shiji-呂不韋列傳第二十五",
+      "title": "呂不韋列傳第二十五",
+      "juan": "卷八十五",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 17,
+      "char_count": 2313,
+      "annotation_count": 52
+    },
+    {
+      "id": "shiji-刺客列傳第二十六",
+      "title": "刺客列傳第二十六",
+      "juan": "卷八十六",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 39,
+      "char_count": 7337,
+      "annotation_count": 144
+    },
+    {
+      "id": "shiji-李斯列傳第二十七",
+      "title": "李斯列傳第二十七",
+      "juan": "卷八十七",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 39,
+      "char_count": 9182,
+      "annotation_count": 105
+    },
+    {
+      "id": "shiji-蒙恬列傳第二十八",
+      "title": "蒙恬列傳第二十八",
+      "juan": "卷八十八",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 12,
+      "char_count": 2110,
+      "annotation_count": 22
+    },
+    {
+      "id": "shiji-張耳陳餘列傳第二十九",
+      "title": "張耳陳餘列傳第二十九",
+      "juan": "卷八十九",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 32,
+      "char_count": 5549,
+      "annotation_count": 90
+    },
+    {
+      "id": "shiji-魏豹彭越列傳第三十",
+      "title": "魏豹彭越列傳第三十",
+      "juan": "卷九十",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 13,
+      "char_count": 1999,
+      "annotation_count": 39
+    },
+    {
+      "id": "shiji-黥布列傳第三十一",
+      "title": "黥布列傳第三十一",
+      "juan": "卷九十一",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 20,
+      "char_count": 3553,
+      "annotation_count": 66
+    },
+    {
+      "id": "shiji-淮陰侯列傳第三十二",
+      "title": "淮陰侯列傳第三十二",
+      "juan": "卷九十二",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 29,
+      "char_count": 7946,
+      "annotation_count": 101
+    },
+    {
+      "id": "shiji-韓信盧綰列傳第三十三",
+      "title": "韓信盧綰列傳第三十三",
+      "juan": "卷九十三",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 21,
+      "char_count": 3519,
+      "annotation_count": 75
+    },
+    {
+      "id": "shiji-田儋列傳第三十四",
+      "title": "田儋列傳第三十四",
+      "juan": "卷九十四",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 15,
+      "char_count": 2196,
+      "annotation_count": 38
+    },
+    {
+      "id": "shiji-樊酈滕灌列傳第三十五",
+      "title": "樊酈滕灌列傳第三十五",
+      "juan": "卷九十五",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 32,
+      "char_count": 6149,
+      "annotation_count": 188
+    },
+    {
+      "id": "shiji-張丞相列傳第三十六",
+      "title": "張丞相列傳第三十六",
+      "juan": "卷九十六",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 30,
+      "char_count": 4730,
+      "annotation_count": 73
+    },
+    {
+      "id": "shiji-酈生陸賈列傳第三十七",
+      "title": "酈生陸賈列傳第三十七",
+      "juan": "卷九十七",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 25,
+      "char_count": 5158,
+      "annotation_count": 82
+    },
+    {
+      "id": "shiji-傅靳蒯成列傳第三十八",
+      "title": "傅靳蒯成列傳第三十八",
+      "juan": "卷九十八",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 14,
+      "char_count": 1567,
+      "annotation_count": 55
+    },
+    {
+      "id": "shiji-劉敬叔孫通列傳第三十九",
+      "title": "劉敬叔孫通列傳第三十九",
+      "juan": "卷九十九",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 21,
+      "char_count": 3814,
+      "annotation_count": 62
+    },
+    {
+      "id": "shiji-季布欒布列傳第四十",
+      "title": "季布欒布列傳第四十",
+      "juan": "卷一百",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 12,
+      "char_count": 2119,
+      "annotation_count": 33
+    },
+    {
+      "id": "shiji-袁盎鼂錯列傳第四十一",
+      "title": "袁盎鼂錯列傳第四十一",
+      "juan": "卷一百一",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 23,
+      "char_count": 3937,
+      "annotation_count": 62
+    },
+    {
+      "id": "shiji-張釋之馮唐列傳第四十二",
+      "title": "張釋之馮唐列傳第四十二",
+      "juan": "卷一百二",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 15,
+      "char_count": 2774,
+      "annotation_count": 83
+    },
+    {
+      "id": "shiji-萬石張叔列傳第四十三",
+      "title": "萬石張叔列傳第四十三",
+      "juan": "卷一百三",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 27,
+      "char_count": 3027,
+      "annotation_count": 70
+    },
+    {
+      "id": "shiji-田叔列傳第四十四",
+      "title": "田叔列傳第四十四",
+      "juan": "卷一百四",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 18,
+      "char_count": 2862,
+      "annotation_count": 42
+    },
+    {
+      "id": "shiji-扁鵲倉公列傳第四十五",
+      "title": "扁鵲倉公列傳第四十五",
+      "juan": "卷一百五",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 53,
+      "char_count": 10970,
+      "annotation_count": 247
+    },
+    {
+      "id": "shiji-吳王濞列傳第四十六",
+      "title": "吳王濞列傳第四十六",
+      "juan": "卷一百六",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 21,
+      "char_count": 5685,
+      "annotation_count": 89
+    },
+    {
+      "id": "shiji-魏其武安侯列傳第四十七",
+      "title": "魏其武安侯列傳第四十七",
+      "juan": "卷一百七",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 28,
+      "char_count": 5065,
+      "annotation_count": 119
+    },
+    {
+      "id": "shiji-韓長孺列傳第四十八",
+      "title": "韓長孺列傳第四十八",
+      "juan": "卷一百八",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 15,
+      "char_count": 2922,
+      "annotation_count": 42
+    },
+    {
+      "id": "shiji-李將軍列傳第四十九",
+      "title": "李將軍列傳第四十九",
+      "juan": "卷一百九",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 20,
+      "char_count": 3896,
+      "annotation_count": 61
+    },
+    {
+      "id": "shiji-匈奴列傳第五十",
+      "title": "匈奴列傳第五十",
+      "juan": "卷百一十",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 63,
+      "char_count": 11822,
+      "annotation_count": 294
+    },
+    {
+      "id": "shiji-衞將軍驃騎列傳第五十一",
+      "title": "衞將軍驃騎列傳第五十一",
+      "juan": "卷百一十一",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 47,
+      "char_count": 7600,
+      "annotation_count": 180
+    },
+    {
+      "id": "shiji-平津侯主父列傳第五十二",
+      "title": "平津侯主父列傳第五十二",
+      "juan": "卷百一十二",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 31,
+      "char_count": 6479,
+      "annotation_count": 60
+    },
+    {
+      "id": "shiji-南越尉佗列傳第五十三",
+      "title": "南越尉佗列傳第五十三",
+      "juan": "卷百一十三",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 15,
+      "char_count": 3277,
+      "annotation_count": 74
+    },
+    {
+      "id": "shiji-東越列傳第五十四",
+      "title": "東越列傳第五十四",
+      "juan": "卷百一十四",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 12,
+      "char_count": 1762,
+      "annotation_count": 36
+    },
+    {
+      "id": "shiji-朝鮮列傳第五十五",
+      "title": "朝鮮列傳第五十五",
+      "juan": "卷百一十五",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 12,
+      "char_count": 1639,
+      "annotation_count": 34
+    },
+    {
+      "id": "shiji-西南夷列傳第五十六",
+      "title": "西南夷列傳第五十六",
+      "juan": "卷百一十六",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 12,
+      "char_count": 1858,
+      "annotation_count": 56
+    },
+    {
+      "id": "shiji-司馬相如列傳第五十七",
+      "title": "司馬相如列傳第五十七",
+      "juan": "卷百一十七",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 73,
+      "char_count": 13580,
+      "annotation_count": 750
+    },
+    {
+      "id": "shiji-淮南衡山列傳第五十八",
+      "title": "淮南衡山列傳第五十八",
+      "juan": "卷百一十八",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 31,
+      "char_count": 8869,
+      "annotation_count": 109
+    },
+    {
+      "id": "shiji-循吏列傳第五十九",
+      "title": "循吏列傳第五十九",
+      "juan": "卷百一十九",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 14,
+      "char_count": 1276,
+      "annotation_count": 14
+    },
+    {
+      "id": "shiji-汲鄭列傳第六十",
+      "title": "汲鄭列傳第六十",
+      "juan": "卷百二十",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 21,
+      "char_count": 3231,
+      "annotation_count": 43
+    },
+    {
+      "id": "shiji-儒林列傳第六十一",
+      "title": "儒林列傳第六十一",
+      "juan": "卷百二十一",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 26,
+      "char_count": 4378,
+      "annotation_count": 72
+    },
+    {
+      "id": "shiji-酷吏列傳第六十二",
+      "title": "酷吏列傳第六十二",
+      "juan": "卷百二十二",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 44,
+      "char_count": 7734,
+      "annotation_count": 140
+    },
+    {
+      "id": "shiji-大宛列傳第六十三",
+      "title": "大宛列傳第六十三",
+      "juan": "卷百二十三",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 40,
+      "char_count": 6984,
+      "annotation_count": 113
+    },
+    {
+      "id": "shiji-游俠列傳第六十四",
+      "title": "游俠列傳第六十四",
+      "juan": "卷百二十四",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 18,
+      "char_count": 2674,
+      "annotation_count": 51
+    },
+    {
+      "id": "shiji-佞幸列傳第六十五",
+      "title": "佞幸列傳第六十五",
+      "juan": "卷百二十五",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 11,
+      "char_count": 1357,
+      "annotation_count": 40
+    },
+    {
+      "id": "shiji-滑稽列傳第六十六",
+      "title": "滑稽列傳第六十六",
+      "juan": "卷百二十六",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 29,
+      "char_count": 6341,
+      "annotation_count": 61
+    },
+    {
+      "id": "shiji-日者列傳第六十七",
+      "title": "日者列傳第六十七",
+      "juan": "卷百二十七",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 24,
+      "char_count": 2860,
+      "annotation_count": 24
+    },
+    {
+      "id": "shiji-龜策列傳第六十八",
+      "title": "龜策列傳第六十八",
+      "juan": "卷百二十八",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 99,
+      "char_count": 10799,
+      "annotation_count": 95
+    },
+    {
+      "id": "shiji-貨殖列傳第六十九",
+      "title": "貨殖列傳第六十九",
+      "juan": "卷百二十九",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 44,
+      "char_count": 6846,
+      "annotation_count": 271
+    },
+    {
+      "id": "shiji-太史公自序第七十",
+      "title": "太史公自序第七十",
+      "juan": "卷百三十",
+      "juan_num": 0,
+      "tili": "liezhuan",
+      "tili_name": "列传",
+      "para_count": 151,
+      "char_count": 10147,
+      "annotation_count": 227
+    },
+    {
+      "id": "shiji-史記集解序",
+      "title": "史記集解序",
+      "juan": "卷0",
+      "juan_num": 0,
+      "tili": "appendix",
+      "tili_name": "其他",
+      "para_count": 2,
+      "char_count": 838,
+      "annotation_count": 48
+    },
+    {
+      "id": "shiji-補史記序",
+      "title": "補史記序",
+      "juan": "卷0",
+      "juan_num": 0,
+      "tili": "appendix",
+      "tili_name": "其他",
+      "para_count": 4,
+      "char_count": 890,
+      "annotation_count": 0
+    },
+    {
+      "id": "shiji-史記索隱序",
+      "title": "史記索隱序",
+      "juan": "卷0",
+      "juan_num": 0,
+      "tili": "appendix",
+      "tili_name": "其他",
+      "para_count": 3,
+      "char_count": 525,
+      "annotation_count": 0
+    },
+    {
+      "id": "shiji-史記索隱後序",
+      "title": "史記索隱後序",
+      "juan": "卷0",
+      "juan_num": 0,
+      "tili": "appendix",
+      "tili_name": "其他",
+      "para_count": 1,
+      "char_count": 635,
+      "annotation_count": 0
+    },
+    {
+      "id": "shiji-史記正義序",
+      "title": "史記正義序",
+      "juan": "卷0",
+      "juan_num": 0,
+      "tili": "appendix",
+      "tili_name": "其他",
+      "para_count": 1,
+      "char_count": 400,
+      "annotation_count": 0
+    },
+    {
+      "id": "shiji-史記正義論例謚法解",
+      "title": "史記正義論例謚法解",
+      "juan": "卷0",
+      "juan_num": 0,
+      "tili": "appendix",
+      "tili_name": "其他",
+      "para_count": 33,
+      "char_count": 12321,
+      "annotation_count": 301
+    },
+    {
+      "id": "shiji-三皇本紀",
+      "title": "三皇本紀",
+      "juan": "卷0",
+      "juan_num": 0,
+      "tili": "appendix",
+      "tili_name": "其他",
+      "para_count": 8,
+      "char_count": 1523,
+      "annotation_count": 17
+    }
+  ],
+  "entities": {
+    "persons": [
+      {
+        "id": "book:shiji:person:黄帝",
+        "name": "黄帝",
+        "type": "核心人物",
+        "in_chapter": "shiji-五帝本紀",
+        "global_same_as": "global:person:黄帝",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:颛顼",
+        "name": "颛顼",
+        "type": "核心人物",
+        "in_chapter": "shiji-五帝本紀",
+        "global_same_as": "global:person:颛顼",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:帝喾",
+        "name": "帝喾",
+        "type": "核心人物",
+        "in_chapter": "shiji-五帝本紀",
+        "global_same_as": "global:person:帝喾",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:尧",
+        "name": "尧",
+        "type": "核心人物",
+        "in_chapter": "shiji-五帝本紀",
+        "global_same_as": "global:person:尧",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:舜",
+        "name": "舜",
+        "type": "核心人物",
+        "in_chapter": "shiji-五帝本紀",
+        "global_same_as": "global:person:舜",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:大禹",
+        "name": "大禹",
+        "type": "核心人物",
+        "in_chapter": "shiji-夏本紀",
+        "global_same_as": "global:person:大禹",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:夏启",
+        "name": "夏启",
+        "type": "核心人物",
+        "in_chapter": "shiji-夏本紀",
+        "global_same_as": "global:person:夏启",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:桀",
+        "name": "桀",
+        "type": "核心人物",
+        "in_chapter": "shiji-夏本紀",
+        "global_same_as": "global:person:桀",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:成汤",
+        "name": "成汤",
+        "type": "核心人物",
+        "in_chapter": "shiji-殷本紀",
+        "global_same_as": "global:person:成汤",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:盘庚",
+        "name": "盘庚",
+        "type": "核心人物",
+        "in_chapter": "shiji-殷本紀",
+        "global_same_as": "global:person:盘庚",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:武丁",
+        "name": "武丁",
+        "type": "核心人物",
+        "in_chapter": "shiji-殷本紀",
+        "global_same_as": "global:person:武丁",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:纣王",
+        "name": "纣王",
+        "type": "核心人物",
+        "in_chapter": "shiji-殷本紀",
+        "global_same_as": "global:person:纣王",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:周文王",
+        "name": "周文王",
+        "type": "核心人物",
+        "in_chapter": "shiji-周本紀",
+        "global_same_as": "global:person:周文王",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:周武王",
+        "name": "周武王",
+        "type": "核心人物",
+        "in_chapter": "shiji-周本紀",
+        "global_same_as": "global:person:周武王",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:周厉王",
+        "name": "周厉王",
+        "type": "核心人物",
+        "in_chapter": "shiji-周本紀",
+        "global_same_as": "global:person:周厉王",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:周幽王",
+        "name": "周幽王",
+        "type": "核心人物",
+        "in_chapter": "shiji-周本紀",
+        "global_same_as": "global:person:周幽王",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:秦穆公",
+        "name": "秦穆公",
+        "type": "核心人物",
+        "in_chapter": "shiji-秦本紀",
+        "global_same_as": "global:person:秦穆公",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:秦孝公",
+        "name": "秦孝公",
+        "type": "核心人物",
+        "in_chapter": "shiji-秦本紀",
+        "global_same_as": "global:person:秦孝公",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:秦昭襄王",
+        "name": "秦昭襄王",
+        "type": "核心人物",
+        "in_chapter": "shiji-秦本紀",
+        "global_same_as": "global:person:秦昭襄王",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:秦始皇",
+        "name": "秦始皇",
+        "type": "核心人物",
+        "in_chapter": "shiji-秦始皇本紀",
+        "global_same_as": "global:person:秦始皇",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:秦二世",
+        "name": "秦二世",
+        "type": "核心人物",
+        "in_chapter": "shiji-秦始皇本紀",
+        "global_same_as": "global:person:秦二世",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:李斯",
+        "name": "李斯",
+        "type": "核心人物",
+        "in_chapter": "shiji-李斯列傳",
+        "global_same_as": "global:person:李斯",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:赵高",
+        "name": "赵高",
+        "type": "核心人物",
+        "in_chapter": "shiji-秦始皇本紀",
+        "global_same_as": "global:person:赵高",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:项羽",
+        "name": "项羽",
+        "type": "核心人物",
+        "in_chapter": "shiji-項羽本紀",
+        "global_same_as": "global:person:项羽",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:范增",
+        "name": "范增",
+        "type": "核心人物",
+        "in_chapter": "shiji-項羽本紀",
+        "global_same_as": "global:person:范增",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:项梁",
+        "name": "项梁",
+        "type": "核心人物",
+        "in_chapter": "shiji-項羽本紀",
+        "global_same_as": "global:person:项梁",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:虞姬",
+        "name": "虞姬",
+        "type": "核心人物",
+        "in_chapter": "shiji-項羽本紀",
+        "global_same_as": "global:person:虞姬",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:刘邦",
+        "name": "刘邦",
+        "type": "核心人物",
+        "in_chapter": "shiji-高祖本紀",
+        "global_same_as": "global:person:刘邦",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:萧何",
+        "name": "萧何",
+        "type": "核心人物",
+        "in_chapter": "shiji-蕭相國世家",
+        "global_same_as": "global:person:萧何",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:张良",
+        "name": "张良",
+        "type": "核心人物",
+        "in_chapter": "shiji-留侯世家",
+        "global_same_as": "global:person:张良",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:韩信",
+        "name": "韩信",
+        "type": "核心人物",
+        "in_chapter": "shiji-淮陰侯列傳",
+        "global_same_as": "global:person:韩信",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:吕雉",
+        "name": "吕雉",
+        "type": "核心人物",
+        "in_chapter": "shiji-呂太后本紀",
+        "global_same_as": "global:person:吕雉",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:汉文帝",
+        "name": "汉文帝",
+        "type": "核心人物",
+        "in_chapter": "shiji-孝文本紀",
+        "global_same_as": "global:person:汉文帝",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:汉景帝",
+        "name": "汉景帝",
+        "type": "核心人物",
+        "in_chapter": "shiji-孝景本紀",
+        "global_same_as": "global:person:汉景帝",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:汉武帝",
+        "name": "汉武帝",
+        "type": "核心人物",
+        "in_chapter": "shiji-孝武本紀",
+        "global_same_as": "global:person:汉武帝",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:太伯",
+        "name": "太伯",
+        "type": "核心人物",
+        "in_chapter": "shiji-吳太伯世家",
+        "global_same_as": "global:person:太伯",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:仲雍",
+        "name": "仲雍",
+        "type": "核心人物",
+        "in_chapter": "shiji-吳太伯世家",
+        "global_same_as": "global:person:仲雍",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:季札",
+        "name": "季札",
+        "type": "核心人物",
+        "in_chapter": "shiji-吳太伯世家",
+        "global_same_as": "global:person:季札",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:姜子牙",
+        "name": "姜子牙",
+        "type": "核心人物",
+        "in_chapter": "shiji-齊太公世家",
+        "global_same_as": "global:person:姜子牙",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:齐桓公",
+        "name": "齐桓公",
+        "type": "核心人物",
+        "in_chapter": "shiji-齊太公世家",
+        "global_same_as": "global:person:齐桓公",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:管仲",
+        "name": "管仲",
+        "type": "核心人物",
+        "in_chapter": "shiji-管晏列傳",
+        "global_same_as": "global:person:管仲",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:周公",
+        "name": "周公",
+        "type": "核心人物",
+        "in_chapter": "shiji-魯周公世家",
+        "global_same_as": "global:person:周公",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:鲁隐公",
+        "name": "鲁隐公",
+        "type": "核心人物",
+        "in_chapter": "shiji-魯周公世家",
+        "global_same_as": "global:person:鲁隐公",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:召公",
+        "name": "召公",
+        "type": "核心人物",
+        "in_chapter": "shiji-燕召公世家",
+        "global_same_as": "global:person:召公",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:燕昭王",
+        "name": "燕昭王",
+        "type": "核心人物",
+        "in_chapter": "shiji-燕召公世家",
+        "global_same_as": "global:person:燕昭王",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:管叔",
+        "name": "管叔",
+        "type": "核心人物",
+        "in_chapter": "shiji-管蔡世家",
+        "global_same_as": "global:person:管叔",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:蔡叔",
+        "name": "蔡叔",
+        "type": "核心人物",
+        "in_chapter": "shiji-管蔡世家",
+        "global_same_as": "global:person:蔡叔",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:陈胡公",
+        "name": "陈胡公",
+        "type": "核心人物",
+        "in_chapter": "shiji-陳杞世家",
+        "global_same_as": "global:person:陈胡公",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:康叔",
+        "name": "康叔",
+        "type": "核心人物",
+        "in_chapter": "shiji-衛康叔世家",
+        "global_same_as": "global:person:康叔",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:微子",
+        "name": "微子",
+        "type": "核心人物",
+        "in_chapter": "shiji-宋微子世家",
+        "global_same_as": "global:person:微子",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:宋襄公",
+        "name": "宋襄公",
+        "type": "核心人物",
+        "in_chapter": "shiji-宋微子世家",
+        "global_same_as": "global:person:宋襄公",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:晋文公",
+        "name": "晋文公",
+        "type": "核心人物",
+        "in_chapter": "shiji-晉世家",
+        "global_same_as": "global:person:晋文公",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:晋献公",
+        "name": "晋献公",
+        "type": "核心人物",
+        "in_chapter": "shiji-晉世家",
+        "global_same_as": "global:person:晋献公",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:楚庄王",
+        "name": "楚庄王",
+        "type": "核心人物",
+        "in_chapter": "shiji-楚世家",
+        "global_same_as": "global:person:楚庄王",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:楚怀王",
+        "name": "楚怀王",
+        "type": "核心人物",
+        "in_chapter": "shiji-楚世家",
+        "global_same_as": "global:person:楚怀王",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:勾践",
+        "name": "勾践",
+        "type": "核心人物",
+        "in_chapter": "shiji-越王句踐世家",
+        "global_same_as": "global:person:勾践",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:范蠡",
+        "name": "范蠡",
+        "type": "核心人物",
+        "in_chapter": "shiji-越王句踐世家",
+        "global_same_as": "global:person:范蠡",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:文种",
+        "name": "文种",
+        "type": "核心人物",
+        "in_chapter": "shiji-越王句踐世家",
+        "global_same_as": "global:person:文种",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:郑庄公",
+        "name": "郑庄公",
+        "type": "核心人物",
+        "in_chapter": "shiji-鄭世家",
+        "global_same_as": "global:person:郑庄公",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:赵武灵王",
+        "name": "赵武灵王",
+        "type": "核心人物",
+        "in_chapter": "shiji-趙世家",
+        "global_same_as": "global:person:赵武灵王",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:赵盾",
+        "name": "赵盾",
+        "type": "核心人物",
+        "in_chapter": "shiji-趙世家",
+        "global_same_as": "global:person:赵盾",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:魏文侯",
+        "name": "魏文侯",
+        "type": "核心人物",
+        "in_chapter": "shiji-魏世家",
+        "global_same_as": "global:person:魏文侯",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:信陵君",
+        "name": "信陵君",
+        "type": "核心人物",
+        "in_chapter": "shiji-魏公子列傳",
+        "global_same_as": "global:person:信陵君",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:韩昭侯",
+        "name": "韩昭侯",
+        "type": "核心人物",
+        "in_chapter": "shiji-韓世家",
+        "global_same_as": "global:person:韩昭侯",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:田完",
+        "name": "田完",
+        "type": "核心人物",
+        "in_chapter": "shiji-田敬仲完世家",
+        "global_same_as": "global:person:田完",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:齐威王",
+        "name": "齐威王",
+        "type": "核心人物",
+        "in_chapter": "shiji-田敬仲完世家",
+        "global_same_as": "global:person:齐威王",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:孔子",
+        "name": "孔子",
+        "type": "核心人物",
+        "in_chapter": "shiji-孔子世家",
+        "global_same_as": "global:person:孔子",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:陈胜",
+        "name": "陈胜",
+        "type": "核心人物",
+        "in_chapter": "shiji-陳涉世家",
+        "global_same_as": "global:person:陈胜",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:吴广",
+        "name": "吴广",
+        "type": "核心人物",
+        "in_chapter": "shiji-陳涉世家",
+        "global_same_as": "global:person:吴广",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:曹参",
+        "name": "曹参",
+        "type": "核心人物",
+        "in_chapter": "shiji-曹相國世家",
+        "global_same_as": "global:person:曹参",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:陈平",
+        "name": "陈平",
+        "type": "核心人物",
+        "in_chapter": "shiji-陳丞相世家",
+        "global_same_as": "global:person:陈平",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:周勃",
+        "name": "周勃",
+        "type": "核心人物",
+        "in_chapter": "shiji-絳侯周勃世家",
+        "global_same_as": "global:person:周勃",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:周亚夫",
+        "name": "周亚夫",
+        "type": "核心人物",
+        "in_chapter": "shiji-絳侯周勃世家",
+        "global_same_as": "global:person:周亚夫",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:伯夷",
+        "name": "伯夷",
+        "type": "核心人物",
+        "in_chapter": "shiji-伯夷列傳",
+        "global_same_as": "global:person:伯夷",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:叔齐",
+        "name": "叔齐",
+        "type": "核心人物",
+        "in_chapter": "shiji-伯夷列傳",
+        "global_same_as": "global:person:叔齐",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:晏婴",
+        "name": "晏婴",
+        "type": "核心人物",
+        "in_chapter": "shiji-管晏列傳",
+        "global_same_as": "global:person:晏婴",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:老子",
+        "name": "老子",
+        "type": "核心人物",
+        "in_chapter": "shiji-老子韓非列傳",
+        "global_same_as": "global:person:老子",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:庄子",
+        "name": "庄子",
+        "type": "核心人物",
+        "in_chapter": "shiji-老子韓非列傳",
+        "global_same_as": "global:person:庄子",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:韩非子",
+        "name": "韩非子",
+        "type": "核心人物",
+        "in_chapter": "shiji-老子韓非列傳",
+        "global_same_as": "global:person:韩非子",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:司马穰苴",
+        "name": "司马穰苴",
+        "type": "核心人物",
+        "in_chapter": "shiji-司馬穰苴列傳",
+        "global_same_as": "global:person:司马穰苴",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:孙武",
+        "name": "孙武",
+        "type": "核心人物",
+        "in_chapter": "shiji-孫子吳起列傳",
+        "global_same_as": "global:person:孙武",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:孙膑",
+        "name": "孙膑",
+        "type": "核心人物",
+        "in_chapter": "shiji-孫子吳起列傳",
+        "global_same_as": "global:person:孙膑",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:吴起",
+        "name": "吴起",
+        "type": "核心人物",
+        "in_chapter": "shiji-孫子吳起列傳",
+        "global_same_as": "global:person:吴起",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:伍子胥",
+        "name": "伍子胥",
+        "type": "核心人物",
+        "in_chapter": "shiji-伍子胥列傳",
+        "global_same_as": "global:person:伍子胥",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:商鞅",
+        "name": "商鞅",
+        "type": "核心人物",
+        "in_chapter": "shiji-商君列傳",
+        "global_same_as": "global:person:商鞅",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:苏秦",
+        "name": "苏秦",
+        "type": "核心人物",
+        "in_chapter": "shiji-蘇秦列傳",
+        "global_same_as": "global:person:苏秦",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:张仪",
+        "name": "张仪",
+        "type": "核心人物",
+        "in_chapter": "shiji-張儀列傳",
+        "global_same_as": "global:person:张仪",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:白起",
+        "name": "白起",
+        "type": "核心人物",
+        "in_chapter": "shiji-白起王翦列傳",
+        "global_same_as": "global:person:白起",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:王翦",
+        "name": "王翦",
+        "type": "核心人物",
+        "in_chapter": "shiji-白起王翦列傳",
+        "global_same_as": "global:person:王翦",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:孟子",
+        "name": "孟子",
+        "type": "核心人物",
+        "in_chapter": "shiji-孟子荀卿列傳",
+        "global_same_as": "global:person:孟子",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:荀子",
+        "name": "荀子",
+        "type": "核心人物",
+        "in_chapter": "shiji-孟子荀卿列傳",
+        "global_same_as": "global:person:荀子",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:孟尝君",
+        "name": "孟尝君",
+        "type": "核心人物",
+        "in_chapter": "shiji-孟嘗君列傳",
+        "global_same_as": "global:person:孟尝君",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:平原君",
+        "name": "平原君",
+        "type": "核心人物",
+        "in_chapter": "shiji-平原君虞卿列傳",
+        "global_same_as": "global:person:平原君",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:春申君",
+        "name": "春申君",
+        "type": "核心人物",
+        "in_chapter": "shiji-春申君列傳",
+        "global_same_as": "global:person:春申君",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:乐毅",
+        "name": "乐毅",
+        "type": "核心人物",
+        "in_chapter": "shiji-樂毅列傳",
+        "global_same_as": "global:person:乐毅",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:廉颇",
+        "name": "廉颇",
+        "type": "核心人物",
+        "in_chapter": "shiji-廉頗藺相如列傳",
+        "global_same_as": "global:person:廉颇",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:蔺相如",
+        "name": "蔺相如",
+        "type": "核心人物",
+        "in_chapter": "shiji-廉頗藺相如列傳",
+        "global_same_as": "global:person:蔺相如",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:屈原",
+        "name": "屈原",
+        "type": "核心人物",
+        "in_chapter": "shiji-屈原賈生列傳",
+        "global_same_as": "global:person:屈原",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:贾谊",
+        "name": "贾谊",
+        "type": "核心人物",
+        "in_chapter": "shiji-屈原賈生列傳",
+        "global_same_as": "global:person:贾谊",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:吕不韦",
+        "name": "吕不韦",
+        "type": "核心人物",
+        "in_chapter": "shiji-呂不韋列傳",
+        "global_same_as": "global:person:吕不韦",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:荆轲",
+        "name": "荆轲",
+        "type": "核心人物",
+        "in_chapter": "shiji-刺客列傳",
+        "global_same_as": "global:person:荆轲",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:聂政",
+        "name": "聂政",
+        "type": "核心人物",
+        "in_chapter": "shiji-刺客列傳",
+        "global_same_as": "global:person:聂政",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:专诸",
+        "name": "专诸",
+        "type": "核心人物",
+        "in_chapter": "shiji-刺客列傳",
+        "global_same_as": "global:person:专诸",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:豫让",
+        "name": "豫让",
+        "type": "核心人物",
+        "in_chapter": "shiji-刺客列傳",
+        "global_same_as": "global:person:豫让",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:李广",
+        "name": "李广",
+        "type": "核心人物",
+        "in_chapter": "shiji-李將軍列傳",
+        "global_same_as": "global:person:李广",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:卫青",
+        "name": "卫青",
+        "type": "核心人物",
+        "in_chapter": "shiji-衛將軍驃騎列傳",
+        "global_same_as": "global:person:卫青",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:霍去病",
+        "name": "霍去病",
+        "type": "核心人物",
+        "in_chapter": "shiji-衛將軍驃騎列傳",
+        "global_same_as": "global:person:霍去病",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:司马相如",
+        "name": "司马相如",
+        "type": "核心人物",
+        "in_chapter": "shiji-司馬相如列傳",
+        "global_same_as": "global:person:司马相如",
+        "aliases": [],
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:person:司马迁",
+        "name": "司马迁",
+        "type": "核心人物",
+        "in_chapter": "shiji-太史公自序",
+        "global_same_as": "global:person:司马迁",
+        "aliases": [],
+        "evidence": []
+      }
+    ],
+    "places": [
+      {
+        "id": "book:shiji:place:涿鹿",
+        "name": "涿鹿",
+        "type": "核心地名",
+        "global_same_as": "global:place:涿鹿",
+        "evidence": [
+          "text:shiji:shiji-五帝本紀第一:p3",
+          "text:shiji:shiji-五帝本紀第一:p4",
+          "text:shiji:shiji-五帝本紀第一:p29",
+          "text:shiji:shiji-律書第三:p4"
+        ]
+      },
+      {
+        "id": "book:shiji:place:阪泉",
+        "name": "阪泉",
+        "type": "核心地名",
+        "global_same_as": "global:place:阪泉",
+        "evidence": [
+          "text:shiji:shiji-五帝本紀第一:p3"
+        ]
+      },
+      {
+        "id": "book:shiji:place:咸阳",
+        "name": "咸阳",
+        "type": "核心地名",
+        "global_same_as": "global:place:咸阳",
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:place:长安",
+        "name": "长安",
+        "type": "核心地名",
+        "global_same_as": "global:place:长安",
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:place:洛阳",
+        "name": "洛阳",
+        "type": "核心地名",
+        "global_same_as": "global:place:洛阳",
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:place:邯郸",
+        "name": "邯郸",
+        "type": "核心地名",
+        "global_same_as": "global:place:邯郸",
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:place:临淄",
+        "name": "临淄",
+        "type": "核心地名",
+        "global_same_as": "global:place:临淄",
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:place:彭城",
+        "name": "彭城",
+        "type": "核心地名",
+        "global_same_as": "global:place:彭城",
+        "evidence": [
+          "text:shiji:shiji-秦始皇本紀第六:p37",
+          "text:shiji:shiji-項羽本紀第七:p4",
+          "text:shiji:shiji-項羽本紀第七:p7",
+          "text:shiji:shiji-項羽本紀第七:p9",
+          "text:shiji:shiji-項羽本紀第七:p20",
+          "text:shiji:shiji-項羽本紀第七:p21",
+          "text:shiji:shiji-項羽本紀第七:p24",
+          "text:shiji:shiji-項羽本紀第七:p25",
+          "text:shiji:shiji-項羽本紀第七:p26",
+          "text:shiji:shiji-項羽本紀第七:p27",
+          "text:shiji:shiji-高祖本紀第八:p13",
+          "text:shiji:shiji-高祖本紀第八:p15",
+          "text:shiji:shiji-高祖本紀第八:p25",
+          "text:shiji:shiji-高祖本紀第八:p33",
+          "text:shiji:shiji-高祖本紀第八:p35",
+          "text:shiji:shiji-高祖本紀第八:p38",
+          "text:shiji:shiji-高祖本紀第八:p47",
+          "text:shiji:shiji-十二諸侯年表第二:p473",
+          "text:shiji:shiji-十二諸侯年表第二:p474",
+          "text:shiji:shiji-十二諸侯年表第二:p477",
+          "text:shiji:shiji-十二諸侯年表第二:p479",
+          "text:shiji:shiji-十二諸侯年表第二:p481",
+          "text:shiji:shiji-十二諸侯年表第二:p482",
+          "text:shiji:shiji-六國年表第三:p173",
+          "text:shiji:shiji-秦楚之際月表第四:p55",
+          "text:shiji:shiji-秦楚之際月表第四:p56",
+          "text:shiji:shiji-秦楚之際月表第四:p136",
+          "text:shiji:shiji-秦楚之際月表第四:p156",
+          "text:shiji:shiji-秦楚之際月表第四:p183",
+          "text:shiji:shiji-高祖功臣侯者年表第六:p241",
+          "text:shiji:shiji-高祖功臣侯者年表第六:p875",
+          "text:shiji:shiji-惠景間侯者年表第七:p31",
+          "text:shiji:shiji-封禪書第六:p17",
+          "text:shiji:shiji-宋微子世家第八:p50",
+          "text:shiji:shiji-韓世家第十五:p10",
+          "text:shiji:shiji-楚元王世家第二十:p2",
+          "text:shiji:shiji-楚元王世家第二十:p5",
+          "text:shiji:shiji-楚元王世家第二十:p10",
+          "text:shiji:shiji-曹相國世家第二十四:p3",
+          "text:shiji:shiji-留侯世家第二十五:p9",
+          "text:shiji:shiji-陳丞相世家第二十六:p4",
+          "text:shiji:shiji-陳丞相世家第二十六:p5",
+          "text:shiji:shiji-陳丞相世家第二十六:p8",
+          "text:shiji:shiji-陳丞相世家第二十六:p20",
+          "text:shiji:shiji-張耳陳餘列傳第二十九:p22",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p3",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p7",
+          "text:shiji:shiji-黥布列傳第三十一:p2",
+          "text:shiji:shiji-黥布列傳第三十一:p5",
+          "text:shiji:shiji-黥布列傳第三十一:p6",
+          "text:shiji:shiji-黥布列傳第三十一:p10",
+          "text:shiji:shiji-淮陰侯列傳第三十二:p5",
+          "text:shiji:shiji-淮陰侯列傳第三十二:p6",
+          "text:shiji:shiji-淮陰侯列傳第三十二:p7",
+          "text:shiji:shiji-淮陰侯列傳第三十二:p18",
+          "text:shiji:shiji-田儋列傳第三十四:p8",
+          "text:shiji:shiji-樊酈滕灌列傳第三十五:p3",
+          "text:shiji:shiji-樊酈滕灌列傳第三十五:p14",
+          "text:shiji:shiji-樊酈滕灌列傳第三十五:p20",
+          "text:shiji:shiji-樊酈滕灌列傳第三十五:p22",
+          "text:shiji:shiji-傅靳蒯成列傳第三十八:p5",
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p7",
+          "text:shiji:shiji-季布欒布列傳第四十:p5",
+          "text:shiji:shiji-季布欒布列傳第四十:p7",
+          "text:shiji:shiji-貨殖列傳第六十九:p22",
+          "text:shiji:shiji-太史公自序第七十:p11",
+          "text:shiji:shiji-太史公自序第七十:p68",
+          "text:shiji:shiji-太史公自序第七十:p108",
+          "text:shiji:shiji-太史公自序第七十:p112"
+        ]
+      },
+      {
+        "id": "book:shiji:place:垓下",
+        "name": "垓下",
+        "type": "核心地名",
+        "global_same_as": "global:place:垓下",
+        "evidence": [
+          "text:shiji:shiji-項羽本紀第七:p38",
+          "text:shiji:shiji-項羽本紀第七:p39",
+          "text:shiji:shiji-高祖本紀第八:p50",
+          "text:shiji:shiji-高祖本紀第八:p51",
+          "text:shiji:shiji-高祖功臣侯者年表第六:p87",
+          "text:shiji:shiji-荊燕世家第二十一:p2",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p8",
+          "text:shiji:shiji-黥布列傳第三十一:p9",
+          "text:shiji:shiji-淮陰侯列傳第三十二:p21",
+          "text:shiji:shiji-樊酈滕灌列傳第三十五:p23",
+          "text:shiji:shiji-季布欒布列傳第四十:p7"
+        ]
+      },
+      {
+        "id": "book:shiji:place:鸿门",
+        "name": "鸿门",
+        "type": "核心地名",
+        "global_same_as": "global:place:鸿门",
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:place:霸上",
+        "name": "霸上",
+        "type": "核心地名",
+        "global_same_as": "global:place:霸上",
+        "evidence": [
+          "text:shiji:shiji-秦始皇本紀第六:p68",
+          "text:shiji:shiji-秦始皇本紀第六:p126",
+          "text:shiji:shiji-項羽本紀第七:p15",
+          "text:shiji:shiji-項羽本紀第七:p17",
+          "text:shiji:shiji-項羽本紀第七:p18",
+          "text:shiji:shiji-高祖本紀第八:p21",
+          "text:shiji:shiji-呂后本紀第九:p4",
+          "text:shiji:shiji-孝文本紀第十:p33",
+          "text:shiji:shiji-秦楚之際月表第四:p4",
+          "text:shiji:shiji-秦楚之際月表第四:p101",
+          "text:shiji:shiji-外戚世家第十九:p27",
+          "text:shiji:shiji-留侯世家第二十五:p6",
+          "text:shiji:shiji-絳侯周勃世家第二十七:p12",
+          "text:shiji:shiji-白起王翦列傳第十三:p15",
+          "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
+          "text:shiji:shiji-樊酈滕灌列傳第三十五:p2",
+          "text:shiji:shiji-樊酈滕灌列傳第三十五:p13",
+          "text:shiji:shiji-樊酈滕灌列傳第三十五:p18",
+          "text:shiji:shiji-張丞相列傳第三十六:p11",
+          "text:shiji:shiji-傅靳蒯成列傳第三十八:p0",
+          "text:shiji:shiji-傅靳蒯成列傳第三十八:p4",
+          "text:shiji:shiji-傅靳蒯成列傳第三十八:p9",
+          "text:shiji:shiji-魏其武安侯列傳第四十七:p25",
+          "text:shiji:shiji-匈奴列傳第五十:p28",
+          "text:shiji:shiji-淮南衡山列傳第五十八:p14"
+        ]
+      },
+      {
+        "id": "book:shiji:place:函谷关",
+        "name": "函谷关",
+        "type": "核心地名",
+        "global_same_as": "global:place:函谷关",
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:place:崤山",
+        "name": "崤山",
+        "type": "核心地名",
+        "global_same_as": "global:place:崤山",
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:place:太行",
+        "name": "太行",
+        "type": "核心地名",
+        "global_same_as": "global:place:太行",
+        "evidence": [
+          "text:shiji:shiji-夏本紀第二:p14",
+          "text:shiji:shiji-十二諸侯年表第二:p587",
+          "text:shiji:shiji-六國年表第三:p530",
+          "text:shiji:shiji-齊太公世家第二:p38",
+          "text:shiji:shiji-齊太公世家第二:p59",
+          "text:shiji:shiji-晉世家第九:p118",
+          "text:shiji:shiji-晉世家第九:p119",
+          "text:shiji:shiji-韓世家第十五:p28",
+          "text:shiji:shiji-孫子吳起列傳第五:p10",
+          "text:shiji:shiji-白起王翦列傳第十三:p0",
+          "text:shiji:shiji-范雎蔡澤列傳第十九:p15",
+          "text:shiji:shiji-范雎蔡澤列傳第十九:p31"
+        ]
+      },
+      {
+        "id": "book:shiji:place:黄河",
+        "name": "黄河",
+        "type": "核心地名",
+        "global_same_as": "global:place:黄河",
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:place:长江",
+        "name": "长江",
+        "type": "核心地名",
+        "global_same_as": "global:place:长江",
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:place:东海",
+        "name": "东海",
+        "type": "核心地名",
+        "global_same_as": "global:place:东海",
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:place:南海",
+        "name": "南海",
+        "type": "核心地名",
+        "global_same_as": "global:place:南海",
+        "evidence": [
+          "text:shiji:shiji-夏本紀第二:p15",
+          "text:shiji:shiji-秦始皇本紀第六:p46",
+          "text:shiji:shiji-秦始皇本紀第六:p52",
+          "text:shiji:shiji-六國年表第三:p639",
+          "text:shiji:shiji-楚世家第十:p30",
+          "text:shiji:shiji-越王勾踐世家第十一:p15",
+          "text:shiji:shiji-南越尉佗列傳第五十三:p0",
+          "text:shiji:shiji-淮南衡山列傳第五十八:p3",
+          "text:shiji:shiji-太史公自序第七十:p59",
+          "text:shiji:shiji-史記正義論例謚法解:p31"
+        ]
+      },
+      {
+        "id": "book:shiji:place:长城",
+        "name": "长城",
+        "type": "核心地名",
+        "global_same_as": "global:place:长城",
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:place:阴山",
+        "name": "阴山",
+        "type": "核心地名",
+        "global_same_as": "global:place:阴山",
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:place:祁连",
+        "name": "祁连",
+        "type": "核心地名",
+        "global_same_as": "global:place:祁连",
+        "evidence": []
+      }
+    ],
+    "events": [
+      {
+        "id": "book:shiji:event:涿鹿之战",
+        "name": "涿鹿之战",
+        "type": "核心事件",
+        "global_same_as": "global:event:涿鹿之战",
+        "evidence": [
+          "text:shiji:shiji-五帝本紀第一:p3",
+          "text:shiji:shiji-五帝本紀第一:p4",
+          "text:shiji:shiji-五帝本紀第一:p29",
+          "text:shiji:shiji-律書第三:p4"
+        ]
+      },
+      {
+        "id": "book:shiji:event:阪泉之战",
+        "name": "阪泉之战",
+        "type": "核心事件",
+        "global_same_as": "global:event:阪泉之战",
+        "evidence": [
+          "text:shiji:shiji-五帝本紀第一:p3"
+        ]
+      },
+      {
+        "id": "book:shiji:event:牧野之战",
+        "name": "牧野之战",
+        "type": "核心事件",
+        "global_same_as": "global:event:牧野之战",
+        "evidence": [
+          "text:shiji:shiji-殷本紀第三:p32",
+          "text:shiji:shiji-周本紀第四:p14",
+          "text:shiji:shiji-樂書第二:p58",
+          "text:shiji:shiji-齊太公世家第二:p6",
+          "text:shiji:shiji-魯周公世家第三:p0",
+          "text:shiji:shiji-蘇秦列傳第九:p22",
+          "text:shiji:shiji-龜策列傳第六十八:p20",
+          "text:shiji:shiji-太史公自序第七十:p22",
+          "text:shiji:shiji-史記正義論例謚法解:p13"
+        ]
+      },
+      {
+        "id": "book:shiji:event:城濮之战",
+        "name": "城濮之战",
+        "type": "核心事件",
+        "global_same_as": "global:event:城濮之战",
+        "evidence": [
+          "text:shiji:shiji-秦本紀第五:p27",
+          "text:shiji:shiji-十二諸侯年表第二:p273",
+          "text:shiji:shiji-齊太公世家第二:p47",
+          "text:shiji:shiji-管蔡世家第五:p10",
+          "text:shiji:shiji-陳杞世家第六:p13",
+          "text:shiji:shiji-晉世家第九:p66",
+          "text:shiji:shiji-晉世家第九:p70",
+          "text:shiji:shiji-晉世家第九:p74",
+          "text:shiji:shiji-晉世家第九:p93",
+          "text:shiji:shiji-楚世家第十:p23"
+        ]
+      },
+      {
+        "id": "book:shiji:event:长平之战",
+        "name": "长平之战",
+        "type": "核心事件",
+        "global_same_as": "global:event:长平之战",
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:event:巨鹿之战",
+        "name": "巨鹿之战",
+        "type": "核心事件",
+        "global_same_as": "global:event:巨鹿之战",
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:event:鸿门宴",
+        "name": "鸿门宴",
+        "type": "核心事件",
+        "global_same_as": "global:event:鸿门宴",
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:event:垓下之围",
+        "name": "垓下之围",
+        "type": "核心事件",
+        "global_same_as": "global:event:垓下之围",
+        "evidence": [
+          "text:shiji:shiji-項羽本紀第七:p38",
+          "text:shiji:shiji-項羽本紀第七:p39",
+          "text:shiji:shiji-高祖本紀第八:p50",
+          "text:shiji:shiji-高祖本紀第八:p51",
+          "text:shiji:shiji-高祖功臣侯者年表第六:p87",
+          "text:shiji:shiji-荊燕世家第二十一:p2",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p8",
+          "text:shiji:shiji-黥布列傳第三十一:p9",
+          "text:shiji:shiji-淮陰侯列傳第三十二:p21",
+          "text:shiji:shiji-樊酈滕灌列傳第三十五:p23",
+          "text:shiji:shiji-季布欒布列傳第四十:p7"
+        ]
+      },
+      {
+        "id": "book:shiji:event:白登之围",
+        "name": "白登之围",
+        "type": "核心事件",
+        "global_same_as": "global:event:白登之围",
+        "evidence": [
+          "text:shiji:shiji-韓信盧綰列傳第三十三:p4",
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p4",
+          "text:shiji:shiji-匈奴列傳第五十:p12"
+        ]
+      },
+      {
+        "id": "book:shiji:event:文景之治",
+        "name": "文景之治",
+        "type": "核心事件",
+        "global_same_as": "global:event:文景之治",
+        "evidence": [
+          "text:shiji:shiji-漢興以來諸侯王年表第五:p5"
+        ]
+      },
+      {
+        "id": "book:shiji:event:汉武盛世",
+        "name": "汉武盛世",
+        "type": "核心事件",
+        "global_same_as": "global:event:汉武盛世",
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:event:焚书坑儒",
+        "name": "焚书坑儒",
+        "type": "核心事件",
+        "global_same_as": "global:event:焚书坑儒",
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:event:陈胜吴广起义",
+        "name": "陈胜吴广起义",
+        "type": "核心事件",
+        "global_same_as": "global:event:陈胜吴广起义",
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:event:商鞅变法",
+        "name": "商鞅变法",
+        "type": "核心事件",
+        "global_same_as": "global:event:商鞅变法",
+        "evidence": [
+          "text:shiji:shiji-六國年表第三:p298",
+          "text:shiji:shiji-田敬仲完世家第十六:p36",
+          "text:shiji:shiji-商君列傳第八:p9",
+          "text:shiji:shiji-蘇秦列傳第九:p2",
+          "text:shiji:shiji-魯仲連鄒陽列傳第二十三:p20",
+          "text:shiji:shiji-李斯列傳第二十七:p4",
+          "text:shiji:shiji-貨殖列傳第六十九:p9"
+        ]
+      },
+      {
+        "id": "book:shiji:event:合纵连横",
+        "name": "合纵连横",
+        "type": "核心事件",
+        "global_same_as": "global:event:合纵连横",
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:event:胡服骑射",
+        "name": "胡服骑射",
+        "type": "核心事件",
+        "global_same_as": "global:event:胡服骑射",
+        "evidence": [
+          "text:shiji:shiji-六國年表第三:p407",
+          "text:shiji:shiji-趙世家第十三:p24",
+          "text:shiji:shiji-趙世家第十三:p64",
+          "text:shiji:shiji-趙世家第十三:p65",
+          "text:shiji:shiji-趙世家第十三:p66",
+          "text:shiji:shiji-趙世家第十三:p67",
+          "text:shiji:shiji-趙世家第十三:p68",
+          "text:shiji:shiji-趙世家第十三:p70",
+          "text:shiji:shiji-趙世家第十三:p72",
+          "text:shiji:shiji-趙世家第十三:p120",
+          "text:shiji:shiji-匈奴列傳第五十:p4"
+        ]
+      },
+      {
+        "id": "book:shiji:event:百家争鸣",
+        "name": "百家争鸣",
+        "type": "核心事件",
+        "global_same_as": "global:event:百家争鸣",
+        "evidence": [
+          "text:shiji:shiji-五帝本紀第一:p29",
+          "text:shiji:shiji-秦始皇本紀第六:p47",
+          "text:shiji:shiji-秦始皇本紀第六:p75",
+          "text:shiji:shiji-吳太伯世家第一:p39",
+          "text:shiji:shiji-越王勾踐世家第十一:p10",
+          "text:shiji:shiji-趙世家第十三:p26",
+          "text:shiji:shiji-陳涉世家第十八:p25",
+          "text:shiji:shiji-外戚世家第十九:p9",
+          "text:shiji:shiji-外戚世家第十九:p12",
+          "text:shiji:shiji-外戚世家第十九:p26",
+          "text:shiji:shiji-樗里子甘茂列傳第十一:p6",
+          "text:shiji:shiji-范雎蔡澤列傳第十九:p28",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p19",
+          "text:shiji:shiji-李斯列傳第二十七:p9",
+          "text:shiji:shiji-平津侯主父列傳第五十二:p9",
+          "text:shiji:shiji-儒林列傳第六十一:p5",
+          "text:shiji:shiji-滑稽列傳第六十六:p17",
+          "text:shiji:shiji-太史公自序第七十:p5",
+          "text:shiji:shiji-太史公自序第七十:p7",
+          "text:shiji:shiji-太史公自序第七十:p148",
+          "text:shiji:shiji-史記集解序:p1",
+          "text:shiji:shiji-史記索隱序:p0"
+        ]
+      },
+      {
+        "id": "book:shiji:event:独尊儒术",
+        "name": "独尊儒术",
+        "type": "核心事件",
+        "global_same_as": "global:event:独尊儒术",
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:event:张骞出使西域",
+        "name": "张骞出使西域",
+        "type": "核心事件",
+        "global_same_as": "global:event:张骞出使西域",
+        "evidence": []
+      },
+      {
+        "id": "book:shiji:event:封狼居胥",
+        "name": "封狼居胥",
+        "type": "核心事件",
+        "global_same_as": "global:event:封狼居胥",
+        "evidence": [
+          "text:shiji:shiji-衞將軍驃騎列傳第五十一:p18"
+        ]
+      }
+    ]
+  },
+  "build_version": "v1.0",
+  "build_time": "2026"
+}

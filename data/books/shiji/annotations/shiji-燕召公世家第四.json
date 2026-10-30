@@ -1,0 +1,642 @@
+[
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a0",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p0",
+    "annotator": "集解",
+    "text": "譙周曰：「周之支族，食邑於召，謂之召公。」"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a1",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p0",
+    "annotator": "索隱",
+    "text": "召者，畿內菜地。奭始食於召，故曰召公。或說者以爲文王受命，取岐周故墟周、召地分爵二公，故詩有周召二南，言皆在岐山之陽，故言南也。後武王封之北燕，在今幽州薊縣故城是也。亦以元子就封。而次子留周室代爲召公。至宣王時，召穆公虎其後也。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a2",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p0",
+    "annotator": "集解",
+    "text": "世本曰：「居北燕。」宋忠曰：「有南燕，故云北燕。」"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a3",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p1",
+    "annotator": "集解",
+    "text": "何休曰：「陝者，蓋今弘農陝縣是也。」"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a4",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p1",
+    "annotator": "集解",
+    "text": "孔安國曰：「尊之曰君，陳古以告之，故以名篇。」"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a5",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p1",
+    "annotator": "集解",
+    "text": "馬融曰：「召公以周公旣攝政致太平，功配文、武，不宜復列在臣位，故不說，以爲周公苟貪寵也。」"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a6",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p1",
+    "annotator": "集解",
+    "text": "孔安國曰：「伊摯佐湯，功至大天，謂致太平也。」鄭玄曰：「皇天，北極天帝也。」"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a7",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p1",
+    "annotator": "集解",
+    "text": "孔安國曰：「伊陟、臣扈率伊尹之職，使其君不隕祖業，故至天之功不隕。巫咸治王家，言其不及二臣。」馬融曰：「道至于上帝，謂奉天時也。」鄭玄曰：「上帝，太微中其所統也。」"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a8",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p1",
+    "annotator": "集解",
+    "text": "孔安國曰：「時賢臣有如此巫賢也。賢，咸子；巫，氏也。」"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a9",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p1",
+    "annotator": "集解",
+    "text": "孔安國曰：「高宗即位，甘般佐之。後有傅說。」"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a10",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p1",
+    "annotator": "集解",
+    "text": "徐廣曰：「一無此九字。」駰案：王肅曰「循此數臣，有陳列之功，安治有殷也」。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a11",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p2",
+    "annotator": "正義",
+    "text": "今之棠梨樹也。括地志云：「召伯廟在洛州壽安縣西北五里。召伯聽訟甘棠之下，周人思之，不伐其樹，後人懷其德，因立廟，有棠在九曲城東阜上。」"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a12",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p3",
+    "annotator": "索隱",
+    "text": "並國史先失也。又自惠侯已下皆無名，亦不言屬，惟昭王父子有名，蓋在戰國時旁見他說耳。燕四十二代有二惠侯，二釐侯，二宣侯，三桓侯，二文侯，蓋國史微失本謚，故重耳。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a13",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p4",
+    "annotator": "正義",
+    "text": "釐音僖。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a14",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p6",
+    "annotator": "索隱",
+    "text": "按：謚法無鄭，鄭或是名。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a15",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p7",
+    "annotator": "索隱",
+    "text": "譙周曰：「系本謂燕自宣侯已上皆父子相傳無及，故系家桓侯已下並不言屬，以其難明故也。」按：今系本無燕代系，宋忠依太史公書以補其闕，尋徐廣作音尚引系本，蓋近代始散佚耳。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a16",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p7",
+    "annotator": "集解",
+    "text": "徐廣曰：「古史考曰世家自宣侯已下不說其屬，以其難明故也。」"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a17",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p7",
+    "annotator": "集解",
+    "text": "世本曰：「桓侯徙臨易。」宋忠曰：「今河閒易縣是也。」"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a18",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p8",
+    "annotator": "集解",
+    "text": "譙周曰：「按春秋傳，燕與子穨逐周惠王者，乃南燕姞姓也。世家以爲北燕，失之。」"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a19",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p8",
+    "annotator": "索隱",
+    "text": "譙周云據左氏燕與衞伐周惠王乃是南燕姞姓，而系家以爲北燕伯，故著史考云「此燕是姞姓」。今檢左氏莊十九年「衞師、燕師伐周」，二十年傳云「執燕仲父」，三十年「齊伐山戎」，傳曰「謀山戎，以其病燕故也。」據傳文及此記，元是北燕不疑。杜君妄說仲父是南燕伯，爲伐周故。且燕、衞俱是姬姓，故有伐周納王之事；若是姞燕與衞伐周，則鄭何以獨伐燕而不伐衞乎？"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a20",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p8",
+    "annotator": "正義",
+    "text": "予音與。括地志云：「燕留故城在滄州長蘆縣東北十七里，即齊桓公分溝割燕君所至地與燕，因築此城，故名燕留。」"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a21",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p10",
+    "annotator": "索隱",
+    "text": "譙周云系家襄伯生宣伯，無桓公。今檢史記，並有「桓公立十六年」，又宋忠據此史補系家亦有桓公，是允南所見本異，則是燕有三桓公也。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a22",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p12",
+    "annotator": "索隱",
+    "text": "宋，其名也，或作「宗」。劉氏云「其父兄爲執政，故諸大夫共滅之」。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a23",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p12",
+    "annotator": "索隱",
+    "text": "春秋昭三年「北燕伯款奔齊」，至六年，又云「齊伐北燕」，一與此文合。左傳無納款之文，而云「將納簡公，晏子曰『燕君不入矣』，齊遂受賂而還」。事與此乖，而又以款爲簡公。簡公去惠公已五代，則與春秋經傳不相協，未可強言也。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a24",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p13",
+    "annotator": "索隱",
+    "text": "王劭按紀年，簡公後次孝公無獻公。然紀年之書多是偽謬，聊記異耳。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a25",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p14",
+    "annotator": "索隱",
+    "text": "按紀年，智伯滅在成公二年也。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a26",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p15",
+    "annotator": "索隱",
+    "text": "按紀年，成公名載。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a27",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p15",
+    "annotator": "索隱",
+    "text": "年表作「釐侯莊」。徐廣云一無「莊」字。按：燕失年紀及其君名，表言「莊」者，衍字也。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a28",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p15",
+    "annotator": "索隱",
+    "text": "按紀年作「文公二十四年卒，簡公立，十三年而三晉命邑爲諸侯」，與此不同。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a29",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p16",
+    "annotator": "索隱",
+    "text": "林營，地名。一云林，地名，於林地立營，故曰林營也。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a30",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p16",
+    "annotator": "索隱",
+    "text": "紀年作「簡公四十五年卒」，妄也。按：上簡公生獻公，則此當是釐，但紀年又誤耳。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a31",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p16",
+    "annotator": "索隱",
+    "text": "系本已上文公爲閔公，則「湣」與「閔」同，而上懿公之父謚文公。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a32",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p17",
+    "annotator": "正義",
+    "text": "從，足從反。長，丁丈反。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a33",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p19",
+    "annotator": "索隱",
+    "text": "君即易王也。言君初以十年即稱王也。上言易王者，易，謚也，後追書謚耳。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a34",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p19",
+    "annotator": "集解",
+    "text": "孫子兵法曰：「反閒者，因敵閒而用之者也。凡軍之所欲擊，城之所欲攻，人之所欲殺，必先知其守將、左右謁者、門者、舍人之姓名，令吾閒必索敵閒之來閒我者，因而利導舍之，故反閒可得用也。」"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a35",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p19",
+    "annotator": "正義",
+    "text": "使音所吏反。閒音紀莧反。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a36",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p20",
+    "annotator": "索隱",
+    "text": "按：戰國策曰「子之使蘇代侍質子於齊，齊使代報燕」是也。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a37",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p20",
+    "annotator": "正義",
+    "text": "瓚云：「秦以一溢爲一金。」孟康云：「二十四兩曰溢。」"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a38",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p21",
+    "annotator": "集解",
+    "text": "徐廣曰：「一作『厝毛』。」又曰：「甘陵縣本名厝。」"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a39",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p21",
+    "annotator": "索隱",
+    "text": "春秋後語「厝毛壽」，又韓子作「潘壽」。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a40",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p21",
+    "annotator": "索隱",
+    "text": "大重謂尊貴也。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a41",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p21",
+    "annotator": "索隱",
+    "text": "按：以「已」配「益」，則「益已」是伯益，而經傳無其文，未知所由。或曰已，語終辭。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a42",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p21",
+    "annotator": "索隱",
+    "text": "人猶臣也。謂以啟臣爲益吏。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a43",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p21",
+    "annotator": "索隱",
+    "text": "此「人」亦訓臣也。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a44",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p21",
+    "annotator": "索隱",
+    "text": "鄭玄云：「郊，呈也。以印呈與子之。」"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a45",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p21",
+    "annotator": "索隱",
+    "text": "顧猶反也。言噲反爲子之臣也。有本作「願」者，非。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a46",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p22",
+    "annotator": "索隱",
+    "text": "恫音通，痛也。恐，懼也。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a47",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p22",
+    "annotator": "正義",
+    "text": "人姓名。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a48",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p22",
+    "annotator": "正義",
+    "text": "飭音敕。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a49",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p22",
+    "annotator": "正義",
+    "text": "先後並去聲。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a50",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p22",
+    "annotator": "索隱",
+    "text": "謂如武王成文王之業伐紂之時，然此語與孟子不同也。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a51",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p22",
+    "annotator": "集解",
+    "text": "章子，齊人，見孟子。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a52",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p22",
+    "annotator": "索隱",
+    "text": "按：孟子云「章子，齊人」。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a53",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p22",
+    "annotator": "索隱",
+    "text": "五都即齊也。按：臨淄是五都之一也。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a54",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p22",
+    "annotator": "索隱",
+    "text": "北地即齊之北邊也。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a55",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p22",
+    "annotator": "集解",
+    "text": "徐廣曰：「年表云君噲及太子相子之皆死。」駰案：汲冢紀年曰「齊人禽子之而醢其身也」。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a56",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p22",
+    "annotator": "集解",
+    "text": "徐廣曰：「噲立七年而死，其九年燕人共立太子平。」"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a57",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p22",
+    "annotator": "索隱",
+    "text": "按：上文太子平謀攻子之，而年表又云君噲及太子相子之皆死，紀年又云子之殺公子平，今此文云「立太子平，是爲燕昭王」，則年表、紀年爲謬也。而趙系家云武靈王聞燕亂，召公子職於韓，立以爲燕王，使樂池送之，裴駰亦以此系家無趙送公子職之事，當是遙立職而送之，事竟不就，則昭王名平，非職明矣。進退參詳，是年表旣誤，而紀年因之而妄說耳。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a58",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p24",
+    "annotator": "索隱",
+    "text": "按：餘篇及戰國策並無「聊」字。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a59",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p27",
+    "annotator": "索隱",
+    "text": "按：趙系家惠文王二十八年，燕相成安君公孫操弒其王，樂資以爲即惠王也。徐廣按年表，是年燕武成王元年，武成即惠王子，則惠王爲成安君弒明矣。此不言者，燕逺，諱不告，或太史公之說疏也。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a60",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p29",
+    "annotator": "索隱",
+    "text": "今王猶今上也。有作「令」者，非也，按謚法無令也。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a61",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p30",
+    "annotator": "正義",
+    "text": "趙東鄰燕，西接秦境，南錯韓、魏，北連胡、貊，故言「四戰」。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a62",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p30",
+    "annotator": "索隱",
+    "text": "謂以五人而伐一人。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a63",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p30",
+    "annotator": "集解",
+    "text": "徐廣曰：「在常山，今曰高邑。」"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a64",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p30",
+    "annotator": "索隱",
+    "text": "鄒氏音火各反，一音昊。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a65",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p30",
+    "annotator": "索隱",
+    "text": "戰國策曰「廉頗以二十萬遇栗腹於鄗，樂乘以五萬遇爰秦於代，燕人大敗」，不同也。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a66",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p30",
+    "annotator": "正義",
+    "text": "今代州也。戰國策云「廉頗以二十萬遇栗腹於鄗，樂乘以五萬遇慶秦於代，燕人大敗」，與此不同也。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a67",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p30",
+    "annotator": "索隱",
+    "text": "人名姓也。一云上「卿秦」及此「將渠」者：卿，將，皆官也；秦，渠，名也。國史變文而書，遂失姓也。戰國策云「爰秦」，爰是姓也，卿是其官耳。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a68",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p30",
+    "annotator": "集解",
+    "text": "徐廣曰：「屬鉅鹿。」"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a69",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p30",
+    "annotator": "集解",
+    "text": "以將渠爲相。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a70",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p30",
+    "annotator": "索隱",
+    "text": "謂欲令將渠處之使和也。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a71",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p31",
+    "annotator": "集解",
+    "text": "徐廣曰：「屬魏郡。」"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a72",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p31",
+    "annotator": "集解",
+    "text": "徐廣曰：「屬河閒。」"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a73",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p31",
+    "annotator": "集解",
+    "text": "徐廣曰：「屬涿，有督亢亭。」"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a74",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p31",
+    "annotator": "索隱",
+    "text": "煖音況逺反。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a75",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p31",
+    "annotator": "正義",
+    "text": "即相州鄴縣也。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a76",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p32",
+    "annotator": "集解",
+    "text": "徐廣曰：「出涿郡故安也。」"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a77",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p32",
+    "annotator": "索隱",
+    "text": "徐廣云：「涿有督亢亭。」地理志屬廣陽。然督亢之田在燕東，甚良沃，欲獻秦，故畫其圖而獻焉。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a78",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p33",
+    "annotator": "正義",
+    "text": "賁音奔，王翦子。"
+  },
+  {
+    "id": "anno:shiji:shiji-燕召公世家第四:a79",
+    "book": "shiji",
+    "chapter_id": "shiji-燕召公世家第四",
+    "target_para_id": "text:shiji:shiji-燕召公世家第四:p34",
+    "annotator": "索隱",
+    "text": "措，交雜也。又作「錯」，劉氏云争陌反。"
+  }
+]

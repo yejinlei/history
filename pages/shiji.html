@@ -3,504 +3,221 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>《史记》本体论 | 中国历史本体</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700;900&family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
+<title>《史记》本体论 - 中国历史本体论</title>
+<link rel="stylesheet" href="/history/css/style.css">
 <style>
-:root{--ink:#1a1a1a;--ink-light:#333;--ink-soft:#555;--paper:#faf8f5;--paper-2:#f3efe8;--zhu:#8b0000;--zhu-2:#a52a2a;--zhu-light:#c45a4e;--gold:#b8860b;--line:#d4cfc5;--shadow:0 2px 12px rgba(0,0,0,.06)}
-*{margin:0;padding:0;box-sizing:border-box}
-html{scroll-behavior:smooth}
-body{font-family:'Noto Sans SC',sans-serif;background:var(--paper);color:var(--ink);line-height:1.8}
-h1,h2,h3,h4{font-family:'Noto Serif SC',serif;font-weight:700}
-a{text-decoration:none;color:inherit}
-
-/* 导航栏 */
-nav{position:fixed;top:0;left:0;right:0;z-index:100;background:rgba(250,248,245,.95);backdrop-filter:blur(10px);border-bottom:1px solid var(--line);padding:0 2rem}
-.nav-inner{max-width:1280px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;height:64px}
-.logo{font-family:'Noto Serif SC',serif;font-size:1.3rem;font-weight:900;color:var(--zhu);display:flex;align-items:center;gap:.6rem}
-.logo::before{content:"";width:4px;height:22px;background:var(--zhu);border-radius:2px}
-.nav-menu{display:flex;gap:.2rem;list-style:none}
-.nav-item{position:relative}
-.nav-item > a{display:block;padding:0 1rem;line-height:64px;font-weight:500;font-size:.95rem;transition:color .2s}
-.nav-item > a:hover,.nav-item > a.active{color:var(--zhu)}
-.nav-item > a.active{box-shadow:inset 0 -2px 0 var(--zhu)}
-.dropdown{position:absolute;top:100%;left:0;min-width:200px;background:#fff;border:1px solid var(--line);border-radius:8px;box-shadow:var(--shadow);padding:.5rem 0;opacity:0;visibility:hidden;transform:translateY(8px);transition:all .25s;list-style:none}
-.nav-item:hover .dropdown{opacity:1;visibility:visible;transform:translateY(0)}
-.dropdown li a{display:block;padding:.65rem 1.2rem;font-size:.9rem;color:var(--ink-light);transition:all .2s}
-.dropdown li a:hover{background:var(--paper-2);color:var(--zhu);padding-left:1.5rem}
-.dropdown .divider{height:1px;background:var(--line);margin:.4rem 0}
-.dropdown .coming-soon{padding:.65rem 1.2rem;font-size:.85rem;color:#aaa;font-style:italic}
-
-/* 页面头部 */
-.hero{margin-top:64px;padding:5rem 2rem 3rem;text-align:center;background:linear-gradient(180deg,var(--paper-2) 0%,var(--paper) 100%);border-bottom:1px solid var(--line);position:relative;overflow:hidden}
-.hero::before{content:"";position:absolute;top:0;left:0;right:0;bottom:0;background-image:url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" opacity="0.03"><text x="0" y="80" font-size="80" font-family="serif">史</text></svg>');background-size:100px;opacity:.4;pointer-events:none}
-.hero-content{position:relative;max-width:900px;margin:0 auto}
-.hero h1{font-size:3rem;margin-bottom:.5rem;letter-spacing:.1em}
-.hero .subtitle{font-size:1.2rem;color:var(--ink-soft);margin-bottom:1rem;font-family:'Noto Serif SC',serif}
-.hero .meta{display:inline-flex;gap:1.5rem;padding:.8rem 1.5rem;background:rgba(139,0,0,.05);border:1px solid rgba(139,0,0,.1);border-radius:30px;font-size:.9rem;color:var(--ink-light);margin-top:1rem}
-.hero .meta span{display:flex;align-items:center;gap:.4rem}
-.hero .meta .label{color:var(--zhu);font-weight:500}
-
-/* 主内容区 */
-main{max-width:1100px;margin:0 auto;padding:3rem 2rem 6rem}
-.section{margin-bottom:4rem;scroll-margin-top:80px}
-.section-header{margin-bottom:2rem;padding-bottom:1rem;border-bottom:2px solid var(--line);position:relative}
-.section-header::after{content:"";position:absolute;bottom:-2px;left:0;width:80px;height:2px;background:var(--zhu)}
-.section-header h2{font-size:1.8rem;color:var(--ink);margin-bottom:.3rem;display:flex;align-items:center;gap:.8rem}
-.section-header h2 .num{display:inline-flex;align-items:center;justify-content:center;width:36px;height:36px;background:var(--zhu);color:#fff;border-radius:50%;font-size:1rem;font-family:'Noto Sans SC',sans-serif}
-.section-header p{color:var(--ink-soft);font-size:.95rem}
-
-/* 卡片通用 */
-.card-grid{display:grid;gap:1.5rem}
-.cols-2{grid-template-columns:repeat(2,1fr)}
-.cols-3{grid-template-columns:repeat(3,1fr)}
-.cols-5{grid-template-columns:repeat(5,1fr)}
-.card{background:#fff;border:1px solid var(--line);border-radius:8px;padding:1.5rem;transition:all .25s;box-shadow:var(--shadow)}
-.card:hover{transform:translateY(-3px);border-color:var(--zhu-light);box-shadow:0 8px 24px rgba(139,0,0,.08)}
-.card h4{font-size:1.1rem;color:var(--zhu);margin-bottom:.8rem;display:flex;align-items:center;gap:.6rem}
-.card p{font-size:.9rem;color:var(--ink-light);line-height:1.7;margin-bottom:.6rem}
-.card .tag{display:inline-block;padding:.2rem .6rem;background:rgba(139,0,0,.08);color:var(--zhu);border-radius:4px;font-size:.78rem;margin-right:.4rem;margin-bottom:.4rem}
-
-/* 体例结构 */
-.titi-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:1rem}
-.titi-item{background:#fff;border:1px solid var(--line);border-radius:8px;padding:1.2rem;text-align:center;border-top:3px solid var(--zhu)}
-.titi-item.benji{border-top-color:var(--zhu)}
-.titi-item.biao{border-top-color:var(--gold)}
-.titi-item.shu{border-top-color:#2e8b57}
-.titi-item.shijia{border-top-color:#4682b4}
-.titi-item.liezhuan{border-top-color:#8b4513}
-.titi-item .count{font-size:2rem;font-weight:900;font-family:'Noto Serif SC',serif;margin:.5rem 0}
-.titi-item.benji .count{color:var(--zhu)}
-.titi-item.biao .count{color:var(--gold)}
-.titi-item.shu .count{color:#2e8b57}
-.titi-item.shijia .count{color:#4682b4}
-.titi-item.liezhuan .count{color:#8b4513}
-.titi-item .name{font-size:1.1rem;font-weight:700;font-family:'Noto Serif SC',serif;margin-bottom:.5rem}
-.titi-item .desc{font-size:.82rem;color:var(--ink-soft);line-height:1.6}
-
-/* 三家注 */
-.sanjiazhu{display:grid;grid-template-columns:repeat(3,1fr);gap:1.5rem;margin-top:1rem}
-.sanjia-item{background:linear-gradient(135deg,#fff 0%,var(--paper-2) 100%);border:1px solid var(--line);border-radius:8px;padding:1.8rem;position:relative;overflow:hidden}
-.sanjia-item::before{content:"";position:absolute;top:0;right:0;width:80px;height:80px;background:var(--zhu);opacity:.05;border-radius:0 0 0 80px}
-.sanjia-item .author{font-size:1.2rem;font-weight:700;color:var(--zhu);margin-bottom:.3rem;font-family:'Noto Serif SC',serif}
-.sanjia-item .dynasty{font-size:.85rem;color:var(--ink-soft);margin-bottom:.8rem}
-.sanjia-item .zhu-name{font-size:1.4rem;font-weight:900;color:var(--ink);margin-bottom:1rem;font-family:'Noto Serif SC',serif}
-.sanjia-item p{font-size:.9rem;line-height:1.7;color:var(--ink-light)}
-
-/* 核心人物 */
-.figure-category{margin-bottom:2rem}
-.figure-category h4{font-size:1.1rem;color:var(--ink);margin-bottom:1rem;padding-left:.8rem;border-left:3px solid var(--zhu)}
-.figure-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:.8rem}
-.figure-tag{background:#fff;border:1px solid var(--line);border-radius:6px;padding:.8rem 1rem;font-size:.9rem;transition:all .2s;cursor:pointer}
-.figure-tag:hover{background:var(--paper-2);border-color:var(--zhu-light);transform:translateX(4px)}
-.figure-tag .role{font-size:.75rem;color:var(--zhu);display:block;margin-bottom:.2rem}
-
-/* 重大事件时间线 */
-.timeline{position:relative;padding-left:2rem}
-.timeline::before{content:"";position:absolute;left:7px;top:0;bottom:0;width:2px;background:var(--line)}
-.timeline-item{position:relative;margin-bottom:2rem;padding-left:1.5rem}
-.timeline-item::before{content:"";position:absolute;left:-2rem;top:6px;width:16px;height:16px;border-radius:50%;background:var(--paper);border:3px solid var(--zhu)}
-.timeline-item .time{font-family:'Noto Serif SC',serif;font-weight:700;color:var(--zhu);font-size:1rem;margin-bottom:.3rem}
-.timeline-item .event-name{font-size:1.1rem;font-weight:700;margin-bottom:.4rem}
-.timeline-item .event-desc{font-size:.9rem;color:var(--ink-light);line-height:1.7}
-
-/* 本体类表 */
-.class-table{width:100%;border-collapse:collapse;background:#fff;border-radius:8px;overflow:hidden;box-shadow:var(--shadow)}
-.class-table th,.class-table td{padding:1rem 1.2rem;text-align:left;border-bottom:1px solid var(--line)}
-.class-table th{background:var(--paper-2);font-family:'Noto Serif SC',serif;font-weight:700;color:var(--ink)}
-.class-table td:first-child{font-weight:600;color:var(--zhu);font-family:'Noto Serif SC',serif;width:180px}
-.class-table tr:hover{background:var(--paper-2)}
-
-/* 关系谓词 */
-.predicate-list{display:grid;grid-template-columns:repeat(2,1fr);gap:1rem}
-.predicate-item{background:#fff;border:1px solid var(--line);border-radius:6px;padding:1rem;display:flex;align-items:flex-start;gap:1rem}
-.predicate-item .icon{width:36px;height:36px;background:rgba(139,0,0,.1);border-radius:50%;display:flex;align-items:center;justify-content:center;color:var(--zhu);font-weight:700;flex-shrink:0}
-.predicate-item .prop-name{font-family:'Noto Serif SC',serif;font-weight:700;color:var(--ink);margin-bottom:.3rem}
-.predicate-item .prop-desc{font-size:.85rem;color:var(--ink-soft)}
-.predicate-item .prop-char{font-size:.75rem;color:var(--gold);margin-top:.2rem}
-
-/* 学术研究 */
-.research-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:1.5rem}
-.research-card{background:#fff;border:1px solid var(--line);border-radius:8px;padding:1.5rem;border-left:4px solid var(--zhu)}
-.research-card .scholar{font-size:1.1rem;font-weight:700;font-family:'Noto Serif SC',serif;color:var(--zhu);margin-bottom:.5rem}
-.research-card .work{font-size:.95rem;font-weight:600;margin-bottom:.8rem;color:var(--ink-light)}
-.research-card .view{font-size:.9rem;line-height:1.7;color:var(--ink-light)}
-
-/* 快速导航 */
-.quick-nav{position:fixed;right:2rem;top:50%;transform:translateY(-50%);background:#fff;border:1px solid var(--line);border-radius:8px;padding:1rem;box-shadow:var(--shadow);font-size:.85rem;z-index:50}
-.quick-nav a{display:block;padding:.4rem .8rem;color:var(--ink-light);transition:all .2s;border-radius:4px}
-.quick-nav a:hover{background:var(--paper-2);color:var(--zhu);padding-left:1rem}
-
-footer{background:var(--ink);color:#aaa;padding:3rem 2rem;text-align:center;font-size:.9rem}
-
-/* 响应式 */
-@media(max-width:900px){
-    .titi-grid,.sanjiazhu,.cols-2,.cols-3,.research-grid,.predicate-list{grid-template-columns:1fr}
-    .cols-5{grid-template-columns:repeat(2,1fr)}
-    .hero h1{font-size:2rem}
-    .nav-menu{gap:0}
-    .nav-item > a{padding:0 .6rem;font-size:.88rem}
-    .quick-nav{display:none}
-}
+.book-hero{background:linear-gradient(135deg,#f5efe0 0%,#e8dcc4 100%);padding:4rem 2rem;border-bottom:3px double #9a2a2a;}
+.book-title{font-size:3rem;color:#6e1919;text-align:center;font-family:"KaiTi","楷体",serif;margin:0 0 1rem;}
+.book-subtitle{text-align:center;color:#5d4037;font-size:1.2rem;margin:0 0 2rem;}
+.read-btn{display:block;width:fit-content;margin:0 auto;padding:.8rem 2rem;background:#9a2a2a;color:#fff;text-decoration:none;border-radius:4px;font-size:1.1rem;}
+.read-btn:hover{background:#7a1e1e;}
+.stats-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1rem;max-width:1000px;margin:2rem auto;}
+.stat-card{background:#fff;border-top:3px solid #9a2a2a;padding:1.5rem;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,.06);}
+.stat-num{font-size:2rem;font-weight:bold;color:#9a2a2a;display:block;}
+.stat-label{color:#666;font-size:.9rem;margin-top:.3rem;}
+.section{max-width:1100px;margin:3rem auto;padding:0 2rem;}
+.section-title{font-size:1.8rem;color:#6e1919;border-left:4px solid #9a2a2a;padding-left:1rem;margin-bottom:1.5rem;}
+.tili-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:1.2rem;margin:2rem 0;}
+.tili-card{background:#fff;padding:1.5rem;border:1px solid #e0d5c1;box-shadow:0 2px 6px rgba(0,0,0,.04);border-top:4px solid #9a2a2a;}
+.tili-card.benji{border-top-color:#8b0000;}
+.tili-card.biao{border-top-color:#b8860b;}
+.tili-card.shu{border-top-color:#2e5c8a;}
+.tili-card.shijia{border-top-color:#5c7a29;}
+.tili-card.liezhuan{border-top-color:#6b4423;}
+.tili-name{font-size:1.3rem;font-weight:bold;margin:0 0 .5rem;color:#333;}
+.tili-count{font-size:2rem;color:#9a2a2a;}
+.tili-desc{color:#666;font-size:.9rem;margin-top:.5rem;line-height:1.6;}
+.anno-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:1rem;margin:2rem 0;}
+.anno-card{background:#fff;padding:1.2rem 1.5rem;border-left:4px solid #9a2a2a;box-shadow:0 2px 6px rgba(0,0,0,.04);}
+.anno-author{font-size:1.1rem;font-weight:bold;color:#9a2a2a;margin:0 0 .5rem;}
+.anno-desc{color:#555;font-size:.9rem;line-height:1.6;margin:0;}
+.entity-section{margin:3rem 0;}
+.entity-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:.8rem;}
+.entity-tag{background:#faf6ed;border:1px solid #e0d5c1;padding:.6rem .8rem;text-align:center;font-size:.9rem;color:#5d4037;border-radius:3px;}
+.entity-tag.king{background:#fff0f0;border-color:#e8c0c0;color:#8b0000;font-weight:500;}
+.architecture-box{background:#faf6ed;border:1px solid #d4c7a8;padding:2rem;border-radius:4px;margin:2rem 0;}
+.arch-level{margin-bottom:1.5rem;padding-left:1rem;border-left:3px solid #9a2a2a;}
+.arch-level:last-child{margin-bottom:0;}
+.arch-title{font-weight:bold;color:#6e1919;font-size:1.1rem;margin:0 0 .5rem;}
+.arch-desc{color:#555;line-height:1.6;margin:0;}
+.relation-table{width:100%;border-collapse:collapse;background:#fff;margin:2rem 0;}
+.relation-table th, .relation-table td{padding:.8rem 1rem;border:1px solid #e0d5c1;text-align:left;}
+.relation-table th{background:#f5efe0;color:#6e1919;font-weight:600;}
+.relation-table tr:hover{background:#faf6ed;}
+.chapter-list-container{max-height:500px;overflow-y:auto;background:#fff;border:1px solid #e0d5c1;padding:1rem;margin:2rem 0;}
+.chapter-group{margin-bottom:1rem;}
+.chapter-group-title{font-weight:bold;color:#6e1919;padding:.5rem 0;border-bottom:1px solid #e0d5c1;position:sticky;top:0;background:#fff;}
+.chapter-item{padding:.4rem .8rem;font-size:.95rem;color:#444;border-bottom:1px dotted #eee;display:flex;justify-content:space-between;}
+.chapter-item:hover{background:#faf6ed;}
+.chapter-meta{color:#999;font-size:.85rem;}
+.same-as-tag{display:inline-block;background:#e8f4f8;color:#2e5c8a;font-size:.75rem;padding:1px 6px;border-radius:3px;margin-left:.5rem;}
 </style>
-<style>
-.nav-dropdown { position:relative; }
-.nav-dropdown .dropdown-menu { display:none; position:absolute; top:100%; left:0; background:#fffdf5; border:1px solid #c9b48a; border-top:3px solid #a33; min-width:220px; box-shadow:0 6px 18px rgba(80,40,10,0.12); border-radius:0 0 3px 3px; z-index:200; padding:6px 0; }
-.nav-dropdown:hover .dropdown-menu { display:block; }
-.nav-dropdown .dropdown-menu a { display:block; padding:9px 18px; color:#3a2e1f; text-decoration:none; font-size:15px; border-bottom:1px dashed #eadcba; }
-.nav-dropdown .dropdown-menu a:last-child { border-bottom:none; }
-.nav-dropdown .dropdown-menu a:hover { background:#fff8e8; color:#a33; }
-.dropdown-hint { padding:8px 18px; font-size:13px; color:#9a8a6f; text-align:center; border-top:1px solid #eadcba; margin-top:4px; padding-top:10px; }
-</style></head>
-<body><nav class="navbar">
-    <a href="./index.html" class="logo">📜 中国历史本体论</a>
-    <a href="./index.html" class="nav-link">首页</a>
-    <div class="nav-dropdown">
-        <a href="./pages/ontology.html" class="nav-link">本体总纲 ▾</a>
-        <div class="dropdown-menu">
-            <a href="./pages/ontology.html">本体总纲</a>
-            <a href="./pages/ontology/architecture.html">核心架构·四轴七层</a>
-            <a href="./pages/ontology/single-books.html">单本史书构建方案</a>
-            <a href="./pages/ontology/panorama-system.html">历史全景构建方案</a>
-            <a href="./pages/ontology/roadmap.html">路线图与质量规范</a>
-        </div>
+</head>
+<body>
+<nav class="navbar" id="navbar"></nav>
+
+<div class="book-hero">
+  <h1 class="book-title">《史记》本体论</h1>
+  <p class="book-subtitle">西汉·司马迁 撰 · 裴骃集解 · 司马贞索隐 · 张守节正义</p>
+  <a href="/history/pages/texts/reader.html?book=shiji" class="read-btn">📖 进入《史记》全文阅读</a>
+  <div class="stats-grid">
+    <div class="stat-card"><span class="stat-num">137</span><span class="stat-label">总篇数</span></div>
+    <div class="stat-card"><span class="stat-num">75.7万</span><span class="stat-label">正文字数</span></div>
+    <div class="stat-card"><span class="stat-num">18,081</span><span class="stat-label">三家注条数</span></div>
+    <div class="stat-card"><span class="stat-num">9,009</span><span class="stat-label">正文段落</span></div>
+    <div class="stat-card"><span class="stat-num">109</span><span class="stat-label">核心人物</span></div>
+    <div class="stat-card"><span class="stat-num">21</span><span class="stat-label">核心地名</span></div>
+    <div class="stat-card"><span class="stat-num">20</span><span class="stat-label">核心事件</span></div>
+  </div>
+</div>
+
+<div class="section">
+  <h2 class="section-title">一、五体结构本体</h2>
+  <p style="color:#555;line-height:1.8;">《史记》首创纪传体，分为本纪、表、书、世家、列传五体，五体互相配合，构成完整的历史叙事体系。本体按五体分别建模，保留原书体例。</p>
+  <div class="tili-grid" id="tiliGrid"></div>
+</div>
+
+<div class="section">
+  <h2 class="section-title">二、三家注注疏体系</h2>
+  <p style="color:#555;line-height:1.8;">《史记》注疏以刘宋裴骃《集解》、唐司马贞《索隐》、唐张守节《正义》最为著名，世称"三家注"。本体中注疏与正文完全分离，每条注疏绑定到具体原文句，支持按注家筛选显示。</p>
+  <div class="anno-grid">
+    <div class="anno-card">
+      <h3 class="anno-author">裴骃《史记集解》</h3>
+      <p class="anno-desc">刘宋时期裴骃撰，博采九经诸史与《汉书》旧注，广引前人成果，是现存最早的《史记》注本，侧重训释名物典制。</p>
     </div>
-    <div class="nav-dropdown">
-        <a href="./pages/panorama.html" class="nav-link">历史全景 ▾</a>
-        <div class="dropdown-menu">
-            <a href="./pages/panorama.html">历史全景·概览</a>
-            <a href="./pages/statistics.html">历史统计与推论（建设中）</a>
-        </div>
+    <div class="anno-card">
+      <h3 class="anno-author">司马贞《史记索隐》</h3>
+      <p class="anno-desc">唐代司马贞撰，在《集解》基础上进一步探幽发微，注音释义、考订史实，多有驳正，注重音义训诂和版本校勘。</p>
     </div>
-    <div class="nav-dropdown">
-        <a href="../pages/texts/index.html" class="nav-link">正史 ▾</a>
-        <div class="dropdown-menu">
-            <a href="../pages/texts/index.html">📖 阅读正史文本</a>
-            <a href="../pages/texts/reader.html?book=shiji">《史记》（三家注）</a>
-            <a href="../pages/texts/reader.html?book=zizhitongjian">《资治通鉴》（胡三省注）</a>
-            <a href="../pages/shiji.html">《史记》本体</a>
-            <a href="../pages/zizhitongjian.html">《资治通鉴》本体</a>
-            <div class="dropdown-hint">其余正史逐步建设中</div>
-        </div>
+    <div class="anno-card">
+      <h3 class="anno-author">张守节《史记正义》</h3>
+      <p class="anno-desc">唐代张守节撰，长于地理考证，引用大量唐初地理资料，训释简明，尤其对地名沿革注释详备。</p>
     </div>
-    <div class="nav-dropdown">
-        <a href="#" class="nav-link">专题研究 ▾</a>
-        <div class="dropdown-menu">
-            <a href="#">现代史学四大家</a>
-            <a href="#">历代政治制度</a>
-            <a href="#">历史地理沿革</a>
-        </div>
+  </div>
+</div>
+
+<div class="section">
+  <h2 class="section-title">三、本体三层架构（L1-L2-L3）</h2>
+  <div class="architecture-box">
+    <div class="arch-level">
+      <h3 class="arch-title">L1 原始文本层 <small style="color:#999;font-weight:normal">（永不修改）</small></h3>
+      <p class="arch-desc">137篇正文逐句编号，共9,009段纯净文本；18,081条三家注独立存放，每条注通过<code>target_para_id</code>绑定到具体句子。正文与注疏物理分离，原文一经录入永不修改。</p>
     </div>
-    <a href="https://github.com/yejinlei/history" target="_blank" class="nav-link" style="margin-left:auto;">GitHub ↗</a>
-</nav>
-<div id="site-header" data-page="zhengshi"></div>
-
-<!-- 页面头部 -->
-<section class="hero">
-<div class="hero-content">
-  <h1>《史记》本体论</h1>
-  <p class="subtitle">史家之绝唱，无韵之离骚</p>
-  <div class="meta">
-    <span><span class="label">作者：</span>司马迁（西汉）</span>
-    <span><span class="label">卷数：</span>一百三十篇</span>
-    <span><span class="label">字数：</span>五十二万余字</span>
-    <span><span class="label">时间跨度：</span>黄帝至汉武帝太初年间约3000年</span>
+    <div class="arch-level">
+      <h3 class="arch-title">L2 单书本体层 <small style="color:#999;font-weight:normal">（史记专属）</small></h3>
+      <p class="arch-desc">按五体体例建模篇章结构，抽取109位核心人物、21处核心地名、20个核心事件，每个实体都带<code>evidence</code>溯源到原文段落ID，书内关系（世系、官职、事件参与）完整建模。</p>
+    </div>
+    <div class="arch-level">
+      <h3 class="arch-title">L3 历史全景层 <small style="color:#999;font-weight:normal">（跨书对齐）</small></h3>
+      <p class="arch-desc">每个史记实体都预留<code>global_same_as</code>字段，指向历史全景层的全局统一实体，未来与《汉书》《国语》《资治通鉴》等其他史书对齐时，只需追加映射即可，无需修改史记原始数据。</p>
+    </div>
   </div>
-  <div style="margin-top:2rem;display:flex;gap:1rem;justify-content:center;flex-wrap:wrap">
-    <a href="texts/reader.html?book=shiji" style="padding:.8rem 1.8rem;background:var(--zhu);color:white;border-radius:8px;text-decoration:none;font-weight:500">📖 阅读原文·五帝本纪</a>
-    <a href="ontology.html" style="padding:.8rem 1.8rem;border:1px solid var(--zhu);color:var(--zhu);border-radius:8px;text-decoration:none">返回本体总纲</a>
-  </div>
-</div>
-</section>
-
-<!-- 快速导航 -->
-<div class="quick-nav">
-  <a href="#sec1">基本概况</a>
-  <a href="#sec2">体例结构</a>
-  <a href="#sec3">三家注注疏</a>
-  <a href="#sec4">核心人物</a>
-  <a href="#sec5">重大事件</a>
-  <a href="#sec6">本体类设计</a>
-  <a href="#sec7">关系谓词</a>
-  <a href="#sec8">学术研究</a>
 </div>
 
-<main>
+<div class="section entity-section">
+  <h2 class="section-title">四、核心人物本体（109位） <span class="same-as-tag">已预留全局对齐接口</span></h2>
+  <div class="entity-grid" id="personGrid"></div>
+</div>
 
-<!-- 1. 基本概况 -->
-<section class="section" id="sec1">
-<div class="section-header">
-  <h2><span class="num">1</span>基本概况</h2>
-  <p>《史记》是中国第一部纪传体通史，位列二十四史之首，由西汉史学家司马迁撰写。</p>
+<div class="section">
+  <h2 class="section-title">五、核心地名与事件</h2>
+  <h3 style="color:#5d4037;font-size:1.2rem;margin-top:2rem;">核心地名（21处）</h3>
+  <div class="entity-grid" id="placeGrid"></div>
+  <h3 style="color:#5d4037;font-size:1.2rem;margin-top:2rem;">核心事件（20个）</h3>
+  <div class="entity-grid" id="eventGrid"></div>
 </div>
-<div class="card-grid cols-3">
-  <div class="card">
-    <h4>📚 成书背景</h4>
-    <p>司马迁（前145年-约前86年），字子长，夏阳人。太初元年（前104年）开始编撰，前后历时14年，因李陵之祸受宫刑后仍发愤著书，最终完成这部不朽巨著。</p>
-    <span class="tag">西汉</span><span class="tag">汉武帝时期</span><span class="tag">纪传体通史开创</span>
-  </div>
-  <div class="card">
-    <h4>🏛️ 历史地位</h4>
-    <p>《史记》首创的纪传体体例为后世历代正史所遵循，记载了上起黄帝、下至汉武帝太初年间三千多年的政治、经济、军事、文化等各方面历史。</p>
-    <span class="tag">二十四史之首</span><span class="tag">前四史第一</span><span class="tag">史学双璧之一</span>
-  </div>
-  <div class="card">
-    <h4>✍️ 文学价值</h4>
-    <p>鲁迅誉之为"史家之绝唱，无韵之离骚"。其叙事语言精炼生动，人物形象鲜明，既是史学巨著，也是文学经典，开创了中国传记文学的先河。</p>
-    <span class="tag">传记文学典范</span><span class="tag">古文运动典范</span>
-  </div>
-</div>
-</section>
 
-<!-- 2. 体例结构 -->
-<section class="section" id="sec2">
-<div class="section-header">
-  <h2><span class="num">2</span>五体结构</h2>
-  <p>《史记》首创本纪、表、书、世家、列传五体合一的编纂体例，成为后世正史编纂的标准范式。</p>
+<div class="section">
+  <h2 class="section-title">六、史记专属本体谓词</h2>
+  <table class="relation-table">
+    <thead><tr><th>谓词</th><th>类型</th><th>说明</th><th>特性</th></tr></thead>
+    <tbody>
+      <tr><td>in_benji</td><td>篇章关系</td><td>人物/事件属于某篇本纪</td><td></td></tr>
+      <tr><td>in_shijia</td><td>篇章关系</td><td>诸侯/重要人物属于某篇世家</td><td></td></tr>
+      <tr><td>in_liezhuan</td><td>篇章关系</td><td>人物属于某篇列传</td><td></td></tr>
+      <tr><td>sanjiazhu_annotates</td><td>注疏关系</td><td>三家注某条注释标注原文某句</td><td>多对一</td></tr>
+      <tr><td>records_person</td><td>内容关系</td><td>某段原文记载某个人物</td><td></td></tr>
+      <tr><td>records_event</td><td>内容关系</td><td>某段原文记载某个事件</td><td></td></tr>
+      <tr><td>records_place</td><td>内容关系</td><td>某段原文记载某个地名</td><td></td></tr>
+      <tr><td>global_same_as</td><td>跨层关系</td><td>史记人物/地名/事件映射到历史全景统一实体</td><td>对称性</td></tr>
+      <tr><td>evidence</td><td>溯源关系</td><td>实体/关系可溯源到原文句ID</td><td>必选字段</td></tr>
+    </tbody>
+  </table>
 </div>
-<div class="titi-grid">
-  <div class="titi-item benji">
-    <div class="name">十二本纪</div>
-    <div class="count">12</div>
-    <div class="desc">记述历代帝王政绩与朝代兴衰，是全书的纲领，按年月时间记述帝王言行政绩</div>
-  </div>
-  <div class="titi-item biao">
-    <div class="name">十表</div>
-    <div class="count">10</div>
-    <div class="desc">用表格形式梳理世系、人物和史事，厘清历史发展的时间线索，是全书叙事的联络和补充</div>
-  </div>
-  <div class="titi-item shu">
-    <div class="name">八书</div>
-    <div class="count">8</div>
-    <div class="desc">记载典章制度、天文地理、社会经济等专史，涉及礼、乐、律、历、天官、封禅、河渠、平准</div>
-  </div>
-  <div class="titi-item shijia">
-    <div class="name">三十世家</div>
-    <div class="count">30</div>
-    <div class="desc">记述诸侯国和汉代诸侯、勋贵兴亡，以及重要历史人物的家族世袭事迹</div>
-  </div>
-  <div class="titi-item liezhuan">
-    <div class="name">七十列传</div>
-    <div class="count">70</div>
-    <div class="desc">记载重要人物的言行事迹，以及各阶层代表人物、边疆民族和外国的历史</div>
-  </div>
-</div>
-</section>
 
-<!-- 3. 三家注注疏体系 -->
-<section class="section" id="sec3">
-<div class="section-header">
-  <h2><span class="num">3</span>三家注注疏体系</h2>
-  <p>现存《史记》最重要的注本是"史记三家注"，即南朝宋裴骃《集解》、唐司马贞《索隐》、唐张守节《正义》，与原文合刻行世。</p>
+<div class="section">
+  <h2 class="section-title">七、完整篇章目录（137篇）</h2>
+  <div class="chapter-list-container" id="chapterList"></div>
 </div>
-<div class="sanjiazhu">
-  <div class="sanjia-item">
-    <div class="author">裴骃</div>
-    <div class="dynasty">南朝宋 · 史学家</div>
-    <div class="zhu-name">《史记集解》</div>
-    <p>现存最早的《史记》注本，以徐广《史记音义》为本，博采经传百家及先儒学说，凡对作注有所裨益，便广而录之。注重对字意的训释和历史地理的考订。</p>
-  </div>
-  <div class="sanjia-item">
-    <div class="author">司马贞</div>
-    <div class="dynasty">唐 · 史学家</div>
-    <div class="zhu-name">《史记索隐》</div>
-    <p>在裴骃《集解》基础上，广泛参考了当时的文献，对《史记》的字音、词义、史实、人名、地名等都有详细考辨，还补作了《三皇本纪》。</p>
-  </div>
-  <div class="sanjia-item">
-    <div class="author">张守节</div>
-    <div class="dynasty">唐 · 史学家</div>
-    <div class="zhu-name">《史记正义》</div>
-    <p>费时二十余年完成，尤长于地理注释和舆地考证，引用唐初《括地志》等地理书籍，对《史记》中的地名注释详尽准确，兼及音义训诂。</p>
-  </div>
-</div>
-</section>
 
-<!-- 4. 核心人物分类 -->
-<section class="section" id="sec4">
-<div class="section-header">
-  <h2><span class="num">4</span>核心人物本体分类</h2>
-  <p>《史记》记载了四千多个人物，其中给人深刻印象的有一百多人，按身份与历史角色分类如下。</p>
-</div>
-<div class="figure-category">
-  <h4>帝王君主</h4>
-  <div class="figure-list">
-    <div class="figure-tag"><span class="role">五帝</span>黄帝、颛顼、帝喾、尧、舜</div>
-    <div class="figure-tag"><span class="role">夏商西周</span>禹、汤、周武王、周幽王</div>
-    <div class="figure-tag"><span class="role">春秋战国</span>齐桓公、晋文公、秦穆公、楚庄王</div>
-    <div class="figure-tag"><span class="role">秦</span>秦始皇、秦二世</div>
-    <div class="figure-tag"><span class="role">楚汉</span>项羽、汉高祖刘邦</div>
-    <div class="figure-tag"><span class="role">西汉</span>汉文帝、汉景帝、汉武帝</div>
-  </div>
-</div>
-<div class="figure-category">
-  <h4>名臣将相</h4>
-  <div class="figure-list">
-    <div class="figure-tag"><span class="role">辅佐名臣</span>周公旦、管仲、晏婴、萧何、张良</div>
-    <div class="figure-tag"><span class="role">军事将领</span>孙武、吴起、白起、王翦、韩信、卫青、霍去病</div>
-    <div class="figure-tag"><span class="role">变法改革家</span>商鞅、李悝、吴起、李斯</div>
-    <div class="figure-tag"><span class="role">纵横家</span>苏秦、张仪、范雎、蔡泽</div>
-    <div class="figure-tag"><span class="role">文臣谋士</span>陈平、贾谊、晁错、袁盎</div>
-  </div>
-</div>
-<div class="figure-category">
-  <h4>诸子百家与士人</h4>
-  <div class="figure-list">
-    <div class="figure-tag"><span class="role">儒家</span>孔子、孟子、荀子</div>
-    <div class="figure-tag"><span class="role">道家</span>老子、庄子</div>
-    <div class="figure-tag"><span class="role">法家</span>韩非、申不害</div>
-    <div class="figure-tag"><span class="role">游侠</span>荆轲、聂政、郭解</div>
-    <div class="figure-tag"><span class="role">文学家</span>屈原、贾谊、司马相如</div>
-  </div>
-</div>
-</section>
-
-<!-- 5. 重大历史事件时间线 -->
-<section class="section" id="sec5">
-<div class="section-header">
-  <h2><span class="num">5</span>重大历史事件脉络</h2>
-  <p>《史记》完整记载了从上古到西汉前期的历史发展主线，以下为核心事件节点。</p>
-</div>
-<div class="timeline">
-  <div class="timeline-item">
-    <div class="time">上古时期</div>
-    <div class="event-name">黄帝统一华夏部落</div>
-    <div class="event-desc">黄帝败炎帝于阪泉，擒蚩尤于涿鹿，被诸侯尊为天子，开启华夏文明纪元。</div>
-  </div>
-  <div class="timeline-item">
-    <div class="time">约前2070年</div>
-    <div class="event-name">大禹治水与夏朝建立</div>
-    <div class="event-desc">大禹治水有功，舜禅让帝位于禹，禹建立夏朝，开启家天下的世袭制度。</div>
-  </div>
-  <div class="timeline-item">
-    <div class="time">前1600年 · 前1046年</div>
-    <div class="event-name">商汤灭夏 · 武王伐纣</div>
-    <div class="event-desc">商汤革命推翻夏朝建立商朝，周武王牧野之战灭商建立周朝，分封诸侯，确立宗法制度。</div>
-  </div>
-  <div class="timeline-item">
-    <div class="time">前770年 · 前476年</div>
-    <div class="event-name">春秋争霸</div>
-    <div class="event-desc">平王东迁洛邑，王室衰微，齐桓公、晋文公、秦穆公、楚庄王等相继称霸，礼崩乐坏。</div>
-  </div>
-  <div class="timeline-item">
-    <div class="time">前475年 · 前221年</div>
-    <div class="event-name">战国变法与秦统一</div>
-    <div class="event-desc">战国七雄并立，各国变法图强，商鞅变法后秦国逐渐强大，最终秦始皇统一六国，建立中央集权制度。</div>
-  </div>
-  <div class="timeline-item">
-    <div class="time">前209年 · 前202年</div>
-    <div class="event-name">陈胜吴广起义 · 楚汉战争</div>
-    <div class="event-desc">秦末农民起义爆发，项羽、刘邦起兵反秦，秦朝灭亡后楚汉相争，刘邦最终战胜项羽建立汉朝。</div>
-  </div>
-  <div class="timeline-item">
-    <div class="time">前202年 · 前141年</div>
-    <div class="event-name">文景之治 · 汉武盛世</div>
-    <div class="event-desc">汉初休养生息，经文景之治国力恢复，汉武帝时期北击匈奴、开疆拓土、独尊儒术，西汉进入鼎盛。</div>
-  </div>
-</div>
-</section>
-
-<!-- 6. 本体类设计（TBox） -->
-<section class="section" id="sec6">
-<div class="section-header">
-  <h2><span class="num">6</span>《史记》专属本体类（TBox）</h2>
-  <p>在历史本体总框架下，针对《史记》特点设计专属实体类。</p>
-</div>
-<table class="class-table">
-<thead><tr><th>类名</th><th>所属层级</th><th>说明</th><th>核心实例</th></tr></thead>
-<tbody>
-<tr><td>ShijiText</td><td>L4 文献载体层</td><td>《史记》全书作为顶层文献实体，包含130篇正文与三家注</td><td>史记百衲本、史记三家注本、中华书局点校本</td></tr>
-<tr><td>Benji</td><td>L4 文献载体层</td><td>十二本纪类，帝王传记文献</td><td>五帝本纪、项羽本纪、高祖本纪、孝武本纪</td></tr>
-<tr><td>Biao</td><td>L4 文献载体层</td><td>十表类，历史年表文献</td><td>三代世表、十二诸侯年表、汉兴以来诸侯王年表</td></tr>
-<tr><td>Shu</td><td>L4 文献载体层</td><td>八书类，典章制度专史文献</td><td>礼书、乐书、天官书、河渠书、平准书</td></tr>
-<tr><td>Shijia</td><td>L4 文献载体层</td><td>三十世家类，诸侯家族传记</td><td>孔子世家、陈涉世家、萧相国世家、留侯世家</td></tr>
-<tr><td>Liezhuan</td><td>L4 文献载体层</td><td>七十列传类，人物传记与民族史</td><td>伯夷列传、孙子吴起列传、刺客列传、货殖列传</td></tr>
-<tr><td>Sanjiazhu</td><td>L4 文献载体层</td><td>三家注注释文献类</td><td>史记集解、史记索隐、史记正义</td></tr>
-<tr><td>ShijiFigure</td><td>L5 人物传承层</td><td>《史记》记载的历史人物类</td><td>帝王、将相、诸子、游侠、工商业者等</td></tr>
-<tr><td>ShijiEvent</td><td>A4 时序缘起轴</td><td>《史记》记载的历史事件类</td><td>战争、变法、会盟、禅让、叛乱</td></tr>
-<tr><td>ShijiInstitution</td><td>A2 史实内容轴</td><td>《史记》记载的制度类</td><td>分封制、郡县制、军功爵制、礼乐制度</td></tr>
-</tbody>
-</table>
-</section>
-
-<!-- 7. 关系谓词 -->
-<section class="section" id="sec7">
-<div class="section-header">
-  <h2><span class="num">7</span>核心关系谓词（Object Properties）</h2>
-  <p>《史记》本体中使用的核心语义关系，与总本体谓词体系兼容并增加专属关系。</p>
-</div>
-<div class="predicate-list">
-  <div class="predicate-item">
-    <div class="icon">传</div>
-    <div><div class="prop-name">recordsFigure</div><div class="prop-desc">某篇传记记载某历史人物，是列传/世家/本纪与人物的核心关系</div><div class="prop-char">特性：一对多，不可逆</div></div>
-  </div>
-  <div class="predicate-item">
-    <div class="icon">事</div>
-    <div><div class="prop-name">recordsEvent</div><div class="prop-desc">文献记载某历史事件，关联文本与史实</div><div class="prop-char">特性：多对多</div></div>
-  </div>
-  <div class="predicate-item">
-    <div class="icon">注</div>
-    <div><div class="prop-name">annotates</div><div class="prop-desc">三家注的某条注释对应《史记》原文的某段</div><div class="prop-char">特性：多对一</div></div>
-  </div>
-  <div class="predicate-item">
-    <div class="icon">属</div>
-    <div><div class="prop-name">belongsToTili</div><div class="prop-desc">某篇属于本纪/表/书/世家/列传中的哪一体例</div><div class="prop-char">特性：多对一，函数型</div></div>
-  </div>
-  <div class="predicate-item">
-    <div class="icon">时</div>
-    <div><div class="prop-name">inReignOf</div><div class="prop-desc">某人物/事件发生于某位帝王统治时期</div><div class="prop-char">特性：传递性</div></div>
-  </div>
-  <div class="predicate-item">
-    <div class="icon">交</div>
-    <div><div class="prop-name">interactedWith</div><div class="prop-desc">人物之间的交往、共事、敌对、师承关系</div><div class="prop-char">特性：对称性</div></div>
-  </div>
-  <div class="predicate-item">
-    <div class="icon">地</div>
-    <div class="prop-name">occurredInPlace</div><div><div class="prop-desc">事件发生于某地点（对应地名古今对照）</div><div class="prop-char">特性：多对一</div></div>
-  </div>
-  <div class="predicate-item">
-    <div class="icon">因</div>
-    <div><div class="prop-name">causedBy</div><div class="prop-desc">事件之间的因果导致关系</div><div class="prop-char">特性：传递性，反对称</div></div>
-  </div>
-</div>
-</section>
-
-<!-- 8. 近现代学者对《史记》的研究 -->
-<section class="section" id="sec8">
-<div class="section-header">
-  <h2><span class="num">8</span>近现代学者《史记》研究</h2>
-  <p>现代史学四大家及其他学者对《史记》的重要研究成果，纳入研究实体。</p>
-</div>
-<div class="research-grid">
-  <div class="research-card">
-    <div class="scholar">吕思勉</div>
-    <div class="work">《史记菁华录》点评、《秦汉史》对《史记》的系统引用</div>
-    <div class="view">从通史视角出发，将《史记》作为秦汉史研究的核心史料，注重制度沿革与社会变迁的考证，评价司马迁"通古今之变"的史学眼光。</div>
-  </div>
-  <div class="research-card">
-    <div class="scholar">陈寅恪</div>
-    <div class="work">以诗证史方法对《史记》叙事的互证研究</div>
-    <div class="view">在中古史研究中大量使用《史记》史料，注重《史记》与其他出土文献、域外文献的对勘，从种族文化视角解读《史记》中的民族史记载。</div>
-  </div>
-  <div class="research-card">
-    <div class="scholar">钱穆</div>
-    <div class="work">《史记地名考》、《秦汉史》</div>
-    <div class="view">著有《史记地名考》八十卷，对《史记》中的地名系统做了全面考订，是历史地理研究的经典；在《国史大纲》中高度评价《史记》的通史精神。</div>
-  </div>
-  <div class="research-card">
-    <div class="scholar">其他重要研究</div>
-    <div class="work">梁启超、王国维、顾颉刚、郭沫若</div>
-    <div class="view">梁启超《要籍解题及其读法》系统介绍《史记》读法；王国维用二重证据法考订《史记》殷本纪；顾颉刚古史辨派辨析《史记》史料来源；郭沫若研究《史记》的文学成就。</div>
-  </div>
-</div>
-</section>
-
-</main>
-
-<footer>
-<p>中国历史本体论项目 | 基于语义网与知识图谱技术构建</p>
-<p style="margin-top:.5rem;opacity:.7">© 2026 yejinlei.github.io/history | 遵循开源协议发布</p>
-</footer>
-
-<script src="https://yejinlei.github.io/history/js/header.js"></script>
+<footer id="footer"></footer>
+<script src="/history/js/nav.js"></script>
+<script>
+// 动态加载本体数据
+fetch('/history/data/ontology/shiji/ontology.json')
+  .then(r=>r.json())
+  .then(data=>{
+    // 五体结构
+    const tiliDesc = {
+      benji: "以帝王为中心，按年月记载国家大事，是全书的纲领，共12篇。",
+      biao: "用表格形式梳理世系、人物和史事，理清历史脉络，共10篇。",
+      shu: "记载典章制度、天文地理、经济文化等专门史，共8篇。",
+      shijia: "记载诸侯国和重要历史人物的家世传记，共30篇。",
+      liezhuan: "记载各阶层代表人物的传记，及少数民族和外国历史，共70篇。"
+    };
+    const tiliGrid = document.getElementById('tiliGrid');
+    Object.values(data.structure).forEach(s=>{
+      const card = document.createElement('div');
+      card.className = `tili-card ${s.name.includes('本纪')?'benji':s.name.includes('表')?'biao':s.name.includes('书')?'shu':s.name.includes('世家')?'shijia':'liezhuan'}`;
+      card.innerHTML = `<h3 class="tili-name">${s.name}</h3><div class="tili-count">${s.count} 篇</div><p class="tili-desc">${tiliDesc[s.name]||''}</p>`;
+      tiliGrid.appendChild(card);
+    });
+    // 人物
+    const personGrid = document.getElementById('personGrid');
+    data.entities.persons.forEach(p=>{
+      const tag = document.createElement('div');
+      tag.className = 'entity-tag' + (p.type==='帝王'||p.name.includes('帝')||p.name.includes('王')?' king':'');
+      tag.textContent = p.name;
+      personGrid.appendChild(tag);
+    });
+    // 地名
+    const placeGrid = document.getElementById('placeGrid');
+    data.entities.places.forEach(p=>{
+      const tag = document.createElement('div');
+      tag.className = 'entity-tag';
+      tag.textContent = p.name;
+      placeGrid.appendChild(tag);
+    });
+    // 事件
+    const eventGrid = document.getElementById('eventGrid');
+    data.entities.events.forEach(e=>{
+      const tag = document.createElement('div');
+      tag.className = 'entity-tag';
+      tag.textContent = e.name;
+      eventGrid.appendChild(tag);
+    });
+    // 章节目录
+    const chapterList = document.getElementById('chapterList');
+    const groups = {};
+    data.chapters.forEach(c=>{
+      if(!groups[c.tili_name]) groups[c.tili_name] = [];
+      groups[c.tili_name].push(c);
+    });
+    const order = ['本纪','表','书','世家','列传','其他'];
+    order.forEach(tname=>{
+      if(!groups[tname]) return;
+      const group = document.createElement('div');
+      group.className = 'chapter-group';
+      group.innerHTML = `<div class="chapter-group-title">${data.structure[Object.keys(data.structure).find(k=>data.structure[k].name==='十二本纪'&&tname==='本纪'||data.structure[k].name===tname===false?data.structure[k].name===tname:false)]?.name || tname}</div>`;
+      groups[tname].forEach(c=>{
+        const item = document.createElement('div');
+        item.className = 'chapter-item';
+        item.innerHTML = `<span>${c.juan} · ${c.title}</span><span class="chapter-meta">${c.char_count}字 · ${c.annotation_count}注</span>`;
+        group.appendChild(item);
+      });
+      chapterList.appendChild(group);
+    });
+  });
+</script>
 </body>
 </html>
