@@ -1,0 +1,718 @@
+{
+  "book": "shiji",
+  "chapter_id": "shiji-燕召公世家第四",
+  "title": "燕召公世家第四",
+  "persons": [
+    {
+      "id": "person:zhaogongshi",
+      "name": "召公奭",
+      "alias": ["召康公", "召伯", "召公", "君奭"],
+      "type": "person",
+      "dynasty": "西周",
+      "role": "周初三公之一，燕国始封君",
+      "evidence": ["p0", "p1", "p2", "p8"]
+    },
+    {
+      "id": "person:zhouwuwang",
+      "name": "周武王",
+      "type": "person",
+      "dynasty": "西周",
+      "role": "灭商建周，封召公于北燕",
+      "evidence": ["p0"]
+    },
+    {
+      "id": "person:zhougongdan",
+      "name": "周公旦",
+      "type": "person",
+      "dynasty": "西周",
+      "role": "周初摄政，分陕而治主陕以东",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "person:zhouchengwang",
+      "name": "周成王",
+      "type": "person",
+      "dynasty": "西周",
+      "role": "西周第二代天子",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "person:yiyin",
+      "name": "伊尹",
+      "alias": ["伊挚"],
+      "type": "person",
+      "dynasty": "商",
+      "role": "商汤贤臣，周公所称",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "person:yizhi",
+      "name": "伊陟",
+      "type": "person",
+      "dynasty": "商",
+      "role": "太戊时贤臣",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "person:chenhu",
+      "name": "臣扈",
+      "type": "person",
+      "dynasty": "商",
+      "role": "太戊时贤臣",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "person:wuxian",
+      "name": "巫咸",
+      "type": "person",
+      "dynasty": "商",
+      "role": "太戊时贤臣，治王家",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "person:wuxian2",
+      "name": "巫贤",
+      "type": "person",
+      "dynasty": "商",
+      "role": "祖乙时贤臣，巫咸之子",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "person:ganban",
+      "name": "甘般",
+      "type": "person",
+      "dynasty": "商",
+      "role": "武丁时贤臣",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "person:yanhouhui",
+      "name": "燕惠侯",
+      "type": "person",
+      "dynasty": "西周",
+      "role": "燕君，当周厉王奔彘共和之时",
+      "evidence": ["p3"]
+    },
+    {
+      "id": "person:yanzhuanggong",
+      "name": "燕庄公",
+      "type": "person",
+      "dynasty": "春秋",
+      "role": "燕君，时齐桓公北伐山戎救燕",
+      "evidence": ["p8"]
+    },
+    {
+      "id": "person:qihuangong",
+      "name": "齐桓公",
+      "alias": ["小白"],
+      "type": "person",
+      "dynasty": "春秋",
+      "role": "春秋五霸之首，救燕北伐山戎",
+      "evidence": ["p8"]
+    },
+    {
+      "id": "person:guanzhong",
+      "name": "管仲",
+      "type": "person",
+      "dynasty": "春秋",
+      "role": "齐相，佐齐桓公成霸业",
+      "evidence": []
+    },
+    {
+      "id": "person:yanwengong",
+      "name": "燕文公",
+      "type": "person",
+      "dynasty": "战国",
+      "role": "燕君，苏秦说以合纵",
+      "evidence": ["p17"]
+    },
+    {
+      "id": "person:suqin",
+      "name": "苏秦",
+      "type": "person",
+      "dynasty": "战国",
+      "role": "纵横家，约六国为合纵长",
+      "evidence": ["p17", "p19", "p20"]
+    },
+    {
+      "id": "person:yankuai",
+      "name": "燕王哙",
+      "type": "person",
+      "dynasty": "战国",
+      "role": "燕君，让国于子之",
+      "evidence": ["p19", "p20", "p21", "p22"]
+    },
+    {
+      "id": "person:zizhi",
+      "name": "子之",
+      "type": "person",
+      "dynasty": "战国",
+      "role": "燕相，燕王哙让国于之",
+      "evidence": ["p20", "p21", "p22"]
+    },
+    {
+      "id": "person:lumaoshou",
+      "name": "鹿毛寿",
+      "alias": ["厝毛寿", "潘寿"],
+      "type": "person",
+      "dynasty": "战国",
+      "role": "说燕王哙让国者",
+      "evidence": ["p21"]
+    },
+    {
+      "id": "person:taiziping",
+      "name": "太子平",
+      "type": "person",
+      "dynasty": "战国",
+      "role": "燕太子，与将军市被攻子之",
+      "evidence": ["p22"]
+    },
+    {
+      "id": "person:shibei",
+      "name": "市被",
+      "type": "person",
+      "dynasty": "战国",
+      "role": "燕将军，攻子之不克反攻太子平",
+      "evidence": ["p22"]
+    },
+    {
+      "id": "person:mengke",
+      "name": "孟轲",
+      "alias": ["孟子"],
+      "type": "person",
+      "dynasty": "战国",
+      "role": "儒者，劝齐伐燕",
+      "evidence": ["p22"]
+    },
+    {
+      "id": "person:zhangzi",
+      "name": "章子",
+      "alias": ["匡章"],
+      "type": "person",
+      "dynasty": "战国",
+      "role": "齐将，将五都之兵伐燕",
+      "evidence": ["p22"]
+    },
+    {
+      "id": "person:yanzhaowang",
+      "name": "燕昭王",
+      "alias": ["太子平", "公子职"],
+      "type": "person",
+      "dynasty": "战国",
+      "role": "燕君，筑黄金台招贤，以乐毅伐齐",
+      "evidence": ["p22", "p23", "p24", "p25"]
+    },
+    {
+      "id": "person:guowei",
+      "name": "郭隗",
+      "type": "person",
+      "dynasty": "战国",
+      "role": "燕贤士，昭王以之为招贤榜样",
+      "evidence": ["p23"]
+    },
+    {
+      "id": "person:yueyi",
+      "name": "乐毅",
+      "type": "person",
+      "dynasty": "战国",
+      "role": "燕上将军，将五国兵伐齐下七十余城",
+      "evidence": ["p23", "p24", "p26"]
+    },
+    {
+      "id": "person:zouyan",
+      "name": "邹衍",
+      "type": "person",
+      "dynasty": "战国",
+      "role": "阴阳家，自齐往燕",
+      "evidence": ["p23"]
+    },
+    {
+      "id": "person:juxin",
+      "name": "剧辛",
+      "type": "person",
+      "dynasty": "战国",
+      "role": "燕将，自赵往燕，后率师击赵败死",
+      "evidence": ["p23", "p31"]
+    },
+    {
+      "id": "person:qiminwang",
+      "name": "齐湣王",
+      "type": "person",
+      "dynasty": "战国",
+      "role": "齐君，乐毅伐齐时出亡，死于莒",
+      "evidence": ["p22", "p24", "p26"]
+    },
+    {
+      "id": "person:yanhuiwang",
+      "name": "燕惠王",
+      "type": "person",
+      "dynasty": "战国",
+      "role": "燕君，以骑劫代乐毅",
+      "evidence": ["p25", "p26", "p27"]
+    },
+    {
+      "id": "person:qijie",
+      "name": "骑劫",
+      "type": "person",
+      "dynasty": "战国",
+      "role": "燕将，代乐毅为将，为田单所败",
+      "evidence": ["p26"]
+    },
+    {
+      "id": "person:tiandan",
+      "name": "田单",
+      "type": "person",
+      "dynasty": "战国",
+      "role": "齐将，以即墨破燕复齐",
+      "evidence": ["p26", "p28"]
+    },
+    {
+      "id": "person:yanwuchengwang",
+      "name": "燕武成王",
+      "type": "person",
+      "dynasty": "战国",
+      "role": "燕君",
+      "evidence": ["p27", "p28"]
+    },
+    {
+      "id": "person:yanxiaowang",
+      "name": "燕孝王",
+      "type": "person",
+      "dynasty": "战国",
+      "role": "燕君",
+      "evidence": ["p29"]
+    },
+    {
+      "id": "person:yanwangxi",
+      "name": "燕王喜",
+      "type": "person",
+      "dynasty": "战国末",
+      "role": "燕国末代国君，为秦所虏",
+      "evidence": ["p29", "p30", "p31", "p32", "p33"]
+    },
+    {
+      "id": "person:lifu",
+      "name": "栗腹",
+      "type": "person",
+      "dynasty": "战国末",
+      "role": "燕相，为廉颇败于鄗",
+      "evidence": ["p30"]
+    },
+    {
+      "id": "person:yuejian",
+      "name": "乐间",
+      "alias": ["昌国君乐间"],
+      "type": "person",
+      "dynasty": "战国末",
+      "role": "燕臣，乐毅之后",
+      "evidence": ["p30"]
+    },
+    {
+      "id": "person:qingqin",
+      "name": "卿秦",
+      "type": "person",
+      "dynasty": "战国末",
+      "role": "燕将，攻代，为赵所破",
+      "evidence": ["p30"]
+    },
+    {
+      "id": "person:jiangqu",
+      "name": "将渠",
+      "type": "person",
+      "dynasty": "战国末",
+      "role": "燕大夫，谏燕王勿伐赵，后为相议和",
+      "evidence": ["p30"]
+    },
+    {
+      "id": "person:lianpo",
+      "name": "廉颇",
+      "type": "person",
+      "dynasty": "战国末",
+      "role": "赵将，破栗腹围燕",
+      "evidence": ["p30", "p31"]
+    },
+    {
+      "id": "person:limu",
+      "name": "李牧",
+      "type": "person",
+      "dynasty": "战国末",
+      "role": "赵将，攻燕拔武遂、方城",
+      "evidence": ["p31"]
+    },
+    {
+      "id": "person:pangnuan",
+      "name": "庞煖",
+      "type": "person",
+      "dynasty": "战国末",
+      "role": "赵将，破燕杀剧辛",
+      "evidence": ["p31"]
+    },
+    {
+      "id": "person:taizidan",
+      "name": "太子丹",
+      "alias": ["燕太子丹"],
+      "type": "person",
+      "dynasty": "战国末",
+      "role": "燕王喜太子，质秦亡归，使荆轲刺秦王",
+      "evidence": ["p31", "p32"]
+    },
+    {
+      "id": "person:jingke",
+      "name": "荆轲",
+      "type": "person",
+      "dynasty": "战国末",
+      "role": "刺客，刺秦王未遂被杀",
+      "evidence": ["p32"]
+    },
+    {
+      "id": "person:qinwangzheng",
+      "name": "秦王政",
+      "alias": ["秦始皇"],
+      "type": "person",
+      "dynasty": "战国末/秦",
+      "role": "秦王，灭燕统一天下",
+      "evidence": ["p31", "p32", "p33"]
+    },
+    {
+      "id": "person:wangjian",
+      "name": "王翦",
+      "type": "person",
+      "dynasty": "战国末/秦",
+      "role": "秦将，攻燕拔蓟",
+      "evidence": ["p32"]
+    },
+    {
+      "id": "person:wangben",
+      "name": "王贲",
+      "type": "person",
+      "dynasty": "战国末/秦",
+      "role": "秦将，王翦之子，虏燕王喜、代王嘉",
+      "evidence": ["p33"]
+    }
+  ],
+  "places": [
+    {
+      "id": "place:beiyan",
+      "name": "北燕",
+      "alias": ["燕"],
+      "type": "state",
+      "location": "今北京、河北北部、辽宁西部一带",
+      "description": "周初召公奭封国，别于姞姓之南燕",
+      "evidence": ["p0"]
+    },
+    {
+      "id": "place:ji",
+      "name": "蓟",
+      "alias": ["蓟丘", "幽州蓟县"],
+      "type": "capital",
+      "location": "今北京西南",
+      "description": "燕国都城",
+      "evidence": ["p32", "p0索隐"]
+    },
+    {
+      "id": "place:shan",
+      "name": "陕",
+      "type": "place",
+      "location": "今河南三门峡市陕州区",
+      "description": "周召分陕而治之所，后世陕西、陕东得名于此",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "place:gantang",
+      "name": "甘棠",
+      "alias": ["棠树", "棠梨树"],
+      "type": "place",
+      "location": "洛州寿安县（今河南宜阳），今多地有召伯甘棠遗迹",
+      "description": "召公决狱政事于其下之甘棠树，后人怀之",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "place:shanrong",
+      "name": "山戎",
+      "type": "region/people",
+      "location": "今河北东北部、辽宁西部",
+      "description": "北方部族，曾侵燕为齐桓公所伐",
+      "evidence": ["p8"]
+    },
+    {
+      "id": "place:guzhu",
+      "name": "孤竹",
+      "type": "state",
+      "location": "今河北卢龙一带",
+      "description": "齐桓公伐山戎所至之地",
+      "evidence": []
+    },
+    {
+      "id": "place:yanliu",
+      "name": "燕留",
+      "type": "place",
+      "location": "沧州长芦县东北十七里",
+      "description": "齐桓公割地予燕所筑城",
+      "evidence": ["p8正义"]
+    },
+    {
+      "id": "place:linzi",
+      "name": "临淄",
+      "alias": ["临菑"],
+      "type": "capital",
+      "location": "今山东淄博",
+      "description": "齐国都城",
+      "evidence": ["p24"]
+    },
+    {
+      "id": "place:ju",
+      "name": "莒",
+      "type": "city",
+      "location": "今山东莒县",
+      "description": "齐城之不下者之一，齐湣王死于此",
+      "evidence": ["p24", "p26"]
+    },
+    {
+      "id": "place:jimo",
+      "name": "即墨",
+      "type": "city",
+      "location": "今山东平度",
+      "description": "齐城之不下者之一，田单复齐根据地",
+      "evidence": ["p24", "p26"]
+    },
+    {
+      "id": "place:yishui",
+      "name": "易水",
+      "type": "river",
+      "location": "今河北易县一带",
+      "description": "燕南界河，荆轲刺秦于此告别",
+      "evidence": ["p32"]
+    },
+    {
+      "id": "place:dukang",
+      "name": "督亢",
+      "type": "place",
+      "location": "今河北涿州、固安一带",
+      "description": "燕南肥沃之地，荆轲献其地图",
+      "evidence": ["p32"]
+    },
+    {
+      "id": "place:liaodong",
+      "name": "辽东",
+      "type": "region",
+      "location": "今辽宁辽阳一带",
+      "description": "燕王喜走保辽东之地",
+      "evidence": ["p32", "p33"]
+    },
+    {
+      "id": "place:xianyang",
+      "name": "咸阳",
+      "type": "capital",
+      "location": "今陕西咸阳",
+      "description": "秦国都城",
+      "evidence": []
+    },
+    {
+      "id": "place:hao",
+      "name": "鄗",
+      "type": "city",
+      "location": "常山，今河北高邑",
+      "description": "廉颇败栗腹之地",
+      "evidence": ["p30"]
+    },
+    {
+      "id": "place:dai",
+      "name": "代",
+      "type": "region/city",
+      "location": "今河北蔚县一带",
+      "description": "卿秦攻代及赵公子嘉自立代王之地",
+      "evidence": ["p30", "p31", "p33"]
+    },
+    {
+      "id": "place:zhongyang",
+      "name": "中阳",
+      "type": "city",
+      "location": "燕地",
+      "description": "田单伐燕所拔",
+      "evidence": ["p28"]
+    },
+    {
+      "id": "place:wusui",
+      "name": "武遂",
+      "type": "city",
+      "location": "今河北河间一带",
+      "description": "李牧拔燕武遂、方城",
+      "evidence": ["p31"]
+    },
+    {
+      "id": "place:fangcheng",
+      "name": "方城",
+      "type": "city",
+      "location": "今河北固安一带",
+      "description": "李牧所拔燕城",
+      "evidence": ["p31"]
+    },
+    {
+      "id": "place:linying",
+      "name": "林营",
+      "type": "place",
+      "location": "齐地",
+      "description": "燕败齐于林营",
+      "evidence": ["p16"]
+    }
+  ],
+  "events": [
+    {
+      "id": "event:zhaogongfengyan",
+      "name": "召公封燕",
+      "type": "event",
+      "time": "周武王灭纣后（约前1046年）",
+      "description": "周武王封召公奭于北燕，为燕国之始",
+      "evidence": ["p0"]
+    },
+    {
+      "id": "event:fenshanerzhi",
+      "name": "分陕而治",
+      "type": "event/system",
+      "time": "周成王时",
+      "description": "自陕以西召公主之，自陕以东周公主之",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "event:junshizhizuo",
+      "name": "召公疑周公·《君奭》之作",
+      "type": "event",
+      "time": "周公摄政时",
+      "description": "召公疑周公，周公作《君奭》称引商代贤臣以明志，召公乃悦",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "event:gantangyiai",
+      "name": "甘棠遗爱",
+      "type": "event/allusion",
+      "time": "召公治西方时",
+      "description": "召公于甘棠树下决狱政事，民思其政，怀棠树不伐，作《甘棠》之诗",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "event:qijiuan",
+      "name": "齐桓公救燕北伐山戎",
+      "type": "event",
+      "time": "燕庄公二十七年（前664年）",
+      "description": "山戎侵燕，齐桓公救燕北伐山戎，割地予燕，命燕复修召公之政",
+      "evidence": ["p8"]
+    },
+    {
+      "id": "event:suqinhezong",
+      "name": "苏秦合纵说燕文公",
+      "type": "event",
+      "time": "燕文公二十八年（前334年）",
+      "description": "苏秦来燕说文公，约六国为合纵长",
+      "evidence": ["p17"]
+    },
+    {
+      "id": "event:ranggurangguo",
+      "name": "燕王哙让国子之之乱",
+      "type": "event",
+      "time": "燕王哙时（前318—前314年）",
+      "description": "燕王哙信苏代、鹿毛寿之言，让国于子之，收三百石以上印效之子之",
+      "evidence": ["p20", "p21", "p22"]
+    },
+    {
+      "id": "event:qixuanwangfayan",
+      "name": "齐宣王伐燕破燕",
+      "type": "event",
+      "time": "约前314年",
+      "description": "子之三年国大乱，孟子劝齐伐燕，章子将五都之兵破燕，杀燕王哙与子之",
+      "evidence": ["p22"]
+    },
+    {
+      "id": "event:huangjintaizhaoxian",
+      "name": "燕昭王筑黄金台招贤",
+      "type": "event/allusion",
+      "time": "燕昭王即位后（前311年后）",
+      "description": "昭王卑身厚币招贤，为郭隗改筑宫师事之，乐毅、邹衍、剧辛争趋燕",
+      "evidence": ["p23"]
+    },
+    {
+      "id": "event:yueyifaqi",
+      "name": "乐毅伐齐下七十余城",
+      "type": "event",
+      "time": "燕昭王二十八年（前284年）",
+      "description": "乐毅为上将军，与秦楚三晋合谋伐齐，入临淄，尽取齐宝，下齐七十余城",
+      "evidence": ["p24"]
+    },
+    {
+      "id": "event:tiandanfuqi",
+      "name": "田单火牛阵破燕复齐",
+      "type": "event",
+      "time": "燕惠王时（前279年前后）",
+      "description": "燕惠王以骑劫代乐毅，乐毅走赵，田单以即墨击败燕军，齐悉复故城",
+      "evidence": ["p26"]
+    },
+    {
+      "id": "event:jingkeciqin",
+      "name": "荆轲刺秦王",
+      "type": "event",
+      "time": "燕王喜二十八年（前227年）",
+      "description": "太子丹使荆轲献督亢地图刺秦王，图穷匕见未遂，秦王杀轲",
+      "evidence": ["p32"]
+    },
+    {
+      "id": "event:qinmieyan",
+      "name": "秦灭燕虏燕王喜",
+      "type": "event",
+      "time": "燕王喜三十三年（前222年）",
+      "description": "秦拔辽东，虏燕王喜，灭燕；王贲亦虏代王嘉",
+      "evidence": ["p33"]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept:fenshan",
+      "name": "分陕而治",
+      "type": "system",
+      "description": "周初周公、召公分陕而治的政治格局，是中国最早的分区治理制度之一，后世陕西、陕东由此得名",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "concept:gantang",
+      "name": "甘棠遗爱",
+      "type": "allusion",
+      "description": "召公甘棠树下决狱，后人怀其德而不伐其树，成为颂扬地方官惠政的经典典故",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "concept:huangjintai",
+      "name": "黄金台招贤",
+      "type": "allusion",
+      "description": "燕昭王为郭隗筑宫、招贤纳士的典故，陈子昂《登幽州台歌》即咏此台",
+      "evidence": ["p23"]
+    },
+    {
+      "id": "concept:qianjinmaigu",
+      "name": "千金买骨",
+      "alias": ["燕昭市骨"],
+      "type": "allusion",
+      "description": "燕昭王纳贤典故，以重金买死马首致千里马至，与郭隗事相表里",
+      "evidence": []
+    },
+    {
+      "id": "concept:hezong",
+      "name": "合纵",
+      "type": "concept",
+      "description": "苏秦所倡六国联合抗秦之策",
+      "evidence": ["p17"]
+    },
+    {
+      "id": "concept:rangguo",
+      "name": "让国",
+      "type": "concept",
+      "description": "燕王哙效仿尧舜禅让，让国于子之，引发燕国大乱",
+      "evidence": ["p21"]
+    },
+    {
+      "id": "concept:ciqin",
+      "name": "荆轲刺秦",
+      "alias": ["图穷匕见"],
+      "type": "concept/event",
+      "description": "荆轲以献督亢地图为名刺秦王，图穷匕见，是战国最著名的刺客事件",
+      "evidence": ["p32"]
+    }
+  ]
+}
