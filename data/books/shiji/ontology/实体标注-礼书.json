@@ -1,0 +1,29 @@
+{
+  "chapter": "礼书第一",
+  "mentions": [
+    {"text": "太史公", "start": 0, "end": 3, "entity_id": "lishu-p1", "sent_id": "shiji-禮書第一-2"},
+    {"text": "余", "start": 38, "end": 39, "entity_id": "lishu-p1", "sent_id": "shiji-禮書第一-2"},
+    {"text": "夏商周", "start": 70, "end": 73, "entity_id": "", "sent_id": "shiji-禮書第一-2"},
+    {"text": "管仲", "start": 0, "end": 2, "entity_id": "lishu-p3", "sent_id": "shiji-禮書第一-4"},
+    {"text": "三歸", "start": 15, "end": 17, "entity_id": "lishu-i4", "sent_id": "shiji-禮書第一-4"},
+    {"text": "子夏", "start": 30, "end": 32, "entity_id": "lishu-p4", "sent_id": "shiji-禮書第一-4"},
+    {"text": "孔子", "start": 120, "end": 122, "entity_id": "lishu-p5", "sent_id": "shiji-禮書第一-4"},
+    {"text": "叔孫通", "start": 50, "end": 53, "entity_id": "lishu-p7", "sent_id": "shiji-禮書第一-5"},
+    {"text": "汉高祖", "start": 30, "end": 33, "entity_id": "lishu-p8", "sent_id": "shiji-禮書第一-5"},
+    {"text": "孝文帝", "start": 140, "end": 143, "entity_id": "lishu-p9", "sent_id": "shiji-禮書第一-5"},
+    {"text": "鼂錯", "start": 200, "end": 202, "entity_id": "lishu-p10", "sent_id": "shiji-禮書第一-5"},
+    {"text": "孝景帝", "start": 205, "end": 208, "entity_id": "lishu-p11", "sent_id": "shiji-禮書第一-5"},
+    {"text": "今上", "start": 0, "end": 2, "entity_id": "lishu-p12", "sent_id": "shiji-禮書第一-6"},
+    {"text": "太初曆", "start": 130, "end": 133, "entity_id": "lishu-i12", "sent_id": "shiji-禮書第一-6"},
+    {"text": "封太山", "start": 148, "end": 151, "entity_id": "lishu-i13", "sent_id": "shiji-禮書第一-6"},
+    {"text": "墨者", "start": 60, "end": 62, "entity_id": "lishu-p6", "sent_id": "shiji-禮書第一-10"},
+    {"text": "楚國", "start": 0, "end": 2, "entity_id": "", "sent_id": "shiji-禮書第一-14"},
+    {"text": "南陽", "start": 25, "end": 27, "entity_id": "lishu-pl12", "sent_id": "shiji-禮書第一-14"},
+    {"text": "唐眜", "start": 70, "end": 72, "entity_id": "lishu-p17", "sent_id": "shiji-禮書第一-14"},
+    {"text": "莊蹻", "start": 85, "end": 87, "entity_id": "lishu-p18", "sent_id": "shiji-禮書第一-14"},
+    {"text": "鄢郢", "start": 170, "end": 172, "entity_id": "lishu-pl6", "sent_id": "shiji-禮書第一-14"},
+    {"text": "紂", "start": 0, "end": 1, "entity_id": "lishu-p14", "sent_id": "shiji-禮書第一-15"},
+    {"text": "比干", "start": 5, "end": 7, "entity_id": "lishu-p15", "sent_id": "shiji-禮書第一-15"},
+    {"text": "箕子", "start": 12, "end": 14, "entity_id": "lishu-p16", "sent_id": "shiji-禮書第一-15"}
+  ]
+}
