@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>五帝本纪·本体论构建示范 - 中国历史本体论</title>
+    <link rel="stylesheet" href="/history/css/main.css">
+    <link rel="stylesheet" href="/history/css/reader.css">
+    <style>
+        :root {
+            --ink-black: #2c2c2c;
+            --vermilion: #9c2c1f;
+            --bamboo-green: #2f5d50;
+            --paper: #f5f0e6;
+            --paper-light: #faf7f0;
+            --seal-red: #b8352a;
+            --ink-blue: #2a4b6b;
+            --seal: #8B1A1A;
+            --gold: #a97c2c;
+        }
+        .demo-hero {
+            background: linear-gradient(135deg, rgba(156,44,31,0.08), rgba(47,93,80,0.05)), var(--paper);
+            border-bottom: 2px solid var(--vermilion);
+            padding: 60px 0 40px;
+            text-align: center;
+        }
+        .demo-hero h1 {
+            font-family: "KaiTi", "STKaiti", serif;
+            color: var(--seal-red);
+            font-size: 2.8rem;
+            margin-bottom: 12px;
+            letter-spacing: 0.3em;
+        }
+        .demo-hero .subtitle {
+            color: #666;
+            font-size: 1.1rem;
+            font-family: "KaiTi", serif;
+        }
+        .layer-card {
+            background: var(--paper-light);
+            border-left: 4px solid var(--vermilion);
+            padding: 24px;
+            margin-bottom: 20px;
+            border-radius: 4px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+        }
+        .layer-card.l2 {
+            border-left-color: var(--bamboo-green);
+        }
+        .layer-card.l1 {
+            border-left-color: var(--ink-blue);
+        }
+        .layer-card h3 {
+            font-family: "KaiTi", serif;
+            font-size: 1.5rem;
+            color: var(--ink-black);
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .layer-badge {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 4px;
+            font-size: 0.85rem;
+            color: white;
+            font-family: "KaiTi", serif;
+        }
+        .badge-l3 { background: var(--seal-red); }
+        .badge-l2 { background: var(--bamboo-green); }
+        .badge-l1 { background: var(--ink-blue); }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+            gap: 16px;
+            margin: 20px 0;
+        }
+        .stat-box {
+            text-align: center;
+            padding: 16px;
+            background: white;
+            border-radius: 6px;
+            border: 1px solid rgba(0,0,0,0.06);
+        }
+        .stat-num {
+            font-size: 2rem;
+            font-family: "KaiTi", serif;
+            font-weight: bold;
+            color: var(--vermilion);
+        }
+        .stat-label {
+            color: #666;
+            font-size: 0.9rem;
+            margin-top: 4px;
+        }
+        
+        /* 世系图 */
+        .lineage-tree {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            overflow-x: auto;
+            margin: 20px 0;
+        }
+        .lineage-title {
+            font-family: "KaiTi", serif;
+            font-size: 1.3rem;
+            text-align: center;
+            color: var(--seal-red);
+            margin-bottom: 24px;
+            border-bottom: 1px double var(--vermilion);
+            padding-bottom: 12px;
+        }
+        .tree-row {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 30px;
+            margin: 20px 0;
+            flex-wrap: wrap;
+        }
+        .person-node {
+            width: 100px;
+            padding: 12px 8px;
+            text-align: center;
+            border: 2px solid var(--vermilion);
+            background: var(--paper-light);
+            border-radius: 6px;
+            font-family: "KaiTi", serif;
+            font-size: 1.1rem;
+            color: var(--ink-black);
+            position: relative;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .person-node:hover {
+            background: var(--vermilion);
+            color: white;
+            transform: translateY(-3px);
+            box-shadow: 0 4px 12px rgba(156,44,31,0.3);
+        }
+        .person-node.emperor {
+            background: var(--vermilion);
+            color: white;
+            font-weight: bold;
+        }
+        .person-node.emperor:hover {
+            background: var(--seal);
+        }
+        .person-node.secondary {
+            border-color: var(--bamboo-green);
+            background: rgba(47,93,80,0.05);
+            color: var(--bamboo-green);
+        }
+        .person-node .era {
+            font-size: 0.75rem;
+            opacity: 0.8;
+            margin-top: 4px;
+        }
+        .connector {
+            width: 2px;
+            height: 20px;
+            background: var(--ink-black);
+            margin: 0 auto;
+        }
+        .relation-arrow {
+            font-size: 0.8rem;
+            color: #888;
+            text-align: center;
+            margin: 4px 0;
+        }
+        
+        /* 实体卡片 */
+        .entity-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 16px;
+            margin: 20px 0;
+        }
+        .entity-card {
+            background: white;
+            border-radius: 6px;
+            padding: 18px;
+            border: 1px solid rgba(0,0,0,0.08);
+            border-top: 3px solid var(--vermilion);
+            transition: all 0.2s;
+        }
+        .entity-card:hover {
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            transform: translateY(-2px);
+        }
+        .entity-card.event {
+            border-top-color: var(--bamboo-green);
+        }
+        .entity-card.place {
+            border-top-color: var(--ink-blue);
+        }
+        .entity-name {
+            font-family: "KaiTi", serif;
+            font-size: 1.3rem;
+            color: var(--ink-black);
+            margin-bottom: 8px;
+        }
+        .entity-desc {
+            font-size: 0.9rem;
+            color: #555;
+            line-height: 1.6;
+            margin-bottom: 12px;
+        }
+        .evidence-tag {
+            display: inline-block;
+            background: rgba(156,44,31,0.1);
+            color: var(--vermilion);
+            padding: 2px 8px;
+            border-radius: 3px;
+            font-size: 0.75rem;
+            margin-right: 6px;
+            font-family: monospace;
+        }
+        .global-badge {
+            display: inline-block;
+            background: var(--gold);
+            color: white;
+            padding: 2px 8px;
+            border-radius: 3px;
+            font-size: 0.7rem;
+            margin-left: 8px;
+            font-family: "KaiTi", serif;
+        }
+        
+        /* 溯源链 */
+        .trace-chain {
+            background: #f8f5ee;
+            padding: 24px;
+            border-radius: 8px;
+            margin: 20px 0;
+            border: 1px dashed var(--gold);
+        }
+        .trace-title {
+            font-family: "KaiTi", serif;
+            color: var(--gold);
+            font-size: 1.2rem;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .trace-step {
+            display: flex;
+            align-items: flex-start;
+            margin-bottom: 16px;
+            gap: 16px;
+        }
+        .step-num {
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            background: var(--gold);
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            flex-shrink: 0;
+        }
+        .step-content {
+            flex: 1;
+            background: white;
+            padding: 12px 16px;
+            border-radius: 6px;
+            border-left: 3px solid var(--gold);
+        }
+        .step-title {
+            font-weight: bold;
+            color: var(--ink-black);
+            margin-bottom: 6px;
+            font-family: "KaiTi", serif;
+        }
+        .step-meta {
+            font-size: 0.85rem;
+            color: #666;
+            font-family: monospace;
+            margin-bottom: 6px;
+        }
+        .step-text {
+            font-size: 0.9rem;
+            color: #444;
+            line-height: 1.6;
+        }
+        
+        .section-title {
+            font-family: "KaiTi", "STKaiti", serif;
+            font-size: 1.8rem;
+            color: var(--seal-red);
+            margin: 50px 0 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid var(--vermilion);
+            text-align: center;
+            letter-spacing: 0.2em;
+        }
+        
+        @media (max-width: 768px) {
+            .demo-hero h1 { font-size: 2rem; letter-spacing: 0.1em; }
+            .tree-row { gap: 15px; }
+            .person-node { width: 80px; padding: 10px 6px; font-size: 0.95rem; }
+        }
+    </style>
+</head>
+<body>
+    <nav class="main-nav" id="mainNav"></nav>
+    
+    <div class="demo-hero">
+        <div class="container">
+            <h1>五帝本紀</h1>
+            <p class="subtitle">单书本体 × 历史全景 · 三层架构构建示范</p>
+        </div>
+    </div>
+    
+    <div class="container">
+        <!-- 三层架构总览 -->
+        <h2 class="section-title">三層本體架構</h2>
+        
+        <div class="layer-card">
+            <h3><span class="layer-badge badge-l3">L3</span>历史全景层（史实层）</h3>
+            <p>跨书统一实体，去重、对齐、互证，是"历史本身"的网络。所有实体带唯一全局ID，每一条属性都回溯到原文证据。</p>
+            <div class="stats-grid">
+                <div class="stat-box"><div class="stat-num" id="g-person">10</div><div class="stat-label">统一人物</div></div>
+                <div class="stat-box"><div class="stat-num" id="g-event">4</div><div class="stat-label">跨书事件</div></div>
+                <div class="stat-box"><div class="stat-num" id="g-rel">7</div><div class="stat-label">全局关系</div></div>
+                <div class="stat-box"><div class="stat-num" style="color:var(--bamboo-green)">待扩充</div><div class="stat-label">地名/官职/制度</div></div>
+            </div>
+        </div>
+        
+        <div class="layer-card l2">
+            <h3><span class="layer-badge badge-l2">L2</span>单书本体层（史记·五帝本纪）</h3>
+            <p>保留《史记》原书语境的实体，五体结构下的专属分类，三家注关联，本纪/世家/列传体例标记。</p>
+            <div class="stats-grid">
+                <div class="stat-box"><div class="stat-num" style="color:var(--bamboo-green)">24</div><div class="stat-label">本纪出场人物</div></div>
+                <div class="stat-box"><div class="stat-num" style="color:var(--ink-blue)">12</div><div class="stat-label">地名</div></div>
+                <div class="stat-box"><div class="stat-num" style="color:var(--gold)">6</div><div class="stat-label">事件</div></div>
+                <div class="stat-box"><div class="stat-num">477</div><div class="stat-label">三家注批注</div></div>
+            </div>
+        </div>
+        
+        <div class="layer-card l1">
+            <h3><span class="layer-badge badge-l1">L1</span>原始文本层（永不修改）</h3>
+            <p>纯正文逐句编号 + 独立批注库。正文与批注分离，原文一经录入不再改动，所有上层修正均在上层完成。</p>
+            <div class="stats-grid">
+                <div class="stat-box"><div class="stat-num" style="color:var(--ink-blue)">31</div><div class="stat-label">段落</div></div>
+                <div class="stat-box"><div class="stat-num">477</div><div class="stat-label">独立注疏条目</div></div>
+                <div class="stat-box"><div class="stat-num" style="color:var(--bamboo-green)">3</div><div class="stat-label">注家（集解/索隐/正义）</div></div>
+                <div class="stat-box"><div class="stat-num" style="color:var(--gold)">0</div><div class="stat-label">原文修改次数</div></div>
+            </div>
+        </div>
+        
+        <!-- 五帝世系图 -->
+        <h2 class="section-title">五帝世系關係圖</h2>
+        <div class="lineage-tree">
+            <div class="lineage-title">黃帝至大禹世系（《史記·五帝本紀》）</div>
+            
+            <div class="tree-row">
+                <div class="person-node emperor" onclick="showEntity('huangdi')">黃帝<div class="era">有熊氏</div></div>
+            </div>
+            <div class="connector"></div>
+            <div class="relation-arrow">娶嫘祖為正妃</div>
+            
+            <div class="tree-row">
+                <div class="person-node secondary" onclick="showEntity('xuanxiao')">玄囂（青陽）<div class="era">未在位</div></div>
+                <div class="person-node secondary" onclick="showEntity('changyi')">昌意<div class="era">未在位</div></div>
+            </div>
+            <div class="connector"></div>
+            
+            <div class="tree-row">
+                <div class="person-node secondary">蟜極<div class="era">未在位</div></div>
+                <div class="person-node emperor" onclick="showEntity('zhuanxu')">顓頊<div class="era">高陽氏</div></div>
+            </div>
+            <div class="connector"></div>
+            
+            <div class="tree-row">
+                <div class="person-node emperor" onclick="showEntity('diku')">帝嚳<div class="era">高辛氏</div></div>
+                <div class="person-node secondary">窮蟬</div>
+            </div>
+            <div class="connector"></div>
+            
+            <div class="tree-row">
+                <div class="person-node" onclick="showEntity('zhi')">帝摯<div class="era">不善崩</div></div>
+                <div class="person-node emperor" onclick="showEntity('yao')">帝堯<div class="era">陶唐氏</div></div>
+                <div class="person-node secondary">敬康→句望→橋牛→瞽叟</div>
+            </div>
+            <div class="relation-arrow">禪讓</div>
+            
+            <div class="tree-row">
+                <div class="person-node" onclick="showEntity('danzhu')">丹朱<div class="era">不肖</div></div>
+                <div class="person-node emperor" onclick="showEntity('shun')">帝舜<div class="era">有虞氏</div></div>
+            </div>
+            <div class="relation-arrow">禪讓</div>
+            
+            <div class="tree-row">
+                <div class="person-node emperor" onclick="showEntity('yu')">大禹<div class="era">夏后氏</div></div>
+            </div>
+        </div>
+        
+        <!-- 核心事件 -->
+        <h2 class="section-title">核心事件</h2>
+        <div class="entity-grid" id="events-grid"></div>
+        
+        <!-- 溯源示例 -->
+        <h2 class="section-title">四級溯源鏈示範</h2>
+        <div class="trace-chain">
+            <div class="trace-title">從全局結論「黃帝打敗炎帝」回溯到原文與注疏</div>
+            
+            <div class="trace-step">
+                <div class="step-num">L3</div>
+                <div class="step-content">
+                    <div class="step-title">🌐 全局历史全景层</div>
+                    <div class="step-meta">URI: global:relation:huangdi-defeats-yandi</div>
+                    <div class="step-text">统一人物「黃帝」(global:person:huangdi) 统一人物「炎帝」(global:person:yandi) → 关系：defeats（击败）<br>
+                    事件：阪泉之戰 (global:event:banquan)</div>
+                </div>
+            </div>
+            
+            <div class="trace-step">
+                <div class="step-num">L2</div>
+                <div class="step-content">
+                    <div class="step-title">📚 单书本体层（史记）</div>
+                    <div class="step-meta">same_as: shiji-person-huangdi → global-person-huangdi</div>
+                    <div class="step-text">史记中的黄帝 → 对齐到全局黄帝；史记中的"阪泉之战" → 对齐到全局"阪泉之战"。<br>
+                    该关系在《史记》中的描述来源：shiji-wudi-p4</div>
+                </div>
+            </div>
+            
+            <div class="trace-step">
+                <div class="step-num">L1</div>
+                <div class="step-content">
+                    <div class="step-title">📜 原始文本层（正文句）</div>
+                    <div class="step-meta">sent_id: shiji-wudi-p4-s7</div>
+                    <div class="step-text">「軒轅乃修德振兵，治五氣，蓺五種，撫萬民，度四方，教熊羆貔貅貙虎，以與炎帝戰於阪泉之野。三戰，然後得其志。」</div>
+                </div>
+            </div>
+            
+            <div class="trace-step">
+                <div class="step-num">注</div>
+                <div class="step-content" style="border-left-color: var(--seal-red)">
+                    <div class="step-title">🔖 三家注（独立批注库）</div>
+                    <div class="step-meta">target_sent_id: shiji-wudi-p4-s7</div>
+                    <div class="step-text">
+                    【集解】服虔曰：「阪泉，地名。」皇甫謐曰：「在上谷。」<br>
+                    【正義】阪音白板反。括地志云：「阪泉，今名黃帝泉，在媯州懷戎縣東五十六里。出五里至涿鹿東北，與涿水合。又有涿鹿故城，在媯州東南五十里，本黃帝所都也。」<br>
+                    （自动抽取自annotations.json，独立于正文存在）
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 数据结构说明 -->
+        <h2 class="section-title">數據結構關聯規則</h2>
+        <div class="layer-card">
+            <h3>🔗 两层实体绑定（same_as）</h3>
+            <p>每个全局实体必须通过 <code>same_as</code> 字段映射到至少一个单书实体，单书实体通过 <code>evidence</code> 字段回溯到具体段落。所有异名、异文在全局层处理，原文不做改动。</p>
+        </div>
+        <div class="layer-card l2">
+            <h3>📌 证据溯源（evidence）</h3>
+            <p>任何属性、关系、事件都必须附带 <code>evidence</code> 数组，指向具体段落ID，实现"无一字无来处"。未来扩展多书互证时，可在同一字段下添加多个来源（如《汉书》《国语》《帝王世纪》）。</p>
+        </div>
+        <div class="layer-card l1">
+            <h3>📖 正文批注分离</h3>
+            <p>text.json 只保留逐句编号的纯净原文；annotations.json 独立存放所有注疏条目，通过 <code>target_sent_id</code> 绑定到句子。同一位置可以叠加多个注家（集解/索隐/正义/胡注/裴注），互不冲突。</p>
+        </div>
+        
+        <div style="text-align:center; padding: 40px 0 60px;">
+            <p style="color:#888; font-family:KaiTi,serif; font-size:1.1rem; margin-bottom:20px;">五帝本纪本体示范完成 · 后续篇章将按此范式持续构建</p>
+            <a href="/history/pages/shiji.html" class="btn btn-primary">返回《史记》本体 →</a>
+            <a href="/history/pages/texts/reader.html?book=shiji&ch=shiji-五帝本纪" class="btn" style="margin-left:12px;">阅读《五帝本纪》原文 →</a>
+        </div>
+    </div>
+    
+    <script src="/history/js/data.js"></script>
+    <script src="/history/js/main.js"></script>
+    <script>
+    // 事件卡片渲染
+    const events = [
+        {name:"阪泉之戰", type:"War", desc:"黃帝修德振兵，教熊羆貔貅貙虎，與炎帝戰於阪泉之野，三戰然後得志。", participants:"黃帝、炎帝", evidence:["shiji-wudi-p4"], global: true},
+        {name:"涿鹿之戰", type:"War", desc:"蚩尤作亂不用帝命，黃帝征師諸侯，與蚩尤戰於涿鹿之野，遂禽殺蚩尤，諸侯尊軒轅為天子。", participants:"黃帝、蚩尤", evidence:["shiji-wudi-p4"], global: true},
+        {name:"堯命羲和制曆", type:"Reform", desc:"命羲和敬順昊天，數法日月星辰，敬授民時，定四時成歲，歲三百六十六日，以閏月正四時。", participants:"堯、羲和", evidence:["shiji-wudi-p14"], global: false},
+        {name:"舜流四凶", type:"Punishment", desc:"流共工于幽陵，放讙兜于崇山，遷三苗于三危，殛鯀于羽山，四辠而天下咸服。", participants:"舜、共工、讙兜、鯀", evidence:["shiji-wudi-p18"], global: false},
+        {name:"堯舜禪讓", type:"Succession", desc:"堯立七十年得舜，二十年而老，令舜攝政，堯崩舜讓丹朱，諸侯歸舜，遂踐帝位。", participants:"堯、舜、丹朱", evidence:["shiji-wudi-p19"], global: true},
+        {name:"舜禹禪讓", type:"Succession", desc:"舜子商均不肖，豫薦禹于天，十七年而崩，三年喪畢禹讓商均，諸侯歸之，禹踐天子位。", participants:"舜、禹", evidence:["shiji-wudi-p28"], global: true}
+    ];
+    
+    document.getElementById('events-grid').innerHTML = events.map(e => `
+        <div class="entity-card event">
+            <div class="entity-name">${e.name} ${e.global?'<span class="global-badge">全局对齐</span>':''}</div>
+            <div class="entity-desc">${e.desc}</div>
+            <div style="font-size:0.85rem; color:#666; margin-bottom:8px;">参与者：${e.participants}</div>
+            <div>${e.evidence.map(ev => `<span class="evidence-tag">${ev}</span>`).join('')}</div>
+        </div>
+    `).join('');
+    
+    function showEntity(id) {
+        // 简单的点击人物反馈，后续可扩展弹窗详情
+        console.log('查看实体:', id);
+    }
+    </script>
+</body>
+</html>

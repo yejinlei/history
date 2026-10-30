@@ -1,0 +1,773 @@
+{
+  "book_id": "shiji",
+  "book_title": "史记",
+  "chapter": "五帝本纪第一",
+  "persons": [
+    {
+      "id": "shiji-person-huangdi",
+      "uri": "book:shiji:person:huangdi",
+      "name": "黄帝",
+      "aliases": [
+        "轩辕",
+        "有熊氏",
+        "公孙轩辕"
+      ],
+      "type": "Person",
+      "book": "shiji",
+      "chapter": "五帝本纪第一",
+      "dynasty": "五帝",
+      "reign": "传说时代",
+      "description": "少典之子，姓公孙，名轩辕。与炎帝战于阪泉，与蚩尤战于涿鹿，代神农氏为天子，为五帝之首。",
+      "relations_in_book": [
+        {
+          "predicate": "wife",
+          "object": "shiji-person-leizu",
+          "evidence": "shiji-wudi-p7"
+        },
+        {
+          "predicate": "son",
+          "object": "shiji-person-xuanxiao",
+          "evidence": "shiji-wudi-p7"
+        },
+        {
+          "predicate": "son",
+          "object": "shiji-person-changyi",
+          "evidence": "shiji-wudi-p7"
+        },
+        {
+          "predicate": "ancestor_of",
+          "object": "shiji-person-zhuanxu",
+          "evidence": "shiji-wudi-p7"
+        },
+        {
+          "predicate": "defeated",
+          "object": "shiji-person-yandi",
+          "evidence": "shiji-wudi-p4"
+        },
+        {
+          "predicate": "defeated",
+          "object": "shiji-person-chiyou",
+          "evidence": "shiji-wudi-p4"
+        }
+      ],
+      "evidence": [
+        "shiji-wudi-p3",
+        "shiji-wudi-p4",
+        "shiji-wudi-p5",
+        "shiji-wudi-p6",
+        "shiji-wudi-p7"
+      ]
+    },
+    {
+      "id": "shiji-person-yandi",
+      "uri": "book:shiji:person:yandi",
+      "name": "炎帝",
+      "aliases": [
+        "神农氏"
+      ],
+      "type": "Person",
+      "book": "shiji",
+      "chapter": "五帝本纪第一",
+      "description": "神农氏，欲侵陵诸侯，与黄帝战于阪泉之野，三战然后黄帝得志。",
+      "relations_in_book": [
+        {
+          "predicate": "defeated_by",
+          "object": "shiji-person-huangdi",
+          "evidence": "shiji-wudi-p4"
+        }
+      ],
+      "evidence": [
+        "shiji-wudi-p4"
+      ]
+    },
+    {
+      "id": "shiji-person-chiyou",
+      "uri": "book:shiji:person:chiyou",
+      "name": "蚩尤",
+      "aliases": [],
+      "type": "Person",
+      "book": "shiji",
+      "chapter": "五帝本纪第一",
+      "description": "最为暴，莫能伐，与黄帝战于涿鹿之野，被禽杀。",
+      "relations_in_book": [
+        {
+          "predicate": "defeated_by",
+          "object": "shiji-person-huangdi",
+          "evidence": "shiji-wudi-p4"
+        }
+      ],
+      "evidence": [
+        "shiji-wudi-p4"
+      ]
+    },
+    {
+      "id": "shiji-person-leizu",
+      "uri": "book:shiji:person:leizu",
+      "name": "嫘祖",
+      "aliases": [
+        "西陵氏女"
+      ],
+      "type": "Person",
+      "book": "shiji",
+      "chapter": "五帝本纪第一",
+      "description": "黄帝正妃，西陵氏之女，生玄嚣、昌意二子。",
+      "relations_in_book": [
+        {
+          "predicate": "wife_of",
+          "object": "shiji-person-huangdi",
+          "evidence": "shiji-wudi-p7"
+        }
+      ],
+      "evidence": [
+        "shiji-wudi-p7"
+      ]
+    },
+    {
+      "id": "shiji-person-xuanxiao",
+      "uri": "book:shiji:person:xuanxiao",
+      "name": "玄嚣",
+      "aliases": [
+        "青阳"
+      ],
+      "type": "Person",
+      "book": "shiji",
+      "chapter": "五帝本纪第一",
+      "description": "黄帝之子，嫘祖所生，降居江水；未得帝位。",
+      "relations_in_book": [
+        {
+          "predicate": "son_of",
+          "object": "shiji-person-huangdi",
+          "evidence": "shiji-wudi-p7"
+        },
+        {
+          "predicate": "father_of",
+          "object": "shiji-person-jiaoji",
+          "evidence": "shiji-wudi-p10"
+        }
+      ],
+      "evidence": [
+        "shiji-wudi-p7",
+        "shiji-wudi-p10"
+      ]
+    },
+    {
+      "id": "shiji-person-changyi",
+      "uri": "book:shiji:person:changyi",
+      "name": "昌意",
+      "aliases": [],
+      "type": "Person",
+      "book": "shiji",
+      "chapter": "五帝本纪第一",
+      "description": "黄帝之子，降居若水，娶蜀山氏女生高阳（颛顼）。",
+      "relations_in_book": [
+        {
+          "predicate": "son_of",
+          "object": "shiji-person-huangdi",
+          "evidence": "shiji-wudi-p7"
+        },
+        {
+          "predicate": "father_of",
+          "object": "shiji-person-zhuanxu",
+          "evidence": "shiji-wudi-p7"
+        }
+      ],
+      "evidence": [
+        "shiji-wudi-p7"
+      ]
+    },
+    {
+      "id": "shiji-person-zhuanxu",
+      "uri": "book:shiji:person:zhuanxu",
+      "name": "颛顼",
+      "aliases": [
+        "高阳",
+        "帝颛顼"
+      ],
+      "type": "Person",
+      "book": "shiji",
+      "chapter": "五帝本纪第一",
+      "dynasty": "五帝",
+      "description": "黄帝之孙，昌意之子，号高阳。北至幽陵，南至交阯，西至流沙，东至蟠木，日月所照莫不砥属。",
+      "relations_in_book": [
+        {
+          "predicate": "grandson_of",
+          "object": "shiji-person-huangdi",
+          "evidence": "shiji-wudi-p8"
+        },
+        {
+          "predicate": "father_of",
+          "object": "shiji-person-qiongchan",
+          "evidence": "shiji-wudi-p9"
+        }
+      ],
+      "evidence": [
+        "shiji-wudi-p8",
+        "shiji-wudi-p9"
+      ]
+    },
+    {
+      "id": "shiji-person-jiaoji",
+      "uri": "book:shiji:person:jiaoji",
+      "name": "蟜极",
+      "aliases": [],
+      "type": "Person",
+      "book": "shiji",
+      "chapter": "五帝本纪第一",
+      "description": "玄嚣之子，帝喾之父，未得帝位。",
+      "relations_in_book": [
+        {
+          "predicate": "father_of",
+          "object": "shiji-person-diku",
+          "evidence": "shiji-wudi-p10"
+        }
+      ],
+      "evidence": [
+        "shiji-wudi-p10"
+      ]
+    },
+    {
+      "id": "shiji-person-diku",
+      "uri": "book:shiji:person:diku",
+      "name": "帝喾",
+      "aliases": [
+        "高辛"
+      ],
+      "type": "Person",
+      "book": "shiji",
+      "chapter": "五帝本纪第一",
+      "dynasty": "五帝",
+      "description": "黄帝曾孙，玄嚣之孙，蟜极之子，号高辛。普施利物，聪以知远，溉执中而遍天下。",
+      "relations_in_book": [
+        {
+          "predicate": "father_of",
+          "object": "shiji-person-zhi",
+          "evidence": "shiji-wudi-p12"
+        },
+        {
+          "predicate": "father_of",
+          "object": "shiji-person-yao",
+          "evidence": "shiji-wudi-p12"
+        }
+      ],
+      "evidence": [
+        "shiji-wudi-p10",
+        "shiji-wudi-p11",
+        "shiji-wudi-p12"
+      ]
+    },
+    {
+      "id": "shiji-person-zhi",
+      "uri": "book:shiji:person:zhi",
+      "name": "帝挚",
+      "aliases": [
+        "挚"
+      ],
+      "type": "Person",
+      "book": "shiji",
+      "chapter": "五帝本纪第一",
+      "dynasty": "五帝",
+      "description": "帝喾之子，娵訾氏所生。帝喾崩后代立，立不善，崩，弟放勋立，是为帝尧。",
+      "relations_in_book": [
+        {
+          "predicate": "son_of",
+          "object": "shiji-person-diku",
+          "evidence": "shiji-wudi-p12"
+        }
+      ],
+      "evidence": [
+        "shiji-wudi-p12"
+      ]
+    },
+    {
+      "id": "shiji-person-yao",
+      "uri": "book:shiji:person:yao",
+      "name": "尧",
+      "aliases": [
+        "放勋",
+        "帝尧",
+        "陶唐氏"
+      ],
+      "type": "Person",
+      "book": "shiji",
+      "chapter": "五帝本纪第一",
+      "dynasty": "五帝",
+      "description": "帝喾之子，陈锋氏女所生，名放勋，号陶唐。其仁如天，其知如神，命羲和敬授民时，禅位于舜。",
+      "relations_in_book": [
+        {
+          "predicate": "son_of",
+          "object": "shiji-person-diku",
+          "evidence": "shiji-wudi-p12"
+        },
+        {
+          "predicate": "abdicated_to",
+          "object": "shiji-person-shun",
+          "evidence": "shiji-wudi-p19"
+        }
+      ],
+      "evidence": [
+        "shiji-wudi-p12",
+        "shiji-wudi-p13",
+        "shiji-wudi-p19"
+      ]
+    },
+    {
+      "id": "shiji-person-gusou",
+      "uri": "book:shiji:person:gusou",
+      "name": "瞽叟",
+      "aliases": [],
+      "type": "Person",
+      "book": "shiji",
+      "chapter": "五帝本纪第一",
+      "description": "舜之父，盲，爱后妻子象，常欲杀舜。",
+      "relations_in_book": [
+        {
+          "predicate": "father_of",
+          "object": "shiji-person-shun",
+          "evidence": "shiji-wudi-p20"
+        }
+      ],
+      "evidence": [
+        "shiji-wudi-p20",
+        "shiji-wudi-p21"
+      ]
+    },
+    {
+      "id": "shiji-person-shun",
+      "uri": "book:shiji:person:shun",
+      "name": "舜",
+      "aliases": [
+        "重华",
+        "虞舜",
+        "有虞氏"
+      ],
+      "type": "Person",
+      "book": "shiji",
+      "chapter": "五帝本纪第一",
+      "dynasty": "五帝",
+      "description": "颛顼六世孙，名重华，号有虞。父顽母嚚弟傲，能和以孝。尧禅以天下，举二十二臣，命禹治水，南巡狩崩于苍梧。",
+      "relations_in_book": [
+        {
+          "predicate": "succeeded_by",
+          "object": "shiji-person-yu",
+          "evidence": "shiji-wudi-p28"
+        },
+        {
+          "predicate": "abdicated_from",
+          "object": "shiji-person-yao",
+          "evidence": "shiji-wudi-p19"
+        }
+      ],
+      "evidence": [
+        "shiji-wudi-p16",
+        "shiji-wudi-p20",
+        "shiji-wudi-p26",
+        "shiji-wudi-p28"
+      ]
+    },
+    {
+      "id": "shiji-person-xiang",
+      "uri": "book:shiji:person:xiang",
+      "name": "象",
+      "aliases": [],
+      "type": "Person",
+      "book": "shiji",
+      "chapter": "五帝本纪第一",
+      "description": "舜后母弟，傲，与瞽叟常欲杀舜。舜为天子后封象为诸侯。",
+      "evidence": [
+        "shiji-wudi-p21",
+        "shiji-wudi-p28"
+      ]
+    },
+    {
+      "id": "shiji-person-qiongchan",
+      "uri": "book:shiji:person:qiongchan",
+      "name": "窮蟬",
+      "aliases": [
+        "穷蝉"
+      ],
+      "type": "Person",
+      "book": "shiji",
+      "chapter": "五帝本纪第一",
+      "description": "颛顼之子，舜之五世祖。",
+      "evidence": [
+        "shiji-wudi-p9",
+        "shiji-wudi-p20"
+      ]
+    },
+    {
+      "id": "shiji-person-danzhu",
+      "uri": "book:shiji:person:danzhu",
+      "name": "丹朱",
+      "aliases": [],
+      "type": "Person",
+      "book": "shiji",
+      "chapter": "五帝本纪第一",
+      "description": "尧之子，顽凶不肖，尧不授天下，禅位于舜。",
+      "evidence": [
+        "shiji-wudi-p15",
+        "shiji-wudi-p19"
+      ]
+    },
+    {
+      "id": "shiji-person-gun",
+      "uri": "book:shiji:person:gun",
+      "name": "鲧",
+      "aliases": [],
+      "type": "Person",
+      "book": "shiji",
+      "chapter": "五帝本纪第一",
+      "description": "四岳举治水，尧以为不可，强请试之，九年功用不成，被舜殛于羽山。",
+      "evidence": [
+        "shiji-wudi-p15",
+        "shiji-wudi-p18"
+      ]
+    },
+    {
+      "id": "shiji-person-gonggong",
+      "uri": "book:shiji:person:gonggong",
+      "name": "共工",
+      "aliases": [],
+      "type": "Person",
+      "book": "shiji",
+      "chapter": "五帝本纪第一",
+      "description": "善言其用僻，似恭漫天，试工师果淫辟，被舜流于幽陵。",
+      "evidence": [
+        "shiji-wudi-p15",
+        "shiji-wudi-p18"
+      ]
+    },
+    {
+      "id": "shiji-person-huandou",
+      "uri": "book:shiji:person:huandou",
+      "name": "讙兜",
+      "aliases": [
+        "驩兜"
+      ],
+      "type": "Person",
+      "book": "shiji",
+      "chapter": "五帝本纪第一",
+      "description": "举荐共工，被舜放于崇山。",
+      "evidence": [
+        "shiji-wudi-p15",
+        "shiji-wudi-p18"
+      ]
+    },
+    {
+      "id": "shiji-person-yu",
+      "uri": "book:shiji:person:yu",
+      "name": "禹",
+      "aliases": [
+        "伯禹",
+        "夏禹",
+        "大禹"
+      ],
+      "type": "Person",
+      "book": "shiji",
+      "chapter": "五帝本纪第一",
+      "dynasty": "夏",
+      "description": "为司空，披九山通九泽决九河定九州，治水功成，舜荐之于天，后践天子位，为夏朝始祖。",
+      "relations_in_book": [
+        {
+          "predicate": "succeeded",
+          "object": "shiji-person-shun",
+          "evidence": "shiji-wudi-p28"
+        }
+      ],
+      "evidence": [
+        "shiji-wudi-p26",
+        "shiji-wudi-p27",
+        "shiji-wudi-p28"
+      ]
+    },
+    {
+      "id": "shiji-person-gaotao",
+      "uri": "book:shiji:person:gaotao",
+      "name": "皋陶",
+      "aliases": [
+        "咎繇"
+      ],
+      "type": "Person",
+      "book": "shiji",
+      "chapter": "五帝本纪第一",
+      "description": "为大理，平民各伏得其实。",
+      "evidence": [
+        "shiji-wudi-p26",
+        "shiji-wudi-p27"
+      ]
+    },
+    {
+      "id": "shiji-person-xihou",
+      "uri": "book:shiji:person:xihou",
+      "name": "羲和",
+      "aliases": [
+        "羲仲",
+        "羲叔",
+        "和仲",
+        "和叔"
+      ],
+      "type": "Person",
+      "book": "shiji",
+      "chapter": "五帝本纪第一",
+      "description": "尧命敬顺昊天，数法日月星辰，敬授民时，分命四子居四方。",
+      "evidence": [
+        "shiji-wudi-p14"
+      ]
+    },
+    {
+      "id": "shiji-person-fenghou",
+      "uri": "book:shiji:person:fenghou",
+      "name": "风后",
+      "type": "Person",
+      "book": "shiji",
+      "chapter": "五帝本纪第一",
+      "description": "黄帝举以治民之臣。",
+      "evidence": [
+        "shiji-wudi-p5"
+      ]
+    },
+    {
+      "id": "shiji-person-limou",
+      "uri": "book:shiji:person:limou",
+      "name": "力牧",
+      "type": "Person",
+      "book": "shiji",
+      "chapter": "五帝本纪第一",
+      "description": "黄帝举以治民之臣。",
+      "evidence": [
+        "shiji-wudi-p5"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "id": "shiji-place-banquan",
+      "uri": "book:shiji:place:banquan",
+      "name": "阪泉",
+      "type": "Place",
+      "description": "黄帝与炎帝战处。",
+      "evidence": [
+        "shiji-wudi-p4"
+      ]
+    },
+    {
+      "id": "shiji-place-zhuolu",
+      "uri": "book:shiji:place:zhuolu",
+      "name": "涿鹿",
+      "type": "Place",
+      "description": "黄帝与蚩尤战于涿鹿之野，邑于涿鹿之阿，葬桥山。",
+      "evidence": [
+        "shiji-wudi-p4",
+        "shiji-wudi-p5",
+        "shiji-wudi-p7"
+      ]
+    },
+    {
+      "id": "shiji-place-qiaoshan",
+      "uri": "book:shiji:place:qiaoshan",
+      "name": "桥山",
+      "type": "Place",
+      "description": "黄帝葬处。",
+      "evidence": [
+        "shiji-wudi-p7"
+      ]
+    },
+    {
+      "id": "shiji-place-daizong",
+      "uri": "book:shiji:place:daizong",
+      "name": "岱宗（泰山）",
+      "type": "Place",
+      "description": "东岳泰山，舜东巡狩处。",
+      "evidence": [
+        "shiji-wudi-p5",
+        "shiji-wudi-p17"
+      ]
+    },
+    {
+      "id": "shiji-place-kongtong",
+      "uri": "book:shiji:place:kongtong",
+      "name": "空桐",
+      "type": "Place",
+      "description": "黄帝西至之处。",
+      "evidence": [
+        "shiji-wudi-p5"
+      ]
+    },
+    {
+      "id": "shiji-place-youling",
+      "uri": "book:shiji:place:youling",
+      "name": "幽陵",
+      "type": "Place",
+      "description": "颛顼北至之处，舜流共工于幽陵。",
+      "evidence": [
+        "shiji-wudi-p8",
+        "shiji-wudi-p18"
+      ]
+    },
+    {
+      "id": "shiji-place-jiaozhi",
+      "uri": "book:shiji:place:jiaozhi",
+      "name": "交阯",
+      "type": "Place",
+      "description": "颛顼南至之处。",
+      "evidence": [
+        "shiji-wudi-p8"
+      ]
+    },
+    {
+      "id": "shiji-place-liusha",
+      "uri": "book:shiji:place:liusha",
+      "type": "Place",
+      "name": "流沙",
+      "description": "颛顼西至之处。",
+      "evidence": [
+        "shiji-wudi-p8"
+      ]
+    },
+    {
+      "id": "shiji-place-cangwu",
+      "uri": "book:shiji:place:cangwu",
+      "name": "苍梧",
+      "type": "Place",
+      "description": "舜南巡狩崩于苍梧之野，葬于江南九疑（零陵）。",
+      "evidence": [
+        "shiji-wudi-p28"
+      ]
+    },
+    {
+      "id": "shiji-place-gui-rui",
+      "uri": "book:shiji:place:guirui",
+      "name": "媯汭",
+      "type": "Place",
+      "description": "舜饬下二女之处。",
+      "evidence": [
+        "shiji-wudi-p16",
+        "shiji-wudi-p23"
+      ]
+    },
+    {
+      "id": "shiji-place-lishan",
+      "uri": "book:shiji:place:lishan",
+      "name": "歷山",
+      "type": "Place",
+      "description": "舜耕处。",
+      "evidence": [
+        "shiji-wudi-p22",
+        "shiji-wudi-p23"
+      ]
+    },
+    {
+      "id": "shiji-place-yushan",
+      "uri": "book:shiji:place:yushan",
+      "name": "羽山",
+      "type": "Place",
+      "description": "舜殛鲧于羽山。",
+      "evidence": [
+        "shiji-wudi-p18"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "shiji-event-banquan",
+      "uri": "book:shiji:event:banquan-battle",
+      "name": "阪泉之战",
+      "type": "Event",
+      "time": "黄帝时期",
+      "description": "黄帝修德振兵，教熊罴貔貅貙虎，与炎帝战于阪泉之野，三战然后得志。",
+      "participants": [
+        "shiji-person-huangdi",
+        "shiji-person-yandi"
+      ],
+      "location": "shiji-place-banquan",
+      "evidence": [
+        "shiji-wudi-p4"
+      ]
+    },
+    {
+      "id": "shiji-event-zhuolu",
+      "uri": "book:shiji:event:zhuolu-battle",
+      "name": "涿鹿之战",
+      "type": "Event",
+      "time": "黄帝时期",
+      "description": "蚩尤作乱不用帝命，黄帝征师诸侯，与蚩尤战于涿鹿之野，遂禽杀蚩尤，诸侯尊轩辕为天子。",
+      "participants": [
+        "shiji-person-huangdi",
+        "shiji-person-chiyou"
+      ],
+      "location": "shiji-place-zhuolu",
+      "evidence": [
+        "shiji-wudi-p4"
+      ]
+    },
+    {
+      "id": "shiji-event-yao-shanrang",
+      "uri": "book:shiji:event:yao-shanrang-shun",
+      "name": "尧禅让舜",
+      "type": "Event",
+      "time": "尧晚年",
+      "description": "尧立七十年得舜，二十年而老，令舜摄政，尧崩三年丧毕，舜让丹朱，诸侯归舜，遂践帝位。",
+      "participants": [
+        "shiji-person-yao",
+        "shiji-person-shun",
+        "shiji-person-danzhu"
+      ],
+      "evidence": [
+        "shiji-wudi-p16",
+        "shiji-wudi-p17",
+        "shiji-wudi-p19"
+      ]
+    },
+    {
+      "id": "shiji-event-shun-shanrang",
+      "uri": "book:shiji:event:shun-shanrang-yu",
+      "name": "舜禅让禹",
+      "type": "Event",
+      "time": "舜晚年",
+      "description": "舜子商均不肖，豫荐禹于天，十七年而崩，三年丧毕禹让商均，诸侯归之，禹践天子位。",
+      "participants": [
+        "shiji-person-shun",
+        "shiji-person-yu"
+      ],
+      "evidence": [
+        "shiji-wudi-p28"
+      ]
+    },
+    {
+      "id": "shiji-event-siyou",
+      "uri": "book:shiji:event:siyou",
+      "name": "舜流四凶",
+      "type": "Event",
+      "time": "舜摄政时",
+      "description": "流共工于幽陵，放讙兜于崇山，迁三苗于三危，殛鲧于羽山，四辠而天下咸服。",
+      "participants": [
+        "shiji-person-gonggong",
+        "shiji-person-huandou",
+        "shiji-person-gun"
+      ],
+      "evidence": [
+        "shiji-wudi-p18"
+      ]
+    },
+    {
+      "id": "shiji-event-yao-lifa",
+      "uri": "book:shiji:event:yao-calendar",
+      "name": "尧命羲和制历法",
+      "type": "Event",
+      "time": "尧时",
+      "description": "命羲和敬顺昊天，数法日月星辰，敬授民时，定四时成岁，岁三百六十六日，以闰月正四时。",
+      "participants": [
+        "shiji-person-yao",
+        "shiji-person-xihou"
+      ],
+      "evidence": [
+        "shiji-wudi-p14"
+      ]
+    }
+  ],
+  "stats": {
+    "person_count": 24,
+    "place_count": 12,
+    "event_count": 6,
+    "annotation_count": 477
+  }
+}

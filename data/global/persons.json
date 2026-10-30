@@ -1,5 +1,277 @@
 {
-  "schema_version": "1.0",
-  "description": "历史全景层-统一人物库",
-  "persons": []
+  "persons": [
+    {
+      "id": "global-person-huangdi",
+      "uri": "global:person:huangdi",
+      "name": "黄帝",
+      "aliases": [
+        "轩辕",
+        "公孙轩辕",
+        "有熊氏",
+        "轩辕黄帝"
+      ],
+      "type": "Person",
+      "dynasty": "五帝",
+      "status": "aligned",
+      "same_as": [
+        {
+          "book": "shiji",
+          "entity_id": "shiji-person-huangdi"
+        },
+        {
+          "book": "wudishiji",
+          "note": "待其他史书收录后补充"
+        }
+      ],
+      "description": "华夏人文始祖，五帝之首，统一华夏诸部，与炎帝、蚩尤作战，建立华夏部落联盟。",
+      "evidence": [
+        {
+          "book": "shiji",
+          "chapter": "五帝本纪",
+          "para_id": "shiji-wudi-p3"
+        }
+      ]
+    },
+    {
+      "id": "global-person-yandi",
+      "uri": "global:person:yandi",
+      "name": "炎帝",
+      "aliases": [
+        "神农氏",
+        "烈山氏"
+      ],
+      "type": "Person",
+      "dynasty": "五帝",
+      "status": "aligned",
+      "same_as": [
+        {
+          "book": "shiji",
+          "entity_id": "shiji-person-yandi"
+        }
+      ],
+      "description": "华夏始祖之一，与黄帝并为炎黄，阪泉之战后并入黄帝部落。",
+      "evidence": [
+        {
+          "book": "shiji",
+          "chapter": "五帝本纪",
+          "para_id": "shiji-wudi-p4"
+        }
+      ]
+    },
+    {
+      "id": "global-person-chiyou",
+      "uri": "global:person:chiyou",
+      "name": "蚩尤",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "五帝",
+      "status": "aligned",
+      "same_as": [
+        {
+          "book": "shiji",
+          "entity_id": "shiji-person-chiyou"
+        }
+      ],
+      "description": "九黎部落首领，涿鹿之战被黄帝擒杀，后世奉为兵主。",
+      "evidence": [
+        {
+          "book": "shiji",
+          "chapter": "五帝本纪",
+          "para_id": "shiji-wudi-p4"
+        }
+      ]
+    },
+    {
+      "id": "global-person-zhuanxu",
+      "uri": "global:person:zhuanxu",
+      "name": "颛顼",
+      "aliases": [
+        "高阳",
+        "帝颛顼",
+        "玄帝"
+      ],
+      "type": "Person",
+      "dynasty": "五帝",
+      "status": "aligned",
+      "same_as": [
+        {
+          "book": "shiji",
+          "entity_id": "shiji-person-zhuanxu"
+        }
+      ],
+      "description": "五帝之一，黄帝之孙昌意之子，号高阳氏，绝地天通，制定历法。",
+      "evidence": [
+        {
+          "book": "shiji",
+          "chapter": "五帝本纪",
+          "para_id": "shiji-wudi-p8"
+        }
+      ]
+    },
+    {
+      "id": "global-person-diku",
+      "uri": "global:person:diku",
+      "name": "帝喾",
+      "aliases": [
+        "高辛",
+        "帝夋"
+      ],
+      "type": "Person",
+      "dynasty": "五帝",
+      "status": "aligned",
+      "same_as": [
+        {
+          "book": "shiji",
+          "entity_id": "shiji-person-diku"
+        }
+      ],
+      "description": "五帝之一，黄帝曾孙，号高辛氏，溉执中而遍天下。",
+      "evidence": [
+        {
+          "book": "shiji",
+          "chapter": "五帝本纪",
+          "para_id": "shiji-wudi-p10"
+        }
+      ]
+    },
+    {
+      "id": "global-person-yao",
+      "uri": "global:person:yao",
+      "name": "尧",
+      "aliases": [
+        "放勋",
+        "唐尧",
+        "陶唐氏",
+        "帝尧"
+      ],
+      "type": "Person",
+      "dynasty": "五帝",
+      "status": "aligned",
+      "same_as": [
+        {
+          "book": "shiji",
+          "entity_id": "shiji-person-yao"
+        }
+      ],
+      "description": "五帝之一，帝喾之子，号陶唐氏，命羲和制历，禅位于舜，为儒家圣王典范。",
+      "evidence": [
+        {
+          "book": "shiji",
+          "chapter": "五帝本纪",
+          "para_id": "shiji-wudi-p13"
+        }
+      ]
+    },
+    {
+      "id": "global-person-shun",
+      "uri": "global:person:shun",
+      "name": "舜",
+      "aliases": [
+        "重华",
+        "虞舜",
+        "有虞氏",
+        "帝舜"
+      ],
+      "type": "Person",
+      "dynasty": "五帝",
+      "status": "aligned",
+      "same_as": [
+        {
+          "book": "shiji",
+          "entity_id": "shiji-person-shun"
+        }
+      ],
+      "description": "五帝之一，颛顼六世孙，号有虞氏，以孝闻，举八恺八元、流四凶，命禹治水，禅位于禹。",
+      "evidence": [
+        {
+          "book": "shiji",
+          "chapter": "五帝本纪",
+          "para_id": "shiji-wudi-p20"
+        }
+      ]
+    },
+    {
+      "id": "global-person-yu",
+      "uri": "global:person:yu",
+      "name": "禹",
+      "aliases": [
+        "大禹",
+        "夏禹",
+        "伯禹",
+        "文命",
+        "夏后氏"
+      ],
+      "type": "Person",
+      "dynasty": "夏",
+      "status": "aligned",
+      "same_as": [
+        {
+          "book": "shiji",
+          "entity_id": "shiji-person-yu"
+        }
+      ],
+      "description": "夏朝开国君主，治水十三年三过家门而不入，划定九州，舜禅以天下。",
+      "evidence": [
+        {
+          "book": "shiji",
+          "chapter": "五帝本纪",
+          "para_id": "shiji-wudi-p27"
+        }
+      ]
+    },
+    {
+      "id": "global-person-gun",
+      "uri": "global:person:gun",
+      "name": "鲧",
+      "aliases": [
+        "崇伯鲧"
+      ],
+      "type": "Person",
+      "dynasty": "五帝",
+      "status": "aligned",
+      "same_as": [
+        {
+          "book": "shiji",
+          "entity_id": "shiji-person-gun"
+        }
+      ],
+      "description": "禹之父，治水九年不成，被舜殛于羽山。",
+      "evidence": [
+        {
+          "book": "shiji",
+          "chapter": "五帝本纪",
+          "para_id": "shiji-wudi-p15"
+        }
+      ]
+    },
+    {
+      "id": "global-person-leizu",
+      "uri": "global:person:leizu",
+      "name": "嫘祖",
+      "aliases": [
+        "西陵氏",
+        "累祖"
+      ],
+      "type": "Person",
+      "dynasty": "五帝",
+      "status": "aligned",
+      "same_as": [
+        {
+          "book": "shiji",
+          "entity_id": "shiji-person-leizu"
+        }
+      ],
+      "description": "黄帝正妃，传说发明养蚕，为蚕神。",
+      "evidence": [
+        {
+          "book": "shiji",
+          "chapter": "五帝本纪",
+          "para_id": "shiji-wudi-p7"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total": 10
+  }
 }

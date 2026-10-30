@@ -1,5 +1,113 @@
 {
-  "schema_version": "1.0",
-  "description": "历史全景层-统一事件库",
-  "events": []
+  "events": [
+    {
+      "id": "global-event-banquan",
+      "uri": "global:event:banquan",
+      "name": "阪泉之战",
+      "type": "War",
+      "time": "约公元前26世纪（传说）",
+      "status": "aligned",
+      "same_as": [
+        {
+          "book": "shiji",
+          "entity_id": "shiji-event-banquan"
+        }
+      ],
+      "variants": [
+        {
+          "source": "shiji",
+          "note": "三战然后得其志，与炎帝战于阪泉之野"
+        }
+      ],
+      "participants": [
+        "global-person-huangdi",
+        "global-person-yandi"
+      ],
+      "evidence": [
+        {
+          "book": "shiji",
+          "chapter": "五帝本纪",
+          "para_id": "shiji-wudi-p4"
+        }
+      ]
+    },
+    {
+      "id": "global-event-zhuolu",
+      "uri": "global:event:zhuolu",
+      "name": "涿鹿之战",
+      "type": "War",
+      "time": "约公元前26世纪（传说）",
+      "status": "aligned",
+      "same_as": [
+        {
+          "book": "shiji",
+          "entity_id": "shiji-event-zhuolu"
+        }
+      ],
+      "participants": [
+        "global-person-huangdi",
+        "global-person-chiyou"
+      ],
+      "evidence": [
+        {
+          "book": "shiji",
+          "chapter": "五帝本纪",
+          "para_id": "shiji-wudi-p4"
+        }
+      ]
+    },
+    {
+      "id": "global-event-yao-to-shun",
+      "uri": "global:event:shanyuan-yao-shun",
+      "name": "尧舜禅让",
+      "type": "Succession",
+      "time": "传说时代",
+      "status": "aligned",
+      "same_as": [
+        {
+          "book": "shiji",
+          "entity_id": "shiji-event-yao-shanrang"
+        }
+      ],
+      "participants": [
+        "global-person-yao",
+        "global-person-shun"
+      ],
+      "evidence": [
+        {
+          "book": "shiji",
+          "chapter": "五帝本纪",
+          "para_id": "shiji-wudi-p19"
+        }
+      ]
+    },
+    {
+      "id": "global-event-shun-to-yu",
+      "uri": "global:event:shanyuan-shun-yu",
+      "name": "舜禹禅让",
+      "type": "Succession",
+      "time": "传说时代",
+      "status": "aligned",
+      "same_as": [
+        {
+          "book": "shiji",
+          "entity_id": "shiji-event-shun-shanrang"
+        }
+      ],
+      "participants": [
+        "global-person-shun",
+        "global-person-yu"
+      ],
+      "evidence": [
+        {
+          "book": "shiji",
+          "chapter": "五帝本纪",
+          "para_id": "shiji-wudi-p28"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total": 4
+  }
 }

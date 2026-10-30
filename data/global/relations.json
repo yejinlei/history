@@ -1,5 +1,100 @@
 {
-  "schema_version": "1.0",
-  "description": "历史全景层-跨书全局关系库",
-  "relations": []
+  "relations": [
+    {
+      "id": "global-rel-huangdi-yandi-defeat",
+      "uri": "global:relation:huangdi-defeats-yandi",
+      "type": "defeats",
+      "subject": "global-person-huangdi",
+      "object": "global-person-yandi",
+      "in_event": "global-event-banquan",
+      "evidence": [
+        {
+          "book": "shiji",
+          "para_id": "shiji-wudi-p4"
+        }
+      ]
+    },
+    {
+      "id": "global-rel-huangdi-chiyou-defeat",
+      "uri": "global:relation:huangdi-defeats-chiyou",
+      "type": "defeats",
+      "subject": "global-person-huangdi",
+      "object": "global-person-chiyou",
+      "in_event": "global-event-zhuolu",
+      "evidence": [
+        {
+          "book": "shiji",
+          "para_id": "shiji-wudi-p4"
+        }
+      ]
+    },
+    {
+      "id": "global-rel-huangdi-zhuanxu-grandpa",
+      "uri": "global:relation:huangdi-ancestor-zhuanxu",
+      "type": "ancestor_of",
+      "subject": "global-person-huangdi",
+      "object": "global-person-zhuanxu",
+      "evidence": [
+        {
+          "book": "shiji",
+          "para_id": "shiji-wudi-p8"
+        }
+      ]
+    },
+    {
+      "id": "global-rel-zhuanxu-diku-cousin-father",
+      "uri": "global:relation:diku-ancestor",
+      "type": "distant_ancestor_of",
+      "subject": "global-person-huangdi",
+      "object": "global-person-diku",
+      "evidence": [
+        {
+          "book": "shiji",
+          "para_id": "shiji-wudi-p10"
+        }
+      ]
+    },
+    {
+      "id": "global-rel-diku-yao-father",
+      "uri": "global:relation:diku-father-yao",
+      "type": "father_of",
+      "subject": "global-person-diku",
+      "object": "global-person-yao",
+      "evidence": [
+        {
+          "book": "shiji",
+          "para_id": "shiji-wudi-p12"
+        }
+      ]
+    },
+    {
+      "id": "global-rel-yao-shun-abdicate",
+      "type": "abdicated_to",
+      "subject": "global-person-yao",
+      "object": "global-person-shun",
+      "in_event": "global-event-yao-to-shun",
+      "evidence": [
+        {
+          "book": "shiji",
+          "para_id": "shiji-wudi-p19"
+        }
+      ]
+    },
+    {
+      "id": "global-rel-shun-yu-abdicate",
+      "type": "abdicated_to",
+      "subject": "global-person-shun",
+      "object": "global-person-yu",
+      "in_event": "global-event-shun-to-yu",
+      "evidence": [
+        {
+          "book": "shiji",
+          "para_id": "shiji-wudi-p28"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total": 7
+  }
 }
