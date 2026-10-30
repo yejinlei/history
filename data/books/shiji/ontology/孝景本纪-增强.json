@@ -1,0 +1,1079 @@
+{
+ "book": "shiji",
+ "book_name": "史记",
+ "chapter": "孝景本纪",
+ "tili": "benji",
+ "juan": "",
+ "pipeline": "校对→翻译(白话定稿)→本体(定稿)→增强",
+ "segments": [
+  {
+   "para": "p0",
+   "original_trad": "孝景皇帝者，孝文之中子也。母竇太后。孝文在代時，前后有三男，及竇太后得幸，前后死，及三子更死，故孝景得立。",
+   "original_simp": "孝景皇帝者，孝文之中子也。母窦太后。孝文在代时，前后有三男，及窦太后得幸，前后死，及三子更死，故孝景得立。",
+   "translation": "孝景皇帝，是孝文帝的次子。母亲是窦太后。孝文帝做代王时，先前的王后生有三个男孩；等到窦太后受宠，那位王后去世，她的三个儿子也相继死去，所以孝景才得以被立为继承人。",
+   "annotations": [
+    "[集解] 漢書音義曰：「諱啟。」",
+    "[正義] 謚法曰：「繇義而濟曰景。」"
+   ],
+   "entities": [
+    {
+     "surface": "孝景皇帝",
+     "entity_id": "shiji-person-xiaojinghuangdi",
+     "type": "person"
+    },
+    {
+     "surface": "孝文",
+     "entity_id": "shiji-person-xiaowen",
+     "type": "person"
+    },
+    {
+     "surface": "竇太后",
+     "entity_id": "shiji-person-doutaihou",
+     "type": "person"
+    }
+   ]
+  },
+  {
+   "para": "p1",
+   "original_trad": "元年四月乙卯，赦天下。乙巳，賜民爵一級。五月，除田半租，爲孝文立太宗廟。令羣臣無朝賀。匈奴入代，與約和親。",
+   "original_simp": "元年四月乙卯，赦天下。乙巳，赐民爵一级。五月，除田半租，为孝文立太宗庙。令群臣无朝贺。匈奴入代，与约和亲。",
+   "translation": "景帝元年四月乙卯日，大赦天下。乙巳日，赏赐百姓爵位一级。五月，减免田租的一半，为孝文帝建立太宗庙。下令群臣不必上朝庆贺。匈奴入侵代地，与匈奴缔结和亲之约。",
+   "annotations": [],
+   "entities": [
+    {
+     "surface": "孝文",
+     "entity_id": "shiji-person-xiaowen",
+     "type": "person"
+    },
+    {
+     "surface": "太宗廟",
+     "entity_id": "shiji-place-taizongmiao",
+     "type": "place"
+    }
+   ]
+  },
+  {
+   "para": "p2",
+   "original_trad": "二年春，封故相國蕭何孫係爲武陵侯。男子二十而得傅。四月壬午，孝文太后崩。廣川、長沙王皆之國。丞相申屠嘉卒。八月，㠯御史大夫開封侯陶青爲丞相。彗星出東北。秋，衡山雨雹，大者五寸，深者二尺。熒惑逆行，守北辰。月出北辰間。歲星逆行天廷中。置南陵及內史、祋祤爲縣。",
+   "original_simp": "二年春，封故相国萧何孙系为武陵侯。男子二十而得傅。四月壬午，孝文太后崩。广川、长沙王皆之国。丞相申屠嘉卒。八月，㠯御史大夫开封侯陶青为丞相。彗星出东北。秋，衡山雨雹，大者五寸，深者二尺。荧惑逆行，守北辰。月出北辰间。岁星逆行天廷中。置南陵及内史、祋祤为县。",
+   "translation": "景帝二年春天，封原相国萧何的孙子萧系为武陵侯。男子到二十岁便登记服徭役（傅籍）。四月壬午日，孝文太后（薄太后）去世。广川王、长沙王都前往各自的封国。丞相申屠嘉去世。八月，任命御史大夫、开封侯陶青为丞相。彗星出现在东北方。秋天，衡山降冰雹，大的直径五寸，堆积深处达二尺。荧惑（火星）逆行，停留在北辰（北极星）附近。月亮出现在北辰一带。岁星（木星）在天廷中逆行。设置南陵县，又以内史所辖的祋祤为县。",
+   "annotations": [
+    "[集解] 徐廣曰：漢書亦作「係」。鄒誕生本作「傒」，音奚。又按：漢書功臣表及蕭何傳皆云孫嘉，疑其人有二名。",
+    "[索隱] 註同。",
+    "[索隱] 音附。荀悅云：「傅，正卒也。」小顏云舊法二十三而傅，今改也。",
+    "[索隱] 薄太后也。亦葬芷陽西，曰少陵也。",
+    "[索隱] 廣川王彭祖、長沙王發皆景帝子，遣就國也。",
+    "[正義] 雨，于付反。",
+    "[集解] 徐廣曰：「地理志云文帝七年置。」駰按：地理志、百官表南陵縣文帝置也。分內史爲左右，及祋祤爲縣，皆景帝二年，不得皆如徐所云。",
+    "[索隱] 鄒誕生祋音都會反，又音丁活反。祤音羽，又音詡。"
+   ],
+   "entities": [
+    {
+     "surface": "孝文",
+     "entity_id": "shiji-person-xiaowen",
+     "type": "person"
+    },
+    {
+     "surface": "孝文太后",
+     "entity_id": "shiji-person-botaihou",
+     "type": "person"
+    },
+    {
+     "surface": "開封侯",
+     "entity_id": "shiji-person-taoqing",
+     "type": "person"
+    },
+    {
+     "surface": "申屠嘉",
+     "entity_id": "shiji-person-shentujia",
+     "type": "person"
+    },
+    {
+     "surface": "相國",
+     "entity_id": "shiji-person-xiaohe",
+     "type": "person"
+    },
+    {
+     "surface": "武陵侯",
+     "entity_id": "shiji-person-xiaoxi",
+     "type": "person"
+    },
+    {
+     "surface": "長沙王",
+     "entity_id": "shiji-person-liufa",
+     "type": "person"
+    },
+    {
+     "surface": "祋祤",
+     "entity_id": "shiji-place-duiyu",
+     "type": "place"
+    },
+    {
+     "surface": "南陵",
+     "entity_id": "shiji-place-nanling",
+     "type": "place"
+    },
+    {
+     "surface": "武陵",
+     "entity_id": "shiji-place-wuling",
+     "type": "place"
+    },
+    {
+     "surface": "廣川",
+     "entity_id": "shiji-place-guangchuan",
+     "type": "place"
+    },
+    {
+     "surface": "長沙",
+     "entity_id": "shiji-place-changsha",
+     "type": "place"
+    },
+    {
+     "surface": "衡山",
+     "entity_id": "shiji-place-hengshan",
+     "type": "place"
+    },
+    {
+     "surface": "丞相",
+     "entity_id": "shiji-office-chengxiang",
+     "type": "office"
+    },
+    {
+     "surface": "御史大夫",
+     "entity_id": "shiji-office-yushidafu",
+     "type": "office"
+    },
+    {
+     "surface": "內史",
+     "entity_id": "shiji-office-neishi",
+     "type": "office"
+    },
+    {
+     "surface": "相國",
+     "entity_id": "shiji-office-xiangguo",
+     "type": "office"
+    }
+   ]
+  },
+  {
+   "para": "p3",
+   "original_trad": "三年正月乙巳，赦天下。長星出西方。天火燔雒陽東宮大殿城室。吳王濞、楚王戊、趙王遂、膠西王卬、濟南王辟光、菑川王賢、膠東王雄渠反，發兵西鄉。天子爲誅晁錯，遣袁盎諭告，不止，遂西圍梁。上乃遣大將軍竇嬰、太尉周亞夫將兵誅之。六月乙亥。赦亡軍及楚元王子蓺等與謀反者。封大將軍竇嬰爲魏其侯。立楚元王子平陸侯劉禮爲楚王。立皇子端爲膠西王，子勝爲中山王。徙濟北王志爲菑川王，淮陽王餘爲魯王，汝南王非爲江都王。齊王將廬、燕王嘉皆薨。",
+   "original_simp": "三年正月乙巳，赦天下。长星出西方。天火燔雒阳东宫大殿城室。吴王濞、楚王戊、赵王遂、胶西王卬、济南王辟光、菑川王贤、胶东王雄渠反，发兵西乡。天子为诛晁错，遣袁盎谕告，不止，遂西围梁。上乃遣大将军窦婴、太尉周亚夫将兵诛之。六月乙亥。赦亡军及楚元王子蓺等与谋反者。封大将军窦婴为魏其侯。立楚元王子平陆侯刘礼为楚王。立皇子端为胶西王，子胜为中山王。徙济北王志为菑川王，淮阳王余为鲁王，汝南王非为江都王。齐王将庐、燕王嘉皆薨。",
+   "translation": "景帝三年正月乙巳日，大赦天下。长星（彗星）出现在西方。天火（雷火）烧毁雒阳东宫的大殿和城室。吴王刘濞、楚王刘戊、赵王刘遂、胶西王刘卬、济南王刘辟光、菑川王刘贤、胶东王刘雄渠反叛，发兵向西进军。天子为了（平息事变）诛杀了晁错，派袁盎前去劝谕告示（反叛的诸侯），却未能制止，他们于是向西进兵包围了梁国。皇上便派大将军窦婴、太尉周亚夫率兵讨伐他们。六月乙亥日，赦免逃亡的军士以及楚元王之子刘蓺等参与谋反的人。封大将军窦婴为魏其侯。立楚元王之子、平陆侯刘礼为楚王。立皇子刘端为胶西王，皇子刘胜为中山王。迁济北王刘志为菑川王，淮阳王刘余为鲁王，汝南王刘非为江都王。齐王刘将庐、燕王刘嘉都去世了。",
+   "annotations": [
+    "[集解] 徐廣曰：「漢志無。」",
+    "[集解] 徐廣曰：「雒，一作『淮』。」",
+    "[索隱] 雒陽漢書作「淮陽」。災，故徙王於魯也。",
+    "[正義] 音匹備反。高祖兄仲子，故漢高祖十二年封，三十三年反。年表云都吳，其實在江都也。",
+    "[正義] 高祖弟楚王交孫，嗣二十一年反，都彭城。",
+    "[正義] 高祖孫，幽王友子，嗣二十六年反，都邯鄲。",
+    "[正義] 卬，五郎反。高祖孫，齊悼惠王子，故平昌侯，十年反，都密州高密縣。",
+    "[正義] 辟音壁。高祖孫，齊悼惠王子，故扐侯，立十一年反。括地志云：「濟南故城在淄川長山縣西北三十里。」",
+    "[正義] 高祖孫，齊悼惠王子，故武城侯，立十一年反，都劇。括地志云：「菑州縣也。故劇城在青州壽光縣南三十一里，故紀國。」",
+    "[正義] 高祖孫，齊悼惠王子，故白石侯，立十一年反，都即墨。括地志云：「即墨故城在密州膠水縣東南六十里，即膠東國也。」",
+    "[正義] 梁孝王都睢陽，今宋州。",
+    "[正義] 蓺，魚曳反。字亦作「藝」，音同。",
+    "[正義] 地理志云魏其屬琅邪。",
+    "[索隱] 韋昭云：「平陸，西河縣。禮即向之從曾祖王父也。」",
+    "[正義] 應劭云：「平陸，西河縣。」",
+    "[正義] 濟，子禮反。濟北國今濟州盧縣，即濟北王所都。",
+    "[正義] 淮陽國今陳州。",
+    "[正義] 魯今兗州曲阜縣。",
+    "[正義] 汝南國今豫州。",
+    "[正義] 江都國今揚州也。吳王濞所都，反，誅，景帝改爲江都國，封皇子非也。",
+    "[索隱] 悼惠王之孫，齊王襄之子。廬，漢書作「閭」。",
+    "[正義] 齊國，青州臨淄也。將廬，齊悼惠王之孫，襄王之子，年表云。",
+    "[索隱] 劉澤之子。",
+    "[集解] 徐廣曰：「表云五年薨。」"
+   ],
+   "entities": [
+    {
+     "surface": "魏其侯",
+     "entity_id": "shiji-person-douying",
+     "type": "person"
+    },
+    {
+     "surface": "周亞夫",
+     "entity_id": "shiji-person-zhouyafu",
+     "type": "person"
+    },
+    {
+     "surface": "晁錯",
+     "entity_id": "shiji-person-chaocuo",
+     "type": "person"
+    },
+    {
+     "surface": "袁盎",
+     "entity_id": "shiji-person-yuanang",
+     "type": "person"
+    },
+    {
+     "surface": "吳王濞",
+     "entity_id": "shiji-person-liubi",
+     "type": "person"
+    },
+    {
+     "surface": "楚王戊",
+     "entity_id": "shiji-person-liuwu",
+     "type": "person"
+    },
+    {
+     "surface": "趙王遂",
+     "entity_id": "shiji-person-liusui",
+     "type": "person"
+    },
+    {
+     "surface": "膠西王卬",
+     "entity_id": "shiji-person-liuang",
+     "type": "person"
+    },
+    {
+     "surface": "菑川王賢",
+     "entity_id": "shiji-person-liuxian",
+     "type": "person"
+    },
+    {
+     "surface": "膠東王雄渠",
+     "entity_id": "shiji-person-liuxiongqu",
+     "type": "person"
+    },
+    {
+     "surface": "楚元王",
+     "entity_id": "shiji-person-liujiao",
+     "type": "person"
+    },
+    {
+     "surface": "平陸侯劉禮",
+     "entity_id": "shiji-person-liuli",
+     "type": "person"
+    },
+    {
+     "surface": "皇子端",
+     "entity_id": "shiji-person-liuduan",
+     "type": "person"
+    },
+    {
+     "surface": "濟北王志",
+     "entity_id": "shiji-person-liuzhi",
+     "type": "person"
+    },
+    {
+     "surface": "淮陽王餘",
+     "entity_id": "shiji-person-liuyu",
+     "type": "person"
+    },
+    {
+     "surface": "汝南王非",
+     "entity_id": "shiji-person-liufei",
+     "type": "person"
+    },
+    {
+     "surface": "齊王將廬",
+     "entity_id": "shiji-person-liujianglu",
+     "type": "person"
+    },
+    {
+     "surface": "燕王嘉",
+     "entity_id": "shiji-person-liujia",
+     "type": "person"
+    },
+    {
+     "surface": "雒陽",
+     "entity_id": "shiji-place-luoyang",
+     "type": "place"
+    },
+    {
+     "surface": "菑川",
+     "entity_id": "shiji-place-zichuan",
+     "type": "place"
+    },
+    {
+     "surface": "江都",
+     "entity_id": "shiji-place-jiangdu",
+     "type": "place"
+    },
+    {
+     "surface": "膠西",
+     "entity_id": "shiji-place-jiaoxi",
+     "type": "place"
+    },
+    {
+     "surface": "濟南",
+     "entity_id": "shiji-place-jinan",
+     "type": "place"
+    },
+    {
+     "surface": "膠東",
+     "entity_id": "shiji-place-jiaodong",
+     "type": "place"
+    },
+    {
+     "surface": "濟北",
+     "entity_id": "shiji-place-jibei",
+     "type": "place"
+    },
+    {
+     "surface": "淮陽",
+     "entity_id": "shiji-place-huaiyang",
+     "type": "place"
+    },
+    {
+     "surface": "汝南",
+     "entity_id": "shiji-place-runan",
+     "type": "place"
+    },
+    {
+     "surface": "魏其",
+     "entity_id": "shiji-place-weiqi",
+     "type": "place"
+    },
+    {
+     "surface": "平陸",
+     "entity_id": "shiji-place-pinglu",
+     "type": "place"
+    },
+    {
+     "surface": "太尉",
+     "entity_id": "shiji-office-taiwei",
+     "type": "office"
+    },
+    {
+     "surface": "大將軍",
+     "entity_id": "shiji-office-dajiangjun",
+     "type": "office"
+    }
+   ]
+  },
+  {
+   "para": "p4",
+   "original_trad": "四年夏，立太子。立皇子徹爲膠東王。六月甲戌，赦天下。後九月，更以弋陽爲陽陵。復置津關，用傳出入。冬，以趙國爲邯鄲郡。",
+   "original_simp": "四年夏，立太子。立皇子彻为胶东王。六月甲戌，赦天下。后九月，更以弋阳为阳陵。复置津关，用传出入。冬，以赵国为邯郸郡。",
+   "translation": "景帝四年夏天，立太子。立皇子刘彻为胶东王。六月甲戌日，大赦天下。后九月，把弋阳改设为阳陵。重新设置渡口关隘，凭传（通行证）出入。冬天，把赵国改为邯郸郡。",
+   "annotations": [
+    "[正義] 括地志云：「漢景帝陵也，在雍州咸陽縣東三十里。」按：豫作壽陵也。",
+    "[集解] 應劭曰：「文帝十二年，除關，無用傳，至此復置傳，以七國新反，備非常也。」張晏曰：「傳，信也，若今過所也。」如淳曰：「傳音『檄傳』之『傳』，兩行書繒帛，分持其一，出入關，合之乃得過，謂之傳。」",
+    "[索隱] 傳音丁戀反。如今之過所。",
+    "[集解] 地理志趙國景帝以爲邯鄲郡。"
+   ],
+   "entities": [
+    {
+     "surface": "皇子徹",
+     "entity_id": "shiji-person-liuche",
+     "type": "person"
+    },
+    {
+     "surface": "陽陵",
+     "entity_id": "shiji-place-yangling",
+     "type": "place"
+    },
+    {
+     "surface": "邯鄲郡",
+     "entity_id": "shiji-place-handanjun",
+     "type": "place"
+    },
+    {
+     "surface": "膠東",
+     "entity_id": "shiji-place-jiaodong",
+     "type": "place"
+    },
+    {
+     "surface": "弋陽",
+     "entity_id": "shiji-place-yiyang",
+     "type": "place"
+    }
+   ]
+  },
+  {
+   "para": "p5",
+   "original_trad": "五年三月，作陽陵、渭橋。五月，募徙陽陵，予錢二十萬。江都大暴風從西方來，壞城十二丈。丁卯，封長公主子蟜爲隆慮侯。徙廣川王爲趙王。",
+   "original_simp": "五年三月，作阳陵、渭桥。五月，募徙阳陵，予钱二十万。江都大暴风从西方来，坏城十二丈。丁卯，封长公主子𫊸为隆虑侯。徙广川王为赵王。",
+   "translation": "景帝五年三月，修建阳陵、渭桥。五月，招募百姓迁往阳陵，每户给予二十万钱。江都刮起从西方而来的大暴风，毁坏城墙十二丈。丁卯日，封长公主之子陈蟜为隆虑侯。迁广川王为赵王。",
+   "annotations": [
+    "[索隱] 景帝豫作壽陵也。按：趙系家趙肅侯十五年起壽陵，後代遂因之也。",
+    "[索隱] 音林閭。避殤帝諱改之。"
+   ],
+   "entities": [
+    {
+     "surface": "隆慮侯",
+     "entity_id": "shiji-person-chenjiao",
+     "type": "person"
+    },
+    {
+     "surface": "長公主",
+     "entity_id": "shiji-person-changgongzhu",
+     "type": "person"
+    },
+    {
+     "surface": "廣川王",
+     "entity_id": "shiji-person-liupengzu",
+     "type": "person"
+    },
+    {
+     "surface": "陽陵",
+     "entity_id": "shiji-place-yangling",
+     "type": "place"
+    },
+    {
+     "surface": "渭橋",
+     "entity_id": "shiji-place-weiqiao",
+     "type": "place"
+    },
+    {
+     "surface": "廣川",
+     "entity_id": "shiji-place-guangchuan",
+     "type": "place"
+    },
+    {
+     "surface": "江都",
+     "entity_id": "shiji-place-jiangdu",
+     "type": "place"
+    }
+   ]
+  },
+  {
+   "para": "p6",
+   "original_trad": "六年春，封中尉趙綰爲建陵侯，江都丞相嘉爲建平侯，隴西太守渾邪爲平曲侯，趙丞相嘉爲江陵侯，故將軍布爲鄃侯。梁楚二王皆薨。後九月，伐馳道樹，殖蘭池。",
+   "original_simp": "六年春，封中尉赵绾为建陵侯，江都丞相嘉为建平侯，陇西太守浑邪为平曲侯，赵丞相嘉为江陵侯，故将军布为鄃侯。梁楚二王皆薨。后九月，伐驰道树，殖兰池。",
+   "translation": "景帝六年春天，封中尉赵绾为建陵侯，江都丞相嘉为建平侯，陇西太守浑邪为平曲侯，赵丞相嘉为江陵侯，原将军布为鄃侯。梁王、楚王两位都去世了。后九月，砍伐驰道两旁的树木，在兰池种植（草木）。",
+   "annotations": [
+    "[正義] 括地志云：「建陵故縣在沂州承縣界。」",
+    "[集解] 徐廣曰：「姓程。」",
+    "[正義] 括地志云：「平曲縣故城在瀛州文安縣北七十里。」",
+    "[集解] 徐廣曰：「姓蘇。」",
+    "[集解] 徐廣曰：「殖，一作『填』。」",
+    "[正義] 按：馳道，天子道，秦始皇作之，三丈而樹。"
+   ],
+   "entities": [
+    {
+     "surface": "建陵侯",
+     "entity_id": "shiji-person-zhaowan",
+     "type": "person"
+    },
+    {
+     "surface": "平曲侯",
+     "entity_id": "shiji-person-hunye",
+     "type": "person"
+    },
+    {
+     "surface": "鄃侯",
+     "entity_id": "shiji-person-bu",
+     "type": "person"
+    },
+    {
+     "surface": "江都丞相嘉",
+     "entity_id": "shiji-person-chengjia",
+     "type": "person"
+    },
+    {
+     "surface": "趙丞相嘉",
+     "entity_id": "shiji-person-sujia",
+     "type": "person"
+    },
+    {
+     "surface": "江都",
+     "entity_id": "shiji-place-jiangdu",
+     "type": "place"
+    },
+    {
+     "surface": "江陵",
+     "entity_id": "shiji-place-jiangling",
+     "type": "place"
+    },
+    {
+     "surface": "蘭池",
+     "entity_id": "shiji-place-lanchi",
+     "type": "place"
+    },
+    {
+     "surface": "建陵",
+     "entity_id": "shiji-place-jianling",
+     "type": "place"
+    },
+    {
+     "surface": "平曲",
+     "entity_id": "shiji-place-pingqu",
+     "type": "place"
+    },
+    {
+     "surface": "丞相",
+     "entity_id": "shiji-office-chengxiang",
+     "type": "office"
+    },
+    {
+     "surface": "中尉",
+     "entity_id": "shiji-office-zhongwei",
+     "type": "office"
+    },
+    {
+     "surface": "太守",
+     "entity_id": "shiji-office-taishou",
+     "type": "office"
+    }
+   ]
+  },
+  {
+   "para": "p7",
+   "original_trad": "七年冬，廢栗太子爲臨江王。十二月晦，日有食之。春，免徒隸作陽陵者。丞相青免。二月乙巳，以太尉條侯周亞夫爲丞相。四月乙巳，立膠東王太后爲皇后。丁巳，立膠東王爲太子。名徹。",
+   "original_simp": "七年冬，废栗太子为临江王。十二月晦，日有食之。春，免徒隶作阳陵者。丞相青免。二月乙巳，以太尉条侯周亚夫为丞相。四月乙巳，立胶东王太后为皇后。丁巳，立胶东王为太子。名彻。",
+   "translation": "景帝七年冬天，废黜栗太子为临江王。十二月底，发生日食。春天，免除在阳陵服劳役的刑徒和奴婢。丞相陶青被免职。二月乙巳日，任命太尉、条侯周亚夫为丞相。四月乙巳日，立胶东王的母亲为皇后。丁巳日，立胶东王为太子，取名为彻。",
+   "annotations": [
+    "[正義] 臨江，忠州縣。雖王臨江而都江陵。",
+    "[正義] 條，田彫反。字亦作「蓧」，音同。",
+    "[索隱] 按系家，太后槐里人，父仲。兄信，封蓋侯。后故金氏妻女弟姁兒也。"
+   ],
+   "entities": [
+    {
+     "surface": "周亞夫",
+     "entity_id": "shiji-person-zhouyafu",
+     "type": "person"
+    },
+    {
+     "surface": "臨江王",
+     "entity_id": "shiji-person-liurong",
+     "type": "person"
+    },
+    {
+     "surface": "膠東王太后",
+     "entity_id": "shiji-person-wangtaihou",
+     "type": "person"
+    },
+    {
+     "surface": "陽陵",
+     "entity_id": "shiji-place-yangling",
+     "type": "place"
+    },
+    {
+     "surface": "膠東",
+     "entity_id": "shiji-place-jiaodong",
+     "type": "place"
+    },
+    {
+     "surface": "臨江",
+     "entity_id": "shiji-place-linjiang",
+     "type": "place"
+    },
+    {
+     "surface": "丞相",
+     "entity_id": "shiji-office-chengxiang",
+     "type": "office"
+    },
+    {
+     "surface": "太尉",
+     "entity_id": "shiji-office-taiwei",
+     "type": "office"
+    }
+   ]
+  },
+  {
+   "para": "p8",
+   "original_trad": "中元年，封故御史大夫周苛孫平爲繩侯，故御史大夫周昌子左車爲安陽侯，四月乙巳，赦天下，賜爵一級。除禁錮。地動。衡山、原都雨雹，大者尺八寸。",
+   "original_simp": "中元年，封故御史大夫周苛孙平为绳侯，故御史大夫周昌子左车为安阳侯，四月乙巳，赦天下，赐爵一级。除禁锢。地动。衡山、原都雨雹，大者尺八寸。",
+   "translation": "中元元年，封原御史大夫周苛的孙子周平为绳侯，原御史大夫周昌的儿子周左车为安阳侯。四月乙巳日，大赦天下，赏赐爵位一级。解除（对某些人的）禁锢。发生地震。衡山、原都降冰雹，大的直径一尺八寸。",
+   "annotations": [
+    "[索隱] 周昌之兄。",
+    "[集解] 徐廣曰：「一作『應』。」"
+   ],
+   "entities": [
+    {
+     "surface": "御史大夫周苛",
+     "entity_id": "shiji-person-zhouke",
+     "type": "person"
+    },
+    {
+     "surface": "繩侯",
+     "entity_id": "shiji-person-zhouping",
+     "type": "person"
+    },
+    {
+     "surface": "御史大夫周昌",
+     "entity_id": "shiji-person-zhouzhang",
+     "type": "person"
+    },
+    {
+     "surface": "安陽侯",
+     "entity_id": "shiji-person-zhouzuoche",
+     "type": "person"
+    },
+    {
+     "surface": "衡山",
+     "entity_id": "shiji-place-hengshan",
+     "type": "place"
+    },
+    {
+     "surface": "原都",
+     "entity_id": "shiji-place-yuandu",
+     "type": "place"
+    },
+    {
+     "surface": "御史大夫",
+     "entity_id": "shiji-office-yushidafu",
+     "type": "office"
+    }
+   ]
+  },
+  {
+   "para": "p9",
+   "original_trad": "中二年二月，匈奴入燕，遂不和親。三月，召臨江王來。即死中尉府中。夏，立皇子越爲廣川王，子寄爲膠東王。封四侯。九月甲戌，日食。",
+   "original_simp": "中二年二月，匈奴入燕，遂不和亲。三月，召临江王来。即死中尉府中。夏，立皇子越为广川王，子寄为胶东王。封四侯。九月甲戌，日食。",
+   "translation": "中元二年二月，匈奴入侵燕地，于是不再和亲。三月，召临江王（刘荣）入京。临江王随即死在中尉府中。夏天，立皇子刘越为广川王，皇子刘寄为胶东王。封四位列侯。九月甲戌日，发生日食。",
+   "annotations": [
+    "[集解] 文穎曰：「楚相張尚，太傅趙夷吾，趙相建德，內史王悍。此四人各諫其王，無使反，不聽，皆殺之，故封其子。」",
+    "[索隱] 韋昭云：「張尚子當居，趙夷吾子周，建德子橫，王悍子弃也。」"
+   ],
+   "entities": [
+    {
+     "surface": "臨江王",
+     "entity_id": "shiji-person-liurong",
+     "type": "person"
+    },
+    {
+     "surface": "廣川王",
+     "entity_id": "shiji-person-liupengzu",
+     "type": "person"
+    },
+    {
+     "surface": "皇子越",
+     "entity_id": "shiji-person-liuyue",
+     "type": "person"
+    },
+    {
+     "surface": "廣川",
+     "entity_id": "shiji-place-guangchuan",
+     "type": "place"
+    },
+    {
+     "surface": "膠東",
+     "entity_id": "shiji-place-jiaodong",
+     "type": "place"
+    },
+    {
+     "surface": "臨江",
+     "entity_id": "shiji-place-linjiang",
+     "type": "place"
+    },
+    {
+     "surface": "中尉",
+     "entity_id": "shiji-office-zhongwei",
+     "type": "office"
+    }
+   ]
+  },
+  {
+   "para": "p10",
+   "original_trad": "中三年冬，罷諸侯御史中丞。春，匈奴王二人率其徒來降，皆封爲列侯。立皇子方乘爲清河王。三月，彗星出西北。丞相周亞夫免，以御史大夫桃侯劉舍爲丞相。四月，地動。九月戊戌晦，日食。軍東都門外。",
+   "original_simp": "中三年冬，罢诸侯御史中丞。春，匈奴王二人率其徒来降，皆封为列侯。立皇子方乘为清河王。三月，彗星出西北。丞相周亚夫免，以御史大夫桃侯刘舍为丞相。四月，地动。九月戊戌晦，日食。军东都门外。",
+   "translation": "中元三年冬天，罢除诸侯国的御史中丞。春天，匈奴王二人率领他们的部众前来投降，都被封为列侯。立皇子刘方乘为清河王。三月，彗星出现在西北方。丞相周亚夫被免职，任命御史大夫、桃侯刘舍为丞相。四月，发生地震。九月戊戌日（月末），发生日食。（在）东都门外驻军。",
+   "annotations": [
+    "[正義] 漢書表云中三年，安陵侯子軍、桓侯賜、遒侯陸彊、容城侯徐盧、易侯僕日、范陽侯代、翕侯邯鄲七人，以匈奴王降，皆封爲列侯。按：紀言二人者是匈奴二王爲首降。",
+    "[集解] 按：三輔黃圖東出北頭第一門曰宣平門，外曰東都門。",
+    "[索隱] 按：三輔黃圖云東出北第一門曰宣平門，外曰東都門。"
+   ],
+   "entities": [
+    {
+     "surface": "周亞夫",
+     "entity_id": "shiji-person-zhouyafu",
+     "type": "person"
+    },
+    {
+     "surface": "皇子方乘",
+     "entity_id": "shiji-person-liufangcheng",
+     "type": "person"
+    },
+    {
+     "surface": "劉舍",
+     "entity_id": "shiji-person-liushe",
+     "type": "person"
+    },
+    {
+     "surface": "東都門",
+     "entity_id": "shiji-place-dongdumen",
+     "type": "place"
+    },
+    {
+     "surface": "丞相",
+     "entity_id": "shiji-office-chengxiang",
+     "type": "office"
+    },
+    {
+     "surface": "御史大夫",
+     "entity_id": "shiji-office-yushidafu",
+     "type": "office"
+    },
+    {
+     "surface": "御史中丞",
+     "entity_id": "shiji-office-yushizhongcheng",
+     "type": "office"
+    }
+   ]
+  },
+  {
+   "para": "p11",
+   "original_trad": "中四年三月，置德陽宮。大蝗。秋，赦徒作陽陵者。",
+   "original_simp": "中四年三月，置德阳宫。大蝗。秋，赦徒作阳陵者。",
+   "translation": "中元四年三月，修建德阳宫。发生大蝗灾。秋天，赦免在阳陵服劳役的刑徒。",
+   "annotations": [
+    "[集解] 瓚曰：「是景帝廟也，帝自作之，諱不言廟，故言宮。西京故事云景帝廟爲德陽宮。」"
+   ],
+   "entities": [
+    {
+     "surface": "陽陵",
+     "entity_id": "shiji-place-yangling",
+     "type": "place"
+    },
+    {
+     "surface": "德陽宮",
+     "entity_id": "shiji-place-deyanggong",
+     "type": "place"
+    }
+   ]
+  },
+  {
+   "para": "p12",
+   "original_trad": "中五年夏，立皇子舜爲常山王。封十侯。六月丁巳，赦天下，賜爵一級。天下大潦。更命諸侯丞相曰相。秋，地動。",
+   "original_simp": "中五年夏，立皇子舜为常山王。封十侯。六月丁巳，赦天下，赐爵一级。天下大潦。更命诸侯丞相曰相。秋，地动。",
+   "translation": "中元五年夏天，立皇子刘舜为常山王。封十位列侯。六月丁巳日，大赦天下，赏赐爵位一级。天下大雨成灾（大水）。改称诸侯国的丞相为“相”。秋天，发生地震。",
+   "annotations": [
+    "[正義] 惠景閒年表云亞谷侯盧他之、隆盧侯陳蟜、乘氏侯劉買、桓邑侯劉明、蓋侯王信。按：其五人是中元五年封，餘檢不獲。中元三年，匈奴王二人降，封爲列侯。惠景閒表云匈奴王降爲侯者有七人，疑其五人是十侯之數。"
+   ],
+   "entities": [
+    {
+     "surface": "皇子舜",
+     "entity_id": "shiji-person-liushun",
+     "type": "person"
+    },
+    {
+     "surface": "丞相",
+     "entity_id": "shiji-office-chengxiang",
+     "type": "office"
+    }
+   ]
+  },
+  {
+   "para": "p13",
+   "original_trad": "中六年二月己卯，行幸雍，郊見五帝。三月，雨雹。四月，梁孝王、城陽共王、汝南王皆薨。立梁孝王子明爲濟川王，子彭離爲濟東王，子定爲山陽王，子不識爲濟陰王。梁分爲五。封四侯。更命廷尉爲大理，將作少府爲將作大匠，主爵中尉爲都尉，長信詹事爲長信少府，將行爲大長秋，大行爲行人，奉常爲太常，典客爲大行，治粟內史爲大農。以大內爲二千石，置左右內官，屬大內。七月辛亥，日食。八月，匈奴入上郡。",
+   "original_simp": "中六年二月己卯，行幸雍，郊见五帝。三月，雨雹。四月，梁孝王、城阳共王、汝南王皆薨。立梁孝王子明为济川王，子彭离为济东王，子定为山阳王，子不识为济阴王。梁分为五。封四侯。更命廷尉为大理，将作少府为将作大匠，主爵中尉为都尉，长信詹事为长信少府，将行为大长秋，大行为行人，奉常为太常，典客为大行，治粟内史为大农。以大内为二千石，置左右内官，属大内。七月辛亥，日食。八月，匈奴入上郡。",
+   "translation": "中元六年二月己卯日，皇上巡行到雍，郊祭拜见五帝。三月，降冰雹。四月，梁孝王、城阳共王、汝南王都去世了。立梁孝王之子刘明为济川王，之子刘彭离为济东王，之子刘定为山阳王，之子刘不识为济阴王。梁国被分为五国。封四位列侯。改称廷尉为大理，将作少府为将作大匠，主爵中尉为都尉，长信詹事为长信少府，将行为大长秋，大行为行人，奉常为太常，典客为大行，治粟内史为大农。把大内定为二千石的官阶，设置左右内官，隶属大内。七月辛亥日，发生日食。八月，匈奴入侵上郡。",
+   "annotations": [
+    "[正義] 都睢陽，今宋州。",
+    "[正義] 城陽，今濮州雷澤縣，古城陽也。共音恭。謚法「嚴敬故事曰恭」。",
+    "[正義] 表云分梁置也。",
+    "[正義] 表云分梁置也。",
+    "[正義] 地理志云景帝中六年別爲山陽國，屬兗州。",
+    "[正義] 地理志云景帝中六年別爲濟陰國，屬兗州。按：今曹州是也。",
+    "[集解] 漢書百官表曰：「主爵中尉，秦官，掌列侯。」",
+    "[集解] 漢書百官表曰：「詹事，秦官，掌皇后太子家。」應劭曰：「詹，省也，給也。」瓚曰：「茂陵書詹事秩二千石。」",
+    "[集解] 張晏曰：「以太后所居宮爲名。長信宮則曰長信少府，長樂宮則曰長樂少府。」",
+    "[集解] 漢書百官表曰：「將行，秦官。」應劭曰：「長秋，皇后卿。」",
+    "[集解] 服虔曰：「天子死未有謚，稱大行。」晉灼曰：「禮有大行、小行，主謚官，故以此名之。」如淳曰：「不反之辭也。」瓚曰：「大行是官名，掌九儀之制，以賔諸侯。」",
+    "[索隱] 按：鄭玄曰「命者五，謂公、侯、伯、子、男，爵者四，孤、卿、大夫、士，是九也。」",
+    "[集解] 漢書百官表曰：「奉常，秦官，掌宗廟禮儀。」",
+    "[索隱] 韋昭云：「大行，官名，秦時云典客，景帝初改云大行，後更名大鴻臚，武帝因而不改，故漢書景紀有大鴻臚。百官表又云武帝改名大鴻臚。鴻，聲也。臚，附皮。以言其掌四夷賔客，若皮臚之在外附於身也。復有大行令，故諸侯薨，大鴻臚奏謚，列侯薨，則大行奏誄」。按：此大行令即鴻臚之屬官也。",
+    "[集解] 漢書百官表曰：「治粟內史，秦官，掌穀貨也。」",
+    "[集解] 韋昭曰：「大內，京師府藏。」",
+    "[索隱] 主天子之私財物曰少內。少內屬大內也。"
+   ],
+   "entities": [
+    {
+     "surface": "梁孝王",
+     "entity_id": "shiji-person-liangxiaowang",
+     "type": "person"
+    },
+    {
+     "surface": "梁孝王子明",
+     "entity_id": "shiji-person-liuming",
+     "type": "person"
+    },
+    {
+     "surface": "城陽共王",
+     "entity_id": "shiji-person-chengyanggongwang",
+     "type": "person"
+    },
+    {
+     "surface": "汝南",
+     "entity_id": "shiji-place-runan",
+     "type": "place"
+    },
+    {
+     "surface": "上郡",
+     "entity_id": "shiji-place-shangjun",
+     "type": "place"
+    },
+    {
+     "surface": "中尉",
+     "entity_id": "shiji-office-zhongwei",
+     "type": "office"
+    },
+    {
+     "surface": "內史",
+     "entity_id": "shiji-office-neishi",
+     "type": "office"
+    },
+    {
+     "surface": "廷尉",
+     "entity_id": "shiji-office-tingwei",
+     "type": "office"
+    },
+    {
+     "surface": "奉常",
+     "entity_id": "shiji-office-fengchang",
+     "type": "office"
+    },
+    {
+     "surface": "典客",
+     "entity_id": "shiji-office-dianke",
+     "type": "office"
+    },
+    {
+     "surface": "治粟內史",
+     "entity_id": "shiji-office-zhisu",
+     "type": "office"
+    },
+    {
+     "surface": "將作少府",
+     "entity_id": "shiji-office-jiangzuoshaofu",
+     "type": "office"
+    },
+    {
+     "surface": "主爵中尉",
+     "entity_id": "shiji-office-zhujuezhongwei",
+     "type": "office"
+    },
+    {
+     "surface": "長信詹事",
+     "entity_id": "shiji-office-changxinzhanshi",
+     "type": "office"
+    },
+    {
+     "surface": "將行",
+     "entity_id": "shiji-office-jiangxing",
+     "type": "office"
+    },
+    {
+     "surface": "大內",
+     "entity_id": "shiji-office-danei",
+     "type": "office"
+    }
+   ]
+  },
+  {
+   "para": "p14",
+   "original_trad": "後元年冬，更命中大夫爲衞尉。三月丁酉，赦天下，賜爵一級，中二千石、諸侯相爵右庶長。四月，大酺。五月丙戌，地動，其蚤食時復動。上庸地動二十二日，壞城垣。七月乙巳，日食。丞相劉舍免。八月壬辰，以御史大夫綰爲丞相，封爲建陵侯。",
+   "original_simp": "后元年冬，更命中大夫为衞尉。三月丁酉，赦天下，赐爵一级，中二千石、诸侯相爵右庶长。四月，大酺。五月丙戌，地动，其蚤食时复动。上庸地动二十二日，坏城垣。七月乙巳，日食。丞相刘舍免。八月壬辰，以御史大夫绾为丞相，封为建陵侯。",
+   "translation": "后元元年冬天，改称中大夫为卫尉。三月丁酉日，大赦天下，赏赐爵位一级，中二千石官员、诸侯相赐爵右庶长。四月，举行大宴饮（大酺）。五月丙戌日，发生地震，到早饭时分又震了一次。上庸地震持续二十二天，毁坏城墙。七月乙巳日，发生日食。丞相刘舍被免职。八月壬辰日，任命御史大夫卫绾为丞相，封他为建陵侯。",
+   "annotations": [
+    "[正義] 漢書百官表云：「衞尉，秦官，掌宮闈門衞屯兵。景帝初，更命中大夫，分後元年，復爲衞尉。」",
+    "[集解] 徐廣曰：「丙，一作『甲』。」",
+    "[索隱] 姓衞也。"
+   ],
+   "entities": [
+    {
+     "surface": "建陵侯",
+     "entity_id": "shiji-person-zhaowan",
+     "type": "person"
+    },
+    {
+     "surface": "丞相劉舍",
+     "entity_id": "shiji-person-liushe",
+     "type": "person"
+    },
+    {
+     "surface": "上庸",
+     "entity_id": "shiji-place-shangyong",
+     "type": "place"
+    },
+    {
+     "surface": "建陵",
+     "entity_id": "shiji-place-jianling",
+     "type": "place"
+    },
+    {
+     "surface": "丞相",
+     "entity_id": "shiji-office-chengxiang",
+     "type": "office"
+    },
+    {
+     "surface": "御史大夫",
+     "entity_id": "shiji-office-yushidafu",
+     "type": "office"
+    },
+    {
+     "surface": "中大夫",
+     "entity_id": "shiji-office-zhongdafu",
+     "type": "office"
+    },
+    {
+     "surface": "諸侯相",
+     "entity_id": "shiji-office-zhuhouxiang",
+     "type": "office"
+    },
+    {
+     "surface": "衞尉",
+     "entity_id": "shiji-office-weiwei",
+     "type": "office"
+    }
+   ]
+  },
+  {
+   "para": "p15",
+   "original_trad": "後二年正月，地一日三動。郅將軍擊匈奴。酺五日。令內史郡不得食馬粟，沒入縣官。令徒隸衣七緵布。止馬舂。爲歲不登，禁天下食不造歲。省列侯遣之國。三月，匈奴入鴈門。十月，租長陵田。大旱。衡山國、河東、雲中郡民疫。",
+   "original_simp": "后二年正月，地一日三动。郅将军击匈奴。酺五日。令内史郡不得食马粟，没入县官。令徒隶衣七緵布。止马舂。为岁不登，禁天下食不造岁。省列侯遣之国。三月，匈奴入鴈门。十月，租长陵田。大旱。衡山国、河东、云中郡民疫。",
+   "translation": "后元二年正月，一天之内地震三次。郅将军（郅都）攻打匈奴。举行五天宴饮。命令内史和各郡不得用粮食喂马，（否则）将马匹没收归官府。命令刑徒奴婢穿七緵布（一种粗布）。停止用马舂米。因为年成歉收，禁止天下（百姓）不到收获季节就把粮食吃尽（意即节约用粮）。减少（留居京师的）列侯，遣送他们前往封国。三月，匈奴入侵雁门。十月，征收长陵田地的租税。发生大旱。衡山国、河东、云中郡百姓发生瘟疫。",
+   "annotations": [
+    "[正義] 郅，真栗反。郅都傳云匈奴刻木爲郅都而射，不中。",
+    "[索隱] 七緵，蓋今七升布，言其粗，故令衣之也。",
+    "[正義] 衣，於旣反。緵，祖工反。緵，八十縷也。與布相似。七升布用五百六十縷。",
+    "[索隱] 止人爲馬舂粟，爲歲不登故也。",
+    "[集解] 晉灼曰：「文紀遣列侯之國，今又省之。」",
+    "[正義] 衡山國，今衡州。河東，今蒲州。雲中郡，今勝州。"
+   ],
+   "entities": [
+    {
+     "surface": "郅將軍",
+     "entity_id": "shiji-person-zhidu",
+     "type": "person"
+    },
+    {
+     "surface": "衡山",
+     "entity_id": "shiji-place-hengshan",
+     "type": "place"
+    },
+    {
+     "surface": "鴈門",
+     "entity_id": "shiji-place-yanmen",
+     "type": "place"
+    },
+    {
+     "surface": "長陵",
+     "entity_id": "shiji-place-changling",
+     "type": "place"
+    },
+    {
+     "surface": "雲中郡",
+     "entity_id": "shiji-place-yunzhong",
+     "type": "place"
+    },
+    {
+     "surface": "河東",
+     "entity_id": "shiji-place-hedong",
+     "type": "place"
+    },
+    {
+     "surface": "內史",
+     "entity_id": "shiji-office-neishi",
+     "type": "office"
+    }
+   ]
+  },
+  {
+   "para": "p16",
+   "original_trad": "後三年十月，日月皆食赤五日。十二月晦，䨓。日如紫。五星逆行守太微。月貫天庭中。正月甲寅，皇太子冠。甲子，孝景皇帝崩。遺詔賜諸侯王以下至民爲父後爵一級，天下戶百錢。出宮人歸其家，復無所與。太子即位，是爲孝武皇帝。三月，封皇太后弟蚡爲武安侯，弟勝爲周陽侯。置陽陵。",
+   "original_simp": "后三年十月，日月皆食赤五日。十二月晦，䨓。日如紫。五星逆行守太微。月贯天庭中。正月甲寅，皇太子冠。甲子，孝景皇帝崩。遗诏赐诸侯王以下至民为父后爵一级，天下户百钱。出宫人归其家，复无所与。太子即位，是为孝武皇帝。三月，封皇太后弟蚡为武安侯，弟胜为周阳侯。置阳陵。",
+   "translation": "后元三年十月，太阳和月亮都发生亏食，呈赤色，持续五天。十二月底，打雷。太阳呈现紫色。五星（金木水火土）逆行，停留在太微星垣。月亮贯穿天庭之中。正月甲寅日，皇太子举行冠礼。甲子日，孝景皇帝驾崩。遗诏赐诸侯王以下直到百姓中为父继承家业的人爵位一级，天下每户赐钱一百。放出宫中女子让她们回家，免除其（赋役），不再加以役使。太子即位，这就是孝武皇帝。三月，封皇太后的弟弟田蚡为武安侯，弟弟田胜为周阳侯。设置阳陵（县）。",
+   "annotations": [
+    "[集解] 徐廣曰：「一作『雷』字，又作『圖』字，實所未詳。」",
+    "[索隱] 天庭即龍星右角也。按：石氏星傳曰「龍在左角曰天田，右角曰天廷」。",
+    "[集解] 皇甫謐曰：「帝以孝惠七年生，年四十八。」",
+    "[集解] 漢書云：「二月癸酉，帝葬陽陵。」皇甫謐曰：「陽陵山方百二十步，高十四丈，去長安四十五里。」",
+    "[集解] 蘇林曰：「蚡音鼢。」",
+    "[索隱] 蚡音扶粉反。按：外戚世家皇太后母臧氏初嬪王氏，生子信而寡，更嫁長陵田氏，生蚡及勝也。"
+   ],
+   "entities": [
+    {
+     "surface": "孝景皇帝",
+     "entity_id": "shiji-person-xiaojinghuangdi",
+     "type": "person"
+    },
+    {
+     "surface": "孝武皇帝",
+     "entity_id": "shiji-person-liuche",
+     "type": "person"
+    },
+    {
+     "surface": "皇太后弟蚡",
+     "entity_id": "shiji-person-tianfen",
+     "type": "person"
+    },
+    {
+     "surface": "周陽侯",
+     "entity_id": "shiji-person-tiansheng",
+     "type": "person"
+    },
+    {
+     "surface": "皇太后",
+     "entity_id": "shiji-person-wangtaihou",
+     "type": "person"
+    },
+    {
+     "surface": "陽陵",
+     "entity_id": "shiji-place-yangling",
+     "type": "place"
+    }
+   ]
+  },
+  {
+   "para": "p17",
+   "original_trad": "太史公曰：漢興，孝文施大德，天下懷安，至孝景，不復憂異姓，而晁錯刻削諸侯，遂使七國俱起，合從而西鄉，以諸侯太盛，而錯爲之不以漸也。及主父偃言之，而諸侯以弱，卒以安。安危之機，豈不以哉？案：藝文類聚・漢景帝「以」字後有 「謀」字。",
+   "original_simp": "太史公曰：汉兴，孝文施大德，天下怀安，至孝景，不复忧异姓，而晁错刻削诸侯，遂使七国俱起，合从而西乡，以诸侯太盛，而错为之不以渐也。及主父偃言之，而诸侯以弱，卒以安。安危之机，岂不以哉？案：艺文类聚・汉景帝「以」字后有 「谋」字。",
+   "translation": "太史公说：汉朝兴起，孝文帝施行大的恩德，天下人心怀安定；到了孝景帝时，不再忧虑异姓诸侯（反叛），而晁错严苛地削夺诸侯，于是使得七国一同起兵，合纵向西进军；这是因为诸侯势力太强盛，而晁错处理这件事又没有采用循序渐进的办法。等到主父偃进言（推行推恩之策），诸侯由此被削弱，最终得以安定。安危的关键，难道不是因为（善用）谋略吗？（校勘记：据《艺文类聚·汉景帝》引文，“以”字之后有“谋”字，故正文当从作“岂不以谋哉”。）",
+   "annotations": [
+    "[索隱] 主父偃上言，今天子下推恩之令，令諸侯各得分邑其子弟，於是遂弱，卒以安也。"
+   ],
+   "entities": [
+    {
+     "surface": "孝景",
+     "entity_id": "shiji-person-xiaojinghuangdi",
+     "type": "person"
+    },
+    {
+     "surface": "孝文",
+     "entity_id": "shiji-person-xiaowen",
+     "type": "person"
+    },
+    {
+     "surface": "晁錯",
+     "entity_id": "shiji-person-chaocuo",
+     "type": "person"
+    },
+    {
+     "surface": "太史公",
+     "entity_id": "shiji-person-simaqian",
+     "type": "person"
+    },
+    {
+     "surface": "主父偃",
+     "entity_id": "shiji-person-zhufuyan",
+     "type": "person"
+    }
+   ]
+  },
+  {
+   "para": "p18",
+   "original_trad": "索隱述贊曰：景帝即位，因脩靜默。勉人於農，率下以德。制度斯創，禮法可則。一朝吳楚，乍起凶慝。提局成舋，拒輪致惑。晁錯雖誅，梁城未克。條侯出將，追奔逐北。坐見梟剠，立翦牟賊。如何太尉，後卒下獄。惜哉明君，斯功不錄！",
+   "original_simp": "索隐述赞曰：景帝即位，因修静默。勉人于农，率下以德。制度斯创，礼法可则。一朝吴楚，乍起凶慝。提局成舋，拒轮致惑。晁错虽诛，梁城未克。条侯出将，追奔逐北。坐见枭剠，立翦牟贼。如何太尉，后卒下狱。惜哉明君，斯功不录！",
+   "translation": "索隐述赞说：景帝即位之后，于是修持清静无为（之道）。勉励百姓从事农耕，以德行统率臣下。各项制度由此创制，礼法可以作为准则。吴、楚（等诸侯）一朝发难，忽然兴起凶恶（之心）。挑起事端（如提挈棋局）酿成嫌隙，如螳臂挡车，终致祸乱。晁错虽然被诛杀，梁国的城池仍未被攻下。条侯出任将帅，追击奔逃、追逐败北之敌。眼看着（叛者）被枭首受刑，立刻剪灭这些贼寇。奈何太尉（周亚夫），后来终于下狱。可惜啊，这样的明君，这样的功劳竟不被记录（录用）！",
+   "annotations": [],
+   "entities": [
+    {
+     "surface": "景帝",
+     "entity_id": "shiji-person-xiaojinghuangdi",
+     "type": "person"
+    },
+    {
+     "surface": "條侯",
+     "entity_id": "shiji-person-zhouyafu",
+     "type": "person"
+    },
+    {
+     "surface": "晁錯",
+     "entity_id": "shiji-person-chaocuo",
+     "type": "person"
+    },
+    {
+     "surface": "太尉",
+     "entity_id": "shiji-office-taiwei",
+     "type": "office"
+    }
+   ]
+  }
+ ]
+}

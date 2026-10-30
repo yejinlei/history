@@ -1,0 +1,4791 @@
+{
+ "book": "shiji",
+ "chapter": "高祖本纪",
+ "persons": [
+  {
+   "id": "shiji-person-gaozu",
+   "name": "劉邦",
+   "aliases": [
+    "高祖",
+    "劉季",
+    "沛公",
+    "漢王",
+    "漢高祖",
+    "高皇帝"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "漢朝開國皇帝",
+   "description": "沛豐邑中陽里人，字季，秦時為泗水亭長。斬白蛇起義被立為沛公，先諸侯入關中、約法三章，受封漢王，歷五年楚漢相爭，垓下破項羽，定陶氾水之陽即位稱帝，國號漢。注疏引漢書音義云「諱邦」，項岱謂小字季、即位易名邦，皇甫謐謂名執嘉。",
+   "evidence": [
+    "P0",
+    "P1",
+    "P6",
+    "P9",
+    "P21",
+    "P25",
+    "P51",
+    "P52",
+    "P88"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-taigong",
+   "name": "太公",
+   "aliases": [
+    "太上皇",
+    "劉煓",
+    "執嘉"
+   ],
+   "type": "Person",
+   "dynasty": "漢",
+   "role": "高祖之父",
+   "description": "高祖劉邦之父，本居家如凡人父子之禮，高祖六年用太公家令言尊為太上皇。後崩於櫟陽宮，葬萬年。注疏索隱引皇甫謐云名執嘉，王符云太上皇名煓；索隱云太上者無上也。",
+   "evidence": [
+    "P0",
+    "P60",
+    "P69",
+    "P71"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-liuyuan",
+   "name": "劉媼",
+   "aliases": [
+    "昭靈夫人",
+    "昭靈后",
+    "含始"
+   ],
+   "type": "Person",
+   "dynasty": "漢",
+   "role": "高祖之母",
+   "description": "高祖之母，嘗息大澤之陂，夢與神遇，太公往視見蛟龍於上，已而有身生高祖。注疏集解引文穎云幽州及漢中謂老嫗為媼；正義引帝王世紀云昭靈后含始游洛池吞赤珠生高祖，陳留風俗傳云謚昭靈夫人。",
+   "evidence": [
+    "P0"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-lvgong",
+   "name": "呂公",
+   "aliases": [
+    "呂文"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "呂后之父",
+   "description": "單父人，善相人，因避仇客居沛，與沛令相善。沛令賀宴上見高祖狀貌奇之，遂以女呂雉妻高祖。注疏索隱引相經云魏人呂公名文、字叔平，漢書舊儀云汝南新蔡人。",
+   "evidence": [
+    "P3"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-lvzhi",
+   "name": "呂雉",
+   "aliases": [
+    "呂后",
+    "呂太后"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "高祖皇后",
+   "description": "呂公之女，嫁高祖，生孝惠帝與魯元公主。高祖微時呂后常與人尋得其隱處，云季所居上有雲氣。高祖崩於長樂宮，呂后與審食其謀誅諸將，四日不發喪。",
+   "evidence": [
+    "P3",
+    "P4",
+    "P83",
+    "P85"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-lvao",
+   "name": "呂媼",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "呂公之妻",
+   "description": "呂公之妻、呂雉之母。呂公許女於高祖時，呂媼怒責呂公，云公始常欲奇此女與貴人，沛令求之不與，何自妄許劉季。注疏集解引文穎云媼為老嫗之稱。",
+   "evidence": [
+    "P3"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-xiaohe",
+   "name": "蕭何",
+   "aliases": [
+    "蕭相國",
+    "酇侯"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "沛主吏、漢丞相",
+   "description": "沛人，為沛主吏，主進賀錢。隨劉季起兵佐定天下。高祖論功稱其「鎮國家，撫百姓，給餽饟，不絕糧道」；後營作未央宮。注疏索隱引漢書蕭曹傳云何為主吏。",
+   "evidence": [
+    "P3",
+    "P9",
+    "P56",
+    "P66"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-caocan",
+   "name": "曹參",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "沛獄掾、漢相",
+   "description": "沛人，為獄掾，與蕭何共勸沛令召亡在外者，收沛子弟起兵。高祖臨終論繼相，呂后問蕭何之後，首言「曹參可」。注疏索隱引漢書蕭曹傳，謂參為獄掾、何為主吏。",
+   "evidence": [
+    "P9",
+    "P83"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-fankuai",
+   "name": "樊噲",
+   "aliases": [
+    "樊將軍"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "沛人、漢將",
+   "description": "沛人，奉沛令之命召劉季，後與蕭何、曹參等收沛子弟起兵。鴻門宴隨高祖赴會，與張良共救高祖得脫歸。後別將兵定代，斬陳豨於當城，又與周勃擊燕王盧綰。",
+   "evidence": [
+    "P8",
+    "P9",
+    "P22",
+    "P63",
+    "P81",
+    "P82"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-zhangliang",
+   "name": "張良",
+   "aliases": [
+    "留侯",
+    "子房"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "韓國貴族、漢謀臣",
+   "description": "韓國舊貴族，佐沛公略韓地轘轅。諫沛公勿急入關而先下宛；鴻門宴與樊噲救高祖得脫。高祖稱其「運籌策帷帳之中，決勝於千里之外」，封留侯。注疏集解引文穎云良累世相韓。",
+   "evidence": [
+    "P18",
+    "P19",
+    "P22",
+    "P45",
+    "P47",
+    "P50",
+    "P56"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-hanxin",
+   "name": "韓信",
+   "aliases": [
+    "淮陰侯",
+    "齊王",
+    "楚王"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "漢大將",
+   "description": "初事項羽，後歸漢，高祖用其計還定三秦。破魏虜豹、下井陘斬陳餘、破齊殺龍且，垓下將三十萬敗項羽。先立為齊王，徙為楚王，後降封淮陰侯，十一年謀反關中夷三族。",
+   "evidence": [
+    "P26",
+    "P28",
+    "P37",
+    "P43",
+    "P45",
+    "P51",
+    "P53",
+    "P61",
+    "P75"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-hanwangxin",
+   "name": "韓王信",
+   "aliases": [
+    "韓太尉信"
+   ],
+   "type": "Person",
+   "dynasty": "韓",
+   "role": "韓宗室、漢韓王",
+   "description": "韓太尉信，高祖東略地時立為韓王。滎陽之役為楚所虜，後徙王太原。七年匈奴攻馬邑，信因與謀反太原，高祖親擊之。注疏集解辨此韓王信非淮陰侯信也。",
+   "evidence": [
+    "P29",
+    "P41",
+    "P53",
+    "P62",
+    "P63",
+    "P65"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-chenping",
+   "name": "陳平",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "漢謀臣、丞相",
+   "description": "漢謀臣。滎陽被圍時，高祖用其計予金四萬斤，離間楚君臣，致項羽疑范增。後用其計偽遊雲夢，會諸侯於陳而執楚王韓信。高祖臨終言「陳平智有餘，然難以獨任」。",
+   "evidence": [
+    "P38",
+    "P50",
+    "P61",
+    "P83",
+    "P85"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-zhoubo",
+   "name": "周勃",
+   "aliases": [
+    "絳侯",
+    "太尉"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "漢將、太尉",
+   "description": "漢將。垓下之戰位在皇帝之後；後以太尉道太原入定代地，又與樊噲擊燕王盧綰。高祖遺言「周勃重厚少文，然安劉氏者必勃也，可令為太尉」。",
+   "evidence": [
+    "P51",
+    "P73",
+    "P82",
+    "P83"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-xiangyu",
+   "name": "項羽",
+   "aliases": [
+    "項籍",
+    "魯公",
+    "項王",
+    "西楚霸王"
+   ],
+   "type": "Person",
+   "dynasty": "楚",
+   "role": "楚將、西楚霸王",
+   "description": "楚名將項梁之姪。破秦軍，殺宋義自為上將軍，詐阬秦卒，入關屠燒咸陽。自立西楚霸王，分封十八諸侯，以高祖為漢王。楚漢相爭五年，兵敗垓下，走死東城。",
+   "evidence": [
+    "P11",
+    "P13",
+    "P16",
+    "P22",
+    "P25",
+    "P33",
+    "P47",
+    "P51"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-yongchi",
+   "name": "雍齒",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "魏",
+   "role": "沛人、魏守豐",
+   "description": "沛人，沛公命其守豐。魏人周巿招之，遂反為魏守豐，高祖怨之，攻豐不能取。高祖還沛時言「豐，吾所生長，特為其以雍齒故反我為魏」，故久不復豐。",
+   "evidence": [
+    "P10",
+    "P79"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-luwan",
+   "name": "盧綰",
+   "aliases": [
+    "燕王"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "高祖同里、燕王",
+   "description": "高祖同里之人，嘗將卒渡白馬津入楚地。高帝五年立為燕王；後陳豨降將言綰與豨陰謀，高祖使樊噲、周勃擊之。高祖崩，盧綰遂亡入匈奴。",
+   "evidence": [
+    "P42",
+    "P58",
+    "P70",
+    "P82",
+    "P84",
+    "P86"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-wangling",
+   "name": "王陵",
+   "aliases": [
+    "安國侯"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "漢將、丞相",
+   "description": "初起兵南陽，以兵屬漢，曾降西陵。高祖置酒雒陽南宮，與高起論楚漢得失。高祖遺言呂后：蕭何之後「王陵可，然陵少戇，陳平可以助之」。",
+   "evidence": [
+    "P19",
+    "P56",
+    "P83"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-xiangliang",
+   "name": "項梁",
+   "aliases": [
+    "武信君"
+   ],
+   "type": "Person",
+   "dynasty": "楚",
+   "role": "楚將",
+   "description": "項羽季父，起兵於吳，立楚懷王孫心為楚王，號武信君。屢破秦軍後有驕色，宋義諫之不聽，秦將章邯夜銜枚襲擊，大破之於定陶，項梁死。",
+   "evidence": [
+    "P10",
+    "P11",
+    "P13",
+    "P14",
+    "P24"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-xiangbo",
+   "name": "項伯",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "楚",
+   "role": "項羽季父",
+   "description": "項羽季父。鴻門宴前夜因欲救張良，夜往見良，並以文諭項羽，使項羽止攻沛公，沛公遂得赴鴻門謝罪脫險。注疏正義引項羽本紀述其事。",
+   "evidence": [
+    "P22"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-fanzeng",
+   "name": "范增",
+   "aliases": [
+    "亞父"
+   ],
+   "type": "Person",
+   "dynasty": "楚",
+   "role": "項羽謀臣",
+   "description": "項羽謀臣，號亞父，尊之亞於父。勸項羽擊沛公；滎陽之役勸項羽急下滎陽，為陳平反間所疑，怒而辭老，未至彭城而死。高祖言「項羽有一范增而不能用」。",
+   "evidence": [
+    "P16",
+    "P22",
+    "P38",
+    "P56"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-songyi",
+   "name": "宋義",
+   "aliases": [
+    "卿子冠軍"
+   ],
+   "type": "Person",
+   "dynasty": "楚",
+   "role": "楚上將軍",
+   "description": "楚懷王以為上將軍，北救趙。曾諫項梁勿驕，項梁不聽而敗死。後項羽矯殺宋義，代為上將軍。注疏索隱引荀悅漢紀稱其為「故楚令尹」。",
+   "evidence": [
+    "P13",
+    "P16",
+    "P20"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-chensheng",
+   "name": "陳勝",
+   "aliases": [
+    "陳涉",
+    "陳王",
+    "楚隱王"
+   ],
+   "type": "Person",
+   "dynasty": "張楚",
+   "role": "反秦首義者、張楚王",
+   "description": "秦二世元年起兵於蘄，至陳而稱王，號「張楚」，諸郡縣多殺長吏以應之，後敗死。高祖定天下後詔為陳涉等置守冢，稱其「楚隱王陳涉」。",
+   "evidence": [
+    "P8",
+    "P10",
+    "P82"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-zhouzhang",
+   "name": "周章",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "張楚",
+   "role": "陳勝之將",
+   "description": "陳勝之將，率軍西至戲而還，為秦將章邯所破。注疏索隱謂此即陳涉之將周章，別將為章邯所敗。",
+   "evidence": [
+    "P10"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-huaixin",
+   "name": "楚懷王",
+   "aliases": [
+    "義帝",
+    "心",
+    "懷王孫心"
+   ],
+   "type": "Person",
+   "dynasty": "楚",
+   "role": "楚王、義帝",
+   "description": "楚懷王孫，名心。項梁立為楚王，都盱台，後徙都彭城。約諸將「先入定關中者王之」。項羽詳尊為義帝，陰令衡山、臨江王擊殺之江南。高祖為之發喪，告諸侯討項羽。",
+   "evidence": [
+    "P11",
+    "P15",
+    "P16",
+    "P24",
+    "P27",
+    "P32",
+    "P53"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-zhanghan",
+   "name": "章邯",
+   "aliases": [
+    "雍王"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "秦將、雍王",
+   "description": "秦將。破陳勝、項梁軍，後降項羽於趙，被封雍王，王關中，都廢丘。高祖用韓信計還定三秦，章邯敗走廢丘，城破自殺。",
+   "evidence": [
+    "P10",
+    "P13",
+    "P14",
+    "P20",
+    "P25",
+    "P28",
+    "P35"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-simaxin",
+   "name": "司馬欣",
+   "aliases": [
+    "塞王欣"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "秦將、塞王",
+   "description": "秦將，項羽封為塞王，都櫟陽。高祖東略地時降漢，後彭城之敗又亡入楚。汜水之戰楚軍敗，欣自剄汜水上，高祖梟其頭於櫟陽市。",
+   "evidence": [
+    "P25",
+    "P29",
+    "P33",
+    "P44",
+    "P48"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-dongyi",
+   "name": "董翳",
+   "aliases": [
+    "翟王"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "秦將、翟王",
+   "description": "秦將，項羽三分關中時立為翟王，都高奴，王上郡之地。高祖東略地時與塞王欣、河南王申陽皆降漢。",
+   "evidence": [
+    "P25",
+    "P29"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-simangang",
+   "name": "司馬卬",
+   "aliases": [
+    "殷王"
+   ],
+   "type": "Person",
+   "dynasty": "趙",
+   "role": "趙將、殷王",
+   "description": "趙別將，本欲渡河入關。項羽封為殷王，都朝歌。高祖下河內時虜殷王，置河內郡。",
+   "evidence": [
+    "P19",
+    "P25",
+    "P32"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-zhanger",
+   "name": "張耳",
+   "aliases": [
+    "常山王",
+    "趙王"
+   ],
+   "type": "Person",
+   "dynasty": "趙",
+   "role": "趙相、趙王",
+   "description": "趙相，項羽封為常山王，為陳餘所破，亡歸漢。後與韓信東下井陘擊趙，斬陳餘、趙王歇，高祖立張耳為趙王。",
+   "evidence": [
+    "P25",
+    "P27",
+    "P30",
+    "P37",
+    "P42"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-chenyu",
+   "name": "陳餘",
+   "aliases": [
+    "成安君",
+    "代王"
+   ],
+   "type": "Person",
+   "dynasty": "趙",
+   "role": "趙將",
+   "description": "趙將，項羽僅封以河間三縣，居南皮，故怨項羽，迎趙王歇於代。與張耳有隙，韓信、張耳下井陘擊趙，陳餘被斬。",
+   "evidence": [
+    "P25",
+    "P27",
+    "P37"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-zhangao",
+   "name": "張敖",
+   "aliases": [
+    "趙王敖",
+    "宣平侯"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "趙王",
+   "description": "嗣為趙王。高祖過趙時，趙相貫高等謀弒高祖，高祖心動不留。九年貫高等事發覺夷三族，張敖被廢為宣平侯。",
+   "evidence": [
+    "P53",
+    "P67",
+    "P68"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-pengyue",
+   "name": "彭越",
+   "aliases": [
+    "建成侯",
+    "梁王"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "漢將、梁王",
+   "description": "初居梁地，往來苦楚，絕其糧食。垓下會戰有功，封建成侯，後立為梁王，都定陶。十一年被告謀反，廢遷蜀，復欲反，遂夷三族。",
+   "evidence": [
+    "P18",
+    "P27",
+    "P41",
+    "P42",
+    "P43",
+    "P49",
+    "P50",
+    "P53",
+    "P70",
+    "P76"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-qingbu",
+   "name": "黥布",
+   "aliases": [
+    "英布",
+    "九江王",
+    "淮南王"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "項羽將、九江王、淮南王",
+   "description": "項羽部將，封九江王。隨何說之背楚歸漢，高祖立為淮南王。十一年黥布反，東并荊王劉賈地，北渡淮；高祖親擊之，追斬布於鄱陽。",
+   "evidence": [
+    "P22",
+    "P25",
+    "P34",
+    "P36",
+    "P40",
+    "P50",
+    "P53",
+    "P70",
+    "P77",
+    "P78",
+    "P80"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-lishiqi",
+   "name": "酈食其",
+   "aliases": [
+    "酈生",
+    "廣野君"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "漢說客",
+   "description": "高陽人，說沛公襲陳留得秦積粟，沛公以為廣野君。後奉命往說齊王田廣，齊叛楚與漢和；韓信襲齊，齊王田廣以為見賣，遂烹酈生。",
+   "evidence": [
+    "P18",
+    "P20",
+    "P43"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-lishang",
+   "name": "酈商",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "漢將",
+   "description": "沛公以為將，將陳留兵，與偕攻開封，開封未拔。注疏正義引漢書，謂高帝崩時酈將軍即酈商。",
+   "evidence": [
+    "P18",
+    "P85"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-jixin",
+   "name": "紀信",
+   "aliases": [
+    "將軍紀信"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "漢將",
+   "description": "漢將軍。滎陽被圍、漢軍絕食，紀信乘王駕詐為漢王誑楚，楚皆呼萬歲之城東觀，使高祖得與數十騎出西門遁走。注疏索隱引楚漢春秋云樊噲請殺之。",
+   "evidence": [
+    "P39"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-zhouke",
+   "name": "周苛",
+   "aliases": [
+    "御史大夫"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "漢御史大夫",
+   "description": "漢御史大夫。高祖出滎陽，令周苛、魏豹、樅公守滎陽。周苛與樅公以「反國之王，難與守城」殺魏豹。項羽拔滎陽，誅周苛、樅公。",
+   "evidence": [
+    "P39",
+    "P41"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-zonggong",
+   "name": "樅公",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "漢將",
+   "description": "漢將，與周苛同守滎陽。與周苛共殺魏豹。項羽拔滎陽後與周苛同被誅。",
+   "evidence": [
+    "P39",
+    "P41"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-weibao",
+   "name": "魏豹",
+   "aliases": [
+    "魏王豹"
+   ],
+   "type": "Person",
+   "dynasty": "魏",
+   "role": "魏王",
+   "description": "魏王。高祖從臨晉渡，魏豹將兵從。後謁歸視親疾，至即絕河津反為楚，高祖遣韓信擊破之，虜魏豹。守滎陽時為周苛、樅公所殺。",
+   "evidence": [
+    "P32",
+    "P37",
+    "P39"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-liujing",
+   "name": "劉敬",
+   "aliases": [
+    "婁敬"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "齊人、漢臣",
+   "description": "齊人。高祖欲長都雒陽，劉敬進說宜入都關中，留侯亦勸上入都關中，高祖是日駕，入都關中，定都長安。",
+   "evidence": [
+    "P57"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-tenggong",
+   "name": "夏侯嬰",
+   "aliases": [
+    "滕公"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "漢將",
+   "description": "即滕公。高祖出成皋玉門，獨與滕公共車，北渡河馳宿脩武，晨馳入張耳、韓信壁奪其軍。注疏索隱云夏侯嬰為滕令，故曰滕公。",
+   "evidence": [
+    "P42"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-liujia",
+   "name": "劉賈",
+   "aliases": [
+    "荊王"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "高祖從兄弟、荊王",
+   "description": "高祖將，數有功。曾將卒渡白馬津入楚地，與彭越擊破楚軍，又入楚地圍壽春。高帝以劉賈為荊王，王淮東。黥布反時東并荊王劉賈地。",
+   "evidence": [
+    "P42",
+    "P50",
+    "P62",
+    "P70",
+    "P77"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-liujiao",
+   "name": "劉交",
+   "aliases": [
+    "楚王"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "高祖之弟、楚王",
+   "description": "高祖之弟。高帝以之為楚王，王淮西。淮南王黥布反，北渡淮，楚王交走入薛。",
+   "evidence": [
+    "P62",
+    "P70",
+    "P77"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-liufei",
+   "name": "劉肥",
+   "aliases": [
+    "齊王",
+    "齊悼惠王"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "高祖庶長子、齊王",
+   "description": "高祖庶長子。高帝封之為齊王，王七十餘城，民能齊言者皆屬齊。為漢高帝八男之長庶。",
+   "evidence": [
+    "P62",
+    "P70",
+    "P89"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-liuheng",
+   "name": "劉恒",
+   "aliases": [
+    "代王",
+    "孝文帝"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "高祖子、代王、漢文帝",
+   "description": "高祖子，薄太后所生。高帝分趙山北，立子恒為代王，都晉陽。後即位為孝文帝。",
+   "evidence": [
+    "P74",
+    "P89"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-liuhui",
+   "name": "劉恢",
+   "aliases": [
+    "梁王",
+    "趙共王"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "高祖子、梁王",
+   "description": "高祖子。梁王彭越被誅後，高帝立子恢為梁王。呂太后時徙為趙共王。",
+   "evidence": [
+    "P76",
+    "P89"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-liuyou",
+   "name": "劉友",
+   "aliases": [
+    "淮陽王",
+    "趙幽王"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "高祖子、淮陽王",
+   "description": "高祖子。彭越誅後，與梁王恢同立，封淮陽王。呂太后時徙為趙幽王。",
+   "evidence": [
+    "P76",
+    "P89"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-liuchang",
+   "name": "劉長",
+   "aliases": [
+    "淮南王",
+    "淮南厲王"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "高祖子、淮南王",
+   "description": "高祖子。黥布反時，高帝立子長為淮南王。為漢高帝八男之一，即淮南厲王。",
+   "evidence": [
+    "P77",
+    "P89"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-liujian",
+   "name": "劉建",
+   "aliases": [
+    "燕王"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "高祖子、燕王",
+   "description": "高祖子。高帝使樊噲、周勃擊燕王盧綰，赦燕吏民，立皇子建為燕王。",
+   "evidence": [
+    "P82",
+    "P89"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-liuzhong",
+   "name": "劉仲",
+   "aliases": [
+    "代王",
+    "合陽侯"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "高祖之兄",
+   "description": "高祖之兄。高帝立兄劉仲為代王。後代王劉仲弃國亡，自歸雒陽，廢以為合陽侯。",
+   "evidence": [
+    "P63",
+    "P67"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-liubi",
+   "name": "劉濞",
+   "aliases": [
+    "沛侯",
+    "吳王"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "高祖親屬、吳王",
+   "description": "沛侯。高祖還沛，復沛、豐之民，遂拜沛侯劉濞為吳王。注疏集解引服虔云濞音帔。",
+   "evidence": [
+    "P79"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-guangao",
+   "name": "貫高",
+   "aliases": [
+    "趙相貫高"
+   ],
+   "type": "Person",
+   "dynasty": "趙",
+   "role": "趙相",
+   "description": "趙王張敖之相。高祖過栢人，貫高等謀弒高祖，高祖心動不留。九年事發覺，貫高等夷三族，趙王敖被廢為宣平侯，徙貴族楚昭屈景懷齊田氏關中。",
+   "evidence": [
+    "P67",
+    "P68"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-chenxi",
+   "name": "陳豨",
+   "aliases": [
+    "陽夏侯"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "漢列侯、代相國",
+   "description": "高祖封之為列侯，以相國守代。十年八月反代地，自立為代王。高祖親擊之，豨將多降。後樊噲別將兵定代，斬陳豨於當城。",
+   "evidence": [
+    "P72",
+    "P73",
+    "P74",
+    "P81",
+    "P82"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-liji",
+   "name": "利幾",
+   "aliases": [
+    "陳公"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "項羽故將、潁川侯",
+   "description": "項羽之將，項氏敗後為陳縣令，不隨項羽，亡降高祖，高祖侯之潁川。高祖至雒陽舉通侯籍召之，利幾恐，故反。",
+   "evidence": [
+    "P59"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-wanghuang",
+   "name": "王黃",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "代地叛將",
+   "description": "白土人，與曼丘臣等立故趙將趙利為王以反，又與陳豨劫掠代地。豨將王黃軍曲逆。後降漢。",
+   "evidence": [
+    "P63",
+    "P73"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-zhaoli",
+   "name": "趙利",
+   "aliases": [
+    "代王"
+   ],
+   "type": "Person",
+   "dynasty": "趙",
+   "role": "故趙將",
+   "description": "故趙將。白土曼丘臣、王黃立之為王以反。後守東垣，高祖攻之不下。高祖赦代地吏民為陳豨、趙利所劫掠者。",
+   "evidence": [
+    "P63",
+    "P74",
+    "P82"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-shenshiji",
+   "name": "審食其",
+   "aliases": [
+    "辟陽侯"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "呂后親信、辟陽侯",
+   "description": "呂后親信。高祖崩，呂后與審食其謀誅諸將而不發喪，欲盡族之，後從酈將軍言乃以丁未發喪。高祖曾使辟陽侯迎盧綰，綰稱病。注疏正義云辟陽侯即審食其。",
+   "evidence": [
+    "P82",
+    "P85"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-wushe",
+   "name": "武涉",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "楚",
+   "role": "盱台人、楚說客",
+   "description": "盱台人。項羽聞龍且軍破而恐，乃使盱台人武涉往說韓信，欲令其背漢自立，韓信不聽。事見楚漢相持之際。",
+   "evidence": [
+    "P46"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-kuaitong",
+   "name": "蒯通",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "齊",
+   "role": "齊說客",
+   "description": "齊人。韓信用其計，遂襲破齊歷下軍，齊王田廣烹酈生東走高密。見於正文「韓信用蒯通計，遂襲破齊」。",
+   "evidence": [
+    "P43"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-longju",
+   "name": "龍且",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "楚",
+   "role": "楚將",
+   "description": "項羽將。曾擊九江王黥布；高祖敗彭城後，楚使龍且與周蘭往擊韓信，韓信與戰，灌嬰為騎將大破楚軍，殺龍且。",
+   "evidence": [
+    "P34",
+    "P36",
+    "P43"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-guanying",
+   "name": "灌嬰",
+   "aliases": [
+    "騎將"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "漢騎將",
+   "description": "漢騎將。韓信破齊之戰，灌嬰為騎將大破楚軍殺龍且。垓下會戰後，使騎將灌嬰追殺項羽於東城。",
+   "evidence": [
+    "P43",
+    "P51",
+    "P85"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-chenhui",
+   "name": "陳恢",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "南陽守舍人",
+   "description": "南陽守之舍人。沛公圍宛三匝，陳恢踰城見沛公，說以約降封守、引甲卒西行，沛公從之，遂以宛守為殷侯，封陳恢千戶。",
+   "evidence": [
+    "P19"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-donggong",
+   "name": "董公",
+   "aliases": [
+    "新城三老"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "新城三老",
+   "description": "新城三老。漢王至雒陽，董公遮說以義帝死故，漢王袒而大哭，為義帝發喪，告諸侯討項羽。注疏正義引楚漢春秋云董公八十二，封為成侯。",
+   "evidence": [
+    "P32"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-suihe",
+   "name": "隨何",
+   "aliases": [
+    "謁者"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "漢謁者",
+   "description": "漢謁者。高祖使隨何往說九江王黥布背楚，布果背楚。後隨何、劉賈及齊梁諸侯皆大會垓下。",
+   "evidence": [
+    "P34",
+    "P50"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-yuansheng",
+   "name": "袁生",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "漢謀士",
+   "description": "漢時人。漢王出滎陽入關收兵欲復東，袁生說以出武關、令韓信輯河北趙地，使楚所備者多而力分，漢得休。漢王從其計，出軍宛葉間。",
+   "evidence": [
+    "P40"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-zhengzhong",
+   "name": "鄭忠",
+   "aliases": [
+    "郎中"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "漢郎中",
+   "description": "漢郎中。高祖欲復戰，郎中鄭忠說止漢王，使高壘深塹勿與楚戰，漢王聽其計。",
+   "evidence": [
+    "P42"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-zhouyin",
+   "name": "周殷",
+   "aliases": [
+    "大司馬"
+   ],
+   "type": "Person",
+   "dynasty": "楚",
+   "role": "楚大司馬",
+   "description": "楚大司馬。高祖敗於固陵後，使使者召大司馬周殷舉九江兵迎武王黥布，隨何、劉賈及齊梁諸侯皆大會垓下。",
+   "evidence": [
+    "P50"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-tianrong",
+   "name": "田榮",
+   "aliases": [
+    "齊王"
+   ],
+   "type": "Person",
+   "dynasty": "齊",
+   "role": "齊王",
+   "description": "齊將。項羽立田都為齊王，田榮怒，自立為齊王，殺田都而反楚，予彭越將軍印令反梁地。後與楚戰於城陽，敗走平原，為平原民所殺。",
+   "evidence": [
+    "P27",
+    "P33"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-tianheng",
+   "name": "田橫",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "齊",
+   "role": "齊王族",
+   "description": "田榮之弟，立榮子田廣為齊王，反楚城陽。彭越居梁地往來苦楚，田橫往從之。",
+   "evidence": [
+    "P33",
+    "P49"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-tianguang",
+   "name": "田廣",
+   "aliases": [
+    "齊王"
+   ],
+   "type": "Person",
+   "dynasty": "齊",
+   "role": "齊王",
+   "description": "田榮之子，田橫立之為齊王。酈生說齊，廣叛楚與漢和；韓信襲齊，齊王田廣以為酈生賣己，烹之，東走高密，後犇彭越。",
+   "evidence": [
+    "P43"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-caowushang",
+   "name": "曹無傷",
+   "aliases": [
+    "左司馬"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "沛公左司馬",
+   "description": "沛公左司馬。聞項羽怒欲攻沛公，使人言項羽，誣沛公欲王關中、令子嬰為相。鴻門宴後，沛公歸，立誅曹無傷。",
+   "evidence": [
+    "P22"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-luhui",
+   "name": "劉盈",
+   "aliases": [
+    "孝惠帝",
+    "太子"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "高祖嫡子、漢惠帝",
+   "description": "高祖與呂后之子。彭城敗後，高祖獨得孝惠，六月立為太子。高祖崩後，太子襲號為皇帝，即孝惠帝。",
+   "evidence": [
+    "P3",
+    "P35",
+    "P87",
+    "P88"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-luyuan",
+   "name": "魯元公主",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "高祖之女",
+   "description": "高祖與呂后之女。呂后與兩子居田中耨，老父相之皆貴。注疏集解引韋昭云「元，謚也」，服虔云「元，長也，食邑於魯」。",
+   "evidence": [
+    "P3",
+    "P4"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-simangni",
+   "name": "司馬尼",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "章邯別將",
+   "description": "秦將章邯之別將，別將兵北定楚地，屠相，至碭。注疏集解引如淳云「尼，章邯司馬」。",
+   "evidence": [
+    "P10"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-xueou",
+   "name": "薛歐",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "漢將軍",
+   "description": "漢將軍。高祖令將軍薛歐、王吸出武關，因王陵兵南陽，以迎太公、呂后於沛。注疏索隱據功臣表謂歐以舍人從，封廣平侯。",
+   "evidence": [
+    "P28"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-wangxi",
+   "name": "王吸",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "漢將軍",
+   "description": "漢將軍。與薛歐出武關，因王陵兵南陽，迎太公、呂后於沛。注疏索隱據功臣表謂吸以中涓從，封清陽侯。",
+   "evidence": [
+    "P28"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-zhangping",
+   "name": "章平",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "雍王章邯之弟",
+   "description": "雍王章邯之弟，居雍地。高祖二年東略地，置隴西、北地、上郡等郡，正月虜雍王弟章平。後章邯困守廢丘自殺，雍地遂定。",
+   "evidence": [
+    "P29"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-lujia",
+   "name": "陸賈",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "漢說客",
+   "description": "漢臣。高祖用張良計，使酈生、陸賈往說秦將，啗以利，因襲攻武關破之。",
+   "evidence": [
+    "P20"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-ziren",
+   "name": "子嬰",
+   "aliases": [
+    "秦王子嬰"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "秦末王（秦王）",
+   "description": "秦王子嬰。漢元年十月，沛公兵先諸侯至霸上，子嬰素車白馬、係頸以組、封皇帝璽符節，降於軹道旁。曹無傷誣沛公「令子嬰為相」；沛公數項羽罪，亦斥其「彊殺秦降王子嬰」。",
+   "evidence": [
+    "P21",
+    "P22",
+    "P47"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-zhaoxie",
+   "name": "趙歇",
+   "aliases": [
+    "趙王歇"
+   ],
+   "type": "Person",
+   "dynasty": "趙",
+   "role": "趙王",
+   "description": "趙王。章邯破項梁後北擊趙，趙歇為王，秦將王離圍之於鉅鹿城。項羽分封時徙王代；後陳餘迎之於代，復立為趙王。韓信、張耳下井陘擊趙，趙王歇被斬。",
+   "evidence": [
+    "P14",
+    "P25",
+    "P27",
+    "P37"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-zangtu",
+   "name": "臧荼",
+   "aliases": [
+    "燕王臧荼"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "燕王",
+   "description": "本燕將，項羽分封時立為燕王，都薊，又攻殺故燕王韓廣於無終。漢初燕王臧荼位如故。高祖五年十月，臧荼反，攻下代地，高祖自將擊之，得燕王臧荼。",
+   "evidence": [
+    "P25",
+    "P53",
+    "P58"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-wurui",
+   "name": "吳芮",
+   "aliases": [
+    "番君",
+    "衡山王",
+    "長沙王"
+   ],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "番君、衡山王、長沙王",
+   "description": "番君，名芮。項羽分封時立為衡山王，都邾；其別將梅鋗從入關有功。高祖即位後徙為長沙王，都臨湘，與淮南王布、燕王臧荼、趙王敖位皆如故。",
+   "evidence": [
+    "P19",
+    "P25",
+    "P53",
+    "P70"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-caojiu",
+   "name": "曹咎",
+   "aliases": [
+    "海春侯"
+   ],
+   "type": "Person",
+   "dynasty": "楚",
+   "role": "楚大司馬",
+   "description": "項羽將，封海春侯，為大司馬。四年項羽行擊梁地，令海春侯大司馬曹咎謹守成皋，勿與漢戰。漢數挑戰並使人辱之，曹咎怒而度兵汜水，士卒半渡，漢擊大破之，曹咎自剄汜水上。",
+   "evidence": [
+    "P44"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-wangli",
+   "name": "王離",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "秦將",
+   "description": "秦將。章邯破項梁後北擊趙，秦將王離圍趙王歇於鉅鹿城，即所謂河北之軍；後楚軍出兵擊王離，大破之。",
+   "evidence": [
+    "P14",
+    "P17"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-gaoqi",
+   "name": "高起",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "漢臣",
+   "description": "漢臣。高祖置酒雒陽南宮，令列侯諸將言其情，高起與王陵對曰：陛下能與天下同利，項羽妒賢嫉能而不予人功利，此所以失天下也。注疏集解引孟康云「姓高，名起」。",
+   "evidence": [
+    "P56"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-lvchen",
+   "name": "呂臣",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "楚",
+   "role": "楚將、司徒",
+   "description": "楚將。項梁死後，呂臣軍彭城東，沛公聞項梁死引兵與呂將軍俱東。楚懷王徙都彭城，并呂臣、項羽軍自將之，以呂臣為司徒。",
+   "evidence": [
+    "P13",
+    "P15"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-lvqing",
+   "name": "呂青",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "楚",
+   "role": "楚令尹",
+   "description": "呂臣之父。楚懷王徙都彭城、并呂臣項羽軍自將之，以呂臣為司徒，其父呂青為令尹。",
+   "evidence": [
+    "P15"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-shenyang",
+   "name": "申陽",
+   "aliases": [
+    "河南王",
+    "瑕丘申陽"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "瑕丘人、河南王",
+   "description": "瑕丘人。項羽分封時立為河南王，都洛陽。高祖二年東略地，河南王申陽與塞王欣、翟王翳皆降漢。",
+   "evidence": [
+    "P25",
+    "P29"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-meijuan",
+   "name": "梅鋗",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "番君吳芮之別將",
+   "description": "番君吳芮之別將。沛公西進時遇番君別將梅鋗，與之俱降析、酈；項羽分封時封梅鋗十萬戶。後番君之將梅鋗從入武關有功。",
+   "evidence": [
+    "P19",
+    "P25",
+    "P53"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-jingju",
+   "name": "景駒",
+   "aliases": [
+    "假王"
+   ],
+   "type": "Person",
+   "dynasty": "楚",
+   "role": "楚假王",
+   "description": "秦嘉、東陽甯君所立之楚假王，居留。沛公聞之，往從之，欲請兵以攻豐。",
+   "evidence": [
+    "P10"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-qinjia",
+   "name": "秦嘉",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "楚",
+   "role": "反秦將領",
+   "description": "反秦將領，與東陽甯君立景駒為假王於留。注疏引臣瓚謂秦嘉與東陽甯君各為一人，「秦嘉初起兵於郯，號曰大司馬」。",
+   "evidence": [
+    "P10"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-dongyangningjun",
+   "name": "東陽甯君",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "楚",
+   "role": "反秦將領",
+   "description": "反秦將領，與秦嘉立景駒為假王於留；沛公往從之欲請兵攻豐，並與其引兵西與秦軍戰於蕭西。注疏引顏師古云「甯是姓，君者時人號曰君耳」。",
+   "evidence": [
+    "P10"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-zhoushi",
+   "name": "周巿",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "魏",
+   "role": "魏將",
+   "description": "魏人。陳王使魏人周巿略地，周巿來攻方與，又使人招雍齒，許以下魏則以齒為侯守豐；雍齒遂反沛公為魏守豐。",
+   "evidence": [
+    "P10"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-manqiu",
+   "name": "曼丘臣",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "西漢",
+   "role": "代地叛將",
+   "description": "白土人。七年匈奴攻韓王信馬邑，曼丘臣與王黃等立故趙將趙利為王以反，後又與陳豨劫掠代地。",
+   "evidence": [
+    "P63"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-tiandu",
+   "name": "田都",
+   "aliases": [
+    "齊王"
+   ],
+   "type": "Person",
+   "dynasty": "齊",
+   "role": "齊將、齊王",
+   "description": "齊將。項羽怨田榮，立齊將田都為齊王；田榮怒，因自立為齊王，殺田都而反楚。",
+   "evidence": [
+    "P27"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-liyou",
+   "name": "李由",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "秦將",
+   "description": "秦將。沛公與項羽西略地至雍丘之下，與秦軍戰，大破之，斬李由。",
+   "evidence": [
+    "P12"
+   ],
+   "source": "正文"
+  }
+ ],
+ "places": [
+  {
+   "id": "shiji-place-pei",
+   "name": "沛",
+   "type": "Place",
+   "modern": "今江蘇徐州沛縣一帶",
+   "description": "高祖生地所在之縣，秦時屬泗水。高祖曾為泗水亭長。後高祖更泗水為沛郡，治相城，故注以沛為小沛。注疏括地志云泗水亭在徐州沛縣東一百步，有高祖廟。",
+   "evidence": [
+    "P0",
+    "P3",
+    "P9",
+    "P33",
+    "P79"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-feng",
+   "name": "豐",
+   "type": "Place",
+   "modern": "今江蘇徐州豐縣",
+   "description": "高祖生長之地，秦時為邑，屬沛。高祖怨其以雍齒故反我為魏，久不復豐，後乃并復豐比沛。注疏文穎云梁惠王孫假為秦所滅，轉東徙於豐，故曰「豐，梁徙」。",
+   "evidence": [
+    "P0",
+    "P9",
+    "P10",
+    "P79"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-zhongyangli",
+   "name": "中陽里",
+   "type": "Place",
+   "modern": "今江蘇豐縣",
+   "description": "高祖籍貫之里名，屬沛縣豐邑，即所謂「沛豐邑中陽里人」。注疏李斐云劉氏隨魏徙大梁，移在豐，居中陽里。",
+   "evidence": [
+    "P0"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-sishuiting",
+   "name": "泗水亭",
+   "type": "Place",
+   "modern": "今江蘇沛縣東",
+   "description": "高祖為亭長之所。注疏括地志云泗水亭在徐州沛縣東一百步，有高祖廟。",
+   "evidence": [
+    "P1"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-xue",
+   "name": "薛",
+   "type": "Place",
+   "modern": "今山東滕州一帶",
+   "description": "魯國之縣，有作冠師，高祖令求盜之薛治竹皮冠。項梁亦在薛盡召別將。注疏正義云今徐州滕縣故薛城。",
+   "evidence": [
+    "P5",
+    "P10",
+    "P11"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-mangdang",
+   "name": "芒碭",
+   "type": "Place",
+   "modern": "今河南永城、安徽碭山之間",
+   "description": "芒、碭二縣之界有山澤之固，高祖自疑東遊之事，亡匿隱於其間。注疏集解引徐廣云芒今臨淮縣、碭縣在梁，應劭云二縣之界有山澤之固。",
+   "evidence": [
+    "P7"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-dang",
+   "name": "碭",
+   "type": "Place",
+   "modern": "今安徽碭山",
+   "description": "秦碭郡之地，楚懷王以沛公為碭郡長。沛公曾攻碭三日乃取，因收碭兵得五六千人。注疏正義云宋州本秦碭郡。",
+   "evidence": [
+    "P7",
+    "P10",
+    "P13",
+    "P15",
+    "P34"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-xianyang",
+   "name": "咸陽",
+   "type": "Place",
+   "modern": "今陝西咸陽，渭水之北",
+   "description": "秦之都城。高祖常繇咸陽，觀秦皇帝而歎「大丈夫當如此」。沛公先諸侯至霸上，秦王子嬰降，遂入咸陽，還軍霸上。項羽後屠燒咸陽秦宮室。注疏索隱云秦孝公、始皇皆都咸陽。",
+   "evidence": [
+    "P2",
+    "P19",
+    "P21",
+    "P23",
+    "P28"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-hanzhong",
+   "name": "漢中",
+   "type": "Place",
+   "modern": "今陝西南部",
+   "description": "秦漢中郡，以漢水為名。項羽負約，更立沛公為漢王，王巴、蜀、漢中之地。注疏正義云梁州本漢中郡。",
+   "evidence": [
+    "P25"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-nanzheng",
+   "name": "南鄭",
+   "type": "Place",
+   "modern": "今陝西漢中",
+   "description": "漢王之都。項羽更立沛公為漢王，都南鄭。韓信說漢王決策東鄉、爭權天下之處。",
+   "evidence": [
+    "P25",
+    "P26"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-pengcheng",
+   "name": "彭城",
+   "type": "Place",
+   "modern": "今江蘇徐州",
+   "description": "項羽自立西楚霸王之都，楚懷王亦徙都彭城。彭城之戰，項羽大破漢軍於彭城靈壁東睢水上，多殺士卒，睢水為之不流。",
+   "evidence": [
+    "P13",
+    "P15",
+    "P25",
+    "P33",
+    "P38"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-xingyang",
+   "name": "滎陽",
+   "type": "Place",
+   "modern": "今河南滎陽",
+   "description": "楚漢相爭要地。漢王軍滎陽南，築甬道屬河以取敖倉，與項羽相距歲餘。項羽拔滎陽，誅周苛、樅公而虜韓王信。注疏正義云敖倉在滎陽西北山上。",
+   "evidence": [
+    "P18",
+    "P36",
+    "P38",
+    "P39",
+    "P41"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-chenggao",
+   "name": "成皋",
+   "type": "Place",
+   "modern": "今河南滎陽汜水鎮",
+   "description": "楚漢相持之地。漢王北軍成皋，項羽拔滎陽遂圍成皋；漢王獨與滕公出成皋玉門，北渡河馳宿脩武。四年項羽命大司馬曹咎謹守成皋。",
+   "evidence": [
+    "P40",
+    "P41",
+    "P42",
+    "P44"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-gaixia",
+   "name": "垓下",
+   "type": "Place",
+   "modern": "今安徽靈璧南",
+   "description": "高祖與諸侯兵共擊楚軍、與項羽決勝之地。淮陰侯韓信將三十萬自當之，項羽兵敗而走。",
+   "evidence": [
+    "P50",
+    "P51"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-changan",
+   "name": "長安",
+   "type": "Place",
+   "modern": "今陝西西安",
+   "description": "高祖定都關中後之都城，本秦咸陽地。長樂宮成，丞相已下徙治長安。注疏索隱云高祖六年更名咸陽曰長安。",
+   "evidence": [
+    "P64",
+    "P82"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-luoyang",
+   "name": "雒陽",
+   "type": "Place",
+   "modern": "今河南洛陽",
+   "description": "高祖初都雒陽，置酒南宮論三傑；後從劉敬、留侯言入都關中。新城三老董公亦於雒陽遮說漢王。注疏括地志云南宮在雒州雒陽縣東北二十六里洛陽故城中。",
+   "evidence": [
+    "P19",
+    "P32",
+    "P54",
+    "P56",
+    "P57"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-guanzhong",
+   "name": "關中",
+   "type": "Place",
+   "modern": "今陝西中部，函谷關以西",
+   "description": "懷王約「先入定關中者王之」，沛公先入而定之，項羽負約王高祖於巴蜀漢中。後高祖定都關中。注疏索隱引三輔舊事云東以函谷為界、西以散關為界。",
+   "evidence": [
+    "P16",
+    "P21",
+    "P25",
+    "P57"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-bashang",
+   "name": "霸上",
+   "type": "Place",
+   "modern": "今陝西西安東",
+   "description": "沛公兵先諸侯至霸上，秦王子嬰降。高祖還軍霸上，與父老約法三章。注疏正義云霸上即漢霸陵所在。",
+   "evidence": [
+    "P21"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-zhidao",
+   "name": "軹道",
+   "type": "Place",
+   "modern": "今陝西西安東北",
+   "description": "秦王子嬰素車白馬、係頸以組、封皇帝璽符節，降於軹道旁。注疏括地志云軹道在雍州萬年縣東北十六里苑中。",
+   "evidence": [
+    "P21"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-hongmen",
+   "name": "鴻門",
+   "type": "Place",
+   "modern": "今陝西西安臨潼東",
+   "description": "項羽駐軍處。沛公從百餘騎驅之鴻門，見謝項羽，以樊噲、張良故得解歸。注疏索隱云在新豐古城東，未至戲水。",
+   "evidence": [
+    "P22"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-hanguguan",
+   "name": "函谷關",
+   "type": "Place",
+   "modern": "今河南靈寶東北",
+   "description": "關中東面門戶。或說沛公急使兵守函谷關，無內諸侯軍；項羽聞沛公已定關中大怒，使黥布等攻破函谷關。注疏正義云古函谷在今桃林南。",
+   "evidence": [
+    "P22"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-wuguan",
+   "name": "武關",
+   "type": "Place",
+   "modern": "今陝西商洛丹鳳東南",
+   "description": "關中南面要隘。沛公用張良計，使酈生、陸賈往說秦將，啗以利，因襲攻武關破之。高祖後又出武關、從武關入關中。",
+   "evidence": [
+    "P20",
+    "P28",
+    "P40",
+    "P53"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-feiqu",
+   "name": "廢丘",
+   "type": "Place",
+   "modern": "今陝西興平",
+   "description": "雍王章邯之都。漢王東至咸陽，別兵圍雍王廢丘；引水灌廢丘，廢丘降，章邯自殺。後更名廢丘為槐里。",
+   "evidence": [
+    "P25",
+    "P28",
+    "P35"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-chencang",
+   "name": "陳倉",
+   "type": "Place",
+   "modern": "今陝西寶雞東",
+   "description": "漢王用韓信之計，從故道還，襲雍王章邯，邯迎擊漢於陳倉。注疏集解云武都有故道縣。",
+   "evidence": [
+    "P28"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-longxi",
+   "name": "隴西",
+   "type": "Place",
+   "modern": "今甘肅東南一帶",
+   "description": "秦郡名。漢王定雍地後，遣諸將略定隴西、北地、上郡，後置隴西郡，屬關中六郡之一。",
+   "evidence": [
+    "P28",
+    "P29"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-beidi",
+   "name": "北地",
+   "type": "Place",
+   "modern": "今甘肅、寧夏一帶",
+   "description": "秦郡名，約今甘肅、寧夏一帶。漢王定雍地後遣諸將略定北地，後置北地郡，為關中六郡之一。",
+   "evidence": [
+    "P28",
+    "P29"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-shangjun",
+   "name": "上郡",
+   "type": "Place",
+   "modern": "今陝西北部",
+   "description": "秦郡名，約今陝西北部。漢王定雍地後遣諸將略定上郡，後置上郡郡，為關中六郡之一。",
+   "evidence": [
+    "P28",
+    "P29"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-yangxia",
+   "name": "陽夏",
+   "type": "Place",
+   "modern": "今河南太康",
+   "description": "楚漢相爭地名。高祖令薛歐、王吸迎太公、呂后於沛，楚發兵距之陽夏不得前。後高祖追項羽至陽夏南止軍，與齊王信、彭越期會。",
+   "evidence": [
+    "P28",
+    "P50"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-dingtao",
+   "name": "定陶",
+   "type": "Place",
+   "modern": "今山東定陶",
+   "description": "秦將章邯夜擊項梁，大破之於定陶，項梁死。高祖敗項羽後還至定陶，馳入齊王壁奪其軍；建漢後為梁王彭越之都。注疏正義云曹州濟陰縣城是。",
+   "evidence": [
+    "P13",
+    "P51",
+    "P53"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-julu",
+   "name": "鉅鹿",
+   "type": "Place",
+   "modern": "今河北平鄉",
+   "description": "趙王歇、張耳被秦將王離圍於鉅鹿城，即所謂河北之軍。楚懷王遣宋義、項羽北救趙。",
+   "evidence": [
+    "P14"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-wan",
+   "name": "宛",
+   "type": "Place",
+   "modern": "今河南南陽",
+   "description": "南陽守齮所守大郡之都，連城數十、積蓄多。沛公圍宛三匝，用陳恢之說約降，封宛守為殷侯。注疏括地志云南陽縣故城在宛大城之南隅。",
+   "evidence": [
+    "P19"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-changyi",
+   "name": "昌邑",
+   "type": "Place",
+   "modern": "今山東金鄉西北",
+   "description": "秦縣，屬山陽。沛公西過高陽，遇彭越昌邑，因與俱攻秦軍，昌邑未拔。注疏正義云昌邑縣屬山陽。",
+   "evidence": [
+    "P18"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-chenliu",
+   "name": "陳留",
+   "type": "Place",
+   "modern": "今河南開封陳留",
+   "description": "酈食其說沛公襲陳留，得秦積粟。後項羽行擊陳留、外黃、睢陽下之。",
+   "evidence": [
+    "P18",
+    "P44"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-huling",
+   "name": "胡陵",
+   "type": "Place",
+   "modern": "今江蘇沛縣北一帶",
+   "description": "沛公收沛子弟，攻胡陵、方與，還守豐。注疏正義云胡陵在山陽郡。",
+   "evidence": [
+    "P9"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-fangyu",
+   "name": "方與",
+   "type": "Place",
+   "modern": "今山東魚台",
+   "description": "沛公攻方與、還守豐。周巿來攻方與，未戰。注疏集解引鄭德云方與屬山陽郡。",
+   "evidence": [
+    "P9",
+    "P10"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-yongqiu",
+   "name": "雍丘",
+   "type": "Place",
+   "modern": "今河南杞縣",
+   "description": "沛公與項羽西略地至雍丘之下，與秦軍戰大破之，斬李由。注疏索隱云雍丘為陳留之縣。",
+   "evidence": [
+    "P12"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-waihuang",
+   "name": "外黃",
+   "type": "Place",
+   "modern": "今河南民權",
+   "description": "秦縣名。沛公西略地時還攻外黃未下；後項羽行擊陳留、外黃、睢陽，皆下之，並焚其城郭、係虜子女。",
+   "evidence": [
+    "P12",
+    "P44"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-honggou",
+   "name": "鴻溝",
+   "type": "Place",
+   "modern": "今河南滎陽東南",
+   "description": "楚漢議和約中分天下，割鴻溝而西者為漢、東者為楚。注疏索隱引應劭云在滎陽東南三十里。",
+   "evidence": [
+    "P49"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-guling",
+   "name": "固陵",
+   "type": "Place",
+   "modern": "今河南太康南",
+   "description": "高祖追項羽至固陵，與韓信、彭越期會而不至，楚擊漢軍大破之。注疏集解引晉灼云固陵即固始。",
+   "evidence": [
+    "P50"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-shouchun",
+   "name": "壽春",
+   "type": "Place",
+   "modern": "今安徽壽縣",
+   "description": "楚地重鎮。高祖敗於固陵後，劉賈入楚地圍壽春，並使使者召大司馬周殷舉九江兵迎武王黥布。注疏正義云壽春今壽州。",
+   "evidence": [
+    "P50"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-guangwu",
+   "name": "廣武",
+   "type": "Place",
+   "modern": "今河南滎陽北",
+   "description": "楚漢久相持，漢王項羽相與臨廣武之間而語，項羽伏弩射中漢王。後高祖病愈復如軍，軍廣武。",
+   "evidence": [
+    "P47",
+    "P48"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-xiuwu",
+   "name": "脩武",
+   "type": "Place",
+   "modern": "今河南獲嘉",
+   "description": "漢王出成皋後馳宿脩武，晨自稱使者入張耳、韓信壁而奪其軍；又饗軍小脩武南。注疏集解引徐廣云小脩武在大脩武城東。",
+   "evidence": [
+    "P42"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-jingsuo",
+   "name": "京索",
+   "type": "Place",
+   "modern": "今河南滎陽東南",
+   "description": "滎陽附近地名，漢大振滎陽、破楚於京索之間。注疏索隱引三輔故事云楚漢相距於京索間六年。",
+   "evidence": [
+    "P36"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-pingcheng",
+   "name": "平城",
+   "type": "Place",
+   "modern": "今山西大同",
+   "description": "高祖北擊韓王信，會天寒士卒墮指，遂至平城，匈奴圍我平城七日而後罷去。注疏正義云朔州定襄縣本漢平城縣。",
+   "evidence": [
+    "P63"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-baideng",
+   "name": "白登",
+   "type": "Place",
+   "modern": "今山西大同東北",
+   "description": "匈奴圍高祖處。注疏正義引括地志云定襄縣東北三十里有白登山，山上有臺名白登臺，即漢書匈奴傳蹋頓圍高帝於白登七日之地。",
+   "evidence": [
+    "P63"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-mayi",
+   "name": "馬邑",
+   "type": "Place",
+   "modern": "今山西朔州",
+   "description": "匈奴攻韓王信於馬邑，信因與謀反太原。注疏正義引括地志云朔州城漢鴈門，即馬邑縣城。",
+   "evidence": [
+    "P63"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-dongyuan",
+   "name": "東垣",
+   "type": "Place",
+   "modern": "今河北正定",
+   "description": "高祖東擊韓王信餘反寇於東垣；陳豨將趙利守東垣，高祖攻之。注疏集解云東垣高帝更名曰真定。",
+   "evidence": [
+    "P65",
+    "P74"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-handan",
+   "name": "邯鄲",
+   "type": "Place",
+   "modern": "今河北邯鄲",
+   "description": "趙國之都，今河北邯鄲。高祖擊陳豨至邯鄲，喜曰豨不南據邯鄲而阻漳水，吾知其無能為也，乃以金啗豨將，豨將多降。",
+   "evidence": [
+    "P72"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-jinyang",
+   "name": "晉陽",
+   "type": "Place",
+   "modern": "今山西太原",
+   "description": "高祖分趙山北，立子恒為代王，都晉陽。注疏集解引如淳云文帝歷晉陽、中都二歲，似遷都中都。",
+   "evidence": [
+    "P74"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-changlegong",
+   "name": "長樂宮",
+   "type": "Place",
+   "modern": "今陝西西安",
+   "description": "漢宮名，在長安。長樂宮成，丞相已下徙治長安；十年諸侯王皆來朝長樂宮；高祖崩於長樂宮。",
+   "evidence": [
+    "P64",
+    "P70",
+    "P85"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-weiyanggong",
+   "name": "未央宮",
+   "type": "Place",
+   "modern": "今陝西西安西北",
+   "description": "蕭何所營漢宮，立東闕、北闕、前殿、武庫、太倉。高祖見宮闕壯甚而怒，蕭何以「非壯麗無以重威」對。注疏括地志云未央宮在雍州長安縣西北十里長安故城中。",
+   "evidence": [
+    "P66",
+    "P69"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-peigong",
+   "name": "沛宮",
+   "type": "Place",
+   "modern": "今江蘇沛縣東南",
+   "description": "高祖還沛置酒沛宮，悉召故人父老子弟縱酒，發沛中兒教之歌，自為歌詩「大風起兮雲飛揚」。注疏括地志云沛宮故地在徐州沛縣東南二十里一步。",
+   "evidence": [
+    "P79"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-baimajin",
+   "name": "白馬津",
+   "type": "Place",
+   "modern": "今河南滑縣東北",
+   "description": "河津名，即黎陽津，南界東郡白馬縣。高祖使盧綰、劉賈將卒渡白馬津入楚地，與彭越復擊破楚軍。",
+   "evidence": [
+    "P42"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-lu",
+   "name": "魯",
+   "type": "Place",
+   "modern": "今山東曲阜",
+   "description": "項羽初封魯公，魯地為楚堅守不下；高祖示魯父老以項羽頭，魯乃降。注疏正義云魯即兗州曲阜。",
+   "evidence": [
+    "P51"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-gucheng",
+   "name": "穀城",
+   "type": "Place",
+   "modern": "今山東東阿一帶",
+   "description": "項羽自刎後，高祖以魯公之號葬項羽於穀城。",
+   "evidence": [
+    "P51"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-dongcheng",
+   "name": "東城",
+   "type": "Place",
+   "modern": "今安徽定遠東南",
+   "description": "項羽敗走，高祖使騎將灌嬰追殺項羽於東城，斬首八萬，遂略定楚地。",
+   "evidence": [
+    "P51"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-fanshui",
+   "name": "氾水",
+   "type": "Place",
+   "modern": "今山東菏澤定陶一帶",
+   "description": "高祖即皇帝位於氾水之陽。注疏括地志云高祖即位壇在曹州濟陰縣界。",
+   "evidence": [
+    "P52"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-shangdang",
+   "name": "上黨",
+   "type": "Place",
+   "modern": "今山西長治",
+   "description": "高祖虜魏豹定魏地後置三郡，曰河東、太原、上黨。注疏正義云今潞州。",
+   "evidence": [
+    "P37"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-taiyuan",
+   "name": "太原",
+   "type": "Place",
+   "modern": "今山西太原",
+   "description": "秦郡名，今山西太原一帶。高祖虜魏豹定魏地後置太原郡；七年後徙韓王信王太原，韓王信遂與匈奴通謀反漢。注疏正義云今并州。",
+   "evidence": [
+    "P37",
+    "P62"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-hedong",
+   "name": "河東",
+   "type": "Place",
+   "modern": "今山西西南",
+   "description": "秦郡名，今山西西南一帶。高祖虜魏豹後置河東郡。亦與河南、河內合稱三河，高祖嘗收三河士以擊楚。注疏正義云今蒲州。",
+   "evidence": [
+    "P37"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-henei",
+   "name": "河內",
+   "type": "Place",
+   "modern": "今河南黃河以北",
+   "description": "秦郡名，今河南黃河以北。漢王從臨晉渡河，下河內，虜殷王司馬卬，置河內郡。",
+   "evidence": [
+    "P32"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-jingxing",
+   "name": "井陘",
+   "type": "Place",
+   "modern": "今河北井陘",
+   "description": "太行山隘口，為趙之西面門戶。高祖令張耳與韓信東下井陘擊趙，斬陳餘、趙王歇。",
+   "evidence": [
+    "P37"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-dai",
+   "name": "代",
+   "type": "Place",
+   "modern": "今河北、山西北部",
+   "description": "秦代郡之地。高祖令樊噲止定代地，立兄劉仲為代王；後陳豨反代地，高祖立子恒為代王。",
+   "evidence": [
+    "P63",
+    "P72",
+    "P74"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-yan",
+   "name": "燕",
+   "type": "Place",
+   "modern": "今北京、河北北部",
+   "description": "燕王盧綰之國。高祖使樊噲、周勃將兵擊燕王綰，赦燕吏民與反者，立皇子建為燕王。",
+   "evidence": [
+    "P82"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-huainan",
+   "name": "淮南",
+   "type": "Place",
+   "modern": "今安徽中部",
+   "description": "秦九江郡地，今安徽中部。黥布封淮南王都此，後黥布反，東并荊王劉賈地，高祖自往擊之，立子長為淮南王。",
+   "evidence": [
+    "P77"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-jing",
+   "name": "荊",
+   "type": "Place",
+   "modern": "今湖北、江蘇一帶",
+   "description": "荊王劉賈之國，王淮東。黥布反，東并荊王劉賈地。注疏索隱謂姚察云總言吳、別言荊者以山命國。",
+   "evidence": [
+    "P62",
+    "P77"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-qi",
+   "name": "齊",
+   "type": "Place",
+   "modern": "今山東",
+   "description": "齊王劉肥之國，王七十餘城，民能齊言者皆屬齊。韓信曾破齊，立為齊王。",
+   "evidence": [
+    "P43",
+    "P62"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-liang",
+   "name": "梁",
+   "type": "Place",
+   "modern": "今河南東部",
+   "description": "梁王彭越之國，都定陶。高祖亦嘗欲分梁、楚地，項羽王梁楚九郡。",
+   "evidence": [
+    "P25",
+    "P53"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-chen",
+   "name": "陳",
+   "type": "Place",
+   "modern": "今河南淮陽",
+   "description": "陳勝起兵至陳而稱王，號「張楚」。後高祖用陳平計偽遊雲夢，會諸侯於陳而執楚王韓信。",
+   "evidence": [
+    "P8",
+    "P61"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-qixian",
+   "name": "蘄",
+   "type": "Place",
+   "modern": "今安徽宿州南",
+   "description": "秦縣名，屬沛。秦二世元年陳勝等起兵於蘄，至陳而稱王。注疏索隱云蘄音機，又音旂。",
+   "evidence": [
+    "P8"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-xi",
+   "name": "戲",
+   "type": "Place",
+   "modern": "今陝西西安臨潼東",
+   "description": "戲水之濱。陳勝之將周章軍西至戲而還；項羽率諸侯兵入關遂至戲；後諸侯兵罷於戲下。注疏索隱云在新豐東二十里戲亭北。",
+   "evidence": [
+    "P10",
+    "P22",
+    "P26"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-suishui",
+   "name": "睢水",
+   "type": "Place",
+   "modern": "今河南、安徽間",
+   "description": "彭城之戰，項羽大破漢軍於彭城靈壁東睢水上，多殺士卒，睢水為之不流。",
+   "evidence": [
+    "P33"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-lingbi",
+   "name": "靈壁",
+   "type": "Place",
+   "modern": "今安徽靈璧",
+   "description": "地名，在彭城附近。彭城之戰，項羽大破漢軍於彭城靈壁東睢水上，多殺士卒，睢水為之不流。",
+   "evidence": [
+    "P33"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-pingyin",
+   "name": "平陰",
+   "type": "Place",
+   "modern": "今河南孟津",
+   "description": "沛公北攻平陰，絕河津；後漢王南渡平陰津至雒陽。注疏集解云地理志河南有平陰縣，今河陰是也。",
+   "evidence": [
+    "P19",
+    "P32"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-puyang",
+   "name": "濮陽",
+   "type": "Place",
+   "modern": "今河南濮陽",
+   "description": "秦軍守濮陽，環水為固；楚軍去而攻定陶。注疏正義云濮陽故城在濮州西八十六里。",
+   "evidence": [
+    "P11",
+    "P12"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-chengyang",
+   "name": "城陽",
+   "type": "Place",
+   "modern": "今山東菏澤東北",
+   "description": "田榮與楚戰於城陽，田榮敗走平原；後田橫立榮子廣為齊王，齊王反楚城陽。注疏索隱云城陽在濟陰。",
+   "evidence": [
+    "P33"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-donge",
+   "name": "東阿",
+   "type": "Place",
+   "modern": "今山東東阿",
+   "description": "秦東郡之縣，今山東東阿。項梁北攻亢父，救東阿，破秦軍。注疏索隱云東阿為東郡之縣名。",
+   "evidence": [
+    "P11"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-kangfu",
+   "name": "亢父",
+   "type": "Place",
+   "modern": "今山東濟寧南",
+   "description": "沛公還軍亢父，至方與。注疏集解引鄭德云亢父屬任城郡，括地志云亢父縣，沛公屯軍於此。",
+   "evidence": [
+    "P10",
+    "P11"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-liu",
+   "name": "留",
+   "type": "Place",
+   "modern": "今江蘇沛縣東南",
+   "description": "東陽甯君、秦嘉立景駒為假王在留，沛公往從之，欲請兵以攻豐；後還收兵聚留。注疏正義云留城在徐州沛縣東南五十里，即張良所封處。",
+   "evidence": [
+    "P10"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-danfu",
+   "name": "單父",
+   "type": "Place",
+   "modern": "今山東單縣",
+   "description": "縣名，屬山陽，今山東單縣。呂公為單父人，後避仇從沛令客居於沛。注疏索隱引韋昭云單父縣屬山陽。",
+   "evidence": [
+    "P3"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-pingyuan",
+   "name": "平原",
+   "type": "Place",
+   "modern": "今山東平原",
+   "description": "秦縣名，今山東平原。田榮與楚戰於城陽，敗走平原，為平原民所殺。注疏正義云德州平原縣是。",
+   "evidence": [
+    "P33"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-xiapi",
+   "name": "下邳",
+   "type": "Place",
+   "modern": "今江蘇睢寧西北",
+   "description": "彭越渡睢水，與項聲、薛公戰下邳，大破楚軍。後韓信徙為楚王，都下邳。",
+   "evidence": [
+    "P41",
+    "P53"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-xiayi",
+   "name": "下邑",
+   "type": "Place",
+   "modern": "今安徽碭山",
+   "description": "沛公攻下邑拔之；後呂后兄周呂侯為漢將兵居下邑，漢王從之稍收士卒。",
+   "evidence": [
+    "P10",
+    "P34"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-xiang",
+   "name": "相",
+   "type": "Place",
+   "modern": "今安徽淮北",
+   "description": "秦縣名。章邯別將司馬尼北定楚地，屠相，至碭。注疏集解引韋昭云相為沛縣。",
+   "evidence": [
+    "P10"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-yangzhai",
+   "name": "陽翟",
+   "type": "Place",
+   "modern": "今河南禹州",
+   "description": "高祖徙韓王信王陽翟，後韓王信徙太原。注疏正義云洛州陽翟縣是韓王信之都。",
+   "evidence": [
+    "P53"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-linxiang",
+   "name": "臨湘",
+   "type": "Place",
+   "modern": "今湖南長沙",
+   "description": "高祖徙衡山王吳芮為長沙王，都臨湘。注疏括地志云潭州長沙縣本漢臨湘縣，長沙王吳芮都之。",
+   "evidence": [
+    "P53"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-lueyang",
+   "name": "櫟陽",
+   "type": "Place",
+   "modern": "今陝西西安臨潼北",
+   "description": "秦舊都。高祖令太子守櫟陽，諸侯子在關中者皆集櫟陽為衞；後至櫟陽存問父老，梟塞王欣頭於櫟陽市；太上皇崩於櫟陽宮。注疏正義云櫟陽故宮在雍州櫟陽縣北三十五里。",
+   "evidence": [
+    "P35",
+    "P48",
+    "P71"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-gaomi",
+   "name": "高密",
+   "type": "Place",
+   "modern": "今山東高密",
+   "description": "韓信襲破齊，齊王田廣烹酈生，東走高密。項羽使龍且、周蘭救齊。",
+   "evidence": [
+    "P43"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-xutai",
+   "name": "盱台",
+   "type": "Place",
+   "modern": "今江蘇盱眙一帶",
+   "description": "楚懷王孫心初立為楚王時所都（治盱台），後徙都彭城；盱台人武涉曾往說韓信。",
+   "evidence": [
+    "P11",
+    "P15",
+    "P46"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-lantian",
+   "name": "藍田",
+   "type": "Place",
+   "modern": "今陝西藍田",
+   "description": "沛公用張良計襲攻武關後，又與秦軍戰於藍田南，益張疑兵旗幟，大破之，復戰其北又破之。",
+   "evidence": [
+    "P20"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-haozhi",
+   "name": "好畤",
+   "type": "Place",
+   "modern": "今陝西乾縣一帶",
+   "description": "漢王襲雍王章邯，邯敗走，止戰好畤又復敗，走廢丘。注疏集解引孟康云畤音止，神靈之所在，縣名，屬右扶風。",
+   "evidence": [
+    "P28"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-linjin",
+   "name": "臨晉",
+   "type": "Place",
+   "modern": "今陝西大荔東",
+   "description": "漢王從臨晉渡河，魏王豹將兵從，遂下河內。",
+   "evidence": [
+    "P32"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-xinfeng",
+   "name": "新豐",
+   "type": "Place",
+   "modern": "今陝西臨潼東北",
+   "description": "本酈邑，太上皇崩後，高祖更命酈邑曰新豐。注疏正義引括地志云新豐故城在雍州新豐縣西南四里，漢新豐宮也。",
+   "evidence": [
+    "P71"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-changling",
+   "name": "長陵",
+   "type": "Place",
+   "modern": "今陝西咸陽東",
+   "description": "高祖葬長陵。注疏集解引皇甫謐云長陵在渭水北，去長安城三十五里；正義引括地志云長陵在雍州咸陽縣東三十里。",
+   "evidence": [
+    "P90"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-boren",
+   "name": "栢人",
+   "type": "Place",
+   "modern": "今河北隆堯一帶",
+   "description": "高祖之東垣，過栢人，趙相貫高等謀弒高祖，高祖心動，因不留。注疏正義引括地志云栢人故城在邢州柏人縣西北十二里。",
+   "evidence": [
+    "P67"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-huizui",
+   "name": "會甀",
+   "type": "Place",
+   "modern": "今安徽宿州南",
+   "description": "十二年十月，高祖已擊布軍於會甀，布走，令別將追之。注疏引徐廣云在蘄縣西。",
+   "evidence": [
+    "P78"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-poyang",
+   "name": "鄱陽",
+   "type": "Place",
+   "modern": "今江西鄱陽",
+   "description": "漢將別擊黥布軍洮水南北皆大破之，追得斬布於鄱陽。",
+   "evidence": [
+    "P80"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-dangcheng",
+   "name": "當城",
+   "type": "Place",
+   "modern": "今河北蔚縣一帶",
+   "description": "樊噲別將兵定代，斬陳豨於當城。注疏正義引括地志云當城在朔州定襄縣界。",
+   "evidence": [
+    "P81"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-taoshui",
+   "name": "洮水",
+   "type": "Place",
+   "modern": "今安徽境內",
+   "description": "漢將別擊黥布軍於洮水南北，皆大破之。注疏集解引徐廣云洮音道，在江淮間。",
+   "evidence": [
+    "P80"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-huanyuan",
+   "name": "轘轅",
+   "type": "Place",
+   "modern": "今河南偃師東南",
+   "description": "因張良遂略韓地轘轅。注疏集解引瓚云轘轅為險道名，在緱氏東南。",
+   "evidence": [
+    "P18"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-danshui",
+   "name": "丹水",
+   "type": "Place",
+   "modern": "今河南淅川西",
+   "description": "沛公引兵西下南陽，至丹水，高武侯鰓、襄侯王陵降西陵。注疏地理志云丹水縣屬弘農郡。",
+   "evidence": [
+    "P19"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-lishan",
+   "name": "酈山",
+   "type": "Place",
+   "modern": "今陝西臨潼東南",
+   "description": "高祖以亭長為縣送徒酈山，徒多道亡，自度比至皆亡之，夜乃解縱所送徒。",
+   "evidence": [
+    "P6"
+   ],
+   "source": "正文"
+  }
+ ],
+ "events": [
+  {
+   "id": "shiji-event-zhanbaishe",
+   "name": "斬白蛇起義",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu"
+   ],
+   "place": "shiji-place-feng",
+   "description": "高祖以亭長為縣送徒酈山，徒多道亡，夜解縱所送徒，被酒夜行澤中，拔劍擊斬當道大蛇，蛇分為兩。後有老嫗夜哭，稱其子白帝子化蛇、為赤帝子所斬。注疏括地志云斬蛇溝源出徐州豐縣中平地。",
+   "evidence": [
+    "P6"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-yinmangdang",
+   "name": "隱於芒碭",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu",
+    "shiji-person-lvzhi"
+   ],
+   "place": "shiji-place-mangdang",
+   "description": "秦始皇帝常言「東南有天子氣」，因東游以厭之。高祖自疑，亡匿隱於芒、碭山澤巖石之間。呂后與人俱求常得之，云季所居上常有雲氣。沛中子弟多欲附者。",
+   "evidence": [
+    "P7"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-qiyipeixian",
+   "name": "沛縣起兵立沛公",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu",
+    "shiji-person-xiaohe",
+    "shiji-person-caocan",
+    "shiji-person-fankuai"
+   ],
+   "place": "shiji-place-pei",
+   "description": "陳勝起兵，沛令恐欲以沛應之，令樊噲召劉季。沛令後悔閉城欲誅蕭、曹，蕭、曹踰城保劉季。劉季書帛射城上，父老乃率子弟殺沛令，開城門迎劉季，立季為沛公，祠黃帝、祭蚩尤於沛庭。",
+   "evidence": [
+    "P8",
+    "P9"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-yongchishoufeng",
+   "name": "雍齒守豐叛",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu",
+    "shiji-person-yongchi"
+   ],
+   "place": "shiji-place-feng",
+   "description": "沛公命雍齒守豐，引兵之薛。魏人周巿使人招雍齒，雍齒雅不欲屬沛公，即反為魏守豐。沛公引兵攻豐不能取，怨雍齒與豐子弟叛之。",
+   "evidence": [
+    "P10"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-xiangliangdingtao",
+   "name": "項梁死定陶",
+   "type": "Event",
+   "participants": [
+    "shiji-person-xiangliang",
+    "shiji-person-songyi",
+    "shiji-person-zhanghan"
+   ],
+   "place": "shiji-place-dingtao",
+   "description": "項梁再破秦軍而有驕色，宋義諫之不聽。秦益章邯兵，夜銜枚擊項梁，大破之於定陶，項梁死。沛公與項羽方攻陳留，聞項梁死，引兵與呂將軍俱東。",
+   "evidence": [
+    "P13"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-huaiwangzhiyue",
+   "name": "懷王約先入關者王",
+   "type": "Event",
+   "participants": [
+    "shiji-person-huaixin",
+    "shiji-person-gaozu",
+    "shiji-person-xiangyu"
+   ],
+   "place": "shiji-place-guanzhong",
+   "description": "楚懷王令沛公西略地入關，與諸將約「先入定關中者王之」。諸老將以項羽僄悍，獨沛公素寬大長者，卒不許項羽而遣沛公西略地。",
+   "evidence": [
+    "P16",
+    "P17"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-weizhouwan",
+   "name": "圍宛受降",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu",
+    "shiji-person-chenhui"
+   ],
+   "place": "shiji-place-wan",
+   "description": "沛公引兵過宛而西，張良諫宜先下宛。沛公乃夜引兵還，黎明圍宛城三匝。南陽守舍人陳恢踰城說沛公約降，封宛守為殷侯，封陳恢千戶，引兵西無不下者。",
+   "evidence": [
+    "P19"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-xingwuguan",
+   "name": "襲武關破藍田",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu",
+    "shiji-person-zhangliang",
+    "shiji-person-lishiqi",
+    "shiji-person-lujia"
+   ],
+   "place": "shiji-place-wuguan",
+   "description": "趙高殺二世後使人來約分王關中，沛公以為詐，乃用張良計，使酈生、陸賈往說秦將啗以利，因襲攻武關破之。又與秦軍戰於藍田南，益張疑兵，大破之。",
+   "evidence": [
+    "P20"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-rukanguan",
+   "name": "入關約法三章",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu",
+    "shiji-person-fankuai",
+    "shiji-person-zhangliang"
+   ],
+   "place": "shiji-place-xianyang",
+   "description": "漢元年十月，沛公兵先諸侯至霸上，秦王子嬰降軹道旁。沛公西入咸陽，樊噲、張良諫，乃封秦重寶財物府庫，還軍霸上。召諸縣父老豪桀，約法三章：殺人者死，傷人及盜抵罪，餘悉除去秦法。",
+   "evidence": [
+    "P21"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-hongmen",
+   "name": "鴻門宴脫險",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu",
+    "shiji-person-xiangyu",
+    "shiji-person-xiangbo",
+    "shiji-person-zhangliang",
+    "shiji-person-fankuai",
+    "shiji-person-caowushang"
+   ],
+   "place": "shiji-place-hongmen",
+   "description": "沛公守函谷關，項羽大怒，使黥布等攻破之。曹無傷使人言項羽誣沛公，亞父勸項羽擊沛公。項伯夜見張良，以文諭項羽。沛公從百餘騎驅之鴻門謝罪，以樊噲、張良故得解歸。歸立誅曹無傷。",
+   "evidence": [
+    "P22"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-fenwangzhuhou",
+   "name": "項羽分封諸侯",
+   "type": "Event",
+   "participants": [
+    "shiji-person-xiangyu",
+    "shiji-person-gaozu",
+    "shiji-person-zhanghan",
+    "shiji-person-simaxin",
+    "shiji-person-dongyi",
+    "shiji-person-simangang",
+    "shiji-person-zhanger",
+    "shiji-person-qingbu",
+    "shiji-person-huaixin"
+   ],
+   "place": "shiji-place-xi",
+   "description": "項羽自立為西楚霸王，王梁楚九郡，都彭城；負約更立沛公為漢王，王巴蜀漢中，都南鄭。三分關中，立章邯為雍王、司馬欣為塞王、董翳為翟王；又封申陽、司馬卬、張耳、黥布等十餘人為王。",
+   "evidence": [
+    "P25"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-huandingsanqin",
+   "name": "還定三秦",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu",
+    "shiji-person-hanxin",
+    "shiji-person-zhanghan"
+   ],
+   "place": "shiji-place-chencang",
+   "description": "八月，漢王用韓信之計，從故道還，襲雍王章邯。邯迎擊漢於陳倉，敗走；止戰好畤又敗，走廢丘。漢王遂定雍地，東至咸陽，別兵圍雍王廢丘。",
+   "evidence": [
+    "P28"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-yidifasang",
+   "name": "為義帝發喪",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu",
+    "shiji-person-huaixin",
+    "shiji-person-donggong"
+   ],
+   "place": "shiji-place-luoyang",
+   "description": "漢王南渡平陰津至雒陽，新城三老董公遮說以義帝死故。漢王聞之，袒而大哭，為義帝發喪臨三日，發使者告諸侯，責項羽放殺義帝大逆無道，願從諸侯王擊楚之殺義帝者。",
+   "evidence": [
+    "P32"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-pengchengzhibai",
+   "name": "彭城之敗",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu",
+    "shiji-person-xiangyu"
+   ],
+   "place": "shiji-place-pengcheng",
+   "description": "項羽北擊齊，漢王以故得劫五諸侯兵，遂入彭城。項羽聞之引兵還，與漢大戰於彭城靈壁東睢水上，大破漢軍，多殺士卒，睢水為之不流，並取漢王父母妻子置軍中為質。",
+   "evidence": [
+    "P33"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-suiheshuoqingbu",
+   "name": "隨何說黥布背楚",
+   "type": "Event",
+   "participants": [
+    "shiji-person-suihe",
+    "shiji-person-qingbu",
+    "shiji-person-gaozu"
+   ],
+   "place": "shiji-place-huainan",
+   "description": "漢王敗彭城而西，使謁者隨何之九江王布所，說令布舉兵叛楚，項羽必留擊之。隨何往說九江王布，布果背楚。楚使龍且往擊之。",
+   "evidence": [
+    "P34"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-jiweilubao",
+   "name": "韓信虜魏豹",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu",
+    "shiji-person-hanxin",
+    "shiji-person-weibao"
+   ],
+   "place": "shiji-place-hedong",
+   "description": "魏王豹謁歸視親疾，至即絕河津反為楚。漢王使酈生說豹不聽，乃遣將軍韓信擊，大破之虜豹，遂定魏地，置河東、太原、上黨三郡。",
+   "evidence": [
+    "P37"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-xingyangweikun",
+   "name": "滎陽之圍與陳平反間",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu",
+    "shiji-person-xiangyu",
+    "shiji-person-chenping",
+    "shiji-person-fanzeng"
+   ],
+   "place": "shiji-place-xingyang",
+   "description": "漢王軍滎陽南，築甬道取敖倉，與項羽相距歲餘。項羽數侵奪甬道，漢軍乏食遂圍漢王。漢王用陳平之計，予金四萬斤以間疏楚君臣，項羽乃疑亞父，亞父怒而辭老，未至彭城而死。",
+   "evidence": [
+    "P38",
+    "P39"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-jixinxiangchu",
+   "name": "紀信誑楚漢王遁",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu",
+    "shiji-person-jixin",
+    "shiji-person-zhouke",
+    "shiji-person-zonggong",
+    "shiji-person-weibao"
+   ],
+   "place": "shiji-place-xingyang",
+   "description": "漢軍絕食，乃夜出女子東門二千餘人被甲，楚四面擊之。將軍紀信乘王駕詐為漢王誑楚，楚皆呼萬歲之城東觀，漢王得與數十騎出西門遁。令周苛、魏豹、樅公守滎陽。",
+   "evidence": [
+    "P39",
+    "P40"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-duohanxinjun",
+   "name": "奪韓信張耳軍",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu",
+    "shiji-person-tenggong",
+    "shiji-person-zhanger",
+    "shiji-person-hanxin"
+   ],
+   "place": "shiji-place-xiuwu",
+   "description": "漢王獨與滕公共車出成皋玉門，北渡河馳宿脩武，自稱使者，晨馳入張耳、韓信壁而奪之軍。乃使張耳北益收兵趙地，使韓信東擊齊。",
+   "evidence": [
+    "P42"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-hanxinpoqi",
+   "name": "韓信破齊殺龍且",
+   "type": "Event",
+   "participants": [
+    "shiji-person-hanxin",
+    "shiji-person-longju",
+    "shiji-person-guanying",
+    "shiji-person-tianguang",
+    "shiji-person-lishiqi",
+    "shiji-person-kuaitong"
+   ],
+   "place": "shiji-place-gaomi",
+   "description": "漢王使酈生往說齊王田廣，廣叛楚與漢和。韓信用蒯通計襲破齊，齊王烹酈生東走高密。項羽使龍且、周蘭往擊韓信，韓信與戰，騎將灌嬰大破楚軍，殺龍且。",
+   "evidence": [
+    "P43"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-sishuizhizhan",
+   "name": "汜水破曹咎",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu",
+    "shiji-person-xiangyu",
+    "shiji-person-simaxin"
+   ],
+   "place": "shiji-place-chenggao",
+   "description": "項羽謂大司馬曹咎謹守成皋勿與戰。漢果數挑楚軍，使人辱之五六日，大司馬怒，度兵汜水，士卒半渡，漢擊之大破楚軍，盡得楚國金玉貨賂，曹咎、長史欣皆自剄汜水上。",
+   "evidence": [
+    "P44"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-lixinhanxin",
+   "name": "立韓信為齊王",
+   "type": "Event",
+   "participants": [
+    "shiji-person-hanxin",
+    "shiji-person-gaozu",
+    "shiji-person-zhangliang"
+   ],
+   "place": "shiji-place-qi",
+   "description": "韓信已破齊，使人言齊邊楚、權輕，請為假王。漢王欲攻之，留侯曰不如因而立之使自為守，乃遣張良操印綬立韓信為齊王。",
+   "evidence": [
+    "P45"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-guangwuduihua",
+   "name": "廣武對話漢王數項羽",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu",
+    "shiji-person-xiangyu"
+   ],
+   "place": "shiji-place-guangwu",
+   "description": "楚漢久相持未決，漢王項羽相與臨廣武之間而語。漢王數項羽十罪，斥其負約、矯殺宋義、燒秦宮室、弒義帝等。項羽大怒，伏弩射中漢王，漢王傷胸捫足以安士卒。",
+   "evidence": [
+    "P47"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-honggou",
+   "name": "鴻溝中分天下",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu",
+    "shiji-person-xiangyu"
+   ],
+   "place": "shiji-place-honggou",
+   "description": "彭越、田橫往來苦楚兵，絕其糧食。項羽恐，乃與漢王約中分天下，割鴻溝而西者為漢、東者為楚。項王歸漢王父母妻子，軍中皆呼萬歲。",
+   "evidence": [
+    "P49"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-gaixiajuezhan",
+   "name": "垓下決勝",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu",
+    "shiji-person-hanxin",
+    "shiji-person-xiangyu",
+    "shiji-person-pengyue",
+    "shiji-person-qingbu",
+    "shiji-person-guanying"
+   ],
+   "place": "shiji-place-gaixia",
+   "description": "五年，高祖與諸侯兵共擊楚軍，與項羽決勝垓下。淮陰侯將三十萬自當之，孔將軍居左、費將軍居右。項羽卒聞漢軍楚歌，以為漢盡得楚地，乃敗而走。使騎將灌嬰追殺項羽於東城。",
+   "evidence": [
+    "P50",
+    "P51"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-chengdidingtao",
+   "name": "稱帝定陶",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu"
+   ],
+   "place": "shiji-place-dingtao",
+   "description": "高祖還至定陶，馳入齊王壁奪其軍。正月，諸侯及將相相與共請尊漢王為皇帝。漢王三讓，曰「諸君必以為便，便國家」，甲午乃即皇帝位於氾水之陽。",
+   "evidence": [
+    "P51",
+    "P52"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-luoyanglunsanjie",
+   "name": "雒陽論三傑",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu",
+    "shiji-person-zhangliang",
+    "shiji-person-xiaohe",
+    "shiji-person-hanxin",
+    "shiji-person-wangling"
+   ],
+   "place": "shiji-place-luoyang",
+   "description": "高祖置酒雒陽南宮，令列侯諸將言其情。高起、王陵對以高祖能與天下同利、項羽妒賢嫉能。高祖曰運籌帷幄不如子房、鎮國家不如蕭何、連百萬軍不如韓信，此三者皆人傑而能用之。",
+   "evidence": [
+    "P56"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-ruduguanzhong",
+   "name": "入都關中",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu",
+    "shiji-person-liujing",
+    "shiji-person-zhangliang"
+   ],
+   "place": "shiji-place-changan",
+   "description": "高祖欲長都雒陽，齊人劉敬說，留侯亦勸上入都關中，高祖是日駕，入都關中，定都長安。六月，大赦天下。",
+   "evidence": [
+    "P57"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-baidengweikun",
+   "name": "白登之圍",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu"
+   ],
+   "place": "shiji-place-pingcheng",
+   "description": "七年，匈奴攻韓王信馬邑，信因與謀反太原，白土曼丘臣、王黃立故趙將趙利為王以反。高祖自往擊之，會天寒士卒墮指，遂至平城，匈奴圍高祖於平城七日而後罷去。注疏正義云圍於白登臺。",
+   "evidence": [
+    "P63"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-weiyanggongcheng",
+   "name": "營作未央宮",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu",
+    "shiji-person-xiaohe"
+   ],
+   "place": "shiji-place-weiyanggong",
+   "description": "蕭丞相營作未央宮，立東闕、北闕、前殿、武庫、太倉。高祖還見宮闕壯甚而怒，謂蕭何治宮室過度。蕭何對以天子四海為家，非壯麗無以重威，高祖乃說。",
+   "evidence": [
+    "P66"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-guangaomoushi",
+   "name": "貫高謀弒高祖",
+   "type": "Event",
+   "participants": [
+    "shiji-person-guangao",
+    "shiji-person-zhangao",
+    "shiji-person-gaozu"
+   ],
+   "place": "shiji-place-handan",
+   "description": "高祖之東垣過栢人，趙相貫高等謀弒高祖，高祖心動因不留。九年貫高等事發覺，夷三族，廢趙王敖為宣平侯，徙貴族楚昭、屈、景、懷、齊田氏於關中。",
+   "evidence": [
+    "P67",
+    "P68"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-hanxinmoufan",
+   "name": "韓信謀反夷三族",
+   "type": "Event",
+   "participants": [
+    "shiji-person-hanxin",
+    "shiji-person-gaozu",
+    "shiji-person-chenping"
+   ],
+   "place": "shiji-place-changan",
+   "description": "六年，人告楚王信謀反，高祖用陳平計偽遊雲夢，會諸侯於陳，楚王信迎即因執之。後十餘日封韓信為淮陰侯。十一年，淮陰侯韓信謀反關中，夷三族。",
+   "evidence": [
+    "P61",
+    "P75"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-pengyuezhuzhu",
+   "name": "誅彭越",
+   "type": "Event",
+   "participants": [
+    "shiji-person-pengyue",
+    "shiji-person-gaozu"
+   ],
+   "place": "shiji-place-liang",
+   "description": "夏，梁王彭越謀反，廢遷蜀；復欲反，遂夷三族。立子恢為梁王、子友為淮陽王。",
+   "evidence": [
+    "P76"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-qingbufan",
+   "name": "黥布反",
+   "type": "Event",
+   "participants": [
+    "shiji-person-qingbu",
+    "shiji-person-gaozu",
+    "shiji-person-liujia",
+    "shiji-person-liujiao"
+   ],
+   "place": "shiji-place-huainan",
+   "description": "秋七月，淮南王黥布反，東并荊王劉賈地，北渡淮，楚王交走入薛。高祖自往擊之，立子長為淮南王。漢將別擊布軍洮水南北皆大破之，追得斬布於鄱陽。",
+   "evidence": [
+    "P77",
+    "P78",
+    "P80"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-dafengge",
+   "name": "高祖還沛歌大風",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu"
+   ],
+   "place": "shiji-place-peigong",
+   "description": "高祖還歸過沛留置酒沛宮，悉召故人父老子弟縱酒，發沛中兒得百二十人教之歌。酒酣，高祖擊筑自為歌詩「大風起兮雲飛揚，威加海內兮歸故鄉，安得猛士兮守四方」，起舞慷慨傷懷，泣數行下。",
+   "evidence": [
+    "P79"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-luwanwangxiong",
+   "name": "盧綰亡入匈奴",
+   "type": "Event",
+   "participants": [
+    "shiji-person-luwan",
+    "shiji-person-gaozu"
+   ],
+   "place": "shiji-place-yan",
+   "description": "陳豨降將言豨反時燕王盧綰使人之豨所與陰謀。高祖使辟陽侯迎綰，綰稱病。後使樊噲、周勃將兵擊燕王綰。盧綰聞高祖崩，遂亡入匈奴。",
+   "evidence": [
+    "P82",
+    "P86"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-gaozubeng",
+   "name": "高祖崩長樂宮",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu",
+    "shiji-person-lvzhi",
+    "shiji-person-shenshiji"
+   ],
+   "place": "shiji-place-changlegong",
+   "description": "高祖擊布時為流矢所中，行道病。四月甲辰，高祖崩於長樂宮，四日不發喪。呂后與審食其謀誅諸將，後從酈將軍言乃以丁未發喪，大赦天下。丙寅葬，葬長陵。",
+   "evidence": [
+    "P83",
+    "P85",
+    "P87"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-zangtufan",
+   "name": "燕王臧荼反",
+   "type": "Event",
+   "participants": [
+    "shiji-person-zangtu",
+    "shiji-person-gaozu"
+   ],
+   "place": "shiji-place-yan",
+   "description": "高祖五年十月，燕王臧荼反，攻下代地。高祖自將擊之，得燕王臧荼，即立太尉盧綰為燕王。",
+   "evidence": [
+    "P58"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-zuntaigong",
+   "name": "尊太公為太上皇",
+   "type": "Event",
+   "participants": [
+    "shiji-person-gaozu",
+    "shiji-person-taigong"
+   ],
+   "place": "",
+   "description": "高祖六年，高祖五日一朝太公，如家人父子禮。太公家令說太公，太公擁篲迎門却行；高祖乃尊太公為太上皇，心善家令言，賜金五百斤。",
+   "evidence": [
+    "P60"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-chenxifan",
+   "name": "陳豨反代",
+   "type": "Event",
+   "participants": [
+    "shiji-person-chenxi",
+    "shiji-person-gaozu",
+    "shiji-person-wanghuang"
+   ],
+   "place": "shiji-place-dai",
+   "description": "十年八月，趙相國陳豨反代地。高祖自東往擊之，至邯鄲，以金啗豨將，豨將多降。太尉周勃道太原入定代地，後樊噲別將兵定代，斬陳豨於當城。",
+   "evidence": [
+    "P72",
+    "P73"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-hanxinjingxing",
+   "name": "韓信下井陘破趙",
+   "type": "Event",
+   "participants": [
+    "shiji-person-hanxin",
+    "shiji-person-zhanger",
+    "shiji-person-chenyu",
+    "shiji-person-zhaoxie"
+   ],
+   "place": "shiji-place-jingxing",
+   "description": "高祖令張耳與韓信遂東下井陘擊趙，斬陳餘、趙王歇。其明年，立張耳為趙王。",
+   "evidence": [
+    "P37"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-xiangyutuxianyang",
+   "name": "項羽屠燒咸陽",
+   "type": "Event",
+   "participants": [
+    "shiji-person-xiangyu"
+   ],
+   "place": "shiji-place-xianyang",
+   "description": "項羽遂西入關，屠燒咸陽秦宮室，所過無不殘破，秦人大失望，然恐，不敢不服。",
+   "evidence": [
+    "P23"
+   ],
+   "source": "正文"
+  }
+ ],
+ "offices": [
+  {
+   "id": "shiji-office-tingzhang",
+   "name": "亭長",
+   "description": "秦制十里一亭，亭長主亭之吏，掌治安逐捕。高祖曾試為吏，為泗水亭長。注疏正義云亭長蓋今里長也，括地志云泗水亭在徐州沛縣東一百步。",
+   "evidence": [
+    "P1",
+    "P6"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-zhuli",
+   "name": "主吏",
+   "description": "縣中吏職，主賦斂禮進，即功曹。蕭何為沛主吏，主進賀錢。注疏集解引孟康云主吏即功曹也。",
+   "evidence": [
+    "P3",
+    "P8"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-junzhang",
+   "name": "郡長",
+   "description": "秦郡之長官。楚懷王以沛公為碭郡長，將碭郡兵。注疏正義引韋昭云秦名曰守，是時改曰長。",
+   "evidence": [
+    "P15"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-lingyin",
+   "name": "令尹",
+   "description": "楚國官名，諸侯之卿唯楚稱令尹。時立楚後，故置官司皆如楚舊，呂臣父呂青為令尹。注疏正義引應劭云天子曰師尹、諸侯曰令尹。",
+   "evidence": [
+    "P15"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-situ",
+   "name": "司徒",
+   "description": "楚官名。楚懷王徙都彭城，呂臣為司徒。",
+   "evidence": [
+    "P15"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-shangjiangjun",
+   "name": "上將軍",
+   "description": "楚軍最高統帥。懷王以宋義為上將軍北救趙，項羽矯殺宋義後代為上將軍。",
+   "evidence": [
+    "P16",
+    "P20"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-chengxiang",
+   "name": "丞相",
+   "description": "百官之長。高祖以蕭何為丞相，丞相已下徙治長安；又使丞相樊噲將兵攻代。注疏正義云拜丞相乃定天下為丞相時封。",
+   "evidence": [
+    "P58",
+    "P64",
+    "P66"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-tawei",
+   "name": "太尉",
+   "description": "秦官，武官之長。高祖立太尉盧綰為燕王；以太尉周勃道太原入定代地；臨終言周勃可令為太尉。注疏集解引漢書百官表云太尉秦官。",
+   "evidence": [
+    "P58",
+    "P73",
+    "P83"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-yushidafu",
+   "name": "御史大夫",
+   "description": "秦漢高官，位副丞相。高祖出滎陽，令御史大夫周苛守滎陽。",
+   "evidence": [
+    "P39"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-dasima",
+   "name": "大司馬",
+   "description": "武官之長。項羽以海春侯大司馬曹咎守成皋；又有楚大司馬周殷舉九江兵迎武王黥布。",
+   "evidence": [
+    "P44",
+    "P50"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-zuosima",
+   "name": "左司馬",
+   "description": "軍中司馬之副。沛公左司馬得泗川守壯而殺之；後有左司馬曹無傷言沛公欲王關中。注疏索隱辨左司馬即無傷。",
+   "evidence": [
+    "P10",
+    "P22"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-jiangjun",
+   "name": "將軍",
+   "description": "統兵之官。高祖遣將軍韓信擊魏，令將軍薛歐、王吸出武關迎太公、呂后，又以樊噲為將軍定代。",
+   "evidence": [
+    "P28",
+    "P37",
+    "P39"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-sanlao",
+   "name": "三老",
+   "description": "掌教化之鄉官。新城三老董公遮說漢王以義帝死故。注疏正義引百官表云十亭一鄉，鄉有三老掌教化。",
+   "evidence": [
+    "P32"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-yezhe",
+   "name": "謁者",
+   "description": "掌傳達、奉使之官。高祖使謁者隨何之九江王布所，說令背楚。",
+   "evidence": [
+    "P34"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-langzhong",
+   "name": "郎中",
+   "description": "侍衛近臣之官。郎中鄭忠說止漢王，使高壘深塹、勿與楚戰，漢王聽其計。",
+   "evidence": [
+    "P42"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-xiangguo",
+   "name": "相國",
+   "description": "丞相之尊稱。趙相國陳豨反代地；蕭何為蕭相國。",
+   "evidence": [
+    "P72",
+    "P83"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-zhangshi",
+   "name": "長史",
+   "description": "軍府幕僚之長。汜水之戰楚軍大敗，大司馬曹咎、長史欣皆自剄汜水上。",
+   "evidence": [
+    "P44"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-hou",
+   "name": "侯",
+   "description": "秦漢爵名。高祖封項羽長安侯、沛公武安侯、彭越建成侯等；高祖至雒陽，舉通侯籍召利幾。",
+   "evidence": [
+    "P15",
+    "P53",
+    "P59"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-wang",
+   "name": "王",
+   "description": "諸侯王之號。項羽自立西楚霸王，分封十八諸侯為王，高祖為漢王；漢興後封同姓及功臣為王。",
+   "evidence": [
+    "P25",
+    "P53"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-huangdi",
+   "name": "皇帝",
+   "description": "最高君號。諸侯及將相共請尊漢王為皇帝，高祖三讓，甲午即皇帝位於氾水之陽。注疏集解引蔡邕云秦兼三皇五帝以為號，漢受命因而不改。",
+   "evidence": [
+    "P52"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-taishanghuang",
+   "name": "太上皇",
+   "description": "尊號。高祖六年用太公家令言，尊太公為太上皇。注疏索隱云太上者無上也，皇者德大於帝，欲尊其父故號太上皇。",
+   "evidence": [
+    "P60"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-ling",
+   "name": "縣令",
+   "description": "縣之長官。單父人呂公善沛令，沛令欲以沛應陳涉後為沛父老所殺。",
+   "evidence": [
+    "P3",
+    "P9"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-dafu",
+   "name": "大夫",
+   "description": "客之貴者之總稱。沛令賀宴，令諸大夫曰「進不滿千錢，坐之堂下」。注疏正義云大夫為客之貴者總稱。",
+   "evidence": [
+    "P3"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-shou",
+   "name": "郡守",
+   "description": "秦郡之長官。泗川守壯敗於薛走至戚；南陽守齮守宛而降沛公。注疏正義引韋昭云秦名曰守。",
+   "evidence": [
+    "P10",
+    "P19"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-jiangxiang",
+   "name": "將相",
+   "description": "武將與丞相之合稱。天下大定後，諸侯及將相相與共請尊漢王為皇帝。",
+   "evidence": [
+    "P52"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-zhuguo",
+   "name": "柱國",
+   "description": "楚官名。懷王柱國共敖，項羽分封時立為臨江王，都江陵。",
+   "evidence": [
+    "P25"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-jialing",
+   "name": "家令",
+   "description": "王侯家之總管。高祖六年，太公家令說太公不宜受人主拜，高祖善其言，賜金五百斤。",
+   "evidence": [
+    "P60"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-sheren",
+   "name": "舍人",
+   "description": "王公貴人左右親近之屬官。南陽守之舍人陳恢踰城說沛公約降，沛公從之，封陳恢千戶。",
+   "evidence": [
+    "P19"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-jian",
+   "name": "監（御史監郡）",
+   "description": "秦御史監郡之職。秦泗川監平將兵圍豐。注疏集解引文穎云「秦時御史監郡，若今刺史」。",
+   "evidence": [
+    "P10"
+   ],
+   "source": "正文"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "shiji-person-taigong",
+   "predicate": "father_of",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P0"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-liuyuan",
+   "predicate": "mother_of",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P0"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-lvgong",
+   "predicate": "father_of",
+   "object": "shiji-person-lvzhi",
+   "evidence": [
+    "P3"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-lvao",
+   "predicate": "mother_of",
+   "object": "shiji-person-lvzhi",
+   "evidence": [
+    "P3"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "married_to",
+   "object": "shiji-person-lvzhi",
+   "evidence": [
+    "P3"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "father_of",
+   "object": "shiji-person-luhui",
+   "evidence": [
+    "P3"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-lvzhi",
+   "predicate": "mother_of",
+   "object": "shiji-person-luhui",
+   "evidence": [
+    "P3"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "father_of",
+   "object": "shiji-person-luyuan",
+   "evidence": [
+    "P3"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "father_of",
+   "object": "shiji-person-liufei",
+   "evidence": [
+    "P62"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "father_of",
+   "object": "shiji-person-liuheng",
+   "evidence": [
+    "P74"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "father_of",
+   "object": "shiji-person-liuhui",
+   "evidence": [
+    "P76"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "father_of",
+   "object": "shiji-person-liuyou",
+   "evidence": [
+    "P76"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "father_of",
+   "object": "shiji-person-liuchang",
+   "evidence": [
+    "P77"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "father_of",
+   "object": "shiji-person-liujian",
+   "evidence": [
+    "P82"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-liuzhong",
+   "predicate": "brother_of",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P63"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-liujiao",
+   "predicate": "brother_of",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P62"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-liujia",
+   "predicate": "relative_of",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P62"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-liubi",
+   "predicate": "relative_of",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P79"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-xiaohe",
+   "predicate": "subordinate_of",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P3",
+    "P9"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-caocan",
+   "predicate": "subordinate_of",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P9"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-fankuai",
+   "predicate": "subordinate_of",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P9"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-zhangliang",
+   "predicate": "subordinate_of",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P18",
+    "P19"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-hanxin",
+   "predicate": "subordinate_of",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P26"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-chenping",
+   "predicate": "subordinate_of",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P38"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-zhoubo",
+   "predicate": "subordinate_of",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P51"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-wangling",
+   "predicate": "subordinate_of",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P19"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-fanzeng",
+   "predicate": "subordinate_of",
+   "object": "shiji-person-xiangyu",
+   "evidence": [
+    "P16"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-longju",
+   "predicate": "subordinate_of",
+   "object": "shiji-person-xiangyu",
+   "evidence": [
+    "P34"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-zhouyin",
+   "predicate": "subordinate_of",
+   "object": "shiji-person-xiangyu",
+   "evidence": [
+    "P50"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-songyi",
+   "predicate": "subordinate_of",
+   "object": "shiji-person-huaixin",
+   "evidence": [
+    "P16"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-xiangliang",
+   "predicate": "appointed",
+   "object": "shiji-person-huaixin",
+   "evidence": [
+    "P11"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-huaixin",
+   "predicate": "appointed",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P15"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-huaixin",
+   "predicate": "appointed",
+   "object": "shiji-person-xiangyu",
+   "evidence": [
+    "P15"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-huaixin",
+   "predicate": "appointed",
+   "object": "shiji-person-songyi",
+   "evidence": [
+    "P16"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-xiangyu",
+   "predicate": "appointed",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P25"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-xiangyu",
+   "predicate": "appointed",
+   "object": "shiji-person-zhanghan",
+   "evidence": [
+    "P25"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-xiangyu",
+   "predicate": "appointed",
+   "object": "shiji-person-simaxin",
+   "evidence": [
+    "P25"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-xiangyu",
+   "predicate": "appointed",
+   "object": "shiji-person-dongyi",
+   "evidence": [
+    "P25"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-xiangyu",
+   "predicate": "appointed",
+   "object": "shiji-person-simangang",
+   "evidence": [
+    "P25"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-xiangyu",
+   "predicate": "appointed",
+   "object": "shiji-person-zhanger",
+   "evidence": [
+    "P25"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-xiangyu",
+   "predicate": "appointed",
+   "object": "shiji-person-qingbu",
+   "evidence": [
+    "P25"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "appointed",
+   "object": "shiji-person-hanxin",
+   "evidence": [
+    "P45"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "appointed",
+   "object": "shiji-person-pengyue",
+   "evidence": [
+    "P53"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "appointed",
+   "object": "shiji-person-qingbu",
+   "evidence": [
+    "P50"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "appointed",
+   "object": "shiji-person-luwan",
+   "evidence": [
+    "P58"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "appointed",
+   "object": "shiji-person-liujia",
+   "evidence": [
+    "P62"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "appointed",
+   "object": "shiji-person-liujiao",
+   "evidence": [
+    "P62"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "appointed",
+   "object": "shiji-person-liufei",
+   "evidence": [
+    "P62"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "appointed",
+   "object": "shiji-person-liuchang",
+   "evidence": [
+    "P77"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "appointed",
+   "object": "shiji-person-liujian",
+   "evidence": [
+    "P82"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "appointed",
+   "object": "shiji-person-zhoubo",
+   "evidence": [
+    "P83"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "appointed",
+   "object": "shiji-person-liubi",
+   "evidence": [
+    "P79"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "defeated",
+   "object": "shiji-person-xiangyu",
+   "evidence": [
+    "P51"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-xiangyu",
+   "predicate": "defeated",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P33"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "defeated",
+   "object": "shiji-person-zhanghan",
+   "evidence": [
+    "P28"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-zhanghan",
+   "predicate": "killed",
+   "object": "shiji-person-xiangliang",
+   "evidence": [
+    "P13"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-xiangyu",
+   "predicate": "killed",
+   "object": "shiji-person-songyi",
+   "evidence": [
+    "P20"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-xiangyu",
+   "predicate": "killed",
+   "object": "shiji-person-huaixin",
+   "evidence": [
+    "P27"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-hanxin",
+   "predicate": "killed",
+   "object": "shiji-person-chenyu",
+   "evidence": [
+    "P37"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-hanxin",
+   "predicate": "killed",
+   "object": "shiji-person-longju",
+   "evidence": [
+    "P43"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-guanying",
+   "predicate": "killed",
+   "object": "shiji-person-xiangyu",
+   "evidence": [
+    "P51"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "killed",
+   "object": "shiji-person-caowushang",
+   "evidence": [
+    "P22"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "killed",
+   "object": "shiji-person-hanxin",
+   "evidence": [
+    "P75"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "killed",
+   "object": "shiji-person-pengyue",
+   "evidence": [
+    "P76"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "killed",
+   "object": "shiji-person-qingbu",
+   "evidence": [
+    "P80"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-fankuai",
+   "predicate": "killed",
+   "object": "shiji-person-chenxi",
+   "evidence": [
+    "P81"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-zhouke",
+   "predicate": "killed",
+   "object": "shiji-person-weibao",
+   "evidence": [
+    "P39"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-zhanghan",
+   "predicate": "surrender_to",
+   "object": "shiji-person-xiangyu",
+   "evidence": [
+    "P20"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-simaxin",
+   "predicate": "surrender_to",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P29"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-dongyi",
+   "predicate": "surrender_to",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P29"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "captured",
+   "object": "shiji-person-simangang",
+   "evidence": [
+    "P32"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "captured",
+   "object": "shiji-person-hanwangxin",
+   "evidence": [
+    "P41"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-hanxin",
+   "predicate": "captured",
+   "object": "shiji-person-weibao",
+   "evidence": [
+    "P37"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaozu",
+   "predicate": "captured",
+   "object": "shiji-person-zhangping",
+   "evidence": [
+    "P29"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-xiangyu",
+   "predicate": "captured",
+   "object": "shiji-person-taigong",
+   "evidence": [
+    "P33"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-suihe",
+   "predicate": "persuaded",
+   "object": "shiji-person-qingbu",
+   "evidence": [
+    "P34"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-wushe",
+   "predicate": "persuaded",
+   "object": "shiji-person-hanxin",
+   "evidence": [
+    "P46"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-kuaitong",
+   "predicate": "advised",
+   "object": "shiji-person-hanxin",
+   "evidence": [
+    "P43"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-lishiqi",
+   "predicate": "persuaded",
+   "object": "shiji-person-tianguang",
+   "evidence": [
+    "P43"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-chenhui",
+   "predicate": "advised",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P19"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-yuansheng",
+   "predicate": "advised",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P40"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-zhengzhong",
+   "predicate": "advised",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P42"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-liujing",
+   "predicate": "advised",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P57"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-donggong",
+   "predicate": "advised",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P32"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-zhangliang",
+   "predicate": "advised",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P19",
+    "P47"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-fanzeng",
+   "predicate": "advised",
+   "object": "shiji-person-xiangyu",
+   "evidence": [
+    "P38"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-caowushang",
+   "predicate": "betrayed",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P22"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-yongchi",
+   "predicate": "betrayed",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P10"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-tianrong",
+   "predicate": "rebelled_against",
+   "object": "shiji-person-xiangyu",
+   "evidence": [
+    "P27"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-guangao",
+   "predicate": "plotted_against",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P67"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-chenxi",
+   "predicate": "rebelled_against",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P72"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-qingbu",
+   "predicate": "rebelled_against",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P77"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-luwan",
+   "predicate": "rebelled_against",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P82"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-liji",
+   "predicate": "rebelled_against",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P59"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-hanxin",
+   "predicate": "rebelled_against",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P75"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-pengyue",
+   "predicate": "rebelled_against",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P76"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-shenshiji",
+   "predicate": "allied_with",
+   "object": "shiji-person-lvzhi",
+   "evidence": [
+    "P85"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-pengyue",
+   "predicate": "allied_with",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P18"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-qingbu",
+   "predicate": "allied_with",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P34"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-suihe",
+   "predicate": "subordinate_of",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P34"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-ziren",
+   "predicate": "surrender_to",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P21"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-zangtu",
+   "predicate": "rebelled_against",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P58"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-hanxin",
+   "predicate": "killed",
+   "object": "shiji-person-zhaoxie",
+   "evidence": [
+    "P37"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-caojiu",
+   "predicate": "subordinate_of",
+   "object": "shiji-person-xiangyu",
+   "evidence": [
+    "P44"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-gaoqi",
+   "predicate": "subordinate_of",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P56"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-huaixin",
+   "predicate": "appointed",
+   "object": "shiji-person-lvchen",
+   "evidence": [
+    "P15"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-huaixin",
+   "predicate": "appointed",
+   "object": "shiji-person-lvqing",
+   "evidence": [
+    "P15"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-shenyang",
+   "predicate": "surrender_to",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P29"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-meijuan",
+   "predicate": "subordinate_of",
+   "object": "shiji-person-wurui",
+   "evidence": [
+    "P19"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-manqiu",
+   "predicate": "rebelled_against",
+   "object": "shiji-person-gaozu",
+   "evidence": [
+    "P63"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-xiangyu",
+   "predicate": "appointed",
+   "object": "shiji-person-tiandu",
+   "evidence": [
+    "P27"
+   ],
+   "source": "正文"
+  }
+ ]
+}

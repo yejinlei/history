@@ -1,0 +1,4799 @@
+{
+  "book": "shiji",
+  "chapter": "周本纪",
+  "persons": [
+    {
+      "id": "shiji-person-houji",
+      "name": "后稷",
+      "aliases": [
+        "弃",
+        "周弃"
+      ],
+      "type": "Person",
+      "dynasty": "先周",
+      "role": "周始祖、农师",
+      "description": "周人始祖，名弃，母姜原。相传姜原践巨人迹感孕而生，弃之隘巷、平林、寒冰皆得不死，遂收养之，故名弃。好耕农，帝尧举为农师，帝舜封之于邰，号后稷，别姓姬氏。索隐引谯周谓弃乃帝喾之胄、其父不着，与本纪异说。",
+      "evidence": [
+        "P0",
+        "P1",
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-jiangyuan",
+      "name": "姜原",
+      "aliases": [
+        "姜嫄"
+      ],
+      "type": "Person",
+      "dynasty": "先周",
+      "role": "有邰氏女、帝喾元妃",
+      "description": "有邰氏之女，帝喾元妃，后稷之母。出野见巨人迹而践之，身动如孕，居期生子，以为不祥屡弃之而不死，以为神乃收养之。集解引韩诗章句谓姜为姓、原为字，正义引说文谓邰为周弃外家。",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-diyao",
+      "name": "帝尧",
+      "aliases": [
+        "尧"
+      ],
+      "type": "Person",
+      "dynasty": "陶唐",
+      "role": "部落联盟首领",
+      "description": "陶唐氏之君。闻弃好耕农、相地之宜，举弃为农师，使天下得其利。本纪谓后稷之兴在陶唐、虞、夏之际，皆有令德。",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-dishun",
+      "name": "帝舜",
+      "aliases": [
+        "舜"
+      ],
+      "type": "Person",
+      "dynasty": "虞",
+      "role": "部落联盟首领",
+      "description": "虞舜。命弃播时百谷以救黎民之饥，封弃于邰，号曰后稷，别姓姬氏。",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-buzhu",
+      "name": "不窋",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "先周",
+      "role": "后稷之子、周先公",
+      "description": "后稷之子。当夏后氏政衰、去稷不务之时，不窋失其稷官而奔于戎狄之间。索隐引国语谓『弃稷不务』，太史公避后稷名弃而变文作『去』；正义引括地志谓不窋故城在庆州弘化县南。",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-gongliu",
+      "name": "公刘",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "先周",
+      "role": "周先公",
+      "description": "不窋之孙、鞠之子。虽处戎狄之间，复修后稷之业，务耕种，行地宜，自漆、沮渡渭取材用，行者有资、居者有蓄积，百姓怀之，多徙而保归，周道之兴自此始。诗人歌乐思其德，即大雅『笃公刘』篇。",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-qingjie",
+      "name": "庆节",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "先周",
+      "role": "周先公",
+      "description": "公刘之子。继公刘而立，建国于豳。索隐谓豳即邠，古今字异；正义引括地志谓豳州新平县即汉漆县，乃公刘所邑之地。",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-gugongdanfu",
+      "name": "古公亶父",
+      "aliases": [
+        "太王",
+        "古公"
+      ],
+      "type": "Person",
+      "dynasty": "先周",
+      "role": "周先公、周太王",
+      "description": "公叔祖类之子，周太王。复修后稷、公刘之业，积德行义，国人皆戴之。薰育戎狄攻之，予财予地而不忍以民战，遂去豳逾梁山止于岐下，豳人举国归之。乃贬戎狄之俗，营筑城郭室屋，作五官有司。武王追尊为太王。",
+      "evidence": [
+        "P3",
+        "P4",
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-taijiang",
+      "name": "太姜",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "先周",
+      "role": "古公亶父之妃",
+      "description": "有邰氏之女，古公亶父之妃，生太伯、虞仲、王季。正义引列女传称其有色而贞顺，率导诸子无过，太王谋事迁徙必与焉；国语注谓齐、许、申、吕皆其家。",
+      "evidence": [
+        "P4"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-tairen",
+      "name": "太任",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "先周",
+      "role": "季历之妃、文王之母",
+      "description": "挚任氏之中女，季历之妃，文王之母。正义引列女传称其端壹诚庄、维德之行，能以胎教子而生文王。",
+      "evidence": [
+        "P4"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-taibo",
+      "name": "太伯",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "先周",
+      "role": "古公长子",
+      "description": "古公亶父长子。知父欲立季历以传昌，乃与弟虞仲亡如荆蛮，文身断发以让季历。正义谓太伯奔吴，所居城在苏州北梅里村，其城及冢见存。",
+      "evidence": [
+        "P4",
+        "P5"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-yuzhong",
+      "name": "虞仲",
+      "aliases": [
+        "仲雍"
+      ],
+      "type": "Person",
+      "dynasty": "先周",
+      "role": "古公次子",
+      "description": "古公亶父次子。与兄太伯知父欲立季历以传昌，乃同亡如荆蛮，文身断发，以让季历。",
+      "evidence": [
+        "P4",
+        "P5"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-jili",
+      "name": "季历",
+      "aliases": [
+        "公季",
+        "王季"
+      ],
+      "type": "Person",
+      "dynasty": "先周",
+      "role": "周先公、周王季",
+      "description": "古公亶父少子，太姜所生。娶太任，生昌有圣瑞。古公卒后立，是为公季，修古公遗道，笃于行义，诸侯顺之。武王追尊为王季。",
+      "evidence": [
+        "P4",
+        "P5",
+        "P6",
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-wenwang",
+      "name": "姬昌",
+      "aliases": [
+        "西伯",
+        "周文王",
+        "文王",
+        "昌"
+      ],
+      "type": "Person",
+      "dynasty": "先周",
+      "role": "周文王、西方诸侯之长",
+      "description": "季历之子，即周文王。遵后稷、公刘之业，笃仁敬老礼贤，伯夷、叔齐及太颠、闳夭等皆往归。被纣囚于羑里，赖献美女宝物得赦，赐弓矢斧钺得专征伐。伐犬戎、密须、耆、邘、崇，作丰邑徙都，断虞芮之讼而受命称王，谥文王。",
+      "evidence": [
+        "P6",
+        "P7",
+        "P8",
+        "P9",
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhouwang",
+      "name": "帝纣",
+      "aliases": [
+        "纣",
+        "帝辛",
+        "殷纣",
+        "受"
+      ],
+      "type": "Person",
+      "dynasty": "殷商",
+      "role": "殷商末代君主",
+      "description": "殷末代之王。囚西伯于羑里，后受献而赦之。淫乱暴虐，杀王子比干、囚箕子。武王伐之，纣发兵七十万拒于牧野，士卒倒戈，纣走登鹿台自燔于火而死。索隐引周书作『末孙受德』，谓受德乃纣之字。",
+      "evidence": [
+        "P7",
+        "P13",
+        "P14",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-chonghouhu",
+      "name": "崇侯虎",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "殷商",
+      "role": "崇国之君、纣臣",
+      "description": "殷纣之臣、崇国之君。谮西伯于纣，谓西伯积善累德、诸侯向之将不利于帝，致纣囚西伯于羑里。后西伯伐崇侯虎并作丰邑徙都。",
+      "evidence": [
+        "P7",
+        "P9"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-feizhong",
+      "name": "费仲",
+      "aliases": [
+        "费中"
+      ],
+      "type": "Person",
+      "dynasty": "殷商",
+      "role": "纣之嬖臣",
+      "description": "殷纣宠幸之臣。闳夭等通过费仲献有莘氏美女、骊戎文马、有熊九驷及奇怪之物于纣，纣大悦而赦西伯。",
+      "evidence": [
+        "P7"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-boyi",
+      "name": "伯夷",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "殷商",
+      "role": "孤竹君之子、贤者",
+      "description": "孤竹国之贤者。闻西伯善养老，与叔齐往归之周。正义引括地志谓孤竹故城在平州卢龙县南，殷时诸侯孤竹国，姓墨胎氏。",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-shuqi",
+      "name": "叔齐",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "殷商",
+      "role": "孤竹君之子、贤者",
+      "description": "孤竹君之子，殷末贤者。与兄伯夷闻西伯（文王）善养老，乃相与往归之周。正义引括地志谓孤竹故城在平州卢龙县南，殷时诸侯孤竹国，姓墨胎氏。",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-taidian",
+      "name": "太颠",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "先周",
+      "role": "文王、武王之臣",
+      "description": "归附西伯的贤臣之一。与闳夭、散宜生等营救被囚的西伯。武王克商入商都时，太颠与散宜生、闳夭皆执剑护卫武王。",
+      "evidence": [
+        "P6",
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-hongyao",
+      "name": "闳夭",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "先周",
+      "role": "文王、武王之臣",
+      "description": "归附西伯的贤臣。西伯被囚羑里时，闳夭等患之，求得有莘氏美女、骊戎文马、有熊九驷等献纣以赎西伯。武王克商后奉命封比干之墓。",
+      "evidence": [
+        "P6",
+        "P7",
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-sanyisheng",
+      "name": "散宜生",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "先周",
+      "role": "文王、武王之臣",
+      "description": "归附西伯的贤臣之一，与闳夭等营救被囚的西伯。武王入商都时，散宜生与太颠、闳夭执剑护卫武王。",
+      "evidence": [
+        "P6",
+        "P7",
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-yuzi",
+      "name": "鬻子",
+      "aliases": [
+        "鬻熊"
+      ],
+      "type": "Person",
+      "dynasty": "先周",
+      "role": "文王之臣",
+      "description": "归附西伯的贤臣，名熊。集解引刘向别录谓其封于楚，文王曾亲迎之以为公卿。",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-xinjia",
+      "name": "辛甲",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "先周",
+      "role": "文王之臣、故殷臣",
+      "description": "原为殷臣，事纣，七十五谏而不听，乃去至周。召公与语而贤之，告于文王，文王亲迎以为公卿，封长子。",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zuyi",
+      "name": "祖伊",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "殷商",
+      "role": "殷之贤臣",
+      "description": "殷之臣。闻西伯伐耆等国而惧，以告纣；纣以『不有天命乎，是何能为』自解。",
+      "evidence": [
+        "P9"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-wuwang",
+      "name": "姬发",
+      "aliases": [
+        "武王",
+        "太子发",
+        "发"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "周武王、周开国之君",
+      "description": "文王之子。即位后以太公望为师、周公旦为辅，东观兵至盟津，诸侯不期而会者八百。十一年渡盟津伐纣，战于牧野，纣师倒戈，遂克殷。封纣子禄父、分封诸侯，营周居于雒邑，克殷后二年崩。",
+      "evidence": [
+        "P9",
+        "P11",
+        "P12",
+        "P13",
+        "P14",
+        "P15",
+        "P16",
+        "P17",
+        "P18",
+        "P19"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-taigongwang",
+      "name": "太公望",
+      "aliases": [
+        "师尚父",
+        "尚父",
+        "吕望",
+        "太公"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "周之师、齐之始祖",
+      "description": "武王之师。武王即位以太公望为师；克殷时任师尚父，号令众庶，与百夫致师冲纣军。以首功封于营丘，曰齐。",
+      "evidence": [
+        "P11",
+        "P12",
+        "P14",
+        "P15",
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhougongdan",
+      "name": "周公旦",
+      "aliases": [
+        "周公",
+        "周文公"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "武王之弟、周之辅臣、鲁之始祖",
+      "description": "武王之弟。克殷时把大钺夹护武王。武王病，周公祓斋自为质请代。成王年幼摄行政当国，平定管蔡武庚之乱，营洛邑，制礼作乐，七年反政成王。封于曲阜曰鲁。集解谓其谥文公。",
+      "evidence": [
+        "P11",
+        "P16",
+        "P17",
+        "P20",
+        "P21",
+        "P22"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhaogong",
+      "name": "召公奭",
+      "aliases": [
+        "召公",
+        "召康公"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "周之辅臣、燕之始祖",
+      "description": "周同姓名臣。武王时左右王，克殷后主持释箕子之囚。成王时与周公分陕而治，为保，复营洛邑，东伐淮夷。封于燕。",
+      "evidence": [
+        "P11",
+        "P16",
+        "P17",
+        "P22",
+        "P23"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-bigong",
+      "name": "毕公",
+      "aliases": [
+        "毕公高"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "周之辅臣",
+      "description": "周之名臣。武王、成王时辅政，克殷时把小钺夹护武王。成王临终命召公、毕公率诸侯相太子钊。康王命毕公分居里、成周郊，作毕命。",
+      "evidence": [
+        "P11",
+        "P16",
+        "P17",
+        "P23"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-guanshuxian",
+      "name": "管叔鲜",
+      "aliases": [
+        "叔鲜"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "武王之弟、管国之君",
+      "description": "武王之弟。克殷后封于管，与蔡叔度相纣子禄父治殷，是为三监之一。成王初与蔡叔、武庚作乱叛周，周公奉成王命伐诛之。",
+      "evidence": [
+        "P17",
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-caishudu",
+      "name": "蔡叔度",
+      "aliases": [
+        "叔度"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "武王之弟、蔡国之君",
+      "description": "武王之弟。克殷后封于蔡，与管叔鲜相禄父治殷，为三监之一。成王初与管叔、武庚作乱叛周，周公伐之，放蔡叔。",
+      "evidence": [
+        "P17",
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-lufu",
+      "name": "禄父",
+      "aliases": [
+        "武庚",
+        "纣子禄父"
+      ],
+      "type": "Person",
+      "dynasty": "殷商",
+      "role": "纣之子、殷遗民之首",
+      "description": "殷纣之子。武王克殷后封以殷之余民，使管叔鲜、蔡叔度相之治殷。成王初与管蔡作乱叛周，为周公所诛。",
+      "evidence": [
+        "P17",
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-jizi",
+      "name": "箕子",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "殷商",
+      "role": "殷之贤臣",
+      "description": "殷之贤者，纣囚之。武王克殷后命召公释其囚。武王问殷所以亡，箕子不忍言殷恶，以存亡国宜告，武王乃问以天道，是为洪范九畴。",
+      "evidence": [
+        "P13",
+        "P17",
+        "P19"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-weizikai",
+      "name": "微子开",
+      "aliases": [
+        "微子"
+      ],
+      "type": "Person",
+      "dynasty": "殷商",
+      "role": "纣之庶兄、宋国之始祖",
+      "description": "殷纣之庶兄。周公诛武庚后，以微子开代殷后，封国于宋，以续殷祀。",
+      "evidence": [
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-weikangshu",
+      "name": "卫康叔",
+      "aliases": [
+        "康叔封",
+        "康叔"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "武王少弟、卫国之君",
+      "description": "武王少弟。克殷后祭社时布兹行礼。三监之乱平定后，周公颇收殷余民，以封康叔为卫侯。集解引孔安国谓周公惩殷数叛，故使贤母弟主之。",
+      "evidence": [
+        "P16",
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-jintangshu",
+      "name": "晋唐叔",
+      "aliases": [
+        "唐叔虞"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "周之宗室、晋之始祖",
+      "description": "周之宗室。得嘉谷献于成王，成王转赠周公于兵所。为晋国之始封君。",
+      "evidence": [
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-shuzhenduo",
+      "name": "叔振铎",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "武王之弟",
+      "description": "武王之弟。武王克殷后入商都除道、修社及商纣宫，及祭社行礼时，叔振铎奉陈常车以先驱。集解引蔡邕独断谓前驱有九旒云罕。",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-yinyi",
+      "name": "尹佚",
+      "aliases": [
+        "史佚"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "周之史官",
+      "description": "周之史官。武王克殷入商都，尹佚读筴祝文以祭社，历数殷末孙季纣之罪。又奉命与南宫括展九鼎保玉。",
+      "evidence": [
+        "P16",
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-maoshuzheng",
+      "name": "毛叔郑",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "周之同姓",
+      "description": "周室宗亲。武王克殷后于商都祭社行礼，毛叔郑奉明水。集解引周礼司烜氏以鉴取明水于月，郑玄谓陈明水以为玄酒。",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-nangongkuo",
+      "name": "南宫括",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "武王之臣",
+      "description": "武王之臣。奉命散鹿台之财、发钜桥之粟以振贫弱萌隶，并与史佚展九鼎保玉。",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-shangrong",
+      "name": "商容",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "殷商",
+      "role": "殷之贤者",
+      "description": "殷之贤人。武王克殷、入商都后，命毕公表商容之闾，以示敬礼殷之贤者。",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-taishici",
+      "name": "太师疵",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "殷商",
+      "role": "殷之乐官",
+      "description": "殷之太师。纣暴虐，杀比干、囚箕子，太师疵与少师彊抱其乐器而奔周。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-shaoshiqiang",
+      "name": "少师彊",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "殷商",
+      "role": "殷之乐官",
+      "description": "殷之少师，乐官。纣昏乱暴虐，杀比干、囚箕子，太师疵与少师彊乃抱其乐器而奔周。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-chengwang",
+      "name": "姬诵",
+      "aliases": [
+        "成王",
+        "太子诵",
+        "诵"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "周成王",
+      "description": "武王之子。年幼即位，周公摄政。长而周公反政，营洛邑、迁殷遗民、伐东夷残奄，兴正礼乐，刑错四十余年。临终惧太子钊不任，命召公、毕公相立之。",
+      "evidence": [
+        "P20",
+        "P21",
+        "P22",
+        "P23"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-kangwang",
+      "name": "姬钊",
+      "aliases": [
+        "康王",
+        "太子钊",
+        "钊"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "周康王",
+      "description": "成王之子。即位后遍告诸侯，宣告文武之业，作康诰。与成王之际天下安宁，刑错四十余年不用。",
+      "evidence": [
+        "P23"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhaowang",
+      "name": "姬瑕",
+      "aliases": [
+        "昭王",
+        "瑕"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "周昭王",
+      "description": "康王之子。昭王之时王道微缺，南巡狩不返，卒于江上，其卒不赴告讳之。正义引帝王世纪谓其南征济汉，船人以胶船进，中流船解而没于水。",
+      "evidence": [
+        "P24"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-muwang",
+      "name": "姬满",
+      "aliases": [
+        "穆王",
+        "满"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "周穆王",
+      "description": "昭王之子，即位时年已五十。悯文武之道缺，命伯臩申诫太仆国之政，作臩命。曾征犬戎，得四白狼四白鹿而还，自是荒服者不至。命甫侯作吕刑（甫刑）。立五十五年崩。",
+      "evidence": [
+        "P24",
+        "P25",
+        "P26",
+        "P27"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-jigongmoufu",
+      "name": "祭公谋父",
+      "aliases": [
+        "祭公"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "周之卿士",
+      "description": "周之卿士，祭国之君，周公之后。穆王将征犬戎，祭公谋父引先王耀德不观兵之训力谏，谓犬戎守旧德不可伐。穆王不听。集解引韦昭谓其为畿内之国，谋父其字。",
+      "evidence": [
+        "P25"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-fuhou",
+      "name": "甫侯",
+      "aliases": [
+        "吕侯"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "周之相",
+      "description": "周穆王之臣。诸侯有不睦者，甫侯言于王，修刑辟，作五刑之属三千，命曰甫刑。集解引郑玄谓周穆王以甫侯为相。",
+      "evidence": [
+        "P26"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-gongwang",
+      "name": "共王繄扈",
+      "aliases": [
+        "共王",
+        "伊扈"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "周共王",
+      "description": "穆王之子。游于泾上，密康公从，有三女奔之而不献，共王遂灭密。索隐引系本作『伊扈』。",
+      "evidence": [
+        "P27"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-mikanggong",
+      "name": "密康公",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "密国之君",
+      "description": "密国之君，姬姓。从共王游泾上，得三女，其母劝其献之于王，康公不从，一年而共王灭密。",
+      "evidence": [
+        "P27"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-yiwang",
+      "name": "懿王囏",
+      "aliases": [
+        "懿王",
+        "坚"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "周懿王",
+      "description": "共王之子。其时王室遂衰，诗人作刺。索隐引宋忠谓懿王自镐徙都犬丘，一曰废丘。索隐又引系本作『坚』。",
+      "evidence": [
+        "P27"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-xiaowang",
+      "name": "辟方",
+      "aliases": [
+        "孝王"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "周孝王",
+      "description": "共王之弟。懿王崩后立，是为孝王。孝王崩，诸侯复立懿王太子燮。",
+      "evidence": [
+        "P28"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-yiwang2",
+      "name": "姬燮",
+      "aliases": [
+        "夷王",
+        "燮"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "周夷王",
+      "description": "懿王之子，即周夷王。共王弟孝王崩后，由诸侯复立懿王太子燮为天子。集解引韦昭谓懿王之时王室已衰，诗人作刺。",
+      "evidence": [
+        "P28"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liwang",
+      "name": "姬胡",
+      "aliases": [
+        "厉王",
+        "胡"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "周厉王",
+      "description": "夷王之子。好利近荣夷公，任其为卿士专利用事。暴虐侈傲，以卫巫监谤、杀谤者，国人莫敢言、道路以目。三年后国人相与畔、袭厉王，厉王出奔于彘，十四年后死于彘。",
+      "evidence": [
+        "P29",
+        "P30",
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-rongyigong",
+      "name": "荣夷公",
+      "aliases": [
+        "荣公"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "厉王之卿士",
+      "description": "厉王之卿士。好专利而不知大难，大夫芮良夫力谏厉王不可用，厉王不听，卒以为卿士，用事。",
+      "evidence": [
+        "P29"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-ruiliangfu",
+      "name": "芮良夫",
+      "aliases": [
+        "芮良",
+        "芮伯"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "周之大夫",
+      "description": "周之大夫（原文作『芮良』，正义谓即芮伯）。谏厉王勿专利用荣夷公，引思文后稷、大雅陈锡载周之语，谓匹夫专利犹谓之盗，王而行之周必败。厉王不听。",
+      "evidence": [
+        "P29"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-weiwu",
+      "name": "卫巫",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "卫国之巫",
+      "description": "卫国之巫。厉王怒国人谤王，得卫巫使监视谤者，以告则杀之，国人遂莫敢言。",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-xuanwang",
+      "name": "姬静",
+      "aliases": [
+        "宣王",
+        "太子静",
+        "静"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "周宣王",
+      "description": "厉王太子。国人围之，召公以己子代太子，太子竟得脱。共和十四年厉王死，二相共立之为宣王。即位后修政，法文武成康之遗风，诸侯复宗周。然不籍千亩，战于千亩而败于姜氏之戎，又料民于太原。",
+      "evidence": [
+        "P31",
+        "P32",
+        "P33",
+        "P34"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-guowengong",
+      "name": "虢文公",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "周之卿士",
+      "description": "周之卿士，虢叔之后。宣王不修籍于千亩，虢文公谏以为不可，宣王弗听。集解引韦昭谓其为西虢，宣王都镐，在畿内。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhongshanfu",
+      "name": "仲山甫",
+      "aliases": [
+        "樊穆仲"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "周之卿士",
+      "description": "周之卿士。宣王既亡南国之师，欲料民于太原，仲山甫谏曰民不可料，宣王不听，卒料民。正义引毛苌谓即樊穆仲。",
+      "evidence": [
+        "P34"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-youwang",
+      "name": "姬宫涅",
+      "aliases": [
+        "幽王",
+        "宫涅"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "周幽王",
+      "description": "宣王之子。即位后宠爱褒姒，废申后及太子宜臼，以褒姒为后、伯服为太子。用虢石父为卿，国人皆怨。为博褒姒一笑数举烽火，失信于诸侯。申侯与缯、西夷犬戎攻之，杀之于骊山下，西周遂亡。",
+      "evidence": [
+        "P35",
+        "P36",
+        "P37",
+        "P38"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-boyangfu",
+      "name": "伯阳甫",
+      "aliases": [
+        "伯阳父",
+        "太史伯阳",
+        "伯阳"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "周之大夫、太史",
+      "description": "周之大夫、太史。幽王二年三川皆震，伯阳甫论阴阳失序致地震，谓周将亡。幽王废后立褒姒，伯阳读史记叹『祸成矣，无可柰何』。集解引唐固谓即老子。",
+      "evidence": [
+        "P35",
+        "P36"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-baosi",
+      "name": "褒姒",
+      "aliases": [
+        "襃姒"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "幽王之宠妃、王后",
+      "description": "褒国之女，幽王宠妃。幽王废申后及太子而立之为后。不好笑，幽王为举烽火以戏诸侯，乃大笑。犬戎攻周时被虏。索隐谓其本龙漦妖子为人所收，褒人纳之于王。",
+      "evidence": [
+        "P36",
+        "P37",
+        "P38"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-bofu",
+      "name": "伯服",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "幽王与褒姒之子、太子",
+      "description": "幽王与褒姒所生之子。幽王宠爱褒姒，废申后及太子宜臼，以褒姒为后、伯服为太子。",
+      "evidence": [
+        "P36"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-shenhou",
+      "name": "申侯",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "申国之君、幽王后之父",
+      "description": "申国之君，幽王太子宜臼之母申后之父。因幽王废申后、去太子而怒，与缯、西夷犬戎攻幽王，杀之于骊山下，遂共立宜臼为平王。",
+      "evidence": [
+        "P36",
+        "P38"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-guoshifu",
+      "name": "虢石父",
+      "aliases": [
+        "虢石甫"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "幽王之卿",
+      "description": "幽王之卿。为人佞巧善谀好利，幽王用之，国人皆怨。注疏引国语谓其与褒人比。",
+      "evidence": [
+        "P38"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-pingwang",
+      "name": "姬宜臼",
+      "aliases": [
+        "平王",
+        "宜臼"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周平王、东周开国之君",
+      "description": "幽王太子，母为申后。幽王废之，及幽王死于犬戎之难，诸侯即申侯共立之为平王。即位后东迁于雒邑以避戎寇，周室衰微，诸侯强并弱，齐、楚、秦、晋始大，政由方伯。",
+      "evidence": [
+        "P36",
+        "P38",
+        "P39"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-huanwang",
+      "name": "姬林",
+      "aliases": [
+        "桓王",
+        "林"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周桓王",
+      "description": "平王之孙。平王崩，太子泄父早死，遂立其子林为桓王。三年郑庄公朝而不礼，十三年伐郑，郑射伤桓王。",
+      "evidence": [
+        "P41",
+        "P42"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhengzhuanggong",
+      "name": "郑庄公",
+      "aliases": [
+        "郑伯"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "郑国之君",
+      "description": "郑国之君。桓王三年朝周，桓王不礼。后郑怨，与鲁易许田。桓王伐郑，郑射伤桓王，桓王去归。",
+      "evidence": [
+        "P42"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhuangwang",
+      "name": "姬佗",
+      "aliases": [
+        "庄王",
+        "佗"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周庄王",
+      "description": "桓王之子。庄王四年，周公黑肩欲杀庄王而立王子克，辛伯告王，王杀周公，王子克奔燕。",
+      "evidence": [
+        "P43"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhougongheijian",
+      "name": "周公黑肩",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周之卿士",
+      "description": "周之卿士。庄王时欲杀庄王而改立王子克，事泄，辛伯告王，王杀周公黑肩。",
+      "evidence": [
+        "P43"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-wangzike",
+      "name": "王子克",
+      "aliases": [
+        "子仪"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "庄王之弟",
+      "description": "庄王之弟（集解引贾逵谓即子仪）。周公黑肩欲立之为王，事败后奔燕。",
+      "evidence": [
+        "P43"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-xinbo",
+      "name": "辛伯",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周之大夫",
+      "description": "周之大夫。庄王四年，周公黑肩谋乱，辛伯告王，王杀周公。索隐引左传谓辛伯曾谏周公『并后匹嫡，两政耦国，乱之本也』。",
+      "evidence": [
+        "P43"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liwang2",
+      "name": "姬胡齐",
+      "aliases": [
+        "釐王",
+        "胡齐"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周釐王",
+      "description": "庄王之子，即周釐王（釐音僖）。釐王三年，齐桓公始霸，周室衰而霸政兴。",
+      "evidence": [
+        "P44"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-qihuangong",
+      "name": "齐桓公",
+      "aliases": [
+        "桓公"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "齐国君主、春秋首霸",
+      "description": "齐国君主，春秋五霸之首。釐王三年始霸，惠王十年赐之为伯。曾使管仲平戎于周、隰朋平戎于晋。襄王九年卒。",
+      "evidence": [
+        "P44",
+        "P45",
+        "P46"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-huiwang",
+      "name": "姬阆",
+      "aliases": [
+        "惠王",
+        "阆"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周惠王",
+      "description": "釐王之子。初，庄王嬖姬姚生子颓。惠王即位后夺大臣园以为囿，故大夫边伯等五人作乱，召燕、卫之师伐惠王，惠王奔温、居郑之栎，立颓为王。四年，郑与虢君伐杀颓，复入惠王。惠王十年赐齐桓公为伯。",
+      "evidence": [
+        "P45"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-tui",
+      "name": "王子颓",
+      "aliases": [
+        "颓",
+        "子颓"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "庄王之子、僭立之王",
+      "description": "庄王嬖姬姚所生之子，有宠。惠王初，边伯等五大夫作乱伐惠王，立颓为王。四年，郑与虢君伐杀颓，复入惠王。",
+      "evidence": [
+        "P45"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-bianbo",
+      "name": "边伯",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周之大夫",
+      "description": "周之大夫。惠王即位夺其园以为囿，与蒍国等五人作乱，谋召燕、卫之师伐惠王。",
+      "evidence": [
+        "P45"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-xiangwang",
+      "name": "姬郑",
+      "aliases": [
+        "襄王",
+        "郑"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周襄王",
+      "description": "惠王之子。后母惠后生叔带。三年叔带与戎、翟谋伐襄王，叔带奔齐。郑伐滑，王使游孙、伯服请滑而被囚，王怒降翟师伐郑，又立翟女为后，既而绌翟后，翟人杀谭伯。后叔带立为王，襄王出奔郑居氾，赖晋文公纳王诛叔带。赐晋文公珪鬯弓矢，为伯，以河内地与晋。",
+      "evidence": [
+        "P46",
+        "P47",
+        "P48"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-shudai",
+      "name": "叔带",
+      "aliases": [
+        "王子带",
+        "甘昭公"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "襄王之弟",
+      "description": "惠王之子，襄王异母弟，封于甘，故称甘昭公。有宠于惠王，襄王畏之。曾与戎、翟谋伐襄王而奔齐，后归周。趁翟人入周自立为王，居温，终为晋文公所诛。",
+      "evidence": [
+        "P46",
+        "P47",
+        "P48"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-guanzhong",
+      "name": "管仲",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "齐国之相",
+      "description": "齐桓公之相。奉齐桓公之命平戎于周。襄王以上卿之礼待之，管仲辞让不敢以职自高，卒受下卿之礼而还。",
+      "evidence": [
+        "P46"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-xipeng",
+      "name": "隰朋",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "齐国之臣",
+      "description": "齐国之臣，与管仲同为齐桓公所任。奉齐桓公之命平戎于晋，与管仲平戎于周相配。",
+      "evidence": [
+        "P46"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-fuchen",
+      "name": "富辰",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周之大夫",
+      "description": "周之大夫。屡谏襄王：勿因小怨弃晋郑、勿绌亲亲翟、勿以翟女为后，襄王皆不听。翟人来诛杀谭伯，富辰以其属死之。",
+      "evidence": [
+        "P47",
+        "P48"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-jinwengong",
+      "name": "晋文公",
+      "aliases": [
+        "重耳"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "晋国之君、霸主",
+      "description": "晋国之君。襄王告急于晋，晋文公纳王而诛叔带。襄王赐之珪鬯弓矢，为伯，以河内地与晋。二十年，晋文公召襄王会于河阳、践土，诸侯毕朝，春秋讳书『天王狩于河阳』。",
+      "evidence": [
+        "P48"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-qinmugong",
+      "name": "秦穆公",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "秦国之君",
+      "description": "秦国之君，春秋五霸之一。秦穆公卒于周襄王三十一年，本纪系其事于襄王纪年之下。",
+      "evidence": [
+        "P50"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-qingwang",
+      "name": "顷王壬臣",
+      "aliases": [
+        "顷王",
+        "壬臣"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周顷王",
+      "description": "周襄王之子，名壬臣，即周顷王。襄王三十二年即位，在位六年而崩，子匡王班立。",
+      "evidence": [
+        "P51"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-kuangwang",
+      "name": "匡王班",
+      "aliases": [
+        "匡王",
+        "班"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周匡王",
+      "description": "周顷王之子，名班，即周匡王。顷王六年即位，在位六年而崩，弟瑜立，是为定王。",
+      "evidence": [
+        "P51"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-dingwang",
+      "name": "姬瑜",
+      "aliases": [
+        "定王",
+        "瑜"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周定王",
+      "description": "匡王之子。定王元年，楚庄王伐陆浑之戎，次洛，使人问九鼎，王使王孙满应设以辞，楚兵乃去。十年，楚庄王围郑，郑伯降而复之。",
+      "evidence": [
+        "P51",
+        "P52"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-chuzhuangwang",
+      "name": "楚庄王",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "楚国之君",
+      "description": "楚国之君。定王元年伐陆浑之戎，次洛，使人问九鼎之轻重，为王孙满所辞。十年围郑，郑伯降。十六年卒。",
+      "evidence": [
+        "P52"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-wangsunman",
+      "name": "王孙满",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周之大夫",
+      "description": "周之大夫。定王元年，楚庄王伐陆浑之戎、次洛，使人问九鼎之轻重，王孙满应对以辞，楚兵乃去。集解引贾逵谓王孙满为周大夫。",
+      "evidence": [
+        "P52"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-jianwang",
+      "name": "简王夷",
+      "aliases": [
+        "简王",
+        "夷"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周简王",
+      "description": "周定王之子，名夷，即周简王。定王二十一年即位。简王十三年，晋杀其君厉公，迎子周于周而立为悼公。",
+      "evidence": [
+        "P53"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-lingwang",
+      "name": "灵王泄心",
+      "aliases": [
+        "灵王",
+        "泄心"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周灵王",
+      "description": "简王之子。灵王二十四年，齐崔杼弑其君庄公。集解谓其生而有髭而神，故谥灵王。",
+      "evidence": [
+        "P54"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-jingwang",
+      "name": "景王贵",
+      "aliases": [
+        "景王",
+        "贵"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周景王",
+      "description": "灵王之子。景王十八年后太子圣而早卒。二十年，景王爱子朝欲立之，会崩，子丐之党与争立，国人立长子猛为王，子朝攻杀猛。",
+      "evidence": [
+        "P55"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zichao",
+      "name": "王子朝",
+      "aliases": [
+        "子朝"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "景王之子",
+      "description": "景王之子，有宠。景王崩后与子丐争立，攻杀悼王猛。敬王时自立，居王城，后为臣，其徒复作乱，敬王奔晋，终为晋所平。",
+      "evidence": [
+        "P55",
+        "P56"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-daowang",
+      "name": "猛",
+      "aliases": [
+        "悼王",
+        "王子猛"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周悼王",
+      "description": "景王长子，即王子猛。景王崩后为国人拥立为王，旋为其弟子朝攻杀，谥悼王。",
+      "evidence": [
+        "P55"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-jingwang2",
+      "name": "姬丐",
+      "aliases": [
+        "敬王",
+        "丐"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周敬王",
+      "description": "景王之子。晋人攻子朝而立丐为敬王。四年晋率诸侯入敬王于周，子朝为臣。十六年子朝之徒复作乱，敬王奔晋，十七年晋定公入敬王于周。",
+      "evidence": [
+        "P55",
+        "P56"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-taishidan",
+      "name": "太史儋",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周之太史",
+      "description": "周之太史。烈王二年见秦献公，预言『始周与秦国合而别，别五百载复合，合十七岁而霸王者出焉』。索隐谓其即老子，又谓验其年代实为另一人。",
+      "evidence": [
+        "P66"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-kongzi",
+      "name": "孔子",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "鲁国思想家",
+      "description": "鲁国之人，儒家宗师。本纪系其事于敬王四十一年（楚灭陈之后）云『孔子卒』。",
+      "evidence": [
+        "P58"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-yuanwang",
+      "name": "元王仁",
+      "aliases": [
+        "元王",
+        "仁"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周元王",
+      "description": "敬王之子。即位八年崩，子定王介立。索隐引系本作『元王赤』，谓其一名仁一名赤。",
+      "evidence": [
+        "P59"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhendingwang",
+      "name": "定王介",
+      "aliases": [
+        "贞定王",
+        "定王介"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周贞定王",
+      "description": "元王之子（原文作『定王介』）。定王十六年，三晋灭智伯，分有其地。正义、索隐谓此『定』当作『贞』，即贞定王。",
+      "evidence": [
+        "P59",
+        "P60"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-aiwang",
+      "name": "去疾",
+      "aliases": [
+        "哀王"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周哀王",
+      "description": "周定王（贞定王）之长子，即周哀王。定王二十八年即位，立三月，为其弟叔（思王）袭杀。",
+      "evidence": [
+        "P61"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-siwang",
+      "name": "叔",
+      "aliases": [
+        "思王"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周思王",
+      "description": "周定王之子，即周思王。袭杀其兄哀王而自立，立五月，又为其少弟嵬（考王）攻杀。",
+      "evidence": [
+        "P61"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-kaowang",
+      "name": "嵬",
+      "aliases": [
+        "考王"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周考王",
+      "description": "定王少子。攻杀思王而自立。考王封其弟于河南，是为西周桓公，以续周公之官职。考王十五年崩，子威烈王午立。",
+      "evidence": [
+        "P61",
+        "P62",
+        "P63"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-weiliewang",
+      "name": "威烈王午",
+      "aliases": [
+        "威烈王",
+        "午"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周威烈王",
+      "description": "考王之子。威烈王二十三年，九鼎震，命韩、魏、赵为诸侯。二十四年崩。",
+      "evidence": [
+        "P62",
+        "P64"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-xizhouhuangong",
+      "name": "西周桓公",
+      "aliases": [
+        "桓公",
+        "揭"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "西周封君",
+      "description": "考王之弟。考王封之于河南，以续周公之官职，是为西周桓公，都王城。索隐引系本谓名揭。",
+      "evidence": [
+        "P63"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-xizhouweigong",
+      "name": "威公",
+      "aliases": [
+        "西周威公"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "西周封君",
+      "description": "西周桓公之子，继桓公为西周封君。威公卒，其子惠公代立；惠公又封少子于巩，遂有东西二周。",
+      "evidence": [
+        "P63"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-xizhouhuigong",
+      "name": "惠公",
+      "aliases": [
+        "西周惠公"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "西周封君",
+      "description": "西周威公之子。威公卒，惠公代立，封其少子于巩以奉王，号东周惠公。",
+      "evidence": [
+        "P63"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-dongzhouhuigong",
+      "name": "东周惠公",
+      "aliases": [
+        "班"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "东周封君",
+      "description": "西周惠公之少子。封于巩以奉王，号东周惠公。索隐引系本谓名班，居洛阳。至其子武公，为秦所灭。",
+      "evidence": [
+        "P63"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-anwang",
+      "name": "安王骄",
+      "aliases": [
+        "安王",
+        "骄"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周安王",
+      "description": "周威烈王之子，名骄，即周安王。威烈王二十四年即位，立二十六年而崩，子烈王喜立。是岁盗杀楚声王。",
+      "evidence": [
+        "P65"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liewang",
+      "name": "烈王喜",
+      "aliases": [
+        "烈王",
+        "喜"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周烈王",
+      "description": "安王之子。烈王二年，周太史儋见秦献公。十年烈王崩，弟扁立为显王。",
+      "evidence": [
+        "P66"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-xianwang",
+      "name": "显王扁",
+      "aliases": [
+        "显王",
+        "扁"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周显王",
+      "description": "烈王之弟。显王五年贺秦献公，献公称伯。九年致文武胙于秦孝公。二十五年秦会诸侯于周。三十三年贺秦惠王。四十四年秦惠王称王，其后诸侯皆为王。四十八年崩。",
+      "evidence": [
+        "P66",
+        "P67"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-qinxiangong",
+      "name": "秦献公",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "秦国之君",
+      "description": "秦国之君。周显王五年，周贺秦献公，献公称伯。周太史儋曾于烈王二年见秦献公，作周秦离合之预言。",
+      "evidence": [
+        "P66",
+        "P67"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-qinxiaogong",
+      "name": "秦孝公",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "秦国之君",
+      "description": "秦国之君。周显王九年致文武胙于秦孝公，二十六年周致伯于秦孝公。",
+      "evidence": [
+        "P67"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-qinhuihuiwang",
+      "name": "秦惠王",
+      "aliases": [
+        "秦惠文王"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "秦国之君",
+      "description": "秦国之君。显王三十三年周贺之，三十五年致文武胙，四十四年称王，其后诸侯皆为王。",
+      "evidence": [
+        "P67"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-shenjingwang",
+      "name": "慎靓王定",
+      "aliases": [
+        "慎靓王",
+        "定"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周慎靓王",
+      "description": "周显王之子，名定，即周慎靓王。显王四十八年即位，立六年而崩，子赧王延立。",
+      "evidence": [
+        "P68"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-nanwang",
+      "name": "姬延",
+      "aliases": [
+        "赧王",
+        "王赧",
+        "延"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周赧王、东周末代天子",
+      "description": "慎靓王之子，东周末代天子。时东西周分治，王赧徙都西周。五十九年秦取韩阳城、负黍，西周恐而倍秦合从攻秦，秦昭王使摎攻西周，西周君献邑三十六入秦。周君、王赧卒，周民东亡，秦取九鼎宝器，周既不祀。索隐谓赧非谥，以微弱惭愧故号。",
+      "evidence": [
+        "P68",
+        "P69",
+        "P71",
+        "P74",
+        "P79",
+        "P80"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-xizhouwugong",
+      "name": "西周武公",
+      "aliases": [
+        "武公",
+        "周君"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "西周封君",
+      "description": "西周惠公之长子。其共太子死，有五庶子，司马翦为楚谋划，终立公子咎为太子。赧王时主西周之政，时人称周君。五十九年西周君奔秦顿首受罪，尽献其邑三十六、口三万。集解谓谥西周武公。",
+      "evidence": [
+        "P69",
+        "P71",
+        "P79"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-simajian",
+      "name": "司马翦",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "楚国之臣",
+      "description": "楚国之臣。谓楚王不如以地资助公子咎、为之请为周太子，周果立公子咎为太子。",
+      "evidence": [
+        "P69"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-gongzijiu",
+      "name": "公子咎",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "西周武公之子",
+      "description": "西周武公之子。楚臣司马翦劝楚王以地资助公子咎、为之请为周太子，周果立公子咎为太子。",
+      "evidence": [
+        "P69"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zuocheng",
+      "name": "左成",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "楚国之臣",
+      "description": "楚国之臣。司马翦劝楚王以地资公子咎，左成以为不可，主张先探周君之意。",
+      "evidence": [
+        "P69"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-sudai",
+      "name": "苏代",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "纵横之士",
+      "description": "纵横游说之士。为周说楚王，谓楚不当以周为秦之祸，宜善周以疏周于秦。又为东周说韩相国，使韩不征甲粟于周而得高都。",
+      "evidence": [
+        "P70",
+        "P74"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-shiyan",
+      "name": "史厌",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周之谋士",
+      "description": "为周谋划之士。秦借道两周之间以伐韩，周恐左右为难，史厌为周君设计，令韩与周地并发质使于楚，使秦疑楚不信周。",
+      "evidence": [
+        "P71"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-chengjun",
+      "name": "成君",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "西周之臣",
+      "description": "西周之臣。王赧尝谓之。楚围雍氏，韩征甲粟于东周，东周君召苏代告之。",
+      "evidence": [
+        "P74"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-suli",
+      "name": "苏厉",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "纵横之士",
+      "description": "纵横游说之士。为周君说白起，引养由基善射百发百中之喻，劝白起称病莫出以保前功。",
+      "evidence": [
+        "P75"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-baiqi",
+      "name": "白起",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "秦国之将",
+      "description": "秦国名将。攻破韩、魏，北取赵之蔺、离石。苏厉为周说之，劝其勿再出兵攻梁以保前功。",
+      "evidence": [
+        "P75"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-yangyouji",
+      "name": "养由基",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "楚国善射者",
+      "description": "楚国善射之人。去柳叶百步而射之，百发百中。苏厉借其事喻白起勿恃功穷兵。",
+      "evidence": [
+        "P75"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-mafan",
+      "name": "马犯",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周之臣",
+      "description": "周之臣。秦破魏华阳之军，马犯惧周危，说梁王请以九鼎入梁而图救援，又设计令梁卒为周筑城，以解诸侯之疑。",
+      "evidence": [
+        "P76"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhouju",
+      "name": "周冣",
+      "aliases": [
+        "周聚"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "周之公子",
+      "description": "周之公子（索隐作『冣』，古聚字）。客劝其誉秦王之孝，以应为太后养地，以结秦交。秦攻周，周冣说秦王勿攻周。周又令其相国之秦，客劝其急见秦王以听东方之变。",
+      "evidence": [
+        "P77",
+        "P78"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-qinzhaowang",
+      "name": "秦昭王",
+      "aliases": [
+        "秦昭襄王"
+      ],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "秦国之君",
+      "description": "秦国之君。五十九年怒周背秦合从攻秦，使将军摎攻西周，受西周君之献而复归其君于周。",
+      "evidence": [
+        "P79"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liao",
+      "name": "摎",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "秦国之将",
+      "description": "秦国之将。奉秦昭王之命攻西周，迫使西周君奔秦顿首受罪、献邑三十六。",
+      "evidence": [
+        "P79"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-qinzhuangxiangwang",
+      "name": "秦庄襄王",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "东周",
+      "role": "秦国之君",
+      "description": "秦国之君。周亡后七年，秦庄襄王灭东周，东西周皆入于秦，周既不祀，周祀遂绝。",
+      "evidence": [
+        "P80"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhaomugong",
+      "name": "召穆公",
+      "aliases": [
+        "召公虎",
+        "召穆公虎"
+      ],
+      "type": "Person",
+      "dynasty": "西周",
+      "role": "周之卿士、召公之后",
+      "description": "周之卿士，召康公之后。厉王暴虐，召穆公谏王弭谤，谓『防民之口，甚于防水』。厉王出奔后，太子静匿其家，国人围之，穆公以己子代太子，太子得脱。共和时与周公二相行政。",
+      "evidence": [
+        "P30",
+        "P31"
+      ],
+      "source": "正文"
+    }
+  ],
+  "places": [
+    {
+      "id": "shiji-place-tai",
+      "name": "邰",
+      "aliases": [
+        "斄"
+      ],
+      "type": "Place",
+      "modern": "今陕西武功县一带（正义引括地志：故斄城一名武功城，在雍州武功县西南二十二里）",
+      "description": "后稷（弃）之封地。帝舜封弃于邰，号后稷。注疏引毛苌谓邰为姜嫄之国、后稷所生，尧因邰而生后稷故封之。亦作『斄』，古今字异。",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-bin",
+      "name": "豳",
+      "aliases": [
+        "邠"
+      ],
+      "type": "Place",
+      "modern": "今陕西彬州、旬邑一带（正义引括地志：豳州新平县即汉漆县）",
+      "description": "周人先公所居之地。公刘卒后庆节建国于豳，古公亶父亦居此，后为戎狄所逼而去豳迁岐。武王曾登豳之阜以望商邑。即邠，古今字异。",
+      "evidence": [
+        "P2",
+        "P3",
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-qi",
+      "name": "岐",
+      "aliases": [
+        "岐下",
+        "周原"
+      ],
+      "type": "Place",
+      "modern": "今陕西岐山县一带（正义：右扶风美阳县岐山，周太王所邑）",
+      "description": "古公亶父为避戎狄自豳迁此，止于岐下，营筑城郭室屋、作五官有司，周人由此复兴。集解引徐广谓岐山南有周原，皇甫谧谓『邑于周地，故始改国曰周』。",
+      "evidence": [
+        "P3",
+        "P9"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-liangshan",
+      "name": "梁山",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今陕西韩城、合阳一带（正义引括地志：梁山在雍州好畤县西北十八里）",
+      "description": "古公亶父自豳迁岐途中逾越之山。正义引郑玄谓岐山在梁山西南，自豳适周当逾梁山。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-feng",
+      "name": "丰",
+      "aliases": [
+        "丰邑"
+      ],
+      "type": "Place",
+      "modern": "今陕西西安沣河西岸（集解：丰在京兆鄠县东；正义：周丰宫在雍州鄠县东三十五里）",
+      "description": "文王所建之都。文王伐崇侯虎后作丰邑，自岐下徙都丰。成王时曾居于丰，太史公谓『周复都丰、镐』。",
+      "evidence": [
+        "P9",
+        "P22",
+        "P81"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-hao",
+      "name": "镐",
+      "aliases": [
+        "镐京",
+        "宗周"
+      ],
+      "type": "Place",
+      "modern": "今陕西西安沣河东岸（集解：镐在上林昆明北，有镐池，去丰二十五里）",
+      "description": "周之都城，与丰并称丰镐。成王自奄归在宗周（即镐京）。太史公谓周复都丰、镐，毕公葬于镐东南杜中。",
+      "evidence": [
+        "P22",
+        "P81"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-luoyi",
+      "name": "洛邑",
+      "aliases": [
+        "雒邑",
+        "成周",
+        "王城"
+      ],
+      "type": "Place",
+      "modern": "今河南洛阳一带（正义引括地志：洛阳故城在洛州洛阳县东北二十六里，周公所筑，即成周城）",
+      "description": "周之东都。武王营周居于雒邑而后去，成王使召公复营洛邑，居九鼎，谓此地为天下之中、四方入贡道里均。平王东迁于雒邑以避戎寇。",
+      "evidence": [
+        "P18",
+        "P22",
+        "P23",
+        "P39"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-mengjin",
+      "name": "盟津",
+      "aliases": [
+        "孟津"
+      ],
+      "type": "Place",
+      "modern": "今河南孟津一带（黄河渡口）",
+      "description": "黄河渡口。武王九年东观兵至于盟津，不期而会者八百诸侯；十一年师毕渡盟津，诸侯咸会，武王乃作太誓。",
+      "evidence": [
+        "P12",
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-muye",
+      "name": "牧野",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南淇县南（正义引括地志：纣都朝歌在卫州东北七十三里；酈道元谓自朝歌南至清水悉牧野）",
+      "description": "商都朝歌郊外之地。武王伐纣，陈师牧野，战于商郊牧野，纣师倒戈，遂克殷。",
+      "evidence": [
+        "P14",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-shang",
+      "name": "商",
+      "aliases": [
+        "商邑",
+        "殷",
+        "朝歌"
+      ],
+      "type": "Place",
+      "modern": "今河南安阳、淇县一带（正义：纣都朝歌在卫州东北七十三里朝歌故城）",
+      "description": "殷商之都及国号。武王克殷，至商国，商国百姓咸待于郊。纣自燔于鹿台，武王斩纣头县于大白之旗，后封纣子禄父以殷之余民。",
+      "evidence": [
+        "P14",
+        "P15",
+        "P16",
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-lutai",
+      "name": "鹿台",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南淇县境（朝歌附近）",
+      "description": "纣之台。纣师败，纣走反入登于鹿台之上，蒙衣其珠玉，自燔于火而死。武王克商后命南宫括散鹿台之财以振贫弱。",
+      "evidence": [
+        "P15",
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-juqiao",
+      "name": "钜桥",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河北曲周一带（古钜桥仓所在）",
+      "description": "纣之粮仓所在。武王克商后命南宫括发钜桥之粟，以振贫弱萌隶。",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-youli",
+      "name": "羑里",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南汤阴北（古羑里城）",
+      "description": "殷之狱地。纣囚西伯昌于羑里，西伯于囚中益易之八卦为六十四卦。后赖闳夭等献美女宝物得赦。",
+      "evidence": [
+        "P7",
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yingqiu",
+      "name": "营丘",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今山东淄博临淄（集解/正义：青州临淄县古营丘之地，吕望所封齐之都）",
+      "description": "太公望（师尚父）之封地，齐之都。武王封尚父于营丘，曰齐。",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-qufu",
+      "name": "曲阜",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今山东曲阜（集解：曲阜在鲁城中，委曲长七八里）",
+      "description": "周公旦之封地，鲁之都。武王封弟周公旦于曲阜，曰鲁。其地后为奄国之地，成王东伐残奄。",
+      "evidence": [
+        "P17",
+        "P22"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yan",
+      "name": "燕",
+      "aliases": [
+        "蓟"
+      ],
+      "type": "Place",
+      "modern": "今北京一带（正义引括地志：燕山在幽州渔阳县东南六十里；今幽州蓟县，古燕国）",
+      "description": "召公奭之封国。武王封召公奭于燕，地在燕山之野，故国取名。其地亦为帝尧之后所封蓟，后蓟并入燕。",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-guan",
+      "name": "管",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南郑州管城（正义引括地志：郑州管城县外城，古管国城）",
+      "description": "管叔鲜之封国。武王封弟叔鲜于管，与蔡叔度相禄父治殷，为三监之一。",
+      "evidence": [
+        "P17",
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-cai",
+      "name": "蔡",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南上蔡（正义引括地志：豫州北七十里上蔡县，古蔡国）",
+      "description": "蔡叔度之封国。武王封弟叔度于蔡，相禄父治殷。蔡叔后因叛乱被放。",
+      "evidence": [
+        "P17",
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-song",
+      "name": "宋",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南商丘（正义：今宋州也）",
+      "description": "微子开之封国。周公诛武庚后，以微子开代殷后，国于宋，以续殷祀。",
+      "evidence": [
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-wei",
+      "name": "卫",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南淇县、滑县一带（正义：今卫州是也）",
+      "description": "卫康叔之封国。三监之乱平定后，周公颇收殷余民以封康叔为卫侯。集解引孔安国谓周公惩殷数叛，故使贤母弟主之。",
+      "evidence": [
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jin",
+      "name": "晋",
+      "aliases": [
+        "唐"
+      ],
+      "type": "Place",
+      "modern": "今山西翼城、曲沃一带",
+      "description": "晋唐叔之封国。晋唐叔得嘉谷献于成王，成王转赠周公于兵所。后世晋为诸侯之强者，晋文公约襄王会于河阳、践土。",
+      "evidence": [
+        "P21",
+        "P48"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jiao",
+      "name": "焦",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南陕县（集解：弘农陕县有焦城，故焦国）",
+      "description": "神农之后封国。武王追思先圣王，褒封神农之后于焦。",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-zhu",
+      "name": "祝",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今山东长清一带（正义：祝其即夹谷，东海郡祝其县）",
+      "description": "黄帝之后封国。武王褒封黄帝之后于祝。",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-ji",
+      "name": "蓟",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今北京一带（集解：燕国有蓟县）",
+      "description": "帝尧之后封国。武王褒封帝尧之后于蓟，后蓟并入燕。",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-chen",
+      "name": "陈",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南淮阳（正义引括地志：陈州宛丘县即古陈国）",
+      "description": "帝舜之后封国。武王封舜后妫满于陈，都宛丘之侧。敬王四十一年为楚所灭。",
+      "evidence": [
+        "P17",
+        "P58"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-qiguo",
+      "name": "杞",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南杞县（正义引括地志：汴州雍丘县，古杞国）",
+      "description": "大禹之后封国。武王封禹后于杞，号东楼公，二十一代为楚所灭。",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-zhi",
+      "name": "彘",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今山西霍州（集解引韦昭：彘，晋地，汉为县，属河东，今曰永安）",
+      "description": "厉王出奔之地。国人相与畔而袭厉王，厉王出奔于彘，共和十四年死于此。太子静即于此时匿召公家。",
+      "evidence": [
+        "P30",
+        "P31",
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-quanrong",
+      "name": "犬戎",
+      "aliases": [
+        "西夷犬戎",
+        "昆夷"
+      ],
+      "type": "Place",
+      "modern": "西方戎狄部族（集解引山海经谓有人面兽身名曰犬戎；说文谓赤狄本犬种）",
+      "description": "西方戎狄部族。文王曾伐之。穆王征犬戎，得四白狼四白鹿而归，荒服者不至。幽王时申侯与缯、西夷犬戎攻周，杀幽王于骊山，西周遂亡。",
+      "evidence": [
+        "P9",
+        "P25",
+        "P38"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-sanchuan",
+      "name": "三川",
+      "aliases": [],
+      "type": "Place",
+      "modern": "指泾、渭、洛三水，在雍州一带（集解引徐广：泾、渭、洛也）",
+      "description": "周镐京附近之泾、渭、洛三水。幽王二年西周三川皆震，伯阳甫论阴阳失序、原塞国亡之兆，是岁三川竭、岐山崩。",
+      "evidence": [
+        "P35"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-qishan",
+      "name": "岐山",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今陕西岐山县（正义：岐山在梁山西南）",
+      "description": "周人发祥地之山，古公亶父邑于岐下。幽王二年与三川震同岁而崩，伯阳甫以为亡国之征。",
+      "evidence": [
+        "P3",
+        "P35"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-lishan",
+      "name": "骊山",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今陕西西安临潼（正义引括地志：骊山在雍州新丰县南十六里，即蓝田山）",
+      "description": "幽王被杀之地。申侯与犬戎攻幽王，杀幽王于骊山下，虏褒姒，尽取周赂而去。",
+      "evidence": [
+        "P38"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-shen",
+      "name": "申",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南南阳一带（古申国）",
+      "description": "姜姓之国，申侯之封。幽王申后出于申，申侯因幽王废申后、去太子而怒，与缯、犬戎攻周。",
+      "evidence": [
+        "P36",
+        "P38"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-zeng",
+      "name": "缯",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今山东峄城东（正义引括地志：缯县在沂州承县，古侯国，禹后）",
+      "description": "姒姓之国，夏禹之后。幽王时与申侯、西夷犬戎共攻幽王。",
+      "evidence": [
+        "P38"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-taiyuan",
+      "name": "太原",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今山西一带（索隐谓地名在西河介休县）",
+      "description": "宣王既亡南国之师，乃料民于太原。仲山甫谏曰民不可料，宣王不听，卒料民。",
+      "evidence": [
+        "P34"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-qianmu",
+      "name": "千亩",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今山西介休一带（正义引括地志：千亩原在晋州岳阳县北九十里）",
+      "description": "宣王不修籍于此。宣王三十九年战于千亩，王师败绩于姜氏之戎。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-wen",
+      "name": "温",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南温县（正义引括地志：故温城在怀州温县西三十里，本周司寇苏忿生之邑）",
+      "description": "周邑。惠王初，边伯等作乱伐惠王，惠王奔温。后叔带立为王，取襄王所绌翟后同居温。其地后以河内地与晋。",
+      "evidence": [
+        "P45",
+        "P48"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-li",
+      "name": "栎",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南禹州（正义引杜预：栎，今河南阳翟县）",
+      "description": "郑之大都。惠王奔温后己居郑之栎。",
+      "evidence": [
+        "P45"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-fan",
+      "name": "氾",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南襄城（正义引括地志：故氾城在许州襄城县一里）",
+      "description": "郑地。襄王出奔郑，郑居王于氾。左传载『天王出居于郑，处于氾』。",
+      "evidence": [
+        "P48"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-heyang",
+      "name": "河阳",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南孟州（集解引贾逵：河阳，晋之温也）",
+      "description": "晋地。晋文公召襄王，襄王会之河阳、践土，诸侯毕朝，春秋讳书『天王狩于河阳』。",
+      "evidence": [
+        "P48"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jiantu",
+      "name": "践土",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南原阳西南（集解引贾逵：践土，郑地名，在河内）",
+      "description": "郑地名。襄王与晋文公会于此，诸侯毕朝。",
+      "evidence": [
+        "P48"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-luhun",
+      "name": "陆浑",
+      "aliases": [
+        "陆浑之戎"
+      ],
+      "type": "Place",
+      "modern": "今河南嵩县一带（集解：陆浑县属弘农郡）",
+      "description": "戎人之地。定王元年，楚庄王伐陆浑之戎，次洛，使人问九鼎。",
+      "evidence": [
+        "P52"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-gan",
+      "name": "甘",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南洛阳西南（正义引括地志：故甘城在洛州河南县西南二十五里）",
+      "description": "叔带之封邑。叔带为襄王弟，封于甘，故左传称甘昭公。后立为王居温。",
+      "evidence": [
+        "P46",
+        "P48"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-gong",
+      "name": "巩",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南巩义（集解/正义：巩县，周地，巩伯邑）",
+      "description": "周地。考王封其弟之少子（东周惠公）于巩以奉王，是为东周。索隐谓东周惠公名班居洛阳。",
+      "evidence": [
+        "P63"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-henan",
+      "name": "河南",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南洛阳王城一带（正义：故王城一名河南城）",
+      "description": "考王封其弟于河南，是为西周桓公，以续周公之官职。为西周之都，赧王徙都西周。汉武东巡至河南，求周苗裔封之。",
+      "evidence": [
+        "P63",
+        "P68",
+        "P81"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yangcheng",
+      "name": "阳城",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南登封（集解：阳城有负黍聚；正义：阳城，洛州县也）",
+      "description": "周邑，后属韩。周赧王五十九年，秦取韩阳城、负黍，西周恐而倍秦合从攻秦。",
+      "evidence": [
+        "P79"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-fushu",
+      "name": "负黍",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南登封西南（正义引括地志：负黍亭在阳城县西南三十五里）",
+      "description": "周邑，后属韩。周赧王五十九年，秦取韩阳城、负黍。",
+      "evidence": [
+        "P79"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yique",
+      "name": "伊阙",
+      "aliases": [
+        "龙门"
+      ],
+      "type": "Place",
+      "modern": "今河南洛阳南（正义：伊阙塞在洛州南十九里，伊阙山今名钟山）",
+      "description": "军事要塞。五十九年西周与诸侯约从，将天下锐师出伊阙攻秦，令秦无得通阳城。",
+      "evidence": [
+        "P79"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yiyang",
+      "name": "宜阳",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南宜阳（正义引括地志：故韩城一名宜阳城，在洛州福昌县东十四里）",
+      "description": "韩地。赧王八年秦攻宜阳，楚救之。",
+      "evidence": [
+        "P70"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yongshi",
+      "name": "雍氏",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南禹州东北（正义引括地志：故雍城在洛州阳翟县东北二十五里）",
+      "description": "韩地。楚围雍氏，韩征甲与粟于东周，东周君恐，苏代设计使韩不征而予周高都。",
+      "evidence": [
+        "P74"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-gaodu",
+      "name": "高都",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南洛阳境（集解：今河南新城县高都城；正义：高都故城在洛州伊阙县北三十五里）",
+      "description": "韩邑。苏代为东周说韩相国，使韩与周高都。",
+      "evidence": [
+        "P74"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-huayang",
+      "name": "华阳",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南新郑南（正义引括地志：故华阳城在郑州管城县南四十里）",
+      "description": "地名。赧王四十二年秦破华阳约，马犯因惧周危，说梁王为周筑城。",
+      "evidence": [
+        "P76"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-ying",
+      "name": "应",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南平顶山（集解：地理志云应，今颍川父城县应乡）",
+      "description": "周地。客劝周冣誉秦王之孝，以应为太后养地，以结秦交。",
+      "evidence": [
+        "P77"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-linshi",
+      "name": "蔺、离石",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今山西吕梁一带（集解：西河郡有蔺、离石二县）",
+      "description": "赵之二邑。秦将白起北取赵蔺、离石。",
+      "evidence": [
+        "P75"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-liang",
+      "name": "梁",
+      "aliases": [
+        "大梁"
+      ],
+      "type": "Place",
+      "modern": "今河南开封（战国魏都大梁）",
+      "description": "魏国之都。苏厉为周说白起，谓秦又将兵出塞攻梁，梁破则周危。马犯亦说梁王为周筑城。",
+      "evidence": [
+        "P75",
+        "P76"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-danhu",
+      "name": "𢠸狐",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南汝州一带（集解：𢠸狐聚与阳人聚相近，在洛阳南百五十里梁、新城之间）",
+      "description": "周地聚邑。秦取九鼎宝器，迁西周公于𢠸狐。",
+      "evidence": [
+        "P80"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-huashan",
+      "name": "华山",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今陕西华阴（正义：华山在华阴县南八里）",
+      "description": "武王克殷后，纵马于华山之阳，放牛于桃林之虚，偃干戈、振兵释旅，示天下不复用兵。",
+      "evidence": [
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-taolin",
+      "name": "桃林",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南灵宝西（集解引孔安国：桃林在华山东；正义：桃林在陕州桃林县西）",
+      "description": "地名。武王克殷后放牛于桃林之虚，与纵马华山同为偃武之举。",
+      "evidence": [
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-qin",
+      "name": "秦",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今陕西、甘肃一带",
+      "description": "西方之国。平王之时齐、楚、秦、晋始大。后秦取九鼎宝器，庄襄王灭东周，东西周皆入于秦，周遂不祀。",
+      "evidence": [
+        "P39",
+        "P80"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-chu",
+      "name": "楚",
+      "aliases": [
+        "荆"
+      ],
+      "type": "Place",
+      "modern": "今湖北一带",
+      "description": "南方之国。平王之时始大。楚庄王问鼎、伐陆浑之戎；敬王四十一年楚灭陈。战国时楚与周多有交涉。",
+      "evidence": [
+        "P39",
+        "P52",
+        "P58"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-qistate",
+      "name": "齐",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今山东一带",
+      "description": "东方之国。平王之时始大。齐桓公始霸，周赐之为伯；齐崔杼弑其君庄公、田常杀其君简公。",
+      "evidence": [
+        "P39",
+        "P44",
+        "P54",
+        "P57"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-zheng",
+      "name": "郑",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南新郑一带",
+      "description": "周畿内及东方之国。桓王伐郑，郑射伤桓王；郑伐滑，王使游孙、伯服请滑而被囚；襄王出奔郑，郑居王于氾。",
+      "evidence": [
+        "P42",
+        "P47",
+        "P48"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-lu",
+      "name": "鲁",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今山东曲阜一带",
+      "description": "周公封国。鲁隐公即位（平王四十九年）、鲁武公来朝（宣王十二年），鲁与郑易许田。",
+      "evidence": [
+        "P33",
+        "P40",
+        "P42"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-han",
+      "name": "韩",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河南一带",
+      "description": "三晋之一。威烈王二十三年命韩、魏、赵为诸侯。后韩地阳城、负黍为秦所取。",
+      "evidence": [
+        "P64",
+        "P79"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-weiguo",
+      "name": "魏",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今山西、河南一带",
+      "description": "三晋之一。威烈王二十三年命韩、魏、赵为诸侯。其都大梁。",
+      "evidence": [
+        "P64"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-zhao",
+      "name": "赵",
+      "aliases": [],
+      "type": "Place",
+      "modern": "今河北、山西一带",
+      "description": "三晋之一。威烈王二十三年命韩、魏、赵为诸侯。其地蔺、离石为白起所取。",
+      "evidence": [
+        "P64",
+        "P75"
+      ],
+      "source": "正文"
+    }
+  ],
+  "events": [
+    {
+      "id": "shiji-event-houjifengtai",
+      "name": "后稷受封于邰",
+      "type": "Event",
+      "participants": [
+        "shiji-person-houji",
+        "shiji-person-dishun",
+        "shiji-person-diyao"
+      ],
+      "place": "shiji-place-tai",
+      "description": "帝尧举弃为农师，帝舜命弃播时百谷、封弃于邰，号曰后稷，别姓姬氏。周人自后稷始兴。",
+      "evidence": [
+        "P0",
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-gongliujuyu",
+      "name": "公刘复修后稷之业、居豳",
+      "type": "Event",
+      "participants": [
+        "shiji-person-gongliu"
+      ],
+      "place": "shiji-place-bin",
+      "description": "公刘虽处戎狄之间，复修后稷之业，务耕种、行地宜，自漆、沮渡渭取材用，百姓怀之多徙归附。公刘卒，子庆节立，建国于豳。",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-gugongqianqi",
+      "name": "古公亶父迁岐",
+      "type": "Event",
+      "participants": [
+        "shiji-person-gugongdanfu"
+      ],
+      "place": "shiji-place-qi",
+      "description": "薰育戎狄攻古公亶父，欲得地与民。古公不忍以民战，遂与私属去豳、度漆沮、逾梁山，止于岐下。豳人举国扶老携弱尽归之，他旁国闻其仁亦多归之。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-taiborangguo",
+      "name": "太伯虞仲让国",
+      "type": "Event",
+      "participants": [
+        "shiji-person-taibo",
+        "shiji-person-yuzhong",
+        "shiji-person-jili"
+      ],
+      "place": "",
+      "description": "古公亶父欲立季历以传昌。长子太伯、虞仲知其意，乃二人亡如荆蛮，文身断发，以让季历。",
+      "evidence": [
+        "P4",
+        "P5"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-youliqiuxibo",
+      "name": "纣囚西伯于羑里",
+      "type": "Event",
+      "participants": [
+        "shiji-person-zhouwang",
+        "shiji-person-wenwang",
+        "shiji-person-chonghouhu",
+        "shiji-person-hongyao",
+        "shiji-person-feizhong"
+      ],
+      "place": "shiji-place-youli",
+      "description": "崇侯虎谮西伯于纣，纣乃囚西伯于羑里。闳夭之徒求得有莘氏美女、骊戎文马等，因费仲献纣。纣大悦，赦西伯，赐弓矢斧钺，使得征伐。",
+      "evidence": [
+        "P7"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-yuruizhisong",
+      "name": "文王断虞芮之讼",
+      "type": "Event",
+      "participants": [
+        "shiji-person-wenwang"
+      ],
+      "place": "",
+      "description": "虞、芮之人有狱不能决，乃如周。入界见耕者让畔、民俗让长，未見西伯皆惭，相让而去。诸侯闻之，谓西伯盖受命之君。",
+      "evidence": [
+        "P8"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-wenwangfachong",
+      "name": "文王伐崇作丰邑",
+      "type": "Event",
+      "participants": [
+        "shiji-person-wenwang",
+        "shiji-person-chonghouhu"
+      ],
+      "place": "shiji-place-feng",
+      "description": "西伯受命后连年伐犬戎、密须、耆、邘，又伐崇侯虎，作丰邑，自岐下徙都丰。明年西伯崩，谥为文王。",
+      "evidence": [
+        "P9",
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-mengjinguanbing",
+      "name": "武王观兵盟津",
+      "type": "Event",
+      "participants": [
+        "shiji-person-wuwang",
+        "shiji-person-taigongwang"
+      ],
+      "place": "shiji-place-mengjin",
+      "description": "武王九年上祭于毕，东观兵至盟津，为文王木主载以车。诸侯不期而会者八百，皆曰纣可伐，武王以未知天命而未可，乃还师归。",
+      "evidence": [
+        "P12"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-muyezhizhan",
+      "name": "牧野之战",
+      "type": "Event",
+      "participants": [
+        "shiji-person-wuwang",
+        "shiji-person-zhouwang",
+        "shiji-person-taigongwang"
+      ],
+      "place": "shiji-place-muye",
+      "description": "武王十一年率戎车三百乘、虎贲三千、甲士四万五千东伐纣，师毕渡盟津。二月甲子昧爽，武王誓师于商郊牧野。纣发兵七十万，然士卒无战心、倒兵以战，纣师崩畔。",
+      "evidence": [
+        "P13",
+        "P14",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-wuwangkeyin",
+      "name": "武王克殷、纣自焚",
+      "type": "Event",
+      "participants": [
+        "shiji-person-wuwang",
+        "shiji-person-zhouwang"
+      ],
+      "place": "shiji-place-shang",
+      "description": "纣兵崩畔，纣走反入登鹿台，蒙衣珠玉自燔于火而死。武王至商国，斩纣头县于大白之旗，二嬖妾亦自杀。明日除道修社，武王再拜稽首受天明命。",
+      "evidence": [
+        "P15",
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-fengzhuhou",
+      "name": "武王分封诸侯",
+      "type": "Event",
+      "participants": [
+        "shiji-person-wuwang",
+        "shiji-person-taigongwang",
+        "shiji-person-zhougongdan",
+        "shiji-person-zhaogong",
+        "shiji-person-guanshuxian",
+        "shiji-person-caishudu"
+      ],
+      "place": "",
+      "description": "武王克殷后封纣子禄父以殷余民，使管叔鲜、蔡叔度相之。追思先圣王，封神农之后于焦、黄帝之后于祝、尧之后于蓟、舜之后于陈、禹之后于杞；封功臣谋士，师尚父为首封于营丘曰齐，封弟周公旦于曲阜曰鲁，封召公奭于燕，封弟叔鲜于管、叔度于蔡。",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-yingluoyi",
+      "name": "营建洛邑",
+      "type": "Event",
+      "participants": [
+        "shiji-person-wuwang",
+        "shiji-person-zhougongdan",
+        "shiji-person-zhaogong",
+        "shiji-person-chengwang"
+      ],
+      "place": "shiji-place-luoyi",
+      "description": "武王克殷后欲定天保，南望三涂、北望岳鄙，顾瞻河洛，营周居于雒邑而后去。成王在丰，使召公复营洛邑如武王之意，周公复卜申视，卒营筑，居九鼎焉。",
+      "evidence": [
+        "P18",
+        "P22"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-sanjianzhiluan",
+      "name": "三监之乱",
+      "type": "Event",
+      "participants": [
+        "shiji-person-guanshuxian",
+        "shiji-person-caishudu",
+        "shiji-person-lufu",
+        "shiji-person-zhougongdan",
+        "shiji-person-chengwang"
+      ],
+      "place": "",
+      "description": "成王年少，周公摄行政当国。管叔、蔡叔群弟疑周公，与武庚（禄父）作乱，畔周。",
+      "evidence": [
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-zhougongdongzheng",
+      "name": "周公东征",
+      "type": "Event",
+      "participants": [
+        "shiji-person-zhougongdan",
+        "shiji-person-chengwang"
+      ],
+      "place": "shiji-place-qufu",
+      "description": "周公奉成王命伐诛武庚、管叔，放蔡叔。以微子开代殷后国于宋，收殷余民封卫康叔。三年而毕定。后又东伐淮夷、残奄，迁其君薄姑。",
+      "evidence": [
+        "P21",
+        "P22"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-chengkangzhizhi",
+      "name": "成康之治",
+      "type": "Event",
+      "participants": [
+        "shiji-person-chengwang",
+        "shiji-person-kangwang"
+      ],
+      "place": "",
+      "description": "成王兴正礼乐，度制于是改，民和睦、颂声兴。康王即位遍告诸侯，宣告文武之业。故成康之际天下安宁，刑错四十余年不用。",
+      "evidence": [
+        "P22",
+        "P23"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-zhaowangnanzheng",
+      "name": "昭王南征不返",
+      "type": "Event",
+      "participants": [
+        "shiji-person-zhaowang"
+      ],
+      "place": "",
+      "description": "昭王之时王道微缺。昭王南巡狩不返，卒于江上，其卒不赴告，讳之也。正义引帝王世纪谓其南征济汉，船人以胶船进，中流船解而没于水。",
+      "evidence": [
+        "P24"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-muwangzhengquanrong",
+      "name": "穆王征犬戎",
+      "type": "Event",
+      "participants": [
+        "shiji-person-muwang",
+        "shiji-person-jigongmoufu"
+      ],
+      "place": "shiji-place-quanrong",
+      "description": "穆王将征犬戎，祭公谋父以先王耀德不观兵之训力谏，谓犬戎守旧德不可伐。穆王不听，遂征之，得四白狼四白鹿以归。自是荒服者不至。",
+      "evidence": [
+        "P25"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-fuxing",
+      "name": "甫刑之作",
+      "type": "Event",
+      "participants": [
+        "shiji-person-fuhou",
+        "shiji-person-muwang"
+      ],
+      "place": "",
+      "description": "诸侯有不睦者，甫侯言于王，修刑辟，定五刑之属三千，五刑之疑各有赦，命曰甫刑（吕刑）。",
+      "evidence": [
+        "P26"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-guorenbaodong",
+      "name": "国人暴动",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liwang",
+        "shiji-person-zhaomugong",
+        "shiji-person-weiwu"
+      ],
+      "place": "shiji-place-zhi",
+      "description": "厉王暴虐，以卫巫监谤、杀谤者，国人莫敢言、道路以目。召公谏弭谤不可，谓防民之口甚于防水，王不听。三年，国人相与畔、袭厉王，厉王出奔于彘。",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-gonghexingzheng",
+      "name": "共和行政",
+      "type": "Event",
+      "participants": [
+        "shiji-person-zhaomugong"
+      ],
+      "place": "",
+      "description": "厉王出奔于彘后，召公、周公二相行政，号曰『共和』。共和十四年，厉王死于彘，太子静长于召公家，二相乃共立之为王，是为宣王。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-qianmuzhizhan",
+      "name": "千亩之战",
+      "type": "Event",
+      "participants": [
+        "shiji-person-xuanwang",
+        "shiji-person-guowengong"
+      ],
+      "place": "shiji-place-qianmu",
+      "description": "宣王不修籍于千亩，虢文公谏以为不可，王弗听。宣王三十九年，战于千亩，王师败绩于姜氏之戎。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-liaomintaiyuan",
+      "name": "宣王料民于太原",
+      "type": "Event",
+      "participants": [
+        "shiji-person-xuanwang",
+        "shiji-person-zhongshanfu"
+      ],
+      "place": "shiji-place-taiyuan",
+      "description": "宣王既亡南国之师，乃料民于太原。仲山甫谏曰民不可料，宣王不听，卒料民。",
+      "evidence": [
+        "P34"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-fenghuoxizhuhou",
+      "name": "烽火戏诸侯",
+      "type": "Event",
+      "participants": [
+        "shiji-person-youwang",
+        "shiji-person-baosi"
+      ],
+      "place": "",
+      "description": "褒姒不好笑，幽王欲其笑万方。乃为烽燧大鼓，有寇则举烽火，诸侯悉至而无寇，褒姒乃大笑。幽王为数次举烽火，其后诸侯不信，益亦不至。",
+      "evidence": [
+        "P37"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-quanrongmiedzhou",
+      "name": "犬戎灭周",
+      "type": "Event",
+      "participants": [
+        "shiji-person-youwang",
+        "shiji-person-shenhou",
+        "shiji-person-baosi"
+      ],
+      "place": "shiji-place-lishan",
+      "description": "幽王用虢石父为卿，国人皆怨，又废申后、去太子。申侯怒，与缯、西夷犬戎攻幽王。幽王举烽火征兵而兵莫至，遂被杀于骊山下，褒姒被虏，尽取周赂而去，西周遂亡。",
+      "evidence": [
+        "P38"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-pingwangdongqian",
+      "name": "平王东迁",
+      "type": "Event",
+      "participants": [
+        "shiji-person-pingwang"
+      ],
+      "place": "shiji-place-luoyi",
+      "description": "犬戎灭周后，诸侯即申侯共立故幽王太子宜臼为平王，以奉周祀。平王立，东迁于雒邑以避戎寇。周室衰微，诸侯强并弱，齐、楚、秦、晋始大，政由方伯。",
+      "evidence": [
+        "P38",
+        "P39"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-wangzituizhiluan",
+      "name": "王子颓之乱",
+      "type": "Event",
+      "participants": [
+        "shiji-person-huiwang",
+        "shiji-person-tui",
+        "shiji-person-bianbo"
+      ],
+      "place": "shiji-place-wen",
+      "description": "庄王嬖姬姚生子颓，有宠。惠王即位夺大臣园以为囿，故大夫边伯等五人作乱，召燕、卫之师伐惠王。惠王奔温、居郑之栎，立颓为王。四年，郑与虢君伐杀颓，复入惠王。",
+      "evidence": [
+        "P45"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-zidaizhiluan",
+      "name": "子带之乱",
+      "type": "Event",
+      "participants": [
+        "shiji-person-xiangwang",
+        "shiji-person-shudai",
+        "shiji-person-jinwengong"
+      ],
+      "place": "shiji-place-fan",
+      "description": "襄王异母弟叔带（王子带）有宠于惠王。惠后欲立王子带，故以党开翟人，翟人遂入周，襄王出奔郑、居氾，子带立为王居温。十七年，襄王告急于晋，晋文公纳王而诛叔带。",
+      "evidence": [
+        "P46",
+        "P47",
+        "P48"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-wendin",
+      "name": "楚庄王问鼎",
+      "type": "Event",
+      "participants": [
+        "shiji-person-chuzhuangwang",
+        "shiji-person-wangsunman",
+        "shiji-person-dingwang"
+      ],
+      "place": "shiji-place-luoyi",
+      "description": "定王元年，楚庄王伐陆浑之戎，次洛，使人问九鼎之轻重。王使王孙满应设以辞，楚兵乃去。",
+      "evidence": [
+        "P52"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-wangzizhaozhiluan",
+      "name": "王子朝之乱",
+      "type": "Event",
+      "participants": [
+        "shiji-person-jingwang",
+        "shiji-person-zichao",
+        "shiji-person-daowang",
+        "shiji-person-jingwang2"
+      ],
+      "place": "",
+      "description": "景王爱子朝欲立之，会崩，子丐之党与争立，国人立长子猛为王，子朝攻杀猛（悼王）。晋人攻子朝而立丐，是为敬王。其后子朝之徒復作乱，敬王奔晋，晋定公遂入敬王于周。",
+      "evidence": [
+        "P55",
+        "P56"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-jiudingzhen",
+      "name": "九鼎震、命三晋为诸侯",
+      "type": "Event",
+      "participants": [
+        "shiji-person-weiliewang"
+      ],
+      "place": "",
+      "description": "威烈王二十三年，九鼎震。周命韩、魏、赵为诸侯。",
+      "evidence": [
+        "P64"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-qinmieliangzhou",
+      "name": "秦灭两周",
+      "type": "Event",
+      "participants": [
+        "shiji-person-nanwang",
+        "shiji-person-xizhouwugong",
+        "shiji-person-qinzhaowang",
+        "shiji-person-liao",
+        "shiji-person-qinzhuangxiangwang"
+      ],
+      "place": "shiji-place-danhu",
+      "description": "赧王五十九年，秦取韩阳城、负黍，西周恐而倍秦，与诸侯约从攻秦。秦昭王怒，使将军摎攻西周，西周君奔秦顿首受罪，尽献其邑三十六、口三万。周君、王赧卒，周民东亡，秦取九鼎宝器，迁西周公于𢠸狐，后七年秦庄襄王灭东周，周既不祀。",
+      "evidence": [
+        "P79",
+        "P80"
+      ],
+      "source": "正文"
+    }
+  ],
+  "offices": [
+    {
+      "id": "shiji-office-nongshi",
+      "name": "农师",
+      "description": "掌农事之官。帝尧闻弃好耕农，举弃为农师，天下得其利。",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-houji",
+      "name": "后稷（稷官）",
+      "description": "掌农事之官，即农官。周人世任此官，后稷之兴在陶唐、虞、夏之际。夏后氏政衰、去稷不务，不窋因此失官而奔戎狄。",
+      "evidence": [
+        "P1",
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-wuguan",
+      "name": "五官",
+      "description": "古公亶父迁岐后设立之五官有司。集解引礼记谓天子之五官曰司徒、司马、司空、司士、司寇，典司五众，郑玄谓此殷时之制。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-situ",
+      "name": "司徒",
+      "description": "五官之一，掌教化民政。武王伐纣誓师及克殷后皆设司徒，与司马、司空诸节并列。",
+      "evidence": [
+        "P12",
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-sima",
+      "name": "司马",
+      "description": "五官之一，掌军事。武王伐纣时告司马、司徒、司空诸节，誓师之辞亦列司徒、司马、司空。",
+      "evidence": [
+        "P12",
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-sikong",
+      "name": "司空",
+      "description": "五官之一，掌工程土役。武王伐纣誓师及告众庶时皆与司徒、司马并列。",
+      "evidence": [
+        "P12",
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-taishi",
+      "name": "太师",
+      "description": "三公之一，天子之师、乐官之长。殷有太师疵，与少师彊抱乐器奔周；武王以师尚父（太公望）为师。",
+      "evidence": [
+        "P12",
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-shaoshi",
+      "name": "少师",
+      "description": "乐官之长，位次太师。殷之少师彊与太师疵见纣暴虐，抱其乐器而奔周。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-qingshi",
+      "name": "卿士",
+      "description": "执政之卿。厉王以荣夷公为卿士用事；幽王以虢石父为卿。集解引韦昭谓召穆公为周卿士。",
+      "evidence": [
+        "P29",
+        "P38"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-taipu",
+      "name": "太仆",
+      "description": "掌御众仆之长。穆王命伯臩申诫太仆国之政。集解引应劭谓太仆为周穆王所置，盖太御众仆之长，中大夫。",
+      "evidence": [
+        "P24"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-taipuzheng",
+      "name": "太仆正",
+      "description": "太仆之长。尚书序谓穆王令伯臩为太仆正。",
+      "evidence": [
+        "P24"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-shi",
+      "name": "师",
+      "description": "辅佐天子之重职。武王即位以太公望为师；成王时周公为师、召公为保。武王伐商，师尚父号令众庶，总尔众庶与尔舟楫。",
+      "evidence": [
+        "P11",
+        "P12",
+        "P22"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-bao",
+      "name": "保",
+      "description": "辅弼天子之职，与师并列。成王时召公为保，与周公为师，二公分掌。",
+      "evidence": [
+        "P22"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-fangbo",
+      "name": "方伯",
+      "description": "一方诸侯之长。平王东迁后政由方伯。周赐齐桓公、晋文公为伯，显王致伯于秦孝公。",
+      "evidence": [
+        "P39",
+        "P45",
+        "P48",
+        "P67"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-xiangguo",
+      "name": "相国",
+      "description": "执政大臣。苏代为东周说韩相国，使韩与周高都；周令其相国之秦。集解引汉书百官表谓相国为秦官，诸国仿之，索隐谓韩相国即公仲侈。",
+      "evidence": [
+        "P74",
+        "P78"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-jiangjun",
+      "name": "将军",
+      "description": "武官之长。秦昭王使将军摎攻西周。集解引汉书百官表谓前、后、左、右将军皆周末官。",
+      "evidence": [
+        "P79"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-dafu",
+      "name": "大夫",
+      "description": "卿以下之官职。周有多位大夫：芮良（夫）、边伯、辛伯、伯阳甫、富辰、王孙满等皆任大夫。",
+      "evidence": [
+        "P29",
+        "P43",
+        "P45",
+        "P47",
+        "P52"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-taishiguan",
+      "name": "太史",
+      "description": "掌史之官，记事、读策祝。周太史伯阳读史记；尹佚（史佚）读筴书祝文以祭社；周太史儋见秦献公。",
+      "evidence": [
+        "P16",
+        "P36",
+        "P66"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-xiang",
+      "name": "相",
+      "description": "执政大臣。厉王出奔后，召公、周公二相行政，号曰共和，共理国政。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-zongzhu",
+      "name": "宗祝",
+      "description": "掌祭祀之官。武王克商后命宗祝享祠于军。",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    }
+  ],
+  "relations": [
+    {
+      "subject": "shiji-person-jiangyuan",
+      "predicate": "mother_of",
+      "object": "shiji-person-houji",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-houji",
+      "predicate": "father_of",
+      "object": "shiji-person-buzhu",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-buzhu",
+      "predicate": "ancestor_of",
+      "object": "shiji-person-gongliu",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-gongliu",
+      "predicate": "father_of",
+      "object": "shiji-person-qingjie",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-qingjie",
+      "predicate": "enfeoffed_at",
+      "object": "shiji-place-bin",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-gugongdanfu",
+      "predicate": "father_of",
+      "object": "shiji-person-taibo",
+      "evidence": [
+        "P4"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-gugongdanfu",
+      "predicate": "father_of",
+      "object": "shiji-person-yuzhong",
+      "evidence": [
+        "P4"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-gugongdanfu",
+      "predicate": "father_of",
+      "object": "shiji-person-jili",
+      "evidence": [
+        "P4"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-taijiang",
+      "predicate": "wife_of",
+      "object": "shiji-person-gugongdanfu",
+      "evidence": [
+        "P4"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-tairen",
+      "predicate": "wife_of",
+      "object": "shiji-person-jili",
+      "evidence": [
+        "P4"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-tairen",
+      "predicate": "mother_of",
+      "object": "shiji-person-wenwang",
+      "evidence": [
+        "P4"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-jili",
+      "predicate": "father_of",
+      "object": "shiji-person-wenwang",
+      "evidence": [
+        "P4",
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-taibo",
+      "predicate": "brother_of",
+      "object": "shiji-person-jili",
+      "evidence": [
+        "P4",
+        "P5"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-yuzhong",
+      "predicate": "brother_of",
+      "object": "shiji-person-jili",
+      "evidence": [
+        "P4",
+        "P5"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-jili",
+      "predicate": "succeeded",
+      "object": "shiji-person-gugongdanfu",
+      "evidence": [
+        "P5"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-wenwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-jili",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-chonghouhu",
+      "predicate": "slandered",
+      "object": "shiji-person-wenwang",
+      "evidence": [
+        "P7"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhouwang",
+      "predicate": "imprisoned",
+      "object": "shiji-person-wenwang",
+      "evidence": [
+        "P7"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-hongyao",
+      "predicate": "rescued",
+      "object": "shiji-person-wenwang",
+      "evidence": [
+        "P7"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-feizhong",
+      "predicate": "minister_of",
+      "object": "shiji-person-zhouwang",
+      "evidence": [
+        "P7"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-wenwang",
+      "predicate": "defeated",
+      "object": "shiji-person-chonghouhu",
+      "evidence": [
+        "P9"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-wuwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-wenwang",
+      "evidence": [
+        "P9"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-taigongwang",
+      "predicate": "minister_of",
+      "object": "shiji-person-wuwang",
+      "evidence": [
+        "P11"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-wuwang",
+      "predicate": "defeated",
+      "object": "shiji-person-zhouwang",
+      "evidence": [
+        "P14",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-wuwang",
+      "predicate": "killed",
+      "object": "shiji-person-zhouwang",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-taigongwang",
+      "predicate": "enfeoffed_at",
+      "object": "shiji-place-yingqiu",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhougongdan",
+      "predicate": "enfeoffed_at",
+      "object": "shiji-place-qufu",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhaogong",
+      "predicate": "enfeoffed_at",
+      "object": "shiji-place-yan",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-guanshuxian",
+      "predicate": "enfeoffed_at",
+      "object": "shiji-place-guan",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-caishudu",
+      "predicate": "enfeoffed_at",
+      "object": "shiji-place-cai",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-weizikai",
+      "predicate": "enfeoffed_at",
+      "object": "shiji-place-song",
+      "evidence": [
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-weikangshu",
+      "predicate": "enfeoffed_at",
+      "object": "shiji-place-wei",
+      "evidence": [
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-jintangshu",
+      "predicate": "enfeoffed_at",
+      "object": "shiji-place-jin",
+      "evidence": [
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-guanshuxian",
+      "predicate": "brother_of",
+      "object": "shiji-person-wuwang",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-caishudu",
+      "predicate": "brother_of",
+      "object": "shiji-person-wuwang",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhougongdan",
+      "predicate": "brother_of",
+      "object": "shiji-person-wuwang",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-weikangshu",
+      "predicate": "brother_of",
+      "object": "shiji-person-wuwang",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-shuzhenduo",
+      "predicate": "brother_of",
+      "object": "shiji-person-wuwang",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-guanshuxian",
+      "predicate": "revolted_against",
+      "object": "shiji-person-zhougongdan",
+      "evidence": [
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-caishudu",
+      "predicate": "revolted_against",
+      "object": "shiji-person-zhougongdan",
+      "evidence": [
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-lufu",
+      "predicate": "revolted_against",
+      "object": "shiji-person-zhougongdan",
+      "evidence": [
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhougongdan",
+      "predicate": "killed",
+      "object": "shiji-person-lufu",
+      "evidence": [
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhougongdan",
+      "predicate": "killed",
+      "object": "shiji-person-guanshuxian",
+      "evidence": [
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhougongdan",
+      "predicate": "exiled",
+      "object": "shiji-person-caishudu",
+      "evidence": [
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhougongdan",
+      "predicate": "regent_for",
+      "object": "shiji-person-chengwang",
+      "evidence": [
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-chengwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-wuwang",
+      "evidence": [
+        "P20"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-kangwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-chengwang",
+      "evidence": [
+        "P23"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhaowang",
+      "predicate": "succeeded",
+      "object": "shiji-person-kangwang",
+      "evidence": [
+        "P24"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-muwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-zhaowang",
+      "evidence": [
+        "P24"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-jigongmoufu",
+      "predicate": "remonstrated",
+      "object": "shiji-person-muwang",
+      "evidence": [
+        "P25"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-gongwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-muwang",
+      "evidence": [
+        "P27"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-gongwang",
+      "predicate": "defeated",
+      "object": "shiji-person-mikanggong",
+      "evidence": [
+        "P27"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-yiwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-gongwang",
+      "evidence": [
+        "P27"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaowang",
+      "predicate": "brother_of",
+      "object": "shiji-person-gongwang",
+      "evidence": [
+        "P28"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaowang",
+      "predicate": "succeeded",
+      "object": "shiji-person-yiwang",
+      "evidence": [
+        "P28"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-yiwang2",
+      "predicate": "succeeded",
+      "object": "shiji-person-xiaowang",
+      "evidence": [
+        "P28"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-yiwang2",
+      "predicate": "son_of",
+      "object": "shiji-person-yiwang",
+      "evidence": [
+        "P28"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-yiwang2",
+      "evidence": [
+        "P29"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-rongyigong",
+      "predicate": "minister_of",
+      "object": "shiji-person-liwang",
+      "evidence": [
+        "P29"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-ruiliangfu",
+      "predicate": "remonstrated",
+      "object": "shiji-person-liwang",
+      "evidence": [
+        "P29"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhaomugong",
+      "predicate": "remonstrated",
+      "object": "shiji-person-liwang",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-weiwu",
+      "predicate": "served",
+      "object": "shiji-person-liwang",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xuanwang",
+      "predicate": "son_of",
+      "object": "shiji-person-liwang",
+      "evidence": [
+        "P31"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xuanwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-liwang",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-guowengong",
+      "predicate": "remonstrated",
+      "object": "shiji-person-xuanwang",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhongshanfu",
+      "predicate": "remonstrated",
+      "object": "shiji-person-xuanwang",
+      "evidence": [
+        "P34"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-youwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-xuanwang",
+      "evidence": [
+        "P35"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-youwang",
+      "predicate": "father_of",
+      "object": "shiji-person-pingwang",
+      "evidence": [
+        "P36"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-youwang",
+      "predicate": "father_of",
+      "object": "shiji-person-bofu",
+      "evidence": [
+        "P36"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-baosi",
+      "predicate": "mother_of",
+      "object": "shiji-person-bofu",
+      "evidence": [
+        "P36"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-baosi",
+      "predicate": "wife_of",
+      "object": "shiji-person-youwang",
+      "evidence": [
+        "P36",
+        "P37"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-shenhou",
+      "predicate": "grandfather_of",
+      "object": "shiji-person-pingwang",
+      "evidence": [
+        "P36"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-guoshifu",
+      "predicate": "minister_of",
+      "object": "shiji-person-youwang",
+      "evidence": [
+        "P38"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-shenhou",
+      "predicate": "killed",
+      "object": "shiji-person-youwang",
+      "evidence": [
+        "P38"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-pingwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-youwang",
+      "evidence": [
+        "P38"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-huanwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-pingwang",
+      "evidence": [
+        "P41"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-huanwang",
+      "predicate": "grandson_of",
+      "object": "shiji-person-pingwang",
+      "evidence": [
+        "P41"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhengzhuanggong",
+      "predicate": "wounded",
+      "object": "shiji-person-huanwang",
+      "evidence": [
+        "P42"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhuangwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-huanwang",
+      "evidence": [
+        "P43"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhuangwang",
+      "predicate": "killed",
+      "object": "shiji-person-zhougongheijian",
+      "evidence": [
+        "P43"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhougongheijian",
+      "predicate": "supported",
+      "object": "shiji-person-wangzike",
+      "evidence": [
+        "P43"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-wangzike",
+      "predicate": "brother_of",
+      "object": "shiji-person-zhuangwang",
+      "evidence": [
+        "P43"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liwang2",
+      "predicate": "succeeded",
+      "object": "shiji-person-zhuangwang",
+      "evidence": [
+        "P44"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-huiwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-liwang2",
+      "evidence": [
+        "P45"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-tui",
+      "predicate": "son_of",
+      "object": "shiji-person-zhuangwang",
+      "evidence": [
+        "P45"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-bianbo",
+      "predicate": "revolted_against",
+      "object": "shiji-person-huiwang",
+      "evidence": [
+        "P45"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiangwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-huiwang",
+      "evidence": [
+        "P46"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-shudai",
+      "predicate": "brother_of",
+      "object": "shiji-person-xiangwang",
+      "evidence": [
+        "P46"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-guanzhong",
+      "predicate": "minister_of",
+      "object": "shiji-person-qihuangong",
+      "evidence": [
+        "P46"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-fuchen",
+      "predicate": "remonstrated",
+      "object": "shiji-person-xiangwang",
+      "evidence": [
+        "P47",
+        "P48"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-jinwengong",
+      "predicate": "killed",
+      "object": "shiji-person-shudai",
+      "evidence": [
+        "P48"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-jinwengong",
+      "predicate": "restored",
+      "object": "shiji-person-xiangwang",
+      "evidence": [
+        "P48"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-qingwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-xiangwang",
+      "evidence": [
+        "P51"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-kuangwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-qingwang",
+      "evidence": [
+        "P51"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-dingwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-kuangwang",
+      "evidence": [
+        "P51"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-chuzhuangwang",
+      "predicate": "challenged",
+      "object": "shiji-person-dingwang",
+      "evidence": [
+        "P52"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-jianwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-dingwang",
+      "evidence": [
+        "P53"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-lingwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-jianwang",
+      "evidence": [
+        "P54"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-jingwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-lingwang",
+      "evidence": [
+        "P55"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-daowang",
+      "predicate": "son_of",
+      "object": "shiji-person-jingwang",
+      "evidence": [
+        "P55"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zichao",
+      "predicate": "son_of",
+      "object": "shiji-person-jingwang",
+      "evidence": [
+        "P55"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zichao",
+      "predicate": "killed",
+      "object": "shiji-person-daowang",
+      "evidence": [
+        "P55"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-jingwang2",
+      "predicate": "succeeded",
+      "object": "shiji-person-daowang",
+      "evidence": [
+        "P55"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-jingwang2",
+      "predicate": "brother_of",
+      "object": "shiji-person-daowang",
+      "evidence": [
+        "P55"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-yuanwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-jingwang2",
+      "evidence": [
+        "P59"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhendingwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-yuanwang",
+      "evidence": [
+        "P59"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-aiwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-zhendingwang",
+      "evidence": [
+        "P61"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-siwang",
+      "predicate": "brother_of",
+      "object": "shiji-person-aiwang",
+      "evidence": [
+        "P61"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-siwang",
+      "predicate": "killed",
+      "object": "shiji-person-aiwang",
+      "evidence": [
+        "P61"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-kaowang",
+      "predicate": "brother_of",
+      "object": "shiji-person-siwang",
+      "evidence": [
+        "P61"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-kaowang",
+      "predicate": "killed",
+      "object": "shiji-person-siwang",
+      "evidence": [
+        "P61"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-weiliewang",
+      "predicate": "succeeded",
+      "object": "shiji-person-kaowang",
+      "evidence": [
+        "P62"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xizhouhuangong",
+      "predicate": "brother_of",
+      "object": "shiji-person-kaowang",
+      "evidence": [
+        "P63"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xizhouweigong",
+      "predicate": "son_of",
+      "object": "shiji-person-xizhouhuangong",
+      "evidence": [
+        "P63"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xizhouhuigong",
+      "predicate": "son_of",
+      "object": "shiji-person-xizhouweigong",
+      "evidence": [
+        "P63"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-dongzhouhuigong",
+      "predicate": "son_of",
+      "object": "shiji-person-xizhouhuigong",
+      "evidence": [
+        "P63"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-anwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-weiliewang",
+      "evidence": [
+        "P65"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liewang",
+      "predicate": "succeeded",
+      "object": "shiji-person-anwang",
+      "evidence": [
+        "P66"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-taishidan",
+      "predicate": "predicted_to",
+      "object": "shiji-person-qinxiangong",
+      "evidence": [
+        "P66"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xianwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-liewang",
+      "evidence": [
+        "P66"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-shenjingwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-xianwang",
+      "evidence": [
+        "P68"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-nanwang",
+      "predicate": "succeeded",
+      "object": "shiji-person-shenjingwang",
+      "evidence": [
+        "P68"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xizhouwugong",
+      "predicate": "son_of",
+      "object": "shiji-person-xizhouhuigong",
+      "evidence": [
+        "P69"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xizhouwugong",
+      "predicate": "father_of",
+      "object": "shiji-person-gongzijiu",
+      "evidence": [
+        "P69"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-simajian",
+      "predicate": "supported",
+      "object": "shiji-person-gongzijiu",
+      "evidence": [
+        "P69"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-qinzhaowang",
+      "predicate": "defeated",
+      "object": "shiji-person-xizhouwugong",
+      "evidence": [
+        "P79"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liao",
+      "predicate": "defeated",
+      "object": "shiji-person-xizhouwugong",
+      "evidence": [
+        "P79"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-qinzhuangxiangwang",
+      "predicate": "defeated",
+      "object": "shiji-person-dongzhouhuigong",
+      "evidence": [
+        "P80"
+      ],
+      "source": "正文"
+    }
+  ]
+}

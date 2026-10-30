@@ -1,0 +1,1406 @@
+{
+ "book": "shiji",
+ "chapter": "孝武本纪",
+ "source": "孝武本纪-实体-定稿.json",
+ "note": "实体在正文中的出现标注（surface为正文实际用字），供阅读器增强高亮",
+ "mentions": [
+  {
+   "para": "p0",
+   "surface": "孝武帝",
+   "entity_id": "shiji-person-hanwudi",
+   "type": "person"
+  },
+  {
+   "para": "p0",
+   "surface": "褚先生",
+   "entity_id": "shiji-person-chushaosun",
+   "type": "person"
+  },
+  {
+   "para": "p0",
+   "surface": "太史公",
+   "entity_id": "shiji-person-taishigong",
+   "type": "person"
+  },
+  {
+   "para": "p0",
+   "surface": "太史公",
+   "entity_id": "shiji-office-taishigong",
+   "type": "office"
+  },
+  {
+   "para": "p0",
+   "surface": "博士",
+   "entity_id": "shiji-office-boshi",
+   "type": "office"
+  },
+  {
+   "para": "p1",
+   "surface": "孝武皇帝",
+   "entity_id": "shiji-person-hanwudi",
+   "type": "person"
+  },
+  {
+   "para": "p1",
+   "surface": "孝景",
+   "entity_id": "shiji-person-xiaojingdi",
+   "type": "person"
+  },
+  {
+   "para": "p1",
+   "surface": "王太后",
+   "entity_id": "shiji-person-wangtaihou",
+   "type": "person"
+  },
+  {
+   "para": "p2",
+   "surface": "趙綰",
+   "entity_id": "shiji-person-zhaowan",
+   "type": "person"
+  },
+  {
+   "para": "p2",
+   "surface": "王臧",
+   "entity_id": "shiji-person-wangzang",
+   "type": "person"
+  },
+  {
+   "para": "p2",
+   "surface": "竇太后",
+   "entity_id": "shiji-person-doutaihou",
+   "type": "person"
+  },
+  {
+   "para": "p2",
+   "surface": "明堂",
+   "entity_id": "shiji-place-mingtang",
+   "type": "place"
+  },
+  {
+   "para": "p3",
+   "surface": "竇太后",
+   "entity_id": "shiji-person-doutaihou",
+   "type": "person"
+  },
+  {
+   "para": "p3",
+   "surface": "公孫弘",
+   "entity_id": "shiji-person-gongsunhong",
+   "type": "person"
+  },
+  {
+   "para": "p4",
+   "surface": "神君",
+   "entity_id": "shiji-person-shenjun",
+   "type": "person"
+  },
+  {
+   "para": "p4",
+   "surface": "宛若",
+   "entity_id": "shiji-person-wanruo",
+   "type": "person"
+  },
+  {
+   "para": "p4",
+   "surface": "平原君",
+   "entity_id": "shiji-person-pingyuanjun",
+   "type": "person"
+  },
+  {
+   "para": "p5",
+   "surface": "李少君",
+   "entity_id": "shiji-person-lishaojun",
+   "type": "person"
+  },
+  {
+   "para": "p5",
+   "surface": "武安侯",
+   "entity_id": "shiji-person-wuanhou",
+   "type": "person"
+  },
+  {
+   "para": "p6",
+   "surface": "少君",
+   "entity_id": "shiji-person-lishaojun",
+   "type": "person"
+  },
+  {
+   "para": "p6",
+   "surface": "安期生",
+   "entity_id": "shiji-person-anqisheng",
+   "type": "person"
+  },
+  {
+   "para": "p6",
+   "surface": "黃帝",
+   "entity_id": "shiji-person-huangdi",
+   "type": "person"
+  },
+  {
+   "para": "p6",
+   "surface": "蓬萊",
+   "entity_id": "shiji-place-penglai",
+   "type": "place"
+  },
+  {
+   "para": "p7",
+   "surface": "李少君",
+   "entity_id": "shiji-person-lishaojun",
+   "type": "person"
+  },
+  {
+   "para": "p7",
+   "surface": "安期生",
+   "entity_id": "shiji-person-anqisheng",
+   "type": "person"
+  },
+  {
+   "para": "p7",
+   "surface": "黃錘史寬舒",
+   "entity_id": "shiji-person-kuaishu",
+   "type": "person"
+  },
+  {
+   "para": "p7",
+   "surface": "蓬萊",
+   "entity_id": "shiji-place-penglai",
+   "type": "place"
+  },
+  {
+   "para": "p8",
+   "surface": "薄誘忌",
+   "entity_id": "shiji-person-boyouji",
+   "type": "person"
+  },
+  {
+   "para": "p8",
+   "surface": "黃帝",
+   "entity_id": "shiji-person-huangdi",
+   "type": "person"
+  },
+  {
+   "para": "p8",
+   "surface": "長安",
+   "entity_id": "shiji-place-changan",
+   "type": "place"
+  },
+  {
+   "para": "p8",
+   "surface": "祠官",
+   "entity_id": "shiji-office-ciguan",
+   "type": "office"
+  },
+  {
+   "para": "p8",
+   "surface": "太祝",
+   "entity_id": "shiji-office-taizhu",
+   "type": "office"
+  },
+  {
+   "para": "p11",
+   "surface": "濟北王",
+   "entity_id": "shiji-person-jibeiwang",
+   "type": "person"
+  },
+  {
+   "para": "p11",
+   "surface": "常山王",
+   "entity_id": "shiji-person-changshanwang",
+   "type": "person"
+  },
+  {
+   "para": "p11",
+   "surface": "泰山",
+   "entity_id": "shiji-place-taishan",
+   "type": "place"
+  },
+  {
+   "para": "p11",
+   "surface": "常山",
+   "entity_id": "shiji-place-changshan",
+   "type": "place"
+  },
+  {
+   "para": "p12",
+   "surface": "文成將軍",
+   "entity_id": "shiji-person-shaoweng",
+   "type": "person"
+  },
+  {
+   "para": "p12",
+   "surface": "王夫人",
+   "entity_id": "shiji-person-wangfuren",
+   "type": "person"
+  },
+  {
+   "para": "p12",
+   "surface": "甘泉",
+   "entity_id": "shiji-place-ganquan",
+   "type": "place"
+  },
+  {
+   "para": "p12",
+   "surface": "文成將軍",
+   "entity_id": "shiji-office-wenchengjiangjun",
+   "type": "office"
+  },
+  {
+   "para": "p14",
+   "surface": "神君",
+   "entity_id": "shiji-person-shenjun",
+   "type": "person"
+  },
+  {
+   "para": "p14",
+   "surface": "文成",
+   "entity_id": "shiji-person-shaoweng",
+   "type": "person"
+  },
+  {
+   "para": "p14",
+   "surface": "甘泉",
+   "entity_id": "shiji-place-ganquan",
+   "type": "place"
+  },
+  {
+   "para": "p14",
+   "surface": "肅然",
+   "entity_id": "shiji-place-suran",
+   "type": "place"
+  },
+  {
+   "para": "p14",
+   "surface": "鼎湖",
+   "entity_id": "shiji-place-dinghu",
+   "type": "place"
+  },
+  {
+   "para": "p16",
+   "surface": "今上",
+   "entity_id": "shiji-person-hanwudi",
+   "type": "person"
+  },
+  {
+   "para": "p16",
+   "surface": "寬舒",
+   "entity_id": "shiji-person-kuaishu",
+   "type": "person"
+  },
+  {
+   "para": "p16",
+   "surface": "太史公",
+   "entity_id": "shiji-person-taishigong",
+   "type": "person"
+  },
+  {
+   "para": "p16",
+   "surface": "汾陰",
+   "entity_id": "shiji-place-fenyin",
+   "type": "place"
+  },
+  {
+   "para": "p16",
+   "surface": "泰山",
+   "entity_id": "shiji-place-taishan",
+   "type": "place"
+  },
+  {
+   "para": "p16",
+   "surface": "滎陽",
+   "entity_id": "shiji-place-xingyang",
+   "type": "place"
+  },
+  {
+   "para": "p16",
+   "surface": "雒陽",
+   "entity_id": "shiji-place-luoyang",
+   "type": "place"
+  },
+  {
+   "para": "p16",
+   "surface": "太史公",
+   "entity_id": "shiji-office-taishigong",
+   "type": "office"
+  },
+  {
+   "para": "p16",
+   "surface": "祠官",
+   "entity_id": "shiji-office-ciguan",
+   "type": "office"
+  },
+  {
+   "para": "p16",
+   "surface": "周子南君",
+   "entity_id": "shiji-office-zhounanjun",
+   "type": "office"
+  },
+  {
+   "para": "p17",
+   "surface": "安期",
+   "entity_id": "shiji-person-anqisheng",
+   "type": "person"
+  },
+  {
+   "para": "p17",
+   "surface": "羨門",
+   "entity_id": "shiji-person-xianmen",
+   "type": "person"
+  },
+  {
+   "para": "p17",
+   "surface": "文成將軍",
+   "entity_id": "shiji-person-shaoweng",
+   "type": "person"
+  },
+  {
+   "para": "p17",
+   "surface": "欒大",
+   "entity_id": "shiji-person-luanda",
+   "type": "person"
+  },
+  {
+   "para": "p17",
+   "surface": "樂成侯",
+   "entity_id": "shiji-person-lechenghou",
+   "type": "person"
+  },
+  {
+   "para": "p17",
+   "surface": "文成將軍",
+   "entity_id": "shiji-office-wenchengjiangjun",
+   "type": "office"
+  },
+  {
+   "para": "p17",
+   "surface": "尚方",
+   "entity_id": "shiji-office-shangfang",
+   "type": "office"
+  },
+  {
+   "para": "p18",
+   "surface": "五利將軍",
+   "entity_id": "shiji-person-luanda",
+   "type": "person"
+  },
+  {
+   "para": "p18",
+   "surface": "當利公主",
+   "entity_id": "shiji-person-weichanggongzhu",
+   "type": "person"
+  },
+  {
+   "para": "p18",
+   "surface": "大主",
+   "entity_id": "shiji-person-dazhu",
+   "type": "person"
+  },
+  {
+   "para": "p18",
+   "surface": "五利將軍",
+   "entity_id": "shiji-office-wulijiangjun",
+   "type": "office"
+  },
+  {
+   "para": "p18",
+   "surface": "天士將軍",
+   "entity_id": "shiji-office-tianshijiangjun",
+   "type": "office"
+  },
+  {
+   "para": "p18",
+   "surface": "地士將軍",
+   "entity_id": "shiji-office-dishijiangjun",
+   "type": "office"
+  },
+  {
+   "para": "p18",
+   "surface": "大通將軍",
+   "entity_id": "shiji-office-datongjiangjun",
+   "type": "office"
+  },
+  {
+   "para": "p18",
+   "surface": "天道將軍",
+   "entity_id": "shiji-office-tiandaojiangjun",
+   "type": "office"
+  },
+  {
+   "para": "p18",
+   "surface": "樂通侯",
+   "entity_id": "shiji-office-letonghou",
+   "type": "office"
+  },
+  {
+   "para": "p18",
+   "surface": "長公主",
+   "entity_id": "shiji-office-changgongzhu",
+   "type": "office"
+  },
+  {
+   "para": "p19",
+   "surface": "黃帝",
+   "entity_id": "shiji-person-huangdi",
+   "type": "person"
+  },
+  {
+   "para": "p19",
+   "surface": "汾陰巫錦",
+   "entity_id": "shiji-person-wujin",
+   "type": "person"
+  },
+  {
+   "para": "p19",
+   "surface": "河東太守勝",
+   "entity_id": "shiji-person-sheng",
+   "type": "person"
+  },
+  {
+   "para": "p19",
+   "surface": "甘泉",
+   "entity_id": "shiji-place-ganquan",
+   "type": "place"
+  },
+  {
+   "para": "p19",
+   "surface": "汾陰",
+   "entity_id": "shiji-place-fenyin",
+   "type": "place"
+  },
+  {
+   "para": "p19",
+   "surface": "長安",
+   "entity_id": "shiji-place-changan",
+   "type": "place"
+  },
+  {
+   "para": "p19",
+   "surface": "太守",
+   "entity_id": "shiji-office-taishou",
+   "type": "office"
+  },
+  {
+   "para": "p20",
+   "surface": "蓬萊",
+   "entity_id": "shiji-place-penglai",
+   "type": "place"
+  },
+  {
+   "para": "p20",
+   "surface": "望氣",
+   "entity_id": "shiji-office-wangqi",
+   "type": "office"
+  },
+  {
+   "para": "p21",
+   "surface": "安期生",
+   "entity_id": "shiji-person-anqisheng",
+   "type": "person"
+  },
+  {
+   "para": "p21",
+   "surface": "黃帝",
+   "entity_id": "shiji-person-huangdi",
+   "type": "person"
+  },
+  {
+   "para": "p21",
+   "surface": "公孫卿",
+   "entity_id": "shiji-person-gongsunqing",
+   "type": "person"
+  },
+  {
+   "para": "p21",
+   "surface": "鬼臾區",
+   "entity_id": "shiji-person-guiyuqu",
+   "type": "person"
+  },
+  {
+   "para": "p21",
+   "surface": "申功",
+   "entity_id": "shiji-person-shengong",
+   "type": "person"
+  },
+  {
+   "para": "p21",
+   "surface": "高祖",
+   "entity_id": "shiji-person-gaohuangdi",
+   "type": "person"
+  },
+  {
+   "para": "p21",
+   "surface": "所忠",
+   "entity_id": "shiji-person-suozhong",
+   "type": "person"
+  },
+  {
+   "para": "p21",
+   "surface": "甘泉",
+   "entity_id": "shiji-place-ganquan",
+   "type": "place"
+  },
+  {
+   "para": "p21",
+   "surface": "泰山",
+   "entity_id": "shiji-place-taishan",
+   "type": "place"
+  },
+  {
+   "para": "p21",
+   "surface": "鼎湖",
+   "entity_id": "shiji-place-dinghu",
+   "type": "place"
+  },
+  {
+   "para": "p21",
+   "surface": "太室",
+   "entity_id": "shiji-place-taishi",
+   "type": "place"
+  },
+  {
+   "para": "p21",
+   "surface": "東萊",
+   "entity_id": "shiji-place-donglai",
+   "type": "place"
+  },
+  {
+   "para": "p21",
+   "surface": "首山",
+   "entity_id": "shiji-place-shoushan",
+   "type": "place"
+  },
+  {
+   "para": "p21",
+   "surface": "荊山",
+   "entity_id": "shiji-place-jingshan",
+   "type": "place"
+  },
+  {
+   "para": "p21",
+   "surface": "華山",
+   "entity_id": "shiji-place-huashan",
+   "type": "place"
+  },
+  {
+   "para": "p21",
+   "surface": "谷口",
+   "entity_id": "shiji-place-gukou",
+   "type": "place"
+  },
+  {
+   "para": "p21",
+   "surface": "大鴻",
+   "entity_id": "shiji-office-dahong",
+   "type": "office"
+  },
+  {
+   "para": "p22",
+   "surface": "薄忌",
+   "entity_id": "shiji-person-boyouji",
+   "type": "person"
+  },
+  {
+   "para": "p22",
+   "surface": "黃帝",
+   "entity_id": "shiji-person-huangdi",
+   "type": "person"
+  },
+  {
+   "para": "p22",
+   "surface": "寬舒",
+   "entity_id": "shiji-person-kuaishu",
+   "type": "person"
+  },
+  {
+   "para": "p22",
+   "surface": "甘泉",
+   "entity_id": "shiji-place-ganquan",
+   "type": "place"
+  },
+  {
+   "para": "p22",
+   "surface": "空桐",
+   "entity_id": "shiji-place-kongtong",
+   "type": "place"
+  },
+  {
+   "para": "p22",
+   "surface": "隴西",
+   "entity_id": "shiji-place-longxi",
+   "type": "place"
+  },
+  {
+   "para": "p22",
+   "surface": "祠官",
+   "entity_id": "shiji-office-ciguan",
+   "type": "office"
+  },
+  {
+   "para": "p23",
+   "surface": "寬舒",
+   "entity_id": "shiji-person-kuaishu",
+   "type": "person"
+  },
+  {
+   "para": "p23",
+   "surface": "太史公",
+   "entity_id": "shiji-person-taishigong",
+   "type": "person"
+  },
+  {
+   "para": "p23",
+   "surface": "雲陽",
+   "entity_id": "shiji-place-yunyang",
+   "type": "place"
+  },
+  {
+   "para": "p23",
+   "surface": "太史公",
+   "entity_id": "shiji-office-taishigong",
+   "type": "office"
+  },
+  {
+   "para": "p23",
+   "surface": "祠官",
+   "entity_id": "shiji-office-ciguan",
+   "type": "office"
+  },
+  {
+   "para": "p23",
+   "surface": "太祝",
+   "entity_id": "shiji-office-taizhu",
+   "type": "office"
+  },
+  {
+   "para": "p24",
+   "surface": "五利將軍",
+   "entity_id": "shiji-person-luanda",
+   "type": "person"
+  },
+  {
+   "para": "p24",
+   "surface": "泰山",
+   "entity_id": "shiji-place-taishan",
+   "type": "place"
+  },
+  {
+   "para": "p24",
+   "surface": "五利將軍",
+   "entity_id": "shiji-office-wulijiangjun",
+   "type": "office"
+  },
+  {
+   "para": "p25",
+   "surface": "文成",
+   "entity_id": "shiji-person-shaoweng",
+   "type": "person"
+  },
+  {
+   "para": "p25",
+   "surface": "公孫卿",
+   "entity_id": "shiji-person-gongsunqing",
+   "type": "person"
+  },
+  {
+   "para": "p25",
+   "surface": "五利",
+   "entity_id": "shiji-person-luanda",
+   "type": "person"
+  },
+  {
+   "para": "p25",
+   "surface": "緱氏",
+   "entity_id": "shiji-place-goushi",
+   "type": "place"
+  },
+  {
+   "para": "p26",
+   "surface": "李延年",
+   "entity_id": "shiji-person-liyannian",
+   "type": "person"
+  },
+  {
+   "para": "p26",
+   "surface": "素女",
+   "entity_id": "shiji-person-sunv",
+   "type": "person"
+  },
+  {
+   "para": "p26",
+   "surface": "泰帝",
+   "entity_id": "shiji-person-taidi",
+   "type": "person"
+  },
+  {
+   "para": "p27",
+   "surface": "黃帝",
+   "entity_id": "shiji-person-huangdi",
+   "type": "person"
+  },
+  {
+   "para": "p27",
+   "surface": "甘泉",
+   "entity_id": "shiji-place-ganquan",
+   "type": "place"
+  },
+  {
+   "para": "p27",
+   "surface": "泰山",
+   "entity_id": "shiji-place-taishan",
+   "type": "place"
+  },
+  {
+   "para": "p27",
+   "surface": "橋山",
+   "entity_id": "shiji-place-qiaoshan",
+   "type": "place"
+  },
+  {
+   "para": "p27",
+   "surface": "朔方",
+   "entity_id": "shiji-place-shuofang",
+   "type": "place"
+  },
+  {
+   "para": "p28",
+   "surface": "黃帝",
+   "entity_id": "shiji-person-huangdi",
+   "type": "person"
+  },
+  {
+   "para": "p28",
+   "surface": "公孫卿",
+   "entity_id": "shiji-person-gongsunqing",
+   "type": "person"
+  },
+  {
+   "para": "p28",
+   "surface": "丁公",
+   "entity_id": "shiji-person-dinggong",
+   "type": "person"
+  },
+  {
+   "para": "p28",
+   "surface": "徐偃",
+   "entity_id": "shiji-person-xuyan",
+   "type": "person"
+  },
+  {
+   "para": "p28",
+   "surface": "周霸",
+   "entity_id": "shiji-person-zhouba",
+   "type": "person"
+  },
+  {
+   "para": "p28",
+   "surface": "秦皇帝",
+   "entity_id": "shiji-person-qinshihuang",
+   "type": "person"
+  },
+  {
+   "para": "p28",
+   "surface": "蓬萊",
+   "entity_id": "shiji-place-penglai",
+   "type": "place"
+  },
+  {
+   "para": "p28",
+   "surface": "太常",
+   "entity_id": "shiji-office-taichang",
+   "type": "office"
+  },
+  {
+   "para": "p29",
+   "surface": "緱氏",
+   "entity_id": "shiji-place-goushi",
+   "type": "place"
+  },
+  {
+   "para": "p29",
+   "surface": "泰山",
+   "entity_id": "shiji-place-taishan",
+   "type": "place"
+  },
+  {
+   "para": "p29",
+   "surface": "太室",
+   "entity_id": "shiji-place-taishi",
+   "type": "place"
+  },
+  {
+   "para": "p30",
+   "surface": "公孫卿",
+   "entity_id": "shiji-person-gongsunqing",
+   "type": "person"
+  },
+  {
+   "para": "p30",
+   "surface": "蓬萊",
+   "entity_id": "shiji-place-penglai",
+   "type": "place"
+  },
+  {
+   "para": "p30",
+   "surface": "東萊",
+   "entity_id": "shiji-place-donglai",
+   "type": "place"
+  },
+  {
+   "para": "p31",
+   "surface": "奉車子侯",
+   "entity_id": "shiji-person-zihou",
+   "type": "person"
+  },
+  {
+   "para": "p31",
+   "surface": "泰山",
+   "entity_id": "shiji-place-taishan",
+   "type": "place"
+  },
+  {
+   "para": "p31",
+   "surface": "肅然",
+   "entity_id": "shiji-place-suran",
+   "type": "place"
+  },
+  {
+   "para": "p31",
+   "surface": "梁父",
+   "entity_id": "shiji-place-liangfu",
+   "type": "place"
+  },
+  {
+   "para": "p31",
+   "surface": "奉高",
+   "entity_id": "shiji-place-fenggao",
+   "type": "place"
+  },
+  {
+   "para": "p31",
+   "surface": "侍中",
+   "entity_id": "shiji-office-shizhong",
+   "type": "office"
+  },
+  {
+   "para": "p32",
+   "surface": "泰山",
+   "entity_id": "shiji-place-taishan",
+   "type": "place"
+  },
+  {
+   "para": "p32",
+   "surface": "肅然",
+   "entity_id": "shiji-place-suran",
+   "type": "place"
+  },
+  {
+   "para": "p32",
+   "surface": "梁父",
+   "entity_id": "shiji-place-liangfu",
+   "type": "place"
+  },
+  {
+   "para": "p32",
+   "surface": "奉高",
+   "entity_id": "shiji-place-fenggao",
+   "type": "place"
+  },
+  {
+   "para": "p32",
+   "surface": "明堂",
+   "entity_id": "shiji-place-mingtang",
+   "type": "place"
+  },
+  {
+   "para": "p33",
+   "surface": "奉車子侯",
+   "entity_id": "shiji-person-zihou",
+   "type": "person"
+  },
+  {
+   "para": "p33",
+   "surface": "甘泉",
+   "entity_id": "shiji-place-ganquan",
+   "type": "place"
+  },
+  {
+   "para": "p33",
+   "surface": "泰山",
+   "entity_id": "shiji-place-taishan",
+   "type": "place"
+  },
+  {
+   "para": "p33",
+   "surface": "蓬萊",
+   "entity_id": "shiji-place-penglai",
+   "type": "place"
+  },
+  {
+   "para": "p33",
+   "surface": "碣石",
+   "entity_id": "shiji-place-jieshi",
+   "type": "place"
+  },
+  {
+   "para": "p33",
+   "surface": "遼西",
+   "entity_id": "shiji-place-liaoxi",
+   "type": "place"
+  },
+  {
+   "para": "p33",
+   "surface": "九原",
+   "entity_id": "shiji-place-jiuyuan",
+   "type": "place"
+  },
+  {
+   "para": "p34",
+   "surface": "望氣王朔",
+   "entity_id": "shiji-person-wangshuo",
+   "type": "person"
+  },
+  {
+   "para": "p34",
+   "surface": "望氣",
+   "entity_id": "shiji-office-wangqi",
+   "type": "office"
+  },
+  {
+   "para": "p36",
+   "surface": "公孫卿",
+   "entity_id": "shiji-person-gongsunqing",
+   "type": "person"
+  },
+  {
+   "para": "p36",
+   "surface": "緱氏",
+   "entity_id": "shiji-place-goushi",
+   "type": "place"
+  },
+  {
+   "para": "p36",
+   "surface": "泰山",
+   "entity_id": "shiji-place-taishan",
+   "type": "place"
+  },
+  {
+   "para": "p36",
+   "surface": "東萊",
+   "entity_id": "shiji-place-donglai",
+   "type": "place"
+  },
+  {
+   "para": "p36",
+   "surface": "萬里沙",
+   "entity_id": "shiji-place-wanlisha",
+   "type": "place"
+  },
+  {
+   "para": "p36",
+   "surface": "瓠子",
+   "entity_id": "shiji-place-huzi",
+   "type": "place"
+  },
+  {
+   "para": "p36",
+   "surface": "中大夫",
+   "entity_id": "shiji-office-zhongdafu",
+   "type": "office"
+  },
+  {
+   "para": "p37",
+   "surface": "越人勇之",
+   "entity_id": "shiji-person-yongzhi",
+   "type": "person"
+  },
+  {
+   "para": "p37",
+   "surface": "東甌王",
+   "entity_id": "shiji-person-dongouwang",
+   "type": "person"
+  },
+  {
+   "para": "p38",
+   "surface": "公孫卿",
+   "entity_id": "shiji-person-gongsunqing",
+   "type": "person"
+  },
+  {
+   "para": "p38",
+   "surface": "甘泉",
+   "entity_id": "shiji-place-ganquan",
+   "type": "place"
+  },
+  {
+   "para": "p38",
+   "surface": "緱氏",
+   "entity_id": "shiji-place-goushi",
+   "type": "place"
+  },
+  {
+   "para": "p38",
+   "surface": "長安",
+   "entity_id": "shiji-place-changan",
+   "type": "place"
+  },
+  {
+   "para": "p39",
+   "surface": "黃帝",
+   "entity_id": "shiji-person-huangdi",
+   "type": "person"
+  },
+  {
+   "para": "p39",
+   "surface": "公孫卿",
+   "entity_id": "shiji-person-gongsunqing",
+   "type": "person"
+  },
+  {
+   "para": "p40",
+   "surface": "回中道",
+   "entity_id": "shiji-place-huizhongdao",
+   "type": "place"
+  },
+  {
+   "para": "p40",
+   "surface": "鳴澤",
+   "entity_id": "shiji-place-mingze",
+   "type": "place"
+  },
+  {
+   "para": "p40",
+   "surface": "西河",
+   "entity_id": "shiji-place-xihe",
+   "type": "place"
+  },
+  {
+   "para": "p41",
+   "surface": "奉高",
+   "entity_id": "shiji-place-fenggao",
+   "type": "place"
+  },
+  {
+   "para": "p41",
+   "surface": "南郡",
+   "entity_id": "shiji-place-nanjun",
+   "type": "place"
+  },
+  {
+   "para": "p41",
+   "surface": "江陵",
+   "entity_id": "shiji-place-jiangling",
+   "type": "place"
+  },
+  {
+   "para": "p41",
+   "surface": "天柱山",
+   "entity_id": "shiji-place-tianzhushan",
+   "type": "place"
+  },
+  {
+   "para": "p41",
+   "surface": "尋陽",
+   "entity_id": "shiji-place-xunyang",
+   "type": "place"
+  },
+  {
+   "para": "p41",
+   "surface": "樅陽",
+   "entity_id": "shiji-place-congyang",
+   "type": "place"
+  },
+  {
+   "para": "p41",
+   "surface": "彭蠡",
+   "entity_id": "shiji-place-pengli",
+   "type": "place"
+  },
+  {
+   "para": "p41",
+   "surface": "琅邪",
+   "entity_id": "shiji-place-langya",
+   "type": "place"
+  },
+  {
+   "para": "p42",
+   "surface": "黃帝",
+   "entity_id": "shiji-person-huangdi",
+   "type": "person"
+  },
+  {
+   "para": "p42",
+   "surface": "公玉帶",
+   "entity_id": "shiji-person-gongyudai",
+   "type": "person"
+  },
+  {
+   "para": "p42",
+   "surface": "高皇帝",
+   "entity_id": "shiji-person-gaohuangdi",
+   "type": "person"
+  },
+  {
+   "para": "p42",
+   "surface": "泰山",
+   "entity_id": "shiji-place-taishan",
+   "type": "place"
+  },
+  {
+   "para": "p42",
+   "surface": "奉高",
+   "entity_id": "shiji-place-fenggao",
+   "type": "place"
+  },
+  {
+   "para": "p42",
+   "surface": "汶上",
+   "entity_id": "shiji-place-wenshang",
+   "type": "place"
+  },
+  {
+   "para": "p42",
+   "surface": "崑崙",
+   "entity_id": "shiji-place-kunlun",
+   "type": "place"
+  },
+  {
+   "para": "p42",
+   "surface": "明堂",
+   "entity_id": "shiji-place-mingtang",
+   "type": "place"
+  },
+  {
+   "para": "p43",
+   "surface": "泰山",
+   "entity_id": "shiji-place-taishan",
+   "type": "place"
+  },
+  {
+   "para": "p43",
+   "surface": "明堂",
+   "entity_id": "shiji-place-mingtang",
+   "type": "place"
+  },
+  {
+   "para": "p44",
+   "surface": "蓬萊",
+   "entity_id": "shiji-place-penglai",
+   "type": "place"
+  },
+  {
+   "para": "p45",
+   "surface": "黃帝",
+   "entity_id": "shiji-person-huangdi",
+   "type": "person"
+  },
+  {
+   "para": "p45",
+   "surface": "公孫卿",
+   "entity_id": "shiji-person-gongsunqing",
+   "type": "person"
+  },
+  {
+   "para": "p45",
+   "surface": "勇之",
+   "entity_id": "shiji-person-yongzhi",
+   "type": "person"
+  },
+  {
+   "para": "p45",
+   "surface": "甘泉",
+   "entity_id": "shiji-place-ganquan",
+   "type": "place"
+  },
+  {
+   "para": "p45",
+   "surface": "建章宮",
+   "entity_id": "shiji-place-jianzhanggong",
+   "type": "place"
+  },
+  {
+   "para": "p45",
+   "surface": "蓬萊",
+   "entity_id": "shiji-place-penglai",
+   "type": "place"
+  },
+  {
+   "para": "p46",
+   "surface": "丁夫人",
+   "entity_id": "shiji-person-dingfuren",
+   "type": "person"
+  },
+  {
+   "para": "p46",
+   "surface": "雒陽虞初",
+   "entity_id": "shiji-person-yuchu",
+   "type": "person"
+  },
+  {
+   "para": "p46",
+   "surface": "雒陽",
+   "entity_id": "shiji-place-luoyang",
+   "type": "place"
+  },
+  {
+   "para": "p47",
+   "surface": "祠官",
+   "entity_id": "shiji-office-ciguan",
+   "type": "office"
+  },
+  {
+   "para": "p48",
+   "surface": "黃帝",
+   "entity_id": "shiji-person-huangdi",
+   "type": "person"
+  },
+  {
+   "para": "p49",
+   "surface": "黃帝",
+   "entity_id": "shiji-person-huangdi",
+   "type": "person"
+  },
+  {
+   "para": "p49",
+   "surface": "公玉帶",
+   "entity_id": "shiji-person-gongyudai",
+   "type": "person"
+  },
+  {
+   "para": "p49",
+   "surface": "風后",
+   "entity_id": "shiji-person-fenghou",
+   "type": "person"
+  },
+  {
+   "para": "p49",
+   "surface": "封鉅",
+   "entity_id": "shiji-person-fengju",
+   "type": "person"
+  },
+  {
+   "para": "p49",
+   "surface": "岐伯",
+   "entity_id": "shiji-person-qibo",
+   "type": "person"
+  },
+  {
+   "para": "p49",
+   "surface": "泰山",
+   "entity_id": "shiji-place-taishan",
+   "type": "place"
+  },
+  {
+   "para": "p49",
+   "surface": "石閭",
+   "entity_id": "shiji-place-shilv",
+   "type": "place"
+  },
+  {
+   "para": "p49",
+   "surface": "東泰山",
+   "entity_id": "shiji-place-dongtaishan",
+   "type": "place"
+  },
+  {
+   "para": "p49",
+   "surface": "凡山",
+   "entity_id": "shiji-place-fanshan",
+   "type": "place"
+  },
+  {
+   "para": "p49",
+   "surface": "祠官",
+   "entity_id": "shiji-office-ciguan",
+   "type": "office"
+  },
+  {
+   "para": "p50",
+   "surface": "泰山",
+   "entity_id": "shiji-place-taishan",
+   "type": "place"
+  },
+  {
+   "para": "p50",
+   "surface": "常山",
+   "entity_id": "shiji-place-changshan",
+   "type": "place"
+  },
+  {
+   "para": "p51",
+   "surface": "今天子",
+   "entity_id": "shiji-person-hanwudi",
+   "type": "person"
+  },
+  {
+   "para": "p51",
+   "surface": "薄忌",
+   "entity_id": "shiji-person-boyouji",
+   "type": "person"
+  },
+  {
+   "para": "p51",
+   "surface": "公孫卿",
+   "entity_id": "shiji-person-gongsunqing",
+   "type": "person"
+  },
+  {
+   "para": "p51",
+   "surface": "寬舒",
+   "entity_id": "shiji-person-kuaishu",
+   "type": "person"
+  },
+  {
+   "para": "p51",
+   "surface": "蓬萊",
+   "entity_id": "shiji-place-penglai",
+   "type": "place"
+  },
+  {
+   "para": "p51",
+   "surface": "凡山",
+   "entity_id": "shiji-place-fanshan",
+   "type": "place"
+  },
+  {
+   "para": "p51",
+   "surface": "祠官",
+   "entity_id": "shiji-office-ciguan",
+   "type": "office"
+  },
+  {
+   "para": "p51",
+   "surface": "太祝",
+   "entity_id": "shiji-office-taizhu",
+   "type": "office"
+  },
+  {
+   "para": "p52",
+   "surface": "太史公",
+   "entity_id": "shiji-person-taishigong",
+   "type": "person"
+  },
+  {
+   "para": "p52",
+   "surface": "太史公",
+   "entity_id": "shiji-office-taishigong",
+   "type": "office"
+  },
+  {
+   "para": "p52",
+   "surface": "祠官",
+   "entity_id": "shiji-office-ciguan",
+   "type": "office"
+  },
+  {
+   "para": "p53",
+   "surface": "文成",
+   "entity_id": "shiji-person-shaoweng",
+   "type": "person"
+  },
+  {
+   "para": "p53",
+   "surface": "五利",
+   "entity_id": "shiji-person-luanda",
+   "type": "person"
+  }
+ ]
+}

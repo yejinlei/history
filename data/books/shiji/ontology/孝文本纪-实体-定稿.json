@@ -1,0 +1,2979 @@
+{
+  "book": "shiji",
+  "chapter": "孝文本纪",
+  "persons": [
+    {
+      "id": "shiji-person-liuheng",
+      "name": "劉恆",
+      "aliases": [
+        "孝文皇帝",
+        "漢文帝",
+        "代王"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "皇帝",
+      "description": "汉高祖刘邦中子，母为薄太后，名恒，注疏引汉书音义「讳恒」。高祖十一年破陈豨、定代地而立为代王，都中都。高后八年诸吕之乱后由陈平、周勃等迎立为帝，在位二十三年，除肉刑、除诽谤妖言之罪、亲耕籍田，以德化民，霸陵薄葬。",
+      "evidence": [
+        "P0",
+        "P1",
+        "P2",
+        "P3",
+        "P5",
+        "P36",
+        "P37",
+        "P38",
+        "P39"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-chenping",
+      "name": "陳平",
+      "aliases": [
+        "左丞相",
+        "丞相平"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "丞相",
+      "description": "汉初功臣。高后八年与太尉周勃等使人迎立代王，并率群臣再拜劝进。文帝即位后由右丞相徙为左丞相，二年十月卒。",
+      "evidence": [
+        "P1",
+        "P2",
+        "P5",
+        "P6",
+        "P12"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhoubo",
+      "name": "周勃",
+      "aliases": [
+        "絳侯",
+        "太尉勃",
+        "右丞相"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "太尉、丞相",
+      "description": "汉初功臣，封绛侯。诛诸吕时以太尉持节入北军，一呼士皆左袒为刘氏，卒灭吕氏。文帝立，拜右丞相，后谢病免；二年复为丞相，三年免丞相就国。",
+      "evidence": [
+        "P1",
+        "P2",
+        "P5",
+        "P6",
+        "P11",
+        "P12",
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-guanying",
+      "name": "灌嬰",
+      "aliases": [
+        "潁陰侯",
+        "灌將軍",
+        "丞相嬰"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "大將軍、太尉、丞相",
+      "description": "汉初功臣，封颍阴侯。吕氏乱时受矫诏将兵击齐，留荥阳弗击，与诸侯合谋诛吕氏。文帝元年由大将军为太尉，三年为丞相，曾率军击匈奴。",
+      "evidence": [
+        "P5",
+        "P6",
+        "P18",
+        "P19"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-songchang",
+      "name": "宋昌",
+      "aliases": [
+        "壯武侯",
+        "衞將軍"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "中尉、衞將軍",
+      "description": "代王刘恒的中尉。迎立之议中力排张武等之疑，列三事劝代王入继，注疏引会稽典录称其为宋义之孙。文帝即位，夜拜衞将军镇抚南北军，封壮武侯。",
+      "evidence": [
+        "P1",
+        "P2",
+        "P3",
+        "P9"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-bozhao",
+      "name": "薄昭",
+      "aliases": [
+        "軹侯"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "車騎將軍",
+      "description": "文帝母薄太后之弟。奉代王命往见绛侯周勃，探得迎立意而还报「信矣，毋可疑者」。文帝即位后为车骑将军，迎皇太后于代，封轵侯。",
+      "evidence": [
+        "P1",
+        "P6",
+        "P8"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhangwu",
+      "name": "張武",
+      "aliases": [
+        "郎中令",
+        "車騎將軍"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "郎中令、車騎將軍",
+      "description": "代王旧臣，时为郎中令。迎立之议中疑汉大臣不可信，劝代王称疾毋往。文帝即位后任郎中令行殿中，十四年为车骑将军军渭北，后六年屯北地，曾受赂遗而帝赐金以愧其心，遗诏以为复土将军。",
+      "evidence": [
+        "P1",
+        "P3",
+        "P26",
+        "P33",
+        "P35",
+        "P36"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-jiayi",
+      "name": "賈誼",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "大臣",
+      "description": "文帝时名臣，屡上疏论政。本纪正文未载其行事，注疏两引其文以释文帝之节俭与受厘之礼：如淳引「身衣皂绨」，又引贾谊传「受厘坐宣室」。",
+      "evidence": [
+        "P27",
+        "P35"
+      ],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-person-tiying",
+      "name": "緹縈",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "民女",
+      "description": "齐太仓令淳于意之幼女。父有罪当刑、逮系长安，她随父至长安上书，愿没入为官婢以赎父刑，使父得自新。文帝怜悲其意而下诏除肉刑。注疏引晋书刑法志释画衣冠之制。",
+      "evidence": [
+        "P24"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-chunyuyi",
+      "name": "淳于意",
+      "aliases": [
+        "淳于公",
+        "太倉公",
+        "倉公"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "齊太倉令",
+      "description": "齐太仓令，注疏引索隐称其名意，故号仓公。有罪当刑，诏狱逮徙系长安，其幼女缇萦上书请赎，遂使文帝下诏废除肉刑。",
+      "evidence": [
+        "P24"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-shentujia",
+      "name": "申徒嘉",
+      "aliases": [
+        "申屠嘉",
+        "丞相嘉"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "淮陽守、丞相",
+      "description": "文帝时曾任淮阳守，与颍川守尊等以故吏二千石受食邑五百户。景帝初为丞相，与列侯、中二千石、礼官议定以孝文皇帝庙为太宗之庙、为之作昭德之舞。",
+      "evidence": [
+        "P10",
+        "P39"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liubang",
+      "name": "劉邦",
+      "aliases": [
+        "高帝",
+        "高祖",
+        "高皇帝"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "皇帝",
+      "description": "汉朝开国皇帝，文帝之父。封子弟为王以成磐石之宗，除秦苛政、约法施惠。高祖十一年破陈豨军、定代地而立刘恒为代王，其后代功臣多有食邑。",
+      "evidence": [
+        "P0",
+        "P1",
+        "P2",
+        "P8",
+        "P10",
+        "P39"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-botaihou",
+      "name": "薄太后",
+      "aliases": [
+        "薄氏",
+        "皇太后",
+        "太后薄氏"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "太后",
+      "description": "文帝生母，高祖姬妾。文帝即位后遣车骑将军薄昭迎之于代。议立皇后时言诸侯皆同姓、当立太子母为皇后，遂定窦氏为后。其弟薄昭封轵侯。",
+      "evidence": [
+        "P0",
+        "P6",
+        "P9"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-lvhou",
+      "name": "呂太后",
+      "aliases": [
+        "高后",
+        "呂后"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "太后",
+      "description": "高祖皇后。高后八年七月崩。其严威曾立诸吕为三王、擅权专制，崩后诸吕欲为乱以危刘氏，大臣共诛之而谋召立代王。",
+      "evidence": [
+        "P0",
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-lvchan",
+      "name": "呂產",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "相國",
+      "description": "吕太后族人，自置为相国，擅权欲为大逆以危刘氏宗庙。丞相陈平与太尉周勃谋夺其军，朱虚侯刘章首先捕之，卒被诛。",
+      "evidence": [
+        "P0",
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-lvlu",
+      "name": "呂祿",
+      "aliases": [
+        "上將軍"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "上將軍",
+      "description": "吕太后族人，为上将军掌兵。诛诸吕时典客刘揭身夺其赵王印，与吕产等同被诛。",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuzhang",
+      "name": "劉章",
+      "aliases": [
+        "朱虛侯",
+        "城陽王"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "侯、諸侯王",
+      "description": "齐悼惠王刘肥之子，封朱虚侯。诛诸吕时首先捕杀吕产有功；文帝三年以齐剧郡立为城阳王，同年薨。",
+      "evidence": [
+        "P2",
+        "P6",
+        "P15",
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuxingju",
+      "name": "劉興居",
+      "aliases": [
+        "東牟侯",
+        "濟北王"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "侯、諸侯王",
+      "description": "齐悼惠王之子，封东牟侯，诛诸吕有功，曾奉法驾清宫迎代王。文帝三年立为济北王，后闻帝之代欲击胡而反，发兵欲袭荥阳，事败被虏，济北吏民获赦。",
+      "evidence": [
+        "P2",
+        "P3",
+        "P6",
+        "P15",
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liufei",
+      "name": "齊悼惠王",
+      "aliases": [
+        "劉肥"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王",
+      "description": "齐悼惠王，朱虚侯刘章、东牟侯刘兴居之父。文帝以其子诛吕有功，分齐地立二王：朱虚侯为城阳王、东牟侯为济北王。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liujie",
+      "name": "劉揭",
+      "aliases": [
+        "典客揭",
+        "陽信侯"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "典客、侯",
+      "description": "文帝时任典客，与丞相陈平、太尉周勃等群臣共劝代王即天子位。诛诸吕时身夺赵王吕禄印，以功封阳信侯，赐金千斤。",
+      "evidence": [
+        "P2",
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-chenwu",
+      "name": "陳武",
+      "aliases": [
+        "大將軍陳武",
+        "棘蒲侯"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "大將軍、侯",
+      "description": "文帝时为大将军、棘蒲侯，与丞相陈平等共劝代王即位。三年济北王兴居反，受遣为大将军将十万击之，破济北军。其太子奇曾与淮南王长谋反。",
+      "evidence": [
+        "P2",
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhangcang",
+      "name": "張蒼",
+      "aliases": [
+        "北平侯",
+        "御史大夫",
+        "丞相蒼"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "御史大夫、丞相",
+      "description": "文帝时任御史大夫，与群臣劝代王即位；后为丞相，方明律历，推汉为水德、以正十月上黑事，驳鲁人公孙臣土德之说而请罢之。",
+      "evidence": [
+        "P2",
+        "P28"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuying",
+      "name": "劉郢",
+      "aliases": [
+        "宗正郢"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "宗正",
+      "description": "文帝初任宗正。与丞相陈平、太尉周勃、大将军陈武等群臣共再拜劝代王即天子位。注疏引汉书百官表称宗正为秦官，应劭谓周成王时彤伯入为宗正。",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-jitong",
+      "name": "紀通",
+      "aliases": [
+        "襄平侯通"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "侯",
+      "description": "封襄平侯。诛诸吕时太尉周勃率其持节承诏入北军，以功益封二千户、金千斤。注疏引索隐谓其所持即纪通所矫之帝节。",
+      "evidence": [
+        "P1",
+        "P6"
+      ],
+      "source": "正文、注疏"
+    },
+    {
+      "id": "shiji-person-liuze",
+      "name": "劉澤",
+      "aliases": [
+        "琅邪王澤",
+        "燕王"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王",
+      "description": "故琅邪王。文帝元年十月庚戌，徙立为燕王。群臣劝进时亦与琅邪王、宗室、大臣等同议。",
+      "evidence": [
+        "P2",
+        "P4"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-doushi",
+      "name": "竇氏",
+      "aliases": [
+        "皇后",
+        "竇皇后"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "皇后",
+      "description": "文帝皇后、太子之母。文帝元年三月有司请立皇后，薄太后以诸侯皆同姓、当立太子母为皇后，遂立之。文帝为此赐天下鳏寡孤独穷困及高年孤儿布帛米肉各有数。",
+      "evidence": [
+        "P9"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liusui",
+      "name": "劉遂",
+      "aliases": [
+        "趙王遂"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王",
+      "description": "赵幽王长子。赵幽王幽死后，文帝怜之而立其为赵王，其弟辟彊另立为河间王。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liupiqiang",
+      "name": "劉辟彊",
+      "aliases": [
+        "河間王"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王",
+      "description": "赵幽王少子、赵王刘遂之弟。以有功于诛吕之列，文帝三年立为河间王。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuwu",
+      "name": "劉武",
+      "aliases": [
+        "皇子武",
+        "代王武"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王",
+      "description": "文帝皇子。文帝三年三月，有司请立皇子为诸侯王，帝乃立皇子武为代王。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liucan",
+      "name": "劉參",
+      "aliases": [
+        "太原王"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王",
+      "description": "文帝皇子。文帝三年三月有司请立皇子为诸侯王，帝乃立其子刘参为太原王。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuyi",
+      "name": "劉揖",
+      "aliases": [
+        "梁王"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王",
+      "description": "文帝皇子。文帝三年三月有司请立皇子为诸侯王，帝乃立其子刘揖为梁王。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuchang",
+      "name": "劉長",
+      "aliases": [
+        "淮南王",
+        "淮南厲王",
+        "厲王"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王",
+      "description": "高祖少子，封淮南王，文帝之弟。三年与从者魏敬杀辟阳侯审食其；六年以废先帝法、与棘蒲侯太子奇谋反被废，徙处蜀严道、卭都，道中病死。后十六年追谥厉王，立其三子为淮南、衡山、庐江王。",
+      "evidence": [
+        "P8",
+        "P18",
+        "P22"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-shenshiqi",
+      "name": "審食其",
+      "aliases": [
+        "辟陽侯"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "侯",
+      "description": "辟阳侯，汉初功臣。文帝三年四月，为淮南王刘长与其从者魏敬所杀。",
+      "evidence": [
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-weijing",
+      "name": "魏敬",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "淮南王從者",
+      "description": "淮南王刘长之从者。文帝三年四月，随刘长共杀辟阳侯审食其，本纪仅此一见。",
+      "evidence": [
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-gongsunchen",
+      "name": "公孫臣",
+      "aliases": [
+        "魯人公孫臣"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "布衣、博士",
+      "description": "鲁人，上书陈终始传五德之事，言汉当土德、土德应黄龙见、宜改正朔服色制度。丞相张苍推以为今水德，非其言请罢之；十五年黄龙见成纪，文帝复召以为博士，申明土德。",
+      "evidence": [
+        "P28",
+        "P29"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-xinyuanping",
+      "name": "新垣平",
+      "aliases": [
+        "趙人新垣平"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "方士",
+      "description": "赵人，以望气见文帝，说上设立渭阳五庙，欲出周鼎、当有玉英见。文帝十七年得玉柸改元，其年新垣平诈事发觉，夷三族。注疏引应劭谓玉柸乃其诈令人所献。",
+      "evidence": [
+        "P29",
+        "P31"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhangxiangru",
+      "name": "張相如",
+      "aliases": [
+        "東陽侯",
+        "大將軍"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "大將軍、侯",
+      "description": "封东阳侯。文帝十四年匈奴入边，以之为大将军击匈奴，匈奴遁走。",
+      "evidence": [
+        "P26"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-luanbu",
+      "name": "欒布",
+      "aliases": [
+        "將軍布"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "將軍",
+      "description": "文帝十四年冬匈奴谋入边为寇，与东阳侯张相如等共击匈奴，匈奴遁走。",
+      "evidence": [
+        "P26"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhoushe",
+      "name": "周舍",
+      "aliases": [
+        "中尉周舍"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "中尉、衞將軍",
+      "description": "文帝十四年匈奴入边，任中尉、衞将军，与郎中令张武等军渭北，车千乘、骑卒十万。",
+      "evidence": [
+        "P26"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhouyafu",
+      "name": "周亞夫",
+      "aliases": [
+        "河內守",
+        "中尉亞夫",
+        "車騎將軍"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "河內守、中尉",
+      "description": "周勃之子。文帝后六年任河内守，为将军居细柳以备胡；后七年文帝遗诏令中尉亚夫为车骑将军，发卒穿复土。",
+      "evidence": [
+        "P33",
+        "P36"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuli",
+      "name": "劉禮",
+      "aliases": [
+        "宗正劉禮"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "宗正、將軍",
+      "description": "宗正刘礼。文帝后六年匈奴入上郡、云中，任宗正、将军，居霸上以备匈奴，数月胡人去而罢兵。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-lingmian",
+      "name": "令勉",
+      "aliases": [
+        "中大夫令勉",
+        "車騎將軍"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "中大夫令、車騎將軍",
+      "description": "文帝后六年为中大夫令、车骑将军，军飞狐以备匈奴。注疏异说：裴骃谓景帝改衞尉为中大夫令、则中大夫令是官号而勉其名；颜游秦则以令为姓、勉为名，风俗通谓令姓出令尹子文之后。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-suyi",
+      "name": "蘇意",
+      "aliases": [
+        "故楚相"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "故楚相、將軍",
+      "description": "故楚相。文帝后六年匈奴入上郡、云中，受任为将军军句注以备匈奴。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-weituo",
+      "name": "尉佗",
+      "aliases": [
+        "南越王",
+        "南越武帝"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "南越王",
+      "description": "南越王，自立为武帝。文帝召贵其兄弟，以德报之，佗遂去帝号称臣。",
+      "evidence": [
+        "P35"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-yuanang",
+      "name": "袁盎",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "大臣",
+      "description": "文帝时大臣，与张武等并见称于篇末。其称说虽切，文帝常假借用之，为帝优容谏臣之例。",
+      "evidence": [
+        "P35"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-shenfuren",
+      "name": "慎夫人",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "夫人",
+      "description": "文帝所幸夫人。文帝令其衣不得曳地、帏帐不得文绣，以示敦朴、为天下先。",
+      "evidence": [
+        "P35"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liujing",
+      "name": "劉啟",
+      "aliases": [
+        "太子",
+        "孝景皇帝"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "皇帝",
+      "description": "文帝太子。文帝崩后即位于高庙，丁未袭号曰皇帝，是为孝景皇帝。元年十月制诏御史，称孝文皇帝之德而为其庙作昭德之舞，并议立文帝庙为太宗之庙。",
+      "evidence": [
+        "P38",
+        "P39"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liujiao",
+      "name": "劉交",
+      "aliases": [
+        "楚王"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王",
+      "description": "高祖之弟，封楚王，于宗室最尊（注疏引苏林「楚王名交，高帝弟」）。代王即位前群臣欲请楚王计其宜者；议建太子时文帝亦称其为季父、春秋高而举之。",
+      "evidence": [
+        "P2",
+        "P8"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liubi",
+      "name": "劉濞",
+      "aliases": [
+        "吳王"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王",
+      "description": "吴王。文帝议建太子时称其为兄、惠仁以好德；后文帝时吴王诈病不朝，帝赐之几杖。注疏引徐广称其为代顷王刘仲之子。",
+      "evidence": [
+        "P8",
+        "P35"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-ang",
+      "name": "卬",
+      "aliases": [
+        "北地都尉卬"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "北地都尉",
+      "description": "北地都尉。文帝十四年冬匈奴谋入边为寇、攻朝那塞，卬被杀。注疏引集解称其姓孙，封其子单为缾侯。",
+      "evidence": [
+        "P26"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-qingwanghou",
+      "name": "頃王后",
+      "aliases": [
+        "陰安侯",
+        "代頃王后"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "列侯",
+      "description": "代顷王刘仲之妻、代王之伯母。注疏引徐广、如淳等，或以其别封阴安侯。文帝即位前群臣曾请与阴安侯顷王后及琅邪王、宗室、大臣、列侯、吏二千石共议劝进。",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-caijian",
+      "name": "蔡兼",
+      "aliases": [
+        "樊侯"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "侯",
+      "description": "故常山丞相，文帝元年秋封为樊侯。注疏引括地志考汉樊县城在兖州瑕丘西南二十五里，汉书地理志谓樊县古樊国、仲山甫所封。",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhaojian",
+      "name": "趙兼",
+      "aliases": [
+        "周陽侯"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "侯",
+      "description": "淮南王舅父。文帝元年封为周阳侯。注疏引括地志考周阳故城在绛州闻喜县东二十九里。",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-sijun",
+      "name": "駟鈞",
+      "aliases": [
+        "清郭侯"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "侯",
+      "description": "齐王舅父。文帝元年封为清郭侯。注疏引索隐按表称其封邬侯，疑后徙封于邬，邬属巨鹿郡。",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zun",
+      "name": "尊",
+      "aliases": [
+        "潁川守尊"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "潁川守",
+      "description": "颍川守，故吏二千石。文帝元年与淮阳守申徒嘉等各受食邑六百户。",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-ding",
+      "name": "定",
+      "aliases": [
+        "衞尉定"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "衞尉",
+      "description": "衞尉，故吏二千石。文帝元年与颍川守尊、淮阳守申徒嘉等各受食邑四百户。",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-chenxi",
+      "name": "陳豨",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "叛將",
+      "description": "高祖十一年春反，高祖破其军、定代地，其后立刘恒为代王、都中都。",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-ying",
+      "name": "嬰",
+      "aliases": [
+        "太僕嬰"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "太僕",
+      "description": "文帝初为太仆。与东牟侯兴居奉命清宫、奉天子法驾，迎代王于代邸。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-taishigong",
+      "name": "太史公",
+      "aliases": [
+        "司馬遷"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "史官",
+      "description": "本篇论赞「太史公曰」之作者，即《史记》作者司马迁。篇末引孔子「必世然后仁」，称汉兴至孝文四十余载、德至盛，惜其谦让而改正朔、封禅之事未成。",
+      "evidence": [
+        "P40"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-he",
+      "name": "賀",
+      "aliases": [
+        "祁侯",
+        "祁侯賀"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "侯、將軍",
+      "description": "祁侯。文帝三年济北王兴居反，帝遣棘蒲侯陈武为大将军将兵击之，以祁侯贺为将军军荥阳。注疏引徐广称其姓缯、以文帝十一年卒谥曰敬，索隐引汉书音义祁音迟。",
+      "evidence": [
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhuzihou",
+      "name": "祝茲侯",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "侯、將軍",
+      "description": "祝兹侯。文帝后六年匈奴入上郡、云中，帝以备胡诸将中有祝兹侯军棘门。注疏引如淳称三辅黄图棘门在横门外。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-han",
+      "name": "悍",
+      "aliases": [
+        "屬國悍"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "將屯將軍",
+      "description": "文帝后七年遗诏以属国悍为将屯将军。注疏引徐广称表作松兹侯、姓徐名悍，李奇谓将屯将军为监主诸屯之名。",
+      "evidence": [
+        "P36"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-chi",
+      "name": "赤",
+      "aliases": [
+        "成侯",
+        "成侯赤"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "內史",
+      "description": "成侯。文帝十四年冬匈奴谋入边为寇，以赤为内史，与东阳侯张相如、栾布等击匈奴，匈奴遁走。注疏引集解称其姓董。",
+      "evidence": [
+        "P26"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhaoyouwang",
+      "name": "趙幽王",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王",
+      "description": "赵王，幽死。文帝甚怜之，已立其长子刘遂为赵王，后又立其少子刘辟彊为河间王。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zihong",
+      "name": "子弘",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "皇子",
+      "description": "惠帝诸子之一。文帝即位前群臣以为「子弘等皆非孝惠帝子，不审奉宗庙」，故不立而共迎代王。",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    }
+  ],
+  "places": [
+    {
+      "id": "shiji-place-zhongdu",
+      "name": "中都",
+      "type": "Place",
+      "modern": "今山西平遥西南（注疏引括地志：中都故城在汾州平遥县西南十二里，秦属太原郡）",
+      "description": "代国都城。高祖十一年立刘恒为代王时都此。文帝幸太原时曾复晋阳、中都民三岁租赋。",
+      "evidence": [
+        "P0",
+        "P20"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-dai",
+      "name": "代",
+      "type": "Place",
+      "modern": "约今河北蔚县一带及山西东北部",
+      "description": "地名兼诸侯国名。高祖破陈豨、定代地而立刘恒为代王；文帝即位后遣薄昭迎皇太后于代，并以皇子武为代王。诸吕乱后代王即自代入长安继位。注疏多辨代邸、代顷王后等事。",
+      "evidence": [
+        "P0",
+        "P1",
+        "P6",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-changan",
+      "name": "長安",
+      "type": "Place",
+      "modern": "今陕西西安",
+      "description": "汉都。代王入京至高陵而止，遣宋昌先驰至长安观变，遂入长安即位；律令载列侯多居长安，匈奴去后发中尉材官军长安；淳于意逮系长安、缇萦随父至长安上书。注疏引三辅故事考渭桥在长安北三里。",
+      "evidence": [
+        "P1",
+        "P2",
+        "P12",
+        "P19",
+        "P21",
+        "P24"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-baling",
+      "name": "霸陵",
+      "type": "Place",
+      "modern": "今陕西西安东白鹿原一带（注疏引皇甫谧：去长安七十里）",
+      "description": "文帝陵墓所在。文帝治霸陵皆以瓦器、不得以金银铜锡为饰、不治坟；遗诏令霸陵山川因其故、毋有所改。注疏引索隐谓霸是水名，水径于山亦曰霸山，即芷阳地。",
+      "evidence": [
+        "P35",
+        "P36",
+        "P37"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-weiyanggong",
+      "name": "未央宮",
+      "type": "Place",
+      "modern": "今西安汉长安城遗址内",
+      "description": "汉皇宫。群臣清宫奉法驾迎代王于代邸后，皇帝即日夕入未央宫。后七年六月己亥，文帝崩于未央宫。",
+      "evidence": [
+        "P3",
+        "P36"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-taiyuan",
+      "name": "太原",
+      "type": "Place",
+      "modern": "今山西太原一带",
+      "description": "郡名。文帝三年以皇子参为太原王；后文帝自甘泉之高奴因幸太原，见故群臣皆赐之，举功行赏，复晋阳、中都民三岁，留游十余日。",
+      "evidence": [
+        "P15",
+        "P20"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-gaoling",
+      "name": "高陵",
+      "type": "Place",
+      "modern": "今陕西高陵（注疏引括地志：高陵故城在雍州高陵县西南一里，本名横桥，架渭水上）",
+      "description": "县名。代王入长安至高陵休止，使宋昌先驰之长安观变。注疏引三辅旧事谓秦于渭南有兴乐宫、渭北有咸阳宫，秦昭王作横桥通两宫。",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-weiqiao",
+      "name": "渭橋",
+      "type": "Place",
+      "modern": "今西安渭水上（注疏：桥长三百八十步）",
+      "description": "渭水之桥。宋昌至渭桥而丞相以下皆迎，代王驰至渭桥，群臣拜谒称臣、太尉周勃跪上天子玺符。注疏引三辅故事、关中记考其址及石柱分属。",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-daili",
+      "name": "代邸",
+      "type": "Place",
+      "modern": "长安城内代王官邸（注疏引说文：邸，属国舍）",
+      "description": "代王在长安的官邸。太尉跪上天子玺符，代王谢曰「至代邸而议之」，遂驰入代邸，群臣从至，再拜劝进；太仆婴与东牟侯兴居亦奉法驾迎于代邸。",
+      "evidence": [
+        "P2",
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-ganquan",
+      "name": "甘泉",
+      "type": "Place",
+      "modern": "今陕西淳化甘泉山一带",
+      "description": "宫名兼山名。文帝三年匈奴入北地时帝初幸甘泉；后帝自甘泉之高奴、因幸太原。注疏引应劭、臣瓒、顾氏等辨其为山名抑或宫名，并谓因地有甘泉以名山。",
+      "evidence": [
+        "P19",
+        "P20"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-gaonu",
+      "name": "高奴",
+      "type": "Place",
+      "modern": "约今陕西延安一带",
+      "description": "县名。文帝三年匈奴入北地居河南为寇，帝发边吏骑八万五千诣高奴以击匈奴；后帝亦自甘泉之高奴。",
+      "evidence": [
+        "P19",
+        "P20"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-xingyang",
+      "name": "滎陽",
+      "type": "Place",
+      "modern": "今河南荥阳",
+      "description": "县名。吕氏乱时灌婴受矫诏将兵击齐，留荥阳弗击，与诸侯合谋诛吕氏。济北王兴居反，欲发兵袭荥阳，祁侯贺为将军军荥阳。",
+      "evidence": [
+        "P6",
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yandao",
+      "name": "嚴道",
+      "type": "Place",
+      "modern": "今四川荥经（注疏引括地志：即卭州所理县，县有蛮夷曰道故名严道）",
+      "description": "蜀郡县。群臣请处淮南王刘长于蜀严道、卭都，长未至处所而病死于道。",
+      "evidence": [
+        "P22"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-qiongdu",
+      "name": "卭都",
+      "type": "Place",
+      "modern": "今四川西昌一带（注疏：本卭都国，汉为县，今嶲州）",
+      "description": "蜀地县名，本西南夷卭都国。群臣请处淮南王刘长于此，其地更远，西有卭僰山。",
+      "evidence": [
+        "P22"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-chaona",
+      "name": "朝那塞",
+      "type": "Place",
+      "modern": "约今宁夏固原一带",
+      "description": "边塞名。文帝十四年冬匈奴谋入边为寇，攻朝那塞，杀北地都尉卬，遂引发遣三将军备边之事。",
+      "evidence": [
+        "P26"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-longxi",
+      "name": "隴西",
+      "type": "Place",
+      "modern": "约今甘肃东南部",
+      "description": "郡名。文帝十四年匈奴入边，遣三将军分军陇西、北地、上郡以备之。",
+      "evidence": [
+        "P26"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-beidi",
+      "name": "北地",
+      "type": "Place",
+      "modern": "约今宁夏、甘肃东部",
+      "description": "郡名。文帝三年匈奴入北地、居河南为寇；十四年匈奴攻朝那塞，帝遣三将军军陇西、北地、上郡；后六年匈奴入上郡、云中，将军张武屯北地。",
+      "evidence": [
+        "P19",
+        "P26",
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-shangjun",
+      "name": "上郡",
+      "type": "Place",
+      "modern": "约今陕西北部",
+      "description": "郡名。文帝十四年为备匈奴三将军所军之一；后六年冬匈奴三万人入上郡。",
+      "evidence": [
+        "P26",
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yunzhong",
+      "name": "雲中",
+      "type": "Place",
+      "modern": "约今内蒙古托克托一带",
+      "description": "郡名。文帝后六年冬，匈奴三万人入云中。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-chengji",
+      "name": "成紀",
+      "type": "Place",
+      "modern": "今甘肃秦安（注疏引韦昭：成纪县属天水）",
+      "description": "县名。文帝十五年黄龙见成纪，帝乃下诏亲郊祀上帝诸神，并召鲁人公孙臣为博士申明土德之事。",
+      "evidence": [
+        "P29"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yong",
+      "name": "雍",
+      "type": "Place",
+      "modern": "今陕西凤翔一带",
+      "description": "秦旧都、县名。文帝十五年，礼官议古者天子夏躬亲礼祀上帝于郊，天子始幸雍，郊见五帝，以孟夏四月答礼。",
+      "evidence": [
+        "P29"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-weiyang",
+      "name": "渭陽",
+      "type": "Place",
+      "modern": "渭水之北，注疏引集解称在渭城",
+      "description": "渭水之北。赵人新垣平以望气见文帝，因说上设立渭阳五庙；文帝十六年亲郊见渭阳五帝庙，亦以夏答礼而尚赤。",
+      "evidence": [
+        "P29",
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-feihu",
+      "name": "飛狐",
+      "type": "Place",
+      "modern": "约今河北涞源一带",
+      "description": "关隘名。文帝后六年以中大夫令勉为车骑将军，军飞狐以备匈奴。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-gouzhu",
+      "name": "句注",
+      "type": "Place",
+      "modern": "今山西代县雁门关一带（注疏引应劭：山险名，在鴈门阴馆）",
+      "description": "山险名。文帝后六年以故楚相苏意为将军，军句注以备匈奴。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-xiliu",
+      "name": "細柳",
+      "type": "Place",
+      "modern": "约今西安渭河北岸（注疏引如淳、张揖、三辅故事说法不一）",
+      "description": "地名。文帝后六年河内守周亚夫为将军居细柳以备胡。注疏引如淳称长安图细柳仓在渭北近石徼，张揖称在昆明池南，索隐按三辅故事谓在直城门外阿房宫西北维。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-bashang",
+      "name": "霸上",
+      "type": "Place",
+      "modern": "今西安东霸水之滨",
+      "description": "地名，在霸水之滨。文帝后六年宗正刘礼为将军居霸上以备匈奴。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jimen",
+      "name": "棘門",
+      "type": "Place",
+      "modern": "长安城北（注疏引孟康：在长安北，秦时宫门）",
+      "description": "长安附近地名。文帝后六年祝兹侯军棘门以备胡。注疏引如淳称三辅黄图棘门在横门外。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yangxin",
+      "name": "陽信",
+      "type": "Place",
+      "modern": "今山东无棣东南（注疏引括地志：阳信故城在沧州无棣县东南三十里）",
+      "description": "县名。文帝封典客刘揭为阳信侯，赐金千斤。",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-zhi",
+      "name": "軹",
+      "type": "Place",
+      "modern": "注疏引韦昭释其为县名",
+      "description": "县名。文帝元年封将军薄昭为轵侯。注疏引徐广称四月辛亥封，封三十四年、景帝中四年夺侯国除。",
+      "evidence": [
+        "P8"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-zhuangwu",
+      "name": "壯武",
+      "type": "Place",
+      "modern": "今山东即墨西（注疏引括地志：壮武故城在莱州即墨县西六十里，古莱夷国）",
+      "description": "县名。文帝封中尉宋昌为壮武侯，以赏其劝进之功。",
+      "evidence": [
+        "P9"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-gaomiao",
+      "name": "高廟",
+      "type": "Place",
+      "modern": "长安高祖庙",
+      "description": "高祖刘邦之庙。文帝元年辛亥皇帝即阼、谒高庙；文帝崩后太子即位于高庙。景帝时议定高皇帝庙宜为帝者太祖之庙。",
+      "evidence": [
+        "P5",
+        "P38",
+        "P39"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-chengyang",
+      "name": "城陽",
+      "type": "Place",
+      "modern": "约今山东菏泽、莒县一带",
+      "description": "王国名。文帝三年以齐之剧郡立朱虚侯刘章为城阳王；同年城阳王章薨。",
+      "evidence": [
+        "P15",
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jibei",
+      "name": "濟北",
+      "type": "Place",
+      "modern": "约今山东泰安、长清一带",
+      "description": "王国名。文帝三年立东牟侯刘兴居为济北王；其后兴居背德反上，兵败被虏，帝赦济北诸吏民与王反者。",
+      "evidence": [
+        "P15",
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-hejian",
+      "name": "河間",
+      "type": "Place",
+      "modern": "约今河北河间一带",
+      "description": "王国名。文帝三年立赵幽王少子刘辟彊为河间王。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-liang",
+      "name": "梁",
+      "type": "Place",
+      "modern": "约今河南商丘一带",
+      "description": "王国名。文帝三年立皇子刘揖为梁王。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-langye",
+      "name": "琅邪",
+      "type": "Place",
+      "modern": "约今山东胶南、诸城一带",
+      "description": "郡国名。刘泽故为琅邪王，文帝元年十月徙立为燕王；群臣劝进时亦请与琅邪王等共议。注疏引韦昭称阴安属魏郡、并辨诸侯封号。",
+      "evidence": [
+        "P2",
+        "P4"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yan",
+      "name": "燕",
+      "type": "Place",
+      "modern": "约今北京、河北北部一带",
+      "description": "王国名。文帝元年十月庚戌，徙立故琅邪王刘泽为燕王。",
+      "evidence": [
+        "P4"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-hanzhong",
+      "name": "漢中",
+      "type": "Place",
+      "modern": "约今陕西南部",
+      "description": "郡名。文帝元年诏列侯从高帝入蜀、汉中者六十八人皆益封各三百户。",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-shu",
+      "name": "蜀",
+      "type": "Place",
+      "modern": "约今四川盆地",
+      "description": "郡名。文帝诏列侯从高帝入蜀、汉中者益封；又群臣请处淮南王刘长于蜀之严道、卭都。",
+      "evidence": [
+        "P10",
+        "P22"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-henan",
+      "name": "河南",
+      "type": "Place",
+      "modern": "河套以南之地",
+      "description": "匈奴入北地后将众居河南降地，往来近塞、捕杀吏卒，驱保塞蛮夷令不得居其故，文帝遂发边吏骑八万五千诣高奴、遣灌婴击之。",
+      "evidence": [
+        "P19"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jinyang",
+      "name": "晉陽",
+      "type": "Place",
+      "modern": "今山西太原西南",
+      "description": "太原郡县。文帝幸太原，复晋阳、中都民三岁租赋。",
+      "evidence": [
+        "P20"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-weibei",
+      "name": "渭北",
+      "type": "Place",
+      "modern": "渭水之北，今西安北",
+      "description": "渭水之北。文帝十四年匈奴入边，中尉周舍为衞将军、郎中令张武为车骑将军，军渭北，车千乘、骑卒十万。注疏引如淳、孟康等论细柳、棘门在渭北长安北之方位。",
+      "evidence": [
+        "P26"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-minyue",
+      "name": "閩越",
+      "type": "Place",
+      "modern": "约今福建一带",
+      "description": "南方越人国。文帝六年有司言淮南王长遣人使闽越及匈奴、发其兵，欲以危宗庙社稷。",
+      "evidence": [
+        "P22"
+      ],
+      "source": "正文"
+    }
+  ],
+  "events": [
+    {
+      "id": "shiji-event-zhulv",
+      "name": "誅諸呂",
+      "type": "Event",
+      "participants": [
+        "shiji-person-chenping",
+        "shiji-person-zhoubo",
+        "shiji-person-guanying",
+        "shiji-person-liuzhang",
+        "shiji-person-liuxingju",
+        "shiji-person-jitong",
+        "shiji-person-liujie",
+        "shiji-person-lvchan",
+        "shiji-person-lvlu"
+      ],
+      "place": "shiji-place-changan",
+      "description": "高后八年七月吕后崩，九月诸吕吕产、吕禄等欲为乱以危刘氏，大臣共诛之。灌婴留荥阳弗击而与诸侯合谋，周勃持节入北军、一呼士皆左袒为刘氏，刘章首先捕吕产，刘揭身夺吕禄印。",
+      "evidence": [
+        "P0",
+        "P1",
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-yingli-daiwang",
+      "name": "迎立代王",
+      "type": "Event",
+      "participants": [
+        "shiji-person-chenping",
+        "shiji-person-zhoubo",
+        "shiji-person-songchang",
+        "shiji-person-zhangwu",
+        "shiji-person-bozhao",
+        "shiji-person-liuheng"
+      ],
+      "place": "shiji-place-changan",
+      "description": "诸吕诛灭后，丞相陈平、太尉周勃等使人迎代王刘恒。张武等疑汉大臣不可信、劝称疾毋往，宋昌力主入继；代王报太后计之、卜龟得大横之兆，遣薄昭往见绛侯探实，遂命宋昌参乘、张武等六人乘传诣长安，至高陵休止。",
+      "evidence": [
+        "P0",
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-jiwei",
+      "name": "代王即天子位",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng",
+        "shiji-person-chenping",
+        "shiji-person-zhoubo",
+        "shiji-person-liuzhang",
+        "shiji-person-liuxingju",
+        "shiji-person-liujie",
+        "shiji-person-chenwu",
+        "shiji-person-zhangcang",
+        "shiji-person-liuying"
+      ],
+      "place": "shiji-place-daili",
+      "description": "代王驰至渭桥，群臣拜谒称臣，太尉周勃跪上天子玺符。代王入代邸，丞相陈平、太尉周勃等群臣再拜请即天子位，代王西乡让者三、南乡让者再，群臣固请，乃许，遂即天子位。",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-ru-weiyanggong",
+      "name": "清宮入未央宮",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng",
+        "shiji-person-liuxingju",
+        "shiji-person-ying",
+        "shiji-person-songchang",
+        "shiji-person-zhangwu"
+      ],
+      "place": "shiji-place-weiyanggong",
+      "description": "群臣以礼次侍，乃使太仆婴与东牟侯兴居清宫、奉天子法驾迎于代邸。皇帝即日夕入未央宫，夜拜宋昌为衞将军镇抚南北军，以张武为郎中令行殿中，还坐前殿。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-she-tianxia",
+      "name": "即位赦天下賜爵",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng"
+      ],
+      "place": "shiji-place-weiyanggong",
+      "description": "文帝即位之夜下诏，言诸吕用事擅权、谋为大逆，赖将相列侯宗室大臣诛之，乃赦天下、赐民爵一级、女子百户牛酒，酺五日。注疏引汉律及乐产之说释牛酒与酺之义。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-chu-shouzuo",
+      "name": "除收帑相坐律令",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng"
+      ],
+      "place": "",
+      "description": "文帝元年十二月，帝以法者治之正、不当使无罪之父母妻子同产坐之及为收帑，令有司议。有司初以相坐坐收所从来远为便，帝再三申说，有司乃请奉诏除收帑诸相坐律令。",
+      "evidence": [
+        "P7"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-li-taizi",
+      "name": "立太子",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng"
+      ],
+      "place": "",
+      "description": "文帝元年正月，有司请蚤建太子以尊宗庙，帝以不德推让、欲博求贤圣有德者；有司固请并陈殷周立嗣必子、高帝设诸侯之义，帝乃许，立子某为太子。注疏引韦昭谓帝不欲独飨其福，故赐天下当代父后者爵。",
+      "evidence": [
+        "P8"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-li-huanghou",
+      "name": "立皇后",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng",
+        "shiji-person-botaihou",
+        "shiji-person-doushi"
+      ],
+      "place": "",
+      "description": "文帝元年三月有司请立皇后，薄太后以诸侯皆同姓、当立太子母为皇后，遂立窦氏为皇后。文帝为立后之故，赐天下鳏寡孤独穷困及年八十以上、孤儿九岁以下布帛米肉各有数。",
+      "evidence": [
+        "P9"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-feng-gongchen",
+      "name": "封賞功臣",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng",
+        "shiji-person-zhoubo",
+        "shiji-person-chenping",
+        "shiji-person-guanying",
+        "shiji-person-liuzhang",
+        "shiji-person-liuxingju",
+        "shiji-person-jitong",
+        "shiji-person-liujie",
+        "shiji-person-songchang",
+        "shiji-person-bozhao"
+      ],
+      "place": "shiji-place-changan",
+      "description": "文帝即位后益封太尉周勃万户、赐金五千斤，丞相陈平与灌婴邑各三千户、金二千斤，刘章、纪通、刘兴居邑各二千户、金千斤，封刘揭为阳信侯；又循从代来功臣，封宋昌为壮武侯、薄昭为轵侯，从代来六人官皆至九卿。",
+      "evidence": [
+        "P6",
+        "P8",
+        "P9"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-gongxing-jiejian",
+      "name": "文帝躬行節儉",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng",
+        "shiji-person-shenfuren",
+        "shiji-person-weituo"
+      ],
+      "place": "shiji-place-baling",
+      "description": "文帝从代来、即位二十三年，宫室苑囿狗马服御无所增益。尝欲作露台，计直百金而止；常衣绨衣，令慎夫人衣不得曳地、帏帐不得文绣；治霸陵皆以瓦器、不治坟。南越王尉佗去帝称臣，吴王诈病不朝则赐几杖。",
+      "evidence": [
+        "P35"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-liehou-zhiguo",
+      "name": "令列侯之國",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng",
+        "shiji-person-zhoubo"
+      ],
+      "place": "shiji-place-changan",
+      "description": "文帝二年以列侯多居长安、邑远而吏卒给输费苦，且列侯无由教驯其民，诏令列侯之国。三年，帝以丞相为所重，令其率列侯之国，绛侯勃遂免丞相就国。",
+      "evidence": [
+        "P12",
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-ribeishi-zhao",
+      "name": "因日食下詔求賢",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng"
+      ],
+      "place": "",
+      "description": "文帝二年十一月晦日食、十二月望日又食，帝以人主不德则天示之灾，下诏令悉思其过失、白以告朕，并举贤良方正能直言极谏者，各饬其任职、务省繇费以便民，且罢衞将军军、减太仆见马以给置传。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-qinggeng-jitian",
+      "name": "開籍田親率耕",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng"
+      ],
+      "place": "",
+      "description": "文帝二年正月，帝以农为天下之本，诏开籍田、亲率耕，以给宗庙粢盛。注疏引应劭、韦昭、瓒等辨籍田之义及躬亲之意。",
+      "evidence": [
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-li-zhuhouwang",
+      "name": "立諸侯王",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng",
+        "shiji-person-liusui",
+        "shiji-person-liupiqiang",
+        "shiji-person-liuzhang",
+        "shiji-person-liuxingju",
+        "shiji-person-liuwu",
+        "shiji-person-liucan",
+        "shiji-person-liuyi",
+        "shiji-person-zhaoyouwang"
+      ],
+      "place": "",
+      "description": "文帝三年三月有司请立皇子为诸侯王。帝以赵幽王幽死而怜之，已立其长子刘遂为赵王，又立赵幽王少子辟彊为河间王、以齐剧郡立朱虚侯为城阳王、立东牟侯为济北王，皇子武为代王、子参为太原王、子揖为梁王。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-chu-feibang",
+      "name": "除誹謗妖言之罪",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng"
+      ],
+      "place": "",
+      "description": "文帝二年，帝以古有进善之旌、诽谤之木所以通治道而来的谏者，今法有诽谤妖言之罪致众臣不敢尽情、上无由闻过，诏除之，并令自今有犯此者勿听治。注疏引服虔、应劭辨尧立诽谤之木、华表之制。",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-tonghufu",
+      "name": "初與郡國守相為銅虎符竹使符",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng"
+      ],
+      "place": "",
+      "description": "文帝二年九月，初与郡国守相为铜虎符、竹使符。注疏引应劭、张晏辨虎符发兵、竹使符征发之制及符以代珪璋从简易之义。",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-jibei-zhi-luan",
+      "name": "濟北王興居之亂",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuxingju",
+        "shiji-person-chenwu",
+        "shiji-person-liuheng",
+        "shiji-person-he"
+      ],
+      "place": "shiji-place-xingyang",
+      "description": "文帝三年，济北王兴居闻帝之代、欲往击胡，乃反，发兵欲袭荥阳。帝诏罢丞相兵，遣棘蒲侯陈武为大将军将十万往击之，祁侯贺为将军军荥阳；八月破济北军、虏其王，赦济北诸吏民与王反者。",
+      "evidence": [
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-huainan-sha-shenshiqi",
+      "name": "淮南王殺辟陽侯",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuchang",
+        "shiji-person-weijing",
+        "shiji-person-shenshiqi"
+      ],
+      "place": "",
+      "description": "文帝三年四月，淮南王刘长与其从者魏敬杀辟阳侯审食其。",
+      "evidence": [
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-huainanwang-fei",
+      "name": "廢淮南王長",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuchang",
+        "shiji-person-liuheng"
+      ],
+      "place": "shiji-place-yandao",
+      "description": "文帝六年，有司言淮南王长废先帝法、不听天子诏、与棘蒲侯太子奇谋反、遣使闽越及匈奴欲危宗庙，群臣议皆曰当弃市。帝不忍致法，赦其罪、废勿王，群臣请处之蜀严道、卭都；长未到处所，行病死。后十六年追尊谥厉王，立其三子为淮南、衡山、庐江王。",
+      "evidence": [
+        "P22"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-chu-mizhu",
+      "name": "除祕祝之官",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng"
+      ],
+      "place": "",
+      "description": "文帝十三年夏，帝以天道祸自怨起、福繇德兴，百官之非宜由朕躬，而今秘祝之官移过于下、以彰其不德，诏除之。注疏引应劭谓国家讳之故曰秘。",
+      "evidence": [
+        "P23"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-churouxing",
+      "name": "除肉刑",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng",
+        "shiji-person-chunyuyi",
+        "shiji-person-tiying"
+      ],
+      "place": "shiji-place-changan",
+      "description": "文帝十三年五月，齐太仓令淳于意有罪当刑，诏狱逮徙系长安，其女缇萦随父上书，愿没入为官婢以赎父刑。帝怜悲其意，下诏举有虞氏画衣冠异章服而民不犯之治，痛夫刑至断支体，遂除肉刑。注疏引孟康称黥、劓、左右趾合一凡三。",
+      "evidence": [
+        "P24"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-chu-tianzu",
+      "name": "除田之租税",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng"
+      ],
+      "place": "",
+      "description": "文帝以农为天下之本、务莫大焉，今勤身从事而有租税之赋，是本末者无以异，于劝农之道未备，诏除田之租税。注疏引李奇谓本农末贾、农贾俱出租无异故除之。",
+      "evidence": [
+        "P25"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-zengsi-wuqi",
+      "name": "增祀墠場而令祠官毋祈",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng"
+      ],
+      "place": "",
+      "description": "文帝十四年春，帝以执牺牲珪币事上帝宗庙十四年而自愧不敏，诏广增诸祀𫮃场珪币，并令祠官致敬、毋有所祈，不使祝厘归福于己而不为百姓。注疏引如淳、韦昭释厘为福。",
+      "evidence": [
+        "P27"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-tude-zhiyi",
+      "name": "五德之議",
+      "type": "Event",
+      "participants": [
+        "shiji-person-zhangcang",
+        "shiji-person-gongsunchen"
+      ],
+      "place": "",
+      "description": "鲁人公孙臣上书陈终始传五德之事，言方今土德时、土德应黄龙见、当改正朔服色制度。天子下其事与丞相议，丞相张苍推以为今水德、始明正十月上黑事，以其言非是请罢之。",
+      "evidence": [
+        "P28"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-huanglong-chengji",
+      "name": "黃龍見成紀",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng",
+        "shiji-person-gongsunchen"
+      ],
+      "place": "shiji-place-chengji",
+      "description": "文帝十五年，黄龙见成纪，天子乃复召鲁人公孙臣以为博士、申明土德之事，下诏言有异物之神见于成纪、无害于民，遂亲郊祀上帝诸神；礼官议古者天子夏躬亲祀上帝于郊，天子始幸雍郊见五帝。",
+      "evidence": [
+        "P29"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-weiyang-wumiao",
+      "name": "立渭陽五廟",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng",
+        "shiji-person-xinyuanping"
+      ],
+      "place": "shiji-place-weiyang",
+      "description": "赵人新垣平以望气见文帝，因说上设立渭阳五庙，欲出周鼎、当有玉英见。文帝十六年亲郊见渭阳五帝庙，亦以夏答礼而尚赤。",
+      "evidence": [
+        "P29",
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-gaizu-xinyuanping",
+      "name": "改元與誅新垣平",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng",
+        "shiji-person-xinyuanping"
+      ],
+      "place": "",
+      "description": "文帝十七年得玉柸、刻曰「人主延寿」，天子始更为元年、令天下大酺。其岁新垣平事觉，夷三族。注疏引应劭谓玉柸乃新垣平诈令人所献，并辨秦惠文王、魏惠王亦有后元之例。",
+      "evidence": [
+        "P31"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-heqin-xiongnu",
+      "name": "與匈奴和親",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng"
+      ],
+      "place": "",
+      "description": "文帝后二年下诏，言匈奴累年并暴边境、久结难连兵，故遣使者冠盖相望、结轶于道以谕朕意於单于；单于愿反古之道、弃细过、结兄弟之义，和亲已定始于今年。后文帝亦与匈奴和亲，匈奴背约入盗则令边备守而不发兵深入，恶烦苦百姓。",
+      "evidence": [
+        "P32",
+        "P35"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-xiongnu-ru-bian-shisi",
+      "name": "匈奴入邊（十四年）",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng",
+        "shiji-person-zhoushe",
+        "shiji-person-zhangwu",
+        "shiji-person-zhangxiangru",
+        "shiji-person-luanbu",
+        "shiji-person-ang",
+        "shiji-person-chi"
+      ],
+      "place": "shiji-place-chaona",
+      "description": "文帝十四年冬，匈奴谋入边为寇、攻朝那塞、杀北地都尉卬。帝遣三将军军陇西、北地、上郡，中尉周舍为衞将军、郎中令张武为车骑将军军渭北，车千乘、骑卒十万。帝欲自将击匈奴，群臣谏不听，皇太后固要乃止，遂以东阳侯张相如为大将军、栾布为将军击之，匈奴遁走。",
+      "evidence": [
+        "P26"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-xiongnu-ru-shangjun",
+      "name": "匈奴入上郡雲中（後六年）",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng",
+        "shiji-person-lingmian",
+        "shiji-person-suyi",
+        "shiji-person-zhangwu",
+        "shiji-person-zhouyafu",
+        "shiji-person-liuli",
+        "shiji-person-zhuzihou"
+      ],
+      "place": "shiji-place-shangjun",
+      "description": "文帝后六年冬，匈奴三万人入上郡、三万人入云中。帝以中大夫令勉为车骑将军军飞狐、故楚相苏意为将军军句注、将军张武屯北地、河内守周亚夫居细柳、宗正刘礼居霸上、祝兹侯军棘门以备胡，数月胡人去而罢。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-hanzai-huang",
+      "name": "旱蝗救濟",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng"
+      ],
+      "place": "",
+      "description": "天下旱、蝗，帝加惠：令诸侯毋入贡、弛山泽之禁、减诸服御狗马、损郎吏员、发仓庾以振贫民，并许民卖爵。注疏引韦昭、应劭等释弛禁、仓庾及民得卖爵之义。",
+      "evidence": [
+        "P34"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-yizhao-bozang",
+      "name": "遺詔薄葬",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng",
+        "shiji-person-zhouyafu",
+        "shiji-person-zhangwu",
+        "shiji-person-han"
+      ],
+      "place": "shiji-place-weiyanggong",
+      "description": "文帝后七年六月己亥，帝崩于未央宫。遗诏以死者天地之理、不当厚葬重服，令天下吏民令到出临三日皆释服，毋禁娶妇嫁女祠祀饮酒食肉，服大红十五日、小红十四日、纤七日；霸陵山川因其故毋有所改，归夫人以下至少使；并令中尉亚夫为车骑将军、郎中令武为复土将军发卒穿圹。",
+      "evidence": [
+        "P36"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-shangzunhao",
+      "name": "上尊號孝文皇帝",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng",
+        "shiji-person-liujing"
+      ],
+      "place": "shiji-place-gaomiao",
+      "description": "文帝崩后乙巳，群臣皆顿首上尊号曰孝文皇帝；太子即位于高庙，丁未袭号曰皇帝（孝景皇帝）。注疏引汉书云乙巳葬霸陵。",
+      "evidence": [
+        "P37",
+        "P38"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-li-taizong-miao",
+      "name": "立孝文皇帝太宗之廟",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liujing",
+        "shiji-person-shentujia"
+      ],
+      "place": "shiji-place-gaomiao",
+      "description": "景帝元年十月制诏御史，称孝文皇帝通关梁、除诽谤、去肉刑、赏赐长老、收恤孤独，德厚侔天地而庙乐不称，乃为其庙作昭德之舞；丞相申徒嘉等议高皇庙宜为帝者太祖之庙、孝文皇帝庙宜为帝者太宗之庙，郡国诸侯各为之立庙。",
+      "evidence": [
+        "P39"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-xiongnu-ru-beidi",
+      "name": "匈奴入北地（三年）",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng",
+        "shiji-person-guanying"
+      ],
+      "place": "shiji-place-beidi",
+      "description": "文帝三年五月，匈奴入北地、居河南为寇，帝初幸甘泉。六月，帝以匈奴右贤王离其国、将众居河南降地、陵轹边吏入盗，发边吏骑八万五千诣高奴，遣丞相颍阴侯灌婴击匈奴；匈奴去，发中尉材官属卫将军军长安。",
+      "evidence": [
+        "P19"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-yuanian-fengshang",
+      "name": "文帝元年封賞功臣外戚",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng",
+        "shiji-person-shentujia",
+        "shiji-person-zun",
+        "shiji-person-ding",
+        "shiji-person-zhaojian",
+        "shiji-person-sijun",
+        "shiji-person-caijian"
+      ],
+      "place": "shiji-place-changan",
+      "description": "文帝元年，诏列侯从高帝入蜀、汉中者六十八人皆益封各三百户，故吏二千石以上颍川守尊等十人食邑六百户、淮阳守申徒嘉等十人五百户、卫尉定等十人四百户；封淮南王舅父赵兼为周阳侯、齐王舅父驷钧为清郭侯，秋封故常山丞相蔡兼为樊侯。",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-xing-taiyuan",
+      "name": "帝幸太原",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liuheng"
+      ],
+      "place": "shiji-place-taiyuan",
+      "description": "文帝三年，帝自甘泉之高奴，因幸太原，见故群臣皆赐之，举功行赏，诸民里赐牛酒，复晋阳、中都民三岁，留游太原十余日。",
+      "evidence": [
+        "P20"
+      ],
+      "source": "正文"
+    }
+  ],
+  "offices": [
+    {
+      "id": "shiji-office-chengxiang",
+      "name": "丞相",
+      "description": "百官之长。本纪中陈平、周勃、灌婴、张苍、申徒嘉等先后任之；文帝三年罢太尉官、属丞相，并令丞相周勃率列侯之国。注疏引汉书百官表及九卿之制。",
+      "evidence": [
+        "P1",
+        "P2",
+        "P5",
+        "P6",
+        "P12",
+        "P18",
+        "P28",
+        "P39"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-taiwei",
+      "name": "太尉",
+      "description": "最高武官。周勃以太尉持节入北军诛诸吕，文帝元年由太尉迁右丞相，以颍阴侯灌婴为太尉；三年罢太尉官，属丞相。",
+      "evidence": [
+        "P1",
+        "P2",
+        "P5",
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-yushidafu",
+      "name": "御史大夫",
+      "description": "副丞相之职。张苍以御史大夫与丞相陈平、太尉周勃等群臣共劝代王即天子位。",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-zongzheng",
+      "name": "宗正",
+      "description": "掌宗室亲属之官。注疏引汉书百官表称宗正为秦官、应劭谓周成王时彤伯入为宗正。刘郢于文帝初任之，刘礼于后六年任之为将军居霸上。",
+      "evidence": [
+        "P2",
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-dianke",
+      "name": "典客",
+      "description": "掌诸侯及归义蛮夷之官。文帝即位前刘揭以典客与丞相陈平、太尉周勃等共劝代王即天子位，后以功封阳信侯。",
+      "evidence": [
+        "P2",
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-langzhongling",
+      "name": "郎中令",
+      "description": "掌宫殿掖门户之官、九卿之一。张武先为代王郎中令，文帝即位后为郎中令行殿中，十四年为车骑将军，遗诏以为复土将军。",
+      "evidence": [
+        "P1",
+        "P3",
+        "P36"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-weiwei",
+      "name": "衞尉",
+      "description": "掌宫门衞屯之官、九卿之一。文帝元年记衞尉定等十人食邑四百户。注疏引裴骃谓景帝初改衞尉为中大夫令、后改光禄勋。",
+      "evidence": [
+        "P10",
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-weijiangjun",
+      "name": "衞將軍",
+      "description": "将军名号，主衞护京师。文帝即位之夜拜宋昌为衞将军、镇抚南北军；二年因日食诏罢衞将军军；匈奴去后发中尉材官属衞将军军长安。",
+      "evidence": [
+        "P3",
+        "P13",
+        "P19"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-zhongwei",
+      "name": "中尉",
+      "description": "掌京师治安之官，注疏引汉书百官表称秦官。宋昌以代国中尉劝代王入立，周舍以后六年中尉为衞将军军渭北，周亚夫以中尉为车骑将军发卒穿复土。",
+      "evidence": [
+        "P1",
+        "P9",
+        "P26",
+        "P36"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-dajiangjun",
+      "name": "大將軍",
+      "description": "将军之最高者。文帝即位时有大将军陈武列于劝进群臣，元年以大将军灌婴为太尉；三年济北王反，遣棘蒲侯陈武为大将军将十万击之；十四年以东阳侯张相如为大将军击匈奴。",
+      "evidence": [
+        "P2",
+        "P5",
+        "P21",
+        "P26"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-cheqijiangjun",
+      "name": "車騎將軍",
+      "description": "将军名号。文帝元年遣车骑将军薄昭迎皇太后于代；十四年郎中令张武为车骑将军；后六年中大夫令勉为车骑将军军飞狐；遗诏令中尉亚夫为车骑将军发卒穿复土。",
+      "evidence": [
+        "P6",
+        "P26",
+        "P33",
+        "P36"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-taipu",
+      "name": "太僕",
+      "description": "掌舆马之官、九卿之一。文帝即位时使太仆婴与东牟侯兴居清宫、奉法驾迎代王于代邸；二年诏减太仆见马，余者以给置传。注疏引索隐释传置、驿置之别。",
+      "evidence": [
+        "P3",
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-taichangling",
+      "name": "太倉令",
+      "description": "掌太仓之官。齐太仓令淳于意有罪当刑，其女缇萦上书请赎，遂有除肉刑之诏。注疏引索隐称其名意，故号仓公。",
+      "evidence": [
+        "P24"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-boshi",
+      "name": "博士",
+      "description": "掌通古今、备顾问之官。文帝十五年黄龙见成纪，召鲁人公孙臣以为博士，申明土德之事。",
+      "evidence": [
+        "P29"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-jiuqing",
+      "name": "九卿",
+      "description": "汉置九卿：太常、光禄、衞尉、太仆、廷尉、大鸿胪、宗正、大司农、少府（注疏引正义）。文帝诏诸从代来之六人，官皆至九卿。",
+      "evidence": [
+        "P9"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-neishi",
+      "name": "內史",
+      "description": "掌治京师之官，注疏引汉书百官表谓内史掌理京师之官、景帝更名京兆尹。文帝十四年以成侯赤为内史；遗诏发内史卒万五千人穿复土。",
+      "evidence": [
+        "P26",
+        "P36"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-xiangguo",
+      "name": "相國",
+      "description": "百官之长，位尊于丞相。吕产自置为相国，擅权专制、欲为大逆以危刘氏。",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-shangjiangjun",
+      "name": "上將軍",
+      "description": "将军之尊者。吕禄为上将军，诛诸吕时典客刘揭身夺其赵王印。",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-mizhuguan",
+      "name": "祕祝之官",
+      "description": "掌秘祝、可移过于下之官。文帝十三年以秘祝之官移过于下、以彰其不德，诏除之。注疏引应劭谓国家讳之故曰秘。",
+      "evidence": [
+        "P23"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-jiangtunjiangjun",
+      "name": "將屯將軍",
+      "description": "监主诸屯之将军。文帝遗诏以属国悍为将屯将军。注疏引李奇谓如冯奉世为右将军而以将屯将军为名，此监主诸屯也。",
+      "evidence": [
+        "P36"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-futujiangjun",
+      "name": "復土將軍",
+      "description": "主穿圹填瘗事之将军。文帝遗诏以郎中令张武为复土将军，发近县见卒万六千人、内史卒万五千人藏郭穿复土。注疏引如淳、索隐释复土之义。",
+      "evidence": [
+        "P36"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-zhongdafu-ling",
+      "name": "中大夫令",
+      "description": "官号。文帝后六年以中大夫令勉为车骑将军军飞狐。注疏异说：裴骃谓景帝改衞尉为中大夫令、则中大夫令是官号而勉其名；颜游秦以令为姓、勉为名。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-shouxiang",
+      "name": "郡守、諸侯相",
+      "description": "郡守与诸侯相之称。文帝二年九月，初与郡国守相为铜虎符、竹使符。故吏二千石者如淮阳守申徒嘉、颍川守尊、故常山丞相蔡兼等各受食邑或封侯。",
+      "evidence": [
+        "P10",
+        "P17"
+      ],
+      "source": "正文"
+    }
+  ],
+  "relations": [
+    {
+      "subject": "shiji-person-liubang",
+      "predicate": "father_of",
+      "object": "shiji-person-liuheng",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liubang",
+      "predicate": "father_of",
+      "object": "shiji-person-liuchang",
+      "evidence": [
+        "P8"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liuheng",
+      "predicate": "son_of",
+      "object": "shiji-person-botaihou",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-bozhao",
+      "predicate": "brother_of",
+      "object": "shiji-person-botaihou",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-tiying",
+      "predicate": "daughter_of",
+      "object": "shiji-person-chunyuyi",
+      "evidence": [
+        "P24"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liuzhang",
+      "predicate": "son_of",
+      "object": "shiji-person-liufei",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liuxingju",
+      "predicate": "son_of",
+      "object": "shiji-person-liufei",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liuzhang",
+      "predicate": "brother_of",
+      "object": "shiji-person-liuxingju",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liupiqiang",
+      "predicate": "brother_of",
+      "object": "shiji-person-liusui",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liujiao",
+      "predicate": "uncle_of",
+      "object": "shiji-person-liuheng",
+      "evidence": [
+        "P8"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-doushi",
+      "predicate": "wife_of",
+      "object": "shiji-person-liuheng",
+      "evidence": [
+        "P9"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-shenfuren",
+      "predicate": "concubine_of",
+      "object": "shiji-person-liuheng",
+      "evidence": [
+        "P35"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liujing",
+      "predicate": "son_of",
+      "object": "shiji-person-liuheng",
+      "evidence": [
+        "P8",
+        "P38"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liuwu",
+      "predicate": "son_of",
+      "object": "shiji-person-liuheng",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liucan",
+      "predicate": "son_of",
+      "object": "shiji-person-liuheng",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liuyi",
+      "predicate": "son_of",
+      "object": "shiji-person-liuheng",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-chenping",
+      "predicate": "appointed",
+      "object": "shiji-office-chengxiang",
+      "evidence": [
+        "P1",
+        "P5"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhoubo",
+      "predicate": "appointed",
+      "object": "shiji-office-taiwei",
+      "evidence": [
+        "P1",
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhoubo",
+      "predicate": "appointed",
+      "object": "shiji-office-chengxiang",
+      "evidence": [
+        "P5",
+        "P12"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-guanying",
+      "predicate": "appointed",
+      "object": "shiji-office-dajiangjun",
+      "evidence": [
+        "P5"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-guanying",
+      "predicate": "appointed",
+      "object": "shiji-office-taiwei",
+      "evidence": [
+        "P5"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-guanying",
+      "predicate": "appointed",
+      "object": "shiji-office-chengxiang",
+      "evidence": [
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-songchang",
+      "predicate": "appointed",
+      "object": "shiji-office-zhongwei",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-songchang",
+      "predicate": "appointed",
+      "object": "shiji-office-weijiangjun",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhangwu",
+      "predicate": "appointed",
+      "object": "shiji-office-langzhongling",
+      "evidence": [
+        "P1",
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhangwu",
+      "predicate": "appointed",
+      "object": "shiji-office-cheqijiangjun",
+      "evidence": [
+        "P26"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhangwu",
+      "predicate": "appointed",
+      "object": "shiji-office-futujiangjun",
+      "evidence": [
+        "P36"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-bozhao",
+      "predicate": "appointed",
+      "object": "shiji-office-cheqijiangjun",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhangcang",
+      "predicate": "appointed",
+      "object": "shiji-office-yushidafu",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhangcang",
+      "predicate": "appointed",
+      "object": "shiji-office-chengxiang",
+      "evidence": [
+        "P28"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liuying",
+      "predicate": "appointed",
+      "object": "shiji-office-zongzheng",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liuli",
+      "predicate": "appointed",
+      "object": "shiji-office-zongzheng",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liujie",
+      "predicate": "appointed",
+      "object": "shiji-office-dianke",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-chenwu",
+      "predicate": "appointed",
+      "object": "shiji-office-dajiangjun",
+      "evidence": [
+        "P2",
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-lvchan",
+      "predicate": "appointed",
+      "object": "shiji-office-xiangguo",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-lvlu",
+      "predicate": "appointed",
+      "object": "shiji-office-shangjiangjun",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhouyafu",
+      "predicate": "appointed",
+      "object": "shiji-office-cheqijiangjun",
+      "evidence": [
+        "P36"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-lingmian",
+      "predicate": "appointed",
+      "object": "shiji-office-zhongdafu-ling",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-lingmian",
+      "predicate": "appointed",
+      "object": "shiji-office-cheqijiangjun",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-gongsunchen",
+      "predicate": "appointed",
+      "object": "shiji-office-boshi",
+      "evidence": [
+        "P29"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-chunyuyi",
+      "predicate": "appointed",
+      "object": "shiji-office-taichangling",
+      "evidence": [
+        "P24"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-ying",
+      "predicate": "appointed",
+      "object": "shiji-office-taipu",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-shentujia",
+      "predicate": "appointed",
+      "object": "shiji-office-shouxiang",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zun",
+      "predicate": "appointed",
+      "object": "shiji-office-shouxiang",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liuheng",
+      "predicate": "enfeoffed",
+      "object": "shiji-place-dai",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liuze",
+      "predicate": "enfeoffed",
+      "object": "shiji-place-langye",
+      "evidence": [
+        "P2",
+        "P4"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liuze",
+      "predicate": "enfeoffed",
+      "object": "shiji-place-yan",
+      "evidence": [
+        "P4"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-songchang",
+      "predicate": "enfeoffed",
+      "object": "shiji-place-zhuangwu",
+      "evidence": [
+        "P9"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-bozhao",
+      "predicate": "enfeoffed",
+      "object": "shiji-place-zhi",
+      "evidence": [
+        "P8"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liuzhang",
+      "predicate": "enfeoffed",
+      "object": "shiji-place-chengyang",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liuxingju",
+      "predicate": "enfeoffed",
+      "object": "shiji-place-jibei",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liupiqiang",
+      "predicate": "enfeoffed",
+      "object": "shiji-place-hejian",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liuwu",
+      "predicate": "enfeoffed",
+      "object": "shiji-place-dai",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liucan",
+      "predicate": "enfeoffed",
+      "object": "shiji-place-taiyuan",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liuyi",
+      "predicate": "enfeoffed",
+      "object": "shiji-place-liang",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liujie",
+      "predicate": "enfeoffed",
+      "object": "shiji-place-yangxin",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-shenshiqi",
+      "predicate": "killed_by",
+      "object": "shiji-person-liuchang",
+      "evidence": [
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-lvchan",
+      "predicate": "captured_by",
+      "object": "shiji-person-liuzhang",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liusui",
+      "predicate": "son_of",
+      "object": "shiji-person-zhaoyouwang",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liupiqiang",
+      "predicate": "son_of",
+      "object": "shiji-person-zhaoyouwang",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-chi",
+      "predicate": "appointed",
+      "object": "shiji-office-neishi",
+      "evidence": [
+        "P26"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-han",
+      "predicate": "appointed",
+      "object": "shiji-office-jiangtunjiangjun",
+      "evidence": [
+        "P36"
+      ],
+      "source": "正文"
+    }
+  ]
+}

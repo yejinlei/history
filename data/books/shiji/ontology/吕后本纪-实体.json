@@ -1,0 +1,1327 @@
+{
+  "book": "shiji",
+  "chapter": "吕后本纪",
+  "persons": [
+    {
+      "id": "shiji-person-lvhou",
+      "name": "吕后",
+      "aliases": ["吕太后", "高后", "吕雉", "娥姁"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "皇后、皇太后、临朝称制者",
+      "description": "汉高祖刘邦之妻，汉惠帝生母，名雉，字娥姁（集解、索隐）。佐高祖定天下，为人刚毅。惠帝崩后临朝称制，幽杀戚夫人为“人彘”，鸩杀赵王如意，分封诸吕为王，幽杀少帝。病中卜云苍犬为赵王如意作祟，伤腋而崩。",
+      "evidence": ["P1", "P2", "P4", "P6", "P7", "P10", "P20", "P21", "P30"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-gaozu",
+      "name": "高祖",
+      "aliases": ["高帝", "汉高祖", "刘邦"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "皇帝",
+      "description": "汉朝开国皇帝，吕后之夫，孝惠帝、齐王刘肥、赵王如意、代王刘恒等诸子之父。微时娶吕后，为汉王时于定陶得戚姬。常欲废太子立如意，赖大臣与留侯之策而止。曾刑白马与大臣盟“非刘氏而王，天下共击之”。",
+      "evidence": ["P1", "P2", "P3", "P4", "P7", "P8", "P25", "P34"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuying",
+      "name": "孝惠帝",
+      "aliases": ["孝惠", "惠帝", "刘盈"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "皇帝",
+      "description": "汉高祖与吕后之子，名盈（集解）。为人仁弱，高祖以为不类己而常欲废之。即位后见“人彘”大惊，痛哭成疾，日饮淫乐不听政。七年秋八月崩，皇甫谧谓年二十三（集解）。",
+      "evidence": ["P1", "P4", "P5", "P6", "P33"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-luyuan",
+      "name": "鲁元太后",
+      "aliases": ["鲁元公主", "鲁元王偃母"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "公主、太后",
+      "description": "吕后与高祖之女，嫁宣平侯张敖，生子张偃（后为鲁王）。齐王刘肥献城阳之郡为其汤沐邑，尊为王太后。死赐谥鲁元太后。",
+      "evidence": ["P1", "P5", "P8"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-qifuren",
+      "name": "戚夫人",
+      "aliases": ["戚姬", "定陶戚姬"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "高祖妃嫔",
+      "description": "高祖为汉王时于定陶所得宠姬，生赵隐王如意。常从高祖之关东，日夜啼泣求立其子代太子。高祖崩后被吕后囚于永巷，断手足、去眼、熏耳、饮瘖药，居厕中称作“人彘”。",
+      "evidence": ["P1", "P4"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuruyi",
+      "name": "刘如意",
+      "aliases": ["如意", "赵王如意", "赵隐王"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "诸侯王",
+      "description": "高祖与戚夫人之子，封赵王。高祖以其类己，数欲立为太子，赖大臣争之及留侯策而止。惠帝元年十二月为吕后使人持鸩毒杀。后吕后病，卜云赵王如意为祟作苍犬据其腋。",
+      "evidence": ["P1", "P2", "P4", "P18"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-lvtai",
+      "name": "吕台",
+      "aliases": ["郦侯", "吕王", "肃王"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "诸侯王、外戚",
+      "description": "吕后长兄周吕侯吕泽之子，吕产之兄（集解徐广）。封郦侯，后立为吕王，薨谥肃王，太子吕嘉代立。",
+      "evidence": ["P2", "P4", "P7", "P9", "P10"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-lvchan",
+      "name": "吕产",
+      "aliases": ["交侯", "吕王", "梁王", "相国"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "外戚、诸侯王、相国",
+      "description": "吕后兄周吕侯吕泽之子，吕台之弟，初封交侯。历吕王、梁王（梁更名吕），惠帝时任将军将兵居南北军，高后崩后以相国居南军，谋乱关中，为朱虚侯刘章追杀于郎中府吏厕中。",
+      "evidence": ["P2", "P7", "P9", "P10", "P13", "P17", "P20", "P23", "P24", "P28", "P29"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-lvlu",
+      "name": "吕禄",
+      "aliases": ["胡陵侯", "武信侯", "赵王", "上将军"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "外戚、诸侯王、将军",
+      "description": "吕后次兄建成康侯吕释之之子（集解徐广称释之少子）。封胡陵侯续康侯后，后封武信侯、立为赵王。高后病时任上将军军北军，为郦寄所诱解印归兵，太尉周勃遂将北军，后被捕斩。",
+      "evidence": ["P7", "P9", "P17", "P20", "P24", "P25", "P27", "P29"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-lvshizhi",
+      "name": "吕释之",
+      "aliases": ["建成侯", "建成康侯"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "外戚、列侯",
+      "description": "吕后次兄，封建成侯，卒谥康侯。集解徐广谓其少子为吕禄，后世因此续康侯之封。",
+      "evidence": ["P2", "P9", "P10"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-lvze",
+      "name": "吕泽",
+      "aliases": ["周吕侯", "悼武王", "令武侯"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "外戚、列侯",
+      "description": "吕后长兄，封周吕侯，死事于高祖时（集解徐广称其名泽，谥令武侯，追谥悼武王）。吕后追尊他为悼武王，以其子吕台封酈侯、吕产封交侯，为封诸吕为王作前奏。",
+      "evidence": ["P2", "P7", "P8"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-lvgong",
+      "name": "吕公",
+      "aliases": ["临泗侯", "吕宣王"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "外戚",
+      "description": "吕后之父。汉元年封临泗侯，四年卒，高后元年追谥吕宣王（集解徐广说）。此为注疏所记，可补吕后家世。",
+      "evidence": ["P1"],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-person-lvxu",
+      "name": "吕嬃",
+      "aliases": ["临光侯"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "外戚、列侯",
+      "description": "吕后之妹，樊哙之妻（集解韦昭），封临光侯。怒其侄吕禄弃军解印，悉散珠玉宝器于堂下。高后崩后为大臣笞杀。",
+      "evidence": ["P9", "P13", "P25", "P29"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-lvjia",
+      "name": "吕嘉",
+      "aliases": ["吕王"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "诸侯王",
+      "description": "吕王吕台之子，台薨后代立为吕王。高后六年以居处骄恣被废，改以肃王台弟吕产为吕王。",
+      "evidence": ["P9", "P10"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-lvtong",
+      "name": "吕通",
+      "aliases": ["东平侯", "燕王"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "诸侯王",
+      "description": "吕肃王吕台之子，封东平侯，其弟吕庄封东平侯之徙。高后八年立为燕王。高后崩后为大臣使人诛杀。",
+      "evidence": ["P17", "P29"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liufei",
+      "name": "刘肥",
+      "aliases": ["齐王", "齐悼惠王", "肥"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "诸侯王",
+      "description": "高祖庶长子，孝惠帝异母兄，封齐王，谥悼惠王。惠帝二年入朝，因坐于上座触怒吕后，几被鸩杀，赖献城阳郡与鲁元公主得脱归齐。其子刘襄、刘章、刘兴居皆见称于史。",
+      "evidence": ["P3", "P5", "P30"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuheng",
+      "name": "刘恒",
+      "aliases": ["代王", "薄夫人子恒", "孝文皇帝"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "诸侯王、皇帝",
+      "description": "高祖中子，薄夫人所生，封代王。吕后欲徙其为赵王，辞以守代边。诸吕诛灭后，大臣以其最长、仁孝宽厚、母家薄氏谨良，共迎立为天子，是为孝文皇帝，在位二十三年崩。",
+      "evidence": ["P3", "P16", "P30", "P31", "P32"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-bofuren",
+      "name": "薄夫人",
+      "aliases": ["薄氏"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "高祖妃嫔",
+      "description": "高祖妃嫔，生代王刘恒。大臣议立新君时称“太后家薄氏谨良”，故代王得立。",
+      "evidence": ["P3", "P30"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuhui",
+      "name": "刘恢",
+      "aliases": ["梁王", "赵王"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "诸侯王",
+      "description": "高祖子，初封梁王。高后七年徙为赵王，吕后以吕产女为赵王后，王后鸩杀其所爱姬。刘恢悲而作歌诗四章，六月自杀；吕后以为用妇人弃宗庙礼，废其嗣。",
+      "evidence": ["P3", "P13", "P14"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuyou",
+      "name": "刘友",
+      "aliases": ["淮阳王", "赵王", "赵幽王"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "诸侯王",
+      "description": "高祖子，初封淮阳王，惠帝元年徙为赵王。吕后以诸吕女为后，刘友不爱，吕女谗之于后，被召至长安置邸围守、不予饮食。刘友饿而作歌，幽死于长安，以民礼葬之。",
+      "evidence": ["P3", "P4", "P11", "P29"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuchang",
+      "name": "刘长",
+      "aliases": ["淮南王"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "诸侯王",
+      "description": "高祖子，封淮南王。诸吕诛灭后大臣议立新君，曾欲立淮南王，以其年少且母家恶而止。",
+      "evidence": ["P3", "P30"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liujian",
+      "name": "刘建",
+      "aliases": ["燕王", "燕灵王"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "诸侯王",
+      "description": "高祖子，封燕王，谥灵王。高后七年薨，有美人子，吕后使人杀之，无后国除，后以吕通为燕王。",
+      "evidence": ["P3", "P17"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liujiao",
+      "name": "刘交",
+      "aliases": ["楚元王", "楚王"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "诸侯王",
+      "description": "高祖之弟，封楚王。惠帝二年与齐悼惠王皆来朝。",
+      "evidence": ["P3", "P5"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liubi",
+      "name": "刘濞",
+      "aliases": ["吴王"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "诸侯王",
+      "description": "高祖兄之子，封吴王（高祖八子之外另封者）。",
+      "evidence": ["P3"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-wurui",
+      "name": "吴芮",
+      "aliases": ["番君"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "功臣",
+      "description": "高祖功臣，封番君（长沙王之父）。非刘氏而王者，其子吴臣为长沙王。",
+      "evidence": ["P3"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhangliang",
+      "name": "张良",
+      "aliases": ["留侯"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "功臣、谋臣",
+      "description": "高祖谋臣，封留侯。高祖欲废太子，赖其策（索隐谓请商山四皓）而太子得不废。孝惠帝曾使留侯张良立齐悼惠王之子刘襄为齐王。",
+      "evidence": ["P1", "P23"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-chenping",
+      "name": "陈平",
+      "aliases": ["左丞相", "右丞相", "丞相"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "大臣、丞相",
+      "description": "高祖功臣，任左丞相，后为右丞相。吕后欲王诸吕，陈平与周勃阿意称可，事后自辩“全社稷、定刘氏之后”。诛诸吕时与太尉周勃合谋，劫郦商、使郦寄诱吕禄，并召朱虚侯佐太尉。",
+      "evidence": ["P7", "P17", "P25", "P28"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhoubo",
+      "name": "周勃",
+      "aliases": ["绛侯", "太尉"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "大臣、太尉",
+      "description": "高祖功臣，封绛侯。高后四年为太尉。诛诸吕时为太尉，行令军中“为吕氏右袒、为刘氏左袒”，尽得北军，分部捕斩诸吕男女，与陈平共迎立代王。",
+      "evidence": ["P7", "P10", "P25", "P27", "P29", "P30"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-wangling",
+      "name": "王陵",
+      "aliases": ["右丞相", "帝太傅"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "大臣、丞相",
+      "description": "任右丞相。吕后议欲立诸吕为王，王陵以高祖“非刘氏而王，天下共击之”之盟力争，触怒吕后，被拜为帝太傅夺相权，遂称病免归。",
+      "evidence": ["P7"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-shenshiji",
+      "name": "审食其",
+      "aliases": ["辟阳侯", "左丞相", "帝太傅"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "大臣、丞相",
+      "description": "封辟阳侯。吕后幸臣，吕后称制后任左丞相（不治事，令监宫中如郎中令），公卿皆因其决事。高后崩后为帝太傅，后复为左丞相。述赞谓其“尚私食其”。",
+      "evidence": ["P7", "P21", "P26", "P29", "P34"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhouchang",
+      "name": "周昌",
+      "aliases": ["赵相", "建平侯"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "大臣、赵国相",
+      "description": "封建平侯，为赵相。吕后欲召赵王如意，周昌以高帝属王、王年少且病为由三次拒遣王，后被征至长安，赵王遂被召。",
+      "evidence": ["P4"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhangpiqiang",
+      "name": "张辟彊",
+      "aliases": ["侍中", "留侯子"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "侍中",
+      "description": "留侯张良之子，年十五为侍中。惠帝崩时献计于丞相，请拜吕台、吕产、吕禄为将，将兵居南北军，诸吕皆入宫用事，吕氏之权由此而起。",
+      "evidence": ["P6"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-guanying",
+      "name": "灌婴",
+      "aliases": ["颍阴侯"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "将军、大臣",
+      "description": "封颍阴侯。吕产等遣其将兵击齐王，灌婴至荥阳与齐、楚连和，留屯荥阳以待吕氏之变共诛之。高后崩后诸吕既诛，亦罢兵归。",
+      "evidence": ["P23", "P25", "P29"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuzhang",
+      "name": "刘章",
+      "aliases": ["朱虚侯"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "宗室、列侯",
+      "description": "齐悼惠王之子，吕后封为朱虚侯，以吕禄之女为妻。有气力，恨诸吕专权，阴令人告兄齐王发兵西诛诸吕，自为内应。诛诸吕时监军门，追杀吕产于郎中府厕中，又斩长乐卫尉吕更始。",
+      "evidence": ["P8", "P22", "P23", "P28", "P29"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuxiang",
+      "name": "刘襄",
+      "aliases": ["齐王", "齐哀王"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "诸侯王、宗室",
+      "description": "齐悼惠王刘肥之子，嗣为齐王（孝惠帝使留侯张良立之）。闻诸吕擅权，欲发兵西诛诸吕，杀其相召平，诈夺琅邪王兵，遗书诸侯共讨；后闻灌婴连和乃还兵待约。",
+      "evidence": ["P22", "P23", "P24", "P29"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuxingju",
+      "name": "刘兴居",
+      "aliases": ["东牟侯"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "宗室、列侯",
+      "description": "齐悼惠王之子，刘章之弟，封东牟侯，居长安。诛吕氏时请得除宫，与太仆汝阴侯滕公入宫废少帝，奉法驾迎代王于邸。",
+      "evidence": ["P10", "P22", "P31"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuze",
+      "name": "刘泽",
+      "aliases": ["营陵侯", "琅邪王", "大将军"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "宗室、诸侯王",
+      "description": "宗室，封营陵侯，为吕嬃之女之婿（吕嬃有女为营陵侯刘泽妻），任大将军。吕后王诸吕时，恐其崩后刘泽为害，乃封泽为琅邪王以慰其心。齐王起兵时诈夺其兵。",
+      "evidence": ["P13", "P22"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-lishang",
+      "name": "郦商",
+      "aliases": ["曲周侯"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "功臣、列侯",
+      "description": "封曲周侯，年老有病。太尉周勃与丞相陈平为夺兵权，使人劫持郦商，迫其子郦寄往诱说吕禄交出兵权。",
+      "evidence": ["P25"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liji",
+      "name": "郦寄",
+      "aliases": ["郦兄"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "功臣子弟",
+      "description": "曲周侯郦商之子，与吕禄交好。受陈平、周勃之令往绐说吕禄，劝其归将印、以兵属太尉，吕禄信之。后与典客刘揭再往劝吕禄解印，遂使周勃得入北军。",
+      "evidence": ["P25", "P27"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhaoping",
+      "name": "召平",
+      "aliases": ["齐相"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "齐国相",
+      "description": "齐国之相。齐王刘襄欲发兵诛诸吕，召平不听，齐王欲诛之，召平乃反，举兵欲围王，为王所杀。",
+      "evidence": ["P22"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-caozhu",
+      "name": "曹窋",
+      "aliases": ["平阳侯"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "列侯、行御史大夫事",
+      "description": "封平阳侯，行御史大夫事。闻郎中令贾寿告吕产之语，驰告丞相陈平、太尉周勃；又受令告卫尉毋入相国产殿门，促成诛诸吕之事。",
+      "evidence": ["P27", "P28"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liujie",
+      "name": "刘揭",
+      "aliases": ["典客"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "大臣、典客",
+      "description": "任典客，与郦寄同说吕禄，令其急归将印、辞去之国，吕禄解印属典客，以兵授太尉周勃。",
+      "evidence": ["P27"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-jitong",
+      "name": "纪通",
+      "aliases": ["襄平侯"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "列侯、掌符节",
+      "description": "封襄平侯，尚符节（掌符节，集解张晏谓今符节令）。诛诸吕时受令持节矫内太尉周勃入北军。",
+      "evidence": ["P27"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-tenggong",
+      "name": "夏侯婴",
+      "aliases": ["滕公", "汝阴侯", "太仆"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "大臣、太仆",
+      "description": "封汝阴侯，任太仆，世称滕公。共诛吕氏后，与东牟侯刘兴居入宫，废少帝，以乘舆车载少帝出舍于少府，奉法驾迎代王于邸。",
+      "evidence": ["P31"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-jiashou",
+      "name": "贾寿",
+      "aliases": ["郎中令"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "郎中令",
+      "description": "任郎中令，自齐使来，数责吕产不早之国之失，并告以灌婴与齐楚连和欲诛诸吕，趣其急入宫。其语为平阳侯曹窋所闻，遂泄于丞相、太尉。",
+      "evidence": ["P27"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-fankuai",
+      "name": "樊哙",
+      "aliases": ["舞阳侯"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "功臣、列侯",
+      "description": "高祖功臣，娶吕后之妹吕嬃为妻（集解韦昭说），故吕嬃封临光侯时注家以“樊哙妻”释之。",
+      "evidence": ["P13"],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-person-shaodi",
+      "name": "少帝",
+      "aliases": ["前少帝"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "皇帝",
+      "description": "孝惠皇后取美人子诈为己出而立为太子，惠帝崩后即位为帝。长而知其母见杀，出言怨望，吕后患之，幽之于永卷，言帝病甚，遂废其位并幽杀之。",
+      "evidence": ["P10"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuhong",
+      "name": "刘弘",
+      "aliases": ["刘山", "刘义", "襄城侯", "常山王", "后少帝"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "诸侯王、皇帝",
+      "description": "孝惠后宫子，初封襄城侯名山，后为常山王更名义，复立为帝更名弘，不称元年（以太后称制天下事）。诸大臣以其非真孝惠子，与梁、淮阳、常山王同被诛灭于邸。",
+      "evidence": ["P9", "P10", "P30", "P31", "P32"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuqiang",
+      "name": "刘彊",
+      "aliases": ["淮阳王"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "诸侯王",
+      "description": "孝惠后宫美人之子（正义刘伯庄谓诸美人元幸吕氏、怀身入宫所生），吕后先立为淮阳王。高后五年八月薨，以弟壶关侯武为淮阳王。",
+      "evidence": ["P9", "P10"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liubuyi",
+      "name": "刘不疑",
+      "aliases": ["常山王"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "诸侯王",
+      "description": "孝惠后宫子，吕后立为常山王。高后二年薨，以其弟襄城侯山为常山王（更名义）。",
+      "evidence": ["P9", "P10"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liutai",
+      "name": "刘太",
+      "aliases": ["平昌侯", "吕王", "济川王"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "诸侯王",
+      "description": "孝惠后宫子，封平昌侯。高后七年立为吕王（时更名梁曰吕、吕曰济川，太遂为济川王）。吕后崩后，大臣以非真孝惠子，与梁、淮阳、常山王及少帝并诛灭。",
+      "evidence": ["P13", "P25", "P32"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuwu",
+      "name": "刘武",
+      "aliases": ["壶关侯", "淮阳王"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "诸侯王",
+      "description": "孝惠后宫子，封壶关侯，高后五年以淮阳王彊之弟为淮阳王。吕后崩后与梁、常山王及少帝同被诛灭。",
+      "evidence": ["P9", "P10", "P25", "P32"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuchao",
+      "name": "刘朝",
+      "aliases": ["轵侯", "常山王"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "诸侯王",
+      "description": "孝惠后宫子，封轵侯，后为常山王（先以轵侯朝为常山王，续以常山王义为帝）。吕后崩后与梁、淮阳王及少帝同被诛灭。",
+      "evidence": ["P9", "P10", "P25", "P32"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhangao",
+      "name": "张敖",
+      "aliases": ["宣平侯", "鲁元王"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "功臣、列侯",
+      "description": "封宣平侯，娶高祖之女鲁元公主，子张偃为鲁王。高后六年卒，赐谥鲁元王。",
+      "evidence": ["P8", "P15", "P19"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhangyan",
+      "name": "张偃",
+      "aliases": ["鲁王", "鲁元王"],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "诸侯王",
+      "description": "宣平侯张敖与鲁元公主之子，封鲁王。年少孤弱，吕后封张敖前姬二子（新都侯、乐昌侯）以辅之。吕后崩后鲁王偃被废。",
+      "evidence": ["P8", "P15", "P19", "P29"],
+      "source": "正文"
+    }
+  ],
+  "places": [
+    {
+      "id": "shiji-place-changan",
+      "name": "长安",
+      "type": "Place",
+      "modern": "今陕西西安一带，西汉都城",
+      "description": "汉都。吕后时筑长安城，四年就半、五六年城就。赵相周昌被征至长安、赵王刘友幽死葬长安民冢、济川王等居长安、代王至长安即天子位，皆在此。",
+      "evidence": ["P4", "P5", "P11", "P22", "P24", "P30"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yongxiang",
+      "name": "永巷",
+      "type": "Place",
+      "modern": "汉宫中的长巷，幽禁妃嫔之所，后改称掖庭（在掖门内，索隐、集解）",
+      "description": "别宫名，有长巷故名。吕后囚戚夫人于此，又幽少帝于永卷（永巷）。集解引列女传谓周宣王姜后待罪永巷、后改为掖庭。",
+      "evidence": ["P4", "P10"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-changleong",
+      "name": "长乐宫",
+      "type": "Place",
+      "modern": "汉长安城内的宫殿（今西安西北一带）",
+      "description": "汉初主要宫殿。高祖十二年四月崩于长乐宫。诛诸吕时朱虚侯刘章斩长乐卫尉吕更始于此。",
+      "evidence": ["P3", "P29"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-weiyanggong",
+      "name": "未央宫",
+      "type": "Place",
+      "modern": "汉长安城内的宫殿",
+      "description": "汉朝正宫。吕产入未央宫欲为乱，殿门不得入，旋被追杀；诸吕既诛，代王即夕入未央宫听政。",
+      "evidence": ["P28", "P29", "P31"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-xingyang",
+      "name": "荥阳",
+      "type": "Place",
+      "modern": "今河南荥阳一带",
+      "description": "军事要地。灌婴将兵击齐，至荥阳与齐、楚连和，留屯荥阳以待吕氏之变共诛之，后罢兵归。",
+      "evidence": ["P23", "P29"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-zhao",
+      "name": "赵",
+      "type": "Place",
+      "modern": "今河北南部一带（治邯郸）",
+      "description": "诸侯王国。高祖子如意、刘友、刘恢先后为王，吕禄亦立为赵王；吕后曾欲徙代王为赵王而未果。",
+      "evidence": ["P1", "P3", "P4", "P11", "P13", "P16", "P17", "P29"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-qi",
+      "name": "齐",
+      "type": "Place",
+      "modern": "今山东一带",
+      "description": "诸侯王国。高祖庶长子刘肥始封（齐悼惠王），后其子刘襄嗣。吕后分齐为四；齐王起兵西讨诸吕。",
+      "evidence": ["P3", "P5", "P13", "P22", "P23", "P24", "P29"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-liang",
+      "name": "梁",
+      "type": "Place",
+      "modern": "今河南东部一带",
+      "description": "诸侯王国。刘恢初封梁王，后吕产为梁王（更名梁曰吕），济川王刘太复徙王梁。",
+      "evidence": ["P3", "P13", "P29"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yan",
+      "name": "燕",
+      "type": "Place",
+      "modern": "今北京一带",
+      "description": "诸侯王国。高祖子刘建为燕王（燕灵王），其子被杀国除，吕后以吕通为燕王。",
+      "evidence": ["P3", "P17", "P29"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-huainan",
+      "name": "淮南",
+      "type": "Place",
+      "modern": "今安徽中部一带",
+      "description": "诸侯王国。高祖子刘长为淮南王；大臣议立新君时曾欲立淮南王。",
+      "evidence": ["P3", "P30"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-huaiyang",
+      "name": "淮阳",
+      "type": "Place",
+      "modern": "今河南淮阳一带",
+      "description": "诸侯王国。高祖子刘友初封淮阳王，后刘彊、刘武等相继为淮阳王。",
+      "evidence": ["P3", "P4", "P9", "P10", "P30"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-dai",
+      "name": "代",
+      "type": "Place",
+      "modern": "今山西北部、河北西北部一带",
+      "description": "诸侯王国。高祖子刘恒为代王，吕后欲徙其为赵王，代王愿守代边；诸吕诛灭后大臣迎立代王为天子。",
+      "evidence": ["P3", "P16", "P30", "P31"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-chu",
+      "name": "楚",
+      "type": "Place",
+      "modern": "今江苏北部一带（治彭城）",
+      "description": "诸侯王国。高祖弟刘交为楚王（楚元王）。诛诸吕之际，内外并称“齐、楚兵”。",
+      "evidence": ["P3", "P5", "P23", "P25"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-wu",
+      "name": "吴",
+      "type": "Place",
+      "modern": "今江苏南部、浙江北部一带",
+      "description": "诸侯王国。高祖兄子刘濞为吴王。",
+      "evidence": ["P3"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-changsha",
+      "name": "长沙",
+      "type": "Place",
+      "modern": "今湖南长沙一带",
+      "description": "诸侯王国。非刘氏功臣番君吴芮之子吴臣为长沙王。",
+      "evidence": ["P3"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-dingtao",
+      "name": "定陶",
+      "type": "Place",
+      "modern": "今山东定陶",
+      "description": "高祖为汉王时于此得戚姬，即戚夫人（定陶戚姬）。",
+      "evidence": ["P1"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-guandong",
+      "name": "关东",
+      "type": "Place",
+      "modern": "函谷关以东地区",
+      "description": "戚姬常从高祖之关东，日夜啼泣求立其子代太子。",
+      "evidence": ["P1"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-bashang",
+      "name": "霸上",
+      "type": "Place",
+      "modern": "今陕西西安东白鹿原一带",
+      "description": "地名。孝惠帝慈仁，知太后怒，自迎赵王如意于霸上，与入宫同起居饮食。",
+      "evidence": ["P4"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-chengyang",
+      "name": "城阳",
+      "type": "Place",
+      "modern": "今山东莒县一带",
+      "description": "齐国之郡。齐王刘肥献城阳之郡为鲁元公主汤沐邑，以脱祸于吕后。",
+      "evidence": ["P5"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-lu",
+      "name": "鲁",
+      "type": "Place",
+      "modern": "今山东曲阜一带",
+      "description": "封国。张敖赐谥鲁元王、张偃封鲁王，皆以鲁为号；吕后崩后鲁王偃被废。",
+      "evidence": ["P8", "P15", "P29"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-changshan",
+      "name": "常山",
+      "type": "Place",
+      "modern": "今河北正定一带（本汉东垣邑，索隐、正义）",
+      "description": "诸侯王国。正义引括地志谓常山故城在恒州真定县南。刘不疑、刘山（义）、刘朝等先后为常山王。",
+      "evidence": ["P9", "P10", "P25", "P32"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-xiangcheng",
+      "name": "襄城",
+      "type": "Place",
+      "modern": "今河南襄城（汉属颍川，索隐）",
+      "description": "县名，索隐谓襄城属颍川。刘山初封襄城侯。",
+      "evidence": ["P9"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-zhi",
+      "name": "轵",
+      "type": "Place",
+      "modern": "今河南济源东南（汉属河内，正义引括地志）",
+      "description": "县名，正义引括地志谓故轵城在怀州济源县东南。刘朝封轵侯；吕后祓还过轵道，见苍犬据其腋。",
+      "evidence": ["P9", "P10", "P18"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-huguan",
+      "name": "壶关",
+      "type": "Place",
+      "modern": "今山西长治一带（壶关县）",
+      "description": "县名。孝惠后宫子刘武封壶关侯，后为淮阳王。",
+      "evidence": ["P9", "P10"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-langya",
+      "name": "琅邪",
+      "type": "Place",
+      "modern": "今山东东南部（治东武）",
+      "description": "郡国。吕后封刘泽为琅邪王以慰其心；齐王起兵时诈夺琅邪王兵并将其军而西。",
+      "evidence": ["P13", "P22"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jichuan",
+      "name": "济川",
+      "type": "Place",
+      "modern": "今河南东部一带",
+      "description": "国名。吕后改国号（更名梁曰吕、吕曰济川），济川王刘太为少帝弟，年少未之国而居长安。",
+      "evidence": ["P13", "P25"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-dongmou",
+      "name": "东牟",
+      "type": "Place",
+      "modern": "今山东牟平一带",
+      "description": "县名。齐悼惠王之子刘兴居封东牟侯。",
+      "evidence": ["P10", "P22"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-beijun",
+      "name": "北军",
+      "type": "Place",
+      "modern": "汉初守卫京师的禁军营地（北营）",
+      "description": "京师禁军之一。吕禄为上将军军北军，太尉周勃持节入北军、行令“为吕氏右袒、为刘氏左袒”，尽得北军。",
+      "evidence": ["P6", "P20", "P27", "P28"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-nanjun",
+      "name": "南军",
+      "type": "Place",
+      "modern": "汉初守卫京师的禁军营地（南营）",
+      "description": "京师禁军之一。吕产等将兵居南北军，高后崩后吕产以相国居南军。",
+      "evidence": ["P6", "P20", "P28"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-changling",
+      "name": "长陵",
+      "type": "Place",
+      "modern": "今陕西咸阳东北，高祖陵",
+      "description": "高祖陵。集解皇甫谧、皇览谓高帝、吕后合葬长陵，山各一所。",
+      "evidence": ["P21"],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-place-anling",
+      "name": "安陵",
+      "type": "Place",
+      "modern": "今陕西咸阳北，惠帝陵",
+      "description": "惠帝陵。集解引汉书谓惠帝葬安陵，皇甫谧谓去长陵十里、在长安北三十五里。",
+      "evidence": ["P6"],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-place-bocheng",
+      "name": "博城",
+      "type": "Place",
+      "modern": "今山东泰安东南（本汉博城县，正义引括地志）",
+      "description": "县名。正义引括地志谓兖州博城本汉博城县。高祖功臣郎中令无择封博城侯。",
+      "evidence": ["P8"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-zhuxu",
+      "name": "朱虚",
+      "type": "Place",
+      "modern": "今山东临朐东（正义引括地志谓朱虚故城在青州临朐县东六十里）",
+      "description": "县名。齐悼惠王之子刘章封朱虚侯。",
+      "evidence": ["P8"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-pei",
+      "name": "沛",
+      "type": "Place",
+      "modern": "今江苏沛县（正义谓徐州沛县古城）",
+      "description": "县名。吕种封沛侯。",
+      "evidence": ["P8"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-fuliu",
+      "name": "扶柳",
+      "type": "Place",
+      "modern": "今河北冀州西南（正义引括地志谓在冀州信都县西三十里）",
+      "description": "县名，因泽中多柳故名。吕平封扶柳侯。",
+      "evidence": ["P8"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-huling",
+      "name": "胡陵",
+      "type": "Place",
+      "modern": "今山东鱼台一带（正义谓属山阳，章帝改曰胡陆）",
+      "description": "县名。吕禄初封胡陵侯，续建成康侯吕释之后。",
+      "evidence": ["P9"],
+      "source": "正文"
+    }
+  ],
+  "events": [
+    {
+      "id": "shiji-event-chengzhi",
+      "name": "吕后临朝称制",
+      "type": "Event",
+      "participants": ["shiji-person-lvhou"],
+      "place": "shiji-place-changan",
+      "description": "孝惠帝崩、太子即位为帝后，号令一出太后。吕后称制，行天子之事，议立诸吕为王，开启诸吕专权之局。",
+      "evidence": ["P6", "P7"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-renzhi",
+      "name": "幽禁戚夫人为人彘",
+      "type": "Event",
+      "participants": ["shiji-person-lvhou", "shiji-person-qifuren"],
+      "place": "shiji-place-yongxiang",
+      "description": "吕后囚戚夫人于永巷，断其手足、去眼、熏耳、饮瘖药，置于厕中称为“人彘”，并召孝惠帝观看，致惠帝大哭病岁余不能起。",
+      "evidence": ["P4"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-zhen-sha-zhaowang",
+      "name": "鸩杀赵王如意",
+      "type": "Event",
+      "participants": ["shiji-person-lvhou", "shiji-person-liuruyi", "shiji-person-liuying", "shiji-person-zhouchang"],
+      "place": "shiji-place-changan",
+      "description": "吕后三召赵王，赵相周昌拒遣，昌被征至长安后赵王被召。惠帝元年十二月，吕后乘惠帝晨出射、赵王独居之机，使人持鸩饮之，赵王死。",
+      "evidence": ["P4"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-bao-taizi",
+      "name": "留侯策保太子",
+      "type": "Event",
+      "participants": ["shiji-person-zhangliang", "shiji-person-liuying", "shiji-person-liuruyi"],
+      "place": null,
+      "description": "高祖常欲废太子而立戚姬子如意，赖大臣争之及留侯张良之策（索隐谓请商山四皓），太子得毋废。",
+      "evidence": ["P1"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-wangling-mianxiang",
+      "name": "王陵免相",
+      "type": "Event",
+      "participants": ["shiji-person-lvhou", "shiji-person-wangling", "shiji-person-chenping", "shiji-person-zhoubo"],
+      "place": null,
+      "description": "王陵以“非刘氏而王，天下共击之”之盟反对王诸吕，被吕后拜为帝太傅夺相权，遂称病免归；吕后以陈平为右丞相、审食其为左丞相。",
+      "evidence": ["P7"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-wang-zhu-lv",
+      "name": "分封诸吕为王",
+      "type": "Event",
+      "participants": ["shiji-person-lvhou", "shiji-person-lvtai", "shiji-person-lvchan", "shiji-person-lvlu", "shiji-person-lvjia"],
+      "place": null,
+      "description": "吕后先封高祖功臣及诸吕为侯，追尊酈侯父吕泽为悼武王为渐，乃立酈侯吕台为吕王；后吕禄续康侯后、吕嘉代立为吕王、吕产为吕王梁王，又封吕嬃临光侯等。",
+      "evidence": ["P7", "P8", "P9", "P10"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-qi-xian-chengyang",
+      "name": "齐王献城阳郡脱祸",
+      "type": "Event",
+      "participants": ["shiji-person-liufei", "shiji-person-lvhou", "shiji-person-luyuan"],
+      "place": "shiji-place-chengyang",
+      "description": "惠帝二年齐王刘肥入朝，坐于上座触怒吕后，几被鸩杀；齐内史士献策献城阳之郡为鲁元公主汤沐邑，吕后喜而放归齐王。",
+      "evidence": ["P5"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-huidi-beng",
+      "name": "孝惠帝崩与吕氏权兴",
+      "type": "Event",
+      "participants": ["shiji-person-liuying", "shiji-person-lvhou", "shiji-person-zhangpiqiang", "shiji-person-lvtai", "shiji-person-lvlu"],
+      "place": null,
+      "description": "孝惠帝七年秋八月崩。吕后哭而不悲，留侯子张辟彊献策，请拜吕台、吕产、吕禄为将，将兵居南北军，诸吕皆入宫用事；吕后心安，哭乃哀，吕氏之权由此而起。",
+      "evidence": ["P6"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-you-shaodi",
+      "name": "幽杀前少帝",
+      "type": "Event",
+      "participants": ["shiji-person-lvhou", "shiji-person-shaodi"],
+      "place": "shiji-place-yongxiang",
+      "description": "孝惠皇后取美人子诈为己出而立为太子，惠帝崩后即位。少帝长而知己母见杀，出言怨望，吕后幽之于永卷、言帝病甚，废其位并幽杀之。",
+      "evidence": ["P10"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-li-hong-wei-di",
+      "name": "改立少帝弘",
+      "type": "Event",
+      "participants": ["shiji-person-lvhou", "shiji-person-liuhong", "shiji-person-liuchao"],
+      "place": null,
+      "description": "吕后幽杀前少帝后，立常山王义为帝，更名弘，不称元年，以太后称制天下事；以轵侯刘朝为常山王。又置太尉官，以绛侯周勃为太尉。",
+      "evidence": ["P10"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-you-zhaowang-you",
+      "name": "幽杀赵王刘友",
+      "type": "Event",
+      "participants": ["shiji-person-lvhou", "shiji-person-liuyou"],
+      "place": "shiji-place-changan",
+      "description": "高后七年正月，吕后召赵王刘友。友不爱诸吕女为后，吕女谗之。刘友被置邸围守、不予饮食，饿而作歌，幽死于长安，以民礼葬之。",
+      "evidence": ["P11"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-liangwang-zisha",
+      "name": "梁王刘恢自杀",
+      "type": "Event",
+      "participants": ["shiji-person-liuhui", "shiji-person-lvchan"],
+      "place": null,
+      "description": "刘恢徙王赵后心怀不乐，吕产女为赵王后，其从官皆诸吕，鸩杀刘恢所爱姬。刘恢悲而作歌诗四章，六月自杀；吕后以为用妇人弃宗庙礼，废其嗣。",
+      "evidence": ["P14"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-daiwang-ci-zhao",
+      "name": "代王辞徙赵",
+      "type": "Event",
+      "participants": ["shiji-person-lvhou", "shiji-person-liuheng"],
+      "place": "shiji-place-dai",
+      "description": "高后七年秋，吕后使使告代王，欲徙其为赵王。代王谢，愿守代边，故得免徙。",
+      "evidence": ["P16"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-canggou",
+      "name": "苍犬之祟",
+      "type": "Event",
+      "participants": ["shiji-person-lvhou", "shiji-person-liuruyi"],
+      "place": "shiji-place-zhi",
+      "description": "高后八年三月，吕后祓还过轵道，见物如苍犬，据其腋，忽而不见。卜之，云赵王如意为祟，高后遂病腋伤。",
+      "evidence": ["P18"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-lvhou-beng",
+      "name": "吕后病崩",
+      "type": "Event",
+      "participants": ["shiji-person-lvhou", "shiji-person-lvlu", "shiji-person-lvchan"],
+      "place": null,
+      "description": "七月中吕后病甚，令赵王吕禄为上将军军北军、吕王吕产居南军，诫以据兵卫宫、慎毋送丧。辛巳高后崩，遗诏赐诸侯王各千金，以吕产为相国、吕禄女为帝后。",
+      "evidence": ["P20"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-qiwang-qibing",
+      "name": "齐王起兵讨诸吕",
+      "type": "Event",
+      "participants": ["shiji-person-liuxiang", "shiji-person-liuzhang", "shiji-person-liuxingju", "shiji-person-zhaoping", "shiji-person-liuze"],
+      "place": "shiji-place-qi",
+      "description": "朱虚侯刘章阴令人告其兄齐王刘襄，欲令发兵西诛诸吕而自立，自为内应。齐王欲发兵，相召平不听而反，齐王杀之，遂发兵东，诈夺琅邪王刘泽兵并将而西，遗书诸侯共诛不当为王者。",
+      "evidence": ["P22", "P23"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-guanying-tun-xingyang",
+      "name": "灌婴屯荥阳连和",
+      "type": "Event",
+      "participants": ["shiji-person-guanying", "shiji-person-lvchan", "shiji-person-liuxiang"],
+      "place": "shiji-place-xingyang",
+      "description": "相国吕产等遣颍阴侯灌婴将兵击齐。灌婴至荥阳，谋不以破齐益吕氏之资，留屯荥阳，使使谕齐王及诸侯与连和，以待吕氏之变共诛之；齐王乃还兵西界待约。",
+      "evidence": ["P23"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-zhoubo-duo-beijun",
+      "name": "周勃入北军夺兵权",
+      "type": "Event",
+      "participants": ["shiji-person-zhoubo", "shiji-person-lvlu", "shiji-person-liji", "shiji-person-jitong", "shiji-person-liujie", "shiji-person-lishang", "shiji-person-chenping"],
+      "place": "shiji-place-beijun",
+      "description": "太尉周勃不得入军中主兵，与丞相陈平谋劫郦商，令其子郦寄诱说吕禄归将印。襄平侯纪通持节矫纳太尉入北军，刘揭、郦寄再说吕禄，吕禄解印以兵授太尉。周勃行令“为吕氏右袒、为刘氏左袒”，尽得北军。",
+      "evidence": ["P25", "P27"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-zhu-lv",
+      "name": "诛灭诸吕",
+      "type": "Event",
+      "participants": ["shiji-person-liuzhang", "shiji-person-lvchan", "shiji-person-lvlu", "shiji-person-lvxu", "shiji-person-zhoubo", "shiji-person-chenping", "shiji-person-lvtong"],
+      "place": "shiji-place-weiyanggong",
+      "description": "太尉令朱虚侯监军门，遣其入宫卫帝。朱虚侯追杀吕产于郎中府吏厕中，又斩长乐卫尉吕更始。周勃遂分部悉捕诸吕男女，无少长皆斩之；捕斩吕禄、笞杀吕嬃，使人诛燕王吕通，废鲁王偃。",
+      "evidence": ["P28", "P29"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-fei-shaodi",
+      "name": "废少帝除宫",
+      "type": "Event",
+      "participants": ["shiji-person-liuxingju", "shiji-person-tenggong", "shiji-person-liuhong"],
+      "place": "shiji-place-weiyanggong",
+      "description": "东牟侯刘兴居与太仆汝阴侯滕公入宫，谓少帝非刘氏不当立，麾左右执戟者罢兵，以乘舆车载少帝出舍于少府，奉天子法驾迎代王于邸。",
+      "evidence": ["P31"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-yingli-daiwang",
+      "name": "迎立代王",
+      "type": "Event",
+      "participants": ["shiji-person-liuheng", "shiji-person-zhoubo", "shiji-person-chenping", "shiji-person-liuxingju"],
+      "place": "shiji-place-changan",
+      "description": "诸大臣阴议少帝及梁、淮阳、常山王皆非真孝惠子，欲立最贤者。议立齐王、淮南王皆以母家恶而止，终以代王最长仁孝、母家薄氏谨良而共迎立之。代王至长安，群臣奉天子玺上之，共尊为天子。",
+      "evidence": ["P30", "P31", "P32"],
+      "source": "正文"
+    }
+  ],
+  "offices": [
+    {
+      "id": "shiji-office-chengxiang",
+      "name": "丞相",
+      "description": "秦汉最高行政长官，有左、右之分。吕后本纪中有右丞相王陵、左丞相陈平（后为右丞相）。",
+      "evidence": ["P6", "P7", "P17", "P25", "P28"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-xiangguo",
+      "name": "相国",
+      "description": "百官之长，位尊于丞相。高后崩后以吕王吕产为相国；诛诸吕时相国吕产谋乱关中。",
+      "evidence": ["P21", "P23", "P28"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-taiwei",
+      "name": "太尉",
+      "description": "最高军事长官。高后四年置太尉官，绛侯周勃为太尉；诛诸吕时周勃以太尉入北军夺兵权。",
+      "evidence": ["P10", "P27", "P31"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-taifu",
+      "name": "太傅",
+      "description": "帝王之师，位尊而无实权。王陵被拜为帝太傅以夺其相权，审食其亦为帝太傅。",
+      "evidence": ["P7", "P13", "P21", "P29"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-yushidafu",
+      "name": "御史大夫",
+      "description": "副丞相，掌监察。平阳侯曹窋行御史大夫事，闻贾寿语而驰告丞相、太尉。",
+      "evidence": ["P27"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-langzhongling",
+      "name": "郎中令",
+      "description": "掌宫殿门户（集解引百官表，其府在宫中，后转为光禄勋）。无名择为郎中令封博城侯；贾寿任郎中令。",
+      "evidence": ["P8", "P27", "P28"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-dayezhe",
+      "name": "大谒者",
+      "description": "掌宾赞受事之官，诸官加“中”者多为奄人（集解如淳）。中大谒者张释封建陵侯。",
+      "evidence": ["P19"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-dianke",
+      "name": "典客",
+      "description": "秦官，掌诸侯及归义蛮夷（集解引汉书百官表）。刘揭为典客，受吕禄所解将印。",
+      "evidence": ["P27"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-weiwei",
+      "name": "卫尉",
+      "description": "掌宫门卫屯兵。诛吕产时太尉令平阳侯告卫尉，毋入相国产殿门；长乐卫尉吕更始为朱虚侯所斩。",
+      "evidence": ["P28", "P29"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-taipu",
+      "name": "太仆",
+      "description": "掌舆马之官。汝阴侯滕公（夏侯婴）为太仆，废少帝时以乘舆车载少帝出宫。",
+      "evidence": ["P31"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-shangjiangjun",
+      "name": "上将军",
+      "description": "将军之最尊者。高后病中令赵王吕禄为上将军、军北军，掌京师北军兵权。",
+      "evidence": ["P20", "P27"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-dajiangjun",
+      "name": "大将军",
+      "description": "高级武职。营陵侯刘泽为大将军；吕后王诸吕时恐其崩后刘泽为害，故封其为琅邪王。",
+      "evidence": ["P13"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-neishi",
+      "name": "内史",
+      "description": "诸侯国官，掌民政。齐内史士说齐王献城阳之郡为鲁元公主汤沐邑以脱祸。",
+      "evidence": ["P5"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-shizhong",
+      "name": "侍中",
+      "description": "入侍天子之加官（集解应劭）。留侯子张辟彊年十五为侍中，献计于丞相。",
+      "evidence": ["P6"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-yezhe",
+      "name": "谒者",
+      "description": "掌宾赞受事之官。诛吕产时帝命谒者持节劳朱虚侯；代王入宫时有谒者十人持戟卫端门。",
+      "evidence": ["P29", "P31"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-huanguanling",
+      "name": "宦者令",
+      "description": "掌宫中宦者之长。诸中宦者令丞皆为关内侯，食邑五百户；宦者令张泽谕告不肯去兵者。",
+      "evidence": ["P19", "P31"],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-shaofu",
+      "name": "少府",
+      "description": "掌皇室财政之官。少府延为梧侯；废少帝后，少帝被舍于少府。",
+      "evidence": ["P8", "P31"],
+      "source": "正文"
+    }
+  ],
+  "relations": [
+    { "subject": "shiji-person-lvhou", "predicate": "mother_of", "object": "shiji-person-liuying", "evidence": ["P1"], "source": "正文" },
+    { "subject": "shiji-person-lvhou", "predicate": "mother_of", "object": "shiji-person-luyuan", "evidence": ["P1"], "source": "正文" },
+    { "subject": "shiji-person-gaozu", "predicate": "married", "object": "shiji-person-lvhou", "evidence": ["P1"], "source": "正文" },
+    { "subject": "shiji-person-gaozu", "predicate": "father_of", "object": "shiji-person-liuying", "evidence": ["P1"], "source": "正文" },
+    { "subject": "shiji-person-gaozu", "predicate": "father_of", "object": "shiji-person-liufei", "evidence": ["P3"], "source": "正文" },
+    { "subject": "shiji-person-gaozu", "predicate": "father_of", "object": "shiji-person-liuruyi", "evidence": ["P1", "P3"], "source": "正文" },
+    { "subject": "shiji-person-gaozu", "predicate": "father_of", "object": "shiji-person-liuheng", "evidence": ["P3"], "source": "正文" },
+    { "subject": "shiji-person-gaozu", "predicate": "father_of", "object": "shiji-person-liuhui", "evidence": ["P3"], "source": "正文" },
+    { "subject": "shiji-person-gaozu", "predicate": "father_of", "object": "shiji-person-liuyou", "evidence": ["P3"], "source": "正文" },
+    { "subject": "shiji-person-gaozu", "predicate": "father_of", "object": "shiji-person-liuchang", "evidence": ["P3"], "source": "正文" },
+    { "subject": "shiji-person-gaozu", "predicate": "father_of", "object": "shiji-person-liujian", "evidence": ["P3"], "source": "正文" },
+    { "subject": "shiji-person-gaozu", "predicate": "brother_of", "object": "shiji-person-liujiao", "evidence": ["P3"], "source": "正文" },
+    { "subject": "shiji-person-qifuren", "predicate": "mother_of", "object": "shiji-person-liuruyi", "evidence": ["P1"], "source": "正文" },
+    { "subject": "shiji-person-bofuren", "predicate": "mother_of", "object": "shiji-person-liuheng", "evidence": ["P3"], "source": "正文" },
+    { "subject": "shiji-person-lvgong", "predicate": "father_of", "object": "shiji-person-lvhou", "evidence": ["P1"], "source": "注疏" },
+    { "subject": "shiji-person-lvgong", "predicate": "father_of", "object": "shiji-person-lvze", "evidence": ["P1", "P2"], "source": "注疏" },
+    { "subject": "shiji-person-lvgong", "predicate": "father_of", "object": "shiji-person-lvshizhi", "evidence": ["P1", "P2"], "source": "注疏" },
+    { "subject": "shiji-person-lvze", "predicate": "father_of", "object": "shiji-person-lvtai", "evidence": ["P2"], "source": "正文" },
+    { "subject": "shiji-person-lvze", "predicate": "father_of", "object": "shiji-person-lvchan", "evidence": ["P2"], "source": "正文" },
+    { "subject": "shiji-person-lvshizhi", "predicate": "father_of", "object": "shiji-person-lvlu", "evidence": ["P9"], "source": "正文" },
+    { "subject": "shiji-person-lvtai", "predicate": "father_of", "object": "shiji-person-lvjia", "evidence": ["P9"], "source": "正文" },
+    { "subject": "shiji-person-lvtai", "predicate": "father_of", "object": "shiji-person-lvtong", "evidence": ["P17"], "source": "正文" },
+    { "subject": "shiji-person-lvhou", "predicate": "sibling_of", "object": "shiji-person-lvze", "evidence": ["P2"], "source": "正文" },
+    { "subject": "shiji-person-lvhou", "predicate": "sibling_of", "object": "shiji-person-lvshizhi", "evidence": ["P2"], "source": "正文" },
+    { "subject": "shiji-person-lvhou", "predicate": "sister_of", "object": "shiji-person-lvxu", "evidence": ["P13"], "source": "正文" },
+    { "subject": "shiji-person-lvchan", "predicate": "sibling_of", "object": "shiji-person-lvtai", "evidence": ["P9"], "source": "正文" },
+    { "subject": "shiji-person-fankuai", "predicate": "married", "object": "shiji-person-lvxu", "evidence": ["P13"], "source": "注疏" },
+    { "subject": "shiji-person-zhangao", "predicate": "married", "object": "shiji-person-luyuan", "evidence": ["P8"], "source": "正文" },
+    { "subject": "shiji-person-zhangao", "predicate": "father_of", "object": "shiji-person-zhangyan", "evidence": ["P15"], "source": "正文" },
+    { "subject": "shiji-person-luyuan", "predicate": "mother_of", "object": "shiji-person-zhangyan", "evidence": ["P8"], "source": "正文" },
+    { "subject": "shiji-person-liufei", "predicate": "father_of", "object": "shiji-person-liuxiang", "evidence": ["P22"], "source": "正文" },
+    { "subject": "shiji-person-liufei", "predicate": "father_of", "object": "shiji-person-liuzhang", "evidence": ["P8", "P22"], "source": "正文" },
+    { "subject": "shiji-person-liufei", "predicate": "father_of", "object": "shiji-person-liuxingju", "evidence": ["P22"], "source": "正文" },
+    { "subject": "shiji-person-liuxiang", "predicate": "sibling_of", "object": "shiji-person-liuzhang", "evidence": ["P22"], "source": "正文" },
+    { "subject": "shiji-person-liuxiang", "predicate": "sibling_of", "object": "shiji-person-liuxingju", "evidence": ["P22"], "source": "正文" },
+    { "subject": "shiji-person-liuying", "predicate": "father_of", "object": "shiji-person-liuhong", "evidence": ["P10"], "source": "正文" },
+    { "subject": "shiji-person-lvhou", "predicate": "killed", "object": "shiji-person-qifuren", "evidence": ["P4"], "source": "正文" },
+    { "subject": "shiji-person-lvhou", "predicate": "killed", "object": "shiji-person-liuruyi", "evidence": ["P4"], "source": "正文" },
+    { "subject": "shiji-person-lvhou", "predicate": "killed", "object": "shiji-person-liuyou", "evidence": ["P11"], "source": "正文" },
+    { "subject": "shiji-person-lvhou", "predicate": "killed", "object": "shiji-person-shaodi", "evidence": ["P10"], "source": "正文" },
+    { "subject": "shiji-person-zhoubo", "predicate": "killed", "object": "shiji-person-lvlu", "evidence": ["P29"], "source": "正文" },
+    { "subject": "shiji-person-zhoubo", "predicate": "killed", "object": "shiji-person-lvxu", "evidence": ["P29"], "source": "正文" },
+    { "subject": "shiji-person-zhoubo", "predicate": "killed", "object": "shiji-person-lvtong", "evidence": ["P29"], "source": "正文" },
+    { "subject": "shiji-person-liuzhang", "predicate": "killed", "object": "shiji-person-lvchan", "evidence": ["P29"], "source": "正文" },
+    { "subject": "shiji-person-lvhou", "predicate": "appointed", "object": "shiji-person-lvtai", "evidence": ["P9"], "source": "正文" },
+    { "subject": "shiji-person-lvhou", "predicate": "appointed", "object": "shiji-person-lvchan", "evidence": ["P9", "P13"], "source": "正文" },
+    { "subject": "shiji-person-lvhou", "predicate": "appointed", "object": "shiji-person-lvlu", "evidence": ["P20"], "source": "正文" },
+    { "subject": "shiji-person-lvhou", "predicate": "appointed", "object": "shiji-person-zhoubo", "evidence": ["P10"], "source": "正文" },
+    { "subject": "shiji-person-lvhou", "predicate": "appointed", "object": "shiji-person-chenping", "evidence": ["P7"], "source": "正文" },
+    { "subject": "shiji-person-lvhou", "predicate": "appointed", "object": "shiji-person-shenshiji", "evidence": ["P7"], "source": "正文" },
+    { "subject": "shiji-person-lvhou", "predicate": "appointed", "object": "shiji-person-wangling", "evidence": ["P7"], "source": "正文" },
+    { "subject": "shiji-person-lvhou", "predicate": "appointed", "object": "shiji-person-liuze", "evidence": ["P13"], "source": "正文" },
+    { "subject": "shiji-person-lvhou", "predicate": "appointed", "object": "shiji-person-liuzhang", "evidence": ["P8"], "source": "正文" },
+    { "subject": "shiji-person-lvchan", "predicate": "appointed", "object": "shiji-person-guanying", "evidence": ["P23"], "source": "正文" },
+    { "subject": "shiji-person-zhoubo", "predicate": "appointed", "object": "shiji-person-liuheng", "evidence": ["P30", "P31"], "source": "正文" }
+  ]
+}

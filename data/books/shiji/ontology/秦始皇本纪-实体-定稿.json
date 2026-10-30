@@ -1,0 +1,2932 @@
+{
+ "book": "shiji",
+ "chapter": "秦始皇本纪",
+ "persons": [
+  {
+   "id": "shiji-person-yingzheng",
+   "name": "秦始皇",
+   "aliases": [
+    "嬴政",
+    "秦王政",
+    "始皇帝",
+    "趙政",
+    "政",
+    "呂政",
+    "皇帝",
+    "祖龍"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "秦王、皇帝",
+   "description": "秦莊襄王之子，名政，年十三歲即秦王位，用呂不韋為相、李斯為舍人。十七年至二十六年先後滅韓、趙、魏、楚、燕、齊，統一天下，自號「始皇帝」，行郡縣、同文字度量，數東巡刻石。三十七年崩於沙丘平臺。注疏載其母本呂不韋姬，故有「呂政」之稱。",
+   "evidence": [
+    "P0",
+    "P27",
+    "P55"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-zhuangxiangwang",
+   "name": "秦莊襄王",
+   "aliases": [
+    "莊襄王",
+    "子楚",
+    "子異",
+    "太上皇"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "秦國君",
+   "description": "秦昭襄王之孫、孝文王之子，名子楚。曾為質子於趙，見呂不韋姬，悅而取之，生始皇。在位三年，始皇即位後追尊為太上皇。注疏引不韋傳稱其本名子異，因認華陽夫人（楚人）為母而改名子楚。",
+   "evidence": [
+    "P0",
+    "P27",
+    "P112"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-zhaoji",
+   "name": "秦始皇母",
+   "aliases": [
+    "太后",
+    "帝太后"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "太后",
+   "description": "呂不韋之姬，善歌舞，被質於趙的子楚取之而生始皇。始皇九年嫪毐之亂後被遷於雍，經茅焦進諫，秦王乃迎歸咸陽、居甘泉宮。二十年太后崩。注疏稱其為邯鄲豪家女，不韋有娠而獻於子楚。",
+   "evidence": [
+    "P0",
+    "P9",
+    "P10",
+    "P19"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-lvbuwei",
+   "name": "呂不韋",
+   "aliases": [
+    "文信侯",
+    "相國不韋",
+    "不韋",
+    "呂不韋"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "相國",
+   "description": "陽翟大賈。以姬獻莊襄王並輔立其子政，莊襄王時為相，封文信侯，食十萬戶，招致賓客游士。始皇十年以嫪毐事坐免相，十二年飲酖自殺，賓客竊葬於洛陽北邙。注疏謂其姬有娠而獻子楚，遂有始皇為其子之傳聞。",
+   "evidence": [
+    "P0",
+    "P10",
+    "P12"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-laoai",
+   "name": "嫪毐",
+   "aliases": [
+    "長信侯",
+    "毐"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "長信侯、太后幸臣",
+   "description": "以宦者名入侍太后，封長信侯，賜山陽地，宮室車馬恣其所欲，事無小大皆決於毐。始皇九年矯王御璽及太后璽發卒作亂，欲攻蘄年宮，敗走，秦懸賞捕得，車裂以徇，滅其宗。注疏稱其為邯鄲人，姓嫪名毐。",
+   "evidence": [
+    "P8",
+    "P9"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-lisi",
+   "name": "李斯",
+   "aliases": [
+    "丞相斯",
+    "廷尉斯",
+    "左丞相斯",
+    "斯"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "廷尉、丞相",
+   "description": "初為呂不韋舍人。秦王政時上書說止逐客令，並請先取韓以恐他國。秦統一天下後任廷尉，議帝號、行郡縣、請焚詩書。二世時為左丞相，因與馮去疾等諫罷阿房宮之作下獄，就五刑。注疏載會稽等刻石文字皆出其手。",
+   "evidence": [
+    "P0",
+    "P10",
+    "P27",
+    "P47",
+    "P65",
+    "P66"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-mengtian",
+   "name": "蒙恬",
+   "aliases": [
+    "蒙恬"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "將軍",
+   "description": "蒙驁之孫、蒙武之子，秦名將。始皇三十二年率兵三十萬北擊匈奴，略取河南地，築亭障、長城以逐戎人。始皇崩後，趙高矯詔賜死；同時受詔被賜死者尚有扶蘇。注疏引蒙驁為其祖、蒙武為其父。",
+   "evidence": [
+    "P45",
+    "P46",
+    "P50",
+    "P55"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-fusu",
+   "name": "扶蘇",
+   "aliases": [
+    "公子扶蘇",
+    "始皇長子"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "公子",
+   "description": "秦始皇長子。始皇坑術士於咸陽，扶蘇進諫謂天下初定、恐其不安，始皇怒而遣其北監蒙恬軍於上郡。始皇崩，趙高與李斯矯詔賜扶蘇、蒙恬死。",
+   "evidence": [
+    "P50",
+    "P55"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-huhai",
+   "name": "胡亥",
+   "aliases": [
+    "二世皇帝",
+    "秦二世",
+    "二世",
+    "少子胡亥"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "秦二世皇帝",
+   "description": "秦始皇少子。三十七年從始皇出遊，沙丘之變中與趙高、李斯合謀矯詔自立為太子，襲位為二世皇帝，年二十一。誅大臣及諸公子，復作阿房宮，任趙高為郎中令、丞相。三年為閻樂所逼，自殺於望夷宮。",
+   "evidence": [
+    "P52",
+    "P55",
+    "P56",
+    "P61",
+    "P67"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-zhaogao",
+   "name": "趙高",
+   "aliases": [
+    "中車府令",
+    "郎中令",
+    "丞相高",
+    "安武侯"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "中車府令、郎中令、丞相",
+   "description": "原為中車府令，兼行符璽事，嘗教胡亥書及獄律令法事。始皇崩於沙丘，與胡亥、李斯陰謀矯詔立胡亥，又詐書賜死扶蘇、蒙恬。二世時為郎中令、遷丞相，誅殺大臣諸公子，指鹿為馬以驗羣臣。逼殺二世於望夷宮，立子嬰為秦王，終被子嬰刺殺，三族其家。",
+   "evidence": [
+    "P55",
+    "P57",
+    "P66",
+    "P67",
+    "P68"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-mengao",
+   "name": "蒙驁",
+   "aliases": [
+    "將軍驁"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "將軍",
+   "description": "秦名將，蒙武之父、蒙恬之祖。元年擊定晉陽之反，三年攻韓取十三城，歷年攻魏、趙，定酸棗、虛、長平、雍丘、山陽等城，取二十城置東郡。七年卒。注疏稱其為齊人。",
+   "evidence": [
+    "P0",
+    "P1",
+    "P3",
+    "P5",
+    "P7"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-mengwu",
+   "name": "蒙武",
+   "aliases": [
+    "蒙武"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "將軍",
+   "description": "蒙驁之子、蒙恬之父。二十四年與王翦攻荊（楚），破荊軍，昌平君死，項燕自殺。",
+   "evidence": [
+    "P24"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-wangjian",
+   "name": "王翦",
+   "aliases": [
+    "王翦"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "將軍",
+   "description": "秦名將。十八年將上地攻趙、下井陘，十九年盡定取趙地得趙王，二十三年伐荊虜荊王，二十四年與蒙武破荊軍，二十五年遂定荊江南地。二十一年曾謝病老歸，後復被召強起。",
+   "evidence": [
+    "P18",
+    "P19",
+    "P21",
+    "P23",
+    "P24",
+    "P25"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-wangben",
+   "name": "王賁",
+   "aliases": [
+    "王賁",
+    "通武侯"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "將軍",
+   "description": "秦將。二十一年攻荊，破燕太子軍取燕薊城，得太子丹之首；二十二年攻魏，引河溝灌大梁，魏王請降；二十五年攻燕遼東得燕王喜，還攻代虜代王嘉；二十六年從燕南攻齊，得齊王建。二十八年從始皇東巡，為列侯通武侯。",
+   "evidence": [
+    "P21",
+    "P22",
+    "P25",
+    "P26",
+    "P36"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-huanyi",
+   "name": "桓齮",
+   "aliases": [
+    "桓齮"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "將軍",
+   "description": "秦將。十年為將軍，十一年與王翦、楊端和攻鄴取九城；十三年攻趙平陽，殺趙將扈輒、斬首十萬，定平陽、武城；十四年再攻趙。",
+   "evidence": [
+    "P10",
+    "P11",
+    "P13",
+    "P14"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-weiliao",
+   "name": "尉繚",
+   "aliases": [
+    "尉繚",
+    "秦國尉"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "秦國尉",
+   "description": "大梁人，入秦說秦王以財物賂諸侯豪臣以亂其謀，秦王從其計，與之亢禮、同衣服食飲。尉繚察秦王蜂準長目、虎狼之心，欲亡去，秦王固止，以為秦國尉，卒用其計策。",
+   "evidence": [
+    "P10"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-maojiao",
+   "name": "茅焦",
+   "aliases": [
+    "茅焦"
+   ],
+   "type": "Person",
+   "dynasty": "齊",
+   "role": "齊人、傅",
+   "description": "齊人。秦王遷母太后於雍，下令諫者死，死者二十七人。茅焦冒死進諫，責秦王車裂假父、囊撲兩弟、遷母不孝，秦王乃迎太后歸咸陽，立茅焦為傅、爵之上卿。注疏引說苑記其事。",
+   "evidence": [
+    "P10"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-changpingjun",
+   "name": "昌平君",
+   "aliases": [
+    "昌平君"
+   ],
+   "type": "Person",
+   "dynasty": "楚",
+   "role": "丞相、荊王",
+   "description": "楚之公子，秦以為相。嫪毐之亂，秦王令相國昌平君、昌文君發卒攻毐。後徙於郢。二十三年荊將項燕立昌平君為荊王，反秦於淮南；二十四年王翦、蒙武破荊軍，昌平君死。注疏謂史失其名。",
+   "evidence": [
+    "P9",
+    "P21",
+    "P23",
+    "P24"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-changwenjun",
+   "name": "昌文君",
+   "aliases": [
+    "昌文君"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "秦相",
+   "description": "秦相。嫪毐作亂，秦王令相國昌平君、昌文君發卒攻毐，戰於咸陽。注疏謂其名亦史失傳。",
+   "evidence": [
+    "P9"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-xufu",
+   "name": "徐巿",
+   "aliases": [
+    "徐巿",
+    "徐福"
+   ],
+   "type": "Person",
+   "dynasty": "齊",
+   "role": "方士",
+   "description": "齊人方士。二十八年上書言海中有蓬萊、方丈、瀛洲三神山，僊人居之，始皇遣其發童男女數千人入海求僊人。後數歲不得，費多恐譴，詐言蓬萊藥為大鮫魚所苦，請善射者以連弩射之。",
+   "evidence": [
+    "P37",
+    "P54"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-lusheng",
+   "name": "盧生",
+   "aliases": [
+    "盧生"
+   ],
+   "type": "Person",
+   "dynasty": "燕",
+   "role": "方士",
+   "description": "燕人方士。三十二年受遣求羨門、高誓。曾說始皇所居宮毋令人知方可得不死之藥。後與侯生誹謗始皇而亡去，遂引發始皇案問諸生、坑術士之舉。",
+   "evidence": [
+    "P45",
+    "P49",
+    "P50"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-housheng",
+   "name": "侯生",
+   "aliases": [
+    "侯生"
+   ],
+   "type": "Person",
+   "dynasty": "韓",
+   "role": "方士",
+   "description": "方士，注疏稱其為韓客。與盧生相與謀，非議始皇天性剛戾自用、專任獄吏、貪於權勢，遂亡去，引發始皇大怒、案問諸生、坑四百六十餘人於咸陽。",
+   "evidence": [
+    "P50"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-hanfei",
+   "name": "韓非",
+   "aliases": [
+    "韓非"
+   ],
+   "type": "Person",
+   "dynasty": "韓",
+   "role": "韓公子、法家",
+   "description": "韓國公子。秦王政十四年使秦，秦用李斯謀留之，非死於雲陽。此前韓王曾與韓非謀弱秦。",
+   "evidence": [
+    "P10",
+    "P14"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-zhanghan",
+   "name": "章邯",
+   "aliases": [
+    "少府章邯",
+    "章邯"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "少府、將軍",
+   "description": "秦少府。二世二年陳涉所遣周章等西至戲，章邯請赦酈山徒授兵以擊之，大破周章軍，殺陳勝於城父，破項梁於定陶，滅魏咎於臨濟，北渡河擊趙王歇於鉅鹿。三年戰數卻，為項羽所迫，遂以兵降諸侯。",
+   "evidence": [
+    "P64",
+    "P66",
+    "P67"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-xiangyan",
+   "name": "項燕",
+   "aliases": [
+    "荊將項燕",
+    "項燕"
+   ],
+   "type": "Person",
+   "dynasty": "楚",
+   "role": "楚將",
+   "description": "楚（荊）將。二十三年立昌平君為荊王，反秦於淮南；二十四年王翦、蒙武破荊軍，昌平君死，項燕遂自殺。",
+   "evidence": [
+    "P23",
+    "P24"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-xiangyu",
+   "name": "項羽",
+   "aliases": [
+    "項籍",
+    "西楚霸王",
+    "楚上將軍項羽"
+   ],
+   "type": "Person",
+   "dynasty": "楚",
+   "role": "楚上將軍、西楚霸王",
+   "description": "名籍。二世三年為楚上將軍，將楚卒往救鉅鹿，急擊秦軍，虜王離，章邯遂降。後諸侯兵至，項羽為從長，殺子嬰及秦諸公子宗族，屠咸陽、燒其宮室，號西楚霸王，主宰分封天下。",
+   "evidence": [
+    "P66",
+    "P68"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-chensheng",
+   "name": "陳勝",
+   "aliases": [
+    "陳涉",
+    "楚王"
+   ],
+   "type": "Person",
+   "dynasty": "楚",
+   "role": "戍卒、楚王",
+   "description": "秦末戍卒。二世元年七月反於故荊地，號「張楚」，自立為楚王，居陳，遣諸將徇地，山東郡縣少年殺秦吏響應。後為章邯所破，死於城父。賈誼過秦論稱其為甕牖繩樞之子、才能不及中人，而竟亡秦。",
+   "evidence": [
+    "P63",
+    "P64"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-zhouzhang",
+   "name": "周章",
+   "aliases": [
+    "周章",
+    "周文"
+   ],
+   "type": "Person",
+   "dynasty": "楚",
+   "role": "陳涉部將",
+   "description": "陳勝所遣將領。二世二年冬西至戲，兵數十萬，為少府章邯所將酈山徒擊破，敗走，被殺於曹陽。注疏引括地志謂曹陽故亭即章邯殺周文處。",
+   "evidence": [
+    "P64"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-ziying",
+   "name": "子嬰",
+   "aliases": [
+    "公子嬰",
+    "秦王嬰"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "秦王",
+   "description": "二世之兄子（注疏謂二世兄子）。趙高誅二世後立其為秦王，去帝號。子嬰稱病不行廟見，趙高自來，遂刺殺高於齋宮，三族高家。為秦王四十六日，沛公破秦軍入武關，子嬰係頸以組、白馬素車降於軹道旁，後為項籍所殺。",
+   "evidence": [
+    "P68"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-yanle",
+   "name": "閻樂",
+   "aliases": [
+    "咸陽令閻樂",
+    "閻樂"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "咸陽令",
+   "description": "趙高之婿，任咸陽令。二世三年，趙高與其及弟趙成謀，詐為有大賊，遣閻樂將吏卒千餘人至望夷宮殿門，斬衞令，直入行射，數二世之罪，逼其自殺。",
+   "evidence": [
+    "P67"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-zhaocheng",
+   "name": "趙成",
+   "aliases": [
+    "趙成"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "趙高之弟",
+   "description": "趙高之弟（注疏徐廣謂一云郎中令趙成）。與趙高、閻樂共謀誅二世，為望夷宮之變內應。",
+   "evidence": [
+    "P67"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-chunyuyue",
+   "name": "淳于越",
+   "aliases": [
+    "淳于越"
+   ],
+   "type": "Person",
+   "dynasty": "齊",
+   "role": "博士",
+   "description": "齊人博士。始皇三十四年置酒咸陽宮，淳于越進諫主張師古、封子弟功臣為枝輔，非議周青臣面諛，遂引發李斯請焚詩書之議。",
+   "evidence": [
+    "P47"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-zhouqingchen",
+   "name": "周青臣",
+   "aliases": [
+    "僕射周青臣"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "僕射",
+   "description": "秦僕射。始皇三十四年置酒咸陽宮，進頌始皇平定海內、以諸侯為郡縣之功，稱自上古不及陛下威德，始皇悅。",
+   "evidence": [
+    "P47"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-wangwan",
+   "name": "王綰",
+   "aliases": [
+    "丞相綰",
+    "丞相王綰"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "丞相",
+   "description": "秦丞相。二十六年議帝號，與御史大夫馮劫、廷尉李斯等上尊號「泰皇」，始皇去泰著皇號「皇帝」。後請立諸子為王以鎮燕、齊、荊，李斯反對，始皇從李斯議行郡縣。注疏謂其姓王名綰。",
+   "evidence": [
+    "P27",
+    "P29"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-fengjie",
+   "name": "馮劫",
+   "aliases": [
+    "御史大夫劫",
+    "將軍馮劫"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "御史大夫、將軍",
+   "description": "秦御史大夫。二十六年與丞相綰、廷尉斯議帝號。二世時為將軍，與右丞相去疾、左丞相斯進諫請止阿房宮之作、減省戍轉，二世怒，下吏案責，與去疾自殺。注疏徐廣謂其姓馮。",
+   "evidence": [
+    "P27",
+    "P65"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-weilin",
+   "name": "隗林",
+   "aliases": [
+    "丞相隗林",
+    "隗狀"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "丞相",
+   "description": "秦丞相。二十八年始皇東巡至琅邪，隗林與王綰、李斯等從，議於海上，頌秦功德、刻石。注疏引顏之推據秦量器銘文作「隗狀」。",
+   "evidence": [
+    "P36"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-wangli",
+   "name": "王離",
+   "aliases": [
+    "武城侯王離",
+    "王離"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "列侯、將軍",
+   "description": "秦將。二十八年從始皇東巡琅邪，為列侯武城侯，與議於海上。二世三年，項羽急擊秦軍於鉅鹿，王離被虜。",
+   "evidence": [
+    "P36",
+    "P66"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-jingke",
+   "name": "荊軻",
+   "aliases": [
+    "荊軻"
+   ],
+   "type": "Person",
+   "dynasty": "燕",
+   "role": "刺客",
+   "description": "燕太子丹所遣刺客。二十年受命刺秦王，事覺，秦王體解軻以徇。此次刺殺成為秦大舉攻燕之由。",
+   "evidence": [
+    "P20"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-yantaizidan",
+   "name": "燕太子丹",
+   "aliases": [
+    "太子丹",
+    "燕太子丹"
+   ],
+   "type": "Person",
+   "dynasty": "燕",
+   "role": "燕太子",
+   "description": "燕王喜之太子。患秦兵至國，陰令荊軻刺秦王，秦軍破燕易水之西。二十一年王賁破燕太子軍，取燕薊城，得太子丹之首。",
+   "evidence": [
+    "P20",
+    "P21"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-fengquji",
+   "name": "馮去疾",
+   "aliases": [
+    "右丞相去疾",
+    "去疾"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "右丞相",
+   "description": "秦右丞相。三十七年始皇出遊，右丞相去疾留守。二世時與左丞相斯、將軍馮劫進諫，請止阿房宮之作、減省四邊戍轉。二世怒，下吏案責，去疾與劫自殺。注疏徐廣謂其姓馮。",
+   "evidence": [
+    "P52",
+    "P65"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-jianglv",
+   "name": "公子將閭",
+   "aliases": [
+    "將閭",
+    "公子將閭"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "公子",
+   "description": "秦始皇之子。二世誅大臣諸公子，將閭昆弟三人被囚於內宮，二世遣使責其不臣當死，將閭申辯無罪，仰天三呼「天乎！吾無罪」，兄弟三人流涕拔劍自殺。",
+   "evidence": [
+    "P61"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-shangyang",
+   "name": "商鞅",
+   "aliases": [
+    "商君",
+    "衞公孫鞅",
+    "公孫鞅"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "左庶長、變法者",
+   "description": "衞人公孫鞅，即商君。入秦佐孝公變法，內立法度、務耕織、修守戰之備，外連衡而鬥諸侯，秦因而強盛，取西河之外，封之於商。注疏引索隱述其仕秦為左庶長、為秦制法、孝公致霸。",
+   "evidence": [
+    "P73"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-limu",
+   "name": "李牧",
+   "aliases": [
+    "李牧"
+   ],
+   "type": "Person",
+   "dynasty": "趙",
+   "role": "趙相、將",
+   "description": "趙國名將（相）。趙王曾使其相李牧來與秦約盟，秦歸其質子；後趙背盟反秦於太原，秦興兵伐之。",
+   "evidence": [
+    "P27"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-liubang",
+   "name": "沛公",
+   "aliases": [
+    "劉邦",
+    "沛公"
+   ],
+   "type": "Person",
+   "dynasty": "漢",
+   "role": "沛公",
+   "description": "秦末起兵於沛，稱沛公。二世時起兵響應反秦；子嬰為秦王四十六日，沛公破秦軍入武關、至霸上，使人約降子嬰，入咸陽封宮室府庫，還軍霸上。後為漢高祖。",
+   "evidence": [
+    "P63",
+    "P68"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-chengjiao",
+   "name": "成蟜",
+   "aliases": [
+    "長安君",
+    "王弟長安君",
+    "成蟜"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "長安君、將軍",
+   "description": "秦王政之弟，號長安君。八年將軍擊趙，反，死於屯留，軍吏皆斬死，遷其民於臨洮。注疏謂成蟜即長安君之名。",
+   "evidence": [
+    "P8"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-yangduanhe",
+   "name": "楊端和",
+   "aliases": [
+    "楊端和"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "將軍",
+   "description": "秦將。十年（九年末）攻衍氏；十一年與王翦、桓齮攻鄴取九城；十八年將河內，與王翦、羌瘣攻趙，圍邯鄲城。",
+   "evidence": [
+    "P9",
+    "P11",
+    "P18"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-jiayi",
+   "name": "賈誼",
+   "aliases": [
+    "賈生",
+    "賈誼"
+   ],
+   "type": "Person",
+   "dynasty": "漢",
+   "role": "政論家",
+   "description": "漢初政論家。太史公引其《過秦論》評論秦之興亡，以為秦以區區之地、千乘之權而統一天下，卻因「仁義不施」而速亡；二世不施仁政、暴虐重禍，遂致天下土崩。",
+   "evidence": [
+    "P69",
+    "P70",
+    "P80"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-simaqian",
+   "name": "司馬遷",
+   "aliases": [
+    "太史公",
+    "太史遷"
+   ],
+   "type": "Person",
+   "dynasty": "漢",
+   "role": "史官",
+   "description": "漢太史令，《史記》作者，本篇「太史公曰」的發出者。篇末附錄引漢明帝詔問班固評賈誼、司馬遷論秦之得失，亦論及太史遷贊語之是非。",
+   "evidence": [
+    "P69",
+    "P123"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-hanmingdi",
+   "name": "孝明皇帝",
+   "aliases": [
+    "漢明帝",
+    "明帝"
+   ],
+   "type": "Person",
+   "dynasty": "漢",
+   "role": "皇帝",
+   "description": "東漢明帝。永平十七年十月詔問班固《史記》贊語中是否有非議，班固上表陳秦過失及賈誼之論以答，後人因其說而附之於《秦始皇本紀》篇末。",
+   "evidence": [
+    "P123"
+   ],
+   "source": "附錄"
+  },
+  {
+   "id": "shiji-person-bangu",
+   "name": "班固",
+   "aliases": [
+    "班固"
+   ],
+   "type": "Person",
+   "dynasty": "漢",
+   "role": "史家",
+   "description": "東漢史家。受漢明帝詔問，評賈誼、司馬遷論秦二世亡天下之得失，以為賈誼「子嬰得中佐則秦未絕」之言非是。索隱謂篇末此段即漢孝明帝訪班固評賈、馬之辭，為後人所附。",
+   "evidence": [
+    "P123"
+   ],
+   "source": "附錄"
+  },
+  {
+   "id": "shiji-person-wangyi",
+   "name": "王齮",
+   "aliases": [
+    "王齕"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "將軍",
+   "description": "秦將。始皇初年與蒙驁、麃公等為將軍。三年攻魏時死。注疏謂王齮即王齕，昭王四十九年代大夫陵伐趙者。",
+   "evidence": [
+    "P0",
+    "P3"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-biaogong",
+   "name": "麃公",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "將軍",
+   "description": "秦將。二年將卒攻卷，斬首三萬。注疏謂麃公蓋麃邑之公，史失其姓名。",
+   "evidence": [
+    "P0",
+    "P2"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-qianghui",
+   "name": "羌瘣",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "將軍",
+   "description": "秦將。十八年與王翦攻趙、下井陘；十九年盡定取趙地東陽，得趙王。",
+   "evidence": [
+    "P18",
+    "P19"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-xinsheng",
+   "name": "辛勝",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "將軍",
+   "description": "秦將。二十年與王翦攻燕，破燕易水之西。",
+   "evidence": [
+    "P20"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-neishiteng",
+   "name": "內史騰",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "內史、將",
+   "description": "秦內史。十七年攻韓，得韓王安，盡納其地置潁川郡。十六年「發卒受地韓南陽假守騰」或即其人。",
+   "evidence": [
+    "P16",
+    "P17"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-houshengqi",
+   "name": "后勝",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "齊",
+   "role": "齊相",
+   "description": "齊相。齊王建與后勝發兵守西界，不通秦；齊王用后勝計絕秦使，欲為亂，終致秦滅齊、虜齊王建。",
+   "evidence": [
+    "P26",
+    "P27"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-xiangliang",
+   "name": "項梁",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "楚",
+   "role": "楚將",
+   "description": "秦末起兵於會稽郡。二世二年為少府章邯所破，死於定陶。項羽之叔父。",
+   "evidence": [
+    "P63",
+    "P64"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-simaxin",
+   "name": "司馬欣",
+   "aliases": [
+    "長史欣"
+   ],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "長史",
+   "description": "秦長史。二世遣其佐章邯擊盜；後為章邯詣趙高請事，趙高弗見，遂亡去。",
+   "evidence": [
+    "P65",
+    "P66"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-dongyi",
+   "name": "董翳",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "都尉",
+   "description": "秦將。二世遣其佐章邯擊盜。",
+   "evidence": [
+    "P65"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-hanwanghan",
+   "name": "韓王安",
+   "aliases": [
+    "韓王"
+   ],
+   "type": "Person",
+   "dynasty": "韓",
+   "role": "韓王",
+   "description": "韓國末王。十七年內史騰攻韓，得韓王安，盡納其地為潁川郡，韓亡。",
+   "evidence": [
+    "P17"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-zhaowangqian",
+   "name": "趙王遷",
+   "aliases": [
+    "趙王"
+   ],
+   "type": "Person",
+   "dynasty": "趙",
+   "role": "趙王",
+   "description": "趙國末王。十九年王翦、羌瘣盡定取趙地，得趙王遷。注疏引索隱謂其即趙王遷。",
+   "evidence": [
+    "P19",
+    "P27"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-weiwangjia",
+   "name": "魏王假",
+   "aliases": [
+    "魏王"
+   ],
+   "type": "Person",
+   "dynasty": "魏",
+   "role": "魏王",
+   "description": "魏國末王。二十二年王賁引河溝灌大梁，城壞請降，魏亡。注疏引索隱謂其名假。",
+   "evidence": [
+    "P22",
+    "P27"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-jingwangfuchu",
+   "name": "荊王負芻",
+   "aliases": [
+    "荊王"
+   ],
+   "type": "Person",
+   "dynasty": "楚",
+   "role": "楚（荊）王",
+   "description": "楚國末王。二十三年王翦攻荊，虜荊王負芻。注疏引索隱謂其名負芻。",
+   "evidence": [
+    "P23",
+    "P27"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-yanwangxi",
+   "name": "燕王喜",
+   "aliases": [
+    "燕王"
+   ],
+   "type": "Person",
+   "dynasty": "燕",
+   "role": "燕王",
+   "description": "燕國末王，太子丹之父。二十一年東收遼東而王之；二十五年王賁攻遼東，得燕王喜，燕亡。",
+   "evidence": [
+    "P21",
+    "P25"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-qiwangjian",
+   "name": "齊王建",
+   "aliases": [
+    "齊王"
+   ],
+   "type": "Person",
+   "dynasty": "齊",
+   "role": "齊王",
+   "description": "齊國末王。二十六年秦使將軍王賁從燕南攻齊，得齊王建，齊亡。",
+   "evidence": [
+    "P26",
+    "P27"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-zhaogongzijia",
+   "name": "趙公子嘉",
+   "aliases": [
+    "公子嘉",
+    "代王嘉"
+   ],
+   "type": "Person",
+   "dynasty": "趙",
+   "role": "代王",
+   "description": "趙公子。十九年率其宗數百人之代，自立為代王，東與燕合兵軍上谷；二十五年王賁還攻代，虜代王嘉。",
+   "evidence": [
+    "P19",
+    "P26"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-wuchen",
+   "name": "武臣",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "趙",
+   "role": "趙王",
+   "description": "秦末反秦將領。二世元年自立為趙王。",
+   "evidence": [
+    "P63"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-weijiu",
+   "name": "魏咎",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "魏",
+   "role": "魏王",
+   "description": "秦末自立為魏王。二世二年為章邯所破，死於臨濟。",
+   "evidence": [
+    "P63",
+    "P64"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-tiandan",
+   "name": "田儋",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "齊",
+   "role": "齊王",
+   "description": "秦末自立為齊王。",
+   "evidence": [
+    "P63"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-zhaowangxie",
+   "name": "趙王歇",
+   "aliases": [
+    "趙歇"
+   ],
+   "type": "Person",
+   "dynasty": "趙",
+   "role": "趙王",
+   "description": "趙王。二世二年章邯北渡河，擊趙王歇等於鉅鹿。",
+   "evidence": [
+    "P64"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-xiahuanghou",
+   "name": "夏太后",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "太后",
+   "description": "莊襄王生母。始皇七年死。注疏謂其為莊襄王所生母。",
+   "evidence": [
+    "P7"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-person-huayangtaihou",
+   "name": "華陽太后",
+   "aliases": [],
+   "type": "Person",
+   "dynasty": "秦",
+   "role": "太后",
+   "description": "秦太后。十七年卒。注疏謂莊襄王為華陽夫人嗣。",
+   "evidence": [
+    "P17"
+   ],
+   "source": "正文"
+  }
+ ],
+ "places": [
+  {
+   "id": "shiji-place-xianyang",
+   "name": "咸陽",
+   "type": "Place",
+   "modern": "今陝西咸陽市東北，秦孝公以下建都於此",
+   "description": "秦國都城，始皇時為政治中心。收天下兵器聚此銷鑄金人十二，徙天下豪富十二萬戶於此；每破諸侯寫放其宮室作於北阪，並營朝宮、阿房宮。二世末年沛公入咸陽，秦亡。",
+   "evidence": [
+    "P9",
+    "P30",
+    "P31",
+    "P48",
+    "P68"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-langya",
+   "name": "琅邪",
+   "type": "Place",
+   "modern": "今山東青島市黃島區琅琊臺一帶",
+   "description": "濱海之地，越王句踐曾徙都於此、起觀臺以望東海。始皇二十八年南登琅邪，大樂之，留三月，徙黔首三萬戶於琅邪臺下，復十二歲，立石刻頌秦德。",
+   "evidence": [
+    "P34",
+    "P35",
+    "P36",
+    "P54"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-zhifu",
+   "name": "之罘",
+   "type": "Place",
+   "modern": "今山東煙臺市芝罘區，濱渤海，屬古腄縣",
+   "description": "渤海濱之罘山，八神陽主所祠。始皇二十八年登之罘立石頌秦德；二十九年復登之罘刻石；三十七年自琅邪北至之罘，見巨魚射殺一魚。",
+   "evidence": [
+    "P34",
+    "P38",
+    "P39",
+    "P54"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-taishan",
+   "name": "泰山",
+   "type": "Place",
+   "modern": "今山東泰安市，一曰岱宗、東嶽",
+   "description": "始皇二十八年東巡上泰山，立石、封、祠祀，禪於梁父；下遇暴風雨，休於樹下，因封其樹為五大夫，並刻石頌秦德。",
+   "evidence": [
+    "P32",
+    "P33"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-shaqiu",
+   "name": "沙丘",
+   "type": "Place",
+   "modern": "今河北廣宗縣西北（邢州平鄉縣，趙有沙丘宮，武靈王死處）",
+   "description": "趙地沙丘宮，在鉅鹿。始皇三十七年出遊至平原津而病，七月崩於沙丘平臺。趙高、胡亥、李斯即於此矯詔易儲。",
+   "evidence": [
+    "P55"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-wangyigong",
+   "name": "望夷宮",
+   "type": "Place",
+   "modern": "今陝西咸陽市附近（臨涇水作之，以望北夷）",
+   "description": "秦宮，臨涇水而作，以望北夷。二世三年齋於望夷宮欲祠涇、沈四白馬；趙高遣閻樂將卒入宮，逼二世自殺於此，是為望夷宮之變。",
+   "evidence": [
+    "P67"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-handan",
+   "name": "邯鄲",
+   "type": "Place",
+   "modern": "今河北邯鄲市",
+   "description": "趙國都城。始皇以秦昭王四十八年生於邯鄲；十九年秦王之邯鄲，諸嘗與王生趙時母家有仇怨者皆阬之。",
+   "evidence": [
+    "P0",
+    "P19"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-yong",
+   "name": "雍",
+   "type": "Place",
+   "modern": "今陝西鳳翔縣南，秦舊都",
+   "description": "秦舊都。秦王政九年上宿雍、加冠帶劍；嫪毐亂後太后被遷於雍，經茅焦諫乃迎歸咸陽。先王廟或在西雍。",
+   "evidence": [
+    "P9",
+    "P10"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-qiniangong",
+   "name": "蘄年宮",
+   "type": "Place",
+   "modern": "今陝西鳳翔（岐州城西故城內）",
+   "description": "秦宮。始皇九年嫪毐矯王及太后璽發卒，欲攻蘄年宮為亂，為秦王所敗。",
+   "evidence": [
+    "P9"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-jieshi",
+   "name": "碣石",
+   "type": "Place",
+   "modern": "今河北昌黎縣一帶，濱渤海",
+   "description": "始皇三十二年之碣石，刻碣石門，壞城郭、決通隄防；二世東行郡縣亦至碣石，盡刻始皇所立之石。",
+   "evidence": [
+    "P45",
+    "P58"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-kuaiji",
+   "name": "會稽",
+   "type": "Place",
+   "modern": "今浙江紹興市，會稽山",
+   "description": "二十五年降越君置會稽郡。三十七年始皇登會稽，祭大禹、望于南海，立石刻頌秦德；二世東行亦南至會稽，刻始皇所立之石並著從臣名。",
+   "evidence": [
+    "P25",
+    "P52",
+    "P53",
+    "P58"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-epanggong",
+   "name": "阿房宮",
+   "type": "Place",
+   "modern": "今陝西西安市長安區西北（渭南上林苑中）",
+   "description": "始皇三十五年以咸陽人多、先王宮廷小，乃營作朝宮於渭南上林苑中，先作前殿阿房，東西五百步、南北五十丈，未成。二世元年復作阿房宮。",
+   "evidence": [
+    "P48",
+    "P62"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-lishan",
+   "name": "酈山",
+   "type": "Place",
+   "modern": "今陝西西安市臨潼區東南驪山",
+   "description": "始皇即位即穿治酈山，并天下後發徒七十餘萬人穿三泉、下銅致椁，以水銀為百川江河，令匠作機弩。三十七年始皇崩後葬於酈山，後宮無子者皆令從死。",
+   "evidence": [
+    "P31",
+    "P48",
+    "P56"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-shangjun",
+   "name": "上郡",
+   "type": "Place",
+   "modern": "今陝西榆林市一帶（綏州）",
+   "description": "秦北邊要地。秦地北收上郡以東；始皇遣扶蘇北監蒙恬於上郡；三十二年始皇巡北邊自上郡入。",
+   "evidence": [
+    "P0",
+    "P45",
+    "P50"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-chen",
+   "name": "陳",
+   "type": "Place",
+   "modern": "今河南淮陽縣",
+   "description": "陳勝起兵後自立為楚王，居陳，遣諸將徇地。二世末年為楚漢爭衡之地。",
+   "evidence": [
+    "P63"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-julu",
+   "name": "鉅鹿",
+   "type": "Place",
+   "modern": "今河北平鄉縣（邢州平鄉縣城，本鉅鹿）",
+   "description": "趙地。秦末章邯圍趙王歇於鉅鹿，楚上將軍項羽將卒往救，虜王離，章邯降，是為鉅鹿之戰。",
+   "evidence": [
+    "P64",
+    "P66"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-xi",
+   "name": "戲",
+   "type": "Place",
+   "modern": "今陝西西安市臨潼區東新豐一帶（戲水）",
+   "description": "戲水源出驪山。二世二年陳勝所遣周章等將西至戲，兵數十萬，章邯將酈山徒擊破之。",
+   "evidence": [
+    "P64"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-daliang",
+   "name": "大梁",
+   "type": "Place",
+   "modern": "今河南開封市",
+   "description": "魏國都城。二十二年王賁攻魏，引河溝灌大梁，城壞，魏王請降，盡取其地。",
+   "evidence": [
+    "P22"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-yunyang",
+   "name": "雲陽",
+   "type": "Place",
+   "modern": "今陝西淳化縣西北（有甘泉宮）",
+   "description": "秦地，有甘泉宮。韓非死於雲陽；三十五年除道自九原抵雲陽，塹山堙谷、直通之，並徙五萬家於雲陽。",
+   "evidence": [
+    "P14",
+    "P48"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-xianyangong",
+   "name": "咸陽宮",
+   "type": "Place",
+   "modern": "今陝西咸陽市，秦咸陽之宮",
+   "description": "秦咸陽之宮。三十四年始皇置酒咸陽宮，博士七十人前為壽，引發師古與焚書之議；晚年聽事、羣臣受決事悉於咸陽宮。",
+   "evidence": [
+    "P47",
+    "P49"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-jiuyuan",
+   "name": "九原",
+   "type": "Place",
+   "modern": "今內蒙古包頭市西（五原郡九原縣）",
+   "description": "秦北邊郡縣。三十五年除道自九原抵雲陽，直通之；始皇崩後車隊從井陘抵九原，會暑，載鮑魚以亂屍臭。",
+   "evidence": [
+    "P48",
+    "P55"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-yunmeng",
+   "name": "雲夢",
+   "type": "Place",
+   "modern": "今湖北中部一帶（古雲夢澤）",
+   "description": "三十七年始皇出遊行至雲夢，望祀虞舜於九疑山。",
+   "evidence": [
+    "P52"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-wuguan",
+   "name": "武關",
+   "type": "Place",
+   "modern": "今陝西商洛市東南（秦南關，通南陽）",
+   "description": "秦南關。二十八年始皇自南郡由武關歸；二世末年沛公破秦軍入武關，遂至霸上。",
+   "evidence": [
+    "P37",
+    "P68"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-xiangshan",
+   "name": "湘山",
+   "type": "Place",
+   "modern": "今湖南岳陽市湘陰縣（湘山祠）",
+   "description": "二十八年始皇浮江至湘山祠，逢大風幾不得渡，問博士知湘君為堯女、舜之妻而葬此，乃大怒，使刑徒三千人伐湘山樹、赭其山。",
+   "evidence": [
+    "P37"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-bashang",
+   "name": "霸上",
+   "type": "Place",
+   "modern": "今陝西西安市東（霸水西岸，古滋水，秦穆公更名霸水）",
+   "description": "秦末沛公破秦軍入武關，遂至霸上，使人約降子嬰；入咸陽封宮室府庫後，還軍霸上。",
+   "evidence": [
+    "P68"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-zhidao",
+   "name": "軹道",
+   "type": "Place",
+   "modern": "今陝西西安市東（亭名）",
+   "description": "子嬰係頸以組、白馬素車，奉天子璽符，降於軹道旁，秦亡。",
+   "evidence": [
+    "P68"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-lanchi",
+   "name": "蘭池",
+   "type": "Place",
+   "modern": "今陝西咸陽市界（蘭池陂）",
+   "description": "三十一年始皇微行咸陽，與武士四人俱，夜出逢盜於蘭池，見窘，武士擊殺盜，關中大索二十日。",
+   "evidence": [
+    "P44"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-ganquangong",
+   "name": "甘泉宮",
+   "type": "Place",
+   "modern": "今陝西淳化縣甘泉山一帶",
+   "description": "秦宮。秦王政十年迎太后於雍入咸陽，復居甘泉宮；三十二年又作甘泉前殿。",
+   "evidence": [
+    "P10",
+    "P31"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-liangshangong",
+   "name": "梁山宮",
+   "type": "Place",
+   "modern": "今陝西乾縣（好畤）一帶",
+   "description": "秦宮。始皇幸梁山宮，從山上見丞相車騎衆，弗善；中人或告丞相，丞相後損車騎，始皇怒，案問莫服，詔捕時在旁者皆殺之。",
+   "evidence": [
+    "P49"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-chengshan",
+   "name": "成山",
+   "type": "Place",
+   "modern": "今山東榮成市（古文登縣）濱海",
+   "description": "海濱山，八神日主所祠。二十八年始皇窮成山、登之罘；三十七年自琅邪北至榮成山，弗見巨魚。",
+   "evidence": [
+    "P34",
+    "P54"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-pengcheng",
+   "name": "彭城",
+   "type": "Place",
+   "modern": "今江蘇徐州市",
+   "description": "始皇還過彭城，齋戒禱祠，欲出周鼎於泗水，使千人沒水求之，弗得。",
+   "evidence": [
+    "P37"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-lintao",
+   "name": "臨洮",
+   "type": "Place",
+   "modern": "今甘肅岷縣一帶（古隴西）",
+   "description": "秦隴西邊地。八年成蟜之亂後遷其民於臨洮；二十六年秦疆「西至臨洮、羌中」。",
+   "evidence": [
+    "P8",
+    "P30"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-jingjing",
+   "name": "井陘",
+   "type": "Place",
+   "modern": "今河北井陘縣",
+   "description": "太行山要隘。十八年王翦下井陘攻趙；始皇崩後靈車從井陘抵九原。",
+   "evidence": [
+    "P18",
+    "P55"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-taiyuan",
+   "name": "太原",
+   "type": "Place",
+   "modern": "今山西太原一帶",
+   "description": "秦地。秦北收上郡以東有太原郡；八年以太原郡更為嫪毐之國；十五年一軍至太原；趙背盟反秦於太原。",
+   "evidence": [
+    "P0",
+    "P8",
+    "P15",
+    "P19",
+    "P27"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-shanggu",
+   "name": "上谷",
+   "type": "Place",
+   "modern": "今河北張家口懷來一帶",
+   "description": "燕地。十九年趙公子嘉之代，東與燕合兵軍上谷。",
+   "evidence": [
+    "P19"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-liaodong",
+   "name": "遼東",
+   "type": "Place",
+   "modern": "今遼寧東部，秦遼東郡",
+   "description": "燕地。二十一年燕王東收遼東而王之；二十五年王賁攻燕遼東，得燕王喜。",
+   "evidence": [
+    "P21",
+    "P25"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-pingyang",
+   "name": "平陽",
+   "type": "Place",
+   "modern": "今河北臨漳西（戰國屬韓後屬趙）",
+   "description": "趙地。十三年桓齮攻趙平陽，殺趙將扈輒；十四年取宜安，定平陽、武城。",
+   "evidence": [
+    "P13",
+    "P14"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-yingchuan",
+   "name": "潁川",
+   "type": "Place",
+   "modern": "今河南許昌一帶",
+   "description": "秦郡。十七年內史騰攻韓，得韓王安，盡納其地為潁川郡。",
+   "evidence": [
+    "P17"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-nanjun",
+   "name": "南郡",
+   "type": "Place",
+   "modern": "今湖北荊州一帶",
+   "description": "秦郡。秦地已并巴、蜀、漢中，越宛有郢，置南郡；二十八年始皇自南郡由武關歸。",
+   "evidence": [
+    "P0",
+    "P37"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-tunliu",
+   "name": "屯留",
+   "type": "Place",
+   "modern": "今山西屯留縣",
+   "description": "上黨地。八年長安君成蟜反，死於屯留。",
+   "evidence": [
+    "P8"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-fangling",
+   "name": "房陵",
+   "type": "Place",
+   "modern": "今湖北房縣",
+   "description": "秦地。九年嫪毐之亂後，奪爵遷蜀者四千餘家，家房陵。",
+   "evidence": [
+    "P9",
+    "P12"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-yuzhong",
+   "name": "榆中",
+   "type": "Place",
+   "modern": "今陝北河套一帶",
+   "description": "秦北邊。三十三年自榆中並河以東屬之陰山；三十六年遷北河榆中三萬家。",
+   "evidence": [
+    "P46",
+    "P51"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-yinshan",
+   "name": "陰山",
+   "type": "Place",
+   "modern": "今內蒙古陰山山脈",
+   "description": "秦北邊。二十六年北據河為塞並陰山至遼東；三十三年屬之陰山以置縣。",
+   "evidence": [
+    "P30",
+    "P46"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-jiuyishan",
+   "name": "九疑山",
+   "type": "Place",
+   "modern": "今湖南寧遠縣南",
+   "description": "三十七年始皇行至雲夢，望祀虞舜於九疑山。",
+   "evidence": [
+    "P52"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-pingjijin",
+   "name": "平原津",
+   "type": "Place",
+   "modern": "今山東平原縣南",
+   "description": "三十七年始皇東巡至平原津而病，遂崩於沙丘。",
+   "evidence": [
+    "P55"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-place-du",
+   "name": "杜",
+   "type": "Place",
+   "modern": "今陝西西安東南（秦杜縣）",
+   "description": "秦地。二世誅諸公子，六公子戮死於杜；二世死後以黔首葬於杜南宜春苑。",
+   "evidence": [
+    "P61",
+    "P68"
+   ],
+   "source": "正文"
+  }
+ ],
+ "events": [
+  {
+   "id": "shiji-event-tongyiliuguo",
+   "name": "統一六國",
+   "type": "Event",
+   "participants": [
+    "shiji-person-yingzheng",
+    "shiji-person-wangjian",
+    "shiji-person-wangben",
+    "shiji-person-mengwu",
+    "shiji-person-huanyi",
+    "shiji-person-lisi",
+    "shiji-person-weiliao"
+   ],
+   "place": "",
+   "description": "秦王政十七年至二十六年（前230至前221），秦先後滅韓、趙、魏、楚、燕、齊六國。用李斯、尉繚之謀，王翦、王賁、蒙武、桓齮等為將，終并天下，六王咸伏其辜。",
+   "evidence": [
+    "P17",
+    "P18",
+    "P19",
+    "P20",
+    "P21",
+    "P22",
+    "P23",
+    "P24",
+    "P25",
+    "P26"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-yidihao",
+   "name": "議帝號",
+   "type": "Event",
+   "participants": [
+    "shiji-person-yingzheng",
+    "shiji-person-wangwan",
+    "shiji-person-fengjie",
+    "shiji-person-lisi"
+   ],
+   "place": "shiji-place-xianyang",
+   "description": "二十六年秦初并天下，令丞相、御史議帝號。丞相綰、御史大夫劫、廷尉斯等上尊號「泰皇」，秦王去「泰」著「皇」、采上古「帝」號，號曰「皇帝」，自稱「朕」，追尊莊襄王為太上皇，並除謚法。",
+   "evidence": [
+    "P27"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-junxianzhi",
+   "name": "置郡縣",
+   "type": "Event",
+   "participants": [
+    "shiji-person-yingzheng",
+    "shiji-person-lisi",
+    "shiji-person-wangwan"
+   ],
+   "place": "shiji-place-xianyang",
+   "description": "丞相綰等請立諸子為王以鎮燕、齊、荊，廷尉李斯以為置諸侯不便，始皇從李斯議，分天下為三十六郡，郡置守、尉、監，更名民曰「黔首」。",
+   "evidence": [
+    "P29",
+    "P30"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-shoubingzhujinren",
+   "name": "收天下兵鑄金人",
+   "type": "Event",
+   "participants": [
+    "shiji-person-yingzheng"
+   ],
+   "place": "shiji-place-xianyang",
+   "description": "二十六年收天下兵器聚之咸陽，銷以為鍾鐻、金人十二，重各千石，置廷宮中；一法度衡石丈尺，車同軌，書同文字，徙天下豪富於咸陽十二萬戶。",
+   "evidence": [
+    "P30"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-laoaizhiluan",
+   "name": "嫪毐之亂",
+   "type": "Event",
+   "participants": [
+    "shiji-person-laoai",
+    "shiji-person-yingzheng",
+    "shiji-person-changpingjun",
+    "shiji-person-changwenjun",
+    "shiji-person-zhaoji"
+   ],
+   "place": "shiji-place-xianyang",
+   "description": "始皇九年，長信侯嫪毐矯王御璽及太后璽發縣卒、衞卒、官騎等，欲攻蘄年宮為亂。秦王令相國昌平君、昌文君發卒攻毐，戰於咸陽，毐等敗走，盡得之，車裂以徇、滅其宗，奪爵遷蜀四千餘家於房陵。",
+   "evidence": [
+    "P9"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-lvbuweimianxiang",
+   "name": "呂不韋免相自殺",
+   "type": "Event",
+   "participants": [
+    "shiji-person-lvbuwei",
+    "shiji-person-yingzheng",
+    "shiji-person-laoai"
+   ],
+   "place": "shiji-place-xianyang",
+   "description": "始皇十年，相國呂不韋坐嫪毐免相。十二年不韋飲酖死，賓客竊葬於洛陽北邙。始皇令自今操國事不道如嫪毐、不韋者籍其門，並復遷嫪毐舍人於蜀者。",
+   "evidence": [
+    "P10",
+    "P12"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-chengjiaozhifan",
+   "name": "成蟜之亂",
+   "type": "Event",
+   "participants": [
+    "shiji-person-chengjiao",
+    "shiji-person-yingzheng"
+   ],
+   "place": "",
+   "description": "始皇八年，王弟長安君成蟜將軍擊趙，反，死於屯留，軍吏皆斬死，遷其民於臨洮；將軍壁死，屯留、蒲鶮之反卒戮其屍。",
+   "evidence": [
+    "P8"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-fengshantaishan",
+   "name": "封禪泰山",
+   "type": "Event",
+   "participants": [
+    "shiji-person-yingzheng"
+   ],
+   "place": "shiji-place-taishan",
+   "description": "二十八年始皇東行郡縣，上鄒嶧山立石，與魯諸儒生議封禪望祭之事；遂上泰山立石、封、祠祀，禪於梁父，下遇暴風雨休於樹下，封其樹為五大夫，刻石頌秦德。",
+   "evidence": [
+    "P32",
+    "P33"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-dongxunkeshi",
+   "name": "始皇東巡刻石",
+   "type": "Event",
+   "participants": [
+    "shiji-person-yingzheng",
+    "shiji-person-lisi"
+   ],
+   "place": "",
+   "description": "二十七年至三十七年，始皇多次東行郡縣，先後上鄒嶧、泰山、琅邪、之罘、碣石、會稽等地立石刻辭，頌秦功德、明德意，並議封禪望祭山川。",
+   "evidence": [
+    "P32",
+    "P34",
+    "P38",
+    "P39",
+    "P45",
+    "P52"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-xufuruhaiquixian",
+   "name": "徐巿入海求仙",
+   "type": "Event",
+   "participants": [
+    "shiji-person-xufu",
+    "shiji-person-yingzheng"
+   ],
+   "place": "shiji-place-langya",
+   "description": "二十八年齊人徐巿等上書言海中有蓬萊、方丈、瀛洲三神山，僊人居之，請與童男女求之，始皇遣其發童男女數千人入海。後數歲不得，費多恐譴，詐言蓬萊藥為大鮫魚所苦，始皇乃令以連弩射魚。",
+   "evidence": [
+    "P37",
+    "P54"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-fenshukengru",
+   "name": "焚書坑儒",
+   "type": "Event",
+   "participants": [
+    "shiji-person-yingzheng",
+    "shiji-person-lisi",
+    "shiji-person-chunyuyue",
+    "shiji-person-lusheng",
+    "shiji-person-housheng"
+   ],
+   "place": "shiji-place-xianyangong",
+   "description": "三十四年博士淳于越議師古、封子弟以自輔，丞相李斯請焚非秦記及詩書百家語，制曰可。三十五年侯生、盧生亡去，始皇怒案問諸生，坑四百六十餘人於咸陽；扶蘇進諫被遣北監蒙恬軍。",
+   "evidence": [
+    "P47",
+    "P50"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-mengtianbeizhenghu",
+   "name": "蒙恬北擊匈奴",
+   "type": "Event",
+   "participants": [
+    "shiji-person-mengtian",
+    "shiji-person-yingzheng"
+   ],
+   "place": "shiji-place-shangjun",
+   "description": "三十二年因盧生奏錄圖書「亡秦者胡也」，始皇使將軍蒙恬發兵三十萬北擊胡，略取河南地；三十三年西北斥逐匈奴，自榆中並河以東屬之陰山，築亭障、長城為塞。",
+   "evidence": [
+    "P45",
+    "P46"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-shaqiuzhibian",
+   "name": "沙丘之變",
+   "type": "Event",
+   "participants": [
+    "shiji-person-yingzheng",
+    "shiji-person-huhai",
+    "shiji-person-zhaogao",
+    "shiji-person-lisi",
+    "shiji-person-fusu",
+    "shiji-person-mengtian"
+   ],
+   "place": "shiji-place-shaqiu",
+   "description": "三十七年始皇東巡，病於平原津，七月崩於沙丘平臺。趙高與公子胡亥、丞相李斯祕不發喪，矯詔立胡亥為太子，更詐為書賜死公子扶蘇、蒙恬，遂從井陘抵九原還咸陽。",
+   "evidence": [
+    "P55",
+    "P56"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-ershisizhugongzi",
+   "name": "二世誅大臣諸公子",
+   "type": "Event",
+   "participants": [
+    "shiji-person-huhai",
+    "shiji-person-zhaogao",
+    "shiji-person-jianglv"
+   ],
+   "place": "",
+   "description": "二世與趙高謀，行誅大臣及諸公子，以罪連逮少近官三郎，六公子戮死於杜；公子將閭昆弟三人被囚內宮，二世遣使責其不臣當死，三人仰天呼冤、流涕拔劍自殺，宗室振恐。",
+   "evidence": [
+    "P61"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-chenshengqiyi",
+   "name": "陳勝起義",
+   "type": "Event",
+   "participants": [
+    "shiji-person-chensheng",
+    "shiji-person-zhouzhang",
+    "shiji-person-huhai",
+    "shiji-person-zhanghan"
+   ],
+   "place": "shiji-place-chen",
+   "description": "二世元年七月，戍卒陳勝（陳涉）等反於故荊地，號「張楚」，自立為楚王居陳，遣諸將徇地，山東郡縣少年殺秦吏響應，武臣、魏咎、田儋等各立為王。二年冬其將周章兵西至戲。",
+   "evidence": [
+    "P63",
+    "P64"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-juluzhizhan",
+   "name": "鉅鹿之戰",
+   "type": "Event",
+   "participants": [
+    "shiji-person-zhanghan",
+    "shiji-person-xiangyu",
+    "shiji-person-wangli"
+   ],
+   "place": "shiji-place-julu",
+   "description": "二世三年，章邯將卒圍趙王歇於鉅鹿，楚上將軍項羽將楚卒往救，急擊秦軍，虜秦將王離，章邯等遂以兵降諸侯，秦軍主力覆沒。",
+   "evidence": [
+    "P66"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-zhilu-weima",
+   "name": "指鹿為馬",
+   "type": "Event",
+   "participants": [
+    "shiji-person-zhaogao",
+    "shiji-person-huhai"
+   ],
+   "place": "shiji-place-xianyang",
+   "description": "二世三年，丞相趙高欲為亂，恐羣臣不聽，乃持鹿獻於二世曰「馬也」。二世問左右，或默或言馬以阿順高；高陰中諸言鹿者以法，後羣臣皆畏高。",
+   "evidence": [
+    "P66"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-wangyigongzhibian",
+   "name": "望夷宮之變",
+   "type": "Event",
+   "participants": [
+    "shiji-person-zhaogao",
+    "shiji-person-yanle",
+    "shiji-person-zhaocheng",
+    "shiji-person-huhai"
+   ],
+   "place": "shiji-place-wangyigong",
+   "description": "二世三年，趙高恐禍及己，陰與其婿咸陽令閻樂、其弟趙成謀，詐為有大賊，遣閻樂將吏卒千餘人入望夷宮，射二世幄坐，數其驕恣誅殺之罪，逼二世自殺。",
+   "evidence": [
+    "P67"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-ziyingzhugao",
+   "name": "子嬰誅趙高",
+   "type": "Event",
+   "participants": [
+    "shiji-person-ziying",
+    "shiji-person-zhaogao"
+   ],
+   "place": "shiji-place-xianyang",
+   "description": "趙高誅二世後立二世兄子公子嬰為秦王，令其齋戒廟見，欲因廟中殺之。子嬰稱病不行，高自來，子嬰遂刺殺高於齋宮，三族高家以徇咸陽。",
+   "evidence": [
+    "P68"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-qinmiewang",
+   "name": "秦亡",
+   "type": "Event",
+   "participants": [
+    "shiji-person-ziying",
+    "shiji-person-liubang",
+    "shiji-person-xiangyu"
+   ],
+   "place": "shiji-place-xianyang",
+   "description": "子嬰為秦王四十六日，楚將沛公破秦軍入武關、至霸上，子嬰係頸以組、白馬素車奉天子璽符降於軹道旁。居月餘諸侯兵至，項籍為從長，殺子嬰及秦諸公子宗族，屠咸陽、燒宮室，秦竟滅。",
+   "evidence": [
+    "P68"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-zhukeling",
+   "name": "逐客令",
+   "type": "Event",
+   "participants": [
+    "shiji-person-yingzheng",
+    "shiji-person-lisi"
+   ],
+   "place": "shiji-place-xianyang",
+   "description": "秦王政十年因嫪毐事大索逐客，李斯上書說，乃止逐客令。",
+   "evidence": [
+    "P10"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-ershidongxun",
+   "name": "二世東巡刻石",
+   "type": "Event",
+   "participants": [
+    "shiji-person-huhai",
+    "shiji-person-lisi"
+   ],
+   "place": "shiji-place-jieshi",
+   "description": "二世元年春東行郡縣，至碣石、並海、南至會稽，盡刻始皇所立之石，石旁著大臣從者名，以章先帝成功盛德。",
+   "evidence": [
+    "P58",
+    "P59"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-event-lishanling",
+   "name": "營建酈山陵",
+   "type": "Event",
+   "participants": [
+    "shiji-person-yingzheng",
+    "shiji-person-huhai"
+   ],
+   "place": "shiji-place-lishan",
+   "description": "始皇初即位即穿治酈山，并天下後發徒七十餘萬人穿三泉、下銅致椁，以水銀為百川江河，令匠作機弩。三十七年始皇崩後葬於酈山，後宮無子者皆令從死。",
+   "evidence": [
+    "P56"
+   ],
+   "source": "正文"
+  }
+ ],
+ "offices": [
+  {
+   "id": "shiji-office-chengxiang",
+   "name": "丞相",
+   "description": "秦百官之長，輔佐天子處理國政。始皇時王綰、隗林、李斯等先後為丞相；二世分置左右丞相，李斯為左丞相、馮去疾為右丞相。",
+   "evidence": [
+    "P27",
+    "P52",
+    "P66"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-xiangguo",
+   "name": "相國",
+   "description": "位在丞相之上，總理國政。秦以呂不韋為相國，嫪毐之亂時令相國昌平君、昌文君發卒攻毐。",
+   "evidence": [
+    "P9"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-yushidafu",
+   "name": "御史大夫",
+   "description": "秦官，為侍御史之率，掌監察並佐丞相。始皇議帝號時御史大夫馮劫與丞相綰、廷尉斯同上尊號；二世詔刻石亦有御史大夫臣德。",
+   "evidence": [
+    "P27",
+    "P59"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-tingwei",
+   "name": "廷尉",
+   "description": "秦官，掌刑獄，聽獄必質諸朝廷、與衆共之。李斯曾任廷尉，議帝號及請行郡縣之議皆出廷尉李斯。",
+   "evidence": [
+    "P27",
+    "P29"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-zhongchefuling",
+   "name": "中車府令",
+   "description": "秦官，掌宮中車府，兼行符璽之事。趙高曾任中車府令，主乘輿路車並行符璽事，遂得與聞始皇賜扶蘇之璽書。",
+   "evidence": [
+    "P55"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-langzhongling",
+   "name": "郎中令",
+   "description": "秦官，掌宮殿門戶、宿衛。二世任趙高為郎中令，趙高遂專權用事；望夷宮之變中，郎中令為內應。",
+   "evidence": [
+    "P57",
+    "P67"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-shaofu",
+   "name": "少府",
+   "description": "秦官，掌山澤陂池之稅以供私養。章邯以少府領兵，請赦酈山徒授兵以擊陳勝、周章等。",
+   "evidence": [
+    "P64"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-weiwei",
+   "name": "衞尉",
+   "description": "秦官，掌宮門屯衛。嫪毐之亂後，衞尉竭等二十人皆梟首；望夷宮之變中衞令僕射被閻樂所斬。",
+   "evidence": [
+    "P9",
+    "P67"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-boshi",
+   "name": "博士",
+   "description": "秦官，掌通古今。議帝號時始皇下其議於博士；三十四年始皇置酒咸陽宮，博士七十人前為壽，淳于越等以古議政，遂引發焚書。",
+   "evidence": [
+    "P27",
+    "P47"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-pushe",
+   "name": "僕射",
+   "description": "秦官，古者重武，官有主射以督課，為諸官之長。周青臣為僕射，於咸陽宮進頌始皇功德。",
+   "evidence": [
+    "P47"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-jiangjun",
+   "name": "將軍",
+   "description": "秦武職，掌領兵征伐。蒙驁、王齮、麃公、桓齮、王翦、王賁、蒙恬等多為將軍。",
+   "evidence": [
+    "P0",
+    "P10",
+    "P18"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-junshou",
+   "name": "郡守",
+   "description": "秦官，掌治其郡，有丞、尉佐之，掌武職甲卒。始皇分天下為三十六郡，郡置守、尉、監。",
+   "evidence": [
+    "P30"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-jianyushi",
+   "name": "監御史",
+   "description": "秦官，掌監郡。始皇三十六郡各置守、尉、監，監即監御史，以監察郡事。",
+   "evidence": [
+    "P30"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-neishi",
+   "name": "內史",
+   "description": "秦官，掌治京師及畿內，亦得領兵。內史騰攻韓，得韓王安，盡納其地為潁川郡。",
+   "evidence": [
+    "P17"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-sheren",
+   "name": "舍人",
+   "description": "秦時侍從賓客或主廄內之小吏，又稱侍從賓客為舍人。李斯初為呂不韋舍人，嫪毐亦以舍人參預其亂。",
+   "evidence": [
+    "P0",
+    "P9"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-zhongdafu-ling",
+   "name": "中大夫令",
+   "description": "秦官。嫪毐之亂中，中大夫令齊等二十人皆梟首。",
+   "evidence": [
+    "P9"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-zuoyi",
+   "name": "佐弋",
+   "description": "秦官，屬少府，掌弋射，漢武帝時改為佽飛。嫪毐之亂中佐弋竭等二十人皆梟首。",
+   "evidence": [
+    "P9"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-xianling",
+   "name": "縣令",
+   "description": "秦官，掌治一縣。閻樂曾任咸陽令，為趙高之婿，率吏卒入望夷宮逼殺二世。",
+   "evidence": [
+    "P67"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-zhangshi",
+   "name": "長史",
+   "description": "秦官，丞相屬吏。章邯擊盜時，二世遣長史司馬欣、董翳佐章邯擊盜。",
+   "evidence": [
+    "P64"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-junwei",
+   "name": "郡尉",
+   "description": "秦官。郡置守、尉、監，尉掌佐守典武職甲卒。",
+   "evidence": [
+    "P30"
+   ],
+   "source": "正文"
+  },
+  {
+   "id": "shiji-office-fu",
+   "name": "傅",
+   "description": "秦時輔導、教導王子之官。秦王政立茅焦為傅、爵之上卿。",
+   "evidence": [
+    "P10"
+   ],
+   "source": "正文"
+  }
+ ],
+ "relations": [
+  {
+   "subject": "shiji-person-zhuangxiangwang",
+   "predicate": "father_of",
+   "object": "shiji-person-yingzheng",
+   "evidence": [
+    "P0"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-zhaoji",
+   "predicate": "mother_of",
+   "object": "shiji-person-yingzheng",
+   "evidence": [
+    "P0"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-zhuangxiangwang",
+   "predicate": "married",
+   "object": "shiji-person-zhaoji",
+   "evidence": [
+    "P0"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-laoai",
+   "predicate": "consort_of",
+   "object": "shiji-person-zhaoji",
+   "evidence": [
+    "P9"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-yingzheng",
+   "predicate": "father_of",
+   "object": "shiji-person-fusu",
+   "evidence": [
+    "P50"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-yingzheng",
+   "predicate": "father_of",
+   "object": "shiji-person-huhai",
+   "evidence": [
+    "P52"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-fusu",
+   "predicate": "son_of",
+   "object": "shiji-person-yingzheng",
+   "evidence": [
+    "P50"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-huhai",
+   "predicate": "son_of",
+   "object": "shiji-person-yingzheng",
+   "evidence": [
+    "P52"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-chengjiao",
+   "predicate": "brother_of",
+   "object": "shiji-person-yingzheng",
+   "evidence": [
+    "P8"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-ziying",
+   "predicate": "nephew_of",
+   "object": "shiji-person-huhai",
+   "evidence": [
+    "P68"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-huhai",
+   "predicate": "succeeded",
+   "object": "shiji-person-yingzheng",
+   "evidence": [
+    "P56"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-ziying",
+   "predicate": "succeeded",
+   "object": "shiji-person-huhai",
+   "evidence": [
+    "P68"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-lvbuwei",
+   "predicate": "minister_of",
+   "object": "shiji-person-yingzheng",
+   "evidence": [
+    "P0",
+    "P10"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-lisi",
+   "predicate": "minister_of",
+   "object": "shiji-person-yingzheng",
+   "evidence": [
+    "P0",
+    "P27"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-lisi",
+   "predicate": "minister_of",
+   "object": "shiji-person-huhai",
+   "evidence": [
+    "P55",
+    "P66"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-zhaogao",
+   "predicate": "minister_of",
+   "object": "shiji-person-huhai",
+   "evidence": [
+    "P57",
+    "P66"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-zhaogao",
+   "predicate": "minister_of",
+   "object": "shiji-person-yingzheng",
+   "evidence": [
+    "P55"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-wangwan",
+   "predicate": "minister_of",
+   "object": "shiji-person-yingzheng",
+   "evidence": [
+    "P27"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-fengjie",
+   "predicate": "minister_of",
+   "object": "shiji-person-yingzheng",
+   "evidence": [
+    "P27"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-fengquji",
+   "predicate": "minister_of",
+   "object": "shiji-person-huhai",
+   "evidence": [
+    "P65"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-weilin",
+   "predicate": "minister_of",
+   "object": "shiji-person-yingzheng",
+   "evidence": [
+    "P36"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-mengao",
+   "predicate": "father_of",
+   "object": "shiji-person-mengwu",
+   "evidence": [
+    "P0"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-mengwu",
+   "predicate": "father_of",
+   "object": "shiji-person-mengtian",
+   "evidence": [
+    "P0",
+    "P24"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-yingzheng",
+   "predicate": "appointed",
+   "object": "shiji-person-lvbuwei",
+   "evidence": [
+    "P0"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-yingzheng",
+   "predicate": "appointed",
+   "object": "shiji-person-lisi",
+   "evidence": [
+    "P27"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-yingzheng",
+   "predicate": "appointed",
+   "object": "shiji-person-weiliao",
+   "evidence": [
+    "P10"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-yingzheng",
+   "predicate": "appointed",
+   "object": "shiji-person-mengtian",
+   "evidence": [
+    "P45"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-yingzheng",
+   "predicate": "appointed",
+   "object": "shiji-person-wangjian",
+   "evidence": [
+    "P18"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-huhai",
+   "predicate": "appointed",
+   "object": "shiji-person-zhaogao",
+   "evidence": [
+    "P57"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-huhai",
+   "predicate": "appointed",
+   "object": "shiji-person-zhanghan",
+   "evidence": [
+    "P64"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-yingzheng",
+   "predicate": "enfeoffed",
+   "object": "shiji-person-laoai",
+   "evidence": [
+    "P8"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-yingzheng",
+   "predicate": "defeated",
+   "object": "shiji-person-laoai",
+   "evidence": [
+    "P9"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-yingzheng",
+   "predicate": "defeated",
+   "object": "shiji-person-chengjiao",
+   "evidence": [
+    "P8"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-yingzheng",
+   "predicate": "defeated",
+   "object": "shiji-person-changpingjun",
+   "evidence": [
+    "P23",
+    "P24"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-wangjian",
+   "predicate": "defeated",
+   "object": "shiji-person-xiangyan",
+   "evidence": [
+    "P24"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-zhanghan",
+   "predicate": "defeated",
+   "object": "shiji-person-zhouzhang",
+   "evidence": [
+    "P64"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-zhanghan",
+   "predicate": "defeated",
+   "object": "shiji-person-chensheng",
+   "evidence": [
+    "P64"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-xiangyu",
+   "predicate": "defeated",
+   "object": "shiji-person-wangli",
+   "evidence": [
+    "P66"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-xiangyu",
+   "predicate": "defeated",
+   "object": "shiji-person-zhanghan",
+   "evidence": [
+    "P66"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-zhaogao",
+   "predicate": "killed",
+   "object": "shiji-person-huhai",
+   "evidence": [
+    "P67"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-yanle",
+   "predicate": "killed",
+   "object": "shiji-person-huhai",
+   "evidence": [
+    "P67"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-ziying",
+   "predicate": "killed",
+   "object": "shiji-person-zhaogao",
+   "evidence": [
+    "P68"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-xiangyu",
+   "predicate": "killed",
+   "object": "shiji-person-ziying",
+   "evidence": [
+    "P68"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-zhaogao",
+   "predicate": "killed",
+   "object": "shiji-person-lisi",
+   "evidence": [
+    "P66"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-huhai",
+   "predicate": "killed",
+   "object": "shiji-person-jianglv",
+   "evidence": [
+    "P61"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-zhaogao",
+   "predicate": "killed",
+   "object": "shiji-person-fusu",
+   "evidence": [
+    "P55"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-jingke",
+   "predicate": "attempted_to_kill",
+   "object": "shiji-person-yingzheng",
+   "evidence": [
+    "P20"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-yantaizidan",
+   "predicate": "sent",
+   "object": "shiji-person-jingke",
+   "evidence": [
+    "P20"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-maojiao",
+   "predicate": "advised",
+   "object": "shiji-person-yingzheng",
+   "evidence": [
+    "P10"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-weiliao",
+   "predicate": "advised",
+   "object": "shiji-person-yingzheng",
+   "evidence": [
+    "P10"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-xiangyan",
+   "predicate": "installed",
+   "object": "shiji-person-changpingjun",
+   "evidence": [
+    "P23"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-lisi",
+   "predicate": "conspired_with",
+   "object": "shiji-person-zhaogao",
+   "evidence": [
+    "P55"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-huhai",
+   "predicate": "conspired_with",
+   "object": "shiji-person-zhaogao",
+   "evidence": [
+    "P55"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-neishiteng",
+   "predicate": "defeated",
+   "object": "shiji-person-hanwanghan",
+   "evidence": [
+    "P17"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-wangjian",
+   "predicate": "defeated",
+   "object": "shiji-person-zhaowangqian",
+   "evidence": [
+    "P19"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-wangben",
+   "predicate": "defeated",
+   "object": "shiji-person-weiwangjia",
+   "evidence": [
+    "P22"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-wangjian",
+   "predicate": "defeated",
+   "object": "shiji-person-jingwangfuchu",
+   "evidence": [
+    "P23"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-wangben",
+   "predicate": "defeated",
+   "object": "shiji-person-yanwangxi",
+   "evidence": [
+    "P25"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-wangben",
+   "predicate": "defeated",
+   "object": "shiji-person-qiwangjian",
+   "evidence": [
+    "P26"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-wangben",
+   "predicate": "defeated",
+   "object": "shiji-person-zhaogongzijia",
+   "evidence": [
+    "P26"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-zhanghan",
+   "predicate": "defeated",
+   "object": "shiji-person-weijiu",
+   "evidence": [
+    "P64"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-zhanghan",
+   "predicate": "defeated",
+   "object": "shiji-person-xiangliang",
+   "evidence": [
+    "P64"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-houshengqi",
+   "predicate": "minister_of",
+   "object": "shiji-person-qiwangjian",
+   "evidence": [
+    "P26"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-simaxin",
+   "predicate": "minister_of",
+   "object": "shiji-person-zhanghan",
+   "evidence": [
+    "P65"
+   ],
+   "source": "正文"
+  },
+  {
+   "subject": "shiji-person-dongyi",
+   "predicate": "minister_of",
+   "object": "shiji-person-zhanghan",
+   "evidence": [
+    "P65"
+   ],
+   "source": "正文"
+  }
+ ]
+}

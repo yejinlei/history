@@ -1,0 +1,2419 @@
+{
+  "book": "shiji",
+  "chapter": "孝景本纪",
+  "persons": [
+    {
+      "id": "shiji-person-xiaojinghuangdi",
+      "name": "孝景皇帝",
+      "aliases": [
+        "孝景",
+        "景帝",
+        "啟",
+        "劉啟"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "皇帝",
+      "description": "汉文帝中子，母窦太后，名启（注疏《汉书音义》云「讳启」）。即位后赦天下、除田半租；用晁错谋削诸侯，致吴楚七国反，遣窦婴、周亚夫平之。在位十六年崩，葬阳陵，谥景。",
+      "evidence": [
+        "P0",
+        "P1",
+        "P3",
+        "P7",
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-xiaowen",
+      "name": "孝文",
+      "aliases": [
+        "孝文帝",
+        "漢文帝",
+        "文帝"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "皇帝",
+      "description": "即汉文帝。孝景皇帝之父。据本书，其在代时前后有三男，及窦太后得幸，前后死、三子更死，故孝景得立。景帝元年为其立太宗庙。",
+      "evidence": [
+        "P0",
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-doutaihou",
+      "name": "竇太后",
+      "aliases": [
+        "窦太后"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "皇太后",
+      "description": "汉文帝皇后，孝景皇帝刘启之生母。据本书，文帝在代时前后三男及窦太后得幸后诸子更死，故孝景得以继立。景帝尊之为太后。",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-botaihou",
+      "name": "孝文太后",
+      "aliases": [
+        "薄太后"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "皇太后",
+      "description": "即薄太后，汉文帝之母。景帝二年四月壬午崩。注疏《索隐》云亦葬芷阳西，称少陵；又《集解》引《地理志》谓南陵县为文帝所置。",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-douying",
+      "name": "竇嬰",
+      "aliases": [
+        "魏其侯",
+        "窦婴"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "大將軍",
+      "description": "景帝时外戚、大臣。三年吴楚七国反，天子任为大将军，与太尉周亚夫将兵平之，封魏其侯。注疏《正义》据《地理志》称魏其属琅邪。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-taoqing",
+      "name": "陶青",
+      "aliases": [
+        "開封侯",
+        "开封侯"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "丞相",
+      "description": "景帝时大臣，封开封侯，曾任御史大夫。景帝二年八月继申屠嘉为丞相，至景帝七年免相。",
+      "evidence": [
+        "P2",
+        "P7"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhouyafu",
+      "name": "周亞夫",
+      "aliases": [
+        "條侯",
+        "条侯",
+        "周亚夫"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "太尉",
+      "description": "景帝时名将，封条侯。三年七国反，任太尉将兵平吴楚。七年为丞相，中三年免。述赞谓其「後卒下獄」。注疏注「條」音田彫反，字亦作「蓧」。",
+      "evidence": [
+        "P3",
+        "P7",
+        "P10",
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-chaocuo",
+      "name": "晁錯",
+      "aliases": [
+        "鼂錯",
+        "晁错"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "大臣",
+      "description": "景帝时大臣。主张削夺诸侯，致吴楚七国俱起。景帝为平乱诛晁错，乱仍不止。太史公评其「刻削諸侯」「爲之不以漸」，述赞云「晁錯雖誅，梁城未克」。",
+      "evidence": [
+        "P3",
+        "P17",
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-chenjiao",
+      "name": "陳蟜",
+      "aliases": [
+        "蟜",
+        "隆慮侯",
+        "陈蟜"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "列侯",
+      "description": "长公主之子。景帝五年丁卯封为隆虑侯。注疏《正义》引《惠景间年表》作「隆盧侯陳蟜」。",
+      "evidence": [
+        "P5"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-yuanang",
+      "name": "袁盎",
+      "aliases": [
+        "爰盎"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "大臣",
+      "description": "景帝时大臣。景帝三年吴楚七国反，天子为诛晁错，遣袁盎谕告吴楚罢兵，乱仍不止，无功而还。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-shentujia",
+      "name": "申屠嘉",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "丞相",
+      "description": "文帝、景帝时丞相。景帝二年卒，八月以御史大夫开封侯陶青继任丞相。",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-xiaohe",
+      "name": "蕭何",
+      "aliases": [
+        "萧何",
+        "相國"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "相國",
+      "description": "汉初相国，封酂侯。景帝二年春，其孙萧系（一作萧嘉）封武陵侯。",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-xiaoxi",
+      "name": "蕭係",
+      "aliases": [
+        "蕭嘉",
+        "武陵侯",
+        "萧系"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "列侯",
+      "description": "萧何之孙。景帝二年春封武陵侯。注疏徐广云《汉书》亦作「係」，邹诞生本作「傒」；又云《汉书》功臣表及萧何传皆作「孫嘉」，疑其人有二名。",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liubi",
+      "name": "劉濞",
+      "aliases": [
+        "吳王濞",
+        "吳王",
+        "吴王濞"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王（吳王）",
+      "description": "高祖兄刘仲之子，封吴王，都吴（江都）。景帝三年与楚、赵等六国同反，发兵西乡，为七国之乱首。注疏《正义》云高祖十二年封，三十三年反。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuwu",
+      "name": "劉戊",
+      "aliases": [
+        "楚王戊",
+        "楚王"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王（楚王）",
+      "description": "楚元王刘交之孙，嗣楚王二十一年。景帝三年参与七国反，都彭城。注疏《正义》云「高祖弟楚王交孫，嗣二十一年反，都彭城」。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liusui",
+      "name": "劉遂",
+      "aliases": [
+        "趙王遂",
+        "赵王遂"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王（趙王）",
+      "description": "汉高祖孙，赵幽王刘友之子，嗣赵王二十六年。景帝三年参与七国反，都邯郸。注疏《正义》云「高祖孫，幽王友子，嗣二十六年反，都邯鄲」。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuang",
+      "name": "劉卬",
+      "aliases": [
+        "膠西王卬",
+        "胶西王卬"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王（膠西王）",
+      "description": "汉高祖孙，齐悼惠王之子，原平昌侯，景帝三年为胶西王，参与七国反。注疏《正义》云卬五郎反，都密州高密县。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liupiguang",
+      "name": "劉辟光",
+      "aliases": [
+        "濟南王辟光",
+        "济南王辟光"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王（濟南王）",
+      "description": "汉高祖孙，齐悼惠王之子，原扐侯，景帝三年为济南王，参与七国反。注疏《正义》引《括地志》谓济南故城在淄川长山县西北三十里。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuxian",
+      "name": "劉賢",
+      "aliases": [
+        "菑川王賢",
+        "菑川王贤"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王（菑川王）",
+      "description": "汉高祖孙，齐悼惠王之子，原武城侯，景帝三年为菑川王，参与七国反，都剧。注疏《正义》引《括地志》云故剧城在青州寿光县南。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuxiongqu",
+      "name": "劉雄渠",
+      "aliases": [
+        "膠東王雄渠",
+        "胶东王雄渠"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王（膠東王）",
+      "description": "汉高祖孙，齐悼惠王之子，原白石侯，景帝三年为胶东王，参与七国反，都即墨。注疏《正义》引《括地志》云即墨故城在密州胶水县东南。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liujiao",
+      "name": "楚元王",
+      "aliases": [
+        "劉交",
+        "刘交"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王（楚王）",
+      "description": "名刘交，汉高祖之弟，封楚王。景帝三年平七国后，其子蓺以与谋反获赦，其子平陆侯刘礼被立为楚王。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-yi",
+      "name": "蓺",
+      "aliases": [
+        "藝",
+        "劉蓺",
+        "刘艺"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "宗室",
+      "description": "楚元王之子。景帝三年六月，以与七国谋反获赦。注疏《正义》注其音「魚曳反」，字亦作「藝」。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuli",
+      "name": "劉禮",
+      "aliases": [
+        "平陸侯劉禮",
+        "平陆侯刘礼"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王（楚王）",
+      "description": "楚元王之子，原封平陆侯。景帝三年七国平定后，立为楚王。注疏引韦昭、应劭云平陆为西河县。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuduan",
+      "name": "劉端",
+      "aliases": [
+        "皇子端",
+        "膠西王端",
+        "胶西王端"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王（膠西王）",
+      "description": "景帝皇子。景帝三年吴楚七国平定后，立为胶西王，以代参与叛乱之胶西王刘卬。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liusheng",
+      "name": "劉勝",
+      "aliases": [
+        "皇子勝",
+        "中山王勝",
+        "中山王胜"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王（中山王）",
+      "description": "景帝皇子。景帝三年吴楚七国平定后，与兄端等同时受封，立为中山王。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuzhi",
+      "name": "劉志",
+      "aliases": [
+        "濟北王志",
+        "济北王志",
+        "菑川王"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王",
+      "description": "原为济北王。景帝三年七国平后，徙为菑川王。注疏《正义》云济北国今济州卢县，即济北王所都。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuyu",
+      "name": "劉餘",
+      "aliases": [
+        "淮陽王餘",
+        "淮阳王余",
+        "魯王餘"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王",
+      "description": "原为淮阳王。景帝三年七国平后，徙为鲁王。注疏《正义》云淮阳国今陈州、鲁今兖州曲阜县。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liufei",
+      "name": "劉非",
+      "aliases": [
+        "汝南王非",
+        "江都王非"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王",
+      "description": "原为汝南王。景帝三年七国平后，徙为江都王。注疏《正义》云汝南国今豫州，江都国今扬州，本吴王濞所都，乱平后景帝改为江都国以封之。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liujianglu",
+      "name": "劉將廬",
+      "aliases": [
+        "齊王將廬",
+        "齐王将庐"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王（齊王）",
+      "description": "齐王，齐悼惠王之孙、齐王襄之子。景帝三年薨。注疏《索隐》云「廬」《汉书》作「閭」。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liujia",
+      "name": "劉嘉",
+      "aliases": [
+        "燕王嘉"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王（燕王）",
+      "description": "燕王，名嘉。景帝三年薨。注疏《索隐》云为刘泽之子，燕为汉初所封同姓诸侯国。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liurong",
+      "name": "劉榮",
+      "aliases": [
+        "栗太子",
+        "臨江王",
+        "临江王",
+        "刘荣"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "太子／諸侯王",
+      "description": "景帝长子。景帝四年立为太子（栗太子），七年废为临江王，中二年召至，即死中尉府中。注疏《正义》云临江为忠州县，王临江而都江陵。",
+      "evidence": [
+        "P4",
+        "P7",
+        "P9"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuche",
+      "name": "劉徹",
+      "aliases": [
+        "皇子徹",
+        "膠東王徹",
+        "皇太子",
+        "孝武皇帝",
+        "汉武帝"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "皇帝",
+      "description": "景帝皇子。景帝四年立为胶东王，七年立为太子（名彻），景帝崩后即位，是为孝武皇帝。",
+      "evidence": [
+        "P4",
+        "P7",
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-changgongzhu",
+      "name": "長公主",
+      "aliases": [
+        "长公主"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "公主",
+      "description": "景帝之姊（馆陶长公主）。景帝五年丁卯，其子陈蟜受封为隆虑侯。注疏《正义》引《惠景间年表》亦见「隆盧侯陳蟜」。",
+      "evidence": [
+        "P5"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhaowan",
+      "name": "趙綰",
+      "aliases": [
+        "綰",
+        "建陵侯",
+        "赵绾",
+        "衞綰",
+        "卫绾"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "中尉／丞相",
+      "description": "景帝时官员。正文六年春作「中尉趙綰」，封建陵侯；后元年以御史大夫「綰」继刘舍为丞相，仍封建陵侯。用字有异说：注疏《索隐》于后元年注称其「姓衞」，即衞綰，与正文「趙綰」异文。注疏《正义》云建陵故县在沂州承县界。",
+      "evidence": [
+        "P6",
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-hunye",
+      "name": "渾邪",
+      "aliases": [
+        "平曲侯",
+        "浑邪"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "太守／列侯",
+      "description": "陇西太守。景帝六年封平曲侯。注疏《正义》引《括地志》云平曲故城在瀛州文安县北七十里，徐广注其姓。",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-bu",
+      "name": "布",
+      "aliases": [
+        "鄃侯"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "將軍／列侯",
+      "description": "原为将军，名布，姓氏不详。景帝六年春，与建陵侯赵绾等同批受封，封为鄃侯。",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhouke",
+      "name": "周苛",
+      "aliases": [
+        "御史大夫周苛"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "御史大夫",
+      "description": "汉初御史大夫。其孙周平于景帝中元年封绳侯。注疏《索隐》云周苛为周昌之兄。",
+      "evidence": [
+        "P8"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhouping",
+      "name": "周平",
+      "aliases": [
+        "繩侯",
+        "绳侯"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "列侯",
+      "description": "周苛之孙。景帝中元年，与故御史大夫周昌之子左车等同批受封，封为绳侯。",
+      "evidence": [
+        "P8"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhouzhang",
+      "name": "周昌",
+      "aliases": [
+        "御史大夫周昌"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "御史大夫",
+      "description": "汉初御史大夫。其子左车于景帝中元年封安阳侯。注疏《索隐》云其兄为周苛。",
+      "evidence": [
+        "P8"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhouzuoche",
+      "name": "周左車",
+      "aliases": [
+        "安陽侯",
+        "周左车"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "列侯",
+      "description": "周昌之子。景帝中元年，与故御史大夫周苛之孙平等同批受封，封为安阳侯。",
+      "evidence": [
+        "P8"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liupengzu",
+      "name": "劉彭祖",
+      "aliases": [
+        "廣川王",
+        "赵王彭祖"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王",
+      "description": "景帝皇子。景帝二年以广川王就国，五年徙为赵王。注疏《索隐》云广川王彭祖为景帝子，遣就国也。",
+      "evidence": [
+        "P2",
+        "P5"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liufa",
+      "name": "劉發",
+      "aliases": [
+        "長沙王",
+        "长沙王"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王（長沙王）",
+      "description": "景帝皇子。景帝二年以长沙王就国。注疏《索隐》云长沙王发为景帝子，遣就国也。",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuyue",
+      "name": "劉越",
+      "aliases": [
+        "皇子越",
+        "廣川王越"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王（廣川王）",
+      "description": "景帝皇子。景帝中二年夏，与弟寄同时受封，越立为广川王，寄立为胶东王。",
+      "evidence": [
+        "P9"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuji",
+      "name": "劉寄",
+      "aliases": [
+        "皇子寄",
+        "膠東王寄"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王（膠東王）",
+      "description": "景帝皇子。景帝中二年夏，与兄越同时受封，寄立为胶东王，越则立为广川王。",
+      "evidence": [
+        "P9"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liufangcheng",
+      "name": "劉方乘",
+      "aliases": [
+        "皇子方乘",
+        "清河王方乘"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王（清河王）",
+      "description": "景帝皇子。景帝中三年，于匈奴王来降、周亚夫免相之岁，立皇子方乘为清河王。",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liushun",
+      "name": "劉舜",
+      "aliases": [
+        "皇子舜",
+        "常山王舜"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王（常山王）",
+      "description": "景帝皇子。景帝中五年夏，立皇子舜为常山王，是年并封十侯、天下大潦。",
+      "evidence": [
+        "P12"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liangxiaowang",
+      "name": "梁孝王",
+      "aliases": [
+        "梁王"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王（梁王）",
+      "description": "景帝时梁王，都睢阳。中六年薨，死后梁国分为五国。注疏《正义》云梁孝王都睢阳，今宋州。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuming",
+      "name": "劉明",
+      "aliases": [
+        "濟川王明",
+        "梁孝王子明"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王（濟川王）",
+      "description": "梁孝王之子。中六年梁分为五，立为济川王。注疏《正义》引《惠景间年表》见「桓邑侯刘明」等五人。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liupengli",
+      "name": "劉彭離",
+      "aliases": [
+        "濟東王彭離",
+        "梁孝王子彭離"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王（濟東王）",
+      "description": "梁孝王之子。景帝中六年梁孝王薨后梁分为五，彭离与兄弟明、定、不识同时受封，立为济东王。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liuding",
+      "name": "劉定",
+      "aliases": [
+        "山陽王定",
+        "梁孝王子定"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王（山陽王）",
+      "description": "梁孝王之子。中六年梁分为五，立为山阳王。注疏《正义》云山阳国景帝中六年别置，属兖州。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liubushi",
+      "name": "劉不識",
+      "aliases": [
+        "濟陰王不識",
+        "梁孝王子不識"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王（濟陰王）",
+      "description": "梁孝王之子。中六年梁分为五，立为济阴王。注疏《正义》云济阴国景帝中六年别置，属兖州，即今曹州。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-chengyanggongwang",
+      "name": "城陽共王",
+      "aliases": [
+        "城阳共王"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯王（城陽王）",
+      "description": "城阳王，谥共（恭）。中六年薨。注疏《正义》云城阳今濮州雷泽县，谥法「嚴敬故事曰恭」。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liushe",
+      "name": "劉舍",
+      "aliases": [
+        "桃侯",
+        "丞相劉舍"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "丞相",
+      "description": "景帝时大臣，封桃侯。中三年由御史大夫继周亚夫为丞相，后元年免。",
+      "evidence": [
+        "P10",
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhidu",
+      "name": "郅都",
+      "aliases": [
+        "郅將軍",
+        "郅将军"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "將軍",
+      "description": "景帝时将军。后二年击匈奴。注疏《正义》注「郅」音真栗反，引《郅都传》云匈奴刻木为郅都而射，不中。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-tianfen",
+      "name": "田蚡",
+      "aliases": [
+        "武安侯",
+        "皇太后弟蚡"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "列侯",
+      "description": "王太后异父弟。景帝崩、武帝即位后，封为武安侯。注疏《索隐》云其母臧氏改嫁长陵田氏而生蚡及胜，蚡音扶粉反。",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-tiansheng",
+      "name": "田勝",
+      "aliases": [
+        "周陽侯",
+        "皇太后弟勝"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "列侯",
+      "description": "王太后异父弟，田蚡之弟。武帝初封为周阳侯。注疏《索隐》云其母臧氏更嫁长陵田氏生蚡及胜。",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-wangtaihou",
+      "name": "王太后",
+      "aliases": [
+        "膠東王太后",
+        "皇太后",
+        "皇后"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "皇后／皇太后",
+      "description": "景帝皇后、武帝刘彻生母。本为胶东王太后，景帝七年立为皇后，武帝即位后为皇太后。注疏《索隐》云其为槐里人，父仲，兄王信封盖侯。",
+      "evidence": [
+        "P7",
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-simaqian",
+      "name": "太史公",
+      "aliases": [
+        "司馬遷",
+        "司马迁"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "史官",
+      "description": "即司马迁，本纪作者。篇末「太史公曰」评论景帝时七国之乱因由及晁错削藩之失，并及主父偃推恩之效。",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhufuyan",
+      "name": "主父偃",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "大臣",
+      "description": "武帝时大臣。太史公曰称其建议推恩，使诸侯以弱、天下卒安。注疏《索隐》云主父偃上言，天子下推恩之令，令诸侯各得分邑其子弟。",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-chengjia",
+      "name": "程嘉",
+      "aliases": [
+        "嘉",
+        "建平侯",
+        "江都丞相嘉"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯相／列侯",
+      "description": "江都丞相。景帝六年春，与中尉赵绾等同批受封，封为建平侯。注疏《集解》徐广注其「姓程」。",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-sujia",
+      "name": "蘇嘉",
+      "aliases": [
+        "嘉",
+        "江陵侯",
+        "趙丞相嘉"
+      ],
+      "type": "Person",
+      "dynasty": "西漢",
+      "role": "諸侯相／列侯",
+      "description": "赵国丞相。景帝六年春，与中尉赵绾等同批受封，封为江陵侯。注疏《集解》徐广注其「姓蘇」。",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    }
+  ],
+  "places": [
+    {
+      "id": "shiji-place-changan",
+      "name": "長安",
+      "type": "Place",
+      "modern": "今陝西西安",
+      "description": "汉都。注疏《集解》引皇甫谧云景帝阳陵去长安四十五里（注疏p16）。",
+      "evidence": [
+        "P16"
+      ],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-place-luoyang",
+      "name": "雒陽",
+      "type": "Place",
+      "modern": "今河南洛陽",
+      "description": "要地。景帝三年天火燔雒阳东宫大殿城室。注疏徐广云「雒，一作『淮』」，《索隐》云《汉书》作「淮阳」。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-zichuan",
+      "name": "菑川",
+      "type": "Place",
+      "modern": "約今山東壽光、淄博一帶",
+      "description": "诸侯国。景帝三年菑川王刘贤参与七国反；平乱后徙济北王刘志为菑川王。注疏《正义》引《括地志》云故剧城在青州寿光县南。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-duiyu",
+      "name": "祋祤",
+      "type": "Place",
+      "modern": "注疏僅注音讀，未詳今地",
+      "description": "县名。景帝二年与南陵、内史同时置为县。注疏《索隐》注其音「祋，都會反/丁活反；祤音羽/詡」。",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-nanling",
+      "name": "南陵",
+      "type": "Place",
+      "modern": "注疏未詳今地，與薄太后陵（少陵）相關",
+      "description": "县名。正文系于景帝二年。注疏《集解》引徐广、《地理志》谓南陵县实为文帝所置，裴駰按南陵文本帝置、景帝二年所置者乃分内史及祋祤；《索隐》云其地亦薄太后所葬，曰少陵。",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yangling",
+      "name": "陽陵",
+      "type": "Place",
+      "modern": "今陝西咸陽東",
+      "description": "景帝陵及其县。景帝四年後九月更以弋陽為陽陵（P4）；五年作阳陵、渭桥，募徙阳陵；後三年置阳陵。注疏《正义》引《括地志》云景帝陵在雍州咸阳县东三十里（注疏p4）。",
+      "evidence": [
+        "P4",
+        "P5",
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-weiqiao",
+      "name": "渭橋",
+      "type": "Place",
+      "modern": "今陝西西安渭水之上",
+      "description": "渭水上的桥梁。景帝五年三月所造。",
+      "evidence": [
+        "P5"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-handanjun",
+      "name": "邯鄲郡",
+      "type": "Place",
+      "modern": "今河北邯鄲一帶",
+      "description": "郡名。景帝四年冬以赵国为邯郸郡。注疏《集解》引《地理志》云赵国景帝以为邯郸郡。",
+      "evidence": [
+        "P4"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-dai",
+      "name": "代",
+      "type": "Place",
+      "modern": "約今山西大同、河北蔚縣一帶",
+      "description": "郡/国。景帝元年匈奴入代，与约和亲。",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-wuling",
+      "name": "武陵",
+      "type": "Place",
+      "modern": "約今湖南常德一帶（漢有武陵郡）",
+      "description": "侯国。景帝二年封故相国萧何之孙萧系为武陵侯。",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-guangchuan",
+      "name": "廣川",
+      "type": "Place",
+      "modern": "約今河北衡水、棗強一帶",
+      "description": "诸侯国。景帝二年广川王就国，五年徙广川王为赵王。",
+      "evidence": [
+        "P2",
+        "P5"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-changsha",
+      "name": "長沙",
+      "type": "Place",
+      "modern": "今湖南長沙",
+      "description": "诸侯国。景帝二年长沙王就国。注疏《索隐》云长沙王发为景帝子。",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-hengshan",
+      "name": "衡山",
+      "type": "Place",
+      "modern": "今湖南衡陽一帶",
+      "description": "郡/国。景帝二年秋衡山雨雹，大者五寸、深者二尺；后二年衡山国民疫。注疏《正义》云衡山国今衡州。",
+      "evidence": [
+        "P2",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jiangdu",
+      "name": "江都",
+      "type": "Place",
+      "modern": "今江蘇揚州",
+      "description": "诸侯国。景帝三年徙汝南王刘非为江都王；五年江都大暴风坏城十二丈；六年置江都丞相。注疏《正义》云江都国今扬州，本吴王濞所都，乱平后景帝改为江都国。",
+      "evidence": [
+        "P3",
+        "P5"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-liang",
+      "name": "梁",
+      "type": "Place",
+      "modern": "約今河南商丘一帶",
+      "description": "诸侯国，梁孝王都睢阳。景帝三年七国发兵西乡围梁；中六年梁孝王薨，梁分为五国。注疏《正义》云梁孝王都睢阳，今宋州。",
+      "evidence": [
+        "P3",
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-chu",
+      "name": "楚",
+      "type": "Place",
+      "modern": "約今江蘇徐州一帶",
+      "description": "诸侯国，都彭城。景帝三年楚王刘戊参与七国反；乱平后立刘礼为楚王。注疏《正义》云都彭城。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-zhao",
+      "name": "趙",
+      "type": "Place",
+      "modern": "約今河北南部",
+      "description": "诸侯国，都邯郸。景帝三年赵王刘遂参与七国反；四年以赵国为邯郸郡。",
+      "evidence": [
+        "P3",
+        "P4"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jiaoxi",
+      "name": "膠西",
+      "type": "Place",
+      "modern": "約今山東高密一帶",
+      "description": "诸侯国。景帝三年胶西王刘卬参与七国反；乱平后立皇子端为胶西王。注疏《正义》云都密州高密县。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jinan",
+      "name": "濟南",
+      "type": "Place",
+      "modern": "約今山東濟南、章丘一帶",
+      "description": "诸侯国。景帝三年济南王刘辟光参与七国反。注疏《正义》引《括地志》云济南故城在淄川长山县西北三十里。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jiaodong",
+      "name": "膠東",
+      "type": "Place",
+      "modern": "約今山東即墨一帶",
+      "description": "诸侯国。景帝三年胶东王刘雄渠参与七国反；四年立皇子彻为胶东王。注疏《正义》引《括地志》云都即墨，即胶东国。",
+      "evidence": [
+        "P3",
+        "P4"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jibei",
+      "name": "濟北",
+      "type": "Place",
+      "modern": "約今山東聊城、長清一帶",
+      "description": "诸侯国。景帝三年徙济北王刘志为菑川王。注疏《正义》云济北国今济州卢县，即济北王所都。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-huaiyang",
+      "name": "淮陽",
+      "type": "Place",
+      "modern": "今河南淮陽",
+      "description": "诸侯国。景帝三年徙淮阳王刘余为鲁王。注疏《正义》云淮阳国今陈州。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-lu",
+      "name": "魯",
+      "type": "Place",
+      "modern": "今山東曲阜",
+      "description": "诸侯国。景帝三年徙淮阳王刘余为鲁王。注疏《正义》云鲁今兖州曲阜县。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-runan",
+      "name": "汝南",
+      "type": "Place",
+      "modern": "約今河南汝南、平輿一帶",
+      "description": "诸侯国。景帝三年徙汝南王刘非为江都王；中六年汝南王薨。注疏《正义》云汝南国今豫州。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-weiqi",
+      "name": "魏其",
+      "type": "Place",
+      "modern": "約今山東臨沂一帶",
+      "description": "侯国。景帝三年封大将军窦婴为魏其侯。注疏《正义》云魏其属琅邪。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-pinglu",
+      "name": "平陸",
+      "type": "Place",
+      "modern": "約今山西平陸一帶（西河縣）",
+      "description": "县名。景帝三年立平陆侯刘礼为楚王。注疏引韦昭、应劭云平陆为西河县。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yan",
+      "name": "燕",
+      "type": "Place",
+      "modern": "約今北京及河北北部",
+      "description": "诸侯国。景帝三年燕王刘嘉薨；中二年匈奴入燕，遂不和亲。",
+      "evidence": [
+        "P3",
+        "P9"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-qi",
+      "name": "齊",
+      "type": "Place",
+      "modern": "今山東淄博臨淄",
+      "description": "诸侯国。景帝三年齐王将庐薨。注疏《正义》云齐国，青州临淄也。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yiyang",
+      "name": "弋陽",
+      "type": "Place",
+      "modern": "約今陝西咸陽東（後改稱陽陵）",
+      "description": "地名。景帝四年后九月，更以弋阳为阳陵。",
+      "evidence": [
+        "P4"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-linjiang",
+      "name": "臨江",
+      "type": "Place",
+      "modern": "約今重慶忠縣一帶",
+      "description": "诸侯国。景帝七年废栗太子为临江王；中二年召临江王，即死中尉府中。注疏《正义》云临江为忠州县，王临江而都江陵。",
+      "evidence": [
+        "P7",
+        "P9"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jiangling",
+      "name": "江陵",
+      "type": "Place",
+      "modern": "今湖北荊州江陵",
+      "description": "县/郡治。临江王虽王临江而都江陵。注疏《正义》云都江陵（注疏p7）。",
+      "evidence": [
+        "P7"
+      ],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-place-deyanggong",
+      "name": "德陽宮",
+      "type": "Place",
+      "modern": "景帝廟，在陽陵附近",
+      "description": "宫名，景帝自作，实为景帝庙。中四年三月置。注疏《集解》引瓚及《西京故事》云景帝庙为德阳宫，帝讳不言庙故言宫。",
+      "evidence": [
+        "P11"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yong",
+      "name": "雍",
+      "type": "Place",
+      "modern": "今陝西鳳翔",
+      "description": "县名。景帝中六年二月行幸雍，郊见五帝。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-shangjun",
+      "name": "上郡",
+      "type": "Place",
+      "modern": "約今陝西榆林及內蒙南部",
+      "description": "郡名。景帝中六年八月匈奴入上郡。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-shangyong",
+      "name": "上庸",
+      "type": "Place",
+      "modern": "約今湖北竹山一帶",
+      "description": "县名。后元年上庸地震二十二日，坏城垣。",
+      "evidence": [
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yanmen",
+      "name": "鴈門",
+      "type": "Place",
+      "modern": "約今山西代縣、朔州一帶",
+      "description": "郡名。后二年三月匈奴入雁门。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-changling",
+      "name": "長陵",
+      "type": "Place",
+      "modern": "今陝西咸陽東北",
+      "description": "县/陵，汉高祖陵所在。后二年十月租长陵田。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yunzhong",
+      "name": "雲中郡",
+      "type": "Place",
+      "modern": "約今內蒙托克托一帶",
+      "description": "郡名。后二年云中郡民疫。注疏《正义》云云中郡今胜州。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-hedong",
+      "name": "河東",
+      "type": "Place",
+      "modern": "約今山西運城一帶",
+      "description": "郡名。后二年河东郡民疫。注疏《正义》云河东今蒲州。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-dongdumen",
+      "name": "東都門",
+      "type": "Place",
+      "modern": "今陝西西安（漢長安城東）",
+      "description": "长安城门。中三年九月军东都门外。注疏引《三辅黄图》云东出北头第一门曰宣平门，外曰东都门。",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-lanchi",
+      "name": "蘭池",
+      "type": "Place",
+      "modern": "約今陝西咸陽東（蘭池宮）",
+      "description": "池名/宫苑。景帝六年后九月伐驰道树，殖兰池。",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jianling",
+      "name": "建陵",
+      "type": "Place",
+      "modern": "約今山東棗莊一帶",
+      "description": "县/侯国。景帝六年封中尉赵绾为建陵侯。注疏《正义》引《括地志》云建陵故县在沂州承县界。",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-pingqu",
+      "name": "平曲",
+      "type": "Place",
+      "modern": "約今河北文安一帶",
+      "description": "县/侯国。景帝六年封陇西太守浑邪为平曲侯。注疏《正义》引《括地志》云平曲故城在瀛州文安县北七十里。",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-suiyang",
+      "name": "睢陽",
+      "type": "Place",
+      "modern": "今河南商丘",
+      "description": "梁国都。注疏《正义》云梁孝王都睢阳，今宋州（注疏p3、p13）。",
+      "evidence": [
+        "P3",
+        "P13"
+      ],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-place-pengcheng",
+      "name": "彭城",
+      "type": "Place",
+      "modern": "今江蘇徐州",
+      "description": "楚国都。注疏《正义》云楚王都彭城（注疏p3）。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-place-xianyang",
+      "name": "咸陽",
+      "type": "Place",
+      "modern": "今陝西咸陽",
+      "description": "县名。注疏《正义》引《括地志》云汉景帝陵在雍州咸阳县东三十里（注疏p4）。",
+      "evidence": [
+        "P4"
+      ],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-place-zhiyang",
+      "name": "芷陽",
+      "type": "Place",
+      "modern": "約今陝西西安東",
+      "description": "地名。注疏《索隐》云薄太后葬芷阳西，曰少陵（注疏p2）。",
+      "evidence": [
+        "P2"
+      ],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-place-yuandu",
+      "name": "原都",
+      "type": "Place",
+      "modern": "注疏未詳今地（其地當近衡山）",
+      "description": "县名。景帝中元年衡山、原都雨雹，大者尺八寸。",
+      "evidence": [
+        "P8"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-taizongmiao",
+      "name": "太宗廟",
+      "type": "Place",
+      "modern": "約在漢長安（孝文帝廟）",
+      "description": "孝文帝之庙。景帝元年五月为孝文立太宗庙，令群臣无朝贺。",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    }
+  ],
+  "events": [
+    {
+      "id": "shiji-event-qiguozhiluan",
+      "name": "吳楚七國之亂",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liubi",
+        "shiji-person-liuwu",
+        "shiji-person-liusui",
+        "shiji-person-liuang",
+        "shiji-person-liupiguang",
+        "shiji-person-liuxian",
+        "shiji-person-liuxiongqu"
+      ],
+      "place": "shiji-place-liang",
+      "description": "景帝三年正月，吴王濞与楚王戊、赵王遂、胶西王卬、济南王辟光、菑川王贤、胶东王雄渠等七国俱反，发兵西乡。太史公论其因晁错削藩、诸侯太盛，「合從而西鄉」而起。",
+      "evidence": [
+        "P3",
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-zhuchaocuo",
+      "name": "誅晁錯",
+      "type": "Event",
+      "participants": [
+        "shiji-person-xiaojinghuangdi",
+        "shiji-person-chaocuo",
+        "shiji-person-yuanang"
+      ],
+      "place": "",
+      "description": "景帝三年七国反，天子为诛晁错，遣袁盎谕告吴楚，乱仍不止。述赞谓「晁錯雖誅，梁城未克」。",
+      "evidence": [
+        "P3",
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-pingdingqiguo",
+      "name": "遣將平七國",
+      "type": "Event",
+      "participants": [
+        "shiji-person-xiaojinghuangdi",
+        "shiji-person-douying",
+        "shiji-person-zhouyafu"
+      ],
+      "place": "shiji-place-liang",
+      "description": "景帝三年，上遣大将军窦婴、太尉周亚夫将兵诛吴楚等七国，遂平定之。述赞云「條侯出將，追奔逐北」。",
+      "evidence": [
+        "P3",
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-litaizi",
+      "name": "立太子（栗太子）",
+      "type": "Event",
+      "participants": [
+        "shiji-person-xiaojinghuangdi",
+        "shiji-person-liurong"
+      ],
+      "place": "",
+      "description": "景帝四年夏，立太子，即长子刘荣，后称栗太子。",
+      "evidence": [
+        "P4"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-feilitaizi",
+      "name": "廢栗太子為臨江王",
+      "type": "Event",
+      "participants": [
+        "shiji-person-xiaojinghuangdi",
+        "shiji-person-liurong"
+      ],
+      "place": "shiji-place-linjiang",
+      "description": "景帝七年冬，废栗太子刘荣为临江王；中二年召之，即死中尉府中。",
+      "evidence": [
+        "P7",
+        "P9"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-licheweitaizi",
+      "name": "立膠東王徹為太子",
+      "type": "Event",
+      "participants": [
+        "shiji-person-xiaojinghuangdi",
+        "shiji-person-liuche",
+        "shiji-person-wangtaihou"
+      ],
+      "place": "",
+      "description": "景帝七年四月乙巳立胶东王太后为皇后，丁巳立胶东王刘彻为太子，名彻。",
+      "evidence": [
+        "P7"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-liangfenweiwu",
+      "name": "梁分為五國",
+      "type": "Event",
+      "participants": [
+        "shiji-person-liangxiaowang",
+        "shiji-person-liuming",
+        "shiji-person-liupengli",
+        "shiji-person-liuding",
+        "shiji-person-liubushi"
+      ],
+      "place": "shiji-place-liang",
+      "description": "景帝中六年梁孝王薨，梁国分为五，立孝王子明为济川王、彭离为济东王、定为山阳王、不识为济阴王。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-zuoyangling",
+      "name": "作陽陵",
+      "type": "Event",
+      "participants": [
+        "shiji-person-xiaojinghuangdi"
+      ],
+      "place": "shiji-place-yangling",
+      "description": "景帝四年後九月更以弋陽為陽陵（P4）；五年三月作阳陵、渭桥，募徙阳陵予钱二十万；後三年置阳陵。注疏云即景帝陵，在雍州咸阳县东三十里（注疏p4）。",
+      "evidence": [
+        "P4",
+        "P5",
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-jingdibeng",
+      "name": "孝景皇帝崩",
+      "type": "Event",
+      "participants": [
+        "shiji-person-xiaojinghuangdi",
+        "shiji-person-liuche"
+      ],
+      "place": "shiji-place-yangling",
+      "description": "后三年正月甲子孝景皇帝崩，遗诏赐爵、出宫人；太子刘彻即位，是为孝武皇帝。注疏引《汉书》云二月癸酉帝葬阳陵。",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-wentaihoubeng",
+      "name": "孝文太后崩",
+      "type": "Event",
+      "participants": [
+        "shiji-person-botaihou"
+      ],
+      "place": "shiji-place-nanling",
+      "description": "景帝二年四月壬午，孝文太后（薄太后）崩。注疏《索隐》云亦葬芷阳西，称少陵。",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-shentujiazu",
+      "name": "丞相申屠嘉卒",
+      "type": "Event",
+      "participants": [
+        "shiji-person-shentujia",
+        "shiji-person-taoqing"
+      ],
+      "place": "",
+      "description": "景帝二年丞相申屠嘉卒，八月以御史大夫开封侯陶青为丞相。",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-xiongnujiang",
+      "name": "匈奴王來降",
+      "type": "Event",
+      "participants": [
+        "shiji-person-xiaojinghuangdi"
+      ],
+      "place": "",
+      "description": "景帝中三年春，匈奴王二人率其徒来降，皆封为列侯。注疏《正义》引《汉书》表云有七人以匈奴王降封侯。",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-chutianbanzu",
+      "name": "除田半租",
+      "type": "Event",
+      "participants": [
+        "shiji-person-xiaojinghuangdi"
+      ],
+      "place": "",
+      "description": "景帝元年五月除田半租，并为孝文立太宗庙，令群臣无朝贺。",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-xiongnurubian",
+      "name": "匈奴入邊",
+      "type": "Event",
+      "participants": [
+        "shiji-person-xiaojinghuangdi"
+      ],
+      "place": "",
+      "description": "景帝元年匈奴入代、与约和亲；中二年入燕，遂不和亲；中六年入上郡；后二年入鴈门。匈奴为汉北边大患，本篇屡见。",
+      "evidence": [
+        "P1",
+        "P9",
+        "P13",
+        "P15"
+      ],
+      "source": "正文"
+    }
+  ],
+  "offices": [
+    {
+      "id": "shiji-office-chengxiang",
+      "name": "丞相",
+      "description": "百官之长，辅佐天子总理政务。景帝时申屠嘉、陶青、周亚夫、刘舍、綰等先后任之，多由御史大夫迁任。",
+      "evidence": [
+        "P2",
+        "P7",
+        "P10",
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-yushidafu",
+      "name": "御史大夫",
+      "description": "丞相之副，掌监察。景帝时陶青、刘舍、綰等任之，多由此迁丞相。",
+      "evidence": [
+        "P2",
+        "P10",
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-taiwei",
+      "name": "太尉",
+      "description": "最高武职，掌军事。景帝三年以周亚夫为太尉平七国，七年由太尉迁丞相。注疏注「條」为条侯封号。",
+      "evidence": [
+        "P3",
+        "P7"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-dajiangjun",
+      "name": "大將軍",
+      "description": "武职，战时统军。景帝三年以窦婴为大将军，与太尉周亚夫将兵诛七国。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-zhongwei",
+      "name": "中尉",
+      "description": "掌京师治安之官。景帝六年封中尉赵绾为建陵侯。",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-taishou",
+      "name": "太守",
+      "description": "郡之长官。景帝六年陇西太守浑邪封平曲侯。",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-neishi",
+      "name": "內史",
+      "description": "掌京畿之官。景帝二年置内史，注疏《集解》引《地理志》云文帝分内史为左右。",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-tingwei",
+      "name": "廷尉",
+      "description": "掌刑狱之官。景帝中六年更名大理。注疏引《汉书·百官表》。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-fengchang",
+      "name": "奉常",
+      "description": "掌宗庙礼仪之官。景帝中六年更名太常。注疏引《汉书·百官表》云秦官。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-dianke",
+      "name": "典客",
+      "description": "掌外交与宾客之官。景帝中六年更名大行。注疏《索隐》云后更大鸿胪，武帝因而不改。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-zhisu",
+      "name": "治粟內史",
+      "description": "掌谷货财赋之官。景帝中六年更名大农。注疏引《汉书·百官表》云秦官，掌谷货。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-jiangzuoshaofu",
+      "name": "將作少府",
+      "description": "掌宫室营建之官。景帝中六年更名将作大匠。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-zhujuezhongwei",
+      "name": "主爵中尉",
+      "description": "掌列侯之事。景帝中六年更名都尉。注疏引《汉书·百官表》云秦官，掌列侯。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-changxinzhanshi",
+      "name": "長信詹事",
+      "description": "掌太后宫事之官。景帝中六年更名长信少府。注疏引张晏云以太后所居宫为名。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-jiangxing",
+      "name": "將行",
+      "description": "掌皇后宫事之官。景帝中六年更名大长秋。注疏引《汉书·百官表》云秦官，应劭云长秋为皇后卿。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-zhongdafu",
+      "name": "中大夫",
+      "description": "官名。景帝后元年更名卫尉，掌宫闱门卫屯兵。注疏《正义》引《汉书·百官表》。",
+      "evidence": [
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-zhuhouxiang",
+      "name": "諸侯相",
+      "description": "诸侯国之相。景帝中五年更命诸侯丞相曰相。",
+      "evidence": [
+        "P12"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-yushizhongcheng",
+      "name": "御史中丞",
+      "description": "御史大夫属官。景帝中三年冬罢诸侯御史中丞。",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-danei",
+      "name": "大內",
+      "description": "京师府藏。景帝中六年以大内为二千石，置左右内官属之。注疏引韦昭云大内为京师府藏，《索隐》云主天子私财物曰少内，少内属大内。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-xiangguo",
+      "name": "相國",
+      "description": "丞相之尊称。景帝二年追念故相国萧何之功，封其孙萧系为武陵侯。",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-weiwei",
+      "name": "衞尉",
+      "description": "掌宫闱门卫屯兵之官。景帝后元年更命中大夫为卫尉。注疏《正义》引《汉书·百官表》云衞尉秦官，景帝初更名中大夫，后元年复为衞尉。",
+      "evidence": [
+        "P14"
+      ],
+      "source": "正文"
+    }
+  ],
+  "relations": [
+    {
+      "subject": "shiji-person-xiaowen",
+      "predicate": "father_of",
+      "object": "shiji-person-xiaojinghuangdi",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "son_of",
+      "object": "shiji-person-xiaowen",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-doutaihou",
+      "predicate": "mother_of",
+      "object": "shiji-person-xiaojinghuangdi",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "son_of",
+      "object": "shiji-person-doutaihou",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "father_of",
+      "object": "shiji-person-liuche",
+      "evidence": [
+        "P4"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "father_of",
+      "object": "shiji-person-liurong",
+      "evidence": [
+        "P4"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-wangtaihou",
+      "predicate": "mother_of",
+      "object": "shiji-person-liuche",
+      "evidence": [
+        "P7"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-changgongzhu",
+      "predicate": "mother_of",
+      "object": "shiji-person-chenjiao",
+      "evidence": [
+        "P5"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-chenjiao",
+      "predicate": "son_of",
+      "object": "shiji-person-changgongzhu",
+      "evidence": [
+        "P5"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "father_of",
+      "object": "shiji-person-liuduan",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "father_of",
+      "object": "shiji-person-liusheng",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "father_of",
+      "object": "shiji-person-liupengzu",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "father_of",
+      "object": "shiji-person-liufa",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "father_of",
+      "object": "shiji-person-liuyue",
+      "evidence": [
+        "P9"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "father_of",
+      "object": "shiji-person-liuji",
+      "evidence": [
+        "P9"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "father_of",
+      "object": "shiji-person-liufangcheng",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "father_of",
+      "object": "shiji-person-liushun",
+      "evidence": [
+        "P12"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "appointed",
+      "object": "shiji-person-douying",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "appointed",
+      "object": "shiji-person-zhouyafu",
+      "evidence": [
+        "P3",
+        "P7"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "appointed",
+      "object": "shiji-person-taoqing",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "appointed",
+      "object": "shiji-person-liushe",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "appointed",
+      "object": "shiji-person-zhaowan",
+      "evidence": [
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "enfeoffed",
+      "object": "shiji-person-douying",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "enfeoffed",
+      "object": "shiji-person-chenjiao",
+      "evidence": [
+        "P5"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "enfeoffed",
+      "object": "shiji-person-zhaowan",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "enfeoffed",
+      "object": "shiji-person-tianfen",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "enfeoffed",
+      "object": "shiji-person-tiansheng",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "enfeoffed",
+      "object": "shiji-person-xiaoxi",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "enfeoffed",
+      "object": "shiji-person-hunye",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "enfeoffed",
+      "object": "shiji-person-bu",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "installed",
+      "object": "shiji-person-liuli",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "installed",
+      "object": "shiji-person-liuduan",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "installed",
+      "object": "shiji-person-liusheng",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "installed",
+      "object": "shiji-person-liuming",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaojinghuangdi",
+      "predicate": "killed",
+      "object": "shiji-person-chaocuo",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaohe",
+      "predicate": "grandfather_of",
+      "object": "shiji-person-xiaoxi",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhouke",
+      "predicate": "grandfather_of",
+      "object": "shiji-person-zhouping",
+      "evidence": [
+        "P8"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhouzhang",
+      "predicate": "father_of",
+      "object": "shiji-person-zhouzuoche",
+      "evidence": [
+        "P8"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhouke",
+      "predicate": "brother_of",
+      "object": "shiji-person-zhouzhang",
+      "evidence": [
+        "P8"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liujiao",
+      "predicate": "father_of",
+      "object": "shiji-person-yi",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liujiao",
+      "predicate": "father_of",
+      "object": "shiji-person-liuli",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liangxiaowang",
+      "predicate": "father_of",
+      "object": "shiji-person-liuming",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liangxiaowang",
+      "predicate": "father_of",
+      "object": "shiji-person-liupengli",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liangxiaowang",
+      "predicate": "father_of",
+      "object": "shiji-person-liuding",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liangxiaowang",
+      "predicate": "father_of",
+      "object": "shiji-person-liubushi",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-tianfen",
+      "predicate": "brother_of",
+      "object": "shiji-person-tiansheng",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-tianfen",
+      "predicate": "brother_of",
+      "object": "shiji-person-wangtaihou",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-tiansheng",
+      "predicate": "brother_of",
+      "object": "shiji-person-wangtaihou",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    }
+  ]
+}

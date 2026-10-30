@@ -1,0 +1,3016 @@
+{
+  "book": "shiji",
+  "chapter": "殷本纪",
+  "persons": [
+    {
+      "id": "shiji-person-qi",
+      "name": "契",
+      "aliases": [
+        "殷契",
+        "玄王"
+      ],
+      "type": "Person",
+      "dynasty": "商（先商）",
+      "role": "殷始祖、司徒",
+      "description": "殷商始祖。母简狄吞玄鸟卵而生。佐禹治水有功，帝舜命为司徒，敬敷五教，封于商，赐姓子氏。索隐引谯周谓契非帝喾之子，乃娀氏女浴川吞卵所生；述赞称玄王启商。",
+      "evidence": [
+        "P0",
+        "P34"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-jiandi",
+      "name": "简狄",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商（先商）",
+      "role": "契之母",
+      "description": "有娀氏之女，为帝喾次妃。与宗妇三人行浴，见玄鸟堕其卵，取吞之，因孕生契。索隐据谯周言其与宗妇浴于川、玄鸟遗卵而吞之，谓简狄非帝喾次妃。",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhaoming",
+      "name": "昭明",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商（先商）",
+      "role": "殷先公",
+      "description": "契之子，为殷先公之一。契卒后昭明继立，其后子相土继立，世代相传为商之先公。",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-xiangtu",
+      "name": "相土",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商（先商）",
+      "role": "殷先公",
+      "description": "昭明之子，继昭明而立。索隐引诗『相土烈烈，海外有截』，左传谓阏伯居商丘、相土因之，是始封商。",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-changruo",
+      "name": "昌若",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商（先商）",
+      "role": "殷先公",
+      "description": "相土之子，为殷先公。继相土而立，其后子曹圉继立，世代相传为商之先公。",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-caoyu",
+      "name": "曹圉",
+      "aliases": [
+        "粮圉"
+      ],
+      "type": "Person",
+      "dynasty": "商（先商）",
+      "role": "殷先公",
+      "description": "昌若之子，为殷先公。继昌若而立。索隐称系本作『粮圉』，字形传写不同。",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-ming",
+      "name": "冥",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商（先商）",
+      "role": "殷先公、司空",
+      "description": "曹圉之子，继曹圉而立。集解引宋忠谓冥为司空，勤其官事，死于水中，殷人郊之。",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhen",
+      "name": "振",
+      "aliases": [
+        "核"
+      ],
+      "type": "Person",
+      "dynasty": "商（先商）",
+      "role": "殷先公",
+      "description": "冥之子，为殷先公。继冥而立。索隐称系本作『核』，乃传写之异。",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-wei",
+      "name": "微",
+      "aliases": [
+        "上甲",
+        "上甲微"
+      ],
+      "type": "Person",
+      "dynasty": "商（先商）",
+      "role": "殷先公",
+      "description": "振之子，继振而立。皇甫谧云微字上甲，其母以甲日生故也；商家生子以日为名，盖自微始。",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-baoding",
+      "name": "报丁",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商（先商）",
+      "role": "殷先公",
+      "description": "微之子，继微而立，为殷先公之一。据本纪世次，其后子报乙继立。",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-baoyi",
+      "name": "报乙",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商（先商）",
+      "role": "殷先公",
+      "description": "报丁之子，继报丁而立，为殷先公之一，其后子报丙继立，世次相承。",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-baobing",
+      "name": "报丙",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商（先商）",
+      "role": "殷先公",
+      "description": "报乙之子，继报乙而立，为殷先公之一，其后子主壬继立，世次相承。",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhuren",
+      "name": "主壬",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商（先商）",
+      "role": "殷先公",
+      "description": "报丙之子，继报丙而立，为殷先公之一，其后子主癸继立，世次相承。",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhugui",
+      "name": "主癸",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商（先商）",
+      "role": "殷先公",
+      "description": "主壬之子，继主壬而立，为成汤之父。主癸卒，子天乙立，是为成汤。",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-chengtang",
+      "name": "成汤",
+      "aliases": [
+        "汤",
+        "天乙",
+        "履",
+        "武王",
+        "武汤"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商朝开国君主",
+      "description": "名履，又称天乙，主癸之子。始居亳，征诸侯，伐葛、昆吾，率诸侯伐夏桀，败桀于鸣条，遂践天子位，平定海内，号曰武王。改正朔、易服色，尚白。谥法『除虐去残曰汤』。",
+      "evidence": [
+        "P1",
+        "P2",
+        "P3",
+        "P4",
+        "P5",
+        "P6",
+        "P7",
+        "P8",
+        "P9",
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-diku",
+      "name": "帝喾",
+      "aliases": [
+        "俈"
+      ],
+      "type": "Person",
+      "dynasty": "五帝",
+      "role": "上古帝王、商先王所自出",
+      "description": "上古帝王，契父、简狄之夫。孔安国谓契父帝喾都亳，汤自商丘迁焉，故曰『从先王居』。索隐谓一作『俈』。",
+      "evidence": [
+        "P0",
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-yu",
+      "name": "禹",
+      "aliases": [
+        "大禹"
+      ],
+      "type": "Person",
+      "dynasty": "夏",
+      "role": "夏后氏之君、治水",
+      "description": "夏后氏之君。契佐禹治水有功。汤诰称禹久劳于外，东为江、北为济、西为河、南为淮，四渎已修，万民乃有居，有功于民而建立其后。",
+      "evidence": [
+        "P0",
+        "P8"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-shun",
+      "name": "舜",
+      "aliases": [
+        "帝舜"
+      ],
+      "type": "Person",
+      "dynasty": "五帝",
+      "role": "上古帝王",
+      "description": "上古帝王。契佐禹治水后，帝舜乃命契为司徒，敬敷五教，五教在宽，为殷契受命之君。",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-jie",
+      "name": "桀",
+      "aliases": [
+        "夏桀",
+        "夏王"
+      ],
+      "type": "Person",
+      "dynasty": "夏",
+      "role": "夏朝末代君主",
+      "description": "夏朝末代君主，为虐政淫荒，率止众力、夺民农功，诸侯昆吾氏为乱。汤率诸侯伐之，桀败于有娀之虚，犇于鸣条，夏师败绩。",
+      "evidence": [
+        "P6",
+        "P7"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-yiyin",
+      "name": "伊尹",
+      "aliases": [
+        "阿衡",
+        "伊挚",
+        "挚",
+        "保衡"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商之相",
+      "description": "名挚，为有莘氏媵臣，负鼎俎以滋味说汤；或曰处士，汤聘迎五反乃从，言素王、九主之事。汤举任以国政，佐汤伐桀。历事外丙、中壬，立太甲，放太甲于桐宫摄政三年，后迎归授政。年百岁卒，葬于亳。索隐谓阿衡乃官号非名。",
+      "evidence": [
+        "P4",
+        "P6",
+        "P8",
+        "P10",
+        "P11",
+        "P12",
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-nvjiu",
+      "name": "女鸠",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "汤之贤臣",
+      "description": "汤之贤臣。伊尹去汤适夏，复归亳，入自北门，遇女鸠、女房，作女鸠女房。孔安国谓鸠、房二人为汤之贤臣。",
+      "evidence": [
+        "P4"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-nvfang",
+      "name": "女房",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "汤之贤臣",
+      "description": "汤之贤臣。伊尹归亳，入自北门遇女鸠、女房，作女鸠女房。孔安国谓鸠、房二人为汤之贤臣，二篇言所以丑夏而还之意。",
+      "evidence": [
+        "P4"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-gebo",
+      "name": "葛伯",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "葛",
+      "role": "葛国君主",
+      "description": "葛国之君，与汤所居亳为邻。葛伯不祀，汤始伐之，作汤征。集解引地理志谓葛今梁国宁陵之葛乡。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-kunwu",
+      "name": "昆吾氏",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "昆吾",
+      "role": "夏之诸侯",
+      "description": "夏时诸侯，帝喾时陆终长子昆吾氏之后。夏桀时为乱，汤乃兴师率诸侯，自把钺以伐昆吾，遂伐桀。",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-yibo",
+      "name": "义伯",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "汤臣",
+      "description": "汤臣。汤伐三㚇，俘厥宝玉，义伯、仲伯作典宝一篇，言国之常宝。",
+      "evidence": [
+        "P7"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhongbo",
+      "name": "仲伯",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "汤臣",
+      "description": "汤臣。汤伐三㚇，俘厥宝玉，义伯、仲伯作典宝一篇，言国之常宝。",
+      "evidence": [
+        "P7"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhonghui",
+      "name": "中𤳹",
+      "aliases": [
+        "仲虺"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "汤之左相",
+      "description": "汤之左相，奚仲之后。汤归至泰卷陶（大坰），中𤳹作诰。索隐谓𤳹又作『虺』。",
+      "evidence": [
+        "P8"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-jiudan",
+      "name": "咎单",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "汤之司空",
+      "description": "汤之司空，明居民之法，作明居。沃丁时训伊尹事，作沃丁。马融谓咎单为汤司空。",
+      "evidence": [
+        "P8",
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-taidin",
+      "name": "太丁",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商太子",
+      "description": "成汤太子，未立而卒，故不列为帝。其子太甲后立为帝，是为太宗。",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-waibing",
+      "name": "外丙",
+      "aliases": [
+        "帝外丙"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "成汤之子，太丁之弟。太丁未立而卒，乃立外丙，是为帝外丙，即位三年而崩。",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhongren",
+      "name": "中壬",
+      "aliases": [
+        "帝中壬"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "成汤之子，外丙之弟。外丙崩后即位，是为帝中壬，即位四年而崩，伊尹乃立太丁之子太甲。",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-taijia",
+      "name": "太甲",
+      "aliases": [
+        "帝太甲",
+        "太宗"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "成汤适长孙，太丁之子。立三年不明暴虐，不遵汤法，伊尹放之桐宫；居三年悔过自责反善，伊尹迎归授政，修德而诸侯归殷，百姓以宁，称太宗。",
+      "evidence": [
+        "P10",
+        "P11",
+        "P12"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-woding",
+      "name": "沃丁",
+      "aliases": [
+        "帝沃丁"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "太甲之子。太宗崩后即位。帝沃丁之时伊尹卒，既葬伊尹于亳，咎单训伊尹事作沃丁。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-taigeng",
+      "name": "太庚",
+      "aliases": [
+        "帝太庚"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "沃丁之弟，为商王。沃丁崩后即位，是为帝太庚，其后子小甲继立。",
+      "evidence": [
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-xiaojia",
+      "name": "小甲",
+      "aliases": [
+        "帝小甲"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "太庚之子。帝太庚崩后即位，是为帝小甲。徐广谓世表云帝小甲为太庚之弟。",
+      "evidence": [
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-yongji",
+      "name": "雍己",
+      "aliases": [
+        "帝雍己"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "小甲之弟。小甲崩后即位，是为帝雍己。其时殷道衰，诸侯或不至。",
+      "evidence": [
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-taiwu",
+      "name": "太戊",
+      "aliases": [
+        "帝太戊",
+        "中宗"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "雍己之弟。即位后立伊陟为相。亳有祥桑谷共生，太戊从伊陟言修德，祥桑枯死，殷复兴，诸侯归之，故称中宗。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-yizhi",
+      "name": "伊陟",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商之相",
+      "description": "伊尹之子。太戊立为相。亳有祥桑谷之异，伊陟劝太戊修德，并赞言于巫咸。太戊赞伊陟于庙，言弗臣，伊陟让，作原命。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-wuxian",
+      "name": "巫咸",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商臣",
+      "description": "太戊之臣。治王家有成，作咸艾、太戊。正义谓巫咸及子贤冢皆在苏州常熟县海虞山上，盖二子本吴人。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhongding",
+      "name": "中丁",
+      "aliases": [
+        "帝中丁"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "太戊之子。中宗崩后即位，帝中丁迁于隞。仲丁书阙不具，索隐谓太史公知旧有仲丁书而今已遗阙。",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-wairen",
+      "name": "外壬",
+      "aliases": [
+        "帝外壬"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "中丁之弟，为商王。中丁崩后即位，是为帝外壬，其后弟河亶甲继立。",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-hedanjia",
+      "name": "河亶甲",
+      "aliases": [
+        "帝河亶甲"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "外壬之弟，为商王。外壬崩后即位，居相，其时殷复衰，其后子祖乙继立。",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zuyi",
+      "name": "祖乙",
+      "aliases": [
+        "帝祖乙"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "河亶甲之子，为商王。立后迁都于邢（耿），殷复兴，巫贤任职，其后子祖辛继立。",
+      "evidence": [
+        "P16",
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-wuxian2",
+      "name": "巫贤",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商臣",
+      "description": "祖乙之臣，任职助祖乙复兴殷。正义谓巫咸及子贤冢皆在苏州常熟县海虞山上。",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zuxin",
+      "name": "祖辛",
+      "aliases": [
+        "帝祖辛"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "祖乙之子，为商王。祖乙崩后即位，是为帝祖辛，其后弟沃甲继立。",
+      "evidence": [
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-wojia",
+      "name": "沃甲",
+      "aliases": [
+        "帝沃甲"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "祖辛之弟，为商王。祖辛崩后即位，是为帝沃甲，其后立祖辛之子祖丁。",
+      "evidence": [
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zuding",
+      "name": "祖丁",
+      "aliases": [
+        "帝祖丁"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "祖辛之子、沃甲之侄。沃甲崩后即位，是为帝祖丁；其后子阳甲、盘庚等相继继立。",
+      "evidence": [
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-nangeng",
+      "name": "南庚",
+      "aliases": [
+        "帝南庚"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "沃甲之子，为商王。祖丁崩后即位，是为帝南庚，其后立祖丁之子阳甲。",
+      "evidence": [
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-yangjia",
+      "name": "阳甲",
+      "aliases": [
+        "帝阳甲"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "祖丁之子，为商王。南庚崩后即位，是为帝阳甲，其时殷衰，其后弟盘庚继立。",
+      "evidence": [
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-pangeng",
+      "name": "盘庚",
+      "aliases": [
+        "帝盘庚"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "阳甲之弟。时殷已都河北，盘庚渡河南，复居成汤故居，凡五迁；殷民怨不欲徙，盘庚告谕诸侯大臣，涉河南治亳，行汤之政，殷道复兴，诸侯来朝。薨后百姓思之，作盘庚三篇。",
+      "evidence": [
+        "P20",
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-xiaoxin",
+      "name": "小辛",
+      "aliases": [
+        "帝小辛"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "盘庚之弟，为商王。盘庚崩后即位，是为帝小辛，殷复衰，百姓思盘庚而作盘庚三篇。",
+      "evidence": [
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-xiaoyi",
+      "name": "小乙",
+      "aliases": [
+        "帝小乙"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "小辛之弟，为商王。小辛崩后即位，是为帝小乙，其后子武丁继立复兴殷道。",
+      "evidence": [
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-wuding",
+      "name": "武丁",
+      "aliases": [
+        "帝武丁",
+        "高宗"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "小乙之子。即位欲复兴殷而未得佐，三年不言，政事决于冢宰。夜梦得圣人名说，求得傅说于傅险，举以为相，殷国大治。又因飞雉登鼎而修政行德，殷道复兴，庙号高宗。",
+      "evidence": [
+        "P22",
+        "P23",
+        "P24"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-fuyue",
+      "name": "傅说",
+      "aliases": [
+        "说"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商之相",
+      "description": "本为胥靡，筑于傅险。武丁夜梦得圣人名说，使百工营求之于野而得之，与语果圣，举以为相，殷国大治，遂以傅险姓之，号曰傅说。",
+      "evidence": [
+        "P22"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zuji",
+      "name": "祖己",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "武丁贤臣",
+      "description": "武丁贤臣。武丁祭成汤，有飞雉登鼎耳而呴，祖己训王修政事、敬民谨祀。武丁修政行德，殷道复兴；祖己嘉之，立其庙为高宗，作高宗肜日及训。",
+      "evidence": [
+        "P23",
+        "P24"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zugeng",
+      "name": "祖庚",
+      "aliases": [
+        "帝祖庚"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "武丁之子，为商王。武丁崩后即位，是为帝祖庚。祖己嘉武丁祥雉为德，立其庙为高宗。",
+      "evidence": [
+        "P24"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zujia",
+      "name": "祖甲",
+      "aliases": [
+        "帝甲"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "祖庚之弟。祖庚崩后即位，是为帝甲，淫乱，殷复衰。索隐引国语『帝甲乱之，七代而陨』。",
+      "evidence": [
+        "P25"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-linxin",
+      "name": "廪辛",
+      "aliases": [
+        "帝廪辛",
+        "冯辛"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "祖甲之子。帝甲崩后即位，是为帝廪辛。索隐谓汉书古今人表及帝王代纪皆作『冯辛』。",
+      "evidence": [
+        "P26"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-gengding",
+      "name": "庚丁",
+      "aliases": [
+        "帝庚丁"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "廪辛之弟，为商王。廪辛崩后即位，是为帝庚丁，其后子武乙继立。",
+      "evidence": [
+        "P26"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-wuyi",
+      "name": "武乙",
+      "aliases": [
+        "帝武乙"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "庚丁之子。殷复去亳，徙河北。无道，为偶人谓之天神，与之博而僇辱之；为革囊盛血，仰而射之，命曰射天。猎于河渭之间，暴雷震死。",
+      "evidence": [
+        "P26",
+        "P27"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-taidin2",
+      "name": "太丁",
+      "aliases": [
+        "帝太丁"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "武乙之子，为商王。武乙震死后即位，是为帝太丁；其崩后子帝乙立，殷益衰。",
+      "evidence": [
+        "P27"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-diyi",
+      "name": "帝乙",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商王",
+      "description": "太丁之子。即位后殷益衰。其长子微子启以母贱不得嗣，少子辛以母为正后得嗣，即帝辛（纣）。",
+      "evidence": [
+        "P27",
+        "P28"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-weizi",
+      "name": "微子",
+      "aliases": [
+        "微子启",
+        "启"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商贵族、宋国始封君",
+      "description": "帝乙长子，母贱故不得嗣。数谏纣不听，乃与太师、少师谋，遂去殷。武王克殷后，成王立微子于宋，以续殷后。索隐谓微为国号，爵为子，启为其名。",
+      "evidence": [
+        "P28",
+        "P32",
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhou",
+      "name": "纣",
+      "aliases": [
+        "帝辛",
+        "辛",
+        "受",
+        "商纣"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商朝末代君主",
+      "description": "帝乙少子，母为正后而得嗣。资辨捷疾、材力过人，好酒淫乐，嬖妲己，厚赋税实鹿台、盈钜桥，重刑辟有炮格，囚西伯于羑里，剖比干心，囚箕子。牧野战败，走入登鹿台，衣宝玉衣赴火而死，武王斩其头。",
+      "evidence": [
+        "P28",
+        "P29",
+        "P30",
+        "P31",
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-daji",
+      "name": "妲己",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "纣之宠妃",
+      "description": "有苏氏美女，妲字、己姓。纣所嬖爱，妲己之言是从。武王克殷后被杀死。",
+      "evidence": [
+        "P29",
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-xibochang",
+      "name": "西伯昌",
+      "aliases": [
+        "西伯",
+        "昌",
+        "周文王"
+      ],
+      "type": "Person",
+      "dynasty": "周",
+      "role": "周君、纣之三公",
+      "description": "纣以西伯昌、九侯、鄂侯为三公。因九侯、鄂侯之事窃叹，被崇侯虎告发，纣囚之羑里；其臣闳夭等献美女奇物善马，纣乃赦之。献洛西之地请除炮格之刑。阴修德行善，诸侯多叛纣而往归之。",
+      "evidence": [
+        "P30",
+        "P31"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-jiuhou",
+      "name": "九侯",
+      "aliases": [
+        "鬼侯"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "纣之三公",
+      "description": "纣之三公之一。有女入之纣，女不喜淫，纣怒杀之，并醢九侯。徐广谓一作『鬼侯』，邺县有九侯城。",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-ehou",
+      "name": "鄂侯",
+      "aliases": [
+        "邘侯"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "纣之三公",
+      "description": "纣之三公之一。九侯被醢，鄂侯争之强、辨之疾，纣并脯鄂侯。徐广谓一作『邘』。",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-chonghouhu",
+      "name": "崇侯虎",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "诸侯",
+      "description": "商之诸侯。西伯昌闻九侯、鄂侯之事而窃叹，崇侯虎知之，以告纣，纣遂囚西伯于羑里。",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-hongyao",
+      "name": "闳夭",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "周",
+      "role": "西伯之臣",
+      "description": "西伯昌之臣。西伯被囚羑里，闳夭之徒求美女、奇物、善马以献纣，纣乃赦西伯。",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-feizhong",
+      "name": "费中",
+      "aliases": [
+        "费仲"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "纣之执政",
+      "description": "纣之执政大臣。善谀好利，殷人弗亲。索隐谓费为姓、仲为名，一说秦祖蜚廉之子。",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-elai",
+      "name": "恶来",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "纣之臣",
+      "description": "纣所用之臣，善毁谗，诸侯以此益疏。索隐谓恶来为秦之祖蜚廉之子。",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zuyi2",
+      "name": "祖伊",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "纣之贤臣",
+      "description": "祖己之后，纣之贤臣。西伯伐饥国灭之，祖伊恐，奔告纣，言天将讫殷命、民欲丧王；纣答『我生不有命在天』，祖伊反，曰纣不可谏矣。",
+      "evidence": [
+        "P31"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-shangrong",
+      "name": "商容",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "商之贤者",
+      "description": "商之贤者，百姓爱之，纣废之。武王克殷后表商容之闾。郑玄谓商家典乐之官，知礼容，故称容台。",
+      "evidence": [
+        "P31",
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-bigan",
+      "name": "比干",
+      "aliases": [
+        "王子比干"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "纣之王子、贤臣",
+      "description": "王子比干。谏纣不听，以为人臣者不得不以死争，乃强谏。纣怒，曰闻圣人心有七窍，剖比干而观其心。武王克殷后封比干之墓。",
+      "evidence": [
+        "P31",
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-jizi",
+      "name": "箕子",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "纣之贤臣",
+      "description": "纣之贤臣。见比干被剖，惧而详（佯）狂为奴，纣又囚之。武王克殷后释箕子之囚。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-shijuan",
+      "name": "师涓",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "乐师",
+      "description": "纣之乐师。纣好酒淫乐，使师涓作新淫声、北里之舞、靡靡之乐，以助其声色。",
+      "evidence": [
+        "P29"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-wugeng",
+      "name": "武庚",
+      "aliases": [
+        "武庚禄父",
+        "禄父"
+      ],
+      "type": "Person",
+      "dynasty": "商",
+      "role": "纣子、殷遗民之君",
+      "description": "纣之子。武王克殷后封武庚禄父，以续殷祀，令修行盘庚之政。武王崩，与管叔、蔡叔作乱，成王命周公诛之。",
+      "evidence": [
+        "P32",
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-guanshu",
+      "name": "管叔",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "周",
+      "role": "周王室宗亲",
+      "description": "周武王之弟，周王室宗亲。武王崩后，与武庚、蔡叔作乱，成王命周公诛之。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-caishu",
+      "name": "蔡叔",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "周",
+      "role": "周王室宗亲",
+      "description": "周武王之弟，周王室宗亲。与武庚、管叔同时作乱，成王命周公诛之而平乱。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhougong",
+      "name": "周公",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "周",
+      "role": "周之重臣",
+      "description": "周之重臣。武王崩，武庚与管叔、蔡叔作乱，成王命周公诛之，并立微子于宋以续殷后。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-chengwang",
+      "name": "成王",
+      "aliases": [
+        "周成王"
+      ],
+      "type": "Person",
+      "dynasty": "周",
+      "role": "周天子",
+      "description": "周天子。武王崩后，武庚与管叔、蔡叔作乱，成王命周公诛之，而立微子于宋，以续殷后。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhouwuwang",
+      "name": "周武王",
+      "aliases": [
+        "武王"
+      ],
+      "type": "Person",
+      "dynasty": "周",
+      "role": "周朝开国君主",
+      "description": "周之君主。西伯昌卒后东伐，至盟津，诸侯叛殷会周者八百。遂率诸侯伐纣，纣兵败于牧野，纣赴火死，武王斩其头，杀妲己，释箕子之囚，封比干之墓，表商容之闾，封纣子武庚禄父，于是为天子。",
+      "evidence": [
+        "P31",
+        "P32"
+      ],
+      "source": "正文"
+    }
+  ],
+  "places": [
+    {
+      "id": "shiji-place-shang",
+      "name": "商",
+      "type": "Place",
+      "modern": "注疏谓商国在太华之阳，或谓今上洛商（今陕西商洛）；一说今河南商丘一带",
+      "description": "契所封之地，赐姓子氏。汤时自商丘迁亳。索隐谓尧封契于商，即诗商颂『有娀方将，帝立子生商』。",
+      "evidence": [
+        "P0",
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-bo",
+      "name": "亳",
+      "type": "Place",
+      "modern": "注疏谓南亳在梁国谷熟（今河南商丘东南），西亳在河南偃师（今河南偃师）",
+      "description": "汤始居亳，从先王居。伊尹去夏复归亳。盘庚渡河南治亳，行汤之政。孔安国谓契父帝喾都亳，汤自商丘迁焉；括地志谓南亳为汤都，西亳为帝喾及汤所都。",
+      "evidence": [
+        "P2",
+        "P4",
+        "P20"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yin",
+      "name": "殷",
+      "type": "Place",
+      "modern": "今河南安阳小屯殷墟一带",
+      "description": "商家自盘庚迁此而改号曰殷。索隐谓契始封商，其后裔盘庚迁殷，殷在邺南，遂为天下号；正义引括地志谓相州安阳本盘庚所都，即北蒙殷墟。",
+      "evidence": [
+        "P12",
+        "P20"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-chaoge",
+      "name": "朝歌",
+      "type": "Place",
+      "modern": "今河南淇县",
+      "description": "纣之别都。索隐引括地志谓殷墟南去朝歌城百四十六里；瓒谓鹿台在朝歌城中。竹书纪年谓纣时稍大其邑，南距朝歌，北据邯郸及沙丘。",
+      "evidence": [
+        "P28",
+        "P29"
+      ],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-place-lutai",
+      "name": "鹿台",
+      "type": "Place",
+      "modern": "注疏谓在卫州（今河南淇县）西南，一说在朝歌城中",
+      "description": "纣厚赋税以实鹿台之钱。武王伐纣，纣兵败走入，登鹿台，衣宝玉衣赴火而死。集解引新序谓鹿台其大三里、高千尺。",
+      "evidence": [
+        "P29",
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-juqiao",
+      "name": "巨桥",
+      "type": "Place",
+      "modern": "纣之仓名，注疏地理志谓在钜鹿（今河北）一带",
+      "description": "纣厚赋税以盈钜桥之粟。集解引服虔谓钜桥为仓名，许慎谓钜鹿水之大桥，有漕粟。",
+      "evidence": [
+        "P29"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-youli",
+      "name": "羑里",
+      "type": "Place",
+      "modern": "今河南汤阴北",
+      "description": "纣囚西伯昌之处。注疏地理志谓河内汤阴有羑里城，西伯所拘处；括地志谓羑城在相州汤阴县北九里。",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-mingtiao",
+      "name": "鸣条",
+      "type": "Place",
+      "modern": "注疏谓在今山西运城安邑西",
+      "description": "桀败于有娀之虚后犇于鸣条，夏师败绩。正义引括地志谓高涯原在蒲州安邑县北三十里南阪口，即古鸣条陌，鸣条战地在安邑西。",
+      "evidence": [
+        "P7"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yousong",
+      "name": "有娀之虚",
+      "type": "Place",
+      "modern": "注疏谓有娀当在今山西蒲州（永济）一带",
+      "description": "桀败于有娀之虚。集解引淮南子谓有娀在不周之北；正义谓有娀当在蒲州。有娀亦为简狄母家之族。",
+      "evidence": [
+        "P0",
+        "P7"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-sanzong",
+      "name": "三㚇",
+      "type": "Place",
+      "modern": "今山东定陶",
+      "description": "汤败桀后遂伐三㚇，俘厥宝玉。集解引孔安国谓三㚇为国名，桀走保之，今定陶；括地志谓曹州济阴县即古定陶，东有三鬷亭。",
+      "evidence": [
+        "P7"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-taijuanta",
+      "name": "泰卷陶",
+      "type": "Place",
+      "modern": "今山东定陶（索隐谓卷当作坰，即大坰）",
+      "description": "汤胜夏后归至于泰卷陶，中𤳹作诰。索隐谓卷当作坰，与尚书同，其下陶字为衍，大坰今定陶。",
+      "evidence": [
+        "P8"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-tonggong",
+      "name": "桐宫",
+      "type": "Place",
+      "modern": "注疏谓在洛州偃师县西南尸乡附近，一说汤葬地、一说有王离宫",
+      "description": "伊尹放太甲之处。太甲居桐宫三年悔过自善，伊尹迎归授政。集解引孔安国谓为汤葬地，郑玄谓地名有王离宫；正义引晋太康地记谓尸乡南有亳阪，太甲所放处。",
+      "evidence": [
+        "P11",
+        "P12"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-ao",
+      "name": "隞",
+      "type": "Place",
+      "modern": "今河南荥阳一带",
+      "description": "帝中丁迁于隞。索隐谓隞亦作『嚣』，并音敖字；正义引括地志谓荥阳故城在郑州荥泽县西南十七里，殷时敖地。",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-xiang",
+      "name": "相",
+      "type": "Place",
+      "modern": "今河南内黄东南",
+      "description": "河亶甲居相。正义引括地志谓故殷城在相州内黄县东南十三里，即河亶甲所筑都之，故名殷城。",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-geng",
+      "name": "耿（邢）",
+      "type": "Place",
+      "modern": "注疏谓今山西河津（皮氏县耿乡）一说",
+      "description": "祖乙迁于邢。索隐谓邢音耿，近代本亦作耿，今河东皮氏县有耿乡；正义引括地志谓绛州龙门县东南十二里耿城，故耿国。",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-fuxian",
+      "name": "傅险",
+      "type": "Place",
+      "modern": "注疏谓在今河南陕州（三门峡）河北县北七里",
+      "description": "傅说版筑之处。武丁梦得圣人，使百工求之于野，得说于傅险中。正义引括地志谓傅险即傅说版筑之处，所隐之处窟名圣人窟，在陕州河北县北，即虞虢之界。",
+      "evidence": [
+        "P22"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-ge",
+      "name": "葛",
+      "type": "Place",
+      "modern": "今河南宁陵一带",
+      "description": "葛伯之国，与汤所居亳为邻。葛伯不祀，汤始伐之。集解引地理志谓葛今梁国宁陵之葛乡。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-shaqiu",
+      "name": "沙丘",
+      "type": "Place",
+      "modern": "注疏谓在今河北平乡东北",
+      "description": "纣益广沙丘苑台，多取野兽蜚鸟置其中，大聚乐戏，以酒为池、县肉为林。正义引括地志谓沙丘台在邢州平乡东北二十里。",
+      "evidence": [
+        "P29"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-muye",
+      "name": "牧野",
+      "type": "Place",
+      "modern": "今河南淇县南",
+      "description": "纣发兵距周武王之处，甲子日纣兵败于此。集解引郑玄谓牧野为纣南郊地名；正义引括地志谓今卫州城即殷牧野之地，周武王伐纣所筑。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-luoxi",
+      "name": "洛西",
+      "type": "Place",
+      "modern": "今陕西洛水以西（同州洛西之丹、坊等州）",
+      "description": "西伯昌出而献洛西之地，以请纣除炮格之刑。正义谓洛水一名漆沮水，在同州洛西之地，谓洛西之丹、坊等州。",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-mengjin",
+      "name": "盟津",
+      "type": "Place",
+      "modern": "今河南孟津",
+      "description": "周武王东伐至盟津，诸侯叛殷而会周者八百，皆曰纣可伐。",
+      "evidence": [
+        "P31"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-song",
+      "name": "宋",
+      "type": "Place",
+      "modern": "今河南商丘一带",
+      "description": "周成王立微子于宋，以续殷后。太史公谓契为子姓，其后分封以国为姓，有殷氏、来氏、宋氏等。",
+      "evidence": [
+        "P33",
+        "P34"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-kongsang",
+      "name": "空桑",
+      "type": "Place",
+      "modern": "传说伊尹出生地，注疏谓在今河南开封陈留一带附近",
+      "description": "注疏谓伊尹生地。皇甫谧曰伊尹为力牧之后，生于空桑；吕氏春秋谓有侁氏女采桑，得婴儿于空桑，母居伊水，命曰伊尹。",
+      "evidence": [
+        "P4"
+      ],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-place-youshen",
+      "name": "有莘氏",
+      "type": "Place",
+      "modern": "注疏谓古莘国在今河南开封陈留县东五里",
+      "description": "伊尹为有莘氏媵臣，负鼎俎以滋味说汤。集解引列女传谓汤妃为有莘氏之女；正义引括地志谓古莘国在汴州陈留县东五里，故莘城。",
+      "evidence": [
+        "P4"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-shangqiu",
+      "name": "商丘",
+      "type": "Place",
+      "modern": "今河南商丘",
+      "description": "注疏谓相土因阏伯居商丘，是始封商；汤即位都南亳，自商丘迁亳。正义谓宋州宋城县古阏伯之墟即商丘。",
+      "evidence": [
+        "P1",
+        "P2"
+      ],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-place-hewei",
+      "name": "河渭之闲",
+      "type": "Place",
+      "modern": "黄河与渭水之间，今陕西中部一带",
+      "description": "帝武乙猎于河渭之间，遇暴雷，武乙震死于此。约当今黄河与渭水之间、陕西中部一带。",
+      "evidence": [
+        "P27"
+      ],
+      "source": "正文"
+    }
+  ],
+  "events": [
+    {
+      "id": "shiji-event-fengqiyushang",
+      "name": "契佐禹治水受封于商",
+      "type": "Event",
+      "participants": [
+        "shiji-person-qi",
+        "shiji-person-yu",
+        "shiji-person-shun",
+        "shiji-person-jiandi"
+      ],
+      "place": "shiji-place-shang",
+      "description": "简狄吞玄鸟卵生契。契长而佐禹治水有功，帝舜乃命契为司徒，敬敷五教，封于商，赐姓子氏，百姓以平。",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-tangfage",
+      "name": "汤伐葛",
+      "type": "Event",
+      "participants": [
+        "shiji-person-chengtang",
+        "shiji-person-gebo",
+        "shiji-person-yiyin"
+      ],
+      "place": "shiji-place-ge",
+      "description": "汤征诸侯。葛伯不祀，汤始伐之，作汤征。汤与伊尹论视民知治之道。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-tangfajie",
+      "name": "汤伐昆吾与桀",
+      "type": "Event",
+      "participants": [
+        "shiji-person-chengtang",
+        "shiji-person-jie",
+        "shiji-person-kunwu",
+        "shiji-person-yiyin"
+      ],
+      "place": "shiji-place-bo",
+      "description": "夏桀为虐政淫荒，诸侯昆吾氏为乱。汤乃兴师率诸侯，伊尹从汤，汤自把钺以伐昆吾，遂伐桀，作汤誓，告令师众，于是汤自号曰武王。",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-mingtiaozhizhan",
+      "name": "鸣条之战",
+      "type": "Event",
+      "participants": [
+        "shiji-person-chengtang",
+        "shiji-person-jie",
+        "shiji-person-yibo",
+        "shiji-person-zhongbo"
+      ],
+      "place": "shiji-place-mingtiao",
+      "description": "桀败于有娀之虚，犇于鸣条，夏师败绩。汤遂伐三㚇，俘厥宝玉，义伯、仲伯作典宝。",
+      "evidence": [
+        "P7"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-tangjianti",
+      "name": "汤践天子位",
+      "type": "Event",
+      "participants": [
+        "shiji-person-chengtang",
+        "shiji-person-yiyin",
+        "shiji-person-zhonghui",
+        "shiji-person-jiudan"
+      ],
+      "place": "shiji-place-bo",
+      "description": "汤既胜夏，欲迁其社不可，作夏社。诸侯毕服，汤乃践天子位，平定海内。归至泰卷陶，中𤳹作诰；还亳作汤诰，伊尹作咸有一德，咎单作明居。",
+      "evidence": [
+        "P8"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-yiyinfangtaijia",
+      "name": "伊尹放太甲",
+      "type": "Event",
+      "participants": [
+        "shiji-person-yiyin",
+        "shiji-person-taijia"
+      ],
+      "place": "shiji-place-tonggong",
+      "description": "帝太甲既立三年，不明、暴虐，不遵汤法，乱德。伊尹放之于桐宫，摄行政当国，以朝诸侯。",
+      "evidence": [
+        "P11"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-taijiafuwei",
+      "name": "太甲复位",
+      "type": "Event",
+      "participants": [
+        "shiji-person-yiyin",
+        "shiji-person-taijia"
+      ],
+      "place": "shiji-place-tonggong",
+      "description": "太甲居桐宫三年，悔过自责反善，伊尹乃迎帝太甲而授之政。太甲修德，诸侯咸归殷，百姓以宁，伊尹作太甲训三篇褒之，称太宗。",
+      "evidence": [
+        "P12"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-sanggu",
+      "name": "太戊祥桑谷修德",
+      "type": "Event",
+      "participants": [
+        "shiji-person-taiwu",
+        "shiji-person-yizhi",
+        "shiji-person-wuxian"
+      ],
+      "place": "shiji-place-bo",
+      "description": "亳有祥桑谷共生于朝，一暮大拱。帝太戊惧而问伊陟，伊陟劝其修德。太戊从之，祥桑枯死而去，殷复兴，诸侯归之，称中宗。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-pangengqianyin",
+      "name": "盘庚迁殷",
+      "type": "Event",
+      "participants": [
+        "shiji-person-pangeng"
+      ],
+      "place": "shiji-place-yin",
+      "description": "盘庚之时殷已都河北，盘庚渡河南复居成汤故居，凡五迁而无定处，殷民咨怨不欲徙。盘庚告谕诸侯大臣，乃涉河南治亳，行汤之政，百姓由宁，殷道复兴，诸侯来朝。",
+      "evidence": [
+        "P20"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-wudingmengfushuo",
+      "name": "武丁梦傅说举以为相",
+      "type": "Event",
+      "participants": [
+        "shiji-person-wuding",
+        "shiji-person-fuyue"
+      ],
+      "place": "shiji-place-fuxian",
+      "description": "武丁即位思复兴殷而未得佐，三年不言，政事决定于冢宰。夜梦得圣人名说，使百工营求之野，得说于傅险中。时说为胥靡筑于傅险，见武丁，与语果圣，举以为相，殷国大治。",
+      "evidence": [
+        "P22"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-wudingxiuzheng",
+      "name": "武丁祥雉修政",
+      "type": "Event",
+      "participants": [
+        "shiji-person-wuding",
+        "shiji-person-zuji",
+        "shiji-person-chengtang"
+      ],
+      "place": "",
+      "description": "武丁祭成汤，明日有飞雉登鼎耳而呴，武丁惧。祖己训王勿忧、先修政事、敬民谨祀。武丁修政行德，天下咸欢，殷道复兴。",
+      "evidence": [
+        "P23"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-wuyishetian",
+      "name": "武乙射天",
+      "type": "Event",
+      "participants": [
+        "shiji-person-wuyi"
+      ],
+      "place": "shiji-place-hewei",
+      "description": "武乙无道，为偶人谓之天神，与之博而僇辱之；为革囊盛血，仰而射之，命曰射天。后猎于河渭之间，暴雷，武乙震死。",
+      "evidence": [
+        "P27"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-jiuhouehou",
+      "name": "纣醢九侯脯鄂侯",
+      "type": "Event",
+      "participants": [
+        "shiji-person-zhou",
+        "shiji-person-jiuhou",
+        "shiji-person-ehou"
+      ],
+      "place": "",
+      "description": "九侯有好女入之纣，女不喜淫，纣怒杀之，而醢九侯。鄂侯争之强、辨之疾，纣并脯鄂侯。西伯昌闻之窃叹。",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-qiuxiboyouli",
+      "name": "纣囚西伯于羑里",
+      "type": "Event",
+      "participants": [
+        "shiji-person-zhou",
+        "shiji-person-xibochang",
+        "shiji-person-chonghouhu",
+        "shiji-person-hongyao"
+      ],
+      "place": "shiji-place-youli",
+      "description": "西伯昌闻九侯鄂侯之事窃叹，崇侯虎知之，以告纣，纣囚西伯羑里。西伯之臣闳夭之徒求美女奇物善马以献纣，纣乃赦西伯；西伯献洛西之地，请除炮格之刑。",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-xibofajiguo",
+      "name": "西伯伐饥国",
+      "type": "Event",
+      "participants": [
+        "shiji-person-xibochang",
+        "shiji-person-zuyi2",
+        "shiji-person-zhou"
+      ],
+      "place": "",
+      "description": "西伯伐饥国灭之。纣之臣祖伊闻之而咎周，恐，奔告纣，言天将讫殷命、民欲丧王。纣曰『我生不有命在天乎』，祖伊反，曰纣不可谏矣。",
+      "evidence": [
+        "P31"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-biganpaoxin",
+      "name": "比干强谏被剖心",
+      "type": "Event",
+      "participants": [
+        "shiji-person-bigan",
+        "shiji-person-zhou"
+      ],
+      "place": "",
+      "description": "比干曰为人臣者不得不以死争，乃强谏纣。纣怒曰『吾闻圣人心有七窍』，剖比干，观其心。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-jizikuang",
+      "name": "箕子佯狂为奴",
+      "type": "Event",
+      "participants": [
+        "shiji-person-jizi",
+        "shiji-person-zhou"
+      ],
+      "place": "",
+      "description": "箕子见比干被剖而惧，乃详（佯）狂为奴，纣又囚之。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-weiziqu",
+      "name": "微子去殷",
+      "type": "Event",
+      "participants": [
+        "shiji-person-weizi",
+        "shiji-person-zhou"
+      ],
+      "place": "",
+      "description": "纣愈淫乱不止，微子数谏不听，乃与太师、少师谋，遂去殷；殷之太师、少师持其祭乐器奔周。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-wuwangfazhou",
+      "name": "武王伐纣（牧野之战）",
+      "type": "Event",
+      "participants": [
+        "shiji-person-zhouwuwang",
+        "shiji-person-zhou",
+        "shiji-person-daji",
+        "shiji-person-jizi",
+        "shiji-person-bigan",
+        "shiji-person-shangrong",
+        "shiji-person-wugeng"
+      ],
+      "place": "shiji-place-muye",
+      "description": "周武王率诸侯伐纣，纣发兵距之牧野。甲子日纣兵败，纣走入登鹿台，衣宝玉衣赴火而死。武王斩纣头县之白旗，杀妲己，释箕子之囚，封比干之墓，表商容之闾，封纣子武庚禄父以续殷祀，于是为天子。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-wugengzhiluan",
+      "name": "武庚之乱（三监之乱）",
+      "type": "Event",
+      "participants": [
+        "shiji-person-wugeng",
+        "shiji-person-guanshu",
+        "shiji-person-caishu",
+        "shiji-person-zhougong",
+        "shiji-person-chengwang"
+      ],
+      "place": "",
+      "description": "周武王崩，武庚与管叔、蔡叔作乱，成王命周公诛之。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-fengweiziyusong",
+      "name": "封微子于宋",
+      "type": "Event",
+      "participants": [
+        "shiji-person-weizi",
+        "shiji-person-chengwang",
+        "shiji-person-zhougong"
+      ],
+      "place": "shiji-place-song",
+      "description": "周公诛武庚等后，立微子于宋，以续殷后。太史公谓契为子姓，其后分封以国为姓，有殷氏、来氏、宋氏等。",
+      "evidence": [
+        "P33",
+        "P34"
+      ],
+      "source": "正文"
+    }
+  ],
+  "offices": [
+    {
+      "id": "shiji-office-situ",
+      "name": "司徒",
+      "description": "帝舜命契为司徒，敬敷五教，五教在宽，掌教化。",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-sikong",
+      "name": "司空",
+      "description": "掌水土官事。集解引宋忠谓冥为司空，勤其官事，死于水中；马融谓咎单为汤司空，明居民之法。",
+      "evidence": [
+        "P1",
+        "P8"
+      ],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-office-xiang",
+      "name": "相",
+      "description": "辅佐君主执政之官。汤举伊尹任以国政；太戊立伊陟为相；武丁举傅说以为相。",
+      "evidence": [
+        "P4",
+        "P15",
+        "P22"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-fangbo",
+      "name": "方伯",
+      "description": "一方诸侯之长。集解引孔安国谓汤为夏方伯，得专征伐，故能征诸侯、伐葛。",
+      "evidence": [
+        "P3"
+      ],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-office-sangong",
+      "name": "三公",
+      "description": "朝廷最高之三位重臣。纣以西伯昌、九侯、鄂侯为三公。",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-zhongzai",
+      "name": "冢宰",
+      "description": "辅佐王事之重臣。武丁即位三年不言，政事决定于冢宰，以观国风。集解引郑玄谓冢宰为天官卿贰王事者。",
+      "evidence": [
+        "P22"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-taishi",
+      "name": "太师",
+      "description": "商之乐官重臣。纣时殷之太师与少师持其祭乐器奔周。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-shaoshi",
+      "name": "少师",
+      "description": "商之乐官。微子数谏纣不听，与太师、少师谋而去。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    }
+  ],
+  "relations": [
+    {
+      "subject": "shiji-person-diku",
+      "predicate": "father_of",
+      "object": "shiji-person-qi",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-jiandi",
+      "predicate": "mother_of",
+      "object": "shiji-person-qi",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-qi",
+      "predicate": "assisted",
+      "object": "shiji-person-yu",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-qi",
+      "predicate": "father_of",
+      "object": "shiji-person-zhaoming",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhaoming",
+      "predicate": "father_of",
+      "object": "shiji-person-xiangtu",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhaoming",
+      "predicate": "succeeded",
+      "object": "shiji-person-qi",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiangtu",
+      "predicate": "father_of",
+      "object": "shiji-person-changruo",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-changruo",
+      "predicate": "father_of",
+      "object": "shiji-person-caoyu",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-caoyu",
+      "predicate": "father_of",
+      "object": "shiji-person-ming",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-ming",
+      "predicate": "father_of",
+      "object": "shiji-person-zhen",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhen",
+      "predicate": "father_of",
+      "object": "shiji-person-wei",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-wei",
+      "predicate": "father_of",
+      "object": "shiji-person-baoding",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-baoding",
+      "predicate": "father_of",
+      "object": "shiji-person-baoyi",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-baoyi",
+      "predicate": "father_of",
+      "object": "shiji-person-baobing",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-baobing",
+      "predicate": "father_of",
+      "object": "shiji-person-zhuren",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhuren",
+      "predicate": "father_of",
+      "object": "shiji-person-zhugui",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhugui",
+      "predicate": "father_of",
+      "object": "shiji-person-chengtang",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-chengtang",
+      "predicate": "succeeded",
+      "object": "shiji-person-zhugui",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-chengtang",
+      "predicate": "father_of",
+      "object": "shiji-person-taidin",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-chengtang",
+      "predicate": "father_of",
+      "object": "shiji-person-waibing",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-chengtang",
+      "predicate": "father_of",
+      "object": "shiji-person-zhongren",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-waibing",
+      "predicate": "brother_of",
+      "object": "shiji-person-taidin",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-waibing",
+      "predicate": "succeeded",
+      "object": "shiji-person-chengtang",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhongren",
+      "predicate": "brother_of",
+      "object": "shiji-person-waibing",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhongren",
+      "predicate": "succeeded",
+      "object": "shiji-person-waibing",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-taidin",
+      "predicate": "father_of",
+      "object": "shiji-person-taijia",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-taijia",
+      "predicate": "succeeded",
+      "object": "shiji-person-zhongren",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-yiyin",
+      "predicate": "minister_of",
+      "object": "shiji-person-chengtang",
+      "evidence": [
+        "P4"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-yiyin",
+      "predicate": "minister_of",
+      "object": "shiji-person-taijia",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-yiyin",
+      "predicate": "exiled",
+      "object": "shiji-person-taijia",
+      "evidence": [
+        "P11"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-yiyin",
+      "predicate": "restored",
+      "object": "shiji-person-taijia",
+      "evidence": [
+        "P12"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-yiyin",
+      "predicate": "father_of",
+      "object": "shiji-person-yizhi",
+      "evidence": [
+        "P15"
+      ],
+      "source": "注疏"
+    },
+    {
+      "subject": "shiji-person-taijia",
+      "predicate": "father_of",
+      "object": "shiji-person-woding",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-taijia",
+      "predicate": "father_of",
+      "object": "shiji-person-taigeng",
+      "evidence": [
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-taigeng",
+      "predicate": "brother_of",
+      "object": "shiji-person-woding",
+      "evidence": [
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-taigeng",
+      "predicate": "father_of",
+      "object": "shiji-person-xiaojia",
+      "evidence": [
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-taigeng",
+      "predicate": "father_of",
+      "object": "shiji-person-yongji",
+      "evidence": [
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-taigeng",
+      "predicate": "father_of",
+      "object": "shiji-person-taiwu",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-yongji",
+      "predicate": "brother_of",
+      "object": "shiji-person-xiaojia",
+      "evidence": [
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-taiwu",
+      "predicate": "brother_of",
+      "object": "shiji-person-yongji",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-taiwu",
+      "predicate": "succeeded",
+      "object": "shiji-person-yongji",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-taiwu",
+      "predicate": "appointed",
+      "object": "shiji-person-yizhi",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-yizhi",
+      "predicate": "minister_of",
+      "object": "shiji-person-taiwu",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-wuxian",
+      "predicate": "minister_of",
+      "object": "shiji-person-taiwu",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-taiwu",
+      "predicate": "father_of",
+      "object": "shiji-person-zhongding",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-taiwu",
+      "predicate": "father_of",
+      "object": "shiji-person-wairen",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-taiwu",
+      "predicate": "father_of",
+      "object": "shiji-person-hedanjia",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-wairen",
+      "predicate": "brother_of",
+      "object": "shiji-person-zhongding",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-hedanjia",
+      "predicate": "brother_of",
+      "object": "shiji-person-wairen",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-hedanjia",
+      "predicate": "father_of",
+      "object": "shiji-person-zuyi",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-wuxian2",
+      "predicate": "minister_of",
+      "object": "shiji-person-zuyi",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zuyi",
+      "predicate": "father_of",
+      "object": "shiji-person-zuxin",
+      "evidence": [
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zuyi",
+      "predicate": "father_of",
+      "object": "shiji-person-wojia",
+      "evidence": [
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-wojia",
+      "predicate": "brother_of",
+      "object": "shiji-person-zuxin",
+      "evidence": [
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zuxin",
+      "predicate": "father_of",
+      "object": "shiji-person-zuding",
+      "evidence": [
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-wojia",
+      "predicate": "father_of",
+      "object": "shiji-person-nangeng",
+      "evidence": [
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zuding",
+      "predicate": "father_of",
+      "object": "shiji-person-yangjia",
+      "evidence": [
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zuding",
+      "predicate": "father_of",
+      "object": "shiji-person-pangeng",
+      "evidence": [
+        "P20"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zuding",
+      "predicate": "father_of",
+      "object": "shiji-person-xiaoxin",
+      "evidence": [
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zuding",
+      "predicate": "father_of",
+      "object": "shiji-person-xiaoyi",
+      "evidence": [
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-pangeng",
+      "predicate": "brother_of",
+      "object": "shiji-person-yangjia",
+      "evidence": [
+        "P20"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-pangeng",
+      "predicate": "succeeded",
+      "object": "shiji-person-yangjia",
+      "evidence": [
+        "P20"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaoxin",
+      "predicate": "brother_of",
+      "object": "shiji-person-pangeng",
+      "evidence": [
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaoyi",
+      "predicate": "brother_of",
+      "object": "shiji-person-xiaoxin",
+      "evidence": [
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaoyi",
+      "predicate": "father_of",
+      "object": "shiji-person-wuding",
+      "evidence": [
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-wuding",
+      "predicate": "succeeded",
+      "object": "shiji-person-xiaoyi",
+      "evidence": [
+        "P21"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-wuding",
+      "predicate": "appointed",
+      "object": "shiji-person-fuyue",
+      "evidence": [
+        "P22"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-fuyue",
+      "predicate": "minister_of",
+      "object": "shiji-person-wuding",
+      "evidence": [
+        "P22"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zuji",
+      "predicate": "minister_of",
+      "object": "shiji-person-wuding",
+      "evidence": [
+        "P23"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-wuding",
+      "predicate": "father_of",
+      "object": "shiji-person-zugeng",
+      "evidence": [
+        "P24"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-wuding",
+      "predicate": "father_of",
+      "object": "shiji-person-zujia",
+      "evidence": [
+        "P24"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zujia",
+      "predicate": "brother_of",
+      "object": "shiji-person-zugeng",
+      "evidence": [
+        "P25"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zujia",
+      "predicate": "father_of",
+      "object": "shiji-person-linxin",
+      "evidence": [
+        "P25"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zujia",
+      "predicate": "father_of",
+      "object": "shiji-person-gengding",
+      "evidence": [
+        "P25"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-gengding",
+      "predicate": "brother_of",
+      "object": "shiji-person-linxin",
+      "evidence": [
+        "P26"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-gengding",
+      "predicate": "father_of",
+      "object": "shiji-person-wuyi",
+      "evidence": [
+        "P26"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-wuyi",
+      "predicate": "father_of",
+      "object": "shiji-person-taidin2",
+      "evidence": [
+        "P27"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-taidin2",
+      "predicate": "father_of",
+      "object": "shiji-person-diyi",
+      "evidence": [
+        "P27"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-diyi",
+      "predicate": "father_of",
+      "object": "shiji-person-weizi",
+      "evidence": [
+        "P28"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-diyi",
+      "predicate": "father_of",
+      "object": "shiji-person-zhou",
+      "evidence": [
+        "P28"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhou",
+      "predicate": "succeeded",
+      "object": "shiji-person-diyi",
+      "evidence": [
+        "P28"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-weizi",
+      "predicate": "brother_of",
+      "object": "shiji-person-zhou",
+      "evidence": [
+        "P28"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-daji",
+      "predicate": "consort_of",
+      "object": "shiji-person-zhou",
+      "evidence": [
+        "P29"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-feizhong",
+      "predicate": "minister_of",
+      "object": "shiji-person-zhou",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-elai",
+      "predicate": "minister_of",
+      "object": "shiji-person-zhou",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-hongyao",
+      "predicate": "minister_of",
+      "object": "shiji-person-xibochang",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhou",
+      "predicate": "killed",
+      "object": "shiji-person-jiuhou",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhou",
+      "predicate": "killed",
+      "object": "shiji-person-ehou",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhou",
+      "predicate": "imprisoned",
+      "object": "shiji-person-xibochang",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-chonghouhu",
+      "predicate": "informed_on",
+      "object": "shiji-person-xibochang",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-shangrong",
+      "predicate": "minister_of",
+      "object": "shiji-person-zhou",
+      "evidence": [
+        "P31"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zuyi2",
+      "predicate": "minister_of",
+      "object": "shiji-person-zhou",
+      "evidence": [
+        "P31"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-bigan",
+      "predicate": "minister_of",
+      "object": "shiji-person-zhou",
+      "evidence": [
+        "P31"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhou",
+      "predicate": "killed",
+      "object": "shiji-person-bigan",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-jizi",
+      "predicate": "minister_of",
+      "object": "shiji-person-zhou",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhou",
+      "predicate": "imprisoned",
+      "object": "shiji-person-jizi",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-weizi",
+      "predicate": "left",
+      "object": "shiji-person-zhou",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhouwuwang",
+      "predicate": "defeated",
+      "object": "shiji-person-zhou",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhouwuwang",
+      "predicate": "beheaded",
+      "object": "shiji-person-zhou",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhouwuwang",
+      "predicate": "killed",
+      "object": "shiji-person-daji",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhouwuwang",
+      "predicate": "released",
+      "object": "shiji-person-jizi",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhou",
+      "predicate": "father_of",
+      "object": "shiji-person-wugeng",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-wugeng",
+      "predicate": "rebelled_against",
+      "object": "shiji-person-chengwang",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-guanshu",
+      "predicate": "rebelled_against",
+      "object": "shiji-person-chengwang",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-caishu",
+      "predicate": "rebelled_against",
+      "object": "shiji-person-chengwang",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-chengwang",
+      "predicate": "appointed",
+      "object": "shiji-person-zhougong",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhougong",
+      "predicate": "defeated",
+      "object": "shiji-person-wugeng",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-chengtang",
+      "predicate": "defeated",
+      "object": "shiji-person-gebo",
+      "evidence": [
+        "P3"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-chengtang",
+      "predicate": "defeated",
+      "object": "shiji-person-kunwu",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-chengtang",
+      "predicate": "defeated",
+      "object": "shiji-person-jie",
+      "evidence": [
+        "P6",
+        "P7"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-chengtang",
+      "predicate": "moved_capital_to",
+      "object": "shiji-place-bo",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhongding",
+      "predicate": "moved_capital_to",
+      "object": "shiji-place-ao",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-hedanjia",
+      "predicate": "moved_capital_to",
+      "object": "shiji-place-xiang",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zuyi",
+      "predicate": "moved_capital_to",
+      "object": "shiji-place-geng",
+      "evidence": [
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-pangeng",
+      "predicate": "moved_capital_to",
+      "object": "shiji-place-yin",
+      "evidence": [
+        "P20"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-wuyi",
+      "predicate": "moved_capital_to",
+      "object": "shiji-place-hewei",
+      "evidence": [
+        "P27"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-jizi",
+      "predicate": "ancestor_of",
+      "object": "shiji-person-zuyi2",
+      "evidence": [
+        "P31"
+      ],
+      "source": "注疏"
+    }
+  ]
+}

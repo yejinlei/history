@@ -1,0 +1,3582 @@
+{
+  "book": "shiji",
+  "chapter": "夏本纪",
+  "persons": [
+    {
+      "id": "shiji-person-yu",
+      "name": "禹",
+      "aliases": [
+        "夏禹",
+        "伯禹",
+        "文命",
+        "夏后",
+        "姒",
+        "高密"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后·司空（治水）",
+      "description": "鲧之子，黄帝玄孙、颛顼之孙；舜命为司空平水土，居外十三年过家门不入，开九州、通九道、陂九泽、度九山，功成受玄圭；舜荐之于天，继践天子位，国号夏后、姓姒。注疏：索隐谓文命未必为禹名，正义引帝王纪谓名文命字密、生于石纽。",
+      "evidence": [
+        "P0",
+        "P1",
+        "P2",
+        "P4",
+        "P5",
+        "P19",
+        "P25",
+        "P27"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-gun",
+      "name": "鲧",
+      "aliases": [
+        "崇伯鲧"
+      ],
+      "type": "Person",
+      "dynasty": "上古",
+      "role": "臣·禹父",
+      "description": "颛顼之子（正文）、禹之父；四岳荐之治洪水，九载（九年）功用不成；舜摄政巡狩，视其治水无状，殛之于羽山。注疏异说：索隐引皇甫谧谓鲧字熙，又谓颛顼五代生鲧（汉书律历志），与舜为颛顼六代孙之说代系不合，故疑鲧非颛顼之子。",
+      "evidence": [
+        "P0",
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhuanxu",
+      "name": "帝颛顼",
+      "aliases": [
+        "颛顼",
+        "高阳",
+        "高阳氏"
+      ],
+      "type": "Person",
+      "dynasty": "上古·五帝",
+      "role": "五帝之二",
+      "description": "黄帝之孙、昌意之子，鲧之父、禹之祖父；正文以颛顼为鲧父。注疏异说：索隐引皇甫谧谓鲧为颛顼之子；又汉书律历志谓颛顼五代而生鲧，代系与舜不合，索隐以为班氏之说近得其实。",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-changyi",
+      "name": "昌意",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "上古",
+      "role": "黄帝子·禹曾大父",
+      "description": "黄帝之子，颛顼之父，禹之曾大父；正文谓昌意及鲧皆不得在帝位，为人臣。",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-huangdi",
+      "name": "黄帝",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "上古·五帝",
+      "role": "五帝之首",
+      "description": "昌意之父、颛顼之祖父，禹之玄祖（正文：禹者，黄帝之玄孙）；其后昌意、鲧皆未得在帝位。",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-yao",
+      "name": "帝尧",
+      "aliases": [
+        "尧",
+        "放勋",
+        "陶唐"
+      ],
+      "type": "Person",
+      "dynasty": "上古·五帝",
+      "role": "五帝之四",
+      "description": "帝尧之时洪水滔天，求能治水者，四岳荐鲧，尧初以为不可而试用之，九载无功；后乃得舜，使摄行天子之政、巡狩。注疏：正义谓赐禹玄圭之『帝』即尧。",
+      "evidence": [
+        "P1",
+        "P2",
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-shun",
+      "name": "帝舜",
+      "aliases": [
+        "舜",
+        "虞舜",
+        "重华"
+      ],
+      "type": "Person",
+      "dynasty": "上古·五帝",
+      "role": "五帝之五",
+      "description": "尧更得舜，舜摄行天子之政，巡狩视鲧治水无状，殛鲧于羽山，举鲧子禹使续其业；命禹为司空平水土；后荐禹于天为嗣，十七年而崩。",
+      "evidence": [
+        "P1",
+        "P2",
+        "P19",
+        "P22",
+        "P25"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-qi",
+      "name": "后稷",
+      "aliases": [
+        "稷"
+      ],
+      "type": "Person",
+      "dynasty": "上古",
+      "role": "臣（后稷·农官）",
+      "description": "虞舜之臣，舜命为后稷掌农事（见五帝本纪）；禹治水时，命后稷予众庶难得之食，食少则调有余相给，以均诸侯。即周之始祖弃。",
+      "evidence": [
+        "P2",
+        "P4",
+        "P20"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-xie",
+      "name": "契",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "上古",
+      "role": "臣（司徒）",
+      "description": "虞舜之臣，与后稷、皋陶同列于禹让官之目；后为司徒（见五帝本纪），为商之始祖。",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-gaoyao",
+      "name": "皋陶",
+      "aliases": [
+        "咎繇",
+        "咎陶"
+      ],
+      "type": "Person",
+      "dynasty": "上古",
+      "role": "臣（士·大理）",
+      "description": "舜之臣，作士以理民；与禹、伯夷论政于帝前，述九德之谋、天讨五刑之说；禹立举之且授政，未及禅而皋陶卒，封其后于英、六，或在许。注疏：正义谓皋陶生于曲阜，赐姓偃。",
+      "evidence": [
+        "P2",
+        "P19",
+        "P20",
+        "P23",
+        "P24",
+        "P26"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-yi",
+      "name": "益",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "上古",
+      "role": "臣",
+      "description": "禹治水时，益随禹奉帝命，兴人徒、予众庶稻种于卑湿之田；禹荐益任政，禹崩以天下授益，三年丧毕，益让禹子启而辟居箕山之阳。",
+      "evidence": [
+        "P4",
+        "P20",
+        "P26",
+        "P27"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-boyi",
+      "name": "伯夷",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "上古",
+      "role": "臣",
+      "description": "帝舜之臣，舜朝时与禹、皋陶相与语于帝前，共商治道。本纪中仅见其预议政之列。",
+      "evidence": [
+        "P19"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-kui",
+      "name": "夔",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "上古",
+      "role": "臣（典乐）",
+      "description": "舜时行乐之官；夔行乐，祖考至、群后相让，箫韶九成、凤凰来仪、百兽率舞。",
+      "evidence": [
+        "P24"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-xiaqi",
+      "name": "启",
+      "aliases": [
+        "啟",
+        "夏后帝启",
+        "帝启"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后（夏朝君主）",
+      "description": "禹之子，母涂山氏之女；禹崩授益，益让避启，诸侯去益朝启，启遂即天子位。有扈氏不服，启伐之，大战于甘，作甘誓，召六卿申之，遂灭有扈氏，天下咸朝。",
+      "evidence": [
+        "P22",
+        "P27",
+        "P28",
+        "P29",
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-tushanshi",
+      "name": "涂山氏",
+      "aliases": [
+        "女媧"
+      ],
+      "type": "Person",
+      "dynasty": "上古",
+      "role": "禹妻·启母",
+      "description": "禹娶于涂山；正文谓禹娶涂山『辛壬癸甲』而生启，禹不以启为子（不子），以故能成水土之功。注疏：集解谓涂山为国名，索隐引系本谓涂山氏女名女媧。",
+      "evidence": [
+        "P22",
+        "P28"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-danzhu",
+      "name": "丹朱",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "上古",
+      "role": "尧子",
+      "description": "帝尧之子（按：本章正文及注疏均未言丹朱为尧子，其说见《五帝本纪》）；舜诫禹毋若丹朱之傲、慢游是好、朋淫于家，用绝其世。",
+      "evidence": [
+        "P22"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-youhushi",
+      "name": "有扈氏",
+      "aliases": [
+        "扈国"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "诸侯国·部族",
+      "description": "夏启时为诸侯，不服启之即位；启伐之，大战于甘，作甘誓，遂灭有扈氏。注疏：集解、正义谓有扈氏即扶风鄠县之扈国，甘为其南郊地名。太史公曰亦列有扈氏于夏后分封之姓。",
+      "evidence": [
+        "P29",
+        "P34"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-taikang",
+      "name": "太康",
+      "aliases": [
+        "帝太康"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后",
+      "description": "启之子，继启而立；帝太康失国，昆弟五人须于洛汭，作五子之歌。注疏：集解孔安国谓太康盘于游田、不恤民事，为后羿所逐，不得反国。",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhongkang",
+      "name": "中康",
+      "aliases": [
+        "帝中康",
+        "仲康"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后",
+      "description": "太康之弟，继太康而立；帝中康时，羲、和湎淫，废时乱日，胤往征之，作胤征。",
+      "evidence": [
+        "P31"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-xi",
+      "name": "羲",
+      "aliases": [
+        "羲氏"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "掌天地四时之官",
+      "description": "与和氏同掌天地四时之官；太康之后，羲、和沉湎于酒、废天时乱甲乙（孔安国说），中康时胤奉命往征之。",
+      "evidence": [
+        "P31"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-he",
+      "name": "和",
+      "aliases": [
+        "和氏"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "掌天地四时之官",
+      "description": "与羲氏同掌天地四时之官；中康时羲、和湎淫废时乱日，胤奉命往征之。",
+      "evidence": [
+        "P31"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-yin",
+      "name": "胤",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "臣/国君",
+      "description": "帝中康时奉命往征羲、和，作胤征。注疏异说：集解孔安国谓胤国之君受王命往征之，郑玄谓胤为臣名。",
+      "evidence": [
+        "P31"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-dixiang",
+      "name": "相",
+      "aliases": [
+        "帝相"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后",
+      "description": "中康之子，继中康而立。注疏：索隐、正义引左传谓帝相为寒浞之子浇（奡）所灭，相妃后缗归有仍而生少康，中间经羿、浞二氏，正文略而不书。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-shaokang",
+      "name": "少康",
+      "aliases": [
+        "帝少康"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后（中兴之主）",
+      "description": "帝相之子；注疏引左传谓夏遗臣靡收斟寻、斟灌二国余烬，杀寒浞而立少康，少康灭浇于过，后杼灭豷于戈，有穷遂亡，夏室中兴。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-diyu",
+      "name": "帝予",
+      "aliases": [
+        "予",
+        "后杼",
+        "季佇"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后",
+      "description": "少康之子，继少康而立。注疏：索隐引系本作帝佇（季佇作甲），左传谓杼灭豷于戈，国语谓杼能帅禹者也。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-huai",
+      "name": "帝槐",
+      "aliases": [
+        "帝芬"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后",
+      "description": "帝予之子，继予而立。注疏：索隐引系本作帝芬。帝槐崩，子帝芒立。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-mang",
+      "name": "帝芒",
+      "aliases": [
+        "帝荒"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后",
+      "description": "帝槐之子，继槐而立；索隐引邹诞生音荒。帝芒崩，子帝泄立，事见夏后世系。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-dixie",
+      "name": "帝泄",
+      "aliases": [
+        "帝洩"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后",
+      "description": "帝芒之子，继芒而立；帝泄崩，子帝不降立。为夏后氏十四世世系之一。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-bujiang",
+      "name": "帝不降",
+      "aliases": [
+        "帝降"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后",
+      "description": "帝泄之子，继泄而立；注疏索隐引系本作『帝降』。帝不降崩，弟帝扃立。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-jiong",
+      "name": "帝扃",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后",
+      "description": "帝不降之弟，继不降而立；帝扃崩，子帝厪立。事见本纪夏后世系。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-dijin",
+      "name": "帝厪",
+      "aliases": [
+        "帝廑",
+        "帝勤"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后",
+      "description": "帝扃之子，继扃而立；索隐引邹诞生音勤。帝厪崩，立不降之子孔甲。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-kongjia",
+      "name": "孔甲",
+      "aliases": [
+        "帝孔甲"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后",
+      "description": "帝不降之子，继帝厪而立；好方鬼神、事淫乱，夏后氏德衰、诸侯畔之；天降二龙有雌雄，孔甲不能食，得陶唐氏之后刘累为之养龙，赐姓御龙氏。",
+      "evidence": [
+        "P32",
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-liulei",
+      "name": "刘累",
+      "aliases": [
+        "御龙氏"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "陶唐氏之后·养龙者",
+      "description": "陶唐氏既衰，其后有刘累，学扰龙于豢龙氏，以事孔甲；孔甲赐之姓曰御龙氏，受豕韦之后。龙一雌死，刘累以食夏后，夏后使求，刘累惧而迁去。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-huanlongshi",
+      "name": "豢龙氏",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "上古",
+      "role": "养龙之族",
+      "description": "养龙之族；陶唐氏之后刘累学扰龙于豢龙氏，孔甲时亦欲得豢龙氏而未能。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-digao",
+      "name": "帝皋",
+      "aliases": [
+        "帝臯"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后",
+      "description": "孔甲之子，继孔甲而立。注疏：索隐引系本谓帝皋生发及桀，与正文以发生桀之说不同。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-difa",
+      "name": "帝发",
+      "aliases": [
+        "帝發"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后",
+      "description": "帝皋之子，继帝皋而立；帝发崩，子帝履癸（桀）立。事见本纪夏后世系。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-jie",
+      "name": "桀",
+      "aliases": [
+        "履癸",
+        "帝履癸",
+        "夏桀"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后（末代）",
+      "description": "帝发之子，名履癸；自孔甲以来诸侯多畔夏，桀不务德而武伤百姓，百姓弗堪；召汤囚之夏台，已而释之。汤率兵伐桀，桀走鸣条，遂放而死；死前悔不杀汤于夏台。注疏：正义引括地志谓桀被放于南巢。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-tang",
+      "name": "汤",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "上古·商",
+      "role": "商君（代夏）",
+      "description": "商之主；桀召而囚之夏台，已而释之。汤修德，诸侯皆归汤，遂率兵伐夏桀，桀走鸣条放死；汤乃践天子位，代夏朝天下，封夏之后。注疏：正义引淮南子谓汤败桀于历山，桀奔南巢。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-taishigong",
+      "name": "太史公",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "西汉",
+      "role": "作者",
+      "description": "本纪作者；篇末论夏后分封以国为姓之制，并述禹会诸侯江南、计功而崩因葬会稽之说。",
+      "evidence": [
+        "P34"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-kongzi",
+      "name": "孔子",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "春秋",
+      "role": "学者",
+      "description": "孔子正夏时，学者多传夏小正云。太史公篇末记之，礼运称孔子欲观夏道之杞而得夏时焉。",
+      "evidence": [
+        "P34"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-houyi",
+      "name": "后羿",
+      "aliases": [
+        "羿"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "有穷氏之君",
+      "description": "注疏引左传：后羿自鉏迁于穷石，因夏民以代夏政；恃其善射不修民事，弃良臣而信寒浞，终为寒浞所杀。述赞亦以『羿浞斯侮』言夏室之衰。",
+      "evidence": [
+        "P32",
+        "P35"
+      ],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-person-hanzhuo",
+      "name": "寒浞",
+      "aliases": [
+        "浞"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "代夏之君",
+      "description": "伯明氏之谗子，为后羿之相；杀羿而代夏，袭有穷之号，因羿之室，生浇、豷；后为夏遗臣靡所杀。",
+      "evidence": [
+        "P32",
+        "P35"
+      ],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-person-houmin",
+      "name": "后缗",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "帝相之妃·少康母",
+      "description": "有仍氏之女，为帝相之妃；浇杀帝相，后缗归有仍，生少康，是少康中兴之关键。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-person-mi",
+      "name": "靡",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏之遗臣",
+      "description": "夏之遗臣，初事后羿，羿死后逃于有鬲氏，收斟寻、斟灌二国余烬，杀寒浞而立少康。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-person-ao",
+      "name": "浇",
+      "aliases": [
+        "奡",
+        "澆"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "寒浞之子·过君",
+      "description": "寒浞之子，多力能陆地行舟；帅师灭斟灌、斟寻，杀夏帝相，封于过；后为少康所灭。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-person-yixi",
+      "name": "豷",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "寒浞之子·戈君",
+      "description": "寒浞之子，封于戈；后为帝杼（予）所灭，有穷遂亡。事见注疏引左传及正义引帝王纪。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-person-shangjun",
+      "name": "商均",
+      "aliases": [
+        "均"
+      ],
+      "type": "Person",
+      "dynasty": "上古",
+      "role": "舜子",
+      "description": "帝舜之子；舜荐禹于天，舜崩丧毕，禹辞避商均于阳城，天下诸侯皆去商均而朝禹。",
+      "evidence": [
+        "P25"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-sanmiao",
+      "name": "三苗",
+      "aliases": [
+        "有苗",
+        "苗"
+      ],
+      "type": "Person",
+      "dynasty": "上古",
+      "role": "诸侯国",
+      "description": "舜所迁之族；禹论政时称『何迁乎有苗』，又言『苗顽不即功』，请帝念之。",
+      "evidence": [
+        "P19",
+        "P22"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-xiuji",
+      "name": "脩己",
+      "aliases": [
+        "女志"
+      ],
+      "type": "Person",
+      "dynasty": "上古",
+      "role": "鲧妻·禹母",
+      "description": "注疏引帝王纪谓鲧妻脩己，见流星贯昴、梦接意感，又吞神珠薏苡，胸坼而生禹；系本则谓鲧娶有辛氏女，谓之女志，生高密（禹）。二说并存。",
+      "evidence": [
+        "P0"
+      ],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-person-xiahoushi",
+      "name": "夏后氏",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后分封之氏",
+      "description": "太史公曰：禹为姒姓，其后分封以国为姓，故有夏后氏等；夏后即禹之国号（正文：国号曰夏后，姓姒氏）。",
+      "evidence": [
+        "P25",
+        "P34"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-younanshi",
+      "name": "有男氏",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后分封之氏",
+      "description": "夏后分封以国为姓之氏，见太史公曰；索隐引系本作『有南氏』，系禹后分封之姓之一。",
+      "evidence": [
+        "P34"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhenxunshi",
+      "name": "斟寻氏",
+      "aliases": [
+        "斟尋氏"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后分封之氏",
+      "description": "夏后分封以国为姓之氏，见太史公曰；索隐谓系本作斟鄩，其地济南平寿县即古斟寻国。",
+      "evidence": [
+        "P34"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-tongchengshi",
+      "name": "彤城氏",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后分封之氏",
+      "description": "夏后分封以国为姓之氏，见太史公曰；索隐谓周有彤伯，盖彤城氏之后。",
+      "evidence": [
+        "P34"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-baoshi",
+      "name": "襃氏",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后分封之氏",
+      "description": "夏后分封以国为姓之氏，见太史公曰；为禹后以国为姓者之一，与夏后氏等同列。",
+      "evidence": [
+        "P34"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-feishi",
+      "name": "费氏",
+      "aliases": [
+        "費氏"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后分封之氏",
+      "description": "夏后分封以国为姓之氏，见太史公曰；索隐谓系本作『弗』，系禹后分封之姓。",
+      "evidence": [
+        "P34"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-qishi",
+      "name": "杞氏",
+      "aliases": [
+        "𣏌氏"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后分封之氏",
+      "description": "夏后分封以国为姓之氏；正文谓汤封夏之后，至周封于杞，即此杞氏。",
+      "evidence": [
+        "P33",
+        "P34"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zengshi",
+      "name": "缯氏",
+      "aliases": [
+        "繒氏"
+      ],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后分封之氏",
+      "description": "夏后分封以国为姓之氏，见太史公曰；系禹后以国为姓分封之姓之一。",
+      "evidence": [
+        "P34"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-xinshi",
+      "name": "辛氏",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后分封之氏",
+      "description": "夏后分封以国为姓之氏，见太史公曰；系禹后以国为姓分封之姓之一。",
+      "evidence": [
+        "P34"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-mingshi",
+      "name": "冥氏",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后分封之氏",
+      "description": "夏后分封以国为姓之氏，见太史公曰；系禹后以国为姓分封之姓之一。",
+      "evidence": [
+        "P34"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-zhengoshi",
+      "name": "斟戈氏",
+      "aliases": [],
+      "type": "Person",
+      "dynasty": "上古·夏",
+      "role": "夏后分封之氏",
+      "description": "夏后分封以国为姓之氏，见太史公曰；索隐谓左传、系本皆作斟灌氏。",
+      "evidence": [
+        "P34"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-person-huandou",
+      "name": "驩兜",
+      "aliases": [
+        "驩兠"
+      ],
+      "type": "Person",
+      "dynasty": "上古",
+      "role": "臣",
+      "description": "禹论政时称『何忧乎驩兜』，与有苗、巧言善色佞人并举；本章仅一见，未详其事。",
+      "evidence": [
+        "P19"
+      ],
+      "source": "正文"
+    }
+  ],
+  "places": [
+    {
+      "id": "shiji-place-jizhou",
+      "name": "冀州",
+      "type": "Place",
+      "modern": "两河之间（郑玄：两河间曰冀州）；正义谓东河之西、西河之东、南河之北皆冀州",
+      "description": "禹治水自冀州始；既载壶口，治梁及岐，既修太原，至于岳阳，覃怀致功，至于衡漳。九州之一。",
+      "evidence": [
+        "P5"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yanzhou",
+      "name": "沇州",
+      "aliases": [
+        "兖州"
+      ],
+      "type": "Place",
+      "modern": "济、河之间（郑玄：沇州之界在此两水之间）",
+      "description": "济、河维沇州；九河既道，雷夏既泽，雍、沮会同，桑土既蚕；其贡漆丝、织文。九州之一。",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-qingzhou",
+      "name": "青州",
+      "type": "Place",
+      "modern": "东自海，西至岱（郑玄）",
+      "description": "海岱维青州；堣夷既略，濰、淄既道；其贡盐絺、海物，莱夷为牧。九州之一。",
+      "evidence": [
+        "P7"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-xuzhou",
+      "name": "徐州",
+      "type": "Place",
+      "modern": "东至海，北至岱，南及淮（孔安国）",
+      "description": "海岱及淮维徐州；淮、沂其治，蒙、羽其蓺，大野既都，东原厎平；贡土五色、泗滨浮磬、淮夷蠙珠暨鱼。九州之一。",
+      "evidence": [
+        "P8"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yangzhou",
+      "name": "扬州",
+      "aliases": [
+        "揚州"
+      ],
+      "type": "Place",
+      "modern": "北据淮，南距海（孔安国）",
+      "description": "淮海维扬州；彭蠡既都，三江既入，震泽致定；贡金三品、瑶琨竹箭、齿革羽毛、岛夷卉服。九州之一。",
+      "evidence": [
+        "P9"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jingzhou",
+      "name": "荆州",
+      "aliases": [
+        "荊州"
+      ],
+      "type": "Place",
+      "modern": "北据荆山，南及衡山之阳（孔安国）",
+      "description": "荆及衡阳维荆州；江、汉朝宗于海，九江甚中，沱、涔已道，云土、梦为治；贡羽毛齿革、金三品、大龟。九州之一。",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yuzhou",
+      "name": "豫州",
+      "type": "Place",
+      "modern": "西南至荆山，北距河水（孔安国）",
+      "description": "荆河维豫州；伊、雒、瀍、涧既入于河，荥播既都，道荷泽，被明都；贡漆、丝、絺、纻。九州之一。",
+      "evidence": [
+        "P11"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-liangzhou",
+      "name": "梁州",
+      "type": "Place",
+      "modern": "东据华山之南，西距黑水（孔安国）",
+      "description": "华阳黑水惟梁州；汶、嶓既蓺，沱、涔既道，蔡、蒙旅平，和夷厎绩；贡璆、铁、银、镂、砮、磬。九州之一。",
+      "evidence": [
+        "P12"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yongzhou",
+      "name": "雍州",
+      "type": "Place",
+      "modern": "西距黑水，东据河（孔安国）",
+      "description": "黑水西河惟雍州；弱水既西，泾属渭汭，漆、沮既从，沣水所同；三危既度，三苗大序；贡璆、琳、琅玕。九州之一。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jiuzhou",
+      "name": "九州",
+      "type": "Place",
+      "modern": "禹所开画之天下九区（冀、兖、青、徐、扬、荆、豫、梁、雍）",
+      "description": "禹行相地宜以开九州、通九道、陂九泽、度九山；治水功成则九州攸同、四奥既居、四海会同。",
+      "evidence": [
+        "P4",
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-hukou",
+      "name": "壶口",
+      "aliases": [
+        "壺口"
+      ],
+      "type": "Place",
+      "modern": "慈州吉昌县西南五十里（正义引括地志）",
+      "description": "冀州治水所载之山，禹行山表木之首；亦列于道九山。",
+      "evidence": [
+        "P5",
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-liangshan",
+      "name": "梁山",
+      "type": "Place",
+      "modern": "同州韩城县东南十九里（正义）",
+      "description": "冀州之山，禹既载壶口，治梁及岐。",
+      "evidence": [
+        "P5"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-qishan",
+      "name": "岐山",
+      "type": "Place",
+      "modern": "岐州岐山县东北十里（正义）",
+      "description": "冀州治水所治之山；亦见道九山（汧及岐至于荆山）。正义谓雍州荆山即黄帝及禹铸鼎地。",
+      "evidence": [
+        "P5",
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-taiyuan",
+      "name": "太原",
+      "type": "Place",
+      "modern": "今为郡名，太岳在太原西南（孔安国）",
+      "description": "冀州既修太原，至于岳阳。",
+      "evidence": [
+        "P5"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-taiyue",
+      "name": "太岳",
+      "aliases": [
+        "霍太山",
+        "太嶽"
+      ],
+      "type": "Place",
+      "modern": "即霍太山，沁州沁源县西七八十里（正义）",
+      "description": "冀州既修太原至于岳阳之岳，即冀州之镇霍太山；亦见道九山（壶口、雷首至于太岳）。",
+      "evidence": [
+        "P5",
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-hengzhang",
+      "name": "衡漳",
+      "type": "Place",
+      "modern": "瀛州平舒县界（正义）；一说漳水横流（孔安国），一说衡、漳二水名（王肃）",
+      "description": "冀州覃怀致功，至于衡漳。",
+      "evidence": [
+        "P5"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-dalu",
+      "name": "大陆",
+      "aliases": [
+        "大陸"
+      ],
+      "type": "Place",
+      "modern": "钜鹿北广河泽（郭璞）；钜鹿郡（索隐）",
+      "description": "冀州常、卫既从，大陆既为；道九川亦云北过降水至于大陆。古泽薮。",
+      "evidence": [
+        "P5",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jieshi",
+      "name": "碣石",
+      "type": "Place",
+      "modern": "北平骊城县西南（地理志）；海畔之山（孔安国）",
+      "description": "冀州贡道夹右碣石入于海；道九山亦云太行、常山至于碣石，入于海。",
+      "evidence": [
+        "P5",
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jiuhe",
+      "name": "九河",
+      "type": "Place",
+      "modern": "徒骇、太史、马颊、覆釜、胡苏、简、絜、钩盘、鬲津（马融）",
+      "description": "沇州九河既道；道九川又云河至大陆北播为九河，同为逆河，入于海。",
+      "evidence": [
+        "P6",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-leixia",
+      "name": "雷夏",
+      "aliases": [
+        "雷泽"
+      ],
+      "type": "Place",
+      "modern": "濮州雷泽县郭外西北（正义）",
+      "description": "沇州雷夏既泽，雍、沮会同之处。",
+      "evidence": [
+        "P6"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-weiheshui",
+      "name": "濰水",
+      "type": "Place",
+      "modern": "出琅邪箕县，北至都昌县入海（索隐）",
+      "description": "青州濰、淄既道之濰水。",
+      "evidence": [
+        "P7"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-zishui",
+      "name": "淄水",
+      "type": "Place",
+      "modern": "出泰山莱芜县原山，东至博昌县入济（索隐）",
+      "description": "青州濰、淄既道之淄水。",
+      "evidence": [
+        "P7"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-wenshui",
+      "name": "汶水",
+      "type": "Place",
+      "modern": "出泰山莱芜县原山，西南入济（郑玄）",
+      "description": "青州贡道浮于汶，通于济；徐州汶山之阳见道九山。",
+      "evidence": [
+        "P7",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-mengshan",
+      "name": "蒙山",
+      "type": "Place",
+      "modern": "泰山蒙阴县西南（索隐）",
+      "description": "徐州淮、沂其治，蒙、羽其蓺之蒙山。",
+      "evidence": [
+        "P8"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yushan",
+      "name": "羽山",
+      "type": "Place",
+      "modern": "东海祝其县南，殛鲧之地；沂州临沂县界（正义）",
+      "description": "舜殛鲧于羽山之处，亦徐州蒙、羽其蓺之羽山。",
+      "evidence": [
+        "P1",
+        "P8"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-daye",
+      "name": "大野",
+      "type": "Place",
+      "modern": "山阳钜野北，名钜野泽（郑玄）",
+      "description": "徐州大野既都之处，水所停曰都。",
+      "evidence": [
+        "P8"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-dongyuan",
+      "name": "东原",
+      "aliases": [
+        "東原"
+      ],
+      "type": "Place",
+      "modern": "今东平郡（郑玄）",
+      "description": "徐州东原厎平，水去而地致平复可耕。",
+      "evidence": [
+        "P8"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-sanjiang",
+      "name": "三江",
+      "type": "Place",
+      "modern": "松江、钱唐江、浦阳江（韦昭）；或谓南江、中江、北江（地理志）",
+      "description": "扬州三江既入，震泽致定；道九川亦云江分北江、中江入海。",
+      "evidence": [
+        "P9",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-zhenze",
+      "name": "震泽",
+      "aliases": [
+        "具区"
+      ],
+      "type": "Place",
+      "modern": "吴南太湖名（孔安国）；苏州西南四十五里",
+      "description": "扬州三江既入后所定之泽，即太湖。",
+      "evidence": [
+        "P9"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-pengli",
+      "name": "彭蠡",
+      "type": "Place",
+      "modern": "豫章彭泽西（郑玄）；彭蠡湖在江州浔阳县东南五十二里（正义）",
+      "description": "扬州彭蠡既都；道九川云汉水东汇泽为彭蠡，江水东迤北会于汇。",
+      "evidence": [
+        "P9",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jiujiang",
+      "name": "九江",
+      "type": "Place",
+      "modern": "寻阳南（郑玄）；索隐引寻阳记列乌江、蚌江等九水",
+      "description": "荆州九江甚中，江于此州界分为九道，甚得地势之中；道九川云过九江至于东陵。",
+      "evidence": [
+        "P10",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yunmeng",
+      "name": "云梦",
+      "aliases": [
+        "雲夢",
+        "云土梦"
+      ],
+      "type": "Place",
+      "modern": "云土、梦本二泽名，相近故合称云梦（索隐）",
+      "description": "荆州云土、梦为治之处，江水所经之大泽。",
+      "evidence": [
+        "P10"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yishui",
+      "name": "伊水",
+      "type": "Place",
+      "modern": "出弘农卢氏县东（索隐）",
+      "description": "豫州伊、雒、瀍、涧既入于河之伊水。",
+      "evidence": [
+        "P11"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-luoshui",
+      "name": "雒水",
+      "aliases": [
+        "洛水"
+      ],
+      "type": "Place",
+      "modern": "出弘农上洛县冢领山（索隐）",
+      "description": "豫州雒水既入于河；道九川云道雒自熊耳，东北会涧、瀍，又东会伊，东北入河。",
+      "evidence": [
+        "P11",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-chanshui",
+      "name": "瀍水",
+      "type": "Place",
+      "modern": "出河南谷城县朁亭北（索隐）",
+      "description": "豫州入河四水之一。",
+      "evidence": [
+        "P11"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jianshui",
+      "name": "涧水",
+      "aliases": [
+        "澗水"
+      ],
+      "type": "Place",
+      "modern": "出弘农新安县东（索隐）",
+      "description": "豫州入河四水之一。",
+      "evidence": [
+        "P11"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yingze",
+      "name": "荥",
+      "aliases": [
+        "滎",
+        "荥泽"
+      ],
+      "type": "Place",
+      "modern": "荥泽（孔安国）；今郑州荥泽县西北",
+      "description": "豫州荥播既都之泽；道九川云济水泆为荥。",
+      "evidence": [
+        "P11",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-heze",
+      "name": "荷泽",
+      "aliases": [
+        "菏泽"
+      ],
+      "type": "Place",
+      "modern": "济阴定陶县东（索隐）",
+      "description": "豫州道荷泽、被明都之泽。",
+      "evidence": [
+        "P11"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-mingdu",
+      "name": "明都",
+      "aliases": [
+        "孟猪",
+        "孟诸"
+      ],
+      "type": "Place",
+      "modern": "音孟猪，孟猪泽在梁国睢阳县东北（索隐）",
+      "description": "豫州荷泽之水所被之泽。",
+      "evidence": [
+        "P11"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-minshan",
+      "name": "岷山",
+      "aliases": [
+        "汶山"
+      ],
+      "type": "Place",
+      "modern": "蜀郡湔氐道（郑玄）；岷州溢乐县南一里（正义）",
+      "description": "梁州汶、嶓既蓺之汶山；道九川云汶山道江，东别为沱。",
+      "evidence": [
+        "P12",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-bozhong",
+      "name": "嶓冢",
+      "type": "Place",
+      "modern": "陇西西县，汉水所出（索隐）",
+      "description": "梁州汶、嶓既蓺之山；道九川云嶓冢道瀁，东流为汉。",
+      "evidence": [
+        "P12",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-xiqing",
+      "name": "西倾",
+      "aliases": [
+        "西傾"
+      ],
+      "type": "Place",
+      "modern": "陇西临洮县西南（索隐）",
+      "description": "梁州贡道西倾因桓是来；亦列于道九山。",
+      "evidence": [
+        "P12",
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-qianshui",
+      "name": "潜水",
+      "aliases": [
+        "涔水",
+        "潛水"
+      ],
+      "type": "Place",
+      "modern": "出汉中安阳县，北入汉（索隐）",
+      "description": "梁州沱、涔既道之潜水（涔）。",
+      "evidence": [
+        "P12"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-weishui",
+      "name": "渭水",
+      "type": "Place",
+      "modern": "出首阳县鸟鼠同穴山（索隐）",
+      "description": "雍州泾属渭汭、漆沮既从之渭水；道九川云道渭自鸟鼠同穴，东会于沣。",
+      "evidence": [
+        "P13",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-ruoshui",
+      "name": "弱水",
+      "type": "Place",
+      "modern": "出张掖删丹县西北，至酒泉会水县入合黎山腹（水经）",
+      "description": "雍州弱水既西；道九川云弱水至于合黎，余波入于流沙。",
+      "evidence": [
+        "P13",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jingshui",
+      "name": "泾水",
+      "aliases": [
+        "涇水"
+      ],
+      "type": "Place",
+      "modern": "出安定泾阳（郑玄）",
+      "description": "雍州泾属渭汭之泾水。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-qiju",
+      "name": "漆沮",
+      "type": "Place",
+      "modern": "二水名，出冯翊北（孔安国）",
+      "description": "雍州漆、沮既从之水；一说为二水，一说合为一水（注疏异说）。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-fengshui",
+      "name": "沣水",
+      "aliases": [
+        "灃水"
+      ],
+      "type": "Place",
+      "modern": "出右扶风鄠县东南，北过上林苑（索隐）",
+      "description": "雍州沣水所同之水。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-zhongnan",
+      "name": "终南",
+      "aliases": [
+        "終南",
+        "中南山"
+      ],
+      "type": "Place",
+      "modern": "扶风武功县东，一名中南、太一山（索隐）",
+      "description": "雍州终南、敦物至于鸟鼠之山。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-dunwu",
+      "name": "敦物",
+      "type": "Place",
+      "modern": "右扶风武功（郑玄）",
+      "description": "雍州终南、敦物至于鸟鼠之山。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-sanwei",
+      "name": "三危",
+      "type": "Place",
+      "modern": "沙州敦煌县东南四十里（正义，三危山）",
+      "description": "雍州三危既度，三苗大序之山；道九川云道黑水至于三危，入于南海。",
+      "evidence": [
+        "P13",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jishi",
+      "name": "积石",
+      "aliases": [
+        "積石"
+      ],
+      "type": "Place",
+      "modern": "金城河关县西南（索隐）",
+      "description": "雍州贡道浮于积石，至于龙门西河；道九川云道河积石。禹导河自积石而加功。",
+      "evidence": [
+        "P13",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-longmen",
+      "name": "龙门",
+      "aliases": [
+        "龍門"
+      ],
+      "type": "Place",
+      "modern": "左冯翊夏阳县西北；同州韩城县北五十里（正义）",
+      "description": "雍州浮于积石至于龙门西河之龙门山。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-kunlun",
+      "name": "昆仑",
+      "aliases": [
+        "崑崙"
+      ],
+      "type": "Place",
+      "modern": "金城临羌县有昆仑祠；敦煌广至县有昆仑障（索隐）",
+      "description": "雍州织皮昆仑、析支、渠搜，西戎即序之西戎地。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-xizhi",
+      "name": "析支",
+      "type": "Place",
+      "modern": "河关西（王肃）",
+      "description": "雍州西戎之地，与昆仑、渠搜并列。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-qusou",
+      "name": "渠搜",
+      "type": "Place",
+      "modern": "朔方有渠搜县（索隐）",
+      "description": "雍州西戎之地，与昆仑、析支并列。",
+      "evidence": [
+        "P13"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-huayin",
+      "name": "华阴",
+      "aliases": [
+        "華陰"
+      ],
+      "type": "Place",
+      "modern": "华山北，本魏之阴晋县（正义）",
+      "description": "道九川云道河至华阴，南至华阴，东至砥柱。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-mengjin",
+      "name": "盟津",
+      "aliases": [
+        "孟津"
+      ],
+      "type": "Place",
+      "modern": "河阳县南孟津（杜预）",
+      "description": "道九川云河东至盟津；即河内河阳县之孟津。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-dapi",
+      "name": "大邳",
+      "aliases": [
+        "大伾"
+      ],
+      "type": "Place",
+      "modern": "黎阳东山（正义）",
+      "description": "道九川云河至大邳；山再成曰邳。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jiangshui",
+      "name": "降水",
+      "type": "Place",
+      "modern": "出信都国，与虖池、漳河并流入海（索隐）",
+      "description": "道九川云河过降水至于大陆之降水。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-dabie",
+      "name": "大别",
+      "type": "Place",
+      "modern": "六安国安丰县（索隐）",
+      "description": "道九山云内方至于大别；道九川云汉水入于大别。",
+      "evidence": [
+        "P14",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-dongling",
+      "name": "东陵",
+      "aliases": [
+        "東陵"
+      ],
+      "type": "Place",
+      "modern": "地名（孔安国）",
+      "description": "道九川云江水过九江，至于东陵。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-taoqiu",
+      "name": "陶丘",
+      "type": "Place",
+      "modern": "济阴定陶西南（郑玄）",
+      "description": "道九川云济水东出陶丘北。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-xionger",
+      "name": "熊耳",
+      "type": "Place",
+      "modern": "弘农卢氏县东，伊水所出（索隐）",
+      "description": "道九山云熊耳、外方、桐柏至于负尾；道九川云道雒自熊耳。",
+      "evidence": [
+        "P14",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-fuqianyuan",
+      "name": "敷浅原",
+      "aliases": [
+        "傅阳山"
+      ],
+      "type": "Place",
+      "modern": "豫章历陵县南傅阳山（索隐）",
+      "description": "道九山云汶山之阳至于衡山，过九江，至于敷浅原。",
+      "evidence": [
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-huashan",
+      "name": "太华",
+      "aliases": [
+        "太華",
+        "华山"
+      ],
+      "type": "Place",
+      "modern": "弘农华阴南（郑玄）",
+      "description": "道九山云西倾、朱圉、鸟鼠至于太华；即西岳华山。",
+      "evidence": [
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-wangwu",
+      "name": "王屋",
+      "type": "Place",
+      "modern": "河东垣县东北（索隐）",
+      "description": "道九山云砥柱、析城至于王屋。",
+      "evidence": [
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-dizhu",
+      "name": "砥柱",
+      "aliases": [
+        "厎柱"
+      ],
+      "type": "Place",
+      "modern": "河东大阳县南河水中（水经）；俗名三门山（正义）",
+      "description": "道九山云砥柱、析城至于王屋；道九川云河东至砥柱，禹凿此山三道河水。",
+      "evidence": [
+        "P14",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-xicheng",
+      "name": "析城",
+      "type": "Place",
+      "modern": "河东濩泽县西南（索隐）",
+      "description": "道九山云砥柱、析城至于王屋之山。",
+      "evidence": [
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-taihang",
+      "name": "太行",
+      "type": "Place",
+      "modern": "河内山阳县西北（索隐）",
+      "description": "道九山云太行、常山至于碣石，入于海。",
+      "evidence": [
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-changshan",
+      "name": "常山",
+      "aliases": [
+        "恒山"
+      ],
+      "type": "Place",
+      "modern": "恒山，常山郡上曲阳县西北（索隐）",
+      "description": "道九山云太行、常山至于碣石之北岳恒山（正文避汉文帝讳作常）。",
+      "evidence": [
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-niaoshu",
+      "name": "鸟鼠",
+      "aliases": [
+        "鳥鼠",
+        "鸟鼠同穴山"
+      ],
+      "type": "Place",
+      "modern": "陇西首阳县西南（索隐）",
+      "description": "渭水所出之山；见雍州、道九山、道九川（道渭自鸟鼠同穴）。",
+      "evidence": [
+        "P14",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-heli",
+      "name": "合黎",
+      "type": "Place",
+      "modern": "酒泉会水县东北（水经）",
+      "description": "道九川云弱水至于合黎之山。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-liusha",
+      "name": "流沙",
+      "type": "Place",
+      "modern": "张掖居延县，居延泽（索隐）",
+      "description": "道九川云弱水余波入于流沙；亦东渐西被之声教所及。",
+      "evidence": [
+        "P15",
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-nanhai",
+      "name": "南海",
+      "type": "Place",
+      "modern": "扬州东大海（正义）",
+      "description": "道九川云道黑水，至于三危，入于南海。",
+      "evidence": [
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jiang",
+      "name": "江",
+      "aliases": [
+        "长江"
+      ],
+      "type": "Place",
+      "modern": "长江",
+      "description": "荆州江、汉朝宗于海之江；道九川云汶山道江，东别为沱。",
+      "evidence": [
+        "P10",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-he",
+      "name": "河",
+      "aliases": [
+        "黄河"
+      ],
+      "type": "Place",
+      "modern": "黄河",
+      "description": "冀州治水之本河；道九川云道河积石，至于龙门，南至华阴，东至砥柱，北播为九河。",
+      "evidence": [
+        "P5",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-huaishui",
+      "name": "淮水",
+      "aliases": [
+        "淮"
+      ],
+      "type": "Place",
+      "modern": "出南阳平氏县胎簪山，东北过桐柏山（水经）",
+      "description": "徐州淮、沂其治之淮；道九川云道淮自桐柏，东会于泗、沂，东入于海。",
+      "evidence": [
+        "P8",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-hanshui",
+      "name": "汉水",
+      "aliases": [
+        "漢水",
+        "瀁水"
+      ],
+      "type": "Place",
+      "modern": "出陇西氐道嶓冢山，至武都为汉（郑玄）",
+      "description": "荆州江、汉朝宗于海之汉；道九川云嶓冢道瀁，东流为汉。",
+      "evidence": [
+        "P10",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jingshan",
+      "name": "荆山",
+      "aliases": [
+        "荊山"
+      ],
+      "type": "Place",
+      "modern": "南郡临沮县东北（索隐，南条之荆山）；一说北条荆山在左冯翊怀德县南",
+      "description": "道九山两见：汧及岐至于荆山，又嶓冢至于荆山（南条）。正义谓雍州荆山即黄帝及禹铸鼎地。",
+      "evidence": [
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-hengshan",
+      "name": "衡山",
+      "aliases": [
+        "岣嵝"
+      ],
+      "type": "Place",
+      "modern": "长沙湘南县东南（索隐）",
+      "description": "荆州荆及衡阳之衡山；道九山云汶山之阳至于衡山。",
+      "evidence": [
+        "P10",
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-neifang",
+      "name": "内方",
+      "aliases": [
+        "內方"
+      ],
+      "type": "Place",
+      "modern": "竟陵，名立章山（郑玄）",
+      "description": "道九山云内方至于大别之山。",
+      "evidence": [
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-tongbai",
+      "name": "桐柏",
+      "type": "Place",
+      "modern": "南阳平氏县东南（索隐）",
+      "description": "道九山云熊耳、外方、桐柏至于负尾；道九川云道淮自桐柏。",
+      "evidence": [
+        "P14",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-waifang",
+      "name": "外方",
+      "aliases": [
+        "嵩高山"
+      ],
+      "type": "Place",
+      "modern": "颍川嵩高山（索隐）",
+      "description": "道九山云熊耳、外方、桐柏至于负尾之山。",
+      "evidence": [
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-fuwei",
+      "name": "负尾",
+      "aliases": [
+        "負尾",
+        "陪尾",
+        "横尾山"
+      ],
+      "type": "Place",
+      "modern": "江夏安陆县东北（索隐）",
+      "description": "道九山云熊耳、外方、桐柏至于负尾之山。",
+      "evidence": [
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-gan",
+      "name": "甘",
+      "type": "Place",
+      "modern": "有扈氏南郊地名（马融）；鄠南有甘亭（索隐）",
+      "description": "启伐有扈氏、大战于甘之处，作甘誓。",
+      "evidence": [
+        "P29"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-mingtiao",
+      "name": "鸣条",
+      "aliases": [
+        "鳴條"
+      ],
+      "type": "Place",
+      "modern": "孔安国谓地在安邑之西；郑玄谓南夷地名",
+      "description": "汤伐夏桀，桀走鸣条，遂放而死之处。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yangcheng",
+      "name": "阳城",
+      "aliases": [
+        "陽城"
+      ],
+      "type": "Place",
+      "modern": "颍川阳城（集解刘熙）；阳城县在箕山北十三里（正义）",
+      "description": "舜崩丧毕，禹辞避舜子商均于阳城之处。",
+      "evidence": [
+        "P25"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yangzhai",
+      "name": "阳翟",
+      "aliases": [
+        "陽翟"
+      ],
+      "type": "Place",
+      "modern": "河南阳翟（正义引帝王纪）；即禹受封为夏伯之地",
+      "description": "注疏谓禹受封为夏伯之地，在豫州外方之南；括地志谓阳翟县又是禹所封。",
+      "evidence": [
+        "P0",
+        "P33"
+      ],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-place-kuaiji",
+      "name": "会稽",
+      "aliases": [
+        "會稽",
+        "苗山"
+      ],
+      "type": "Place",
+      "modern": "越州会稽县，禹陵在县南十三里（正义）",
+      "description": "帝禹十年东巡狩至于会稽而崩，因葬焉；太史公曰谓禹会诸侯江南、计功而崩，命曰会稽（会计也）。",
+      "evidence": [
+        "P27",
+        "P34"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-xiatai",
+      "name": "夏台",
+      "aliases": [
+        "夏臺",
+        "均台"
+      ],
+      "type": "Place",
+      "modern": "狱名，夏曰均台；地在阳翟（皇甫谧）",
+      "description": "桀召汤而囚之之处，已而释之。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-luorui",
+      "name": "洛汭",
+      "type": "Place",
+      "modern": "洛入河处（孔安国）",
+      "description": "太康失国，昆弟五人须于洛汭，作五子之歌之处。",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jishan",
+      "name": "箕山",
+      "type": "Place",
+      "modern": "阳城县在箕山北十三里（正义）",
+      "description": "禹崩授益，益让禹子启，辟居箕山之阳之处。",
+      "evidence": [
+        "P27"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-tushan",
+      "name": "涂山",
+      "aliases": [
+        "塗山"
+      ],
+      "type": "Place",
+      "modern": "寿春东北（杜预）；今九江当涂有禹庙（皇甫谧）",
+      "description": "禹娶涂山氏之处；集解谓涂山为国名。",
+      "evidence": [
+        "P22"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-shangqiu",
+      "name": "商丘",
+      "type": "Place",
+      "modern": "今宋州（括地志）",
+      "description": "注疏谓帝相徙于商丘，依同姓诸侯斟寻。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-place-zhenxun",
+      "name": "斟寻",
+      "aliases": [
+        "斟尋",
+        "斟鄩"
+      ],
+      "type": "Place",
+      "modern": "青州北海县；故鄩城在洛州巩县西南五十八里（括地志）",
+      "description": "注疏谓太康居斟寻，羿亦居之，桀又居之；帝相依同姓诸侯斟寻。",
+      "evidence": [
+        "P32",
+        "P34"
+      ],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-place-nanchao",
+      "name": "南巢",
+      "type": "Place",
+      "modern": "庐州巢县巢湖，汤放桀处（正义）",
+      "description": "注疏谓汤败桀，放之于南巢，桀与末喜同舟浮江奔南巢之山而死。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-place-chong",
+      "name": "崇",
+      "type": "Place",
+      "modern": "鲧所封之国（索隐：连山易云鲧封于崇）",
+      "description": "注疏谓鲧封于崇，故国语文之曰崇伯鲧。",
+      "evidence": [
+        "P0"
+      ],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-place-heishui",
+      "name": "黑水",
+      "type": "Place",
+      "modern": "注疏异说：一说出梁州城固县西北太山（正义），一说出伊州伊吾县北百二十里（正义）；索隐引地理志谓益州滇池有黑水祠",
+      "description": "梁州（华阳黑水惟梁州）、雍州（黑水西河惟雍州）之界水；道九川云道黑水，至于三危，入于南海。",
+      "evidence": [
+        "P12",
+        "P13",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-jishui",
+      "name": "濟水",
+      "aliases": [
+        "沇水",
+        "泲水"
+      ],
+      "type": "Place",
+      "modern": "出河东垣县王屋山，东至河内武德入河，至温县西北为济水（郑玄/索隐）",
+      "description": "沇州命名之水（浮于济、漯）；道九川云道沇水，东为济，入于河，泆为荥，东出陶丘北，又东会于汶，东北入于海。",
+      "evidence": [
+        "P6",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-sishui",
+      "name": "泗水",
+      "type": "Place",
+      "modern": "出济阴乘氏（郑玄）；源出兖州泗水县东陪尾山，其源有四道（正义）",
+      "description": "徐州贡道浮于淮、泗，泗滨浮磬；道九川云道淮…东会于泗、沂，东入于海。",
+      "evidence": [
+        "P8",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-yishui2",
+      "name": "沂水",
+      "type": "Place",
+      "modern": "出泰山盖县艾山，南过下邳县入泗（索隐）",
+      "description": "徐州淮、沂其治之沂；道九川云道淮…东会于泗、沂，东入于海。",
+      "evidence": [
+        "P8",
+        "P15"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-qianshan",
+      "name": "汧",
+      "aliases": [
+        "岍",
+        "汧山"
+      ],
+      "type": "Place",
+      "modern": "陇州汧源县西六十里（正义）；右扶风（郑玄）",
+      "description": "道九山之首『汧及岐至于荆山』之山（一作岍）。",
+      "evidence": [
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-leishou",
+      "name": "雷首",
+      "aliases": [
+        "雷首山"
+      ],
+      "type": "Place",
+      "modern": "河东蒲阪县东南（索隐）；蒲州河东县（正义）",
+      "description": "道九山云壶口、雷首至于太岳之山。",
+      "evidence": [
+        "P14"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-place-zhuyu",
+      "name": "朱圉",
+      "aliases": [
+        "朱圄"
+      ],
+      "type": "Place",
+      "modern": "天水冀县南（索隐）",
+      "description": "道九山云西倾、朱圉、鸟鼠至于太华之山。",
+      "evidence": [
+        "P14"
+      ],
+      "source": "正文"
+    }
+  ],
+  "events": [
+    {
+      "id": "shiji-event-gun-zhishui",
+      "name": "四岳举鲧治水",
+      "type": "Event",
+      "participants": [
+        "shiji-person-yao",
+        "shiji-person-gun"
+      ],
+      "place": "",
+      "description": "帝尧之时洪水滔天，浩浩怀山襄陵，下民其忧。尧求能治水者，群臣四岳皆曰鲧可；尧以为鲧负命毁族、不可，四岳固请试用。尧听四岳，用鲧治水，九年而水不息，功用不成。",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-jigun",
+      "name": "舜殛鲧于羽山",
+      "type": "Event",
+      "participants": [
+        "shiji-person-shun",
+        "shiji-person-gun"
+      ],
+      "place": "羽山",
+      "description": "舜登用，摄行天子之政、巡狩，行视鲧之治水无状，乃殛鲧于羽山以死，天下皆以舜之诛为是；舜遂举鲧子禹使续鲧之业。",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-yu-zhishui",
+      "name": "禹治水",
+      "type": "Event",
+      "participants": [
+        "shiji-person-yu",
+        "shiji-person-shun",
+        "shiji-person-yi",
+        "shiji-person-qi"
+      ],
+      "place": "",
+      "description": "禹与益、后稷奉帝命，命诸侯百姓兴人徒以傅土，行山表木，定高山大川。禹伤父鲧功不成受诛，劳身焦思，居外十三年过家门不敢入；陆行乘车、水行乘船、泥行乘橇、山行乘檋，以决九川致四海、浚畎浍致之川。",
+      "evidence": [
+        "P2",
+        "P4",
+        "P20"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-jiuzhou-hua",
+      "name": "禹开九州、定山川",
+      "type": "Event",
+      "participants": [
+        "shiji-person-yu"
+      ],
+      "place": "九州",
+      "description": "禹行自冀州始，依次定冀、兖、青、徐、扬、荆、豫、梁、雍九州，各记其土田赋贡；又道九山、道九川，终使九州攸同、四奥既居、九山刊旅、九川涤原、九泽既陂、四海会同。",
+      "evidence": [
+        "P4",
+        "P5",
+        "P16"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-wufu",
+      "name": "禹定五服",
+      "type": "Event",
+      "participants": [
+        "shiji-person-yu"
+      ],
+      "place": "",
+      "description": "令天子之国以外五百里甸服，甸服外五百里侯服，侯服外五百里绥服，绥服外五百里要服，要服外五百里荒服；各以远近定赋役与文教武卫之法。",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-ci-yu-xuangui",
+      "name": "舜赐禹玄圭",
+      "type": "Event",
+      "participants": [
+        "shiji-person-yao",
+        "shiji-person-yu"
+      ],
+      "place": "",
+      "description": "东渐于海，西被于流沙，朔南暨，声教讫于四海；于是帝赐禹玄圭，以告成功于天下，天下于是太平治。注疏：正义谓此『帝』指尧。",
+      "evidence": [
+        "P18"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-gaoyao-jiude",
+      "name": "皋陶陈九德之谋",
+      "type": "Event",
+      "participants": [
+        "shiji-person-shun",
+        "shiji-person-yu",
+        "shiji-person-boyi",
+        "shiji-person-gaoyao"
+      ],
+      "place": "",
+      "description": "皋陶作士以理民。帝舜朝，禹、伯夷、皋陶相与语帝前；皋陶述其谋，言慎身修思、敦序九族，又陈宽而栗、柔而立等九德与天讨五刑之说，禹拜美言。",
+      "evidence": [
+        "P19",
+        "P20"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-kui-zuoyue",
+      "name": "夔行乐、帝舜作歌",
+      "type": "Event",
+      "participants": [
+        "shiji-person-shun",
+        "shiji-person-kui",
+        "shiji-person-gaoyao"
+      ],
+      "place": "",
+      "description": "皋陶敬禹之德，令民皆则禹。于是夔行乐，祖考至、群后相让、鸟兽翔舞，箫韶九成、凤凰来仪、百兽率舞；帝舜作歌，皋陶、舜更相唱和，天下皆宗禹之明度数声乐。",
+      "evidence": [
+        "P24"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-yu-shouchan",
+      "name": "禹受禅继位",
+      "type": "Event",
+      "participants": [
+        "shiji-person-shun",
+        "shiji-person-yu",
+        "shiji-person-shangjun"
+      ],
+      "place": "阳城",
+      "description": "帝舜荐禹于天以为嗣，十七年而帝舜崩；三年丧毕，禹辞避舜子商均于阳城。天下诸侯皆去商均而朝禹，禹于是即天子位，南面朝天下，国号曰夏后，姓姒氏。",
+      "evidence": [
+        "P25"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-ju-gaoyao-yi",
+      "name": "禹举皋陶、益",
+      "type": "Event",
+      "participants": [
+        "shiji-person-yu",
+        "shiji-person-gaoyao",
+        "shiji-person-yi"
+      ],
+      "place": "",
+      "description": "帝禹立而举皋陶荐之于天且授政，未及禅而皋陶卒；禹封皋陶之后于英、六，或在许，而后举益任之政。",
+      "evidence": [
+        "P26"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-yu-beng",
+      "name": "禹东巡狩崩于会稽",
+      "type": "Event",
+      "participants": [
+        "shiji-person-yu"
+      ],
+      "place": "会稽",
+      "description": "帝禹十年东巡狩，至于会稽而崩，以天下授益。太史公曰谓禹会诸侯江南、计功而崩，因葬焉，命曰会稽（会计也）。",
+      "evidence": [
+        "P27",
+        "P34"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-qi-jiewei",
+      "name": "诸侯去益朝启，启即天子位",
+      "type": "Event",
+      "participants": [
+        "shiji-person-yi",
+        "shiji-person-xiaqi"
+      ],
+      "place": "箕山",
+      "description": "三年之丧毕，益让帝禹之子启而辟居箕山之阳。禹子启贤，天下属意焉；因益佐禹日浅、天下未洽，诸侯皆去益而朝启，启遂即天子之位，是为夏后帝启。",
+      "evidence": [
+        "P27"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-gan-zhan",
+      "name": "甘之战（启伐有扈氏）",
+      "type": "Event",
+      "participants": [
+        "shiji-person-xiaqi",
+        "shiji-person-youhushi"
+      ],
+      "place": "甘",
+      "description": "有扈氏不服，启伐之，大战于甘。将战，作甘誓，召六卿申之，誓告六事之人共行天罚、用命赏于祖、不用命僇于社；遂灭有扈氏，天下咸朝。",
+      "evidence": [
+        "P29"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-taikang-shiguo",
+      "name": "太康失国",
+      "type": "Event",
+      "participants": [
+        "shiji-person-taikang"
+      ],
+      "place": "洛汭",
+      "description": "夏后帝启崩，子帝太康立。帝太康失国，昆弟五人须于洛汭，作五子之歌。注疏：集解孔安国谓太康盘于游田、不恤民事，为后羿所逐，不得反国。",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-houyi-dai-xia",
+      "name": "后羿代夏政",
+      "type": "Event",
+      "participants": [
+        "shiji-person-houyi",
+        "shiji-person-taikang",
+        "shiji-person-hanzhuo"
+      ],
+      "place": "穷石",
+      "description": "注疏引左传：有夏之衰，后羿自鉏迁于穷石，因夏民以代夏政；恃其善射不修民事，弃良臣而信伯明氏之谗子寒浞，终为寒浞所杀。述赞亦以『羿浞斯侮，夏室不竞』言之。",
+      "evidence": [
+        "P32",
+        "P35"
+      ],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-event-yin-zheng",
+      "name": "胤征羲和",
+      "type": "Event",
+      "participants": [
+        "shiji-person-zhongkang",
+        "shiji-person-yin",
+        "shiji-person-xi",
+        "shiji-person-he"
+      ],
+      "place": "",
+      "description": "帝中康时，羲、和湎淫，废时乱日；胤受王命往征之，作胤征。",
+      "evidence": [
+        "P31"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-shaokang-zhongxing",
+      "name": "少康中兴",
+      "type": "Event",
+      "participants": [
+        "shiji-person-shaokang",
+        "shiji-person-mi",
+        "shiji-person-hanzhuo",
+        "shiji-person-ao",
+        "shiji-person-yixi",
+        "shiji-person-diyu",
+        "shiji-person-dixiang"
+      ],
+      "place": "",
+      "description": "注疏引左传：寒浞使浇灭斟灌、斟寻并杀帝相，相妃后缗归有仍生少康；夏遗臣靡自有鬲氏收二国余烬，杀寒浞而立少康；少康灭浇于过，后杼灭豷于戈，有穷遂亡，夏室复兴。正文对此仅云帝相崩、子少康立，注疏讥其疏略。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "注疏"
+    },
+    {
+      "id": "shiji-event-kongjia-yanglong",
+      "name": "孔甲豢龙",
+      "type": "Event",
+      "participants": [
+        "shiji-person-kongjia",
+        "shiji-person-liulei",
+        "shiji-person-huanlongshi"
+      ],
+      "place": "",
+      "description": "天降龙二，有雌雄，孔甲不能食，未得豢龙氏。陶唐氏既衰，其后有刘累，学扰龙于豢龙氏，以事孔甲；孔甲赐之姓曰御龙氏、受豕韦之后。龙一雌死，刘累以食夏后，夏后使求，刘累惧而迁去。",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-event-mingtiao-zhan",
+      "name": "鸣条之战（汤伐桀）",
+      "type": "Event",
+      "participants": [
+        "shiji-person-tang",
+        "shiji-person-jie"
+      ],
+      "place": "鸣条",
+      "description": "帝桀不务德而武伤百姓，召汤而囚之夏台，已而释之。汤修德，诸侯皆归汤，汤遂率兵以伐夏桀；桀走鸣条，遂放而死，悔不遂杀汤于夏台。汤乃践天子位，代夏朝天下，封夏之后。注疏：正义引淮南子谓汤败桀于历山，桀奔南巢。",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    }
+  ],
+  "offices": [
+    {
+      "id": "shiji-office-sikong",
+      "name": "司空",
+      "description": "主土平水土之官；舜命禹为司空，可成美尧之功，禹拜稽首而让于契、后稷、皋陶。",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-shi",
+      "name": "士",
+      "description": "掌刑狱理民之官；皋陶作士以理民。注疏：正义谓士若大理卿。",
+      "evidence": [
+        "P19"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-houji",
+      "name": "后稷",
+      "description": "掌农事播百谷之官；禹治水时命后稷予众庶难得之食。注：另有同名人物后稷（弃），见 persons。",
+      "evidence": [
+        "P4",
+        "P20"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-siyue",
+      "name": "四岳",
+      "description": "群臣中主四方岳事者；尧求治水者时群臣四岳皆举鲧，尧听四岳而用之。",
+      "evidence": [
+        "P1",
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-liuqing",
+      "name": "六卿",
+      "description": "天子六军之将，皆命卿为之；启将战有扈氏，作甘誓，乃召六卿申之。注疏：集解孔安国谓各有军事，故曰六事。",
+      "evidence": [
+        "P29"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-wufu",
+      "name": "五服",
+      "description": "以王城为中心每五百里为一服，即甸服、侯服、绥服、要服、荒服；禹定五服，各以远近定赋役纳贡与文教武卫之制。",
+      "evidence": [
+        "P17"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-wuzhang",
+      "name": "五长",
+      "description": "诸侯五国立贤者一人为方伯，以相统理之官；禹辅成五服、外薄四海，咸建五长，各道有功。",
+      "evidence": [
+        "P22"
+      ],
+      "source": "正文"
+    },
+    {
+      "id": "shiji-office-xihe",
+      "name": "羲和",
+      "description": "掌天地四时之官（羲氏、和氏）；太康之后羲、和沉湎于酒、废天时乱甲乙，中康时胤奉命往征之。注：此为官称，另有同名人物羲、和，见 persons。",
+      "evidence": [
+        "P31"
+      ],
+      "source": "正文"
+    }
+  ],
+  "relations": [
+    {
+      "subject": "shiji-person-gun",
+      "predicate": "father_of",
+      "object": "shiji-person-yu",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhuanxu",
+      "predicate": "father_of",
+      "object": "shiji-person-gun",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-changyi",
+      "predicate": "father_of",
+      "object": "shiji-person-zhuanxu",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-huangdi",
+      "predicate": "father_of",
+      "object": "shiji-person-changyi",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-yu",
+      "predicate": "son_of",
+      "object": "shiji-person-gun",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-gun",
+      "predicate": "son_of",
+      "object": "shiji-person-zhuanxu",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhuanxu",
+      "predicate": "son_of",
+      "object": "shiji-person-changyi",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-changyi",
+      "predicate": "son_of",
+      "object": "shiji-person-huangdi",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-huangdi",
+      "predicate": "ancestor_of",
+      "object": "shiji-person-zhuanxu",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-huangdi",
+      "predicate": "ancestor_of",
+      "object": "shiji-person-gun",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-huangdi",
+      "predicate": "ancestor_of",
+      "object": "shiji-person-yu",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhuanxu",
+      "predicate": "ancestor_of",
+      "object": "shiji-person-yu",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-changyi",
+      "predicate": "ancestor_of",
+      "object": "shiji-person-yu",
+      "evidence": [
+        "P0"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiuji",
+      "predicate": "wife_of",
+      "object": "shiji-person-gun",
+      "evidence": [
+        "P0"
+      ],
+      "source": "注疏"
+    },
+    {
+      "subject": "shiji-person-xiuji",
+      "predicate": "mother_of",
+      "object": "shiji-person-yu",
+      "evidence": [
+        "P0"
+      ],
+      "source": "注疏"
+    },
+    {
+      "subject": "shiji-person-yu",
+      "predicate": "son_of",
+      "object": "shiji-person-xiuji",
+      "evidence": [
+        "P0"
+      ],
+      "source": "注疏"
+    },
+    {
+      "subject": "shiji-person-yao",
+      "predicate": "appointed",
+      "object": "shiji-person-gun",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文",
+      "note": "尧听四岳，用鲧治水"
+    },
+    {
+      "subject": "shiji-person-shun",
+      "predicate": "executed",
+      "object": "shiji-person-gun",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文",
+      "note": "殛鲧于羽山以死"
+    },
+    {
+      "subject": "shiji-person-gun",
+      "predicate": "minister_of",
+      "object": "shiji-person-yao",
+      "evidence": [
+        "P1"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-shun",
+      "predicate": "recommended",
+      "object": "shiji-person-yu",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文",
+      "note": "举鲧子禹使续鲧之业"
+    },
+    {
+      "subject": "shiji-person-shun",
+      "predicate": "appointed",
+      "object": "shiji-person-yu",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文",
+      "note": "命禹为司空，平水土"
+    },
+    {
+      "subject": "shiji-person-yao",
+      "predicate": "abdicated_to",
+      "object": "shiji-person-shun",
+      "evidence": [
+        "P1",
+        "P2"
+      ],
+      "source": "正文",
+      "note": "本章仅言尧崩、舜摄政继立，禅让之说据《五帝本纪》"
+    },
+    {
+      "subject": "shiji-person-yu",
+      "predicate": "minister_of",
+      "object": "shiji-person-shun",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-yu",
+      "predicate": "flood_control",
+      "object": "shiji-place-jiuzhou",
+      "evidence": [
+        "P2",
+        "P4"
+      ],
+      "source": "正文",
+      "note": "平水土、开九州，十三年功成"
+    },
+    {
+      "subject": "shiji-person-yu",
+      "predicate": "established",
+      "object": "shiji-person-xiahoushi",
+      "evidence": [
+        "P25"
+      ],
+      "source": "正文",
+      "note": "国号曰夏后，姓姒氏"
+    },
+    {
+      "subject": "shiji-person-shun",
+      "predicate": "abdicated_to",
+      "object": "shiji-person-yu",
+      "evidence": [
+        "P25"
+      ],
+      "source": "正文",
+      "note": "荐禹于天为嗣"
+    },
+    {
+      "subject": "shiji-person-shun",
+      "predicate": "father_of",
+      "object": "shiji-person-shangjun",
+      "evidence": [
+        "P25"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-shangjun",
+      "predicate": "son_of",
+      "object": "shiji-person-shun",
+      "evidence": [
+        "P25"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-yu",
+      "predicate": "recommended",
+      "object": "shiji-person-gaoyao",
+      "evidence": [
+        "P26"
+      ],
+      "source": "正文",
+      "note": "举皋陶荐之于天且授政"
+    },
+    {
+      "subject": "shiji-person-yu",
+      "predicate": "recommended",
+      "object": "shiji-person-yi",
+      "evidence": [
+        "P26"
+      ],
+      "source": "正文",
+      "note": "皋陶卒后举益任之政"
+    },
+    {
+      "subject": "shiji-person-yu",
+      "predicate": "abdicated_to",
+      "object": "shiji-person-yi",
+      "evidence": [
+        "P27"
+      ],
+      "source": "正文",
+      "note": "禹崩，以天下授益"
+    },
+    {
+      "subject": "shiji-person-yi",
+      "predicate": "abdicated_to",
+      "object": "shiji-person-xiaqi",
+      "evidence": [
+        "P27"
+      ],
+      "source": "正文",
+      "note": "益让帝禹之子启，辟居箕山之阳"
+    },
+    {
+      "subject": "shiji-person-xiaqi",
+      "predicate": "succeeded",
+      "object": "shiji-person-yu",
+      "evidence": [
+        "P27"
+      ],
+      "source": "正文",
+      "note": "诸侯去益而朝启，启即天子位"
+    },
+    {
+      "subject": "shiji-person-yu",
+      "predicate": "father_of",
+      "object": "shiji-person-xiaqi",
+      "evidence": [
+        "P27",
+        "P28"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaqi",
+      "predicate": "son_of",
+      "object": "shiji-person-yu",
+      "evidence": [
+        "P27",
+        "P28"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-tushanshi",
+      "predicate": "wife_of",
+      "object": "shiji-person-yu",
+      "evidence": [
+        "P22"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-tushanshi",
+      "predicate": "mother_of",
+      "object": "shiji-person-xiaqi",
+      "evidence": [
+        "P28"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaqi",
+      "predicate": "son_of",
+      "object": "shiji-person-tushanshi",
+      "evidence": [
+        "P28"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-gaoyao",
+      "predicate": "minister_of",
+      "object": "shiji-person-shun",
+      "evidence": [
+        "P19"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-yi",
+      "predicate": "minister_of",
+      "object": "shiji-person-yu",
+      "evidence": [
+        "P27"
+      ],
+      "source": "正文",
+      "note": "益之佐禹"
+    },
+    {
+      "subject": "shiji-person-qi",
+      "predicate": "minister_of",
+      "object": "shiji-person-shun",
+      "evidence": [
+        "P4"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xie",
+      "predicate": "minister_of",
+      "object": "shiji-person-shun",
+      "evidence": [
+        "P2"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-boyi",
+      "predicate": "minister_of",
+      "object": "shiji-person-shun",
+      "evidence": [
+        "P19"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-kui",
+      "predicate": "minister_of",
+      "object": "shiji-person-shun",
+      "evidence": [
+        "P24"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-xiaqi",
+      "predicate": "defeated",
+      "object": "shiji-person-youhushi",
+      "evidence": [
+        "P29"
+      ],
+      "source": "正文",
+      "note": "大战于甘，遂灭有扈氏"
+    },
+    {
+      "subject": "shiji-person-xiaqi",
+      "predicate": "father_of",
+      "object": "shiji-person-taikang",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-taikang",
+      "predicate": "son_of",
+      "object": "shiji-person-xiaqi",
+      "evidence": [
+        "P30"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhongkang",
+      "predicate": "brother_of",
+      "object": "shiji-person-taikang",
+      "evidence": [
+        "P31"
+      ],
+      "source": "正文",
+      "note": "太康崩，弟中康立"
+    },
+    {
+      "subject": "shiji-person-zhongkang",
+      "predicate": "appointed",
+      "object": "shiji-person-yin",
+      "evidence": [
+        "P31"
+      ],
+      "source": "正文",
+      "note": "胤往征羲、和"
+    },
+    {
+      "subject": "shiji-person-yin",
+      "predicate": "attacked",
+      "object": "shiji-person-xi",
+      "evidence": [
+        "P31"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-yin",
+      "predicate": "attacked",
+      "object": "shiji-person-he",
+      "evidence": [
+        "P31"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-zhongkang",
+      "predicate": "father_of",
+      "object": "shiji-person-dixiang",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-dixiang",
+      "predicate": "son_of",
+      "object": "shiji-person-zhongkang",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-dixiang",
+      "predicate": "father_of",
+      "object": "shiji-person-shaokang",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-shaokang",
+      "predicate": "son_of",
+      "object": "shiji-person-dixiang",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-shaokang",
+      "predicate": "father_of",
+      "object": "shiji-person-diyu",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-diyu",
+      "predicate": "son_of",
+      "object": "shiji-person-shaokang",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-diyu",
+      "predicate": "father_of",
+      "object": "shiji-person-huai",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-huai",
+      "predicate": "son_of",
+      "object": "shiji-person-diyu",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-huai",
+      "predicate": "father_of",
+      "object": "shiji-person-mang",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-mang",
+      "predicate": "son_of",
+      "object": "shiji-person-huai",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-mang",
+      "predicate": "father_of",
+      "object": "shiji-person-dixie",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-dixie",
+      "predicate": "son_of",
+      "object": "shiji-person-mang",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-dixie",
+      "predicate": "father_of",
+      "object": "shiji-person-bujiang",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-bujiang",
+      "predicate": "son_of",
+      "object": "shiji-person-dixie",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-jiong",
+      "predicate": "brother_of",
+      "object": "shiji-person-bujiang",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文",
+      "note": "帝不降崩，弟帝扃立"
+    },
+    {
+      "subject": "shiji-person-jiong",
+      "predicate": "father_of",
+      "object": "shiji-person-dijin",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-dijin",
+      "predicate": "son_of",
+      "object": "shiji-person-jiong",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-bujiang",
+      "predicate": "father_of",
+      "object": "shiji-person-kongjia",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文",
+      "note": "立帝不降之子孔甲"
+    },
+    {
+      "subject": "shiji-person-kongjia",
+      "predicate": "son_of",
+      "object": "shiji-person-bujiang",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-liulei",
+      "predicate": "served",
+      "object": "shiji-person-kongjia",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文",
+      "note": "刘累以事孔甲，孔甲赐姓御龙氏"
+    },
+    {
+      "subject": "shiji-person-liulei",
+      "predicate": "studied_under",
+      "object": "shiji-person-huanlongshi",
+      "evidence": [
+        "P32"
+      ],
+      "source": "正文",
+      "note": "学扰龙于豢龙氏"
+    },
+    {
+      "subject": "shiji-person-kongjia",
+      "predicate": "father_of",
+      "object": "shiji-person-digao",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-digao",
+      "predicate": "son_of",
+      "object": "shiji-person-kongjia",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-digao",
+      "predicate": "father_of",
+      "object": "shiji-person-difa",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-difa",
+      "predicate": "son_of",
+      "object": "shiji-person-digao",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-difa",
+      "predicate": "father_of",
+      "object": "shiji-person-jie",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-jie",
+      "predicate": "son_of",
+      "object": "shiji-person-difa",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文"
+    },
+    {
+      "subject": "shiji-person-jie",
+      "predicate": "imprisoned",
+      "object": "shiji-person-tang",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文",
+      "note": "召汤而囚之夏台，已而释之"
+    },
+    {
+      "subject": "shiji-person-tang",
+      "predicate": "defeated",
+      "object": "shiji-person-jie",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文",
+      "note": "桀走鸣条，遂放而死"
+    },
+    {
+      "subject": "shiji-person-tang",
+      "predicate": "overthrew",
+      "object": "shiji-person-jie",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文",
+      "note": "汤践天子位，代夏朝天下"
+    },
+    {
+      "subject": "shiji-person-tang",
+      "predicate": "enfeoffed",
+      "object": "shiji-person-xiahoushi",
+      "evidence": [
+        "P33"
+      ],
+      "source": "正文",
+      "note": "汤封夏之后，至周封于杞"
+    },
+    {
+      "subject": "shiji-person-houyi",
+      "predicate": "usurped",
+      "object": "shiji-person-taikang",
+      "evidence": [
+        "P32"
+      ],
+      "source": "注疏",
+      "note": "因夏民以代夏政，逐太康"
+    },
+    {
+      "subject": "shiji-person-hanzhuo",
+      "predicate": "killed",
+      "object": "shiji-person-houyi",
+      "evidence": [
+        "P32"
+      ],
+      "source": "注疏",
+      "note": "寒浞杀羿于桃梧而烹之"
+    },
+    {
+      "subject": "shiji-person-hanzhuo",
+      "predicate": "father_of",
+      "object": "shiji-person-ao",
+      "evidence": [
+        "P32"
+      ],
+      "source": "注疏"
+    },
+    {
+      "subject": "shiji-person-hanzhuo",
+      "predicate": "father_of",
+      "object": "shiji-person-yixi",
+      "evidence": [
+        "P32"
+      ],
+      "source": "注疏"
+    },
+    {
+      "subject": "shiji-person-ao",
+      "predicate": "son_of",
+      "object": "shiji-person-hanzhuo",
+      "evidence": [
+        "P32"
+      ],
+      "source": "注疏"
+    },
+    {
+      "subject": "shiji-person-yixi",
+      "predicate": "son_of",
+      "object": "shiji-person-hanzhuo",
+      "evidence": [
+        "P32"
+      ],
+      "source": "注疏"
+    },
+    {
+      "subject": "shiji-person-ao",
+      "predicate": "killed",
+      "object": "shiji-person-dixiang",
+      "evidence": [
+        "P32"
+      ],
+      "source": "注疏",
+      "note": "浇帅师灭斟灌、斟寻，杀夏帝相"
+    },
+    {
+      "subject": "shiji-person-houmin",
+      "predicate": "wife_of",
+      "object": "shiji-person-dixiang",
+      "evidence": [
+        "P32"
+      ],
+      "source": "注疏",
+      "note": "妃有仍氏女曰后缗"
+    },
+    {
+      "subject": "shiji-person-houmin",
+      "predicate": "mother_of",
+      "object": "shiji-person-shaokang",
+      "evidence": [
+        "P32"
+      ],
+      "source": "注疏",
+      "note": "归有仍，生少康"
+    },
+    {
+      "subject": "shiji-person-mi",
+      "predicate": "killed",
+      "object": "shiji-person-hanzhuo",
+      "evidence": [
+        "P32"
+      ],
+      "source": "注疏",
+      "note": "收二国余烬，杀寒浞"
+    },
+    {
+      "subject": "shiji-person-mi",
+      "predicate": "established",
+      "object": "shiji-person-shaokang",
+      "evidence": [
+        "P32"
+      ],
+      "source": "注疏",
+      "note": "杀寒浞而立少康"
+    },
+    {
+      "subject": "shiji-person-shaokang",
+      "predicate": "defeated",
+      "object": "shiji-person-ao",
+      "evidence": [
+        "P32"
+      ],
+      "source": "注疏",
+      "note": "少康灭浇于过"
+    },
+    {
+      "subject": "shiji-person-diyu",
+      "predicate": "defeated",
+      "object": "shiji-person-yixi",
+      "evidence": [
+        "P32"
+      ],
+      "source": "注疏",
+      "note": "后杼灭豷于戈"
+    }
+  ]
+}
