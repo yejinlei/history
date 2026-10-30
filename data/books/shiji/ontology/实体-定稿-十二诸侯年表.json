@@ -1,0 +1,534 @@
+{
+  "book": "史记",
+  "chapter": "十二诸侯年表第二",
+  "chapter_id": "shiji-十二諸侯年表第二",
+  "juan": "卷十四",
+  "section": "十表",
+  "persons": [
+    {
+      "id": "P-shierzhuhou-001",
+      "name": "司马迁",
+      "alias": ["太史公"],
+      "dynasty": "西汉",
+      "role": "《史记》作者、太史令；本篇序文作者，自述读春秋历谱谍至周厉王而叹，因历人、数家、谱谍各执一偏，故谱十二诸侯自共和讫孔子为年表",
+      "evidence": [2, 3, 4]
+    },
+    {
+      "id": "P-shierzhuhou-002",
+      "name": "司马贞",
+      "alias": ["小司马"],
+      "dynasty": "唐",
+      "role": "《史记索隐》作者；作索隐述赞及诸注疏，辨十二诸侯实十三国、注师挚象箸五伯等训诂",
+      "evidence": [1, 4]
+    },
+    {
+      "id": "P-shierzhuhou-003",
+      "name": "徐广",
+      "alias": ["徐氏"],
+      "dynasty": "东晋（刘宋）",
+      "role": "《史记音义》作者；注共和元年至敬王四十三年凡三百六十五年，校「古文」异文",
+      "evidence": [5]
+    },
+    {
+      "id": "P-shierzhuhou-004",
+      "name": "师挚",
+      "alias": ["太师挚"],
+      "dynasty": "殷末/周（鲁）——两说并存",
+      "role": "乐官太师；郑玄以为鲁太师、识《关雎》之声首理其乱；旧说以为殷纣时乐官、见纣之失而见微知著",
+      "evidence": [2]
+    },
+    {
+      "id": "P-shierzhuhou-005",
+      "name": "商纣王",
+      "alias": ["纣", "帝辛"],
+      "dynasty": "商末",
+      "role": "商末暴君；为象箸（象牙筷子）而箕子唏（叹），是见微知著的殷亡之兆典故",
+      "evidence": [2]
+    },
+    {
+      "id": "P-shierzhuhou-006",
+      "name": "箕子",
+      "alias": [],
+      "dynasty": "商末周初",
+      "role": "纣王叔父（一说庶兄），见纣为象箸而知国必亡，为之唏叹；后封于朝鲜",
+      "evidence": [2]
+    },
+    {
+      "id": "P-shierzhuhou-007",
+      "name": "周厉王",
+      "alias": ["厉王"],
+      "dynasty": "西周",
+      "role": "西周暴君；恶闻其过、使卫巫监谤，道路以目，致国人暴动，出奔于彘，共和行政因之而起",
+      "evidence": [2]
+    },
+    {
+      "id": "P-shierzhuhou-008",
+      "name": "周公（周召二公之周公）",
+      "alias": ["周公"],
+      "dynasty": "西周",
+      "role": "周定公（西周初周公旦之后）；厉王奔彘后与召公共同行政，号「共和」，宣王立而归政",
+      "evidence": [2, 5]
+    },
+    {
+      "id": "P-shierzhuhou-009",
+      "name": "召公（周召二公之召公）",
+      "alias": ["召公"],
+      "dynasty": "西周",
+      "role": "召穆公（召公奭之后）；与周公共同行政，共和十四年归政宣王",
+      "evidence": [2, 5]
+    },
+    {
+      "id": "P-shierzhuhou-010",
+      "name": "周宣王",
+      "alias": ["宣王"],
+      "dynasty": "西周",
+      "role": "厉王之子；共和十四年即位，共和罢，西周中兴之主",
+      "evidence": [5]
+    },
+    {
+      "id": "P-shierzhuhou-011",
+      "name": "孔子",
+      "alias": ["仲尼", "孔丘"],
+      "dynasty": "春秋（鲁）",
+      "role": "儒家创始人；明王道、干七十余君莫能用，西观周室、论史记旧闻，兴于鲁而次《春秋》，上记隐、下至哀之获麟；弟子七十子口受其传指",
+      "evidence": [2, 3, 4]
+    },
+    {
+      "id": "P-shierzhuhou-012",
+      "name": "左丘明",
+      "alias": ["鲁君子"],
+      "dynasty": "春秋（鲁）",
+      "role": "鲁君子；惧弟子人人异端失真，因孔子史记具论其语，成《左氏春秋》",
+      "evidence": [2]
+    },
+    {
+      "id": "P-shierzhuhou-013",
+      "name": "铎椒",
+      "alias": [],
+      "dynasty": "战国（楚）",
+      "role": "为楚威王传《春秋》；采取成败四十章，为《铎氏微》",
+      "evidence": [2]
+    },
+    {
+      "id": "P-shierzhuhou-014",
+      "name": "楚威王",
+      "alias": [],
+      "dynasty": "战国（楚）",
+      "role": "楚国君主；铎椒为其传《春秋》，因王不能尽观，故采成败为《铎氏微》",
+      "evidence": [2]
+    },
+    {
+      "id": "P-shierzhuhou-015",
+      "name": "虞卿",
+      "alias": [],
+      "dynasty": "战国（赵）",
+      "role": "赵孝成王相；上采《春秋》、下观近势，著八篇为《虞氏春秋》",
+      "evidence": [2]
+    },
+    {
+      "id": "P-shierzhuhou-016",
+      "name": "赵孝成王",
+      "alias": [],
+      "dynasty": "战国（赵）",
+      "role": "赵国君主，虞卿为其相",
+      "evidence": [2]
+    },
+    {
+      "id": "P-shierzhuhou-017",
+      "name": "吕不韦",
+      "alias": [],
+      "dynasty": "战国末（秦）",
+      "role": "秦庄襄王相；上观尚古、删拾《春秋》、集六国时事，为八览、六论、十二纪，即《吕氏春秋》",
+      "evidence": [2]
+    },
+    {
+      "id": "P-shierzhuhou-018",
+      "name": "秦庄襄王",
+      "alias": [],
+      "dynasty": "战国末（秦）",
+      "role": "秦国君主，吕不韦为其相",
+      "evidence": [2]
+    },
+    {
+      "id": "P-shierzhuhou-019",
+      "name": "荀卿",
+      "alias": ["荀子", "荀况"],
+      "dynasty": "战国",
+      "role": "儒家学者；捃摭《春秋》之文以著书",
+      "evidence": [2]
+    },
+    {
+      "id": "P-shierzhuhou-020",
+      "name": "孟子",
+      "alias": ["孟轲"],
+      "dynasty": "战国",
+      "role": "儒家学者；捃摭《春秋》之文以著书",
+      "evidence": [2]
+    },
+    {
+      "id": "P-shierzhuhou-021",
+      "name": "公孙固",
+      "alias": [],
+      "dynasty": "战国（齐）",
+      "role": "齐人；捃摭《春秋》之文以著书（《汉志》儒家有《公孙固》一篇）；索隐一说以为齐人韩固传诗者",
+      "evidence": [2]
+    },
+    {
+      "id": "P-shierzhuhou-022",
+      "name": "韩非",
+      "alias": ["韩非子"],
+      "dynasty": "战国末（韩）",
+      "role": "法家代表人物；捃摭《春秋》之文以著书",
+      "evidence": [2]
+    },
+    {
+      "id": "P-shierzhuhou-023",
+      "name": "张苍",
+      "alias": [],
+      "dynasty": "西汉",
+      "role": "汉丞相；历谱五德，著《终始五德传》",
+      "evidence": [2]
+    },
+    {
+      "id": "P-shierzhuhou-024",
+      "name": "董仲舒",
+      "alias": [],
+      "dynasty": "西汉",
+      "role": "上大夫、春秋公羊学大师；推《春秋》之义，著《春秋繁露》",
+      "evidence": [2]
+    },
+    {
+      "id": "P-shierzhuhou-025",
+      "name": "郑玄",
+      "alias": ["郑康成"],
+      "dynasty": "东汉",
+      "role": "经学大师；注师挚为鲁太师，识《关雎》之声首理其乱",
+      "evidence": [2]
+    }
+  ],
+  "places": [
+    {
+      "id": "Pl-shierzhuhou-001",
+      "name": "彘",
+      "alias": [],
+      "type": "地名（西周邑名）",
+      "description": "河东地名，后为永安县；周厉王出奔之地",
+      "evidence": [2]
+    },
+    {
+      "id": "Pl-shierzhuhou-002",
+      "name": "三河",
+      "alias": [],
+      "type": "地理区域",
+      "description": "晋所依阻之三河（河东、河内、河南）地区，晋国以此为险",
+      "evidence": [2]
+    },
+    {
+      "id": "Pl-shierzhuhou-003",
+      "name": "东海",
+      "alias": [],
+      "type": "海域/地理方位",
+      "description": "齐国所负之东海（今山东半岛以东海域）",
+      "evidence": [2]
+    },
+    {
+      "id": "Pl-shierzhuhou-004",
+      "name": "江淮",
+      "alias": [],
+      "type": "地理区域",
+      "description": "长江、淮河之间；楚介江淮（一云夹江淮）",
+      "evidence": [2]
+    },
+    {
+      "id": "Pl-shierzhuhou-005",
+      "name": "雍州",
+      "alias": [],
+      "type": "古九州之一",
+      "description": "秦国所居之雍州，四塞险固",
+      "evidence": [2]
+    },
+    {
+      "id": "Pl-shierzhuhou-006",
+      "name": "周王室",
+      "alias": ["周", "宗周", "成周"],
+      "type": "王室/中央政权",
+      "description": "周天子王室，本表首栏；平王东迁后衰微，五霸迭兴挟王室之义以令诸侯",
+      "evidence": [2]
+    }
+  ],
+  "states": [
+    {
+      "id": "S-shierzhuhou-001",
+      "name": "鲁",
+      "type": "诸侯国（姬姓）",
+      "description": "周公之后，孔子所居；《春秋》以鲁史为主体，列本表第二栏（周之后）",
+      "evidence": [2, 3]
+    },
+    {
+      "id": "S-shierzhuhou-002",
+      "name": "齐",
+      "type": "诸侯国（姜姓/后田氏）",
+      "description": "太公之后；负东海之利，齐桓公首霸",
+      "evidence": [2]
+    },
+    {
+      "id": "S-shierzhuhou-003",
+      "name": "晋",
+      "type": "诸侯国（姬姓）",
+      "description": "唐叔之后；阻三河之险，晋文公继齐桓为霸主",
+      "evidence": [2]
+    },
+    {
+      "id": "S-shierzhuhou-004",
+      "name": "秦",
+      "type": "诸侯国（嬴姓）",
+      "description": "非子之后；因雍州之固，秦穆公为五霸之一",
+      "evidence": [2]
+    },
+    {
+      "id": "S-shierzhuhou-005",
+      "name": "楚",
+      "type": "诸侯国（芈姓）",
+      "description": "熊绎之后；介江淮之间，楚庄王为五霸之一",
+      "evidence": [2]
+    },
+    {
+      "id": "S-shierzhuhou-006",
+      "name": "宋",
+      "type": "诸侯国（子姓）",
+      "description": "殷微子之后；宋襄公为五霸之一",
+      "evidence": [2]
+    },
+    {
+      "id": "S-shierzhuhou-007",
+      "name": "卫",
+      "alias": [],
+      "type": "诸侯国（姬姓）",
+      "description": "康叔之后，本表列第七",
+      "evidence": [2]
+    },
+    {
+      "id": "S-shierzhuhou-008",
+      "name": "陈",
+      "type": "诸侯国（妫姓）",
+      "description": "胡公之后，舜裔",
+      "evidence": [2]
+    },
+    {
+      "id": "S-shierzhuhou-009",
+      "name": "蔡",
+      "type": "诸侯国（姬姓）",
+      "description": "蔡仲之后",
+      "evidence": [2]
+    },
+    {
+      "id": "S-shierzhuhou-010",
+      "name": "曹",
+      "type": "诸侯国（姬姓）",
+      "description": "振铎之后，末君名喜（伯阳），后为宋灭",
+      "evidence": [2]
+    },
+    {
+      "id": "S-shierzhuhou-011",
+      "name": "郑",
+      "type": "诸侯国（姬姓）",
+      "description": "周宣王母弟桓公友之后",
+      "evidence": [2]
+    },
+    {
+      "id": "S-shierzhuhou-012",
+      "name": "燕",
+      "type": "诸侯国（姬姓北燕）",
+      "description": "召公奭之后；本表第十二",
+      "evidence": [2]
+    },
+    {
+      "id": "S-shierzhuhou-013",
+      "name": "吴",
+      "type": "诸侯国（姬姓，太伯之后）",
+      "description": "太伯之后；《索隐》所谓贱夷狄不数吴、又霸在后，故篇言十二而实叙十三；阖闾霸盟上国",
+      "evidence": [1, 2]
+    }
+  ],
+  "events": [
+    {
+      "id": "E-shierzhuhou-001",
+      "name": "国人暴动（厉王奔彘）",
+      "time": "公元前841年（共和元年）",
+      "description": "周厉王暴虐、卫巫监谤、道路以目，国人发难，厉王出奔于彘；乱自京师始，为共和行政之起因",
+      "evidence": [2]
+    },
+    {
+      "id": "E-shierzhuhou-002",
+      "name": "共和行政",
+      "time": "公元前841年—前827年（共14年）",
+      "description": "厉王奔彘后，周召二公共同行政（一说共伯和摄政），号曰共和；共和元年为中国历史有确切纪年之始；宣王立，共和罢。本表以此为记事起点",
+      "evidence": [2, 5]
+    },
+    {
+      "id": "E-shierzhuhou-003",
+      "name": "春秋争霸（五霸更主）",
+      "time": "春秋时期",
+      "description": "共和之后，诸侯力政，强乘弱，兴师不请天子；然挟王室之义以讨伐为会盟主，政由五伯（齐桓、晋文、秦穆、宋襄、楚庄）；齐晋秦楚在成周初封或百里或五十里，后迭为霸主",
+      "evidence": [2]
+    },
+    {
+      "id": "E-shierzhuhou-004",
+      "name": "孔子修《春秋》",
+      "time": "鲁哀公前（春秋末期）",
+      "description": "孔子明王道、干七十余君莫能用，西观周室、论史记旧闻，兴于鲁而次《春秋》，上记隐、下至哀之获麟，约其辞文、去其烦重，以制义法",
+      "evidence": [2]
+    },
+    {
+      "id": "E-shierzhuhou-005",
+      "name": "西狩获麟（《春秋》绝笔）",
+      "time": "鲁哀公十四年（公元前481年）",
+      "description": "鲁哀公十四年西狩获麟，孔子《春秋》绝笔；索隐述赞'绝笔获麟，义取同耻'",
+      "evidence": [2, 4]
+    },
+    {
+      "id": "E-shierzhuhou-006",
+      "name": "孔子卒",
+      "time": "鲁哀公十六年（公元前479年）",
+      "description": "孔子之卒为春秋时代人格象征之终点；本表'讫孔子'即以此为大义归止",
+      "evidence": [3, 4]
+    },
+    {
+      "id": "E-shierzhuhou-007",
+      "name": "《春秋》学传授",
+      "time": "春秋末至西汉",
+      "description": "七十子口受传指→左丘明成《左氏春秋》→铎椒为《铎氏微》→虞卿为《虞氏春秋》→吕不韦集《吕氏春秋》→荀孟公孙韩非捃摭其文著书→汉张苍历谱五德→董仲舒推《春秋》义",
+      "evidence": [2]
+    }
+  ],
+  "institutions": [
+    {
+      "id": "I-shierzhuhou-001",
+      "name": "春秋历谱谍",
+      "type": "文献体裁/史料类别",
+      "description": "春秋时期的历书与谱牒类文献总称，非单一书名；自古为春秋学者有年历、谱谍之说，杜元凯作《春秋长历》及《公子谱》因之；为司马迁撰十表的主要史料来源",
+      "evidence": [2]
+    },
+    {
+      "id": "I-shierzhuhou-002",
+      "name": "十二诸侯年表体例",
+      "type": "史书体裁",
+      "description": "《史记》十表之一；旁行邪上（横行斜上），以周王室正朔为经、列国为纬，分栏逐年记事，上起共和元年（前841）、下讫周敬王四十三年（前477），列十三诸侯加周共十四栏；是中国第一部严格系统的编年史年表，上承《三代世表》世系之体、下开《六国年表》以迄后世正史年表之体",
+      "evidence": [2, 3, 4]
+    },
+    {
+      "id": "I-shierzhuhou-003",
+      "name": "五霸（五伯）",
+      "type": "春秋政治概念",
+      "description": "春秋五霸；《索隐》指齐桓公、晋文公、秦穆公、宋襄公、楚庄王；五霸挟王室之义、以讨伐为会盟主，政由五伯，是春秋时期诸侯力政的核心格局",
+      "evidence": [2]
+    },
+    {
+      "id": "I-shierzhuhou-004",
+      "name": "纪年（确切纪年体系）",
+      "type": "史学/历法概念",
+      "description": "以共和元年（前841）为起点的连续逐年纪年体系，为中国历史有确切纪年之始；上此之前的史事仅能以世系代年纪（即《三代世表》之体）",
+      "evidence": [2, 3, 5]
+    },
+    {
+      "id": "I-shierzhuhou-005",
+      "name": "历人",
+      "type": "汉代学者分类术语",
+      "description": "治历谱、取年月的学者；司马迁批评其取年月而不综终始",
+      "evidence": [3]
+    },
+    {
+      "id": "I-shierzhuhou-006",
+      "name": "数家",
+      "type": "汉代学者分类术语",
+      "description": "阴阳术数之家（《索隐》音疏具反）；司马迁批评其隆于神运",
+      "evidence": [3]
+    },
+    {
+      "id": "I-shierzhuhou-007",
+      "name": "谱谍（谱牒家）",
+      "type": "文献/学者分类",
+      "description": "谱牒一类文献及治谱牒之学者；独记世谥、其辞略，欲一观诸要难",
+      "evidence": [3]
+    }
+  ],
+  "literatures": [
+    {
+      "id": "L-shierzhuhou-001",
+      "name": "《春秋》",
+      "type": "经书（鲁史）",
+      "description": "孔子据鲁史次修之《春秋》，上隐下哀获麟，约辞文、去烦重、制义法，王道备、人事浃",
+      "evidence": [2, 3]
+    },
+    {
+      "id": "L-shierzhuhou-002",
+      "name": "《国语》",
+      "type": "史书",
+      "description": "春秋国别史；本表'表见春秋、国语学者所讥盛衰大指著于篇'",
+      "evidence": [3]
+    },
+    {
+      "id": "L-shierzhuhou-003",
+      "name": "《关雎》",
+      "type": "《诗经》篇名",
+      "description": "《诗经·周南》首篇；周道缺，诗人本之衽席，《关雎》作（郑玄以为讽后妃之德、正夫妇之始）",
+      "evidence": [2]
+    },
+    {
+      "id": "L-shierzhuhou-004",
+      "name": "《鹿鸣》",
+      "type": "《诗经》篇名",
+      "description": "《诗经·小雅》首篇；仁义陵迟，《鹿鸣》刺焉",
+      "evidence": [2]
+    },
+    {
+      "id": "L-shierzhuhou-005",
+      "name": "《左氏春秋》",
+      "type": "史书（《春秋》传）",
+      "description": "鲁君子左丘明因孔子史记具论其语而成；即《左传》",
+      "evidence": [2]
+    },
+    {
+      "id": "L-shierzhuhou-006",
+      "name": "《铎氏微》",
+      "type": "春秋学著作",
+      "description": "铎椒为楚威王采取《春秋》成败卒四十章（《汉志》作三篇）而成；以其有微婉之词，故名'微'",
+      "evidence": [2]
+    },
+    {
+      "id": "L-shierzhuhou-007",
+      "name": "《虞氏春秋》",
+      "type": "春秋学著作",
+      "description": "赵相虞卿上采《春秋》、下观近势著八篇（《汉志》作十五篇）",
+      "evidence": [2]
+    },
+    {
+      "id": "L-shierzhuhou-008",
+      "name": "《吕氏春秋》",
+      "type": "诸子/杂家著作",
+      "description": "秦相吕不韦集六国时事，为八览、六论、十二纪；又称《吕览》",
+      "evidence": [2]
+    },
+    {
+      "id": "L-shierzhuhou-009",
+      "name": "《春秋繁露》",
+      "type": "经学著作",
+      "description": "董仲舒推《春秋》义之作；《索隐》言'作春秋繁露是'",
+      "evidence": [2]
+    }
+  ],
+  "relations": [
+    {"from": "P-shierzhuhou-001", "to": "I-shierzhuhou-002", "type": "司马迁创制十二诸侯年表体裁", "evidence": [3]},
+    {"from": "E-shierzhuhou-001", "to": "E-shierzhuhou-002", "type": "厉王奔彘直接导致共和行政", "evidence": [2]},
+    {"from": "E-shierzhuhou-002", "to": "I-shierzhuhou-004", "type": "共和元年开启中国确切纪年", "evidence": [2, 5]},
+    {"from": "E-shierzhuhou-002", "to": "I-shierzhuhou-002", "type": "共和行政是本表始年上限", "evidence": [3, 5]},
+    {"from": "P-shierzhuhou-008", "to": "P-shierzhuhou-009", "type": "周召二公共和行政", "evidence": [2, 5]},
+    {"from": "P-shierzhuhou-011", "to": "L-shierzhuhou-001", "type": "孔子修次《春秋》", "evidence": [2]},
+    {"from": "P-shierzhuhou-012", "to": "L-shierzhuhou-005", "type": "左丘明作《左氏春秋》", "evidence": [2]},
+    {"from": "E-shierzhuhou-003", "to": "I-shierzhuhou-003", "type": "春秋争霸政由五伯", "evidence": [2]},
+    {"from": "P-shierzhuhou-005", "to": "P-shierzhuhou-006", "type": "纣为象箸而箕子唏（见微知著）", "evidence": [2]},
+    {"from": "I-shierzhuhou-002", "to": "S-shierzhuhou-013", "type": "表列十三诸侯，吴以夷狄贱之不数入十二", "evidence": [1]},
+    {"from": "L-shierzhuhou-001", "to": "E-shierzhuhou-005", "type": "《春秋》绝笔于获麟", "evidence": [2, 4]},
+    {"from": "P-shierzhuhou-024", "to": "L-shierzhuhou-001", "type": "董仲舒推《春秋》之义", "evidence": [2]}
+  ]
+}

@@ -1,0 +1,1045 @@
+{
+  "book": "史记",
+  "chapter": "三代世表第一",
+  "chapter_id": "shiji-三代世表第一",
+  "persons": [
+    {
+      "id": "P-sandaishibiao-001",
+      "name": "司马迁",
+      "alias": [
+        "太史公"
+      ],
+      "dynasty": "西汉",
+      "role": "《史记》作者、太史令；本篇序文作者，自述据《五帝系谍》《尚书》集世为世表",
+      "evidence": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-002",
+      "name": "褚少孙",
+      "alias": [
+        "褚先生"
+      ],
+      "dynasty": "西汉（元成间博士）",
+      "role": "《史记》补缀者，补本篇段4–7；以「臣」自称，与张夫子问答，引《诗传》及谶纬言黄帝后世",
+      "evidence": [
+        4,
+        5,
+        7
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-003",
+      "name": "张夫子",
+      "alias": [],
+      "dynasty": "西汉",
+      "role": "褚少孙同时之人（索隐谓未详；校勘记疑即张长安字幼君）；向褚先生发问契、后稷父事",
+      "evidence": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-004",
+      "name": "黄帝",
+      "alias": [
+        "轩辕"
+      ],
+      "dynasty": "上古",
+      "role": "五帝之首；策天命治天下，德泽流后世；舜、禹、契、后稷、高辛、蜀王（褚说）、霍光（褚说）皆其子孙",
+      "evidence": [
+        3,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-005",
+      "name": "契",
+      "alias": [
+        "殷契",
+        "子契"
+      ],
+      "dynasty": "上古（商之始祖）",
+      "role": "商族始祖；母简狄吞玄鸟卵所生；尧封七十里、任司徒、赐姓子氏；十余世至汤王天下",
+      "evidence": [
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-006",
+      "name": "后稷",
+      "alias": [
+        "弃",
+        "姬弃"
+      ],
+      "dynasty": "上古（周之始祖）",
+      "role": "周族始祖；母姜嫄履大人迹所生，因被弃故名弃；尧封百里、任大农、赐姓姬氏；后世千岁至文王有天下",
+      "evidence": [
+        4,
+        5,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-007",
+      "name": "尧",
+      "alias": [
+        "帝尧",
+        "唐尧"
+      ],
+      "dynasty": "上古",
+      "role": "五帝之一；知契、后稷之贤，封之任之并赐姓；预言汤、文王将兴",
+      "evidence": [
+        5
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-008",
+      "name": "商汤",
+      "alias": [
+        "汤",
+        "天乙",
+        "成汤"
+      ],
+      "dynasty": "商",
+      "role": "商王朝开国君主；契之后十余世，王天下",
+      "evidence": [
+        5
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-009",
+      "name": "周文王",
+      "alias": [
+        "文王",
+        "西伯昌"
+      ],
+      "dynasty": "商末周初",
+      "role": "周王朝奠基者；后稷之后千岁，受天命有天下",
+      "evidence": [
+        5,
+        7
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-010",
+      "name": "周武王",
+      "alias": [
+        "武王",
+        "姬发"
+      ],
+      "dynasty": "西周",
+      "role": "周王朝开国君主；灭商后封弟叔处于霍",
+      "evidence": [
+        7
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-011",
+      "name": "姜嫄",
+      "alias": [
+        "姜原"
+      ],
+      "dynasty": "上古",
+      "role": "后稷之母，有邰氏之女；出见大人迹而履践之，身动生后稷；三弃后稷而见其神异，遂收养之",
+      "evidence": [
+        5,
+        8
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-012",
+      "name": "简狄",
+      "alias": [
+        "简逷",
+        "娀简狄",
+        "簡秋（述赞异文）"
+      ],
+      "dynasty": "上古",
+      "role": "契之母，有娀氏之女；浴于玄丘水，吞玄鸟堕卵而生契；正文称「契母」，索隐注及述赞名之",
+      "evidence": [
+        5,
+        8
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-013",
+      "name": "霍叔处",
+      "alias": [
+        "叔处"
+      ],
+      "dynasty": "西周",
+      "role": "周武王之弟，封于霍，为霍国始封君；其国后为晋献公所灭，后世为庶民居平阳；褚少孙以霍光为其后",
+      "evidence": [
+        7
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-014",
+      "name": "霍光",
+      "alias": [
+        "霍子孟",
+        "霍将军"
+      ],
+      "dynasty": "西汉",
+      "role": "汉大将军、大司马大将军；辅昭帝、废昌邑王；褚少孙引谶纬说以其为黄帝后世；本居平阳",
+      "evidence": [
+        7
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-015",
+      "name": "晋献公",
+      "alias": [],
+      "dynasty": "春秋（晋）",
+      "role": "晋国国君；灭霍公，霍国后裔降为庶民",
+      "evidence": [
+        7
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-016",
+      "name": "蜀王",
+      "alias": [],
+      "dynasty": "先秦蜀地",
+      "role": "蜀地君主；褚少孙据《系本》《蜀王本纪》谓其为黄帝后世；汉时常朝降输献",
+      "evidence": [
+        7
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-017",
+      "name": "舜",
+      "alias": [
+        "帝舜",
+        "虞舜"
+      ],
+      "dynasty": "上古",
+      "role": "五帝之一；褚先生谓其为黄帝子孙",
+      "evidence": [
+        5
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-018",
+      "name": "禹",
+      "alias": [
+        "大禹",
+        "夏禹"
+      ],
+      "dynasty": "夏",
+      "role": "夏王朝开国始祖；母脩己吞薏苡而生（述赞），生于石纽；褚先生谓其为黄帝子孙",
+      "evidence": [
+        5,
+        8
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-019",
+      "name": "高辛",
+      "alias": [
+        "帝嚳",
+        "帝俈"
+      ],
+      "dynasty": "上古",
+      "role": "五帝之一；黄帝曾孙；三代世传以为后稷之父",
+      "evidence": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-020",
+      "name": "周太王",
+      "alias": [
+        "大王",
+        "古公亶父"
+      ],
+      "dynasty": "商末（周先公）",
+      "role": "周先公；传位于少子季历，以明天瑞（文王当兴）",
+      "evidence": [
+        5
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-021",
+      "name": "季历",
+      "alias": [
+        "王季"
+      ],
+      "dynasty": "商末（周先公）",
+      "role": "周先公，太王少子、文王之父；受太王命继立",
+      "evidence": [
+        5
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-022",
+      "name": "太伯",
+      "alias": [
+        "泰伯",
+        "吴太伯"
+      ],
+      "dynasty": "商末",
+      "role": "周太王长子；让国奔吴，以遂季历、文王之源",
+      "evidence": [
+        5
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-023",
+      "name": "孔子",
+      "alias": [
+        "仲尼",
+        "夫子"
+      ],
+      "dynasty": "春秋",
+      "role": "儒家圣人；因史文次《春秋》、序《尚书》，不论次年月，开「疑则传疑」史学传统；论契、稷赐姓",
+      "evidence": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-024",
+      "name": "应劭",
+      "alias": [
+        "应仲远"
+      ],
+      "dynasty": "东汉",
+      "role": "学者；《索隐》引其释「表」之义：「录其事而见之」",
+      "evidence": [
+        1
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-025",
+      "name": "郑玄",
+      "alias": [
+        "郑康成"
+      ],
+      "dynasty": "东汉",
+      "role": "经学大师；《索隐》引其注「表，明也」",
+      "evidence": [
+        1
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-026",
+      "name": "脩己",
+      "alias": [],
+      "dynasty": "上古",
+      "role": "禹之母；《索隐述赞》称「脩己吞薏」，即吞薏苡而生禹",
+      "evidence": [
+        8
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-027",
+      "name": "周公",
+      "alias": [
+        "周公旦",
+        "周文公"
+      ],
+      "dynasty": "西周",
+      "role": "周初政治家；与召公共和行政；《述赞》以「周召」并称，谓其遗风犹存",
+      "evidence": [
+        8
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-028",
+      "name": "召公",
+      "alias": [
+        "召公奭",
+        "召康公"
+      ],
+      "dynasty": "西周",
+      "role": "周初政治家；与周公共理国政，共和行政即周召二公执政",
+      "evidence": [
+        8
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-029",
+      "name": "周成王",
+      "alias": [
+        "成"
+      ],
+      "dynasty": "西周",
+      "role": "西周国王；与康王并称「成康」，史称「成康之治，刑措不用」",
+      "evidence": [
+        8
+      ]
+    },
+    {
+      "id": "P-sandaishibiao-030",
+      "name": "周康王",
+      "alias": [
+        "康"
+      ],
+      "dynasty": "西周",
+      "role": "西周国王；与成王并称「成康」",
+      "evidence": [
+        8
+      ]
+    }
+  ],
+  "places": [
+    {
+      "id": "L-sandaishibiao-001",
+      "name": "玄丘水",
+      "alias": [],
+      "type": "神话地名",
+      "description": "《诗传》《诗纬》所载简狄沐浴处，有燕衔卵堕之；非经地理志可考之现实地名",
+      "evidence": [
+        5
+      ]
+    },
+    {
+      "id": "L-sandaishibiao-002",
+      "name": "吴国",
+      "alias": [
+        "吴",
+        "句吴"
+      ],
+      "type": "诸侯国/地名",
+      "description": "太伯让国出奔之地，在长江下游；「太伯之吴」即奔吴",
+      "evidence": [
+        5
+      ]
+    },
+    {
+      "id": "L-sandaishibiao-003",
+      "name": "蜀国",
+      "alias": [
+        "蜀"
+      ],
+      "type": "方国/地名",
+      "description": "汉西南五千里之外的方国；蜀王相传为黄帝支庶所封；常来朝降输献于汉",
+      "evidence": [
+        7
+      ]
+    },
+    {
+      "id": "L-sandaishibiao-004",
+      "name": "霍国",
+      "alias": [
+        "霍"
+      ],
+      "type": "诸侯国",
+      "description": "周武王封弟叔处之国；姬姓；春秋时为晋献公所灭",
+      "evidence": [
+        7
+      ]
+    },
+    {
+      "id": "L-sandaishibiao-005",
+      "name": "平阳",
+      "alias": [],
+      "type": "县邑",
+      "description": "河东郡邑名；霍国灭后霍氏后裔迁居于此；霍光本居平阳；汉时属河东",
+      "evidence": [
+        7
+      ]
+    },
+    {
+      "id": "L-sandaishibiao-006",
+      "name": "河东",
+      "alias": [],
+      "type": "郡/地区",
+      "description": "汉郡名；平阳所在；本晋地，三家分晋后属魏",
+      "evidence": [
+        7
+      ]
+    },
+    {
+      "id": "L-sandaishibiao-007",
+      "name": "燕之乡",
+      "alias": [
+        "白燕之乡",
+        "白彘"
+      ],
+      "type": "谶纬地名/乡里名",
+      "description": "《黄帝终始传》谶语中霍光所出之乡；《正义》疑「燕」为「彘」之讹（汉彘县即后之永安、霍邑），非周代燕国",
+      "evidence": [
+        7
+      ]
+    },
+    {
+      "id": "L-sandaishibiao-008",
+      "name": "魏国",
+      "alias": [
+        "魏"
+      ],
+      "type": "诸侯国",
+      "description": "三家分晋之一；河东晋地分而为魏",
+      "evidence": [
+        7
+      ]
+    },
+    {
+      "id": "L-sandaishibiao-009",
+      "name": "石纽",
+      "alias": [
+        "石紐"
+      ],
+      "type": "传说地名",
+      "description": "《索隐述赞》「石纽兴王」，相传为禹所生之地",
+      "evidence": [
+        8
+      ]
+    },
+    {
+      "id": "L-sandaishibiao-010",
+      "name": "岐山",
+      "alias": [
+        "岐",
+        "周原"
+      ],
+      "type": "山/都邑",
+      "description": "周族兴起之地；《述赞》「祚流岐昌」指周室兴于岐",
+      "evidence": [
+        8
+      ]
+    },
+    {
+      "id": "L-sandaishibiao-011",
+      "name": "彘",
+      "alias": [],
+      "type": "地名（邑）",
+      "description": "周厉王出奔之地；「出彘之后」即厉王奔彘后，共和行政开始",
+      "evidence": [
+        8
+      ]
+    },
+    {
+      "id": "L-sandaishibiao-012",
+      "name": "旗亭",
+      "alias": [],
+      "type": "市楼建筑",
+      "description": "市中之楼，立旗于上故名；褚少孙为郎时与方士考功相会于此",
+      "evidence": [
+        7
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "E-sandaishibiao-001",
+      "name": "孔子编次《春秋》",
+      "type": "文献编纂",
+      "description": "孔子因史文次《春秋》，纪元年，正时日月，体例详备",
+      "evidence": [
+        2
+      ]
+    },
+    {
+      "id": "E-sandaishibiao-002",
+      "name": "孔子序次《尚书》",
+      "type": "文献编纂",
+      "description": "孔子编排《尚书》但略去年月，以其多阙不可录",
+      "evidence": [
+        2
+      ]
+    },
+    {
+      "id": "E-sandaishibiao-003",
+      "name": "司马迁编纂《三代世表》",
+      "type": "史书编纂",
+      "description": "司马迁以《五帝系谍》《尚书》集世，纪黄帝以来讫共和为世表；不取历谱谍五德诸说之年数，因古文乖异、孔夫子弗论次，故疑则传疑",
+      "evidence": [
+        3
+      ]
+    },
+    {
+      "id": "E-sandaishibiao-004",
+      "name": "玄鸟生商（契感生神话）",
+      "type": "感生神话",
+      "description": "契母简狄与姊妹浴于玄丘水，燕衔卵堕之，得而含之误吞生契；《诗经·商颂·玄鸟》「天命玄鸟，降而生商」",
+      "evidence": [
+        5,
+        8
+      ]
+    },
+    {
+      "id": "E-sandaishibiao-005",
+      "name": "后稷降生（姜嫄履迹神话）",
+      "type": "感生神话",
+      "description": "姜嫄出见大人迹而履践之，知于身生后稷；三弃之（道中、山中、大泽）而牛羊不践、山者养之、鸟覆翼之，姜嫄知其为天子而取长之",
+      "evidence": [
+        5,
+        8
+      ]
+    },
+    {
+      "id": "E-sandaishibiao-006",
+      "name": "尧封契任司徒",
+      "type": "分封/任命",
+      "description": "尧知契贤，封之七十里，立为司徒，赐姓子氏；预言其后世有汤王天下",
+      "evidence": [
+        5
+      ]
+    },
+    {
+      "id": "E-sandaishibiao-007",
+      "name": "尧封后稷任大农",
+      "type": "分封/任命",
+      "description": "尧知后稷贤才，益封之百里，立为大农，赐姓姬氏；预言其后世千岁至文王有天下",
+      "evidence": [
+        5
+      ]
+    },
+    {
+      "id": "E-sandaishibiao-008",
+      "name": "太伯奔吴、太王命季历",
+      "type": "让国/传位",
+      "description": "周太王传位少子季历以明天瑞；长子太伯让国出奔至吴，以成周室生生之源，开文王、武王之业",
+      "evidence": [
+        5
+      ]
+    },
+    {
+      "id": "E-sandaishibiao-009",
+      "name": "武王封霍与晋献公灭霍",
+      "type": "分封/灭国",
+      "description": "周武王克商后封弟叔处于霍；春秋时晋献公灭霍公，霍公后世为庶民，往来居平阳",
+      "evidence": [
+        7
+      ]
+    },
+    {
+      "id": "E-sandaishibiao-010",
+      "name": "蜀王朝汉",
+      "type": "朝贡",
+      "description": "蜀王在汉西南五千里，常来朝降输献于汉；褚少孙以此为其先世德泽之证",
+      "evidence": [
+        7
+      ]
+    },
+    {
+      "id": "E-sandaishibiao-011",
+      "name": "霍光辅政与《黄帝终始传》谶语",
+      "type": "政治/谶纬",
+      "description": "霍光为汉大将军持天下之政，时有婴儿主（昭帝），《黄帝终始传》谶语预言其出自燕之乡、执掌朝政、使君主如却行车；褚少孙为郎时闻于方士考功",
+      "evidence": [
+        7
+      ]
+    },
+    {
+      "id": "E-sandaishibiao-012",
+      "name": "共和行政",
+      "type": "政治事件/纪年节点",
+      "description": "周厉王出奔彘后，周召二公共同行政（前841年）；为中国历史有确切纪年之始，亦是《三代世表》的纪年下限",
+      "evidence": [
+        3,
+        8
+      ]
+    }
+  ],
+  "institutions": [
+    {
+      "id": "I-sandaishibiao-001",
+      "name": "五德终始说",
+      "type": "政治哲学学说",
+      "description": "邹衍一派以金木水火土五德传次相承、终而复始解释王朝更替的学说；司马迁稽其历谱谍终始五德之传，见古文乖异而不取",
+      "evidence": [
+        3
+      ]
+    },
+    {
+      "id": "I-sandaishibiao-002",
+      "name": "《尚书》",
+      "type": "经典文献",
+      "description": "上古历史文献汇编；孔子序之略无年月；司马迁据以集世为表",
+      "evidence": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "I-sandaishibiao-003",
+      "name": "《春秋》",
+      "type": "经典文献",
+      "description": "孔子据鲁史编次的编年史；纪元年、正时日月，体例详备，为后世编年体之祖",
+      "evidence": [
+        2
+      ]
+    },
+    {
+      "id": "I-sandaishibiao-004",
+      "name": "《诗经》",
+      "type": "经典文献",
+      "description": "先秦诗歌总集；载契、后稷无父而生之说（《玄鸟》《生民》）；为张夫子疑问之所据",
+      "evidence": [
+        4,
+        5,
+        7
+      ]
+    },
+    {
+      "id": "I-sandaishibiao-005",
+      "name": "《五帝系谍》",
+      "type": "谱牒文献",
+      "description": "记黄帝以来世系的谱牒；司马迁据此与《尚书》集世纪黄帝以来至共和为世表；即《大戴礼》之《五帝德》《帝系》类文献",
+      "evidence": [
+        3
+      ]
+    },
+    {
+      "id": "I-sandaishibiao-006",
+      "name": "《黄帝终始传》",
+      "type": "谶纬文献",
+      "description": "五行谶纬之书；载「汉兴百有余年，有人不短不长，出自燕之乡……」谶语，褚少孙引以指霍光",
+      "evidence": [
+        7
+      ]
+    },
+    {
+      "id": "I-sandaishibiao-007",
+      "name": "《诗传》",
+      "type": "传注文献",
+      "description": "解释《诗经》的传；褚少孙引其述玄鸟生商、姜嫄履迹之事",
+      "evidence": [
+        5
+      ]
+    },
+    {
+      "id": "I-sandaishibiao-008",
+      "name": "谱牒之学（谍记/历谱谍）",
+      "type": "史书体裁/学术",
+      "description": "记载帝王世系谥法年数的谱牒文献；谍通「牒」；司马迁见黄帝以来谍记皆有年数，但以古文乖异不取",
+      "evidence": [
+        3
+      ]
+    },
+    {
+      "id": "I-sandaishibiao-009",
+      "name": "世表（表）",
+      "type": "史书体例",
+      "description": "《史记》十表之首；以世系代年纪，表黄帝以来讫共和三代世次；表者「录其事而见之」、明也，所以表明事仪",
+      "evidence": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "I-sandaishibiao-010",
+      "name": "以疑传疑（信以传信，疑以传疑）",
+      "type": "史学原则",
+      "description": "孔子修《春秋》《尚书》所开的审慎态度：可疑处即存疑而不妄加年月；褚少孙以契、稷「一言有父一言无父」为信传信、疑传疑",
+      "evidence": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": "I-sandaishibiao-011",
+      "name": "司徒",
+      "type": "官职",
+      "description": "上古掌教化之官；尧命契为司徒",
+      "evidence": [
+        5
+      ]
+    },
+    {
+      "id": "I-sandaishibiao-012",
+      "name": "大农",
+      "type": "官职",
+      "description": "上古主管农业之官（犹后稷之职）；尧命后稷为大农",
+      "evidence": [
+        5
+      ]
+    },
+    {
+      "id": "I-sandaishibiao-013",
+      "name": "郎（郎官）",
+      "type": "官职",
+      "description": "汉代侍从近臣之职；褚少孙自称曾任郎官",
+      "evidence": [
+        7
+      ]
+    },
+    {
+      "id": "I-sandaishibiao-014",
+      "name": "五政",
+      "type": "政治概念",
+      "description": "褚少孙论帝王之政：五政明则修礼义、因天时举兵征伐而利者王，有福千世",
+      "evidence": [
+        7
+      ]
+    },
+    {
+      "id": "I-sandaishibiao-015",
+      "name": "天命",
+      "type": "政治哲学概念",
+      "description": "王朝兴起所秉受的天意；契、稷感生皆天命精诚，布衣匹夫不能无天命而起王天下",
+      "evidence": [
+        5,
+        7
+      ]
+    },
+    {
+      "id": "I-sandaishibiao-016",
+      "name": "《礼记》",
+      "type": "经典文献",
+      "description": "儒家经典，有《表记》篇；《索隐》引郑玄注以释「表」之义",
+      "evidence": [
+        1
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": "R-sandaishibiao-001",
+      "type": "问答",
+      "subject": "P-sandaishibiao-003",
+      "object": "P-sandaishibiao-002",
+      "description": "张夫子问褚先生：契、后稷《诗》言无父而生，传记言父为黄帝子孙，是否与《诗》谬",
+      "evidence": [
+        4
+      ]
+    },
+    {
+      "id": "R-sandaishibiao-002",
+      "type": "应答",
+      "subject": "P-sandaishibiao-002",
+      "object": "P-sandaishibiao-003",
+      "description": "褚先生答张夫子，释天命精诚、信以传信疑以传疑之义，并申论黄帝后世久远之由",
+      "evidence": [
+        5,
+        7
+      ]
+    },
+    {
+      "id": "R-sandaishibiao-003",
+      "type": "母子",
+      "subject": "P-sandaishibiao-012",
+      "object": "P-sandaishibiao-005",
+      "description": "简狄（契母）吞玄鸟卵生契，即玄鸟生商神话",
+      "evidence": [
+        5,
+        8
+      ]
+    },
+    {
+      "id": "R-sandaishibiao-004",
+      "type": "母子",
+      "subject": "P-sandaishibiao-011",
+      "object": "P-sandaishibiao-006",
+      "description": "姜嫄履大人迹生后稷，三弃而神异显，即后稷降生神话",
+      "evidence": [
+        5,
+        8
+      ]
+    },
+    {
+      "id": "R-sandaishibiao-005",
+      "type": "父子",
+      "subject": "P-sandaishibiao-019",
+      "object": "P-sandaishibiao-006",
+      "description": "按三代世传，后稷之父为高辛（帝嚳），高辛为黄帝曾孙",
+      "evidence": [
+        7
+      ]
+    },
+    {
+      "id": "R-sandaishibiao-006",
+      "type": "曾祖孙",
+      "subject": "P-sandaishibiao-004",
+      "object": "P-sandaishibiao-019",
+      "description": "高辛（帝嚳）为黄帝曾孙",
+      "evidence": [
+        7
+      ]
+    },
+    {
+      "id": "R-sandaishibiao-007",
+      "type": "后裔",
+      "subject": "P-sandaishibiao-004",
+      "object": "P-sandaishibiao-005",
+      "description": "契为黄帝子孙（帝嚳之子，黄帝玄孙）",
+      "evidence": [
+        5
+      ]
+    },
+    {
+      "id": "R-sandaishibiao-008",
+      "type": "后裔",
+      "subject": "P-sandaishibiao-004",
+      "object": "P-sandaishibiao-017",
+      "description": "舜为黄帝子孙",
+      "evidence": [
+        5
+      ]
+    },
+    {
+      "id": "R-sandaishibiao-009",
+      "type": "后裔",
+      "subject": "P-sandaishibiao-004",
+      "object": "P-sandaishibiao-018",
+      "description": "禹为黄帝子孙",
+      "evidence": [
+        5
+      ]
+    },
+    {
+      "id": "R-sandaishibiao-010",
+      "type": "封赏任命",
+      "subject": "P-sandaishibiao-007",
+      "object": "P-sandaishibiao-005",
+      "description": "尧封契七十里，任为司徒，赐姓子氏；十余世后至商汤王天下",
+      "evidence": [
+        5
+      ]
+    },
+    {
+      "id": "R-sandaishibiao-011",
+      "type": "封赏任命",
+      "subject": "P-sandaishibiao-007",
+      "object": "P-sandaishibiao-006",
+      "description": "尧封后稷百里，任为大农，赐姓姬氏；后世千岁至文王有天下",
+      "evidence": [
+        5
+      ]
+    },
+    {
+      "id": "R-sandaishibiao-012",
+      "type": "先祖",
+      "subject": "P-sandaishibiao-005",
+      "object": "P-sandaishibiao-008",
+      "description": "契为商汤先祖，其后十余世至汤",
+      "evidence": [
+        5
+      ]
+    },
+    {
+      "id": "R-sandaishibiao-013",
+      "type": "先祖",
+      "subject": "P-sandaishibiao-006",
+      "object": "P-sandaishibiao-009",
+      "description": "后稷为周文王先祖，其后世千岁至文王",
+      "evidence": [
+        5
+      ]
+    },
+    {
+      "id": "R-sandaishibiao-014",
+      "type": "传位",
+      "subject": "P-sandaishibiao-020",
+      "object": "P-sandaishibiao-021",
+      "description": "周太王传位季历，以明天瑞（文王将兴）",
+      "evidence": [
+        5
+      ]
+    },
+    {
+      "id": "R-sandaishibiao-015",
+      "type": "出奔让国",
+      "subject": "P-sandaishibiao-022",
+      "object": "L-sandaishibiao-002",
+      "description": "太伯让国出奔至吴，遂成全周生生之源",
+      "evidence": [
+        5
+      ]
+    },
+    {
+      "id": "R-sandaishibiao-016",
+      "type": "分封",
+      "subject": "P-sandaishibiao-010",
+      "object": "P-sandaishibiao-013",
+      "description": "周武王封弟叔处于霍（霍国）",
+      "evidence": [
+        7
+      ]
+    },
+    {
+      "id": "R-sandaishibiao-017",
+      "type": "灭国",
+      "subject": "P-sandaishibiao-015",
+      "object": "L-sandaishibiao-004",
+      "description": "晋献公灭霍公，霍国亡，后世为庶民迁平阳",
+      "evidence": [
+        7
+      ]
+    },
+    {
+      "id": "R-sandaishibiao-018",
+      "type": "迁徙居住",
+      "subject": "P-sandaishibiao-013",
+      "object": "L-sandaishibiao-005",
+      "description": "霍国灭后，霍叔处之后裔往来居平阳",
+      "evidence": [
+        7
+      ]
+    },
+    {
+      "id": "R-sandaishibiao-019",
+      "type": "籍贯",
+      "subject": "P-sandaishibiao-014",
+      "object": "L-sandaishibiao-005",
+      "description": "霍将军（光）本居平阳；褚少孙以其为霍叔处之后、亦黄帝后世（按：此为褚氏附会说）",
+      "evidence": [
+        7
+      ]
+    },
+    {
+      "id": "R-sandaishibiao-020",
+      "type": "编纂",
+      "subject": "P-sandaishibiao-023",
+      "object": "I-sandaishibiao-003",
+      "description": "孔子因史文次《春秋》，纪元年正时日月",
+      "evidence": [
+        2
+      ]
+    },
+    {
+      "id": "R-sandaishibiao-021",
+      "type": "编纂",
+      "subject": "P-sandaishibiao-023",
+      "object": "I-sandaishibiao-002",
+      "description": "孔子序次《尚书》，略去年月以其多阙",
+      "evidence": [
+        2
+      ]
+    },
+    {
+      "id": "R-sandaishibiao-022",
+      "type": "编纂",
+      "subject": "P-sandaishibiao-001",
+      "object": "I-sandaishibiao-009",
+      "description": "司马迁据《五帝系谍》《尚书》集世纪黄帝以来讫共和为世表",
+      "evidence": [
+        3
+      ]
+    },
+    {
+      "id": "R-sandaishibiao-023",
+      "type": "后裔（褚少孙附会）",
+      "subject": "P-sandaishibiao-004",
+      "object": "P-sandaishibiao-016",
+      "description": "褚少孙谓蜀王为黄帝后世；索隐据《系本》《蜀王本纪》存疑，正史未确认",
+      "evidence": [
+        7
+      ]
+    },
+    {
+      "id": "R-sandaishibiao-024",
+      "type": "后裔（褚少孙附会）",
+      "subject": "P-sandaishibiao-004",
+      "object": "P-sandaishibiao-014",
+      "description": "褚少孙引谶纬说以霍光为黄帝后世；索隐斥其「芜秽正史」",
+      "evidence": [
+        7
+      ]
+    }
+  ]
+}

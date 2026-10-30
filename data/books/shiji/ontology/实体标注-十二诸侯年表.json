@@ -1,0 +1,271 @@
+{
+  "chapter": "十二诸侯年表第二",
+  "chapter_id": "shiji-十二諸侯年表第二",
+  "mentions": [
+    {
+      "text": "太史公",
+      "entity_id": "P-shierzhuhou-001",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "春秋曆譜諜",
+      "entity_id": "I-shierzhuhou-001",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "周厲王",
+      "entity_id": "P-shierzhuhou-007",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "師摯",
+      "entity_id": "P-shierzhuhou-004",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "紂",
+      "entity_id": "P-shierzhuhou-005",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "箕子",
+      "entity_id": "P-shierzhuhou-006",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "關雎",
+      "entity_id": "L-shierzhuhou-003",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "鹿鳴",
+      "entity_id": "L-shierzhuhou-004",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "彘",
+      "entity_id": "Pl-shierzhuhou-001",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "共和",
+      "entity_id": "E-shierzhuhou-002",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "五伯",
+      "entity_id": "I-shierzhuhou-003",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "齊",
+      "entity_id": "S-shierzhuhou-002",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "晉",
+      "entity_id": "S-shierzhuhou-003",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "秦",
+      "entity_id": "S-shierzhuhou-004",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "楚",
+      "entity_id": "S-shierzhuhou-005",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "三河",
+      "entity_id": "Pl-shierzhuhou-002",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "東海",
+      "entity_id": "Pl-shierzhuhou-003",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "江淮",
+      "entity_id": "Pl-shierzhuhou-004",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "雍州",
+      "entity_id": "Pl-shierzhuhou-005",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "孔子",
+      "entity_id": "P-shierzhuhou-011",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "春秋",
+      "entity_id": "L-shierzhuhou-001",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "獲麟",
+      "entity_id": "E-shierzhuhou-005",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "七十子",
+      "note": "孔子七十弟子之徒，群体概念",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "左丘明",
+      "entity_id": "P-shierzhuhou-012",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "左氏春秋",
+      "entity_id": "L-shierzhuhou-005",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "鐸椒",
+      "entity_id": "P-shierzhuhou-013",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "楚威王",
+      "entity_id": "P-shierzhuhou-014",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "鐸氏微",
+      "entity_id": "L-shierzhuhou-006",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "趙孝成王",
+      "entity_id": "P-shierzhuhou-016",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "虞卿",
+      "entity_id": "P-shierzhuhou-015",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "虞氏春秋",
+      "entity_id": "L-shierzhuhou-007",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "呂不韋",
+      "entity_id": "P-shierzhuhou-017",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "秦莊襄王",
+      "entity_id": "P-shierzhuhou-018",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "呂氏春秋",
+      "entity_id": "L-shierzhuhou-008",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "荀卿",
+      "entity_id": "P-shierzhuhou-019",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "孟子",
+      "entity_id": "P-shierzhuhou-020",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "公孫固",
+      "entity_id": "P-shierzhuhou-021",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "韓非",
+      "entity_id": "P-shierzhuhou-022",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "張蒼",
+      "entity_id": "P-shierzhuhou-023",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "董仲舒",
+      "entity_id": "P-shierzhuhou-024",
+      "sent_id": "shiji-十二諸侯年表第二-p1"
+    },
+    {
+      "text": "太史公",
+      "entity_id": "P-shierzhuhou-001",
+      "sent_id": "shiji-十二諸侯年表第二-p2"
+    },
+    {
+      "text": "儒者",
+      "note": "儒家学者群体",
+      "sent_id": "shiji-十二諸侯年表第二-p2"
+    },
+    {
+      "text": "歷人",
+      "entity_id": "I-shierzhuhou-005",
+      "sent_id": "shiji-十二諸侯年表第二-p2"
+    },
+    {
+      "text": "數家",
+      "entity_id": "I-shierzhuhou-006",
+      "sent_id": "shiji-十二諸侯年表第二-p2"
+    },
+    {
+      "text": "譜諜",
+      "entity_id": "I-shierzhuhou-007",
+      "sent_id": "shiji-十二諸侯年表第二-p2"
+    },
+    {
+      "text": "十二諸侯",
+      "entity_id": "I-shierzhuhou-002",
+      "sent_id": "shiji-十二諸侯年表第二-p2"
+    },
+    {
+      "text": "春秋",
+      "entity_id": "L-shierzhuhou-001",
+      "sent_id": "shiji-十二諸侯年表第二-p2"
+    },
+    {
+      "text": "國語",
+      "entity_id": "L-shierzhuhou-002",
+      "sent_id": "shiji-十二諸侯年表第二-p2"
+    },
+    {
+      "text": "太史",
+      "note": "司马贞《索隐述赞》作者，即司马贞",
+      "sent_id": "shiji-十二諸侯年表第二-p3"
+    },
+    {
+      "text": "共和",
+      "entity_id": "E-shierzhuhou-002",
+      "sent_id": "shiji-十二諸侯年表第二-p3"
+    },
+    {
+      "text": "孔子",
+      "entity_id": "P-shierzhuhou-011",
+      "sent_id": "shiji-十二諸侯年表第二-p3"
+    },
+    {
+      "text": "十二諸侯",
+      "entity_id": "I-shierzhuhou-002",
+      "sent_id": "shiji-十二諸侯年表第二-p3"
+    },
+    {
+      "text": "獲麟",
+      "entity_id": "E-shierzhuhou-005",
+      "sent_id": "shiji-十二諸侯年表第二-p3"
+    }
+  ]
+}

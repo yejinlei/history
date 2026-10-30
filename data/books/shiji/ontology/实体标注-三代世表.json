@@ -1,0 +1,591 @@
+{
+  "chapter": "三代世表第一",
+  "chapter_id": "shiji-三代世表第一",
+  "mentions": [
+    {
+      "text": "應劭",
+      "entity_id": "P-sandaishibiao-024",
+      "sent_id": "shiji-三代世表第一-1"
+    },
+    {
+      "text": "鄭玄",
+      "entity_id": "P-sandaishibiao-025",
+      "sent_id": "shiji-三代世表第一-1"
+    },
+    {
+      "text": "禮",
+      "entity_id": "I-sandaishibiao-016",
+      "sent_id": "shiji-三代世表第一-1"
+    },
+    {
+      "text": "表記",
+      "entity_id": "I-sandaishibiao-009",
+      "sent_id": "shiji-三代世表第一-1"
+    },
+    {
+      "text": "五帝",
+      "entity_id": "P-sandaishibiao-004",
+      "sent_id": "shiji-三代世表第一-1"
+    },
+    {
+      "text": "尚書",
+      "entity_id": "I-sandaishibiao-002",
+      "sent_id": "shiji-三代世表第一-1"
+    },
+    {
+      "text": "三代",
+      "entity_id": "I-sandaishibiao-009",
+      "sent_id": "shiji-三代世表第一-1"
+    },
+    {
+      "text": "五帝",
+      "entity_id": "P-sandaishibiao-004",
+      "sent_id": "shiji-三代世表第一-2"
+    },
+    {
+      "text": "三代",
+      "entity_id": "I-sandaishibiao-009",
+      "sent_id": "shiji-三代世表第一-2"
+    },
+    {
+      "text": "孔子",
+      "entity_id": "P-sandaishibiao-023",
+      "sent_id": "shiji-三代世表第一-2"
+    },
+    {
+      "text": "春秋",
+      "entity_id": "I-sandaishibiao-003",
+      "sent_id": "shiji-三代世表第一-2"
+    },
+    {
+      "text": "尚書",
+      "entity_id": "I-sandaishibiao-002",
+      "sent_id": "shiji-三代世表第一-2"
+    },
+    {
+      "text": "諜記",
+      "entity_id": "I-sandaishibiao-008",
+      "sent_id": "shiji-三代世表第一-3"
+    },
+    {
+      "text": "黃帝",
+      "entity_id": "P-sandaishibiao-004",
+      "sent_id": "shiji-三代世表第一-3"
+    },
+    {
+      "text": "歷譜諜",
+      "entity_id": "I-sandaishibiao-008",
+      "sent_id": "shiji-三代世表第一-3"
+    },
+    {
+      "text": "終始五德之傳",
+      "entity_id": "I-sandaishibiao-001",
+      "sent_id": "shiji-三代世表第一-3"
+    },
+    {
+      "text": "五帝繫諜",
+      "entity_id": "I-sandaishibiao-005",
+      "sent_id": "shiji-三代世表第一-3"
+    },
+    {
+      "text": "尚書",
+      "entity_id": "I-sandaishibiao-002",
+      "sent_id": "shiji-三代世表第一-3"
+    },
+    {
+      "text": "黃帝",
+      "entity_id": "P-sandaishibiao-004",
+      "sent_id": "shiji-三代世表第一-3"
+    },
+    {
+      "text": "共和",
+      "entity_id": "E-sandaishibiao-012",
+      "sent_id": "shiji-三代世表第一-3"
+    },
+    {
+      "text": "世表",
+      "entity_id": "I-sandaishibiao-009",
+      "sent_id": "shiji-三代世表第一-3"
+    },
+    {
+      "text": "張夫子",
+      "entity_id": "P-sandaishibiao-003",
+      "sent_id": "shiji-三代世表第一-4"
+    },
+    {
+      "text": "褚先生",
+      "entity_id": "P-sandaishibiao-002",
+      "sent_id": "shiji-三代世表第一-4"
+    },
+    {
+      "text": "詩",
+      "entity_id": "I-sandaishibiao-004",
+      "sent_id": "shiji-三代世表第一-4"
+    },
+    {
+      "text": "契",
+      "entity_id": "P-sandaishibiao-005",
+      "sent_id": "shiji-三代世表第一-4"
+    },
+    {
+      "text": "后稷",
+      "entity_id": "P-sandaishibiao-006",
+      "sent_id": "shiji-三代世表第一-4"
+    },
+    {
+      "text": "黃帝",
+      "entity_id": "P-sandaishibiao-004",
+      "sent_id": "shiji-三代世表第一-4"
+    },
+    {
+      "text": "褚先生",
+      "entity_id": "P-sandaishibiao-002",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "契",
+      "entity_id": "P-sandaishibiao-005",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "后稷",
+      "entity_id": "P-sandaishibiao-006",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "堯",
+      "entity_id": "P-sandaishibiao-007",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "湯",
+      "entity_id": "P-sandaishibiao-008",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "文王",
+      "entity_id": "P-sandaishibiao-009",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "詩傳",
+      "entity_id": "I-sandaishibiao-007",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "契",
+      "entity_id": "P-sandaishibiao-005",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "玄丘水",
+      "entity_id": "L-sandaishibiao-001",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "契母",
+      "entity_id": "P-sandaishibiao-012",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "契",
+      "entity_id": "P-sandaishibiao-005",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "堯",
+      "entity_id": "P-sandaishibiao-007",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "司徒",
+      "entity_id": "I-sandaishibiao-011",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "子氏",
+      "entity_id": "P-sandaishibiao-005",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "殷社",
+      "entity_id": "I-sandaishibiao-004",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "玄鳥",
+      "entity_id": "E-sandaishibiao-004",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "商",
+      "entity_id": "P-sandaishibiao-008",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "文王",
+      "entity_id": "P-sandaishibiao-009",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "后稷",
+      "entity_id": "P-sandaishibiao-006",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "姜嫄",
+      "entity_id": "P-sandaishibiao-011",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "后稷",
+      "entity_id": "P-sandaishibiao-006",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "大農",
+      "entity_id": "I-sandaishibiao-012",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "姬氏",
+      "entity_id": "P-sandaishibiao-006",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "孔子",
+      "entity_id": "P-sandaishibiao-023",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "堯",
+      "entity_id": "P-sandaishibiao-007",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "契",
+      "entity_id": "P-sandaishibiao-005",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "湯",
+      "entity_id": "P-sandaishibiao-008",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "后稷",
+      "entity_id": "P-sandaishibiao-006",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "文王",
+      "entity_id": "P-sandaishibiao-009",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "大王",
+      "entity_id": "P-sandaishibiao-020",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "季歷",
+      "entity_id": "P-sandaishibiao-021",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "太伯",
+      "entity_id": "P-sandaishibiao-022",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "吳",
+      "entity_id": "L-sandaishibiao-002",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "天命",
+      "entity_id": "I-sandaishibiao-015",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "舜",
+      "entity_id": "P-sandaishibiao-017",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "禹",
+      "entity_id": "P-sandaishibiao-018",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "契",
+      "entity_id": "P-sandaishibiao-005",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "后稷",
+      "entity_id": "P-sandaishibiao-006",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "黃帝",
+      "entity_id": "P-sandaishibiao-004",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "黃帝",
+      "entity_id": "P-sandaishibiao-004",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "天命",
+      "entity_id": "I-sandaishibiao-015",
+      "sent_id": "shiji-三代世表第一-5"
+    },
+    {
+      "text": "黃帝",
+      "entity_id": "P-sandaishibiao-004",
+      "sent_id": "shiji-三代世表第一-6"
+    },
+    {
+      "text": "黃帝",
+      "entity_id": "P-sandaishibiao-004",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "蜀王",
+      "entity_id": "P-sandaishibiao-016",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "黃帝",
+      "entity_id": "P-sandaishibiao-004",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "漢",
+      "entity_id": "I-sandaishibiao-009",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "霍子孟",
+      "entity_id": "P-sandaishibiao-014",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "光",
+      "entity_id": "P-sandaishibiao-014",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "黃帝",
+      "entity_id": "P-sandaishibiao-004",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "霍",
+      "entity_id": "L-sandaishibiao-004",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "武王",
+      "entity_id": "P-sandaishibiao-010",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "叔處",
+      "entity_id": "P-sandaishibiao-013",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "霍",
+      "entity_id": "L-sandaishibiao-004",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "晉獻公",
+      "entity_id": "P-sandaishibiao-015",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "霍公",
+      "entity_id": "L-sandaishibiao-004",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "平陽",
+      "entity_id": "L-sandaishibiao-005",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "河東",
+      "entity_id": "L-sandaishibiao-006",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "河東",
+      "entity_id": "L-sandaishibiao-006",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "晉",
+      "entity_id": "L-sandaishibiao-006",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "魏國",
+      "entity_id": "L-sandaishibiao-008",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "詩",
+      "entity_id": "I-sandaishibiao-004",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "周",
+      "entity_id": "I-sandaishibiao-009",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "后稷",
+      "entity_id": "P-sandaishibiao-006",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "后稷",
+      "entity_id": "P-sandaishibiao-006",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "高辛",
+      "entity_id": "P-sandaishibiao-019",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "高辛",
+      "entity_id": "P-sandaishibiao-019",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "黃帝",
+      "entity_id": "P-sandaishibiao-004",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "黃帝終始傳",
+      "entity_id": "I-sandaishibiao-006",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "漢",
+      "entity_id": "I-sandaishibiao-009",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "燕之鄉",
+      "entity_id": "L-sandaishibiao-007",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "嬰兒主",
+      "entity_id": "E-sandaishibiao-011",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "郤行車",
+      "entity_id": "E-sandaishibiao-011",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "霍將軍",
+      "entity_id": "P-sandaishibiao-014",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "平陽",
+      "entity_id": "L-sandaishibiao-005",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "燕",
+      "entity_id": "L-sandaishibiao-007",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "臣",
+      "entity_id": "P-sandaishibiao-002",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "郎",
+      "entity_id": "I-sandaishibiao-013",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "旗亭",
+      "entity_id": "L-sandaishibiao-012",
+      "sent_id": "shiji-三代世表第一-7"
+    },
+    {
+      "text": "高辛",
+      "entity_id": "P-sandaishibiao-019",
+      "sent_id": "shiji-三代世表第一-8"
+    },
+    {
+      "text": "脩己",
+      "entity_id": "P-sandaishibiao-026",
+      "sent_id": "shiji-三代世表第一-8"
+    },
+    {
+      "text": "石紐",
+      "entity_id": "L-sandaishibiao-009",
+      "sent_id": "shiji-三代世表第一-8"
+    },
+    {
+      "text": "玄鳥",
+      "entity_id": "E-sandaishibiao-004",
+      "sent_id": "shiji-三代世表第一-8"
+    },
+    {
+      "text": "簡秋",
+      "entity_id": "P-sandaishibiao-012",
+      "sent_id": "shiji-三代世表第一-8"
+    },
+    {
+      "text": "商",
+      "entity_id": "P-sandaishibiao-008",
+      "sent_id": "shiji-三代世表第一-8"
+    },
+    {
+      "text": "姜嫄",
+      "entity_id": "P-sandaishibiao-011",
+      "sent_id": "shiji-三代世表第一-8"
+    },
+    {
+      "text": "岐",
+      "entity_id": "L-sandaishibiao-010",
+      "sent_id": "shiji-三代世表第一-8"
+    },
+    {
+      "text": "周召",
+      "entity_id": "P-sandaishibiao-027",
+      "sent_id": "shiji-三代世表第一-8"
+    },
+    {
+      "text": "成康",
+      "entity_id": "P-sandaishibiao-029",
+      "sent_id": "shiji-三代世表第一-8"
+    },
+    {
+      "text": "彘",
+      "entity_id": "L-sandaishibiao-011",
+      "sent_id": "shiji-三代世表第一-8"
+    },
+    {
+      "text": "出彘",
+      "entity_id": "E-sandaishibiao-012",
+      "sent_id": "shiji-三代世表第一-8"
+    }
+  ]
+}
