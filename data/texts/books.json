@@ -1,0 +1,202 @@
+[
+ {
+  "key": "shiji",
+  "name": "史记",
+  "author": "[汉] 司马迁 撰",
+  "notes": "裴骃《集解》· 司马贞《索隐》· 张守节《正义》",
+  "style": "annotated",
+  "count": 137
+ },
+ {
+  "key": "hanshu",
+  "name": "汉书",
+  "author": "[汉] 班固 撰",
+  "notes": "",
+  "style": "plain",
+  "count": 120
+ },
+ {
+  "key": "houhanshu",
+  "name": "后汉书",
+  "author": "[南朝宋] 范晔 撰",
+  "notes": "",
+  "style": "plain",
+  "count": 100
+ },
+ {
+  "key": "sanguozhi",
+  "name": "三国志",
+  "author": "[晋] 陈寿 撰",
+  "notes": "",
+  "style": "plain",
+  "count": 65
+ },
+ {
+  "key": "jinshu",
+  "name": "晋书",
+  "author": "[唐] 房玄龄 等撰",
+  "notes": "",
+  "style": "plain",
+  "count": 100
+ },
+ {
+  "key": "songshu",
+  "name": "宋书",
+  "author": "[南朝梁] 沈约 撰",
+  "notes": "",
+  "style": "plain",
+  "count": 40
+ },
+ {
+  "key": "nanqishu",
+  "name": "南齐书",
+  "author": "[南朝梁] 萧子显 撰",
+  "notes": "",
+  "style": "plain",
+  "count": 19
+ },
+ {
+  "key": "liangshu",
+  "name": "梁书",
+  "author": "[唐] 姚思廉 撰",
+  "notes": "",
+  "style": "plain",
+  "count": 6
+ },
+ {
+  "key": "chenshu",
+  "name": "陈书",
+  "author": "[唐] 姚思廉 撰",
+  "notes": "",
+  "style": "plain",
+  "count": 6
+ },
+ {
+  "key": "weishu",
+  "name": "魏书",
+  "author": "[北齐] 魏收 撰",
+  "notes": "",
+  "style": "plain",
+  "count": 104
+ },
+ {
+  "key": "beiqiishu",
+  "name": "北齐书",
+  "author": "[唐] 李百药 撰",
+  "notes": "",
+  "style": "plain",
+  "count": 8
+ },
+ {
+  "key": "zhoushu",
+  "name": "周书",
+  "author": "[唐] 令狐德棻 等撰",
+  "notes": "",
+  "style": "plain",
+  "count": 8
+ },
+ {
+  "key": "suishu",
+  "name": "隋书",
+  "author": "[唐] 魏征 等撰",
+  "notes": "",
+  "style": "plain",
+  "count": 35
+ },
+ {
+  "key": "nanshi",
+  "name": "南史",
+  "author": "[唐] 李延寿 撰",
+  "notes": "",
+  "style": "plain",
+  "count": 10
+ },
+ {
+  "key": "beishi",
+  "name": "北史",
+  "author": "[唐] 李延寿 撰",
+  "notes": "",
+  "style": "plain",
+  "count": 12
+ },
+ {
+  "key": "jiutangshu",
+  "name": "旧唐书",
+  "author": "[后晋] 刘昫 等撰",
+  "notes": "",
+  "style": "plain",
+  "count": 37
+ },
+ {
+  "key": "xintangshu",
+  "name": "新唐书",
+  "author": "[宋] 欧阳修 等撰",
+  "notes": "",
+  "style": "plain",
+  "count": 75
+ },
+ {
+  "key": "jiusidai",
+  "name": "旧五代史",
+  "author": "[宋] 薛居正 等撰",
+  "notes": "",
+  "style": "plain",
+  "count": 131
+ },
+ {
+  "key": "xinwudaishi",
+  "name": "新五代史",
+  "author": "[宋] 欧阳修 撰",
+  "notes": "",
+  "style": "plain",
+  "count": 71
+ },
+ {
+  "key": "songshi",
+  "name": "宋史",
+  "author": "[元] 脱脱 等撰",
+  "notes": "",
+  "style": "plain",
+  "count": 496
+ },
+ {
+  "key": "liaoshi",
+  "name": "辽史",
+  "author": "[元] 脱脱 等撰",
+  "notes": "",
+  "style": "plain",
+  "count": 116
+ },
+ {
+  "key": "jinshi",
+  "name": "金史",
+  "author": "[元] 脱脱 等撰",
+  "notes": "",
+  "style": "plain",
+  "count": 135
+ },
+ {
+  "key": "yuanshi",
+  "name": "元史",
+  "author": "[明] 宋濂 等撰",
+  "notes": "",
+  "style": "plain",
+  "count": 76
+ },
+ {
+  "key": "mingshi",
+  "name": "明史",
+  "author": "[清] 张廷玉 等撰",
+  "notes": "",
+  "style": "plain",
+  "count": 180
+ },
+ {
+  "key": "zizhitongjian",
+  "name": "资治通鉴",
+  "author": "[宋] 司马光 撰",
+  "notes": "胡三省《音注》",
+  "style": "annotated",
+  "count": 306
+ }
+]

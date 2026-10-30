@@ -19,20 +19,18 @@ body { font-family: "Noto Serif SC", "SimSun", serif; background: #f5efe0 url("d
 .nav-dropdown .dropdown-menu a:hover { background:#fff8e8; color:#a33; }
 .dropdown-hint { padding:8px 18px; font-size:12px; color:#9a8a6f; text-align:center; border-top:1px solid #eadcba; }
 .layout { display:flex; max-width:1440px; margin:0 auto; }
-.sidebar { width:290px; flex-shrink:0; position:sticky; top:63px; height:calc(100vh - 63px); overflow-y:auto; background:#faf4e4; border-right:2px solid #c9b48a; padding:18px 12px; }
+.sidebar { width:300px; flex-shrink:0; position:sticky; top:63px; height:calc(100vh - 63px); overflow-y:auto; background:#faf4e4; border-right:2px solid #c9b48a; padding:18px 12px; }
 .sidebar::-webkit-scrollbar { width:6px; }
 .sidebar::-webkit-scrollbar-thumb { background:#c9b48a; border-radius:3px; }
 .sidebar-title { font-size:16px; color:#a33; font-weight:bold; margin-bottom:10px; padding-bottom:8px; border-bottom:1px solid #c9b48a; letter-spacing:2px; text-align:center; }
-.book-switch { display:flex; gap:6px; margin-bottom:12px; }
-.book-switch button { flex:1; padding:6px; font-family:inherit; font-size:13px; border:1px solid #c9b48a; background:#fff8e8; color:#5a4a30; border-radius:3px; cursor:pointer; }
-.book-switch button.active { background:#a33; color:#fff8e8; border-color:#a33; }
+.book-select { width:100%; padding:8px 10px; font-family:inherit; font-size:14px; color:#3a2e1f; background:#fff8e8; border:1px solid #c9b48a; border-left:4px solid #a33; border-radius:3px; margin-bottom:14px; cursor:pointer; }
 .sidebar-section-title { font-size:13px; color:#7a3030; font-weight:bold; margin:12px 0 6px; padding-left:6px; border-left:3px solid #a33; }
 .sidebar a { display:block; padding:5px 8px; color:#4a3f2c; text-decoration:none; font-size:13.5px; border-radius:3px; margin-bottom:2px; line-height:1.5; }
 .sidebar a:hover { background:#fff8e8; color:#a33; }
 .sidebar a.active { background:#a33; color:#fff8e8; }
 .main { flex:1; padding:36px 52px; min-width:0; }
 .chapter-header { text-align:center; margin-bottom:28px; padding-bottom:22px; border-bottom:2px double #c9b48a; }
-.chapter-title { font-size:32px; color:#3a2e1f; font-weight:bold; letter-spacing:6px; margin-bottom:12px; font-family:"KaiTi","STKaiti",serif; }
+.chapter-title { font-size:30px; color:#3a2e1f; font-weight:bold; letter-spacing:5px; margin-bottom:12px; font-family:"KaiTi","STKaiti",serif; }
 .chapter-meta { font-size:13.5px; color:#7a6a4f; }
 .chapter-meta span { margin:0 9px; }
 .toolbar { display:flex; align-items:center; gap:14px; padding:11px 18px; background:#fff8e8; border:1px solid #d4c5a0; border-left:4px solid #a33; margin-bottom:28px; border-radius:3px; font-size:13.5px; flex-wrap:wrap; }
@@ -56,7 +54,7 @@ body.hide-notes sup.note-mark { display:none; }
 @media (max-width:920px) {
   .sidebar { display:none; }
   .main { padding:22px 18px; }
-  .chapter-title { font-size:24px; letter-spacing:3px; }
+  .chapter-title { font-size:22px; letter-spacing:3px; }
   .content { font-size:16px; line-height:1.95; }
   .navbar { gap:14px; padding:10px 14px; }
 }
@@ -80,15 +78,15 @@ body.hide-notes sup.note-mark { display:none; }
       <a href="../statistics.html">历史统计与推论（建设中）</a>
     </div>
   </div>
-  <div class="nav-dropdown"><a href="../../pages/texts/index.html" class="nav-link">正史 ▾</a>
-        <div class="dropdown-menu">
-            <a href="../../pages/texts/index.html">📖 阅读正史文本</a>
-            <a href="../../pages/texts/reader.html?book=shiji">《史记》（三家注）</a>
-            <a href="../../pages/texts/reader.html?book=zizhitongjian">《资治通鉴》（胡三省注）</a>
-            <a href="../../pages/shiji.html">《史记》本体</a>
-            <a href="../../pages/zizhitongjian.html">《资治通鉴》本体</a>
-            <div class="dropdown-hint">其余正史逐步建设中</div>
-        </div>
+  <div class="nav-dropdown"><a href="index.html" class="nav-link">正史 ▾</a>
+    <div class="dropdown-menu">
+      <a href="index.html">📖 阅读正史文本</a>
+      <a href="reader.html?book=shiji">《史记》（三家注）</a>
+      <a href="reader.html?book=zizhitongjian">《资治通鉴》（胡三省注）</a>
+      <a href="../shiji.html">《史记》本体</a>
+      <a href="../zizhitongjian.html">《资治通鉴》本体</a>
+      <div class="dropdown-hint">二十五部正史已全部上线</div>
+    </div>
   </div>
   <div class="nav-dropdown"><a href="#" class="nav-link">专题研究 ▾</a>
     <div class="dropdown-menu">
@@ -103,7 +101,7 @@ body.hide-notes sup.note-mark { display:none; }
 <div class="layout">
   <aside class="sidebar">
     <div class="sidebar-title">古籍目录</div>
-    <div class="book-switch" id="bookSwitch"></div>
+    <select class="book-select" id="bookSelect"></select>
     <div id="toc"><div class="loading">加载目录…</div></div>
   </aside>
   <main class="main">
@@ -117,13 +115,10 @@ body.hide-notes sup.note-mark { display:none; }
 </div>
 
 <script>
-const BOOKS = {
-  shiji: { name:'史记', author:'[汉] 司马迁 撰', notes:'裴骃《集解》· 司马贞《索隐》· 张守节《正义》' },
-  zizhitongjian: { name:'资治通鉴', author:'[宋] 司马光 撰', notes:'胡三省《音注》' }
-};
+let BOOKS = {};
+let bookList = [];
 const params = new URLSearchParams(location.search);
 let bookKey = params.get('book') || 'shiji';
-if (!BOOKS[bookKey]) bookKey = 'shiji';
 let curCh = parseInt(params.get('ch') || '1', 10) || 1;
 let indexData = [];
 let noteStore = [];
@@ -136,7 +131,7 @@ function esc(s){ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').rep
 
 function renderPara(p){
   let html = esc(p.text);
-  html = html.replace(/⟦(\d+)⟧/g, (m, n) => {
+  html = html.replace(/⟦(\d+)⟧/g, function(m, n){
     const idx = +n;
     const gi = noteStore.length;
     if (p.notes && p.notes[idx]) noteStore.push(p.notes[idx]);
@@ -146,40 +141,46 @@ function renderPara(p){
   return html;
 }
 
-function showBookSwitch(){
-  const el = document.getElementById('bookSwitch');
-  el.innerHTML = Object.keys(BOOKS).map(k =>
-    '<button class="' + (k === bookKey ? 'active' : '') + '" onclick="switchBook(\'' + k + '\')">' + BOOKS[k].name + '</button>'
-  ).join('');
-}
-function switchBook(k){
-  location.href = 'reader.html?book=' + k + '&ch=1';
+function renderBookSelect(){
+  const sel = document.getElementById('bookSelect');
+  sel.innerHTML = bookList.map(function(b){
+    const mark = b.style === 'annotated' ? '（带注）' : '';
+    return '<option value="' + b.key + '"' + (b.key === bookKey ? ' selected' : '') + '>《' + b.name + '》' + mark + ' · ' + b.count + '篇</option>';
+  }).join('');
+  sel.onchange = function(){ location.href = 'reader.html?book=' + this.value + '&ch=1'; };
 }
 
 function buildToc(){
   const groups = {};
   const order = [];
-  indexData.forEach(item => {
+  indexData.forEach(function(item){
     const g = item.section || '目次';
     if (!groups[g]) { groups[g] = []; order.push(g); }
     groups[g].push(item);
   });
-  // 史记固定五体顺序
-  const SORT = ['本纪','表','书','世家','列传','其他','编年'];
-  order.sort((a,b)=> (SORT.indexOf(a)<0?99:SORT.indexOf(a)) - (SORT.indexOf(b)<0?99:SORT.indexOf(b)));
+  const SORT = ['本纪','表','书','世家','列传','其他','编年','纪','传','志'];
+  order.sort(function(a,b){
+    const ia = SORT.indexOf(a) < 0 ? 99 : SORT.indexOf(a);
+    const ib = SORT.indexOf(b) < 0 ? 99 : SORT.indexOf(b);
+    return ia - ib;
+  });
   let html = '';
-  order.forEach(g => {
+  order.forEach(function(g){
     html += '<div class="sidebar-section-title">' + esc(g) + '（' + groups[g].length + '）</div>';
-    groups[g].forEach(item => {
-      const label = BOOKS[bookKey].name === '史记'
-        ? esc(item.title)
-        : esc(item.juan + ' ' + (item.title || '').replace(/^卷[^・]*・?/, ''));
+    groups[g].forEach(function(item){
+      let label;
+      if (bookKey === 'shiji') {
+        label = esc(item.title);
+      } else {
+        const t = (item.title || '').replace(/^卷[^・]*・?/, '');
+        label = esc((item.juan ? item.juan + ' ' : '') + t);
+      }
       html += '<a href="javascript:void(0)" data-ch="' + item.id + '" class="' + (item.id === curCh ? 'active' : '') + '">' + label + '</a>';
     });
   });
   tocEl.innerHTML = html;
-  tocEl.querySelectorAll('a').forEach(a => {
-    a.addEventListener('click', () => loadChapter(+a.dataset.ch));
+  tocEl.querySelectorAll('a').forEach(function(a){
+    a.addEventListener('click', function(){ loadChapter(+a.dataset.ch); });
   });
 }
 
@@ -189,30 +190,31 @@ function loadChapter(id){
   window.scrollTo(0,0);
   viewEl.innerHTML = '<div class="loading">正在加载正文…</div>';
   fetch('../../data/texts/' + bookKey + '/ch/' + String(id).padStart(4,'0') + '.json')
-    .then(r => r.json())
-    .then(ch => {
-      const meta = indexData.find(x => x.id === id) || {};
-      const b = BOOKS[bookKey];
+    .then(function(r){ return r.json(); })
+    .then(function(ch){
+      const meta = indexData.find(function(x){ return x.id === id; }) || {};
+      const b = BOOKS[bookKey] || {name:'', author:'', notes:''};
       const title = bookKey === 'shiji'
         ? (meta.juan ? meta.juan + '・' : '') + esc(meta.title)
-        : esc(meta.title || '');
+        : esc((meta.juan ? meta.juan + ' ' : '') + (meta.title || ''));
       let body = '';
-      ch.paras.forEach(p => {
+      ch.paras.forEach(function(p){
         const hasText = p.text && p.text.replace(/⟦\d+⟧/g, '').trim().length > 0;
         body += '<p class="' + (hasText ? '' : 'note-only') + '">' + renderPara(p) + '</p>';
       });
+      const noteLine = b.notes ? '<span>注：' + esc(b.notes) + '</span>' : '<span>原文（注疏建设中）</span>';
+      const toolbar = b.style === 'annotated'
+        ? '<div class="toolbar"><label>注疏显示：</label>' +
+          '<button id="btnShow" class="active">显示上标</button>' +
+          '<button id="btnHide">隐藏上标</button>' +
+          '<span class="tip">点击正文中红色数字查看注疏</span></div>'
+        : '';
       viewEl.innerHTML =
         '<div class="chapter-header">' +
           '<div class="chapter-title">' + title + '</div>' +
-          '<div class="chapter-meta"><span>' + esc(b.author) + '</span><span>注：' + esc(b.notes) + '</span>' +
+          '<div class="chapter-meta"><span>' + esc(b.author) + '</span>' + noteLine +
           '<span>共 ' + ch.paras.length + ' 段</span></div>' +
-        '</div>' +
-        '<div class="toolbar">' +
-          '<label>注疏显示：</label>' +
-          '<button id="btnShow" class="active">显示上标</button>' +
-          '<button id="btnHide">隐藏上标</button>' +
-          '<span class="tip">点击正文中红色数字查看注疏</span>' +
-        '</div>' +
+        '</div>' + toolbar +
         '<div class="content" id="content">' + body + '</div>' +
         '<div class="nav-buttons">' +
           '<a href="javascript:void(0)" id="prevBtn">← 上一篇</a>' +
@@ -220,28 +222,29 @@ function loadChapter(id){
           '<a href="javascript:void(0)" id="nextBtn">下一篇 →</a>' +
         '</div>';
       document.body.classList.remove('hide-notes');
-      document.getElementById('btnShow').onclick = function(){
-        document.body.classList.remove('hide-notes'); this.classList.add('active');
-        document.getElementById('btnHide').classList.remove('active');
-      };
-      document.getElementById('btnHide').onclick = function(){
-        document.body.classList.add('hide-notes'); this.classList.add('active');
-        document.getElementById('btnShow').classList.remove('active');
-        popup.style.display = 'none';
-      };
+      if (document.getElementById('btnShow')) {
+        document.getElementById('btnShow').onclick = function(){
+          document.body.classList.remove('hide-notes'); this.classList.add('active');
+          document.getElementById('btnHide').classList.remove('active');
+        };
+        document.getElementById('btnHide').onclick = function(){
+          document.body.classList.add('hide-notes'); this.classList.add('active');
+          document.getElementById('btnShow').classList.remove('active');
+          popup.style.display = 'none';
+        };
+      }
       const prev = document.getElementById('prevBtn');
       const next = document.getElementById('nextBtn');
-      if (id > 1) prev.onclick = () => loadChapter(id - 1); else prev.style.opacity = .4;
-      if (id < indexData.length) next.onclick = () => loadChapter(id + 1); else next.style.opacity = .4;
-      document.getElementById('tocBtn').onclick = () => { document.querySelector('.sidebar').scrollIntoView(); };
+      if (id > 1) prev.onclick = function(){ loadChapter(id - 1); }; else prev.style.opacity = .4;
+      if (id < indexData.length) next.onclick = function(){ loadChapter(id + 1); }; else next.style.opacity = .4;
+      document.getElementById('tocBtn').onclick = function(){ document.querySelector('.sidebar').scrollIntoView(); };
       history.replaceState(null, '', 'reader.html?book=' + bookKey + '&ch=' + id);
-      // 高亮目录
-      tocEl.querySelectorAll('a').forEach(a => a.classList.toggle('active', +a.dataset.ch === id));
+      tocEl.querySelectorAll('a').forEach(function(a){ a.classList.toggle('active', +a.dataset.ch === id); });
       document.getElementById('content').addEventListener('click', onContentClick);
       const active = tocEl.querySelector('a.active');
       if (active) active.scrollIntoView({block:'nearest'});
     })
-    .catch(e => { viewEl.innerHTML = '<div class="loading">正文加载失败：' + esc(e.message) + '</div>'; });
+    .catch(function(e){ viewEl.innerHTML = '<div class="loading">正文加载失败：' + esc(e.message) + '</div>'; });
 }
 
 function onContentClick(e){
@@ -261,15 +264,22 @@ function onContentClick(e){
   popup.style.left = left + 'px';
 }
 
-document.addEventListener('click', e => {
+document.addEventListener('click', function(e){
   if (!e.target.closest('.note-popup') && !e.target.closest('.note-mark')) popup.style.display = 'none';
 });
 
-showBookSwitch();
-fetch('../../data/texts/' + bookKey + '/index.json')
-  .then(r => r.json())
-  .then(idx => { indexData = idx; buildToc(); loadChapter(curCh); })
-  .catch(e => { tocEl.innerHTML = '<div class="loading">目录加载失败</div>'; });
+fetch('../../data/texts/books.json')
+  .then(function(r){ return r.json(); })
+  .then(function(list){
+    bookList = list;
+    list.forEach(function(b){ BOOKS[b.key] = b; });
+    if (!BOOKS[bookKey]) bookKey = list[0].key;
+    renderBookSelect();
+    return fetch('../../data/texts/' + bookKey + '/index.json');
+  })
+  .then(function(r){ return r.json(); })
+  .then(function(idx){ indexData = idx; buildToc(); loadChapter(curCh); })
+  .catch(function(e){ tocEl.innerHTML = '<div class="loading">目录加载失败</div>'; });
 </script>
 </body>
 </html>
