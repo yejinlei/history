@@ -1,0 +1,100 @@
+{
+  "book": "shiji",
+  "book_name": "史记",
+  "chapter": "秦楚之際月表第四",
+  "juan": "卷十六",
+  "annotations": [
+    {
+      "para_id": "p0",
+      "text": "〔索隱〕張晏曰：「時天下未定，參錯變易，不可以年記，故列其月。」今案秦楚之際，擾攘僭篡，運數又促，故以月紀事名表也。",
+      "entities": [
+        {"id": "p-zhang-yan", "name": "張晏", "type": "人物", "start": 4, "end": 6},
+        {"id": "i-yue-biao-ti-li", "name": "月", "type": "体例", "start": 29, "end": 30},
+        {"id": "i-yue-biao-ti-li", "name": "月", "type": "体例", "start": 51, "end": 52}
+      ]
+    },
+    {
+      "para_id": "p1",
+      "text": "太史公讀秦楚之際，曰：初作難，發於陳涉；虐戾滅秦，自項氏；撥亂誅暴，平定海內，卒踐帝祚，成於漢家。五年之間，號令三嬗。自生民以來，未始有受命若斯之亟也。",
+      "entities": [
+        {"id": "p-sima-qian", "name": "太史公", "type": "人物", "start": 0, "end": 3},
+        {"id": "e-chen-she-qi-yi", "name": "初作難", "type": "事件", "start": 11, "end": 14},
+        {"id": "p-chen-she", "name": "陳涉", "type": "人物", "start": 17, "end": 19},
+        {"id": "e-xiang-yu-mie-qin", "name": "虐戾滅秦", "type": "事件", "start": 20, "end": 24},
+        {"id": "p-xiang-yu", "name": "項氏", "type": "人物", "start": 26, "end": 28},
+        {"id": "e-liu-bang-cheng-di", "name": "卒踐帝祚", "type": "事件", "start": 39, "end": 43},
+        {"id": "p-liu-bang", "name": "漢家", "type": "政权/人物", "start": 46, "end": 48},
+        {"id": "i-hao-ling-san-shan", "name": "號令三嬗", "type": "思想概念", "start": 54, "end": 58}
+      ]
+    },
+    {
+      "para_id": "p2",
+      "text": "昔虞、夏之興，積善累功數十年，德洽百姓，攝行政事，考之于天，然後在位。湯、武之王，乃由契、后稷修仁行義十餘世，不期而會孟津八百諸侯，猶以爲未可，其後乃放弒。秦起襄公，章於文、繆，獻、孝之後，稍以蠶食六國，百有餘載，至始皇乃能并冠帶之倫。以德若彼，用力如此，蓋一統若斯之難也。",
+      "entities": [
+        {"id": "p-yu-shun", "name": "虞", "type": "人物", "start": 1, "end": 2},
+        {"id": "p-xia-yu", "name": "夏", "type": "人物", "start": 3, "end": 4},
+        {"id": "p-shang-tang", "name": "湯", "type": "人物", "start": 35, "end": 36},
+        {"id": "p-zhou-wu-wang", "name": "武", "type": "人物", "start": 37, "end": 38},
+        {"id": "p-xie", "name": "契", "type": "人物", "start": 43, "end": 44},
+        {"id": "p-hou-ji", "name": "后稷", "type": "人物", "start": 45, "end": 47},
+        {"id": "pl-meng-jin", "name": "孟津", "type": "地名", "start": 59, "end": 61},
+        {"id": "e-meng-jin-zhi-hui", "name": "孟津八百諸侯", "type": "事件", "start": 59, "end": 65},
+        {"id": "e-tang-wu-fang-shi", "name": "放弒", "type": "事件", "start": 75, "end": 77},
+        {"id": "p-qin-xiang-gong", "name": "襄公", "type": "人物", "start": 80, "end": 82},
+        {"id": "p-qin-wen-gong", "name": "文", "type": "人物", "start": 85, "end": 86},
+        {"id": "p-qin-mu-gong", "name": "繆", "type": "人物", "start": 87, "end": 88},
+        {"id": "p-qin-xian-gong", "name": "獻", "type": "人物", "start": 89, "end": 90},
+        {"id": "p-qin-xiao-gong", "name": "孝", "type": "人物", "start": 91, "end": 92},
+        {"id": "p-qin-shi-huang", "name": "始皇", "type": "人物", "start": 108, "end": 110},
+        {"id": "e-qin-bing-liu-guo", "name": "并冠帶之倫", "type": "事件", "start": 112, "end": 117}
+      ]
+    },
+    {
+      "para_id": "p3",
+      "text": "秦旣稱帝，患兵革不休，以有諸侯也，於是無尺土之封，墮壞名城，銷鋒鏑，鉏豪桀，維萬世之安。然王跡之興，起於閭巷，合從討伐，軼於三代，鄉秦之禁，適足以資賢者爲驅除難耳。故憤發其所爲天下雄，安在無土不王。此乃傳之所謂大聖乎？豈非天哉，豈非天哉！非大聖孰能當此受命而帝者乎？",
+      "entities": [
+        {"id": "p-qin-shi-huang", "name": "秦旣稱帝", "type": "人物/事件", "start": 0, "end": 4},
+        {"id": "i-bu-yi-tian-zi", "name": "無尺土之封", "type": "概念", "start": 19, "end": 24},
+        {"id": "e-qin-fei-fen-feng", "name": "墮壞名城", "type": "事件", "start": 25, "end": 29},
+        {"id": "e-qin-fei-fen-feng", "name": "銷鋒鏑", "type": "事件", "start": 30, "end": 33},
+        {"id": "e-qin-fei-fen-feng", "name": "鉏豪桀", "type": "事件", "start": 34, "end": 37},
+        {"id": "i-lv-xiang-bu-yi", "name": "閭巷", "type": "概念/地名", "start": 52, "end": 54},
+        {"id": "i-qu-chu-nan", "name": "驅除難", "type": "思想概念", "start": 77, "end": 80},
+        {"id": "i-wu-tu-bu-wang", "name": "無土不王", "type": "思想概念", "start": 94, "end": 98},
+        {"id": "p-liu-bang", "name": "大聖", "type": "人物（指汉高祖）", "start": 105, "end": 107},
+        {"id": "i-tian-ming-shi-guan", "name": "豈非天哉", "type": "思想概念", "start": 109, "end": 113},
+        {"id": "i-tian-ming-shi-guan", "name": "豈非天哉", "type": "思想概念", "start": 114, "end": 118},
+        {"id": "p-liu-bang", "name": "大聖", "type": "人物（指汉高祖）", "start": 120, "end": 122}
+      ]
+    },
+    {
+      "para_id": "p4",
+      "text": "索隱述贊曰：秦失其鹿，羣雄競逐。狐鳴楚祠，龍興沛谷。武臣自王，魏豹必復。田儋據齊，英布居六。項王主命，義帝見戮。以月繫年，道悠運速。洶洶天下，瞻烏誰屋？真人霸上，卒享天祿。",
+      "entities": [
+        {"id": "p-chen-she", "name": "狐鳴楚祠", "type": "事件/人物", "start": 16, "end": 20},
+        {"id": "p-liu-bang", "name": "龍興沛谷", "type": "事件/人物", "start": 21, "end": 25},
+        {"id": "pl-pei", "name": "沛谷", "type": "地名", "start": 23, "end": 25},
+        {"id": "p-wu-chen", "name": "武臣", "type": "人物", "start": 26, "end": 28},
+        {"id": "p-wei-bao", "name": "魏豹", "type": "人物", "start": 31, "end": 33},
+        {"id": "p-tian-dan", "name": "田儋", "type": "人物", "start": 36, "end": 38},
+        {"id": "p-ying-bu", "name": "英布", "type": "人物", "start": 41, "end": 43},
+        {"id": "p-xiang-yu", "name": "項王", "type": "人物", "start": 46, "end": 48},
+        {"id": "p-yi-di", "name": "義帝", "type": "人物", "start": 51, "end": 53},
+        {"id": "e-yi-di-jian-lu", "name": "義帝見戮", "type": "事件", "start": 51, "end": 55},
+        {"id": "i-yue-biao-ti-li", "name": "以月繫年", "type": "体例", "start": 56, "end": 60},
+        {"id": "p-liu-bang", "name": "真人", "type": "人物（指汉高祖）", "start": 76, "end": 78},
+        {"id": "pl-ba-shang", "name": "霸上", "type": "地名", "start": 78, "end": 80}
+      ]
+    },
+    {
+      "para_id": "p7",
+      "text": "葛嬰爲涉徇九江，立襄彊爲楚王。",
+      "entities": [
+        {"id": "p-ge-ying", "name": "葛嬰", "type": "人物", "start": 0, "end": 2},
+        {"id": "p-chen-she", "name": "涉", "type": "人物", "start": 3, "end": 4},
+        {"id": "pl-jiu-jiang", "name": "九江", "type": "地名", "start": 5, "end": 7},
+        {"id": "p-xiang-qiang", "name": "襄彊", "type": "人物", "start": 9, "end": 11}
+      ]
+    }
+  ]
+}

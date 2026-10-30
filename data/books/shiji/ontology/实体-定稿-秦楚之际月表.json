@@ -1,0 +1,409 @@
+{
+  "book": "shiji",
+  "book_name": "史记",
+  "chapter": "秦楚之際月表第四",
+  "juan": "卷十六",
+  "tili": "biao",
+  "persons": [
+    {
+      "id": "p-sima-qian",
+      "name": "司马迁",
+      "alias": "太史公",
+      "role": "作者",
+      "description": "《史记》作者，本表序文以'太史公读秦楚之际'自述读史感慨，提出'初作难发于陈涉，虐戾灭秦自项氏，拨乱诛暴成于汉家'的三段功业论，并感叹刘邦布衣称帝'岂非天哉'。",
+      "evidence": ["p1", "p2", "p3"]
+    },
+    {
+      "id": "p-chen-she",
+      "name": "陈涉",
+      "alias": "陈胜",
+      "role": "秦末农民起义领袖、张楚王",
+      "description": "秦二世元年七月在大泽乡首发起义，称王六个月而败亡。太史公以'初作难，发于陈涉'肯定其首难之功，是'号令三嬗'中的第一嬗。",
+      "evidence": ["p1", "p4"]
+    },
+    {
+      "id": "p-xiang-yu",
+      "name": "项羽",
+      "alias": "项籍、项氏、项王",
+      "role": "西楚霸王",
+      "description": "继陈涉之后起兵反秦，以武力灭秦，分封十八诸侯，自立为西楚霸王，后被刘邦击败。太史公以'虐戾灭秦，自项氏'评其灭秦之功与暴虐之失，是'号令三嬗'中的第二嬗。",
+      "evidence": ["p1", "p4"]
+    },
+    {
+      "id": "p-liu-bang",
+      "name": "刘邦",
+      "alias": "汉高祖、沛公、汉王、高帝、真人",
+      "role": "汉朝开国皇帝",
+      "description": "起于闾巷，无尺土之封，五年而成帝业，拨乱诛暴，平定海内，是'号令三嬗'中的第三嬗。太史公两叹'岂非天哉'，以'大圣'称之。",
+      "evidence": ["p1", "p3", "p4"]
+    },
+    {
+      "id": "p-qin-er-shi",
+      "name": "秦二世",
+      "alias": "胡亥",
+      "role": "秦朝末代皇帝",
+      "description": "本表记事起始为秦二世元年（前209年）七月陈涉起义，秦二世在位三年被赵高所杀。",
+      "evidence": ["p0", "p1"]
+    },
+    {
+      "id": "p-yu-shun",
+      "name": "虞舜",
+      "alias": "舜",
+      "role": "上古帝王",
+      "description": "序以虞夏之兴积善累功数十年为例，反衬刘邦受命之亟。舜受尧禅，在璇玑玉衡以齐七政。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "p-xia-yu",
+      "name": "夏禹",
+      "alias": "禹、夏禹",
+      "role": "夏朝奠基者",
+      "description": "序以虞夏之兴积善累功数十年为例，禹修德使百姓归顺，为夏朝奠定基础。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "p-shang-tang",
+      "name": "商汤",
+      "alias": "汤、成汤",
+      "role": "商朝开国之君",
+      "description": "从契始修仁行义十余世，汤放桀于南巢，建立商朝。序以汤武之王修行义十余世为对比。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "p-zhou-wu-wang",
+      "name": "周武王",
+      "alias": "武、武王",
+      "role": "西周开国之君",
+      "description": "从后稷始修仁行义十余世，武王伐纣，会孟津八百诸侯，建立周朝。序以汤武为积德久远之王典范。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "p-xie",
+      "name": "契",
+      "role": "商朝始祖",
+      "description": "商族始祖，为舜司徒，封于商；自契至汤十余世修仁行义。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "p-hou-ji",
+      "name": "后稷",
+      "role": "周朝始祖",
+      "description": "周族始祖，名弃，为舜农官，封于邰；自后稷至武王十余世修仁行义。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "p-qin-xiang-gong",
+      "name": "秦襄公",
+      "role": "秦国始封诸侯之君",
+      "description": "秦之建国始于襄公，因护送周平王东迁有功始封为诸侯。序以'秦起襄公'为秦兴国之始。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "p-qin-wen-gong",
+      "name": "秦文公",
+      "role": "秦国国君",
+      "description": "襄公之子，越过陇山驱逐夷狄，经营岐雍之地，使秦在西方站稳脚跟。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "p-qin-mu-gong",
+      "name": "秦缪公",
+      "alias": "秦穆公",
+      "role": "春秋五霸之一",
+      "description": "秦国在缪公时修政强兵，东扩至黄河，称霸西戎，是秦'章于文、缪'的重要阶段。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "p-qin-xian-gong",
+      "name": "秦献公",
+      "role": "秦国国君",
+      "description": "献公以后秦国逐渐蚕食六国，是秦由弱转强的重要节点。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "p-qin-xiao-gong",
+      "name": "秦孝公",
+      "role": "秦国国君",
+      "description": "孝公用商鞅变法，秦国大强，为日后统一奠定基础。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "p-qin-shi-huang",
+      "name": "秦始皇",
+      "alias": "始皇",
+      "role": "秦朝开国皇帝",
+      "description": "经过百余年蚕食六国，至始皇最终并吞天下、号称皇帝；称帝后废分封、堕名城、销锋镝，自以为万世之安。",
+      "evidence": ["p2", "p3"]
+    },
+    {
+      "id": "p-yi-di",
+      "name": "义帝",
+      "alias": "楚怀王心、楚怀王孙心",
+      "role": "楚国王室后裔、项羽所立名义共主",
+      "description": "楚怀王之孙名心，被项梁求得立为楚王，后被项羽尊为义帝，终为项羽所杀（'义帝见戮'）。",
+      "evidence": ["p4"]
+    },
+    {
+      "id": "p-zhang-yan",
+      "name": "张晏",
+      "role": "三国魏学者、《汉书》注家",
+      "description": "《索隐》引其言'时天下未定，参错变易，不可以年记，故列其月'，是解释月表体例的最早权威注释。",
+      "evidence": ["p0"]
+    },
+    {
+      "id": "p-wu-chen",
+      "name": "武臣",
+      "role": "秦末起义将领、赵王",
+      "description": "陈涉部将，略定赵地后自立为赵王，后被部将李良所杀（'武臣自王'）。",
+      "evidence": ["p4"]
+    },
+    {
+      "id": "p-wei-bao",
+      "name": "魏豹",
+      "role": "魏王",
+      "description": "战国魏之后，秦末复国为魏王，'魏豹必复'指其恢复魏国社稷。",
+      "evidence": ["p4"]
+    },
+    {
+      "id": "p-tian-dan",
+      "name": "田儋",
+      "role": "齐王",
+      "description": "齐国田氏后裔，秦末杀狄令自立为齐王，据有齐地（'田儋据齐'）。",
+      "evidence": ["p4"]
+    },
+    {
+      "id": "p-ying-bu",
+      "name": "英布",
+      "alias": "黥布",
+      "role": "九江王、汉初名将",
+      "description": "秦末起义将领，初属项羽，后归汉，封淮南王；述赞称'英布居六'，六为其起兵之地。",
+      "evidence": ["p4"]
+    },
+    {
+      "id": "p-ge-ying",
+      "name": "葛婴",
+      "alias": "葛嬰",
+      "role": "陈涉部将",
+      "description": "陈涉初起时的部将，曾为陈涉徇九江，后因擅立襄彊为楚王被陈涉所诛。",
+      "evidence": ["p7"]
+    },
+    {
+      "id": "p-xiang-qiang",
+      "name": "襄强",
+      "alias": "襄彊",
+      "role": "葛婴所立楚王",
+      "description": "葛婴徇九江时所立之楚王，后陈涉称王，陈婴闻之即杀襄彊（一说葛婴闻陈涉王而杀之）。",
+      "evidence": ["p7"]
+    }
+  ],
+  "places": [
+    {
+      "id": "pl-pei",
+      "name": "沛",
+      "type": "县邑/龙兴之地",
+      "description": "沛县，今江苏沛县，刘邦起兵之地，述赞所谓'龙兴沛谷'。",
+      "evidence": ["p4"]
+    },
+    {
+      "id": "pl-da-ze-xiang",
+      "name": "大泽乡",
+      "type": "起义地点",
+      "description": "今安徽宿州东南，秦二世元年七月陈涉、吴广在此起义（'狐鸣楚祠'之地），是本表记事的起点。",
+      "evidence": ["p4"]
+    },
+    {
+      "id": "pl-jiu-jiang",
+      "name": "九江",
+      "type": "秦郡",
+      "description": "秦郡名，治所在寿春（今安徽寿县），葛婴曾为陈涉徇九江地。",
+      "evidence": ["p7"]
+    },
+    {
+      "id": "pl-guan-zhong",
+      "name": "关中",
+      "type": "地域",
+      "description": "函谷关以西秦之腹地，今陕西中部；项羽入关屠咸阳、刘邦先入定关中。",
+      "evidence": ["p4"]
+    },
+    {
+      "id": "pl-ba-shang",
+      "name": "霸上",
+      "type": "军事要地",
+      "description": "又作灞上，在今陕西西安东灞桥区白鹿原一带，刘邦入咸阳后还军霸上，述赞所谓'真人霸上'。",
+      "evidence": ["p4"]
+    },
+    {
+      "id": "pl-feng-hao",
+      "name": "丰镐",
+      "type": "西周故都",
+      "description": "文王都丰、武王都镐，在今陕西西安长安区一带，序以汤武以此伐殷为兴王之典范。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "pl-yong-zhou",
+      "name": "雍州",
+      "type": "州域",
+      "description": "古九州之一，约当今陕西及甘肃东部一带，秦据雍州而兴帝业。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "pl-long",
+      "name": "陇",
+      "type": "山名",
+      "description": "陇山，今陕西、甘肃交界之六盘山南段；秦文公越过陇山东进。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "pl-qi-shan",
+      "name": "岐山",
+      "type": "山名/地域",
+      "description": "岐山，在今陕西岐山一带；秦文公经营岐雍之间，是秦东进的重要基地。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "pl-lv-xiang",
+      "name": "閭巷",
+      "type": "泛指（平民所居里巷）",
+      "description": "里巷之门，代指民间平民所居之处，非专名地名；'王迹之兴，起于闾巷'指刘邦起于布衣平民。",
+      "evidence": ["p3"]
+    },
+    {
+      "id": "pl-meng-jin",
+      "name": "孟津",
+      "type": "古渡/会盟之地",
+      "description": "又作盟津，在今河南孟津一带黄河渡口，周武王伐纣时不期而会八百诸侯于此。",
+      "evidence": ["p2"]
+    }
+  ],
+  "events": [
+    {
+      "id": "e-chen-she-qi-yi",
+      "name": "陈涉起义（大泽乡起义）",
+      "time": "秦二世元年七月（前209年）",
+      "description": "陈涉、吴广在大泽乡揭竿而起，天下响应，是秦末农民大起义的开端，也是'初作难'之始。",
+      "evidence": ["p1", "p4"]
+    },
+    {
+      "id": "e-xiang-yu-mie-qin",
+      "name": "项羽灭秦",
+      "time": "前207年—前206年",
+      "description": "项羽率楚军救赵，巨鹿之战大破秦军主力，后入咸阳杀子婴、屠烧咸阳，分封诸侯，以武力完成灭秦。",
+      "evidence": ["p1", "p4"]
+    },
+    {
+      "id": "e-chu-han-zhi-zheng",
+      "name": "楚汉战争",
+      "time": "前206年—前202年",
+      "description": "项羽分封后，刘邦与项羽争夺天下的战争，历时五年，最终刘邦在垓下击败项羽，统一天下。",
+      "evidence": ["p1", "p4"]
+    },
+    {
+      "id": "e-liu-bang-cheng-di",
+      "name": "刘邦称帝",
+      "time": "汉高祖五年（前202年）二月",
+      "description": "刘邦在定陶氾水之阳即皇帝位，建立汉朝，完成'卒践帝祚'。",
+      "evidence": ["p1", "p3", "p4"]
+    },
+    {
+      "id": "e-qin-fei-fen-feng",
+      "name": "秦废分封、销锋镝",
+      "time": "秦统一后（前221年以后）",
+      "description": "秦称帝后不封尺土之侯、堕坏名城、销毁兵器（铸金人十二）、铲除豪杰，自以为维万世之安，结果适足以资贤者驱除难。",
+      "evidence": ["p3"]
+    },
+    {
+      "id": "e-tang-wu-fang-shi",
+      "name": "汤武放弑（汤放桀、武王诛纣）",
+      "time": "上古",
+      "description": "商汤放逐夏桀于南巢、周武王伐纣而纣死，即所谓'汤武革命'；序以其修行义十余世始成，反衬刘邦受命之亟。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "e-meng-jin-zhi-hui",
+      "name": "孟津之会",
+      "time": "周武王伐纣时",
+      "description": "周武王伐纣，未邀约而自动会于孟津的诸侯有八百，武王仍以为时机未可，还师；后始伐纣。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "e-qin-bing-liu-guo",
+      "name": "秦并天下",
+      "time": "秦始皇二十六年（前221年）",
+      "description": "秦自襄公起历百有余年，至始皇终于并吞六国、一统天下，序以此为'用力如此'之难的典型。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "e-yi-di-jian-lu",
+      "name": "义帝见戮",
+      "time": "汉元年（前206年）或二年",
+      "description": "项羽尊楚怀王心为义帝，旋即命人击杀义帝于江中，'义帝见戮'为述赞所叙项羽失德之事。",
+      "evidence": ["p4"]
+    }
+  ],
+  "institutions": [
+    {
+      "id": "i-yue-biao-ti-li",
+      "name": "月表体例",
+      "type": "史书体例",
+      "description": "《史记》十表中唯此一表以月纪事。因秦楚之际'天下未定，参错变易，不可以年记'，故按月排列大事，精确反映月际之间的政权变动。此体例在中国正史中为司马迁独创。",
+      "evidence": ["p0"]
+    },
+    {
+      "id": "i-hao-ling-san-shan",
+      "name": "号令三嬗",
+      "type": "历史分期概念",
+      "description": "秦楚之际五年之间，发号施令者三次更替：陈涉→项羽→刘邦。'嬗'通'禅'，意为更替、传递。此概念精准概括了秦汉易代之际政权转移的三阶段。",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "i-wu-tu-bu-wang",
+      "name": "无土不王",
+      "type": "政治俗语/观念",
+      "description": "汉代流行的政治俗语，意为没有封地就不能称王。《白虎通》所谓'圣人无土不王'。刘邦以布衣无尺土之封而称帝，打破了这一古训。",
+      "evidence": ["p3"]
+    },
+    {
+      "id": "i-tian-ming-shi-guan",
+      "name": "天命史观",
+      "type": "历史观念",
+      "description": "太史公面对刘邦五年之间从布衣成帝业这一前所未有的历史变局，两叠'岂非天哉'，将其归结于天命，但同时以'大圣''愤发所为天下雄'肯定人的作为。",
+      "evidence": ["p3"]
+    },
+    {
+      "id": "i-bu-yi-tian-zi",
+      "name": "布衣天子",
+      "type": "政治格局/历史变局",
+      "description": "刘邦起于闾巷、无尺土之封，以平民身份登上帝位，开创了中国历史上'布衣天子'的先例，打破了'无土不王'和'世卿世禄'的贵族政治传统。",
+      "evidence": ["p3"]
+    },
+    {
+      "id": "i-qu-chu-nan",
+      "name": "驱除难",
+      "type": "历史辩证法概念",
+      "description": "'乡秦之禁，适足以资贤者为驱除难耳'，意为前朝的集权与暴政客观上为后来者扫清了障碍，是司马迁最具辩证色彩的历史哲学命题。",
+      "evidence": ["p3"]
+    },
+    {
+      "id": "i-lv-xiang-bu-yi",
+      "name": "闾巷（布衣）",
+      "type": "社会阶层概念",
+      "description": "里巷之门，代指民间平民。'王迹之兴，起于闾巷'即言王者之兴起于平民之间，与'无尺土之封'共同构成'布衣天子'的社会背景。",
+      "evidence": ["p3"]
+    }
+  ],
+  "relations": [
+    {"from": "p-chen-she", "to": "e-chen-she-qi-yi", "type": "发起", "description": "陈涉在大泽乡首发起义，是'初作难'者。"},
+    {"from": "p-xiang-yu", "to": "e-xiang-yu-mie-qin", "type": "主导", "description": "项羽以武力灭秦，是'虐戾灭秦'者。"},
+    {"from": "p-liu-bang", "to": "e-chu-han-zhi-zheng", "type": "获胜", "description": "刘邦在楚汉战争中击败项羽，最终统一天下。"},
+    {"from": "p-liu-bang", "to": "e-liu-bang-cheng-di", "type": "称帝", "description": "刘邦于前202年称帝，建立汉朝，完成'卒践帝祚'。"},
+    {"from": "i-hao-ling-san-shan", "to": "p-chen-she", "type": "第一嬗", "description": "陈涉首难称王，号令一出陈涉。"},
+    {"from": "i-hao-ling-san-shan", "to": "p-xiang-yu", "type": "第二嬗", "description": "项羽灭秦分封，政由羽出。"},
+    {"from": "i-hao-ling-san-shan", "to": "p-liu-bang", "type": "第三嬗", "description": "刘邦平定天下称帝，号令归于汉家。"},
+    {"from": "e-qin-fei-fen-feng", "to": "i-qu-chu-nan", "type": "构成例证", "description": "秦废分封、销锋镝等措施客观上为汉驱除患难，是'驱除难'的具体史实。"},
+    {"from": "i-bu-yi-tian-zi", "to": "i-wu-tu-bu-wang", "type": "打破", "description": "刘邦布衣称帝打破了'无土不王'的传统观念。"},
+    {"from": "i-bu-yi-tian-zi", "to": "i-tian-ming-shi-guan", "type": "引发", "description": "布衣天子这种亘古未有之变局，引发太史公'岂非天哉'的天命感叹。"},
+    {"from": "i-yue-biao-ti-li", "to": "p-zhang-yan", "type": "解释", "description": "张晏最早解释月表体例设立之由。"},
+    {"from": "p-yi-di", "to": "e-yi-di-jian-lu", "type": "被弑", "description": "义帝被项羽所杀。"},
+    {"from": "p-wu-chen", "to": "p-wei-bao", "type": "并列", "description": "武臣、魏豹、田儋、英布为索隐述赞所举秦楚之际各路诸侯王。"}
+  ]
+}
