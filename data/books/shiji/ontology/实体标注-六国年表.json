@@ -1,0 +1,89 @@
+{
+  "book": "shiji",
+  "book_name": "史记",
+  "chapter": "六國年表第三",
+  "juan": "卷十五",
+  "annotations": [
+    {
+      "para_id": "p0",
+      "text": "〔索隱〕六國乃魏、韓、趙、楚、燕、齊，并秦凡七國，號曰「七雄」。",
+      "entities": [
+        {"id": "st-wei", "name": "魏", "type": "诸侯国", "start": 7, "end": 8},
+        {"id": "st-han", "name": "韓", "type": "诸侯国", "start": 9, "end": 10},
+        {"id": "st-zhao", "name": "趙", "type": "诸侯国", "start": 11, "end": 12},
+        {"id": "st-chu", "name": "楚", "type": "诸侯国", "start": 13, "end": 14},
+        {"id": "st-yan", "name": "燕", "type": "诸侯国", "start": 15, "end": 16},
+        {"id": "st-qi", "name": "齊", "type": "诸侯国", "start": 17, "end": 18},
+        {"id": "st-qin", "name": "秦", "type": "诸侯国", "start": 21, "end": 22},
+        {"id": "i-zhanguo-qixiong", "name": "七雄", "type": "政治格局", "start": 30, "end": 32}
+      ]
+    },
+    {
+      "para_id": "p1",
+      "text": "太史公讀秦記，至犬戎敗幽王，周東徙洛邑，秦襄公始封爲諸侯，作西畤用事上帝，僭端見矣。禮曰：「天子祭天地，諸侯祭其域內名山大川。」今秦雜戎翟之俗，先暴戾，後仁義，位在藩臣而臚於郊祀，君子懼焉。及文公踰隴，攘夷狄，尊陳寶，營岐雍之間，而穆公脩政，東竟至河，則與齊桓、晉文中國侯伯侔矣。是後陪臣執政，大夫世祿，六卿擅晉權，征伐會盟，威重於諸侯。及田常殺簡公而相齊國，諸侯晏然弗討，海內爭於戰功矣。三國終之卒分晉，田和亦滅齊而有之，六國之盛自此始。務在彊兵并敵，謀詐用而從衡短長之說起。矯稱蠭出，誓盟不信，雖置質剖符猶不能約束也。秦始小國僻遠，諸夏賔之，比於戎翟，至獻公之後常雄諸侯。論秦之德義不如魯衞之暴戾者，量秦之兵不如三晉之彊也，然卒并天下，非必險固便形埶利也，蓋若天所助焉。",
+      "entities": [
+        {"id": "p-sima-qian", "name": "太史公", "type": "人物", "start": 0, "end": 3},
+        {"id": "d-qin-ji-doc", "name": "秦記", "type": "文献", "start": 4, "end": 6},
+        {"id": "e-quan-rong-you-wang", "name": "犬戎敗幽王", "type": "事件", "start": 8, "end": 13},
+        {"id": "p-zhou-you-wang", "name": "幽王", "type": "人物", "start": 11, "end": 13},
+        {"id": "e-ping-wang-dong-qian", "name": "周東徙洛邑", "type": "事件", "start": 14, "end": 19},
+        {"id": "pl-luo-yi", "name": "洛邑", "type": "地名", "start": 17, "end": 19},
+        {"id": "p-qin-xiang-gong", "name": "秦襄公", "type": "人物", "start": 20, "end": 23},
+        {"id": "e-qin-shi-feng", "name": "始封爲諸侯", "type": "事件", "start": 23, "end": 29},
+        {"id": "pl-xi-zhi", "name": "西畤", "type": "祭祀场所", "start": 31, "end": 33},
+        {"id": "p-qin-wen-gong", "name": "文公", "type": "人物", "start": 102, "end": 104},
+        {"id": "pl-long", "name": "隴", "type": "山名", "start": 105, "end": 106},
+        {"id": "pl-chen-bao", "name": "陳寶", "type": "祭祀场所", "start": 112, "end": 114},
+        {"id": "pl-qi", "name": "岐", "type": "山名", "start": 117, "end": 118}
+      ]
+    },
+    {
+      "para_id": "p2",
+      "text": "或曰「東方物所始生，西方物之成孰」。夫作事者必於東南，收功實者常於西北。故禹興於西羌，湯起于亳，周之王也以豐鎬伐殷，秦之帝用雍州興，漢之興自蜀漢。",
+      "entities": [
+        {"id": "p-yu", "name": "禹", "type": "人物", "start": 28, "end": 29},
+        {"id": "pl-xi-qiang", "name": "西羌", "type": "地域", "start": 32, "end": 34},
+        {"id": "p-tang", "name": "湯", "type": "人物", "start": 36, "end": 37},
+        {"id": "pl-bo", "name": "亳", "type": "都邑", "start": 40, "end": 41},
+        {"id": "pl-feng-hao", "name": "豐鎬", "type": "都邑", "start": 49, "end": 51},
+        {"id": "pl-yong-zhou", "name": "雍州", "type": "州域", "start": 59, "end": 61},
+        {"id": "pl-shu-han", "name": "蜀漢", "type": "地域", "start": 67, "end": 69}
+      ]
+    },
+    {
+      "para_id": "p3",
+      "text": "秦旣得意，燒天下詩書，諸侯史記尤甚，爲其有所刺譏也。詩書所以復見者，多藏人家，而史記獨藏周室，以故滅。惜哉，惜哉！獨有秦記，又不載日月，其文略不具。然戰國之權變亦有可頗采者，何必上古。秦取天下多暴，然世異變，成功大。傳曰「法後王」，何也？以其近己而俗變相類，議卑而易行也。學者牽於所聞，見秦在帝位日淺，不察其終始，因舉而笑之，不敢道，此與以耳食無異。悲夫！",
+      "entities": [
+        {"id": "e-fen-shu-keng-ru", "name": "燒天下詩書", "type": "事件", "start": 5, "end": 11},
+        {"id": "d-shi-jing", "name": "詩", "type": "文献", "start": 8, "end": 9},
+        {"id": "d-shang-shu", "name": "書", "type": "文献", "start": 9, "end": 10},
+        {"id": "d-qin-ji-doc", "name": "秦記", "type": "文献", "start": 55, "end": 57},
+        {"id": "e-qin-bing-tian-xia", "name": "秦取天下", "type": "事件", "start": 85, "end": 89},
+        {"id": "i-shi-yi-bian", "name": "世異變，成功大", "type": "思想概念", "start": 92, "end": 99},
+        {"id": "i-fa-hou-wang", "name": "法後王", "type": "思想概念", "start": 104, "end": 107},
+        {"id": "p-xun-zi", "name": "傳", "type": "文献/学派", "start": 100, "end": 101}
+      ]
+    },
+    {
+      "para_id": "p4",
+      "text": "余於是因秦記，踵春秋之後，起周元王，表六國時事，訖二世，凡二百七十年，著諸所聞興壞之端。後有君子，以覽觀焉。",
+      "entities": [
+        {"id": "p-sima-qian", "name": "余", "type": "人物", "start": 0, "end": 1},
+        {"id": "d-qin-ji-doc", "name": "秦記", "type": "文献", "start": 5, "end": 7},
+        {"id": "d-chun-qiu", "name": "春秋", "type": "文献", "start": 9, "end": 11},
+        {"id": "p-zhou-yuan-wang", "name": "周元王", "type": "人物", "start": 15, "end": 18},
+        {"id": "p-qin-er-shi", "name": "二世", "type": "人物", "start": 27, "end": 29}
+      ]
+    },
+    {
+      "para_id": "p5",
+      "text": "索隱述贊曰：春秋之後，王室益卑。楚彊南服，秦霸西垂。三卿分晉，八代興媯。逓主盟會，互爲雄雌。二周前滅，六國後隳。壯哉嬴氏，吞并若斯。",
+      "entities": [
+        {"id": "st-chu", "name": "楚", "type": "诸侯国", "start": 20, "end": 21},
+        {"id": "st-qin", "name": "秦", "type": "诸侯国", "start": 26, "end": 27},
+        {"id": "e-zhanguo-qixiong", "name": "三卿分晉", "type": "事件", "start": 32, "end": 36},
+        {"id": "st-zhou", "name": "二周", "type": "王室", "start": 56, "end": 58}
+      ]
+    }
+  ]
+}

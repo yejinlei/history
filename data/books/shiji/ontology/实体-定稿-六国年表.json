@@ -1,0 +1,371 @@
+{
+  "book": "shiji",
+  "book_name": "史记",
+  "chapter": "六國年表第三",
+  "juan": "卷十五",
+  "tili": "biao",
+  "persons": [
+    {
+      "id": "p-sima-qian",
+      "name": "司马迁",
+      "alias": "太史公",
+      "role": "作者",
+      "description": "《史记》作者，本表序文以'太史公读秦记'自述其编纂旨趣，提出'法后王''世异变成功大'的历史观。",
+      "evidence": ["p1", "p3", "p4"]
+    },
+    {
+      "id": "p-qin-xiang-gong",
+      "name": "秦襄公",
+      "role": "秦国国君",
+      "description": "春秋初年秦国始封诸侯之君，因护送周平王东迁有功被封为诸侯，作西畤以事上帝。",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "p-qin-wen-gong",
+      "name": "秦文公",
+      "role": "秦国国君",
+      "description": "秦襄公之子，越过陇山，驱逐夷狄，尊奉陈宝神，经营岐雍之间。",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "p-zhou-you-wang",
+      "name": "周幽王",
+      "role": "西周末代天子",
+      "description": "被犬戎击败，西周灭亡，成为平王东迁的契机。",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "p-zhou-ping-wang",
+      "name": "周平王",
+      "role": "东周始封天子",
+      "description": "东迁洛邑，封秦襄公为诸侯，开启东周时代。",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "p-yu",
+      "name": "禹",
+      "alias": "大禹、夏禹",
+      "role": "夏朝始祖",
+      "description": "传说中兴于西羌，为'收功实者常于西北'的例证之一。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "p-tang",
+      "name": "商汤",
+      "alias": "成汤",
+      "role": "商朝开国之君",
+      "description": "兴起于亳，为'收功实者常于西北'的例证之一。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "p-zhou-wen-wang",
+      "name": "周文王",
+      "alias": "姬昌",
+      "role": "周王朝奠基者",
+      "description": "以丰镐为基地，为武王伐殷奠定基础。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "p-zhou-wu-wang",
+      "name": "周武王",
+      "alias": "姬发",
+      "role": "西周开国之君",
+      "description": "以丰镐伐殷，建立周王朝。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "p-qin-er-shi",
+      "name": "秦二世",
+      "alias": "胡亥",
+      "role": "秦朝末代皇帝",
+      "description": "本表讫于秦二世三年（前207年），秦朝灭亡。",
+      "evidence": ["p4"]
+    },
+    {
+      "id": "p-xu-guang",
+      "name": "徐广",
+      "role": "南朝宋学者、《集解》引注者",
+      "description": "裴骃《史记集解》引徐广之说以注《史记》，涉及干支纪年、地理考证。",
+      "evidence": ["p6"]
+    },
+    {
+      "id": "p-huangfu-mi",
+      "name": "皇甫谧",
+      "role": "西晋学者、《帝王世纪》作者",
+      "description": "《集解》引其说注周元王纪年及禹生西羌事。",
+      "evidence": ["p2", "p6"]
+    },
+    {
+      "id": "p-xun-zi",
+      "name": "荀子",
+      "alias": "荀卿、孙卿",
+      "role": "战国思想家",
+      "description": "'法后王'之说的提出者，太史公序引'传曰法后王'出其学派。",
+      "evidence": ["p3"]
+    },
+    {
+      "id": "p-zhou-yuan-wang",
+      "name": "周元王",
+      "alias": "姬仁（系本名赤）",
+      "role": "东周天子",
+      "description": "本表起始之年即周元王元年（前475年），为春秋、战国时代分界的标志。",
+      "evidence": ["p4"]
+    }
+  ],
+  "places": [
+    {
+      "id": "pl-xi-qiang",
+      "name": "西羌",
+      "type": "地域",
+      "description": "西方羌人所居之地，传说禹兴于此；约当今川西北、青海东部一带。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "pl-bo",
+      "name": "亳",
+      "type": "都邑",
+      "description": "商汤兴起之地，徐广谓京兆杜县有亳亭，在今陕西西安东南；诸说不一。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "pl-feng-hao",
+      "name": "丰镐",
+      "type": "都邑",
+      "description": "西周旧都，文王都丰、武王都镐，在今陕西西安长安区一带；周以此伐殷。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "pl-yong-zhou",
+      "name": "雍州",
+      "type": "州域",
+      "description": "古九州之一，约当今陕西及甘肃东部；秦以此成帝业。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "pl-shu-han",
+      "name": "蜀汉",
+      "type": "地域",
+      "description": "今四川汉中一带，汉朝兴于此。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "pl-luo-yi",
+      "name": "洛邑",
+      "type": "都邑",
+      "description": "东周都城，在今河南洛阳；周平王东迁于此。",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "pl-xi-zhi",
+      "name": "西畤",
+      "type": "祭祀场所",
+      "description": "秦襄公所建祭天之坛，在西垂，在今甘肃礼县一带。",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "pl-chen-bao",
+      "name": "陈宝",
+      "type": "祭祀场所/神祠",
+      "description": "秦文公所获神石，立祠于陈仓（今陕西宝鸡），尊而祀之。",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "pl-long",
+      "name": "陇",
+      "type": "山名",
+      "description": "陇山，今陕西、甘肃交界之六盘山南段；秦文公越过陇山东进。",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "pl-qi",
+      "name": "岐",
+      "type": "山名/地域",
+      "description": "岐山，在今陕西岐山；秦文公经营岐雍之间。",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "st-qin",
+      "name": "秦国",
+      "type": "诸侯国",
+      "description": "嬴姓诸侯国，从襄公始封，献公后常雄诸侯，最终并吞天下。",
+      "evidence": ["p1", "p3", "p4"]
+    },
+    {
+      "id": "st-wei",
+      "name": "魏国",
+      "type": "诸侯国",
+      "description": "三晋之一，战国七雄之一。",
+      "evidence": ["p0"]
+    },
+    {
+      "id": "st-han",
+      "name": "韩国",
+      "type": "诸侯国",
+      "description": "三晋之一，战国七雄之一。",
+      "evidence": ["p0"]
+    },
+    {
+      "id": "st-zhao",
+      "name": "赵国",
+      "type": "诸侯国",
+      "description": "三晋之一，战国七雄之一。",
+      "evidence": ["p0"]
+    },
+    {
+      "id": "st-chu",
+      "name": "楚国",
+      "type": "诸侯国",
+      "description": "南方大国，战国七雄之一。",
+      "evidence": ["p0"]
+    },
+    {
+      "id": "st-yan",
+      "name": "燕国",
+      "type": "诸侯国",
+      "description": "北方大国，战国七雄之一。",
+      "evidence": ["p0"]
+    },
+    {
+      "id": "st-qi",
+      "name": "齐国",
+      "type": "诸侯国",
+      "description": "东方大国，田氏代姜之后为战国七雄之一。",
+      "evidence": ["p0"]
+    },
+    {
+      "id": "st-zhou",
+      "name": "周国",
+      "type": "王室/共主",
+      "description": "周王室，东周以降为名义共主，本表列于首栏。",
+      "evidence": ["p1", "p4"]
+    }
+  ],
+  "events": [
+    {
+      "id": "e-quan-rong-you-wang",
+      "name": "犬戎杀幽王",
+      "time": "前771年",
+      "description": "犬戎攻破镐京，杀周幽王于骊山，西周灭亡。",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "e-ping-wang-dong-qian",
+      "name": "平王东迁洛邑",
+      "time": "前770年",
+      "description": "周平王将都城从镐京东迁至洛邑，开启东周时代。",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "e-qin-shi-feng",
+      "name": "秦始封诸侯",
+      "time": "前770年",
+      "description": "秦襄公因护送平王东迁有功，被周平王封为诸侯，赐岐西之地。",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "e-wen-gong-zuo-xi-zhi",
+      "name": "秦文公作西畤、尊陈宝",
+      "description": "秦文公越过陇山东进，驱逐夷狄，作西畤、尊陈宝神，经营岐雍之地。",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "e-fen-shu-keng-ru",
+      "name": "秦烧诗书",
+      "time": "前213年",
+      "description": "秦始皇焚烧天下《诗》《书》及诸侯史记，造成战国史料严重毁灭。",
+      "evidence": ["p3"]
+    },
+    {
+      "id": "e-qin-bing-tian-xia",
+      "name": "秦并天下",
+      "time": "前221年",
+      "description": "秦国最终吞灭六国，统一天下，建立秦朝。",
+      "evidence": ["p1", "p3"]
+    },
+    {
+      "id": "e-zhanguo-qixiong",
+      "name": "战国七雄并争",
+      "time": "前475年-前221年",
+      "description": "三晋分晋、田氏代齐之后，魏、韩、赵、楚、燕、齐、秦七国争雄天下。",
+      "evidence": ["p1", "p4"]
+    }
+  ],
+  "institutions": [
+    {
+      "id": "i-qin-ji",
+      "name": "《秦记》",
+      "type": "官修史书/文献",
+      "description": "秦国官修编年史，不载日月，文略不具，是太史公编纂《六国年表》的主要依据。",
+      "evidence": ["p1", "p3", "p4"]
+    },
+    {
+      "id": "i-zhanguo-qixiong",
+      "name": "战国七雄",
+      "type": "政治格局",
+      "description": "战国时代魏、韩、赵、楚、燕、齐、秦七大强国，索隐谓'并秦凡七国，号曰七雄'。",
+      "evidence": ["p0"]
+    },
+    {
+      "id": "i-fa-hou-wang",
+      "name": "法后王",
+      "type": "思想观念",
+      "description": "取法近世之王的政治历史观，语出《荀子》，太史公引以评价秦制。",
+      "evidence": ["p3"]
+    },
+    {
+      "id": "i-shi-yi-bian",
+      "name": "世异变，成功大",
+      "type": "思想观念",
+      "description": "太史公评价秦政的核心论断：时代变易、因时变革，则功业巨大。",
+      "evidence": ["p3"]
+    },
+    {
+      "id": "i-jun-xian-zhi",
+      "name": "郡县制",
+      "type": "政治制度（隐含）",
+      "description": "秦统一天下后推行的地方行政制度，是'世异变成功大'所肯定的秦制核心，序文未明言但隐含于'法后王'评价之中。",
+      "evidence": ["p3"]
+    }
+  ],
+  "documents": [
+    {
+      "id": "d-shi-jing",
+      "name": "《诗经》",
+      "type": "儒家经典",
+      "description": "秦火之后因多藏人家而复见。",
+      "evidence": ["p3"]
+    },
+    {
+      "id": "d-shang-shu",
+      "name": "《尚书》",
+      "type": "儒家经典",
+      "description": "秦火之后因多藏人家而复见。",
+      "evidence": ["p3"]
+    },
+    {
+      "id": "d-chun-qiu",
+      "name": "《春秋》",
+      "type": "儒家经典/编年史",
+      "description": "太史公本表'踵春秋之后'而上接春秋时代。",
+      "evidence": ["p4"]
+    },
+    {
+      "id": "d-qin-ji-doc",
+      "name": "《秦记》",
+      "type": "秦国官修史书",
+      "description": "秦国史记，是本表主要史料依据，秦火后独存但文略不具。",
+      "evidence": ["p1", "p3", "p4"]
+    }
+  ],
+  "relations": [
+    {"from": "e-ping-wang-dong-qian", "to": "e-qin-shi-feng", "type": "因果", "description": "平王东迁时秦襄公护送有功，因功始封诸侯。"},
+    {"from": "e-fen-shu-keng-ru", "to": "d-qin-ji-doc", "type": "对比", "description": "秦焚书后诸侯史记尽灭，独有《秦记》保存。"},
+    {"from": "d-qin-ji-doc", "to": "i-qin-ji", "type": "同一实体", "description": "《秦记》文献即秦国官修史书。"},
+    {"from": "p-sima-qian", "to": "i-fa-hou-wang", "type": "主张/肯定", "description": "太史公肯定'法后王'的历史观。"},
+    {"from": "i-fa-hou-wang", "to": "i-shi-yi-bian", "type": "同属思想", "description": "'法后王'与'世异变成功大'共同构成太史公评价秦政的进步历史观。"},
+    {"from": "p-xun-zi", "to": "i-fa-hou-wang", "type": "提出/源头", "description": "'法后王'观念源自《荀子》。"},
+    {"from": "e-qin-bing-tian-xia", "to": "i-shi-yi-bian", "type": "评价对象", "description": "'世异变成功大'是对秦并天下功业的评价。"},
+    {"from": "p-zhou-yuan-wang", "to": "e-zhanguo-qixiong", "type": "开端标志", "description": "周元王元年（前475年）为本表起始，亦为战国时代之标志。"},
+    {"from": "i-zhanguo-qixiong", "to": "st-qin", "type": "包含", "description": "七雄包括秦及魏、韩、赵、楚、燕、齐。"}
+  ]
+}
