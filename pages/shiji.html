@@ -160,7 +160,7 @@ footer{background:var(--ink);color:#aaa;padding:3rem 2rem;text-align:center;font
         <div class="dropdown-menu">
             <a href="./pages/ontology.html">本体总纲</a>
             <a href="./pages/ontology/architecture.html">核心架构·四轴七层</a>
-            <a href="./pages/ontology/single-book-schema.html">单本史书构建方案</a>
+            <a href="./pages/ontology/single-books.html">单本史书构建方案</a>
             <a href="./pages/ontology/panorama-system.html">历史全景构建方案</a>
             <a href="./pages/ontology/roadmap.html">路线图与质量规范</a>
         </div>
@@ -169,19 +169,18 @@ footer{background:var(--ink);color:#aaa;padding:3rem 2rem;text-align:center;font
         <a href="./pages/panorama.html" class="nav-link">历史全景 ▾</a>
         <div class="dropdown-menu">
             <a href="./pages/panorama.html">历史全景·概览</a>
-            <a href="./pages/panorama-stats.html">历史统计与推论（建设中）</a>
+            <a href="./pages/statistics.html">历史统计与推论（建设中）</a>
         </div>
     </div>
     <div class="nav-dropdown">
-        <a href="./pages/zhengshi-texts.html" class="nav-link">正史 ▾</a>
+        <a href="../pages/texts/index.html" class="nav-link">正史 ▾</a>
         <div class="dropdown-menu">
-            <a href="./pages/zhengshi-texts.html">📖 阅读正史文本</a>
-            <a href="./pages/shiji.html" style="color:#a33;font-weight:bold;">《史记》【已上线】</a>
-            <a href="./pages/zizhitongjian.html" style="color:#a33;font-weight:bold;">《资治通鉴》【已上线】</a>
-            <a href="#">《汉书》（建设中）</a>
-            <a href="#">《后汉书》（建设中）</a>
-            <a href="#">《三国志》（建设中）</a>
-            <div class="dropdown-hint">剩余22部正史逐步建设中</div>
+            <a href="../pages/texts/index.html">📖 阅读正史文本</a>
+            <a href="../pages/texts/reader.html?book=shiji">《史记》（三家注）</a>
+            <a href="../pages/texts/reader.html?book=zizhitongjian">《资治通鉴》（胡三省注）</a>
+            <a href="../pages/shiji.html">《史记》本体</a>
+            <a href="../pages/zizhitongjian.html">《资治通鉴》本体</a>
+            <div class="dropdown-hint">其余正史逐步建设中</div>
         </div>
     </div>
     <div class="nav-dropdown">
@@ -196,55 +195,6 @@ footer{background:var(--ink);color:#aaa;padding:3rem 2rem;text-align:center;font
 </nav>
 <div id="site-header" data-page="zhengshi"></div>
 
-<!-- 导航栏 -->
-<nav>
-<div class="nav-inner">
-  <a href="../index.html" class="logo">中国历史本体论</a>
-  <ul class="nav-menu">
-    <li class="nav-item"><a href="../index.html">首页</a></li>
-    <li class="nav-item">
-      <a href="texts/shiji-wudi-benji.html">史书文本 ▾</a>
-      <ul class="dropdown">
-        <li><a href="texts/shiji-wudi-benji.html" class="launched">史记·五帝本纪 ✓</a></li>
-        <li><a href="#" class="coming-soon">史记·项羽本纪</a></li>
-        <li><a href="#" class="coming-soon">资治通鉴·周纪一</a></li>
-        <li class="divider"></li>
-        <li><span class="coming-soon">更多篇目持续录入中…</span></li>
-      </ul>
-    </li>
-    <li class="nav-item"><a href="ontology.html">本体总纲</a></li>
-    <li class="nav-item">
-      <a href="panorama.html">历史全景</a>
-      <ul class="dropdown">
-        <li><a href="panorama.html" class="launched">历史全景·概览（整体）✓</a></li>
-        <li><a href="zizhitongjian.html" class="launched">资治通鉴 ✓</a></li>
-        <li class="divider"></li>
-      </ul>
-    </li>
-    <li class="nav-item">
-      <a href="#" class="active">二十四史</a>
-      <ul class="dropdown">
-        <li><a href="shiji.html" class="launched">史记 ✓</a></li>
-        <li><a href="#" class="coming-soon">汉书</a></li>
-        <li><a href="#" class="coming-soon">后汉书</a></li>
-        <li><a href="#" class="coming-soon">三国志</a></li>
-        <li class="divider"></li>
-        <li><span class="coming-soon">剩余20部逐步建设中...</span></li>
-      </ul>
-    </li>
-    <li class="nav-item">
-      <a href="#">专题研究</a>
-      <ul class="dropdown">
-        <li><a href="#" class="coming-soon">现代史学四大家</a></li>
-        <li><a href="#" class="coming-soon">典章制度史</a></li>
-        <li><a href="#" class="coming-soon">历史地理</a></li>
-      </ul>
-    </li>
-    <li class="nav-item"><a href="https://github.com/yejinlei/history" target="_blank">GitHub</a></li>
-  </ul>
-</div>
-</nav>
-
 <!-- 页面头部 -->
 <section class="hero">
 <div class="hero-content">
@@ -257,7 +207,7 @@ footer{background:var(--ink);color:#aaa;padding:3rem 2rem;text-align:center;font
     <span><span class="label">时间跨度：</span>黄帝至汉武帝太初年间约3000年</span>
   </div>
   <div style="margin-top:2rem;display:flex;gap:1rem;justify-content:center;flex-wrap:wrap">
-    <a href="texts/shiji-wudi-benji.html" style="padding:.8rem 1.8rem;background:var(--zhu);color:white;border-radius:8px;text-decoration:none;font-weight:500">📖 阅读原文·五帝本纪</a>
+    <a href="texts/reader.html?book=shiji" style="padding:.8rem 1.8rem;background:var(--zhu);color:white;border-radius:8px;text-decoration:none;font-weight:500">📖 阅读原文·五帝本纪</a>
     <a href="ontology.html" style="padding:.8rem 1.8rem;border:1px solid var(--zhu);color:var(--zhu);border-radius:8px;text-decoration:none">返回本体总纲</a>
   </div>
 </div>

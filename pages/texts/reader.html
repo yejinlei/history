@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>古籍正文阅读 - 中国历史本体论</title>
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
+body { font-family: "Noto Serif SC", "SimSun", serif; background: #f5efe0 url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80'%3E%3Cpath d='M0 0h80v80H0z' fill='%23f5efe0'/%3E%3Cpath d='M0 0h1v80H0zm20 0h1v80h-1zm20 0h1v80h-1zm20 0h1v80h-1zm20 0h1v80h-1zM0 0h80v1H0zm0 20h80v1H0zm0 20h80v1H0zm0 20h80v1H0zm0 20h80v1H0z' fill='%23e8ddc4' opacity='.3'/%3E%3C/svg%3E"); color:#3a2e1f; min-height:100vh; }
+.navbar { position:sticky; top:0; z-index:100; background:rgba(245,239,224,0.96); backdrop-filter:blur(8px); border-bottom:2px solid #a33; padding:12px 24px; display:flex; align-items:center; gap:26px; flex-wrap:wrap; }
+.navbar .logo { font-size:21px; font-weight:bold; color:#a33; text-decoration:none; }
+.navbar a.nav-link { color:#3a2e1f; text-decoration:none; font-size:15px; padding:6px 4px; }
+.navbar a.nav-link:hover { color:#a33; }
+.nav-dropdown { position:relative; }
+.nav-dropdown .dropdown-menu { display:none; position:absolute; top:100%; left:0; background:#fffdf5; border:1px solid #c9b48a; border-top:3px solid #a33; min-width:210px; box-shadow:0 6px 18px rgba(80,40,10,0.12); border-radius:0 0 3px 3px; z-index:200; padding:6px 0; }
+.nav-dropdown:hover .dropdown-menu { display:block; }
+.nav-dropdown .dropdown-menu a { display:block; padding:9px 18px; color:#3a2e1f; text-decoration:none; font-size:14px; border-bottom:1px dashed #eadcba; }
+.nav-dropdown .dropdown-menu a:last-child { border-bottom:none; }
+.nav-dropdown .dropdown-menu a:hover { background:#fff8e8; color:#a33; }
+.dropdown-hint { padding:8px 18px; font-size:12px; color:#9a8a6f; text-align:center; border-top:1px solid #eadcba; }
+.layout { display:flex; max-width:1440px; margin:0 auto; }
+.sidebar { width:290px; flex-shrink:0; position:sticky; top:63px; height:calc(100vh - 63px); overflow-y:auto; background:#faf4e4; border-right:2px solid #c9b48a; padding:18px 12px; }
+.sidebar::-webkit-scrollbar { width:6px; }
+.sidebar::-webkit-scrollbar-thumb { background:#c9b48a; border-radius:3px; }
+.sidebar-title { font-size:16px; color:#a33; font-weight:bold; margin-bottom:10px; padding-bottom:8px; border-bottom:1px solid #c9b48a; letter-spacing:2px; text-align:center; }
+.book-switch { display:flex; gap:6px; margin-bottom:12px; }
+.book-switch button { flex:1; padding:6px; font-family:inherit; font-size:13px; border:1px solid #c9b48a; background:#fff8e8; color:#5a4a30; border-radius:3px; cursor:pointer; }
+.book-switch button.active { background:#a33; color:#fff8e8; border-color:#a33; }
+.sidebar-section-title { font-size:13px; color:#7a3030; font-weight:bold; margin:12px 0 6px; padding-left:6px; border-left:3px solid #a33; }
+.sidebar a { display:block; padding:5px 8px; color:#4a3f2c; text-decoration:none; font-size:13.5px; border-radius:3px; margin-bottom:2px; line-height:1.5; }
+.sidebar a:hover { background:#fff8e8; color:#a33; }
+.sidebar a.active { background:#a33; color:#fff8e8; }
+.main { flex:1; padding:36px 52px; min-width:0; }
+.chapter-header { text-align:center; margin-bottom:28px; padding-bottom:22px; border-bottom:2px double #c9b48a; }
+.chapter-title { font-size:32px; color:#3a2e1f; font-weight:bold; letter-spacing:6px; margin-bottom:12px; font-family:"KaiTi","STKaiti",serif; }
+.chapter-meta { font-size:13.5px; color:#7a6a4f; }
+.chapter-meta span { margin:0 9px; }
+.toolbar { display:flex; align-items:center; gap:14px; padding:11px 18px; background:#fff8e8; border:1px solid #d4c5a0; border-left:4px solid #a33; margin-bottom:28px; border-radius:3px; font-size:13.5px; flex-wrap:wrap; }
+.toolbar label { color:#7a6a4f; }
+.toolbar button { padding:6px 15px; border:1px solid #c9b48a; background:#f5efe0; color:#3a2e1f; border-radius:3px; cursor:pointer; font-family:inherit; font-size:13.5px; }
+.toolbar button.active, .toolbar button:hover { background:#a33; color:#fff8e8; border-color:#a33; }
+.toolbar .tip { margin-left:auto; color:#8a7a5f; font-size:12.5px; }
+.content { font-size:17.5px; line-height:2.15; color:#2a1e0f; }
+.content p { text-indent:2em; margin-bottom:7px; }
+.content p.note-only { text-indent:2em; color:#7a5a3a; font-size:15.5px; padding-left:1.5em; border-left:2px solid #e0d2b0; margin:6px 0 10px; }
+sup.note-mark { color:#a33; font-weight:bold; cursor:pointer; font-size:12px; padding:0 2px; margin:0 1px; border-radius:2px; user-select:none; }
+sup.note-mark:hover { background:#a33; color:#fff8e8; }
+body.hide-notes sup.note-mark { display:none; }
+.note-popup { position:absolute; background:#fffdf5; border:1px solid #c9b48a; border-left:4px solid #a33; padding:14px 18px; border-radius:3px; box-shadow:0 6px 22px rgba(100,60,20,0.22); max-width:460px; font-size:15px; line-height:1.85; color:#4a3f2c; z-index:300; display:none; }
+.note-popup .note-tag { display:inline-block; background:#a33; color:#fff; padding:1px 9px; border-radius:2px; font-size:12px; margin-right:8px; vertical-align:1px; }
+.note-popup .close-x { float:right; cursor:pointer; color:#a33; font-weight:bold; margin-left:10px; }
+.nav-buttons { display:flex; justify-content:space-between; margin-top:46px; padding-top:22px; border-top:1px solid #d4c5a0; gap:12px; }
+.nav-buttons a { padding:10px 22px; background:#fff8e8; border:1px solid #c9b48a; color:#3a2e1f; text-decoration:none; border-radius:3px; font-size:14px; }
+.nav-buttons a:hover { background:#a33; color:#fff8e8; border-color:#a33; }
+.loading { text-align:center; color:#8a7a5f; padding:60px 0; font-size:15px; }
+@media (max-width:920px) {
+  .sidebar { display:none; }
+  .main { padding:22px 18px; }
+  .chapter-title { font-size:24px; letter-spacing:3px; }
+  .content { font-size:16px; line-height:1.95; }
+  .navbar { gap:14px; padding:10px 14px; }
+}
+</style></head>
+<body>
+<nav class="navbar">
+  <a href="../../index.html" class="logo">📜 中国历史本体论</a>
+  <a href="../../index.html" class="nav-link">首页</a>
+  <div class="nav-dropdown"><a href="../ontology.html" class="nav-link">本体总纲 ▾</a>
+    <div class="dropdown-menu">
+      <a href="../ontology.html">本体总纲</a>
+      <a href="../ontology/architecture.html">核心架构·四轴七层</a>
+      <a href="../ontology/single-books.html">单本史书构建方案</a>
+      <a href="../ontology/panorama-system.html">历史全景构建方案</a>
+      <a href="../ontology/roadmap.html">路线图与质量规范</a>
+    </div>
+  </div>
+  <div class="nav-dropdown"><a href="../panorama.html" class="nav-link">历史全景 ▾</a>
+    <div class="dropdown-menu">
+      <a href="../panorama.html">历史全景·概览</a>
+      <a href="../statistics.html">历史统计与推论（建设中）</a>
+    </div>
+  </div>
+  <div class="nav-dropdown"><a href="../../pages/texts/index.html" class="nav-link">正史 ▾</a>
+        <div class="dropdown-menu">
+            <a href="../../pages/texts/index.html">📖 阅读正史文本</a>
+            <a href="../../pages/texts/reader.html?book=shiji">《史记》（三家注）</a>
+            <a href="../../pages/texts/reader.html?book=zizhitongjian">《资治通鉴》（胡三省注）</a>
+            <a href="../../pages/shiji.html">《史记》本体</a>
+            <a href="../../pages/zizhitongjian.html">《资治通鉴》本体</a>
+            <div class="dropdown-hint">其余正史逐步建设中</div>
+        </div>
+  </div>
+  <div class="nav-dropdown"><a href="#" class="nav-link">专题研究 ▾</a>
+    <div class="dropdown-menu">
+      <a href="../scholars.html">现代史学四大家</a>
+      <a href="#">历代政治制度（建设中）</a>
+      <a href="#">历史地理沿革（建设中）</a>
+    </div>
+  </div>
+  <a href="https://github.com/yejinlei/history" class="nav-link">GitHub</a>
+</nav>
+
+<div class="layout">
+  <aside class="sidebar">
+    <div class="sidebar-title">古籍目录</div>
+    <div class="book-switch" id="bookSwitch"></div>
+    <div id="toc"><div class="loading">加载目录…</div></div>
+  </aside>
+  <main class="main">
+    <div id="view"><div class="loading">正在加载正文…</div></div>
+  </main>
+</div>
+
+<div class="note-popup" id="popup">
+  <span class="close-x" onclick="document.getElementById('popup').style.display='none'">✕</span>
+  <span class="note-tag" id="popupTag">注</span><span id="popupText"></span>
+</div>
+
+<script>
+const BOOKS = {
+  shiji: { name:'史记', author:'[汉] 司马迁 撰', notes:'裴骃《集解》· 司马贞《索隐》· 张守节《正义》' },
+  zizhitongjian: { name:'资治通鉴', author:'[宋] 司马光 撰', notes:'胡三省《音注》' }
+};
+const params = new URLSearchParams(location.search);
+let bookKey = params.get('book') || 'shiji';
+if (!BOOKS[bookKey]) bookKey = 'shiji';
+let curCh = parseInt(params.get('ch') || '1', 10) || 1;
+let indexData = [];
+let noteStore = [];
+
+const tocEl = document.getElementById('toc');
+const viewEl = document.getElementById('view');
+const popup = document.getElementById('popup');
+
+function esc(s){ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+
+function renderPara(p){
+  let html = esc(p.text);
+  html = html.replace(/⟦(\d+)⟧/g, (m, n) => {
+    const idx = +n;
+    const gi = noteStore.length;
+    if (p.notes && p.notes[idx]) noteStore.push(p.notes[idx]);
+    else noteStore.push({tag:'注', text:''});
+    return '<sup class="note-mark" data-i="' + gi + '">' + (idx + 1) + '</sup>';
+  });
+  return html;
+}
+
+function showBookSwitch(){
+  const el = document.getElementById('bookSwitch');
+  el.innerHTML = Object.keys(BOOKS).map(k =>
+    '<button class="' + (k === bookKey ? 'active' : '') + '" onclick="switchBook(\'' + k + '\')">' + BOOKS[k].name + '</button>'
+  ).join('');
+}
+function switchBook(k){
+  location.href = 'reader.html?book=' + k + '&ch=1';
+}
+
+function buildToc(){
+  const groups = {};
+  const order = [];
+  indexData.forEach(item => {
+    const g = item.section || '目次';
+    if (!groups[g]) { groups[g] = []; order.push(g); }
+    groups[g].push(item);
+  });
+  // 史记固定五体顺序
+  const SORT = ['本纪','表','书','世家','列传','其他','编年'];
+  order.sort((a,b)=> (SORT.indexOf(a)<0?99:SORT.indexOf(a)) - (SORT.indexOf(b)<0?99:SORT.indexOf(b)));
+  let html = '';
+  order.forEach(g => {
+    html += '<div class="sidebar-section-title">' + esc(g) + '（' + groups[g].length + '）</div>';
+    groups[g].forEach(item => {
+      const label = BOOKS[bookKey].name === '史记'
+        ? esc(item.title)
+        : esc(item.juan + ' ' + (item.title || '').replace(/^卷[^・]*・?/, ''));
+      html += '<a href="javascript:void(0)" data-ch="' + item.id + '" class="' + (item.id === curCh ? 'active' : '') + '">' + label + '</a>';
+    });
+  });
+  tocEl.innerHTML = html;
+  tocEl.querySelectorAll('a').forEach(a => {
+    a.addEventListener('click', () => loadChapter(+a.dataset.ch));
+  });
+}
+
+function loadChapter(id){
+  curCh = id;
+  noteStore = [];
+  window.scrollTo(0,0);
+  viewEl.innerHTML = '<div class="loading">正在加载正文…</div>';
+  fetch('../../data/texts/' + bookKey + '/ch/' + String(id).padStart(4,'0') + '.json')
+    .then(r => r.json())
+    .then(ch => {
+      const meta = indexData.find(x => x.id === id) || {};
+      const b = BOOKS[bookKey];
+      const title = bookKey === 'shiji'
+        ? (meta.juan ? meta.juan + '・' : '') + esc(meta.title)
+        : esc(meta.title || '');
+      let body = '';
+      ch.paras.forEach(p => {
+        const hasText = p.text && p.text.replace(/⟦\d+⟧/g, '').trim().length > 0;
+        body += '<p class="' + (hasText ? '' : 'note-only') + '">' + renderPara(p) + '</p>';
+      });
+      viewEl.innerHTML =
+        '<div class="chapter-header">' +
+          '<div class="chapter-title">' + title + '</div>' +
+          '<div class="chapter-meta"><span>' + esc(b.author) + '</span><span>注：' + esc(b.notes) + '</span>' +
+          '<span>共 ' + ch.paras.length + ' 段</span></div>' +
+        '</div>' +
+        '<div class="toolbar">' +
+          '<label>注疏显示：</label>' +
+          '<button id="btnShow" class="active">显示上标</button>' +
+          '<button id="btnHide">隐藏上标</button>' +
+          '<span class="tip">点击正文中红色数字查看注疏</span>' +
+        '</div>' +
+        '<div class="content" id="content">' + body + '</div>' +
+        '<div class="nav-buttons">' +
+          '<a href="javascript:void(0)" id="prevBtn">← 上一篇</a>' +
+          '<a href="javascript:void(0)" id="tocBtn">回目录</a>' +
+          '<a href="javascript:void(0)" id="nextBtn">下一篇 →</a>' +
+        '</div>';
+      document.body.classList.remove('hide-notes');
+      document.getElementById('btnShow').onclick = function(){
+        document.body.classList.remove('hide-notes'); this.classList.add('active');
+        document.getElementById('btnHide').classList.remove('active');
+      };
+      document.getElementById('btnHide').onclick = function(){
+        document.body.classList.add('hide-notes'); this.classList.add('active');
+        document.getElementById('btnShow').classList.remove('active');
+        popup.style.display = 'none';
+      };
+      const prev = document.getElementById('prevBtn');
+      const next = document.getElementById('nextBtn');
+      if (id > 1) prev.onclick = () => loadChapter(id - 1); else prev.style.opacity = .4;
+      if (id < indexData.length) next.onclick = () => loadChapter(id + 1); else next.style.opacity = .4;
+      document.getElementById('tocBtn').onclick = () => { document.querySelector('.sidebar').scrollIntoView(); };
+      history.replaceState(null, '', 'reader.html?book=' + bookKey + '&ch=' + id);
+      // 高亮目录
+      tocEl.querySelectorAll('a').forEach(a => a.classList.toggle('active', +a.dataset.ch === id));
+      document.getElementById('content').addEventListener('click', onContentClick);
+      const active = tocEl.querySelector('a.active');
+      if (active) active.scrollIntoView({block:'nearest'});
+    })
+    .catch(e => { viewEl.innerHTML = '<div class="loading">正文加载失败：' + esc(e.message) + '</div>'; });
+}
+
+function onContentClick(e){
+  const sup = e.target.closest('.note-mark');
+  if (!sup) return;
+  const note = noteStore[+sup.dataset.i];
+  if (!note) return;
+  document.getElementById('popupTag').textContent = note.tag || '注';
+  document.getElementById('popupText').textContent = note.text;
+  popup.style.display = 'block';
+  const r = sup.getBoundingClientRect();
+  const top = window.scrollY + r.bottom + 8;
+  let left = window.scrollX + r.left - 20;
+  const maxLeft = window.scrollX + document.documentElement.clientWidth - 480;
+  if (left > maxLeft) left = Math.max(10, maxLeft);
+  popup.style.top = top + 'px';
+  popup.style.left = left + 'px';
+}
+
+document.addEventListener('click', e => {
+  if (!e.target.closest('.note-popup') && !e.target.closest('.note-mark')) popup.style.display = 'none';
+});
+
+showBookSwitch();
+fetch('../../data/texts/' + bookKey + '/index.json')
+  .then(r => r.json())
+  .then(idx => { indexData = idx; buildToc(); loadChapter(curCh); })
+  .catch(e => { tocEl.innerHTML = '<div class="loading">目录加载失败</div>'; });
+</script>
+</body>
+</html>
