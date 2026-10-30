@@ -1,0 +1,441 @@
+{
+  "@context": {
+    "hist": "http://history.local/ontology#",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "prov": "http://www.w3.org/ns/prov#"
+  },
+  "@type": "owl:Ontology",
+  "@id": "hist:chinese-history-ontology",
+  "title": "中国历史本体论 顶层TBox Schema v1.0",
+  "description": "分两层：单书文本层（Text Layer）与历史全景层（Panorama Layer），本体类按层级定义",
+  "layers": {
+    "text_layer": "单本史书本体层，依附具体典籍，保留文本溯源",
+    "panorama_layer": "历史全景层，跨书对齐的统一史实层"
+  },
+  "classes": [
+    {
+      "@id": "hist:Book",
+      "label": "史书",
+      "layer": "text_layer",
+      "subClassOf": "prov:Entity",
+      "description": "一部完整的历史著作，如《史记》《汉书》《资治通鉴》",
+      "properties": {
+        "hist:title": {
+          "type": "xsd:string",
+          "required": true,
+          "label": "书名"
+        },
+        "hist:author": {
+          "type": "hist:Person",
+          "label": "作者"
+        },
+        "hist:dynasty": {
+          "type": "xsd:string",
+          "label": "成书朝代"
+        },
+        "hist:completionYear": {
+          "type": "xsd:gYear",
+          "label": "成书年份"
+        },
+        "hist:totalVolumes": {
+          "type": "xsd:integer",
+          "label": "总卷数"
+        },
+        "hist:genre": {
+          "type": "xsd:string",
+          "label": "体裁：纪传体/编年体/纪事本末体/典制体"
+        }
+      }
+    },
+    {
+      "@id": "hist:Chapter",
+      "label": "篇章",
+      "layer": "text_layer",
+      "subClassOf": "prov:Entity",
+      "description": "史书中的具体篇章/卷，如《史记·五帝本纪》《资治通鉴·周纪一》",
+      "properties": {
+        "hist:title": {
+          "type": "xsd:string",
+          "required": true,
+          "label": "篇名"
+        },
+        "hist:belongsToBook": {
+          "type": "hist:Book",
+          "required": true,
+          "label": "所属史书"
+        },
+        "hist:category": {
+          "type": "xsd:string",
+          "label": "体例类别：本纪/表/书/世家/列传/纪/考异/论"
+        },
+        "hist:volumeNumber": {
+          "type": "xsd:integer",
+          "label": "卷次序号"
+        },
+        "hist:fullText": {
+          "type": "xsd:string",
+          "label": "纯正文内容"
+        }
+      }
+    },
+    {
+      "@id": "hist:Sentence",
+      "label": "文句",
+      "layer": "text_layer",
+      "subClassOf": "prov:Entity",
+      "description": "正文中的独立句子，是本体溯源的最小单元",
+      "properties": {
+        "@id": {
+          "type": "xsd:string",
+          "required": true,
+          "label": "句ID，格式：书目-篇章-序号"
+        },
+        "hist:belongsToChapter": {
+          "type": "hist:Chapter",
+          "required": true,
+          "label": "所属篇章"
+        },
+        "hist:text": {
+          "type": "xsd:string",
+          "required": true,
+          "label": "句原文"
+        },
+        "hist:position": {
+          "type": "xsd:integer",
+          "label": "在篇章中的位置序号"
+        }
+      }
+    },
+    {
+      "@id": "hist:Annotation",
+      "label": "注疏",
+      "layer": "text_layer",
+      "subClassOf": "prov:Entity",
+      "description": "后世学者对正文的注释、校勘、考证、评论",
+      "properties": {
+        "hist:annotator": {
+          "type": "hist:Person",
+          "required": true,
+          "label": "注者，如裴骃/司马贞/张守节/胡三省"
+        },
+        "hist:annotationType": {
+          "type": "xsd:string",
+          "required": true,
+          "label": "注疏类型：注音/释义/校勘/考异/地理考证/人名考证/史实评论"
+        },
+        "hist:annotatesSentence": {
+          "type": "hist:Sentence",
+          "required": true,
+          "label": "所注释的文句"
+        },
+        "hist:content": {
+          "type": "xsd:string",
+          "required": true,
+          "label": "注文内容"
+        }
+      }
+    },
+    {
+      "@id": "hist:Historiographer",
+      "label": "史学家/注者",
+      "layer": "text_layer",
+      "subClassOf": "hist:Person",
+      "description": "史书作者、注者、史学研究者，属于学术层人物实体"
+    },
+    {
+      "@id": "hist:Person",
+      "label": "历史人物",
+      "layer": "panorama_layer",
+      "description": "跨书统一的历史人物实体，用于对齐不同史书中的同一人物",
+      "properties": {
+        "hist:name": {
+          "type": "xsd:string",
+          "required": true,
+          "label": "姓名"
+        },
+        "hist:aliases": {
+          "type": "xsd:array",
+          "label": "别名、字、号、谥号、庙号"
+        },
+        "hist:birthYear": {
+          "type": "xsd:gYear",
+          "label": "生年"
+        },
+        "hist:deathYear": {
+          "type": "xsd:gYear",
+          "label": "卒年"
+        },
+        "hist:dynasty": {
+          "type": "hist:Dynasty",
+          "label": "主要活动朝代"
+        },
+        "hist:nativePlace": {
+          "type": "hist:Place",
+          "label": "籍贯"
+        },
+        "hist:gender": {
+          "type": "xsd:string",
+          "label": "性别"
+        },
+        "hist:canonicalId": {
+          "type": "xsd:string",
+          "required": true,
+          "label": "全局统一ID，格式：person-姓名-朝代，用于跨书去重"
+        }
+      }
+    },
+    {
+      "@id": "hist:Event",
+      "label": "历史事件",
+      "layer": "panorama_layer",
+      "description": "有明确时间、地点、参与人物的历史事件",
+      "properties": {
+        "hist:name": {
+          "type": "xsd:string",
+          "required": true,
+          "label": "事件名称"
+        },
+        "hist:startYear": {
+          "type": "xsd:gYear",
+          "label": "起始年份"
+        },
+        "hist:endYear": {
+          "type": "xsd:gYear",
+          "label": "结束年份"
+        },
+        "hist:location": {
+          "type": "hist:Place",
+          "label": "发生地点"
+        },
+        "hist:participants": {
+          "type": "xsd:array",
+          "label": "参与人物列表"
+        },
+        "hist:eventType": {
+          "type": "xsd:string",
+          "label": "事件类型：战争/政变/制度改革/会盟/灾异/外交/册封/祭祀"
+        },
+        "hist:canonicalId": {
+          "type": "xsd:string",
+          "required": true,
+          "label": "全局统一ID，用于跨书对齐同一事件的不同记载"
+        }
+      }
+    },
+    {
+      "@id": "hist:Place",
+      "label": "历史地理",
+      "layer": "panorama_layer",
+      "description": "历史地名实体，关联今地对应",
+      "properties": {
+        "hist:ancientName": {
+          "type": "xsd:string",
+          "required": true,
+          "label": "古地名"
+        },
+        "hist:modernLocation": {
+          "type": "xsd:string",
+          "label": "今地对应"
+        },
+        "hist:belongsToRegion": {
+          "type": "hist:Place",
+          "label": "所属上级行政区"
+        },
+        "hist:canonicalId": {
+          "type": "xsd:string",
+          "required": true,
+          "label": "全局统一ID，用于跨书对齐同一地点"
+        }
+      }
+    },
+    {
+      "@id": "hist:OfficialPosition",
+      "label": "官职",
+      "layer": "panorama_layer",
+      "description": "历代官职实体",
+      "properties": {
+        "hist:title": {
+          "type": "xsd:string",
+          "required": true,
+          "label": "官职名称"
+        },
+        "hist:rank": {
+          "type": "xsd:string",
+          "label": "品级"
+        },
+        "hist:dynasty": {
+          "type": "hist:Dynasty",
+          "label": "所属朝代"
+        },
+        "hist:canonicalId": {
+          "type": "xsd:string",
+          "required": true,
+          "label": "全局统一ID"
+        }
+      }
+    },
+    {
+      "@id": "hist:Dynasty",
+      "label": "朝代/政权",
+      "layer": "panorama_layer",
+      "description": "历史朝代与割据政权",
+      "properties": {
+        "hist:name": {
+          "type": "xsd:string",
+          "required": true,
+          "label": "朝代名"
+        },
+        "hist:startYear": {
+          "type": "xsd:gYear",
+          "label": "建立年份"
+        },
+        "hist:endYear": {
+          "type": "xsd:gYear",
+          "label": "灭亡年份"
+        },
+        "hist:founder": {
+          "type": "hist:Person",
+          "label": "开国君主"
+        },
+        "hist:capital": {
+          "type": "hist:Place",
+          "label": "都城"
+        }
+      }
+    }
+  ],
+  "relations": [
+    {
+      "@id": "hist:belongsToBook",
+      "label": "所属书目",
+      "domain": "hist:Chapter",
+      "range": "hist:Book",
+      "characteristics": [
+        "functional"
+      ]
+    },
+    {
+      "@id": "hist:belongsToChapter",
+      "label": "所属篇章",
+      "domain": "hist:Sentence",
+      "range": "hist:Chapter",
+      "characteristics": [
+        "functional"
+      ]
+    },
+    {
+      "@id": "hist:annotates",
+      "label": "注释",
+      "domain": "hist:Annotation",
+      "range": "hist:Sentence",
+      "characteristics": [
+        "functional"
+      ]
+    },
+    {
+      "@id": "hist:authoredBy",
+      "label": "作者/注者",
+      "domain": [
+        "hist:Book",
+        "hist:Annotation"
+      ],
+      "range": "hist:Person",
+      "inverseOf": "hist:isAuthorOf"
+    },
+    {
+      "@id": "hist:mentionsPerson",
+      "label": "提及人物",
+      "domain": "hist:Sentence",
+      "range": "hist:Person"
+    },
+    {
+      "@id": "hist:mentionsEvent",
+      "label": "记载事件",
+      "domain": "hist:Sentence",
+      "range": "hist:Event"
+    },
+    {
+      "@id": "hist:mentionsPlace",
+      "label": "提及地点",
+      "domain": "hist:Sentence",
+      "range": "hist:Place"
+    },
+    {
+      "@id": "hist:fatherOf",
+      "label": "父亲",
+      "domain": "hist:Person",
+      "range": "hist:Person",
+      "characteristics": [
+        "functional",
+        "asymmetric"
+      ]
+    },
+    {
+      "@id": "hist:servesAs",
+      "label": "担任官职",
+      "domain": "hist:Person",
+      "range": "hist:OfficialPosition"
+    },
+    {
+      "@id": "hist:reignedAs",
+      "label": "在位为",
+      "domain": "hist:Person",
+      "range": "hist:Dynasty",
+      "characteristics": [
+        "functional"
+      ]
+    },
+    {
+      "@id": "hist:happenedIn",
+      "label": "发生于时间",
+      "domain": "hist:Event",
+      "range": "xsd:gYear"
+    },
+    {
+      "@id": "hist:tookPlaceAt",
+      "label": "发生于地点",
+      "domain": "hist:Event",
+      "range": "hist:Place"
+    },
+    {
+      "@id": "hist:participatedIn",
+      "label": "参与事件",
+      "domain": "hist:Person",
+      "range": "hist:Event",
+      "inverseOf": "hist:hasParticipant"
+    },
+    {
+      "@id": "hist:sameAs",
+      "label": "同一实体",
+      "domain": [
+        "hist:Person",
+        "hist:Event",
+        "hist:Place"
+      ],
+      "range": [
+        "hist:Person",
+        "hist:Event",
+        "hist:Place"
+      ],
+      "characteristics": [
+        "symmetric",
+        "transitive",
+        "reflexive"
+      ],
+      "description": "跨书同一实体对齐，如《史记》的项籍与《汉书》的项羽对齐"
+    },
+    {
+      "@id": "hist:recordsVariantOf",
+      "label": "异文记载",
+      "domain": "hist:Sentence",
+      "range": "hist:Sentence",
+      "characteristics": [
+        "symmetric"
+      ],
+      "description": "不同史书对同一事件的不同记载，用于考异"
+    }
+  ]
+}

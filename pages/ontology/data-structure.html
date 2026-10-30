@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>底层数据结构规范 · 历史本体论</title>
+<link rel="stylesheet" href="/css/main.css">
+<style>
+  .schema-section { margin: 40px 0; }
+  .layer-box {
+    border: 2px solid #9d2933;
+    border-radius: 4px;
+    padding: 24px;
+    margin: 20px 0;
+    background: #fdfbf5;
+    position: relative;
+  }
+  .layer-box.l3 { border-color: #2c3e50; background: #f5f7fa; }
+  .layer-box.l2 { border-color: #c45c26; background: #fdf8f2; }
+  .layer-box.l1 { border-color: #5b7c3a; background: #f7faf2; }
+  .layer-tag {
+    position: absolute; top: -12px; left: 20px;
+    padding: 2px 12px; border-radius: 2px; color: white;
+    font-weight: bold; font-size: 14px;
+  }
+  .layer-tag.l3 { background: #2c3e50; }
+  .layer-tag.l2 { background: #c45c26; }
+  .layer-tag.l1 { background: #5b7c3a; }
+  .id-table { width: 100%; border-collapse: collapse; margin: 16px 0; font-size: 14px; }
+  .id-table th, .id-table td { border: 1px solid #e8e0d0; padding: 10px 14px; text-align: left; }
+  .id-table th { background: #f4ede0; font-weight: bold; }
+  .id-table code { background: #f0e9d8; padding: 2px 6px; border-radius: 3px; font-family: 'Courier New', monospace; color: #9d2933; }
+  .code-block {
+    background: #2b2b2b; color: #f8f8f2; padding: 20px; border-radius: 4px;
+    font-family: 'Courier New', monospace; font-size: 13px; line-height: 1.6;
+    overflow-x: auto; margin: 16px 0;
+  }
+  .code-block .key { color: #f92672; }
+  .code-block .str { color: #a6e22e; }
+  .code-block .cmt { color: #75715e; font-style: italic; }
+  .chain-box {
+    background: linear-gradient(135deg, #fdfbf5, #f4ede0);
+    border-left: 4px solid #9d2933; padding: 20px; margin: 20px 0;
+    font-family: 'Courier New', monospace; font-size: 14px; line-height: 2;
+  }
+  .chain-box .level3 { color: #2c3e50; font-weight: bold; }
+  .chain-box .level2 { color: #c45c26; padding-left: 40px; }
+  .chain-box .level1 { color: #5b7c3a; padding-left: 80px; }
+  .chain-box .level0 { color: #9d2933; padding-left: 120px; }
+  .rule-card {
+    background: #fdfbf5; border: 1px solid #e8e0d0;
+    padding: 16px; border-radius: 4px; margin: 12px 0;
+  }
+  .rule-card strong { color: #9d2933; }
+  .toc-sidebar {
+    position: fixed; right: 20px; top: 100px; width: 200px;
+    background: white; border: 1px solid #e8e0d0; border-radius: 4px;
+    padding: 16px; font-size: 13px; box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  }
+  .toc-sidebar a { display: block; padding: 4px 0; color: #555; text-decoration: none; }
+  .toc-sidebar a:hover { color: #9d2933; }
+  @media (max-width: 1200px) { .toc-sidebar { display: none; } }
+</style>
+</head>
+<body>
+<header class="header">
+  <nav class="nav-container">
+    <a href="/index.html" class="logo">📜 中国历史本体论</a>
+    <ul class="nav-menu">
+      <li><a href="/index.html">首页</a></li>
+      <li class="dropdown">
+        <a href="/pages/ontology.html">本体总纲 ▾</a>
+        <div class="dropdown-content">
+          <a href="/pages/ontology.html">本体总纲（索引）</a>
+          <a href="/pages/ontology/architecture.html">核心架构 · 四轴七层</a>
+          <a href="/pages/ontology/single-book.html">单本史书构建方案</a>
+          <a href="/pages/ontology/panorama-system.html">历史全景构建方案</a>
+          <a href="/pages/ontology/data-structure.html" class="active">底层数据结构规范</a>
+          <a href="/pages/ontology/roadmap.html">路线图与质量规范</a>
+        </div>
+      </li>
+      <li class="dropdown">
+        <a href="/pages/panorama.html">历史全景 ▾</a>
+        <div class="dropdown-content">
+          <a href="/pages/panorama.html">历史全景·概览</a>
+          <a href="/pages/panorama-stats.html">历史统计与推论（建设中）</a>
+        </div>
+      </li>
+      <li class="dropdown">
+        <a href="/pages/zhengshi-texts.html">正史 ▾</a>
+        <div class="dropdown-content">
+          <a href="/pages/zhengshi-texts.html">📖 阅读正史文本</a>
+          <a href="/pages/shiji.html">《史记》【已上线】</a>
+          <a href="/pages/zizhitongjian.html">《资治通鉴》【已上线】</a>
+          <a href="#">《汉书》（建设中）</a>
+          <a href="#">《后汉书》（建设中）</a>
+          <a href="#">《三国志》（建设中）</a>
+          <div style="padding: 8px 16px; color: #999; font-size: 12px; border-top:1px solid #eee;">其余20部正史逐步建设中</div>
+        </div>
+      </li>
+      <li class="dropdown">
+        <a href="#">专题研究 ▾</a>
+        <div class="dropdown-content">
+          <a href="#">现代史学四大家（建设中）</a>
+          <a href="#">历代政治制度（建设中）</a>
+          <a href="#">历史地理沿革（建设中）</a>
+        </div>
+      </li>
+      <li><a href="https://github.com/yejinlei/history" target="_blank">GitHub</a></li>
+    </ul>
+  </nav>
+</header>
+
+<div class="toc-sidebar">
+  <strong>目录导航</strong>
+  <a href="#arch">一、三层整体架构</a>
+  <a href="#id">二、命名空间与全局ID</a>
+  <a href="#layers">三、各层数据结构</a>
+  <a href="#chain">四、四级溯源链</a>
+  <a href="#rules">五、关联规则</a>
+  <a href="#structure">六、文件目录结构</a>
+  <a href="#roadmap">七、落地步骤</a>
+</div>
+
+<section class="hero" style="padding: 80px 20px 40px;">
+  <div class="container">
+    <h1 class="hero-title">🔧 底层数据结构规范</h1>
+    <p class="hero-subtitle">单本书本体 ↔ 历史全景本体 · 三层架构 + 四级溯源 + 统一ID空间</p>
+  </div>
+</section>
+
+<main class="container" style="padding-bottom: 80px;">
+
+<div class="schema-section" id="arch">
+<h2>一、整体架构：三层本体+统一ID空间</h2>
+<p>整个本体体系采用严格的三层结构，每层拥有独立命名空间，通过全局ID统一关联，自下而上聚合，自上而下溯源：</p>
+
+<div class="layer-box l3">
+  <span class="layer-tag l3">L3 历史全景层</span>
+  <h3>🌐 全局统一实体层</h3>
+  <p><strong>命名空间</strong>：<code>global:</code> &nbsp;&nbsp; <strong>存储路径</strong>：<code>/data/global/</code></p>
+  <p><strong>核心实体</strong>：统一人物、统一事件、统一地理、统一制度/官职、统一朝代年表、跨书关系库</p>
+  <p><strong>核心能力</strong>：跨书去重对齐、异文保留、因果关系贯通、制度沿革追踪、史料溯源互证、全局统计推论</p>
+</div>
+
+<div style="text-align:center; font-size:24px; color:#9d2933; margin: -10px 0;">↕ <code style="font-size:14px;">recorded_in / same_as / evidence</code></div>
+
+<div class="layer-box l2">
+  <span class="layer-tag l2">L2 单本书本体层</span>
+  <h3>📕 单书视角实体层</h3>
+  <p><strong>命名空间</strong>：<code>book:{book_id}:</code> &nbsp;&nbsp; <strong>存储路径</strong>：<code>/data/books/{book_id}/</code></p>
+  <p><strong>核心实体</strong>：书目元数据、篇章/卷次体例单元、注疏条目、作者版本、该书内出现的人物/事件/地理（未去重）</p>
+  <p><strong>核心能力</strong>：按书建模、体例差异化（纪传/编年/纪事本末）、版本校勘、注疏归属、保留原书面貌</p>
+</div>
+
+<div style="text-align:center; font-size:24px; color:#c45c26; margin: -10px 0;">↕ <code style="font-size:14px;">in_chapter / in_sentence / target_sent_id</code></div>
+
+<div class="layer-box l1">
+  <span class="layer-tag l1">L1 原始文本层</span>
+  <h3>📄 原始文本与批注层</h3>
+  <p><strong>命名空间</strong>：<code>text:{book_id}:</code> &nbsp;&nbsp; <strong>存储路径</strong>：<code>/data/books/{book_id}/</code></p>
+  <p><strong>核心文件</strong>：<code>chapters.json</code>（篇章结构）、<code>text.json</code>（纯正文逐句编号）、<code>annotations.json</code>（独立批注库）</p>
+  <p><strong>核心能力</strong>：正文批注分离、逐句唯一定位、版本原始面貌保留、为上层所有实体提供原文锚点</p>
+</div>
+
+<div class="notice-card" style="margin-top:24px; padding:16px; background:#fff8e6; border-left:4px solid #d4a017; border-radius:4px;">
+  <strong style="color:#9d2933;">核心设计原则：</strong>
+  原始文本层永远不修改，所有校勘、对齐、推论都在上层完成；所有上层实体必须锚定到原文句子ID，保证<strong>"无一字无来处"</strong>。
+</div>
+</div>
+
+<div class="schema-section" id="id">
+<h2>二、命名空间与全局ID规范</h2>
+<p>所有实体必须拥有唯一全局ID，格式严格遵守：<code>{namespace}:{type}:{slug}</code></p>
+
+<table class="id-table">
+<thead><tr><th>层级</th><th>命名空间</th><th>ID示例</th><th>说明</th></tr></thead>
+<tbody>
+<tr><td rowspan="5" style="background:#f5f7fa;"><strong>L3 全景层</strong></td><td rowspan="5"><code>global</code></td><td><code>global:person:liubei</code></td><td>统一人物，name做拼音slug</td></tr>
+<tr><td><code>global:event:chibi_battle_208ad</code></td><td>统一事件，<code>{slug}_{年份}</code></td></tr>
+<tr><td><code>global:place:chibi</code></td><td>统一地理，古地名+今地名</td></tr>
+<tr><td><code>global:institution:keju</code></td><td>统一制度/官职</td></tr>
+<tr><td><code>global:dynasty:han_west</code></td><td>统一朝代/时期</td></tr>
+<tr><td rowspan="3" style="background:#fdf8f2;"><strong>L2 单本层</strong></td><td rowspan="3"><code>book:{book_id}</code></td><td><code>book:shiji:chapter:benji01</code></td><td>史记第一篇本纪</td></tr>
+<tr><td><code>book:shiji:annotation:000001</code></td><td>史记第1条注疏</td></tr>
+<tr><td><code>book:hanshu:juan:001</code></td><td>汉书第一卷</td></tr>
+<tr><td><strong>L1 文本层</strong></td><td><code>text:{book_id}</code></td><td><code>text:shiji:sentence:benji01_001</code></td><td>史记·五帝本纪第1句</td></tr>
+</tbody>
+</table>
+
+<h4>ID规则</h4>
+<div class="rule-card"><strong>1.</strong> 所有ID使用英文小写拼音/英文slug，不得含中文、空格、特殊字符</div>
+<div class="rule-card"><strong>2.</strong> 历史全景层同一实体只有一个global_id，所有书中的对应条目均映射到这个ID</div>
+<div class="rule-card"><strong>3.</strong> 单本书层ID前缀必须带book_id，避免跨书ID冲突</div>
+<div class="rule-card"><strong>4.</strong> 文本层句子ID必须包含篇章ID，便于无需查表即可快速定位章节</div>
+</div>
+
+<div class="schema-section" id="layers">
+<h2>三、各层核心数据结构定义</h2>
+
+<h3>3.1 L1 原始文本层</h3>
+<p><strong>1. 篇章结构文件</strong> <code>/data/books/{book_id}/chapters.json</code></p>
+<div class="code-block">
+<span class="cmt">// 定义一书的卷次、篇目、体例分类</span><br>
+{<br>
+&nbsp;&nbsp;<span class="key">"book_id"</span>: <span class="str">"shiji"</span>,<br>
+&nbsp;&nbsp;<span class="key">"structure_type"</span>: <span class="str">"jizhuan"</span>, <span class="cmt">// jizhuan纪传/biannian编年/jishi本末</span><br>
+&nbsp;&nbsp;<span class="key">"volumes"</span>: [{<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="key">"juan_id"</span>: <span class="str">"book:shiji:juan:001"</span>,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="key">"juan_number"</span>: 1,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="key">"juan_name"</span>: <span class="str">"五帝本纪第一"</span>,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="key">"category"</span>: <span class="str">"benji"</span>, <span class="cmt">// benji/biao/shu/shijia/liezhuan</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="key">"chapter_id"</span>: <span class="str">"book:shiji:chapter:benji01"</span><br>
+&nbsp;&nbsp;}]<br>
+}
+</div>
+
+<p><strong>2. 纯正文文件</strong> <code>/data/books/{book_id}/text.json</code></p>
+<div class="code-block">
+<span class="cmt">// 正文完全纯净，无任何注标标记，逐句带唯一ID</span><br>
+{<br>
+&nbsp;&nbsp;<span class="key">"chapter_id"</span>: <span class="str">"book:shiji:chapter:benji01"</span>,<br>
+&nbsp;&nbsp;<span class="key">"paragraphs"</span>: [{<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="key">"para_id"</span>: <span class="str">"text:shiji:para:benji01_p001"</span>,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="key">"sentences"</span>: [{<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="key">"sent_id"</span>: <span class="str">"text:shiji:sentence:benji01_001"</span>,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="key">"text"</span>: <span class="str">"黄帝者，少典之子，姓公孙，名曰轩辕。"</span>,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="key">"order_in_chapter"</span>: 1<br>
+&nbsp;&nbsp;&nbsp;&nbsp;}]<br>
+&nbsp;&nbsp;}]<br>
+}
+</div>
+
+<p><strong>3. 批注文件</strong> <code>/data/books/{book_id}/annotations.json</code></p>
+<div class="code-block">
+<span class="cmt">// 批注完全独立，通过target_sent_id绑定到正文句</span><br>
+{<br>
+&nbsp;&nbsp;<span class="key">"annotations"</span>: [{<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="key">"anno_id"</span>: <span class="str">"book:shiji:annotation:000001"</span>,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="key">"annotator"</span>: <span class="str">"裴骃"</span>,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="key">"anno_type"</span>: <span class="str">"jijie"</span>, <span class="cmt">// jijie集解/suoyin索隐/zhengyi正义/hu胡注/yan颜注/pei裴注</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="key">"target_sent_id"</span>: <span class="str">"text:shiji:sentence:benji01_001"</span>,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="key">"content"</span>: <span class="str">"少典，有熊氏国君也。"</span>,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="key">"source_version"</span>: <span class="str">"武英殿本三家注史记"</span><br>
+&nbsp;&nbsp;}]<br>
+}
+</div>
+
+<h3>3.2 L2 单本书本体层</h3>
+<p><strong>1. 书目元数据</strong> <code>/data/books/{book_id}/meta.json</code>（记录作者、年代、卷数、体例、注本版本、覆盖时段）</p>
+<p><strong>2. 单本书内实体</strong> <code>/data/books/{book_id}/entities.json</code></p>
+<div class="code-block">
+<span class="cmt">// 单本书视角下的人物/事件/地理，保留原书记载，未做跨书去重</span><br>
+{<br>
+&nbsp;&nbsp;<span class="key">"persons"</span>: [{<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="key">"book_person_id"</span>: <span class="str">"book:shiji:person:huangdi"</span>,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="key">"name_in_book"</span>: <span class="str">"黄帝"</span>,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="key">"aliases_in_book"</span>: [<span class="str">"轩辕"</span>, <span class="str">"有熊氏"</span>],<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="key">"global_id"</span>: <span class="str">"global:person:huangdi"</span>, <span class="cmt">// 关联到全景层</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="key">"first_appear_sent_id"</span>: <span class="str">"text:shiji:sentence:benji01_001"</span><br>
+&nbsp;&nbsp;}],<br>
+&nbsp;&nbsp;<span class="key">"events_in_book"</span>: [...]<br>
+}
+</div>
+
+<h3>3.3 L3 历史全景层</h3>
+<p>全局统一实体库，按类型分文件存储：</p>
+<ul>
+<li><code>/data/global/persons.json</code>：统一人物库，聚合所有书中对该人物的记载</li>
+<li><code>/data/global/events.json</code>：统一事件库，挂载所有史料来源与考异</li>
+<li><code>/data/global/places.json</code>：统一地理库，对应古今地名、政区沿革</li>
+<li><code>/data/global/institutions.json</code>：统一制度官职库，记录制度沿革脉络</li>
+<li><code>/data/global/dynasties.json</code>：统一朝代年表，所有时间坐标基准</li>
+<li><code>/data/global/relations.json</code>：跨书全局关系库（人物参与事件、事件因果、制度沿革等），每条关系必须带evidence</li>
+</ul>
+</div>
+
+<div class="schema-section" id="chain">
+<h2>四、核心关联机制：四级溯源锚点</h2>
+<p>所有全局实体最终必须锚定到原文句子，形成完整可追溯链，保证"无一字无来处"：</p>
+
+<div class="chain-box">
+<div class="level3">🌐 global:person:huangdi &nbsp;&nbsp;<span style="color:#666; font-weight:normal;">// 全景层统一黄帝实体</span></div>
+<div class="level2">└── appear_in_books → book:shiji:person:huangdi &nbsp;&nbsp;<span style="color:#666;">// 史记中记载的黄帝</span></div>
+<div class="level1">└── first_appear → text:shiji:sentence:benji01_001 &nbsp;&nbsp;<span style="color:#666;">// 原文具体句子</span></div>
+<div class="level0">└── 原文：黄帝者，少典之子，姓公孙，名曰轩辕。</div>
+<div class="level0">└── 裴骃《集解》注：少典，有熊氏国君也。&nbsp;<span style="color:#666;">// 对应批注</span></div>
+</div>
+</div>
+
+<div class="schema-section" id="rules">
+<h2>五、关联与校验规则</h2>
+<div class="rule-card"><strong>1. 向上聚合规则：</strong> 单本书实体可以映射到多个全局实体（异名同实），必须人工确认<code>same_as_confirmed: true</code>，未确认的不进入全局统计</div>
+<div class="rule-card"><strong>2. 向下溯源规则：</strong> 所有全局实体的属性、关系，必须至少有一条<code>evidence</code>指向原文sent_id，无证据的关系不入库</div>
+<div class="rule-card"><strong>3. 异文保留规则：</strong> 不同书对同一事件/人物的记载差异，存入<code>variants_in_books</code>字段，绝不覆盖原书记载</div>
+<div class="rule-card"><strong>4. 考异机制：</strong> 司马光《资治通鉴考异》类条目直接作为<code>kaoyi</code>字段挂载到全局事件下，作为史学考证证据，不混入正文</div>
+<div class="rule-card"><strong>5. 注疏关联规则：</strong> 注疏通过<code>target_sent_id</code>间接关联到全局实体，可额外标注<code>related_global_entity</code>直接关联到人物/地理/制度</div>
+<div class="rule-card"><strong>6. 原始不变规则：</strong> L1文本层文件一旦录入永不修改，所有校勘、考证、对齐都在L2/L3层完成</div>
+</div>
+
+<div class="schema-section" id="structure">
+<h2>六、文件目录结构</h2>
+<div class="code-block">
+history-site/data/<br>
+├── schema/<br>
+│&nbsp;&nbsp; └── data-structure.md &nbsp;&nbsp;<span class="cmt">// 本规范文档</span><br>
+├── global/ &nbsp;&nbsp;<span class="cmt">// L3 历史全景层</span><br>
+│&nbsp;&nbsp; ├── persons.json<br>
+│&nbsp;&nbsp; ├── events.json<br>
+│&nbsp;&nbsp; ├── places.json<br>
+│&nbsp;&nbsp; ├── institutions.json<br>
+│&nbsp;&nbsp; ├── dynasties.json<br>
+│&nbsp;&nbsp; └── relations.json<br>
+└── books/ &nbsp;&nbsp;<span class="cmt">// L1+L2 单书层，每书一个目录</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; ├── shiji/<br>
+&nbsp;&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp; ├── meta.json &nbsp;&nbsp;<span class="cmt">// 元数据</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp; ├── chapters.json &nbsp;&nbsp;<span class="cmt">// 篇章结构</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp; ├── text.json &nbsp;&nbsp;<span class="cmt">// 纯正文（已分离）</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp; ├── annotations.json &nbsp;&nbsp;<span class="cmt">// 批注库（已分离）</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; │&nbsp;&nbsp; └── entities.json &nbsp;&nbsp;<span class="cmt">// 待抽取</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; ├── zizhitongjian/<br>
+&nbsp;&nbsp;&nbsp;&nbsp; └── hanshu/<br>
+</div>
+</div>
+
+<div class="schema-section" id="roadmap">
+<h2>七、落地步骤</h2>
+<div class="timeline">
+  <div class="timeline-item"><div class="timeline-date">M1</div>
+    <h4>规范与基础完成</h4>
+    <p>Schema规范发布、底层目录结构搭建、史记/资治通鉴L1文本+批注分离完成。</p></div>
+  <div class="timeline-item"><div class="timeline-date">M2</div>
+    <h4>史记样板跑通</h4>
+    <p>抽取史记中100个核心人物、50个核心事件，对齐到全局层，形成完整可运行的样本，验证四级溯源链。</p></div>
+  <div class="timeline-item"><div class="timeline-date">M3</div>
+    <h4>前四史批量对齐</h4>
+    <p>开发半自动对齐工具，完成汉书、后汉书、三国志的实体抽取与全局对齐。</p></div>
+  <div class="timeline-item"><div class="timeline-date">M4</div>
+    <h4>历史全景统计上线</h4>
+    <p>基于全局库开发可视化统计面板，上线各类跨书统计、因果链、沿革图谱。</p></div>
+  <div class="timeline-item"><div class="timeline-date">M5</div>
+    <h4>全量覆盖</h4>
+    <p>完成二十四史+资治通鉴全部实体对齐，注疏关联全局实体，支持点击注疏直接跳转对应人物/地理/制度页面。</p></div>
+</div>
+</div>
+
+</main>
+
+<footer class="footer">
+  <div class="container">
+    <p>© 2026 中国历史本体论项目 · 基于双层本体架构构建</p>
+  </div>
+</footer>
+</body>
+</html>
