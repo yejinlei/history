@@ -1,0 +1,111 @@
+{
+  "book": "史记",
+  "chapter": "汉兴以来将相名臣年表第十",
+  "persons": [
+    {
+      "id": "jx-p1",
+      "name": "萧何",
+      "alias": [
+        "萧丞相",
+        "酂侯"
+      ],
+      "dynasty": "西汉",
+      "role": "开国丞相，汉初三杰之首",
+      "evidence": [
+        5
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "jx-p2",
+      "name": "司马迁",
+      "alias": [
+        "太史公"
+      ],
+      "dynasty": "西汉",
+      "role": "《史记》作者",
+      "evidence": [],
+      "description": "本表无太史公序文，多认为经后人续补",
+      "global_same_as": ""
+    }
+  ],
+  "events": [
+    {
+      "id": "jx-e1",
+      "name": "汉高祖元年刘邦为汉王",
+      "dynasty": "秦汉之际",
+      "time": "前206年",
+      "evidence": [
+        5
+      ],
+      "description": "汉高祖元年，萧何守汉中，为汉家制度起点",
+      "global_same_as": ""
+    }
+  ],
+  "institutions": [
+    {
+      "id": "jx-i1",
+      "name": "三公制度",
+      "type": "中央官制",
+      "description": "汉代以丞相、太尉、御史大夫为三公，为最高行政、军事、监察长官",
+      "evidence": [
+        2,
+        3,
+        4
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "jx-i2",
+      "name": "丞相",
+      "type": "官职",
+      "description": "三公之首，最高行政长官，掌丞天子助理万机",
+      "evidence": [
+        2
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "jx-i3",
+      "name": "太尉",
+      "type": "官职",
+      "description": "三公之一，最高军事长官",
+      "evidence": [
+        2
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "jx-i4",
+      "name": "御史大夫",
+      "alias": [
+        "亚相"
+      ],
+      "type": "官职",
+      "description": "三公之一，副丞相，掌监察",
+      "evidence": [
+        4
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "jx-i5",
+      "name": "后人续表",
+      "type": "体例说明",
+      "description": "本表无太史公序，记事讫成帝鸿嘉元年，学者认为经褚少孙或冯商等后人续补",
+      "evidence": [],
+      "global_same_as": ""
+    }
+  ],
+  "relations": [
+    {
+      "id": "jx-r1",
+      "type": "served_as",
+      "subject": "萧何",
+      "object": "丞相",
+      "evidence": [
+        5
+      ]
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "book": "史记",
+  "chapter": "建元以来侯者年表第八",
+  "persons": [
+    {
+      "id": "jyh-p1",
+      "name": "司马迁",
+      "alias": [
+        "太史公"
+      ],
+      "dynasty": "西汉",
+      "role": "《史记》作者",
+      "evidence": [
+        2
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "jyh-p2",
+      "name": "褚少孙",
+      "alias": [
+        "褚先生"
+      ],
+      "dynasty": "西汉",
+      "role": "博士，续补《史记》",
+      "evidence": [
+        1
+      ],
+      "description": "索隐及篇末补文作者",
+      "global_same_as": ""
+    },
+    {
+      "id": "jyh-p3",
+      "name": "汉武帝",
+      "alias": [
+        "刘彻"
+      ],
+      "dynasty": "西汉",
+      "role": "西汉第五代皇帝",
+      "evidence": [
+        2
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "jyh-p4",
+      "name": "齐桓公",
+      "alias": [
+        "小白"
+      ],
+      "dynasty": "春秋",
+      "role": "春秋五霸之首",
+      "evidence": [
+        2
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "jyh-p5",
+      "name": "赵武灵王",
+      "dynasty": "战国",
+      "role": "赵国君主，胡服骑射",
+      "evidence": [
+        2
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "jyh-p6",
+      "name": "秦穆公",
+      "alias": [
+        "秦繆公",
+        "缪公"
+      ],
+      "dynasty": "春秋",
+      "role": "秦国君主，春秋五霸之一，霸西戎",
+      "evidence": [
+        2
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "jyh-p7",
+      "name": "百里奚",
+      "alias": [
+        "百里"
+      ],
+      "dynasty": "春秋",
+      "role": "秦国相，助秦穆公霸西戎",
+      "evidence": [
+        2
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "jyh-p8",
+      "name": "韩说",
+      "alias": [
+        "龙额侯"
+      ],
+      "dynasty": "西汉",
+      "role": "龙额侯，前将军，厚重谨信得传国久远",
+      "evidence": [
+        244
+      ],
+      "global_same_as": ""
+    }
+  ],
+  "places": [
+    {
+      "id": "jyh-pl1",
+      "name": "匈奴",
+      "type": "北方游牧民族政权",
+      "evidence": [
+        2
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "jyh-pl2",
+      "name": "闽越",
+      "type": "东南越族政权",
+      "evidence": [
+        2
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "jyh-pl3",
+      "name": "东瓯",
+      "type": "东南越族政权",
+      "evidence": [
+        2
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "jyh-pl4",
+      "name": "山戎",
+      "type": "北方部族",
+      "evidence": [
+        2
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "jyh-pl5",
+      "name": "西戎",
+      "type": "西方部族",
+      "evidence": [
+        2
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "jyh-pl6",
+      "name": "百越",
+      "type": "南方越族统称",
+      "evidence": [
+        2
+      ],
+      "global_same_as": ""
+    }
+  ],
+  "events": [
+    {
+      "id": "jyh-e1",
+      "name": "马邑之谋汉匈绝和亲",
+      "dynasty": "西汉",
+      "time": "武帝元光二年（前133年）",
+      "evidence": [
+        2
+      ],
+      "description": "汉设伏马邑谋击匈奴，事泄，匈奴绝和亲，汉匈战争开始",
+      "global_same_as": ""
+    },
+    {
+      "id": "jyh-e2",
+      "name": "闽越伐东瓯",
+      "dynasty": "西汉",
+      "time": "建元三年（前138年）",
+      "evidence": [
+        2
+      ],
+      "description": "闽越发兵围东瓯，汉出兵救援，东瓯内徙",
+      "global_same_as": ""
+    },
+    {
+      "id": "jyh-e3",
+      "name": "齐桓公北伐山戎",
+      "dynasty": "春秋",
+      "time": "前664年",
+      "evidence": [
+        2
+      ],
+      "description": "齐桓公越燕伐山戎以救燕",
+      "global_same_as": ""
+    },
+    {
+      "id": "jyh-e4",
+      "name": "赵武灵王胡服骑射服单于",
+      "dynasty": "战国",
+      "evidence": [
+        2
+      ],
+      "description": "赵武灵王改革胡服骑射，北破林胡楼烦",
+      "global_same_as": ""
+    },
+    {
+      "id": "jyh-e5",
+      "name": "秦穆公用百里奚霸西戎",
+      "dynasty": "春秋",
+      "evidence": [
+        2
+      ],
+      "description": "秦穆公称霸西戎，益国十二开地千里",
+      "global_same_as": ""
+    },
+    {
+      "id": "jyh-e6",
+      "name": "汉武帝北伐匈奴南诛两越",
+      "dynasty": "西汉",
+      "time": "武帝时期",
+      "evidence": [
+        2
+      ],
+      "description": "汉武帝时期北征匈奴、南诛两越，大规模开疆拓土",
+      "global_same_as": ""
+    }
+  ],
+  "institutions": [
+    {
+      "id": "jyh-i1",
+      "name": "建元",
+      "type": "年号制度",
+      "description": "汉武帝第一个年号（前140年），是中国历史上第一个正式使用的年号",
+      "evidence": [
+        1
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "jyh-i2",
+      "name": "和亲",
+      "type": "外交制度",
+      "description": "中原王朝与周边民族通过联姻维持和平",
+      "evidence": [
+        2
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "jyh-i3",
+      "name": "军功封侯",
+      "type": "爵制",
+      "description": "因军功而封列侯，是武帝时期封侯主要途径",
+      "evidence": [
+        2
+      ],
+      "global_same_as": ""
+    }
+  ],
+  "relations": [
+    {
+      "id": "jyh-r1",
+      "type": "initiated",
+      "subject": "汉武帝",
+      "object": "汉武帝北伐匈奴南诛两越",
+      "evidence": [
+        2
+      ]
+    },
+    {
+      "id": "jyh-r2",
+      "type": "assisted_by",
+      "subject": "秦穆公",
+      "object": "百里奚",
+      "evidence": [
+        2
+      ]
+    },
+    {
+      "id": "jyh-r3",
+      "type": "reigned_over",
+      "subject": "齐桓公",
+      "object": "齐国",
+      "evidence": [
+        2
+      ]
+    },
+    {
+      "id": "jyh-r4",
+      "type": "supplemented",
+      "subject": "褚少孙",
+      "object": "史记",
+      "description": "褚少孙补续孝昭以来功臣侯者",
+      "evidence": [
+        1
+      ]
+    }
+  ]
+}

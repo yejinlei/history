@@ -1,0 +1,346 @@
+{
+  "book": "史记",
+  "chapter": "惠景间侯者年表第七",
+  "persons": [
+    {
+      "id": "hjh-p1",
+      "name": "司马迁",
+      "alias": [
+        "太史公"
+      ],
+      "dynasty": "西汉",
+      "role": "《史记》作者",
+      "evidence": [
+        1
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "hjh-p2",
+      "name": "吴浅",
+      "alias": [
+        "便顷侯"
+      ],
+      "dynasty": "西汉",
+      "role": "便侯，长沙王吴芮之子",
+      "evidence": [
+        1
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "hjh-p3",
+      "name": "吴芮",
+      "alias": [
+        "长沙文王"
+      ],
+      "dynasty": "秦末汉初",
+      "role": "长沙王，汉初唯一善终的异姓王",
+      "evidence": [
+        1
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "hjh-p4",
+      "name": "汉高祖",
+      "alias": [
+        "刘邦"
+      ],
+      "dynasty": "西汉",
+      "role": "汉朝开国皇帝",
+      "evidence": [
+        1
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "hjh-p5",
+      "name": "孝惠帝",
+      "alias": [
+        "刘盈",
+        "汉惠帝"
+      ],
+      "dynasty": "西汉",
+      "role": "西汉第二代皇帝",
+      "evidence": [
+        1
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "hjh-p6",
+      "name": "汉文帝",
+      "alias": [
+        "刘恒",
+        "孝文帝"
+      ],
+      "dynasty": "西汉",
+      "role": "西汉第三代皇帝，以代王身分入继大统",
+      "evidence": [
+        1
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "hjh-p7",
+      "name": "汉景帝",
+      "alias": [
+        "刘启",
+        "孝景帝"
+      ],
+      "dynasty": "西汉",
+      "role": "西汉第四代皇帝",
+      "evidence": [
+        1
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "hjh-p8",
+      "name": "周亚夫",
+      "alias": [
+        "条侯"
+      ],
+      "dynasty": "西汉",
+      "role": "太尉、丞相，平定吴楚七国之乱主帅",
+      "evidence": [
+        2
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "hjh-p9",
+      "name": "薄太后",
+      "alias": [
+        "薄姬"
+      ],
+      "dynasty": "西汉",
+      "role": "汉文帝生母",
+      "evidence": [
+        2
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "hjh-p10",
+      "name": "窦太后",
+      "alias": [
+        "窦漪房"
+      ],
+      "dynasty": "西汉",
+      "role": "汉文帝皇后",
+      "evidence": [
+        2
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "hjh-p11",
+      "name": "诸吕",
+      "alias": [
+        "吕氏"
+      ],
+      "dynasty": "西汉",
+      "role": "吕后家族，吕后死后被诛",
+      "evidence": [
+        2
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "hjh-p12",
+      "name": "吴王刘濞",
+      "alias": [
+        "吴王濞"
+      ],
+      "dynasty": "西汉",
+      "role": "吴楚七国之乱发起者",
+      "evidence": [
+        1,
+        2
+      ],
+      "global_same_as": ""
+    }
+  ],
+  "places": [
+    {
+      "id": "hjh-pl1",
+      "name": "长沙国",
+      "type": "诸侯王国",
+      "evidence": [
+        1
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "hjh-pl2",
+      "name": "代国",
+      "type": "诸侯王国",
+      "evidence": [
+        1
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "hjh-pl3",
+      "name": "便县",
+      "type": "县名，属桂阳郡",
+      "evidence": [
+        1
+      ],
+      "global_same_as": ""
+    }
+  ],
+  "events": [
+    {
+      "id": "hjh-e1",
+      "name": "高祖封异姓王八",
+      "dynasty": "西汉初",
+      "time": "高祖初年",
+      "evidence": [
+        1
+      ],
+      "description": "汉高祖初年分封八个异姓王",
+      "global_same_as": ""
+    },
+    {
+      "id": "hjh-e2",
+      "name": "长沙王五世而绝",
+      "dynasty": "西汉",
+      "time": "文帝后元七年（前157年）",
+      "evidence": [
+        1
+      ],
+      "description": "长沙王传五世因无嗣国除，是汉初异姓王中唯一以忠保全者",
+      "global_same_as": ""
+    },
+    {
+      "id": "hjh-e3",
+      "name": "诸吕之祸",
+      "dynasty": "西汉",
+      "time": "前180年",
+      "evidence": [
+        2
+      ],
+      "description": "吕后死后诸吕专权，被大臣周勃陈平等诛灭",
+      "global_same_as": ""
+    },
+    {
+      "id": "hjh-e4",
+      "name": "吴楚七国之乱",
+      "dynasty": "西汉",
+      "time": "前154年",
+      "evidence": [
+        1,
+        2
+      ],
+      "description": "吴王刘濞联合七国以诛晁错为名反叛，被周亚夫平定",
+      "global_same_as": ""
+    },
+    {
+      "id": "hjh-e5",
+      "name": "文帝自代入即帝位",
+      "dynasty": "西汉",
+      "time": "前180年",
+      "evidence": [
+        1
+      ],
+      "description": "诸吕被诛后，代王刘恒从代国入长安即位为汉文帝",
+      "global_same_as": ""
+    }
+  ],
+  "institutions": [
+    {
+      "id": "hjh-i1",
+      "name": "令甲",
+      "type": "法令制度",
+      "description": "汉代法令分甲乙丙等，令甲即甲令，为法令首篇，著录重要制度",
+      "evidence": [
+        1
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "hjh-i2",
+      "name": "肺腑",
+      "type": "封侯类别",
+      "description": "指皇室外戚、天子心腹之臣，后世称因外戚关系封侯为肺腑",
+      "evidence": [
+        1
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "hjh-i3",
+      "name": "归义侯",
+      "type": "侯爵类别",
+      "description": "外国降附汉朝者封侯，称归义",
+      "evidence": [
+        1
+      ],
+      "global_same_as": ""
+    }
+  ],
+  "states": [
+    {
+      "id": "hjh-s1",
+      "name": "异姓八王",
+      "type": "汉初异姓诸侯王国",
+      "description": "楚王韩信、韩王信、燕王卢绾、梁王彭越、赵王张耳、淮南王英布、临江王共敖、长沙王吴芮",
+      "evidence": [
+        1
+      ],
+      "global_same_as": ""
+    }
+  ],
+  "relations": [
+    {
+      "id": "hjh-r1",
+      "type": "enfeoffed",
+      "subject": "汉高祖",
+      "object": "吴芮",
+      "description": "高祖封吴芮为长沙王",
+      "evidence": [
+        1
+      ]
+    },
+    {
+      "id": "hjh-r2",
+      "type": "served_as",
+      "subject": "吴浅",
+      "object": "便侯",
+      "evidence": [
+        1
+      ]
+    },
+    {
+      "id": "hjh-r3",
+      "type": "survived",
+      "subject": "长沙国",
+      "object": "汉初异姓王诛灭",
+      "description": "唯独长沙王以忠保全",
+      "evidence": [
+        1
+      ]
+    },
+    {
+      "id": "hjh-r4",
+      "type": "suppressed",
+      "subject": "周亚夫",
+      "object": "吴楚七国之乱",
+      "evidence": [
+        2
+      ]
+    },
+    {
+      "id": "hjh-r5",
+      "type": "destroyed",
+      "subject": "周勃陈平",
+      "object": "诸吕之祸",
+      "evidence": [
+        2
+      ]
+    }
+  ]
+}

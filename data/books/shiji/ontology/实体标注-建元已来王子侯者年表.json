@@ -1,0 +1,25 @@
+{
+  "chapter": "建元已来王子侯者年表第九",
+  "mentions": [
+    {
+      "text": "朕",
+      "entity_id": "jz-wz1",
+      "sent_id": "shiji-建元已來王子侯者年表第九-1"
+    },
+    {
+      "text": "諸侯王",
+      "entity_id": "",
+      "sent_id": "shiji-建元已來王子侯者年表第九-1"
+    },
+    {
+      "text": "太史公",
+      "entity_id": "jz-wz3",
+      "sent_id": "shiji-建元已來王子侯者年表第九-2"
+    },
+    {
+      "text": "天子",
+      "entity_id": "jz-wz1",
+      "sent_id": "shiji-建元已來王子侯者年表第九-2"
+    }
+  ]
+}

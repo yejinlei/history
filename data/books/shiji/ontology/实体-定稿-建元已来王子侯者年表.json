@@ -1,0 +1,96 @@
+{
+  "book": "史记",
+  "chapter": "建元已来王子侯者年表第九",
+  "persons": [
+    {
+      "id": "jz-wz1",
+      "name": "汉武帝",
+      "alias": [
+        "刘彻",
+        "今上"
+      ],
+      "dynasty": "西汉",
+      "role": "西汉皇帝，颁布推恩令",
+      "evidence": [
+        1,
+        2
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "jz-wz2",
+      "name": "主父偃",
+      "dynasty": "西汉",
+      "role": "中大夫，建议推恩令",
+      "evidence": [],
+      "description": "推恩令的提出者，见《平津侯主父列传》",
+      "global_same_as": ""
+    },
+    {
+      "id": "jz-wz3",
+      "name": "司马迁",
+      "alias": [
+        "太史公"
+      ],
+      "dynasty": "西汉",
+      "role": "《史记》作者",
+      "evidence": [
+        2
+      ],
+      "global_same_as": ""
+    }
+  ],
+  "events": [
+    {
+      "id": "jz-e1",
+      "name": "推恩令颁布",
+      "dynasty": "西汉",
+      "time": "武帝元朔二年（前127年）",
+      "evidence": [
+        1
+      ],
+      "description": "汉武帝采纳主父偃建议，下诏允许诸侯王推恩分封子弟为侯",
+      "global_same_as": ""
+    }
+  ],
+  "institutions": [
+    {
+      "id": "jz-i1",
+      "name": "推恩令",
+      "type": "政治制度",
+      "description": "汉武帝削藩政策，令诸侯王得分封子弟为侯，由皇帝定名号，侯国属郡，使藩国自析",
+      "evidence": [
+        1
+      ],
+      "global_same_as": ""
+    },
+    {
+      "id": "jz-i2",
+      "name": "众建诸侯而少其力",
+      "type": "政治策略",
+      "description": "贾谊提出、主父偃推行的削藩策略，通过分封诸侯王子弟使大国变小",
+      "evidence": [
+        1
+      ],
+      "global_same_as": ""
+    }
+  ],
+  "relations": [
+    {
+      "id": "jz-r1",
+      "type": "enacted",
+      "subject": "汉武帝",
+      "object": "推恩令颁布",
+      "evidence": [
+        1
+      ]
+    },
+    {
+      "id": "jz-r2",
+      "type": "proposed",
+      "subject": "主父偃",
+      "object": "推恩令",
+      "evidence": []
+    }
+  ]
+}
