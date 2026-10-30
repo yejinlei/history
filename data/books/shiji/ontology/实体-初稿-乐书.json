@@ -1,0 +1,65 @@
+{
+  "book": "史记",
+  "chapter": "乐书第二",
+  "persons": [
+    {"id": "leshu-p1", "name": "周成王", "alias": ["姬诵"], "dynasty": "西周", "role": "西周第二位君主，作周颂", "evidence": [2], "global_same_as": ""},
+    {"id": "leshu-p2", "name": "孔子", "alias": ["仲尼", "孔丘"], "dynasty": "春秋", "role": "儒家创始人，整理雅乐", "evidence": [3], "global_same_as": ""},
+    {"id": "leshu-p3", "name": "秦二世", "alias": ["胡亥"], "dynasty": "秦朝", "role": "秦朝第二位皇帝，沉溺声色", "evidence": [4], "global_same_as": ""},
+    {"id": "leshu-p4", "name": "李斯", "alias": [], "dynasty": "秦朝", "role": "秦朝丞相，谏秦二世节乐", "evidence": [4], "global_same_as": ""},
+    {"id": "leshu-p5", "name": "赵高", "alias": [], "dynasty": "秦朝", "role": "秦朝中车府令，怂恿二世享乐", "evidence": [4], "global_same_as": ""},
+    {"id": "leshu-p6", "name": "汉高祖", "alias": ["刘邦"], "dynasty": "西汉", "role": "汉朝开国皇帝，作大风歌", "evidence": [5], "global_same_as": ""},
+    {"id": "leshu-p7", "name": "李延年", "alias": [], "dynasty": "西汉", "role": "协律都尉，为郊祀歌谱曲", "evidence": [6], "global_same_as": ""},
+    {"id": "leshu-p8", "name": "汉武帝", "alias": ["刘彻", "今上"], "dynasty": "西汉", "role": "西汉第五位皇帝，定郊祀乐", "evidence": [6], "global_same_as": ""},
+    {"id": "leshu-p9", "name": "刘德", "alias": ["河间献王"], "dynasty": "西汉", "role": "河间王，好儒，与毛生作乐记", "evidence": [7], "global_same_as": ""},
+    {"id": "leshu-p10", "name": "舜", "alias": ["虞舜"], "dynasty": "上古", "role": "五帝之一，弹五弦琴歌南风", "evidence": [13], "global_same_as": ""},
+    {"id": "leshu-p11", "name": "商纣王", "alias": ["帝辛", "纣"], "dynasty": "商朝末代君主", "role": "作北鄙靡靡之乐，亡国", "evidence": [13], "global_same_as": ""},
+    {"id": "leshu-p12", "name": "魏文侯", "alias": ["魏斯"], "dynasty": "战国", "role": "魏国君主，问乐于子夏", "evidence": [35], "global_same_as": ""},
+    {"id": "leshu-p13", "name": "子夏", "alias": ["卜商"], "dynasty": "春秋末战国初", "role": "孔子弟子，为魏文侯论乐", "evidence": [35], "global_same_as": ""},
+    {"id": "leshu-p14", "name": "郑玄", "alias": [], "dynasty": "东汉", "role": "经学家，为礼记作注", "evidence": [1], "global_same_as": ""},
+    {"id": "leshu-p15", "name": "师延", "alias": [], "dynasty": "商朝", "role": "商纣王乐师，作靡靡之乐", "evidence": [25], "global_same_as": ""},
+    {"id": "leshu-p16", "name": "王禹", "alias": [], "dynasty": "西汉成帝时", "role": "谒者，传河间乐记", "evidence": [7], "global_same_as": ""}
+  ],
+  "places": [
+    {"id": "leshu-pl1", "name": "鲁国", "type": "诸侯国", "evidence": [3], "global_same_as": ""},
+    {"id": "leshu-pl2", "name": "齐国", "type": "诸侯国", "evidence": [3], "global_same_as": ""},
+    {"id": "leshu-pl3", "name": "沛县", "type": "县名，汉高祖故乡", "evidence": [5], "global_same_as": ""},
+    {"id": "leshu-pl4", "name": "河间国", "type": "诸侯王国", "evidence": [7], "global_same_as": ""},
+    {"id": "leshu-pl5", "name": "桑间濮上", "type": "地名，濮水之上", "evidence": [25], "description": "商纣亡国之音产生地，在濮水之滨", "global_same_as": ""},
+    {"id": "leshu-pl6", "name": "郑国", "type": "诸侯国", "evidence": [3], "description": "郑音为乱世淫乐代表", "global_same_as": ""},
+    {"id": "leshu-pl7", "name": "卫国", "type": "诸侯国", "evidence": [45], "description": "卫音急促烦志", "global_same_as": ""},
+    {"id": "leshu-pl8", "name": "宋国", "type": "诸侯国", "evidence": [45], "description": "宋音燕女溺志", "global_same_as": ""},
+    {"id": "leshu-pl9", "name": "朝歌", "type": "商朝都城", "evidence": [13], "global_same_as": ""}
+  ],
+  "events": [
+    {"id": "leshu-e1", "name": "孔子正乐去鲁", "dynasty": "春秋", "time": "鲁定公时", "evidence": [3], "description": "齐人归女乐于鲁，季桓子受之，孔子不能容，退而正乐，然后去鲁", "global_same_as": ""},
+    {"id": "leshu-e2", "name": "高祖还乡作大风歌", "dynasty": "西汉初", "time": "高祖十二年", "evidence": [5], "description": "高祖过沛，置酒沛宫，击筑自歌大风歌，令沛中儿百二十人和习之", "global_same_as": ""},
+    {"id": "leshu-e3", "name": "汉武帝定郊祀歌十九章", "dynasty": "西汉", "time": "汉武帝时", "evidence": [6], "description": "武帝定郊祀之礼，作郊祀歌十九章，命李延年为协律都尉谱曲", "global_same_as": ""},
+    {"id": "leshu-e4", "name": "河间献王作乐记", "dynasty": "西汉", "time": "汉武帝时", "evidence": [7], "description": "河间献王刘德与毛生等采周官诸子言乐事者，作乐记，献八佾之舞", "global_same_as": ""},
+    {"id": "leshu-e5", "name": "舜歌南风而天下治", "dynasty": "上古", "evidence": [13], "description": "舜弹五弦之琴，歌南风之诗，天下大治", "global_same_as": ""},
+    {"id": "leshu-e6", "name": "纣作北鄙靡靡之音亡国", "dynasty": "商朝末年", "evidence": [13], "description": "商纣王好朝歌北鄙之音，师延作靡靡之乐，终致身死国亡", "global_same_as": ""},
+    {"id": "leshu-e7", "name": "子夏为魏文侯论古今乐", "dynasty": "战国", "time": "魏文侯时", "evidence": [35,45], "description": "魏文侯问古乐新乐之异，子夏答以古乐治身齐家、新乐溺音害德之理，分论郑宋卫齐四音之弊", "global_same_as": ""}
+  ],
+  "institutions": [
+    {"id": "leshu-i1", "name": "雅乐", "type": "音乐制度", "description": "古代用于祭祀朝会的正乐，别于世俗新声", "evidence": [7,35], "global_same_as": ""},
+    {"id": "leshu-i2", "name": "郑卫之音", "type": "音乐", "description": "春秋战国时期郑卫等地的民间新乐，被儒家视为乱世淫乐", "evidence": [25,45], "global_same_as": ""},
+    {"id": "leshu-i3", "name": "三侯之章", "type": "乐舞", "description": "即汉高祖《大风歌》，因有三个兮字，故称三侯之章，为汉宗庙乐", "evidence": [5], "global_same_as": ""},
+    {"id": "leshu-i4", "name": "协律都尉", "type": "官职", "description": "汉武帝所置官职，掌谱曲制乐，李延年曾任此职", "evidence": [6], "global_same_as": ""},
+    {"id": "leshu-i5", "name": "乐府", "type": "官署", "description": "秦汉掌管音乐的官署，负责采集民间歌谣、制谱度曲、祭祀演奏", "evidence": [5], "global_same_as": ""},
+    {"id": "leshu-i6", "name": "五音", "type": "音乐概念", "description": "宫商角徵羽五声，分别对应君臣民事物", "evidence": [20], "global_same_as": ""},
+    {"id": "leshu-i7", "name": "八佾", "type": "乐舞制度", "description": "周天子乐舞规格，八行八列共六十四人，为最高等级乐舞", "evidence": [7], "global_same_as": ""},
+    {"id": "leshu-i8", "name": "南风", "type": "诗歌", "description": "舜所作诗歌，歌词为「南风之薰兮，可以解吾民之愠兮；南风之时兮，可以阜吾民之财兮」", "evidence": [13], "global_same_as": ""},
+    {"id": "leshu-i9", "name": "郊祀歌", "type": "乐歌", "description": "汉武帝时所作祭祀天地的乐歌十九章，文辞雅驯，多古字", "evidence": [6], "global_same_as": ""}
+  ],
+  "relations": [
+    {"id": "leshu-r1", "type": "advised", "subject": "李斯", "object": "秦二世", "description": "李斯谏秦二世不可过度享乐", "evidence": [4]},
+    {"id": "leshu-r2", "type": "advised", "subject": "赵高", "object": "秦二世", "description": "赵高怂恿秦二世纵情享乐", "evidence": [4]},
+    {"id": "leshu-r3", "type": "authored", "subject": "汉高祖", "object": "三侯之章", "evidence": [5]},
+    {"id": "leshu-r4", "type": "appointed", "subject": "汉武帝", "object": "李延年", "description": "任命李延年为协律都尉", "evidence": [6]},
+    {"id": "leshu-r5", "type": "authored", "subject": "李延年", "object": "郊祀歌", "description": "为郊祀歌十九章谱曲", "evidence": [6]},
+    {"id": "leshu-r6", "type": "authored", "subject": "刘德", "object": "乐记", "evidence": [7]},
+    {"id": "leshu-r7", "type": "authored", "subject": "舜", "object": "南风", "evidence": [13]},
+    {"id": "leshu-r8", "type": "enacted_event", "subject": "商纣王", "object": "纣作北鄙靡靡之音亡国", "evidence": [13]},
+    {"id": "leshu-r9", "type": "advised", "subject": "子夏", "object": "魏文侯", "description": "为魏文侯论古今乐之别、郑卫之音之弊", "evidence": [35,45]},
+    {"id": "leshu-r10", "type": "student_of", "subject": "子夏", "object": "孔子", "evidence": [3]}
+  ]
+}
