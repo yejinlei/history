@@ -1,0 +1,62 @@
+{
+  "book": "史记",
+  "chapter": "封禅书第六",
+  "persons": [
+    {"id": "fengchan-p1", "name": "舜", "alias": ["虞舜"], "dynasty": "上古", "role": "五帝之一，东巡狩至岱宗柴祭山川，为最早巡狩封禅记载", "evidence": [3], "global_same_as": ""},
+    {"id": "fengchan-p2", "name": "齐桓公", "alias": ["姜小白"], "dynasty": "春秋", "role": "春秋五霸之首，葵丘会盟后欲封禅，被管仲谏止", "evidence": [10], "global_same_as": ""},
+    {"id": "fengchan-p3", "name": "管仲", "alias": ["管夷吾"], "dynasty": "春秋", "role": "齐国相，谏止齐桓公封禅，列古代封禅七十二家", "evidence": [10], "global_same_as": ""},
+    {"id": "fengchan-p4", "name": "秦始皇", "alias": ["嬴政"], "dynasty": "秦朝", "role": "中国历史上第一个有明确记载封禅泰山的皇帝，前219年封泰山禅梁父", "evidence": [18], "global_same_as": ""},
+    {"id": "fengchan-p5", "name": "汉高祖", "alias": ["刘邦"], "dynasty": "西汉", "role": "汉朝开国皇帝，立北畤祀黑帝，五帝祭祀齐备", "evidence": [22], "global_same_as": ""},
+    {"id": "fengchan-p6", "name": "汉文帝", "alias": ["刘恒"], "dynasty": "西汉", "role": "西汉第三代皇帝，新垣平事败后未行封禅", "evidence": [25], "global_same_as": ""},
+    {"id": "fengchan-p7", "name": "新垣平", "alias": [], "dynasty": "西汉文帝时", "role": "方士，望气见文帝，言设立渭阳五帝庙，造假被诛", "evidence": [25], "global_same_as": ""},
+    {"id": "fengchan-p8", "name": "汉武帝", "alias": ["刘彻", "今上"], "dynasty": "西汉", "role": "西汉第五位皇帝，元封元年第一次封禅泰山，一生多次封禅，是历史上封禅次数最多的皇帝", "evidence": [32,86,90], "global_same_as": ""},
+    {"id": "fengchan-p9", "name": "赵绾", "alias": [], "dynasty": "西汉武帝时", "role": "御史大夫，建议立明堂、议封禅改历，被窦太后下狱自杀", "evidence": [32], "global_same_as": ""},
+    {"id": "fengchan-p10", "name": "王臧", "alias": [], "dynasty": "西汉武帝时", "role": "郎中令，与赵绾议立明堂封禅，下狱自杀", "evidence": [32], "global_same_as": ""},
+    {"id": "fengchan-p11", "name": "公孙弘", "alias": [], "dynasty": "西汉武帝时", "role": "丞相，儒学之士，汉武帝时征召贤良首位", "evidence": [33], "global_same_as": ""},
+    {"id": "fengchan-p12", "name": "李少君", "alias": [], "dynasty": "西汉武帝时", "role": "方士，以祠灶、辟谷、却老方见武帝，言安期生蓬莱神仙事", "evidence": [40], "global_same_as": ""},
+    {"id": "fengchan-p13", "name": "安期生", "alias": ["安期"], "dynasty": "上古传说/秦汉", "role": "仙人，居蓬莱仙岛，食巨枣如瓜，李少君称曾见之", "evidence": [40], "global_same_as": ""},
+    {"id": "fengchan-p14", "name": "少翁", "alias": ["文成将军"], "dynasty": "西汉武帝时", "role": "方士，以鬼神方见帝，夜致王夫人貌，封文成将军，造假帛书被诛", "evidence": [54], "global_same_as": ""},
+    {"id": "fengchan-p15", "name": "王夫人", "alias": [], "dynasty": "西汉", "role": "汉武帝宠妃，早卒，少翁方术致其貌", "evidence": [54], "global_same_as": ""},
+    {"id": "fengchan-p16", "name": "栾大", "alias": ["五利将军", "乐通侯"], "dynasty": "西汉武帝时", "role": "方士，少翁同门，言可致神仙黄金，封五利将军乐通侯，尚卫长公主，方不验被诛", "evidence": [67], "global_same_as": ""},
+    {"id": "fengchan-p17", "name": "霍嬗", "alias": ["霍子侯"], "dynasty": "西汉", "role": "霍去病之子，奉车都尉，随武帝封泰山，暴病而卒", "evidence": [95], "global_same_as": ""},
+    {"id": "fengchan-p18", "name": "黄帝", "alias": ["轩辕"], "dynasty": "上古", "role": "五帝之首，传说封泰山禅亭亭，铸鼎乘龙升天成仙", "evidence": [86], "global_same_as": ""}
+  ],
+  "events": [
+    {"id": "fengchan-e1", "name": "舜东巡狩柴望岱宗", "dynasty": "上古", "time": "舜即位后", "evidence": [3], "description": "舜东巡狩至于岱宗（泰山），柴祭上天，望秩山川，接见东方诸侯，为最早帝王巡狩祭祀泰山记载", "global_same_as": ""},
+    {"id": "fengchan-e2", "name": "管仲谏止齐桓公封禅", "dynasty": "春秋", "time": "齐桓公三十五年葵丘会盟后", "evidence": [10], "description": "齐桓公称霸后欲封禅，管仲以古代封禅皆有祥瑞、现在凤凰麒麟不至嘉谷不生为由，谏止桓公封禅", "global_same_as": ""},
+    {"id": "fengchan-e3", "name": "秦始皇封禅泰山", "dynasty": "秦朝", "time": "秦始皇二十八年（前219年）", "evidence": [18], "description": "秦始皇统一六国后东巡，征齐鲁儒生议封禅，从泰山南登顶立石颂德，北坡下禅梁父，为中国历史上第一次有明确记载的封禅大典", "global_same_as": ""},
+    {"id": "fengchan-e4", "name": "汉高祖立北畤祀黑帝", "dynasty": "西汉初", "evidence": [22], "description": "高祖入关后，问秦祀四帝，说「待我而具五」，立北畤祀黑帝，完成五帝祭祀体系", "global_same_as": ""},
+    {"id": "fengchan-e5", "name": "新垣平望气事败被诛", "dynasty": "西汉文帝时", "evidence": [25], "description": "方士新垣平望气言祥瑞，建议立五帝庙、改正朔易服色，后造假事发被诛，文帝停止封禅改历之事", "global_same_as": ""},
+    {"id": "fengchan-e6", "name": "赵绾王臧议立明堂封禅事败自杀", "dynasty": "西汉武帝建元初年", "evidence": [32], "description": "武帝初即位，赵绾王臧议立明堂、草拟巡狩封禅改历制度，窦太后好黄老，下二人狱，二人自杀，事废", "global_same_as": ""},
+    {"id": "fengchan-e7", "name": "李少君言祠灶辟谷神仙事", "dynasty": "西汉武帝时", "evidence": [40], "description": "李少君以祠灶、谷道、却老方见武帝，言祠灶致物、丹砂化金、蓬莱安期生、封禅不死事，开启武帝求仙之风", "global_same_as": ""},
+    {"id": "fengchan-e8", "name": "少翁文成将军造假被诛", "dynasty": "西汉武帝时", "evidence": [54], "description": "齐人少翁以方术致王夫人貌，封文成将军，造甘泉宫招神，方不验，伪造帛书被识破，被诛", "global_same_as": ""},
+    {"id": "fengchan-e9", "name": "栾大五利将军贵幸被诛", "dynasty": "西汉武帝时", "evidence": [67], "description": "栾大言可致神仙黄金，一月佩四将印，封乐通侯，尚卫长公主，后不敢入海求仙，方不验被诛", "global_same_as": ""},
+    {"id": "fengchan-e10", "name": "汉武帝元封元年封禅泰山", "dynasty": "西汉", "time": "元封元年（前110年）", "evidence": [86,90], "description": "武帝元鼎六年北巡朔方勒兵十余万，次年四月封泰山、禅肃然山，改元元封，为汉代第一次封禅，此后武帝每五年一修封，共封禅五次", "global_same_as": ""},
+    {"id": "fengchan-e11", "name": "黄帝鼎成乘龙升天", "dynasty": "上古传说", "evidence": [86], "description": "传说黄帝铸鼎于荆山下，鼎成后有龙垂胡须迎黄帝，黄帝乘龙升天，群臣后宫从者七十余人，为封禅书中汉武帝推崇的封禅成仙榜样", "global_same_as": ""}
+  ],
+  "institutions": [
+    {"id": "fengchan-i1", "name": "封禅", "type": "祭祀制度", "description": "古代帝王最高祭典：在泰山顶筑坛祭天曰「封」，报天之功；在泰山下小山上辟地祭地曰「禅」，报地之功。易姓而王、天下太平、符瑞出现方行封禅，是帝王受命于天、天下太平的最高仪式", "evidence": [1,2], "global_same_as": ""},
+    {"id": "fengchan-i2", "name": "柴望", "type": "祭祀礼仪", "description": "古代祭祀山川的礼仪：烧柴祭天曰「柴」，遥望山川顺序祭祀曰「望」，舜巡狩岱宗行柴望礼，为封禅礼仪源头", "evidence": [3], "global_same_as": ""},
+    {"id": "fengchan-i3", "name": "畤", "type": "祭祀场所", "description": "秦汉祭祀天地五帝的祭坛，秦有四畤（西畤、鄜畤等）祭白帝青帝等，汉高祖立北畤祭黑帝，合为五畤，汉武帝以前五帝都在雍地五畤郊祭", "evidence": [6,22], "global_same_as": ""},
+    {"id": "fengchan-i4", "name": "五德终始说", "type": "政治/祭祀学说", "description": "邹衍所创，黄帝土德、夏木德、殷金德、周火德、秦水德，改朝换代易服色、改正朔制度来源，秦自命水德，汉初承水德，汉武帝改为土德", "evidence": [17], "global_same_as": ""},
+    {"id": "fengchan-i5", "name": "郊祀", "type": "祭祀制度", "description": "帝王在郊外祭祀天地的最高祭典，冬至祭天于南郊，夏至祭地于北郊，封禅是最高规格的郊祀天地", "evidence": [90], "global_same_as": ""},
+    {"id": "fengchan-i6", "name": "玉牒", "type": "祭祀礼器", "description": "封禅时用的文书，刻在玉版上，以金泥银绳封缄，内容为帝王告天的祈祷文，秘不示人", "evidence": [90], "global_same_as": ""},
+    {"id": "fengchan-i7", "name": "明堂", "type": "礼制建筑", "description": "古代帝王宣明政教、祭祀上帝、朝会诸侯的场所，汉武帝时在汶上建明堂，封禅后在明堂受群臣朝贺", "evidence": [32,96], "global_same_as": ""},
+    {"id": "fengchan-i8", "name": "三脊茅", "alias": ["灵茅"], "type": "祭祀礼器/用品", "description": "江淮间出产的一种茅草，叶有三脊，古代封禅时用来作为垫神的藉（神席），管仲说古代封禅需江淮三脊茅", "evidence": [10], "global_same_as": ""},
+    {"id": "fengchan-i9", "name": "八神", "type": "祭祀体系", "description": "齐地祭祀的八位神祇：天主、地主、兵主、阴主、阳主、月主、日主、四时主，秦始皇东巡、汉武帝东巡都祭祀八神", "evidence": [88], "global_same_as": ""}
+  ],
+  "relations": [
+    {"id": "fengchan-r1", "type": "advised_against", "subject": "管仲", "object": "齐桓公封禅", "description": "管仲以祥瑞不至、符瑞未现谏止齐桓公封禅", "evidence": [10]},
+    {"id": "fengchan-r2", "type": "enacted_event", "subject": "秦始皇", "object": "秦始皇封禅泰山", "evidence": [18]},
+    {"id": "fengchan-r3", "name": "秦始皇上山遇风雨", "type": "event_relation", "subject": "秦始皇封禅泰山", "object": "儒生讥讽秦未受命", "evidence": [19]},
+    {"id": "fengchan-r4", "type": "established", "subject": "汉高祖", "object": "北畤", "description": "汉高祖立北畤祭祀黑帝，五畤齐备", "evidence": [22]},
+    {"id": "fengchan-r5", "type": "executed", "subject": "汉文帝", "object": "新垣平", "description": "新垣平造假事泄，被文帝诛杀，封禅事止", "evidence": [25]},
+    {"id": "fengchan-r6", "type": "executed", "subject": "窦太后", "object": "赵绾、王臧", "description": "窦太后好黄老，下赵绾王臧狱，二人自杀，明堂封禅事废", "evidence": [32]},
+    {"id": "fengchan-r7", "type": "appointed", "subject": "汉武帝", "object": "李少君", "description": "李少君以祠灶却老方见武帝，武帝尊信神仙方术自此始", "evidence": [40]},
+    {"id": "fengchan-r8", "type": "executed", "subject": "汉武帝", "object": "少翁", "description": "少翁帛书造假事发，被武帝诛杀", "evidence": [54]},
+    {"id": "fengchan-r9", "type": "appointed", "subject": "汉武帝", "object": "栾大", "description": "拜栾大为五利将军、封乐通侯，尚卫长公主，后栾大方不验被诛", "evidence": [67]},
+    {"id": "fengchan-r10", "type": "executed", "subject": "汉武帝", "object": "栾大", "evidence": [67]},
+    {"id": "fengchan-r11", "type": "enacted_event", "subject": "汉武帝", "object": "汉武帝元封元年封禅泰山", "description": "武帝封泰山、禅肃然山，改元元封，为汉代第一次封禅大典", "evidence": [90]},
+    {"id": "fengchan-r12", "type": "became_immortal", "subject": "黄帝", "object": "鼎成乘龙升天", "description": "传说黄帝封禅后铸鼎成，乘龙升天成仙，为汉武帝所向往", "evidence": [86]}
+  ]
+}
