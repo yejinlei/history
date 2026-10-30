@@ -1,0 +1,346 @@
+{
+  "book": "shiji",
+  "book_name": "史记",
+  "chapter_id": "shiji-高祖功臣侯者年表第六",
+  "chapter_title": "高祖功臣侯者年表第六",
+  "juan": "卷十八",
+  "tili": "表（十表之第六）",
+  "evidence_range": "段0-段4（序文）及段6起表格主体",
+  "persons": [
+    {
+      "id": "person-simaqian",
+      "name": "司马迁",
+      "alias": ["太史公", "迁"],
+      "dynasty": "西汉",
+      "role": "《史记》作者，本表序以'太史公曰''余读'立论，提出'居今之世，志古之道，所以自镜'的史学思想",
+      "evidence": [2, 3, 4, 5]
+    },
+    {
+      "id": "person-xiaohe",
+      "name": "萧何",
+      "alias": ["酂侯", "萧相国"],
+      "dynasty": "秦汉之际-西汉初",
+      "role": "汉初三杰之首，高祖论功第一，封酂侯，孝惠时为相国；序文以萧、曹、绛、灌为功臣首列代表",
+      "evidence": [1, 3, 5]
+    },
+    {
+      "id": "person-caocan",
+      "name": "曹参",
+      "alias": ["平阳侯", "曹相国"],
+      "dynasty": "秦汉之际-西汉初",
+      "role": "汉初功臣，战功最著，封平阳侯，萧何后继任相国，'萧规曹随'；其裔曹宗为太初时见在五侯之一",
+      "evidence": [1, 3, 5]
+    },
+    {
+      "id": "person-zhoubo",
+      "name": "周勃",
+      "alias": ["绛侯", "绛侯勃"],
+      "dynasty": "秦汉之际-西汉初",
+      "role": "汉初功臣，从高祖定天下，后以列侯入北军诛诸吕、立文帝，封绛侯",
+      "evidence": [3, 5]
+    },
+    {
+      "id": "person-guanying",
+      "name": "灌婴",
+      "alias": ["颍阴侯", "灌将军"],
+      "dynasty": "秦汉之际-西汉初",
+      "role": "汉初功臣，以车骑将军从高祖征伐，封颍阴侯，与绛侯共立文帝",
+      "evidence": [3, 5]
+    },
+    {
+      "id": "person-hangaozu",
+      "name": "汉高祖",
+      "alias": ["刘邦", "高帝", "沛公", "汉王"],
+      "dynasty": "西汉",
+      "role": "汉朝开国皇帝，高祖六年至十二年大封功臣侯者一百三十七人，立封爵之誓",
+      "evidence": [1, 2, 3, 4, 5]
+    },
+    {
+      "id": "person-tangyao",
+      "name": "唐尧",
+      "alias": ["尧", "陶唐氏", "唐"],
+      "dynasty": "上古",
+      "role": "古帝陶唐氏，'唐虞之侯伯'所始封，其侯伯之后历三代千余载仍自全蕃卫",
+      "evidence": [3]
+    },
+    {
+      "id": "person-yushun",
+      "name": "虞舜",
+      "alias": ["舜", "有虞氏", "虞"],
+      "dynasty": "上古",
+      "role": "古帝有虞氏，'唐虞之侯伯'连称，与尧时所封侯伯历夏商周千余年",
+      "evidence": [3]
+    },
+    {
+      "id": "person-xiayu",
+      "name": "夏禹",
+      "alias": ["禹", "大禹", "夏后氏"],
+      "dynasty": "上古-夏",
+      "role": "夏朝开国之君，唐虞侯伯'迁于夏'继续传世",
+      "evidence": [3]
+    },
+    {
+      "id": "person-shangtang",
+      "name": "商汤",
+      "alias": ["汤", "成汤", "天乙"],
+      "dynasty": "夏末-商",
+      "role": "商朝开国之君，唐虞侯伯'迁于商'继续传世",
+      "evidence": [3]
+    },
+    {
+      "id": "person-zhouwuwang",
+      "name": "周武王",
+      "alias": ["武王", "姬发"],
+      "dynasty": "西周",
+      "role": "周王朝开国君主，大封诸侯八百，幽厉之后见于《春秋》",
+      "evidence": [3]
+    },
+    {
+      "id": "person-zhouyouwang",
+      "name": "周幽王",
+      "alias": ["幽王", "姬宫湦"],
+      "dynasty": "西周",
+      "role": "西周末代君主，为犬戎所杀，平王东迁后王室衰微",
+      "evidence": [3]
+    },
+    {
+      "id": "person-zhouliwang",
+      "name": "周厉王",
+      "alias": ["厉王", "姬胡"],
+      "dynasty": "西周",
+      "role": "西周后期君主，被流于彘，王室始衰；幽厉连言，泛指西周衰世",
+      "evidence": [3]
+    },
+    {
+      "id": "person-caozong",
+      "name": "曹宗",
+      "alias": ["平阳侯宗"],
+      "dynasty": "西汉",
+      "role": "曹参后裔，太初时见在五侯之一（平阳侯）[a4]",
+      "evidence": [3]
+    },
+    {
+      "id": "person-lizhonggen",
+      "name": "郦终根",
+      "alias": ["曲周侯终根"],
+      "dynasty": "西汉",
+      "role": "郦商后裔，太初时见在五侯之一（曲周侯）[a4]",
+      "evidence": [3]
+    },
+    {
+      "id": "person-qiren",
+      "name": "齐仁",
+      "alias": ["阳阿侯仁"],
+      "dynasty": "西汉",
+      "role": "阳阿侯之后裔，太初时见在五侯之一[a4]",
+      "evidence": [3]
+    },
+    {
+      "id": "person-mimeng",
+      "name": "祕蒙",
+      "alias": ["戴侯蒙"],
+      "dynasty": "西汉",
+      "role": "戴侯之后裔，太初时见在五侯之一[a4]",
+      "evidence": [3]
+    },
+    {
+      "id": "person-fengyan",
+      "name": "冯偃",
+      "alias": ["穀陵侯偃"],
+      "dynasty": "西汉",
+      "role": "穀陵侯之后裔，太初时见在五侯之一[a4]",
+      "evidence": [3]
+    },
+    {
+      "id": "person-yingshao",
+      "name": "应劭",
+      "alias": ["应仲远"],
+      "dynasty": "东汉",
+      "role": "东汉学者，著《汉书音义》，集解引其说释'河如带、泰山若厉'[a0]",
+      "evidence": [2]
+    }
+  ],
+  "events": [
+    {
+      "id": "event-gaozu-feng-gongchen",
+      "name": "高祖封功臣",
+      "time": "汉高祖六年至十二年（前201-前195年）",
+      "description": "高祖定天下后，论功行赏，封功臣一百三十七人为列侯，兼外戚王子共一百四十三人；以萧何、曹参、周勃、灌婴、张良、陈平等为代表，始封大侯不过万家、小者五六百户",
+      "evidence": [1, 3, 5]
+    },
+    {
+      "id": "event-fengjue-zhishi",
+      "name": "封爵之誓（河带山厉之誓）",
+      "alias": ["带厉之誓", "河山之誓"],
+      "time": "高祖初年封功臣之际（前201年前后）",
+      "description": "高祖封功臣时与功臣立誓：'使河如带，泰山若厉，国以永宁，爰及苗裔'——以黄河如衣带、泰山如砥石为喻，言功臣封国当永传子孙；后世'带砺山河'用为封爵典故",
+      "evidence": [2, 5]
+    },
+    {
+      "id": "event-zhoufeng-babai",
+      "name": "周封八百诸侯",
+      "time": "周武王、成王、康王时期（约前11世纪）",
+      "description": "武王克商后大封诸侯，约八百之数，同姓异姓并列；至幽厉之后，王室衰微，诸侯见于《春秋》者仍众",
+      "evidence": [3]
+    },
+    {
+      "id": "event-tangyu-houbo",
+      "name": "唐虞侯伯历三代千余载",
+      "time": "尧舜至周末（约前22世纪-前3世纪）",
+      "description": "尧舜所封侯伯（如契、稷、皋陶之后）历夏商周三代千有余载，仍能自全以蕃卫天子，盖以笃于仁义、奉上法",
+      "evidence": [3]
+    },
+    {
+      "id": "event-hukou-yansheng",
+      "name": "文景之世户口繁衍",
+      "time": "汉文帝、景帝至武帝初（前179-前104年）",
+      "description": "天下平定后数世，民咸归乡里，户口益息，萧何、曹参、周勃、灌婴之属封户或至四万，小侯亦倍于初封，富厚如之",
+      "evidence": [3]
+    },
+    {
+      "id": "event-gongchen-feiru",
+      "name": "功臣侯者百年废辱",
+      "alias": ["太初百年见侯五"],
+      "time": "高祖六年至武帝太初年间（前201-前101年）",
+      "description": "功臣子孙骄溢淫嬖、忘其先业，加上法网稍密，至太初百年间，高祖所封百余人仅存五侯（平阳曹宗、曲周郦终根、阳阿齐仁、戴侯祕蒙、穀陵冯偃），其余皆坐法陨命亡国",
+      "evidence": [3]
+    },
+    {
+      "id": "event-taichu",
+      "name": "太初年间",
+      "time": "汉武帝太初元年至四年（前104-前101年）",
+      "description": "司马迁作《史记》讫于太初，本表记事下限亦止于此，'见侯五'即太初时之现状",
+      "evidence": [3, 4]
+    }
+  ],
+  "institutions": [
+    {
+      "id": "inst-wupin-gong",
+      "name": "五品功制（勋劳功伐阅）",
+      "alias": ["人臣功有五品", "勋劳功伐阅"],
+      "description": "古者人臣论功分五等：以德立宗庙定社稷曰勋，以言（谋议）曰劳，用力（战伐）曰功，明其等第曰伐（阀），积日资历曰阅；为汉初论功封侯之理论依据",
+      "evidence": [2]
+    },
+    {
+      "id": "inst-fengjue-zhishi",
+      "name": "封爵之誓",
+      "alias": ["带厉之誓", "河山之誓", "河带山厉"],
+      "description": "高祖封功臣时所立国誓：'使河如带，泰山若厉，国以永宁，爰及苗裔'，欲使功臣传祚无穷，后世成为分封功臣的经典典故",
+      "evidence": [2, 5]
+    },
+    {
+      "id": "inst-houjou",
+      "name": "侯爵制度",
+      "alias": ["列侯", "彻侯"],
+      "description": "汉封功臣为列侯（彻侯），有封邑户口，爵位可世袭，但必须遵奉朝廷法度，犯法者夺爵国除；汉初大侯不过万家，小者五六百户",
+      "evidence": [3]
+    },
+    {
+      "id": "inst-yishi-wei-jing",
+      "name": "以史为鉴（自镜）",
+      "alias": ["居今之世志古之道所以自镜"],
+      "description": "司马迁史学思想之一：身处今世而记取古道，用以自我镜鉴当代得失，但古今未必尽同，不必强混",
+      "evidence": [4]
+    },
+    {
+      "id": "inst-du-yu-renyi",
+      "name": "笃于仁义、奉上法",
+      "description": "太史公所论上古诸侯传世长久之根本：笃厚践行仁义，尊奉天子法度；与汉功臣子孙骄溢淫嬖成对比",
+      "evidence": [3]
+    },
+    {
+      "id": "inst-chenggong-tongji",
+      "name": "以成功为统纪",
+      "description": "司马迁的历史评价观：帝王者各殊礼异务，评价关键应以实际事功成效为纲领（统纪），不可强求混同古今制度",
+      "evidence": [4]
+    },
+    {
+      "id": "inst-dangshi-deshi",
+      "name": "当世得失之林",
+      "description": "观人臣所以得尊宠及所以废辱，即为当代政治得失的荟萃（林），不必唯旧闻是从；强调研究当代史的价值",
+      "evidence": [4]
+    },
+    {
+      "id": "inst-yizhe-quezhi",
+      "name": "著其明疑者阙之",
+      "alias": ["疑者阙之"],
+      "description": "严谨实录的史学态度：史实彰明者则著录，有疑问者则付阙如，不强行杜撰，承孔子'多闻阙疑'史法",
+      "evidence": [4]
+    }
+  ],
+  "states": [
+    {
+      "id": "state-zhoufeng-babai",
+      "name": "周封八百诸侯",
+      "start_fengjun": "周武王、成王、康王",
+      "description": "周初所封八百诸侯，含同姓异姓，幽厉之后王室衰微，见于《春秋》者仍有记载；其中唐虞侯伯之后历三代千余载自全蕃卫天子",
+      "evidence": [3]
+    },
+    {
+      "id": "state-zanhou",
+      "name": "酂侯国（萧何）",
+      "start_fengjun": "萧何",
+      "description": "萧何始封，封地在沛郡酂县，功臣位序第一；后数世户至四万",
+      "evidence": [1, 3, 5]
+    },
+    {
+      "id": "state-pingyang",
+      "name": "平阳侯国（曹参）",
+      "start_fengjun": "曹参",
+      "description": "曹参始封，封地在河东郡平阳县；太初时后裔曹宗仍侯，为见在五侯之一",
+      "evidence": [1, 3, 5]
+    },
+    {
+      "id": "state-jianghou",
+      "name": "绛侯国（周勃）",
+      "start_fengjun": "周勃",
+      "description": "周勃始封，封地在河东郡绛县；诛诸吕安刘氏",
+      "evidence": [3, 5]
+    },
+    {
+      "id": "state-yingyin",
+      "name": "颍阴侯国（灌婴）",
+      "start_fengjun": "灌婴",
+      "description": "灌婴始封，封地在颍川郡颍阴县",
+      "evidence": [3, 5]
+    },
+    {
+      "id": "state-quzhou",
+      "name": "曲周侯国（郦商）",
+      "start_fengjun": "郦商",
+      "description": "郦商始封；太初时后裔郦终根仍侯，为见在五侯之一[a4]",
+      "evidence": [3]
+    },
+    {
+      "id": "state-yange",
+      "name": "阳阿侯国",
+      "description": "高祖功臣侯国之一；太初时后裔齐仁仍侯，为见在五侯之一[a4]",
+      "evidence": [3]
+    },
+    {
+      "id": "state-daihou",
+      "name": "戴侯国",
+      "description": "高祖功臣侯国之一；太初时后裔祕蒙仍侯，为见在五侯之一[a4]",
+      "evidence": [3]
+    },
+    {
+      "id": "state-guling",
+      "name": "穀陵侯国",
+      "description": "高祖功臣侯国之一；太初时后裔冯偃仍侯，为见在五侯之一[a4]",
+      "evidence": [3]
+    },
+    {
+      "id": "state-zhuhou-guo",
+      "name": "高祖功臣侯国（共143侯国）",
+      "start_fengjun": "汉高祖所封137位功臣及6位外戚王子",
+      "description": "高祖六年至十二年所封功臣侯国共143个；始封时大侯不过万家，小者五六百户，后数世萧曹绛灌之属或至四万；至太初百年间，仅余五侯，其余皆坐法陨命亡国",
+      "evidence": [3]
+    }
+  ],
+  "places": [
+    {"id": "place-he", "name": "黄河（河）", "description": "封爵之誓'使河如带'所指，以黄河为誓，喻国祚久长", "evidence": [2]},
+    {"id": "place-taishan", "name": "泰山", "description": "封爵之誓'泰山若厉'所指，以泰山为誓，与河并称，后世'带厉山河'之典", "evidence": [2]},
+    {"id": "place-spring-autumn", "name": "春秋", "description": "周封八百在幽厉之后仍'见于春秋'，指《春秋》经所载春秋时代", "evidence": [3]},
+    {"id": "place-taichu", "name": "太初", "description": "汉武帝年号（前104-前101年），《史记》记事讫点，本表序论终点", "evidence": [3, 4]}
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "book": "shiji",
+  "chapter_id": "shiji-高祖功臣侯者年表第六",
+  "chapter_title": "高祖功臣侯者年表第六",
+  "annotation_type": "sequence_labeling",
+  "evidence_range": "段0-段4序文",
+  "paragraphs": [
+    {
+      "para_id": "p0",
+      "text": "〔正義〕高祖初定天下，表明有功之臣而侯之，若蕭、曹等。",
+      "entities": [
+        {"start": 4, "end": 6, "text": "高祖", "type": "person", "ref": "person-hangaozu"},
+        {"start": 17, "end": 19, "text": "有功之臣", "type": "institution", "ref": "inst-houjou"},
+        {"start": 25, "end": 26, "text": "蕭", "type": "person", "ref": "person-xiaohe"},
+        {"start": 27, "end": 28, "text": "曹", "type": "person", "ref": "person-caocan"}
+      ]
+    },
+    {
+      "para_id": "p1",
+      "text": "太史公曰：古者人臣功有五品，以德立宗廟定社稷曰勳，以言曰勞，用力曰功，明其等曰伐，積日曰閱。封爵之誓曰：「使河如帶，泰山若厲。國以永寧，爰及苗裔。」始未嘗不欲固其根本，而枝葉稍陵夷衰微也。",
+      "entities": [
+        {"start": 0, "end": 3, "text": "太史公", "type": "person", "ref": "person-simaqian"},
+        {"start": 11, "end": 13, "text": "五品", "type": "institution", "ref": "inst-wupin-gong"},
+        {"start": 31, "end": 32, "text": "勳", "type": "institution", "ref": "inst-wupin-gong"},
+        {"start": 39, "end": 40, "text": "勞", "type": "institution", "ref": "inst-wupin-gong"},
+        {"start": 46, "end": 47, "text": "功", "type": "institution", "ref": "inst-wupin-gong"},
+        {"start": 55, "end": 56, "text": "伐", "type": "institution", "ref": "inst-wupin-gong"},
+        {"start": 62, "end": 63, "text": "閱", "type": "institution", "ref": "inst-wupin-gong"},
+        {"start": 65, "end": 69, "text": "封爵之誓", "type": "institution", "ref": "inst-fengjue-zhishi"},
+        {"start": 74, "end": 75, "text": "河", "type": "place", "ref": "place-he"},
+        {"start": 78, "end": 80, "text": "泰山", "type": "place", "ref": "place-taishan"},
+        {"start": 91, "end": 95, "text": "爰及苗裔", "type": "event", "ref": "event-fengjue-zhishi"}
+      ]
+    },
+    {
+      "para_id": "p2",
+      "text": "余讀高祖侯功臣，察其首封，所以失之者，曰：異哉新聞！書曰「協和萬國」，遷于夏商，或數千歲。蓋周封八百，幽厲之後，見於春秋。尚書有唐虞之侯伯，歷三代千有餘載，自全以蕃衞天子，豈非篤於仁義，奉上法哉？漢興，功臣受封者百有餘人。天下初定，故大城名都散亡，戶口可得而數者十二三，是以大侯不過萬家，小者五六百戶。後數世，民咸歸鄉里，戶益息，蕭、曹、絳、灌之屬或至四萬，小侯自倍，富厚如之。子孫驕溢，忘其先，淫嬖。至太初百年之間，見侯五，⟦3⟧餘皆坐法隕命亡國，秏矣。罔亦少密焉，然皆身無兢兢於當世之禁云。",
+      "entities": [
+        {"start": 3, "end": 5, "text": "高祖", "type": "person", "ref": "person-hangaozu"},
+        {"start": 32, "end": 36, "text": "協和萬國", "type": "event", "ref": "event-tangyu-houbo"},
+        {"start": 41, "end": 43, "text": "夏商", "type": "person", "ref": "person-xiayu"},
+        {"start": 50, "end": 54, "text": "周封八百", "type": "event", "ref": "event-zhoufeng-babai"},
+        {"start": 55, "end": 57, "text": "幽厲", "type": "person", "ref": "person-zhouyouwang"},
+        {"start": 62, "end": 64, "text": "春秋", "type": "place", "ref": "place-spring-autumn"},
+        {"start": 71, "end": 73, "text": "唐虞", "type": "person", "ref": "person-tangyao"},
+        {"start": 94, "end": 100, "text": "篤於仁義，奉上法", "type": "institution", "ref": "inst-du-yu-renyi"},
+        {"start": 110, "end": 114, "text": "百有餘人", "type": "event", "ref": "event-gaozu-feng-gongchen"},
+        {"start": 155, "end": 156, "text": "蕭", "type": "person", "ref": "person-xiaohe"},
+        {"start": 157, "end": 158, "text": "曹", "type": "person", "ref": "person-caocan"},
+        {"start": 159, "end": 160, "text": "絳", "type": "person", "ref": "person-zhoubo"},
+        {"start": 161, "end": 162, "text": "灌", "type": "person", "ref": "person-guanying"},
+        {"start": 188, "end": 190, "text": "太初", "type": "place", "ref": "place-taichu"},
+        {"start": 196, "end": 199, "text": "見侯五", "type": "event", "ref": "event-gongchen-feiru"}
+      ]
+    },
+    {
+      "para_id": "p3",
+      "text": "居今之世，志古之道，所以自鏡也，未必盡同。帝王者各殊禮而異務，要以成功爲統紀，豈可緄乎？觀所以得尊寵及所以廢辱，亦當世得失之林也，何必舊聞？於是謹其終始，表其文，頗有所不盡本末；著其明，疑者闕之。後有君子，欲推而列之，得以覽焉。",
+      "entities": [
+        {"start": 12, "end": 18, "text": "志古之道，所以自鏡", "type": "institution", "ref": "inst-yishi-wei-jing"},
+        {"start": 37, "end": 45, "text": "以成功爲統紀", "type": "institution", "ref": "inst-chenggong-tongji"},
+        {"start": 64, "end": 71, "text": "當世得失之林", "type": "institution", "ref": "inst-dangshi-deshi"},
+        {"start": 94, "end": 99, "text": "著其明，疑者闕之", "type": "institution", "ref": "inst-yizhe-quezhi"}
+      ]
+    },
+    {
+      "para_id": "p4",
+      "text": "索隱述贊曰：聖賢影響，風雲潛契。高祖膺籙，功臣命世。起沛入秦，憑謀仗計。紀勳書爵，河盟山誓。蕭曹輕重，絳灌權勢。咸就封國，式盟罪戾。仁賢者祀，昬虐者替。永監前脩，良慙固蔕。",
+      "entities": [
+        {"start": 18, "end": 20, "text": "高祖", "type": "person", "ref": "person-hangaozu"},
+        {"start": 38, "end": 42, "text": "河盟山誓", "type": "institution", "ref": "inst-fengjue-zhishi"},
+        {"start": 43, "end": 45, "text": "蕭曹", "type": "person", "ref": "person-xiaohe"},
+        {"start": 49, "end": 51, "text": "絳灌", "type": "person", "ref": "person-zhoubo"},
+        {"start": 56, "end": 58, "text": "封國", "type": "state", "ref": "state-zhuhou-guo"}
+      ]
+    }
+  ]
+}
