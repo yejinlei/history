@@ -1,0 +1,597 @@
+{
+  "book": "shiji",
+  "chapter_id": "shiji-管蔡世家第五",
+  "title": "管蔡世家第五",
+  "juan": "卷三十五",
+  "persons": [
+    {
+      "id": "person:周文王",
+      "name": "周文王",
+      "alias": ["姬昌", "西伯昌"],
+      "type": "君主",
+      "dynasty": "周",
+      "description": "周王朝奠基者，太姒之夫，伯邑考等十子之父，舍伯邑考而立发为太子",
+      "evidence": ["p0"]
+    },
+    {
+      "id": "person:太姒",
+      "name": "太姒",
+      "alias": ["文母"],
+      "type": "后妃",
+      "dynasty": "周",
+      "description": "文王正妃，大禹之后姒氏之女，生十男，号曰文母",
+      "evidence": ["p0"]
+    },
+    {
+      "id": "person:伯邑考",
+      "name": "伯邑考",
+      "type": "公子",
+      "dynasty": "周",
+      "description": "文王长子，嫡长未得立，先于文王去世，其后不知所封",
+      "evidence": ["p0", "p19"]
+    },
+    {
+      "id": "person:周武王",
+      "name": "周武王",
+      "alias": ["姬发", "武王发"],
+      "type": "君主",
+      "dynasty": "西周",
+      "description": "文王子，名发，代殷立周，大封功臣昆弟",
+      "evidence": ["p0", "p1", "p19"]
+    },
+    {
+      "id": "person:管叔鲜",
+      "name": "管叔鲜",
+      "alias": ["叔鲜"],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "管",
+      "description": "文王子，封于管，三监之一，与蔡叔挟武庚作乱，被周公所杀，无后",
+      "evidence": ["p0", "p1", "p2", "p19"]
+    },
+    {
+      "id": "person:周公旦",
+      "name": "周公旦",
+      "alias": ["叔旦", "周公"],
+      "type": "辅臣/诸侯",
+      "dynasty": "西周",
+      "state": "鲁",
+      "description": "文王子，封于鲁留相周，武王崩后摄政，承成王命东征诛管蔡，举康叔为司寇、冉季为司空，举蔡仲复封",
+      "evidence": ["p0", "p1", "p2", "p3", "p19"]
+    },
+    {
+      "id": "person:蔡叔度",
+      "name": "蔡叔度",
+      "alias": ["叔度"],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "蔡",
+      "description": "文王子，封于蔡，三监之一，与管叔挟武庚作乱，被放逐，迁而死",
+      "evidence": ["p0", "p1", "p2", "p3", "p19"]
+    },
+    {
+      "id": "person:曹叔振铎",
+      "name": "曹叔振铎",
+      "alias": ["叔振铎"],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "曹",
+      "description": "文王子，封于曹，曹国始祖，曹国附记于本篇",
+      "evidence": ["p0", "p1", "p19", "p21"]
+    },
+    {
+      "id": "person:成叔武",
+      "name": "成叔武",
+      "alias": ["叔武"],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "成（郕）",
+      "description": "文王子，封于成（郕），后世无所见",
+      "evidence": ["p0", "p1", "p19"]
+    },
+    {
+      "id": "person:霍叔处",
+      "name": "霍叔处",
+      "alias": ["叔处"],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "霍",
+      "description": "文王子，封于霍，三监之一，后晋献公时灭霍",
+      "evidence": ["p0", "p1", "p19"]
+    },
+    {
+      "id": "person:卫康叔",
+      "name": "卫康叔",
+      "alias": ["康叔封", "叔封"],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "卫",
+      "description": "文王子，初年少未封，周公伐三监后封为卫君，为周司寇，有驯行令名",
+      "evidence": ["p0", "p1", "p2", "p19"]
+    },
+    {
+      "id": "person:冉季载",
+      "name": "冉季载",
+      "alias": ["季载", "聃季"],
+      "type": "诸侯/辅臣",
+      "dynasty": "西周",
+      "state": "冉（聃）",
+      "description": "文王子，最少，封于冉，为周司空，有驯行令名",
+      "evidence": ["p0", "p1", "p2", "p19", "p20"]
+    },
+    {
+      "id": "person:武庚禄父",
+      "name": "武庚禄父",
+      "alias": ["武庚", "禄父"],
+      "type": "殷遗",
+      "dynasty": "西周初",
+      "description": "商纣王之子，被周封以治殷遗民，后被管蔡挟持叛乱，为周公所诛",
+      "evidence": ["p1", "p2"]
+    },
+    {
+      "id": "person:微子启",
+      "name": "微子启",
+      "alias": ["微子"],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "宋",
+      "description": "商纣之庶兄，周公诛武庚后封于宋以续殷祀，为宋国始祖",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "person:蔡仲胡",
+      "name": "蔡仲胡",
+      "alias": ["胡", "蔡仲"],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "蔡",
+      "description": "蔡叔度之子，率德驯善改行，周公举为鲁卿士，后成王复封于蔡以奉蔡叔之祀",
+      "evidence": ["p3"]
+    },
+    {
+      "id": "person:蔡哀侯献舞",
+      "name": "蔡哀侯献舞",
+      "alias": ["献舞", "哀侯"],
+      "type": "诸侯",
+      "dynasty": "春秋",
+      "state": "蔡",
+      "description": "蔡桓侯之弟，对息夫人不敬，被楚文王设计俘虏，留楚九年而死",
+      "evidence": ["p7", "p8"]
+    },
+    {
+      "id": "person:息夫人",
+      "name": "息夫人",
+      "type": "女性",
+      "dynasty": "春秋",
+      "description": "息侯夫人，陈女，归息过蔡，蔡侯不敬，引发蔡息楚争端",
+      "evidence": ["p8"]
+    },
+    {
+      "id": "person:楚文王",
+      "name": "楚文王",
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "从息侯之计伐蔡，虏蔡哀侯以归",
+      "evidence": ["p8"]
+    },
+    {
+      "id": "person:蔡缪侯",
+      "name": "蔡缪侯",
+      "alias": ["肹", "缪侯"],
+      "type": "诸侯",
+      "dynasty": "春秋",
+      "state": "蔡",
+      "description": "蔡哀侯之子，以女弟嫁齐桓公，因荡舟之事引发齐伐蔡，被齐桓公所虏",
+      "evidence": ["p9"]
+    },
+    {
+      "id": "person:齐桓公",
+      "name": "齐桓公",
+      "alias": ["小白"],
+      "type": "霸主",
+      "dynasty": "春秋",
+      "state": "齐",
+      "description": "春秋五霸之首，蔡姬荡舟怒归蔡女，蔡侯嫁女引发伐蔡，南至邵陵",
+      "evidence": ["p9", "p10"]
+    },
+    {
+      "id": "person:蔡灵侯",
+      "name": "蔡灵侯",
+      "alias": ["般", "太子般"],
+      "type": "诸侯",
+      "dynasty": "春秋",
+      "state": "蔡",
+      "description": "蔡景侯太子，弑父景侯自立，后被楚灵王诱杀于申",
+      "evidence": ["p12", "p13"]
+    },
+    {
+      "id": "person:楚灵王",
+      "name": "楚灵王",
+      "alias": ["公子围"],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "弑郏敖自立，诱杀蔡灵侯，灭蔡使弃疾为蔡公，后被弃疾所弑",
+      "evidence": ["p13", "p14"]
+    },
+    {
+      "id": "person:楚平王",
+      "name": "楚平王",
+      "alias": ["弃疾", "公子弃疾"],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "弑灵王代立，初立欲亲诸侯，复立陈蔡之后，立蔡平侯",
+      "evidence": ["p13", "p14"]
+    },
+    {
+      "id": "person:蔡昭侯",
+      "name": "蔡昭侯",
+      "alias": ["申", "昭侯"],
+      "type": "诸侯",
+      "dynasty": "春秋",
+      "state": "蔡",
+      "description": "因美裘被子常谗留楚三年，后与吴伐楚入郢，迁蔡于州来，被大夫所使贼利弑杀",
+      "evidence": ["p16"]
+    },
+    {
+      "id": "person:子常",
+      "name": "子常",
+      "alias": ["囊瓦"],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "楚令尹（相），索蔡昭侯美裘不得而谗留之，后蔡吴伐楚时奔郑",
+      "evidence": ["p16"]
+    },
+    {
+      "id": "person:楚惠王",
+      "name": "楚惠王",
+      "type": "君主",
+      "dynasty": "春秋战国之际",
+      "state": "楚",
+      "description": "最终灭蔡，蔡侯齐亡，蔡遂绝祀",
+      "evidence": ["p18"]
+    },
+    {
+      "id": "person:曹共公",
+      "name": "曹共公",
+      "alias": ["襄", "共公襄"],
+      "type": "诸侯",
+      "dynasty": "春秋",
+      "state": "曹",
+      "description": "对晋公子重耳无礼，欲观其骈胁，不听釐负羁谏，后被晋文公伐虏",
+      "evidence": ["p26", "p27", "p32"]
+    },
+    {
+      "id": "person:釐负羁",
+      "name": "釐负羁",
+      "alias": ["僖负羁"],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "曹",
+      "description": "曹国大夫，谏曹共公礼待重耳不听，私善重耳，后晋文公伐曹令军毋入其宗闾",
+      "evidence": ["p27", "p32"]
+    },
+    {
+      "id": "person:晋文公",
+      "name": "晋文公",
+      "alias": ["重耳", "晋公子重耳"],
+      "type": "霸主",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "流亡过曹被无礼对待，返国后伐曹虏曹共公，复归之",
+      "evidence": ["p10", "p27"]
+    },
+    {
+      "id": "person:公孙强",
+      "name": "公孙强",
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "曹",
+      "description": "曹野人，好田弋获白雁而得宠于曹伯阳，为司城，言霸说使曹背晋干宋，致宋灭曹",
+      "evidence": ["p31"]
+    },
+    {
+      "id": "person:曹伯阳",
+      "name": "曹伯阳",
+      "alias": ["伯阳"],
+      "type": "诸侯",
+      "dynasty": "春秋",
+      "state": "曹",
+      "description": "曹末代之君，好田弋，宠公孙强，背晋干宋，为宋景公所灭，曹绝祀",
+      "evidence": ["p31"]
+    },
+    {
+      "id": "person:宋景公",
+      "name": "宋景公",
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "宋",
+      "description": "伐曹灭之，执曹伯阳及公孙强以归杀之",
+      "evidence": ["p29", "p31"]
+    }
+  ],
+  "places": [
+    {
+      "id": "place:管",
+      "name": "管",
+      "type": "封国",
+      "location": "今河南郑州",
+      "description": "管叔鲜所封国，郑州管城县即古管国",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "place:蔡",
+      "name": "蔡",
+      "type": "封国",
+      "location": "今河南上蔡（初封）、新蔡、安徽凤台（下蔡）",
+      "description": "蔡叔度及蔡仲所封国，历三迁：上蔡→新蔡→下蔡",
+      "evidence": ["p1", "p3", "p14", "p16", "p18"]
+    },
+    {
+      "id": "place:鲁",
+      "name": "鲁",
+      "type": "封国",
+      "location": "今山东曲阜",
+      "description": "周公旦所封国，由伯禽就国",
+      "evidence": ["p1", "p3"]
+    },
+    {
+      "id": "place:曹",
+      "name": "曹",
+      "type": "封国",
+      "location": "今山东定陶（陶丘）",
+      "description": "曹叔振铎所封国，都陶丘（济阴定陶）",
+      "evidence": ["p1", "p21"]
+    },
+    {
+      "id": "place:成",
+      "name": "成（郕）",
+      "type": "封国",
+      "location": "今山东鄄城东南/宁阳东北",
+      "description": "成叔武所封国，或作郕",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "place:霍",
+      "name": "霍",
+      "type": "封国",
+      "location": "今山西霍州",
+      "description": "霍叔处所封国，春秋时为晋献公所灭",
+      "evidence": ["p1", "p19"]
+    },
+    {
+      "id": "place:宋",
+      "name": "宋",
+      "type": "封国",
+      "location": "今河南商丘",
+      "description": "微子启所封国，以续殷祀，后灭曹",
+      "evidence": ["p2", "p31"]
+    },
+    {
+      "id": "place:卫",
+      "name": "卫",
+      "type": "封国",
+      "location": "今河南淇县（朝歌）一带",
+      "description": "康叔所封国，居殷旧畿",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "place:冉",
+      "name": "冉（聃）",
+      "type": "封国",
+      "location": "地望未确",
+      "description": "冉季载所封国，或作聃、郍",
+      "evidence": ["p0", "p2"]
+    },
+    {
+      "id": "place:殷",
+      "name": "殷",
+      "type": "故都/地区",
+      "location": "今河南安阳/淇县一带",
+      "description": "商朝旧畿，武庚及殷遗民所居，三监管治区域",
+      "evidence": ["p1", "p2"]
+    },
+    {
+      "id": "place:楚",
+      "name": "楚",
+      "type": "诸侯国",
+      "location": "长江中游，今湖北一带",
+      "description": "南方大国，数度伐蔡灭蔡、灭陈，向北扩张",
+      "evidence": ["p8", "p13", "p14", "p16", "p18"]
+    },
+    {
+      "id": "place:申",
+      "name": "申",
+      "type": "楚邑",
+      "location": "今河南南阳",
+      "description": "楚灵王诱杀蔡灵侯之地",
+      "evidence": ["p13"]
+    },
+    {
+      "id": "place:邵陵",
+      "name": "邵陵（召陵）",
+      "type": "楚地",
+      "location": "今河南郾城东",
+      "description": "齐桓公伐蔡南至邵陵，后蔡昭侯与卫灵公会邵陵",
+      "evidence": ["p9", "p16"]
+    },
+    {
+      "id": "place:郢",
+      "name": "郢",
+      "type": "楚都",
+      "location": "今湖北荆州江陵",
+      "description": "楚国都城，蔡吴联军破楚入郢",
+      "evidence": ["p16"]
+    },
+    {
+      "id": "place:州来",
+      "name": "州来（下蔡）",
+      "type": "城邑",
+      "location": "今安徽凤台",
+      "description": "吴人迁蔡于州来，即下蔡",
+      "evidence": ["p16"]
+    },
+    {
+      "id": "place:陶丘",
+      "name": "陶丘",
+      "alias": ["定陶"],
+      "type": "国都",
+      "location": "今山东定陶",
+      "description": "曹国都城，济阴定陶县",
+      "evidence": ["p21"]
+    }
+  ],
+  "events": [
+    {
+      "id": "event:文王十子",
+      "name": "文王太姒十子",
+      "type": "家族/宗法",
+      "time": "商末周初",
+      "description": "文王正妃太姒生同母兄弟十人：伯邑考、武王发、管叔鲜、周公旦、蔡叔度、曹叔振铎、成叔武、霍叔处、康叔封、冉季载，唯发、旦贤",
+      "evidence": ["p0"]
+    },
+    {
+      "id": "event:武王封昆弟",
+      "name": "武王大封功臣昆弟",
+      "type": "封建",
+      "time": "武王克殷后（约前1046年）",
+      "description": "武王克殷后分封兄弟：叔鲜封管、叔度封蔡（相武庚治殷遗）、叔旦封鲁、叔振铎封曹、叔武封成、叔处封霍；康叔、冉季年少未封",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "event:三监之乱",
+      "name": "三监之乱",
+      "type": "叛乱",
+      "time": "成王初年（约前1042年）",
+      "description": "管叔蔡叔疑周公摄政不利于成王，挟武庚禄父作乱",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "event:周公东征",
+      "name": "周公东征诛管放蔡",
+      "type": "征伐",
+      "time": "成王初年",
+      "description": "周公承成王命伐诛武庚，杀管叔，放蔡叔（给车十乘、徒七十人）",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "event:封宋封卫",
+      "name": "封微子于宋续殷祀、封康叔于卫",
+      "type": "封建",
+      "time": "周公东征后",
+      "description": "分殷余民为二：一封微子启于宋续殷祀，一封康叔为卫君（卫康叔）",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "event:蔡仲复封",
+      "name": "蔡仲改行复封于蔡",
+      "type": "复封",
+      "time": "成王时",
+      "description": "蔡叔度之子胡改行率德，周公举为鲁卿士，后成王复封胡于蔡以奉蔡叔之祀，是为蔡仲",
+      "evidence": ["p3"]
+    },
+    {
+      "id": "event:楚灵王灭蔡复封",
+      "name": "楚灵王灭蔡与楚平王复蔡",
+      "type": "灭国/复国",
+      "time": "前531年灭蔡，前529年复蔡",
+      "description": "楚灵王诱杀蔡灵侯于申，灭蔡使弃疾为蔡公；三年后楚平王（弃疾）弑灵王自立，为亲诸侯复立蔡后（平侯）",
+      "evidence": ["p13", "p14"]
+    },
+    {
+      "id": "event:楚惠王灭蔡",
+      "name": "楚惠王最终灭蔡",
+      "type": "灭国",
+      "time": "前447年（侯齐四年）",
+      "description": "楚惠王灭蔡，蔡侯齐亡，蔡遂绝祀，后陈灭三十三年",
+      "evidence": ["p18"]
+    },
+    {
+      "id": "event:曹共公观骈胁",
+      "name": "曹共公观重耳骈胁",
+      "type": "外交失礼",
+      "time": "前637年（曹共公十六年）",
+      "description": "晋公子重耳流亡过曹，曹君无礼欲观其骈胁，釐负羁谏不听，私善重耳",
+      "evidence": ["p27"]
+    },
+    {
+      "id": "event:晋文伐曹",
+      "name": "晋文公伐曹虏曹共公",
+      "type": "征伐",
+      "time": "前632年（曹共公二十一年）",
+      "description": "晋文公伐曹虏共公归，令军毋入釐负羁宗族闾，后听谏复归共公",
+      "evidence": ["p27"]
+    },
+    {
+      "id": "event:宋灭曹",
+      "name": "宋灭曹",
+      "type": "灭国",
+      "time": "前487年（曹伯阳十五年、蔡成侯四年）",
+      "description": "曹伯阳从公孙强之言背晋干宋，宋景公伐之，晋不救，宋灭曹，执曹伯阳及公孙强归杀之，曹遂绝祀",
+      "evidence": ["p17", "p31"]
+    },
+    {
+      "id": "event:管叔无后",
+      "name": "管叔鲜作乱被诛无后",
+      "type": "绝祀",
+      "time": "成王初",
+      "description": "管叔鲜作乱被周公诛杀，无后裔奉祀，是周初封建中文王诸子唯一被绝祀者",
+      "evidence": ["p19"]
+    },
+    {
+      "id": "event:蔡昭侯迁州来",
+      "name": "蔡昭侯迁州来遇弑",
+      "type": "迁都/内乱",
+      "time": "前493年迁州来，前491年遇弑",
+      "description": "蔡昭侯因美裘被子常谗留楚三年，联吴破楚入郢，后因吴约迁都州来，将朝吴时被大夫派贼利所弑",
+      "evidence": ["p16"]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept:三监",
+      "name": "三监制度",
+      "type": "制度",
+      "description": "武王克殷后，以管叔鲜、蔡叔度、霍叔处三人分治殷畿之地，监视武庚及殷遗民，史称'三监'",
+      "evidence": ["p1", "p2"]
+    },
+    {
+      "id": "concept:三监之乱",
+      "name": "三监之乱",
+      "type": "历史事件/概念",
+      "description": "成王初年管叔、蔡叔、霍叔联合武庚叛周的叛乱事件，为周公东征所平",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "concept:封建亲戚",
+      "name": "封建亲戚以蕃屏周",
+      "type": "政治理念",
+      "description": "周初大封同姓昆弟与功臣为诸侯，以作为周王室的藩屏屏障，本篇为典型史料",
+      "evidence": ["p1", "p20"]
+    },
+    {
+      "id": "concept:大义灭亲",
+      "name": "大义灭亲（周公诛管放蔡）",
+      "type": "伦理/政治概念",
+      "description": "周公以成王命诛兄放弟，不以亲情害王法，成为后世大义灭亲的典范",
+      "evidence": ["p2", "p19"]
+    },
+    {
+      "id": "concept:过而能改",
+      "name": "过而能改（蔡仲改行）",
+      "type": "伦理概念",
+      "description": "蔡叔度之子胡能改行率德，不以父罪见废，成王复封于蔡，体现父子兄弟罪不相及、过而能改善莫大焉",
+      "evidence": ["p3"]
+    },
+    {
+      "id": "concept:伯仲叔季",
+      "name": "伯仲叔季排行",
+      "type": "宗法制度",
+      "description": "周人兄弟排行：长曰伯、次曰仲、中曰叔、幼曰季。太姒十子中伯邑考称伯、冉季载称季、其余诸子称叔，正合此制",
+      "evidence": ["p0"]
+    }
+  ]
+}
