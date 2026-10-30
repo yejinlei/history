@@ -1,0 +1,61 @@
+{
+  "book": "史记",
+  "chapter": "历书第四",
+  "persons": [
+    {"id": "lishu-p1", "name": "黄帝", "alias": ["轩辕"], "dynasty": "上古", "role": "考定星历，建立五行，正闰余", "evidence": [3], "global_same_as": ""},
+    {"id": "lishu-p2", "name": "少皞", "alias": ["少昊"], "dynasty": "上古", "role": "五帝之一，衰时九黎乱德", "evidence": [5], "global_same_as": ""},
+    {"id": "lishu-p3", "name": "颛顼", "alias": [], "dynasty": "上古", "role": "五帝之一，命重黎绝地天通，恢复历法", "evidence": [5], "global_same_as": ""},
+    {"id": "lishu-p4", "name": "重", "alias": ["南正重"], "dynasty": "上古", "role": "颛顼时南正，掌天事属神", "evidence": [5], "global_same_as": ""},
+    {"id": "lishu-p5", "name": "黎", "alias": ["火正黎"], "dynasty": "上古", "role": "颛顼时火正，掌地事属民", "evidence": [5], "global_same_as": ""},
+    {"id": "lishu-p6", "name": "尧", "alias": ["唐尧"], "dynasty": "上古", "role": "五帝之一，命羲和掌历法", "evidence": [7], "global_same_as": ""},
+    {"id": "lishu-p7", "name": "舜", "alias": ["虞舜"], "dynasty": "上古", "role": "五帝之一，禅让时告诫禹重视历法", "evidence": [7], "global_same_as": ""},
+    {"id": "lishu-p8", "name": "禹", "alias": ["大禹", "夏禹"], "dynasty": "夏朝开国君主", "role": "受舜禅让建夏", "evidence": [7], "global_same_as": ""},
+    {"id": "lishu-p9", "name": "羲和", "alias": ["羲氏、和氏"], "dynasty": "上古尧时", "role": "掌天文历法的官员，分掌四时", "evidence": [7], "global_same_as": ""},
+    {"id": "lishu-p10", "name": "周幽王", "alias": ["姬宫湦"], "dynasty": "西周末代君主", "role": "西周亡国之君，之后王室衰微历法废弛", "evidence": [8], "global_same_as": ""},
+    {"id": "lishu-p11", "name": "苌弘", "alias": [], "dynasty": "春秋周敬王时", "role": "周大夫，精通术数天文，被晋人所杀", "evidence": [8], "global_same_as": ""},
+    {"id": "lishu-p12", "name": "邹衍", "alias": [], "dynasty": "战国", "role": "阴阳家创始人，创五德终始说", "evidence": [9], "global_same_as": ""},
+    {"id": "lishu-p13", "name": "秦始皇", "alias": ["嬴政"], "dynasty": "秦朝", "role": "统一六国，定水德，以十月为岁首", "evidence": [9], "global_same_as": ""},
+    {"id": "lishu-p14", "name": "汉高祖", "alias": ["刘邦"], "dynasty": "西汉", "role": "汉朝开国皇帝，袭秦正朔", "evidence": [10], "global_same_as": ""},
+    {"id": "lishu-p15", "name": "张苍", "alias": [], "dynasty": "西汉初", "role": "丞相，认为汉为水德，反对改历", "evidence": [10,11], "global_same_as": ""},
+    {"id": "lishu-p16", "name": "公孙臣", "alias": [], "dynasty": "西汉文帝时", "role": "鲁人，上书言汉为土德，当改正朔", "evidence": [11], "global_same_as": ""},
+    {"id": "lishu-p17", "name": "汉文帝", "alias": ["刘恒", "孝文帝"], "dynasty": "西汉", "role": "西汉第三代皇帝，未改正朔", "evidence": [11], "global_same_as": ""},
+    {"id": "lishu-p18", "name": "新垣平", "alias": [], "dynasty": "西汉文帝时", "role": "方士，以望气得宠，造假事发被诛", "evidence": [11], "global_same_as": ""},
+    {"id": "lishu-p19", "name": "汉武帝", "alias": ["刘彻", "今上"], "dynasty": "西汉", "role": "制定太初历，以正月为岁首", "evidence": [12,13,14,15], "global_same_as": ""},
+    {"id": "lishu-p20", "name": "唐都", "alias": [], "dynasty": "西汉武帝时", "role": "方士，参与制定太初历，分天部星官", "evidence": [15], "global_same_as": ""},
+    {"id": "lishu-p21", "name": "落下闳", "alias": [], "dynasty": "西汉武帝时", "role": "天文学家，巴郡人，运算转历，制定太初历", "evidence": [15], "global_same_as": ""}
+  ],
+  "events": [
+    {"id": "lishu-e1", "name": "黄帝考定星历", "dynasty": "上古", "evidence": [3], "description": "黄帝时考定星历，建立五行，设置闰月，设立五官分掌天地神祇事务", "global_same_as": ""},
+    {"id": "lishu-e2", "name": "颛顼命重黎绝地天通", "dynasty": "上古", "evidence": [5], "description": "九黎乱德民神杂糅，颛顼命南正重掌天事属神，火正黎掌地事属民，恢复民神不杂秩序，为上古宗教历法大改革", "global_same_as": ""},
+    {"id": "lishu-e3", "name": "尧命羲和定历法", "dynasty": "上古", "evidence": [7], "description": "尧访重黎后代，命羲和掌天文，明时节、正度制，阴阳调和风雨节", "global_same_as": ""},
+    {"id": "lishu-e4", "name": "尧舜禅让重历法", "dynasty": "上古", "evidence": [7], "description": "尧禅舜、舜禅禹，都告诫「天之历数在尔躬」，历法为帝王头等大事", "global_same_as": ""},
+    {"id": "lishu-e5", "name": "秦定水德以十月为岁首", "dynasty": "秦朝", "evidence": [9], "description": "秦统一后推五德终始，自命水德，改黄河为德水，以十月为岁首，服色尚黑", "global_same_as": ""},
+    {"id": "lishu-e6", "name": "汉初袭秦正朔", "dynasty": "西汉初", "evidence": [10], "description": "汉初高祖自认为水德，张苍等认可，沿袭秦历十月岁首，未改历", "global_same_as": ""},
+    {"id": "lishu-e7", "name": "公孙臣新垣平议改历未成", "dynasty": "西汉文帝时", "evidence": [11], "description": "公孙臣言汉为土德，黄龙见成纪；新垣平望气议改历，事败被诛，文帝未改正朔", "global_same_as": ""},
+    {"id": "lishu-e8", "name": "汉武帝制定太初历", "dynasty": "西汉", "time": "太初元年（前104年）", "evidence": [15], "description": "汉武帝招唐都、落下闳等造太初历，恢复夏正以正月为岁首，改元封七年为太初元年，为中国历法史上重大改革", "global_same_as": ""}
+  ],
+  "institutions": [
+    {"id": "lishu-i1", "name": "三正", "type": "历法制度", "description": "夏正建寅（正月岁首）、殷正建丑（十二月岁首）、周正建子（十一月岁首），三代岁首不同，循环往复", "evidence": [11], "global_same_as": ""},
+    {"id": "lishu-i2", "name": "古六历", "type": "历法", "description": "黄帝历、颛顼历、夏历、殷历、周历、鲁历，传说为上古六种历法，古四分历体系", "evidence": [3], "global_same_as": ""},
+    {"id": "lishu-i3", "name": "五德终始说", "type": "政治学说", "description": "邹衍创立，以五行相胜解释王朝更替，黄帝土德、夏木德、殷金德、周火德、秦水德、汉土德循环", "evidence": [9,11,15], "global_same_as": ""},
+    {"id": "lishu-i4", "name": "太初历", "type": "历法", "description": "汉武帝太初元年制定，落下闳等人编制，以正月为岁首，采用八十一分法，是中国第一部有完整记载的历法，沿用到东汉四分历", "evidence": [15], "global_same_as": ""},
+    {"id": "lishu-i5", "name": "四分历", "type": "历法", "description": "古代历法，回归年长度为365又1/4日，朔望月29又499/940日，19年7闰，76年为一蔀，历术甲子篇即为四分历蔀法推算表", "evidence": [16], "global_same_as": ""},
+    {"id": "lishu-i6", "name": "闰余", "type": "历法术语", "description": "阳历回归年与阴历朔望月的差数，通过置闰月调整，使历法与季节相合", "evidence": [3], "global_same_as": ""},
+    {"id": "lishu-i7", "name": "改正朔易服色", "type": "礼仪制度", "description": "改朝换代后，帝王更改岁首正月、更改车马祭牲颜色，作为受命改制的标志", "evidence": [2], "global_same_as": ""},
+    {"id": "lishu-i8", "name": "五官", "type": "官职", "description": "黄帝时设立，分管天地神祇物类，南正、火正即为其中两官", "evidence": [3,5], "global_same_as": ""},
+    {"id": "lishu-i9", "name": "羲和", "type": "官职", "description": "尧舜时掌天文历法的官员，羲仲、羲叔、和仲、和叔分掌东南西北四时", "evidence": [7], "global_same_as": ""}
+  ],
+  "relations": [
+    {"id": "lishu-r1", "type": "appointed", "subject": "颛顼", "object": "重", "description": "命南正重掌天事，属神", "evidence": [5]},
+    {"id": "lishu-r2", "type": "appointed", "subject": "颛顼", "object": "黎", "description": "命火正黎掌地事，属民", "evidence": [5]},
+    {"id": "lishu-r3", "type": "appointed", "subject": "尧", "object": "羲和", "description": "命羲和之官明时正度，掌历法", "evidence": [7]},
+    {"id": "lishu-r4", "type": "authored", "subject": "邹衍", "object": "五德终始说", "evidence": [9]},
+    {"id": "lishu-r5", "type": "enacted_event", "subject": "秦始皇", "object": "秦定水德以十月为岁首", "evidence": [9]},
+    {"id": "lishu-r6", "type": "advised", "subject": "公孙臣", "object": "汉文帝", "description": "上书建议汉文帝改正朔易服色，汉为土德", "evidence": [11]},
+    {"id": "lishu-r7", "type": "opposed", "subject": "张苍", "object": "公孙臣改历建议", "description": "张苍认为汉为水德，反对改历，后黄龙见成纪，张苍自黜", "evidence": [11]},
+    {"id": "lishu-r8", "type": "appointed", "subject": "汉武帝", "object": "唐都", "description": "招致唐都划分天部星官，参与改历", "evidence": [15]},
+    {"id": "lishu-r9", "type": "appointed", "subject": "汉武帝", "object": "落下闳", "description": "命落下闳运算转历，编制太初历", "evidence": [15]},
+    {"id": "lishu-r10", "type": "authored", "subject": "落下闳", "object": "太初历", "evidence": [15]},
+    {"id": "lishu-r11", "type": "killed", "subject": "晋人", "object": "苌弘", "description": "晋国叛乱，苌弘被晋人所杀，事在周敬王二十七年", "evidence": [8]}
+  ]
+}
