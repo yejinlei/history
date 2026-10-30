@@ -1,0 +1,51 @@
+{
+  "chapter": "河渠书第七",
+  "person_mentions": [
+    {"mention": "禹", "sent_ids": [1], "entity_id": "hequ-p1"},
+    {"mention": "大禹", "sent_ids": [1,14], "entity_id": "hequ-p1"},
+    {"mention": "西门豹", "sent_ids": [3], "entity_id": "hequ-p2"},
+    {"mention": "郑国", "sent_ids": [4], "entity_id": "hequ-p3"},
+    {"mention": "李冰", "sent_ids": [2], "entity_id": "hequ-p4"},
+    {"mention": "孝文", "sent_ids": [5], "entity_id": "hequ-p5"},
+    {"mention": "汉文帝", "sent_ids": [], "entity_id": "hequ-p5"},
+    {"mention": "今天子", "sent_ids": [6], "entity_id": "hequ-p6"},
+    {"mention": "天子", "sent_ids": [6,7,8,9,10,11,12,13], "entity_id": "hequ-p6"},
+    {"mention": "汉武帝", "sent_ids": [], "entity_id": "hequ-p6"},
+    {"mention": "汲黯", "sent_ids": [6], "entity_id": "hequ-p7"},
+    {"mention": "郑当时", "sent_ids": [6,7], "entity_id": "hequ-p8"},
+    {"mention": "武安侯", "sent_ids": [6], "entity_id": "hequ-p9"},
+    {"mention": "田蚡", "sent_ids": [6], "entity_id": "hequ-p9"},
+    {"mention": "徐伯", "sent_ids": [7], "entity_id": "hequ-p10"},
+    {"mention": "番系", "sent_ids": [8], "entity_id": "hequ-p11"},
+    {"mention": "张汤", "sent_ids": [9], "entity_id": "hequ-p12"},
+    {"mention": "庄熊羆", "sent_ids": [10], "entity_id": "hequ-p13"},
+    {"mention": "汲仁", "sent_ids": [11], "entity_id": "hequ-p14"},
+    {"mention": "郭昌", "sent_ids": [11], "entity_id": "hequ-p15"}
+  ],
+  "event_mentions": [
+    {"mention": "禹抑鸿水", "sent_ids": [1], "entity_id": "hequ-e1"},
+    {"mention": "西门豹引漳水溉邺", "sent_ids": [3], "entity_id": "hequ-e2"},
+    {"mention": "蜀守冰凿离碓", "sent_ids": [2], "entity_id": "hequ-e3"},
+    {"mention": "水工郑国凿泾水为渠", "sent_ids": [4], "entity_id": "hequ-e4"},
+    {"mention": "河决酸枣东溃金堤", "sent_ids": [5], "entity_id": "hequ-e5"},
+    {"mention": "河决于瓠子", "sent_ids": [6], "entity_id": "hequ-e6"},
+    {"mention": "引渭穿漕渠", "sent_ids": [7], "entity_id": "hequ-e7"},
+    {"mention": "河东守番系穿渠引汾", "sent_ids": [8], "entity_id": "hequ-e8"},
+    {"mention": "通褒斜道", "sent_ids": [9], "entity_id": "hequ-e9"},
+    {"mention": "穿洛作龙首渠", "sent_ids": [10], "entity_id": "hequ-e10"},
+    {"mention": "塞瓠子决河作宣房宫", "sent_ids": [11,12], "entity_id": "hequ-e11"},
+    {"mention": "用事者争言水利", "sent_ids": [13], "entity_id": "hequ-e12"}
+  ],
+  "institution_mentions": [
+    {"mention": "鸿沟", "sent_ids": [2], "entity_id": "hequ-i1"},
+    {"mention": "郑国渠", "sent_ids": [4], "entity_id": "hequ-i2"},
+    {"mention": "离碓", "sent_ids": [2], "entity_id": "hequ-i3"},
+    {"mention": "都江堰", "sent_ids": [], "entity_id": "hequ-i3"},
+    {"mention": "漕渠", "sent_ids": [7], "entity_id": "hequ-i4"},
+    {"mention": "龙首渠", "sent_ids": [10], "entity_id": "hequ-i5"},
+    {"mention": "井渠", "sent_ids": [10], "entity_id": "hequ-i6"},
+    {"mention": "宣房宫", "sent_ids": [12,13,14], "entity_id": "hequ-i7"},
+    {"mention": "瓠子决河", "sent_ids": [6,11], "entity_id": "hequ-i8"},
+    {"mention": "褒斜道", "sent_ids": [9], "entity_id": "hequ-i9"}
+  ]
+}

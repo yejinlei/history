@@ -1,0 +1,54 @@
+{
+  "book": "史记",
+  "chapter": "河渠书第七",
+  "persons": [
+    {"id": "hequ-p1", "name": "禹", "alias": ["大禹", "夏禹"], "dynasty": "上古", "role": "夏朝开国君主，治水十三年过家门不入，疏九河、陂九泽、通九道，划定九州，是中国水利事业的开创者", "evidence": [1], "global_same_as": ""},
+    {"id": "hequ-p2", "name": "西门豹", "alias": [], "dynasty": "战国魏", "role": "魏国邺令，引漳水溉邺，开漳水十二渠，富魏河内，破除河伯娶妇迷信", "evidence": [3], "global_same_as": ""},
+    {"id": "hequ-p3", "name": "郑国", "alias": [], "dynasty": "战国末", "role": "韩国水工，奉韩命入秦行疲秦计，凿泾水为渠三百余里，渠成秦富强，因命名郑国渠", "evidence": [4], "global_same_as": ""},
+    {"id": "hequ-p4", "name": "李冰", "alias": [], "dynasty": "战国秦", "role": "秦蜀郡守，凿离碓（都江堰宝瓶口），避沫水害，穿二江成都之中，修都江堰，成都平原从此为天府之国", "evidence": [2], "global_same_as": ""},
+    {"id": "hequ-p5", "name": "汉文帝", "alias": ["刘恒"], "dynasty": "西汉", "role": "文帝时河决酸枣东溃金堤，发东郡卒塞之", "evidence": [5], "global_same_as": ""},
+    {"id": "hequ-p6", "name": "汉武帝", "alias": ["刘彻", "今上"], "dynasty": "西汉", "role": "元光中河决瓠子，元封二年亲临塞瓠子决口，沉白马玉璧，令群臣从官自将军以下负薪填决河，筑宣房宫，开西汉水利建设高潮", "evidence": [6,11,12], "global_same_as": ""},
+    {"id": "hequ-p7", "name": "汲黯", "alias": [], "dynasty": "西汉武帝时", "role": "武帝时名臣，字长孺，与郑当时兴人徒塞瓠子决口，弟汲仁后亦主持塞瓠子", "evidence": [6], "global_same_as": ""},
+    {"id": "hequ-p8", "name": "郑当时", "alias": ["郑庄"], "dynasty": "西汉武帝时", "role": "大农令，建议开长安至黄河漕渠，由水工徐伯主其事，漕运便利又溉民田", "evidence": [6,7], "global_same_as": ""},
+    {"id": "hequ-p9", "name": "田蚡", "alias": ["武安侯"], "dynasty": "西汉武帝时", "role": "丞相，因食邑在河北，河决南则鄃无水灾邑收多，谏言塞河未必应天，致瓠子决口二十余年未塞", "evidence": [6], "global_same_as": ""},
+    {"id": "hequ-p10", "name": "徐伯", "alias": [], "dynasty": "西汉", "role": "齐地水工，勘察漕渠路线，主持开凿关中漕渠，三年而成", "evidence": [7], "global_same_as": ""},
+    {"id": "hequ-p11", "name": "番系", "alias": [], "dynasty": "西汉", "role": "河东太守，建议穿渠引汾、引河溉河东地，省砥柱漕运", "evidence": [8], "global_same_as": ""},
+    {"id": "hequ-p12", "name": "张汤", "alias": [], "dynasty": "西汉武帝时", "role": "御史大夫，议通褒斜道及漕事，子张卬为汉中守主其事", "evidence": [9], "global_same_as": ""},
+    {"id": "hequ-p13", "name": "庄熊羆", "alias": [], "dynasty": "西汉", "role": "建议穿洛水溉临晋以东万余顷卤地，开龙首渠，首创井渠法", "evidence": [10], "global_same_as": ""},
+    {"id": "hequ-p14", "name": "汲仁", "alias": [], "dynasty": "西汉", "role": "汲黯弟，与郭昌发卒数万人塞瓠子决口", "evidence": [11], "global_same_as": ""},
+    {"id": "hequ-p15", "name": "郭昌", "alias": [], "dynasty": "西汉", "role": "将军，与汲仁主持塞瓠子决口工程", "evidence": [11], "global_same_as": ""}
+  ],
+  "events": [
+    {"id": "hequ-e1", "name": "大禹治水", "dynasty": "上古", "evidence": [1], "description": "禹治洪水十三年过家不入，陆行载车、水行载舟、泥行蹈橇、山行即桥，别九州，随山浚川，任土作贡，通九道，陂九泽，度九山，疏九河入海，奠定中国古代水利基础。", "global_same_as": ""},
+    {"id": "hequ-e2", "name": "西门豹引漳溉邺", "dynasty": "战国魏文侯时", "evidence": [3], "description": "魏文侯时西门豹为邺令，引漳水溉邺，开漳水十二渠，富魏河内，破除当地河伯娶妇恶俗，邺地从此富饶。", "global_same_as": ""},
+    {"id": "hequ-e3", "name": "李冰修都江堰", "dynasty": "战国秦昭王时", "evidence": [2], "description": "秦蜀守李冰凿离碓（宝瓶口），避沫水（岷江）之害，穿二江成都之中，分岷江为内外江，兼有防洪、灌溉、航运之利，成都平原从此水旱从人，不知饥馑，成为天府之国，都江堰至今仍发挥作用，是世界水利史上的奇迹。", "global_same_as": ""},
+    {"id": "hequ-e4", "name": "郑国渠开凿", "dynasty": "战国秦王政时", "time": "秦王政十年（前237年）", "evidence": [4], "description": "韩使水工郑国入秦为间，说秦凿泾水自中山西抵瓠口为渠，并北山东注洛三百余里，欲疲秦。事发，郑国曰「臣为韩延数岁之命，而为秦建万世之功」，秦卒使成之，溉舄卤之地四万余顷，收皆亩一钟，关中为沃野无凶年，秦以富强卒并诸侯，因名曰郑国渠。为古代关中最重要灌溉工程。", "global_same_as": ""},
+    {"id": "hequ-e5", "name": "汉文帝时河决酸枣", "dynasty": "西汉文帝时", "time": "文帝十二年（前168年）", "evidence": [5], "description": "河决酸枣（今河南延津），东溃金堤，东郡大兴卒塞之，是汉初第一次大黄河决口。", "global_same_as": ""},
+    {"id": "hequ-e6", "name": "汉武帝元光瓠子河决", "dynasty": "西汉", "time": "元光三年（前132年）", "evidence": [6], "description": "河决于瓠子（今河南濮阳西南），东南注钜野，通于淮泗，梁楚之地被灾。天子使汲黯、郑当时兴人徒塞之辄复坏。丞相田蚡食邑鄃在河北，河决南则鄃无水灾，言「江河之决皆天事，未易以人力为强塞」，以故久不复塞，泛滥二十余年，梁楚之地连岁不登。", "global_same_as": ""},
+    {"id": "hequ-e7", "name": "开凿关中漕渠", "dynasty": "西汉武帝时", "time": "元光六年（前129年）", "evidence": [7], "description": "大农郑当时建议，引渭穿渠起长安并南山下至河三百余里，径易漕度可三月罢，渠下民田万余顷又可得以溉田。天子令齐人水工徐伯表，发卒数万人穿漕渠，三岁而通，漕大便利，渠下之民颇得以溉田。", "global_same_as": ""},
+    {"id": "hequ-e8", "name": "河东渠田失败", "dynasty": "西汉", "evidence": [8], "description": "河东守番系建议穿渠引汾溉皮氏汾阴下、引河溉汾阴蒲坂下，度可得五千顷故恶地溉田度可得谷二百万石以上，省砥柱之漕。发卒数万人作渠田，数岁河移徙渠不利，田者不能偿种，久之河东渠田废。", "global_same_as": ""},
+    {"id": "hequ-e9", "name": "褒斜道开凿", "dynasty": "西汉武帝时", "evidence": [9], "description": "人有上书欲通褒斜道及漕事，下张汤，汤言抵蜀从故道多坂回远，穿褒斜道少阪近四百里，褒水通沔斜水通渭皆可以行船漕，漕从南阳上沔入褒，褒绝水至斜间百余里以车转，从斜下下渭，可通汉中之粟，且褒斜材木竹箭之饶拟于巴蜀。天子拜汤子卬为汉中守，发数万人作褒斜道五百余里，道果便近，而水湍石多不可漕。", "global_same_as": ""},
+    {"id": "hequ-e10", "name": "龙首渠开凿与井渠法发明", "dynasty": "西汉武帝时", "time": "元狩至元鼎间", "evidence": [10], "description": "庄熊罴言临晋民愿穿洛以溉重泉以东万余顷故卤地，诚得水可令亩十石。发卒万余人穿渠，自徵引洛水至商颜山下，岸善崩，乃凿井深者四十余丈，往往为井，井下相通行水，水颓以绝商颜，东至山岭十余里间，井渠之生自此始。穿渠得龙骨故名曰龙首渠，作之十余岁渠颇通犹未得其饶。井渠法是中国古代水利工程重要发明，后传至西域发展为坎儿井。", "global_same_as": ""},
+    {"id": "hequ-e11", "name": "汉武帝元封二年塞瓠子决河", "dynasty": "西汉", "time": "元封二年（前109年）", "evidence": [11,12], "description": "自河决瓠子后二十余岁岁以数不登，梁楚尤甚。天子既封禅巡祭山川，其明年旱，乃使汲仁郭昌发卒数万人塞瓠子决。天子自万里沙还，自临决河，沉白马玉璧于河，令群臣从官自将军已下皆负薪填决河。是时东郡烧草以故薪柴少，而下淇园之竹以为楗。天子悼功之不成，作《瓠子歌》二首，卒塞瓠子，筑宫其上名曰宣房宫，导河北行二渠复禹旧迹，梁楚之地复宁无水灾。天子亲临治河，为中国水利史大事，此后用事者争言水利，全国水利大兴。", "global_same_as": ""}
+  ],
+  "institutions": [
+    {"id": "hequ-i1", "name": "鸿沟", "type": "运河", "description": "战国魏惠王十年开凿的运河，自荥阳引黄河水东南流，连通宋郑陈蔡曹卫，与济汝淮泗会合，是古代中原地区重要水运交通枢纽，楚汉相争时以鸿沟为界中分天下。", "evidence": [2], "global_same_as": ""},
+    {"id": "hequ-i2", "name": "郑国渠", "type": "灌溉工程", "description": "秦王政时韩国水工郑国主持开凿，引泾水东注洛水，长三百余里，溉关中四万余顷盐碱地，关中为沃野，秦以富强，为中国古代最著名灌溉工程之一。", "evidence": [4], "global_same_as": ""},
+    {"id": "hequ-i3", "name": "都江堰", "type": "水利工程", "description": "秦蜀守李冰主持修建，凿离碓（宝瓶口），分岷江为内外江，兼具防洪、灌溉、航运效益，使成都平原成为天府之国，至今两千二百余年仍发挥作用，为世界文化遗产。", "evidence": [2], "global_same_as": ""},
+    {"id": "hequ-i4", "name": "漕渠", "type": "运河/灌溉工程", "description": "汉武帝元光六年郑当时建议、徐伯主持开凿，引渭水从长安沿南山至黄河，长三百余里，三年而成，缩短漕运时间，又溉渠下万余顷民田。", "evidence": [7], "global_same_as": ""},
+    {"id": "hequ-i5", "name": "龙首渠", "type": "灌溉工程", "description": "汉武帝时发卒万余人穿洛水所开，首创井渠法（井下相通行水），凿井深数十丈，穿商颜山十余里，工程历时十余年，是中国古代隧道水利工程的创举，井渠法后发展为新疆坎儿井。因穿渠得龙骨故名龙首渠。", "evidence": [10], "global_same_as": ""},
+    {"id": "hequ-i6", "name": "井渠法", "type": "水利工程技术", "description": "龙首渠首创，因渠岸容易崩塌，不挖明渠而凿竖井，井下挖通暗渠相连，水在地下暗渠流动穿过山岭，适合黄土高原地形，后传至西域发展为坎儿井，是古代中国水利技术的伟大发明。", "evidence": [10], "global_same_as": ""},
+    {"id": "hequ-i7", "name": "宣房宫", "type": "水利纪念建筑", "description": "汉武帝元封二年塞瓠子决口后，在决口处修筑宫殿，名曰宣房宫（《汉书》作宣防），纪念塞河成功，是古代最重要的水利纪念建筑。", "evidence": [12], "global_same_as": ""},
+    {"id": "hequ-i8", "name": "瓠子决河", "type": "黄河水患", "description": "汉武帝元光三年（前132年）黄河在瓠子决口，泛滥二十余年，至元封二年（前109年）武帝亲临堵塞成功，为汉代最严重黄河水患之一，武帝塞河之后黄河稳定八十年未大决口。", "evidence": [6,11], "global_same_as": ""}
+  ],
+  "relations": [
+    {"id": "hequ-r1", "type": "constructed", "subject": "李冰", "object": "都江堰", "evidence": [2]},
+    {"id": "hequ-r2", "type": "constructed", "subject": "郑国", "object": "郑国渠", "evidence": [4]},
+    {"id": "hequ-r3", "type": "constructed", "subject": "西门豹", "object": "引漳十二渠", "evidence": [3]},
+    {"id": "hequ-r4", "type": "advised_and_constructed", "subject": "郑当时", "object": "漕渠", "description": "郑当时建议开漕渠，徐伯勘察主持施工", "evidence": [7]},
+    {"id": "hequ-r5", "type": "initiated", "subject": "庄熊羆", "object": "龙首渠", "evidence": [10]},
+    {"id": "hequ-r6", "type": "delayed_response_to", "subject": "田蚡", "object": "瓠子决河", "description": "田蚡因私邑利害反对塞河，致瓠子决口二十余年未塞", "evidence": [6]},
+    {"id": "hequ-r7", "type": "personally_directed", "subject": "汉武帝", "object": "汉武帝元封二年塞瓠子决河", "description": "武帝亲临决河，沉白马玉璧祭河，令群臣负薪塞河，筑宣房宫", "evidence": [11,12]},
+    {"id": "hequ-r8", "type": "invented", "subject": "龙首渠工程", "object": "井渠法", "evidence": [10]}
+  ]
+}
