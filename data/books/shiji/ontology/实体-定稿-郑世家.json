@@ -1,0 +1,4585 @@
+{
+  "book": "shiji",
+  "chapter_id": "shiji-鄭世家第十二",
+  "title": "郑世家第十二",
+  "juan": "卷四十二",
+  "persons": [
+    {
+      "id": "person:郑桓公",
+      "name": "郑桓公",
+      "alias": [
+        "友",
+        "桓公"
+      ],
+      "type": "君主",
+      "dynasty": "西周",
+      "state": "郑",
+      "description": "周厉王少子、周宣王庶弟，名友；初封于郑，任周幽王司徒，采太史伯之谋东徙其民，为郑国始封君。",
+      "evidence": [
+        "p0",
+        "p1",
+        "p61"
+      ]
+    },
+    {
+      "id": "person:郑武公",
+      "name": "郑武公",
+      "alias": [
+        "掘突",
+        "武公"
+      ],
+      "type": "君主",
+      "dynasty": "西周",
+      "state": "郑",
+      "description": "桓公之子掘突，犬戎杀桓公后郑人所共立；娶申侯女武姜，卒后太子寤生继立。",
+      "evidence": [
+        "p1",
+        "p2"
+      ]
+    },
+    {
+      "id": "person:武姜",
+      "name": "武姜",
+      "alias": [
+        "申侯女"
+      ],
+      "type": "夫人",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑武公夫人，申侯之女；生庄公寤生与共叔段，偏爱叔段，请立为太子。",
+      "evidence": [
+        "p2",
+        "p3"
+      ]
+    },
+    {
+      "id": "person:郑庄公",
+      "name": "郑庄公",
+      "alias": [
+        "寤生",
+        "庄公"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "武公长子，名寤生；封弟段于京，克段、迁母于城颍而复黄泉相见；繻葛之战败周桓王。",
+      "evidence": [
+        "p2",
+        "p3",
+        "p4"
+      ]
+    },
+    {
+      "id": "person:共叔段",
+      "name": "共叔段",
+      "alias": [
+        "叔段",
+        "太叔",
+        "段"
+      ],
+      "type": "公族",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑庄公之弟，封于京，号太叔；与母武姜谋袭郑，败而奔共。",
+      "evidence": [
+        "p2",
+        "p3"
+      ]
+    },
+    {
+      "id": "person:郑昭公",
+      "name": "郑昭公",
+      "alias": [
+        "忽",
+        "太子忽"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑庄公太子，名忽；救齐辞婚，由祭仲立为昭公，后为高渠弥所弑。",
+      "evidence": [
+        "p5",
+        "p6",
+        "p7",
+        "p8",
+        "p10"
+      ]
+    },
+    {
+      "id": "person:郑厉公",
+      "name": "郑厉公",
+      "alias": [
+        "突",
+        "厉公"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑庄公之子，名突，宋人所立；出居栎十七年，终由甫瑕迎归复位，诛甫瑕而卒。",
+      "evidence": [
+        "p7",
+        "p8",
+        "p9",
+        "p13",
+        "p15",
+        "p16"
+      ]
+    },
+    {
+      "id": "person:郑子亹",
+      "name": "郑子亹",
+      "alias": [
+        "子亹"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑昭公之弟，祭仲、高渠弥所立；赴首止之会被齐襄公所杀，无谥号。",
+      "evidence": [
+        "p10",
+        "p11"
+      ]
+    },
+    {
+      "id": "person:郑子仪",
+      "name": "郑子仪",
+      "alias": [
+        "婴",
+        "公子婴",
+        "郑子"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "子亹之弟，《史记》作公子婴、号郑子（《左传》作子仪）；高渠弥、祭仲自陈召立，后为甫瑕所杀。",
+      "evidence": [
+        "p11",
+        "p13"
+      ]
+    },
+    {
+      "id": "person:郑文公",
+      "name": "郑文公",
+      "alias": [
+        "踕"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑厉公之子，名踕；据《索隐》徙居新郑（系本云「文公徙郑」，宋忠云即新郑），曾不礼重耳、囚周使伯犕，晚年立子兰为太子。",
+      "evidence": [
+        "p16",
+        "p19",
+        "p20",
+        "p21"
+      ]
+    },
+    {
+      "id": "person:郑穆公",
+      "name": "郑穆公",
+      "alias": [
+        "兰",
+        "子兰",
+        "缪公"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑文公之子，名兰，燕姞梦兰而生；先奔晋后归立为太子，继文公即位。",
+      "evidence": [
+        "p18",
+        "p21",
+        "p22"
+      ]
+    },
+    {
+      "id": "person:郑灵公",
+      "name": "郑灵公",
+      "alias": [
+        "夷"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑穆公之子，名夷；因鼋羹戏子公，为子公、子家所弑。",
+      "evidence": [
+        "p25",
+        "p26"
+      ]
+    },
+    {
+      "id": "person:郑襄公",
+      "name": "郑襄公",
+      "alias": [
+        "坚",
+        "子坚"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "灵公庶弟，名坚；去疾让而立之，楚庄王围郑时肉袒牵羊出降。",
+      "evidence": [
+        "p26",
+        "p29"
+      ]
+    },
+    {
+      "id": "person:郑悼公",
+      "name": "郑悼公",
+      "alias": [
+        "㵒",
+        "沸",
+        "弗"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑襄公之子，名㵒；使弟睔赴楚自讼反被楚囚，悼公遂与晋平。",
+      "evidence": [
+        "p31",
+        "p32",
+        "p33"
+      ]
+    },
+    {
+      "id": "person:郑成公",
+      "name": "郑成公",
+      "alias": [
+        "睔"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "悼公之弟，名睔；曾私与楚盟，为晋所执，郑人立繻以拒晋，归后复位。",
+      "evidence": [
+        "p33",
+        "p34"
+      ]
+    },
+    {
+      "id": "person:郑釐公",
+      "name": "郑釐公",
+      "alias": [
+        "惲",
+        "髡顽"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑成公之子，名惲；为相子驷所遣厨人以药弑杀。",
+      "evidence": [
+        "p36",
+        "p37"
+      ]
+    },
+    {
+      "id": "person:郑简公",
+      "name": "郑简公",
+      "alias": [
+        "嘉"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "釐公之子，名嘉，五岁即位；诛子孔而任子产为卿，郑国赖以少安。",
+      "evidence": [
+        "p37",
+        "p38",
+        "p40",
+        "p42",
+        "p43"
+      ]
+    },
+    {
+      "id": "person:郑定公",
+      "name": "郑定公",
+      "alias": [
+        "宁"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "简公之子，名宁；与晋谋入周敬王于成周。",
+      "evidence": [
+        "p43",
+        "p48",
+        "p49"
+      ]
+    },
+    {
+      "id": "person:郑献公",
+      "name": "郑献公",
+      "alias": [
+        "蠆"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "定公之子，名蠆。",
+      "evidence": [
+        "p49"
+      ]
+    },
+    {
+      "id": "person:郑声公",
+      "name": "郑声公",
+      "alias": [
+        "胜"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "献公之子，名声；在位时晋六卿侵夺郑地，郑相子产卒。",
+      "evidence": [
+        "p49",
+        "p50",
+        "p51"
+      ]
+    },
+    {
+      "id": "person:郑哀公",
+      "name": "郑哀公",
+      "alias": [
+        "易"
+      ],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "郑",
+      "description": "声公之子，名易；为郑人所弑。",
+      "evidence": [
+        "p54"
+      ]
+    },
+    {
+      "id": "person:郑共公",
+      "name": "郑共公",
+      "alias": [
+        "丑"
+      ],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "郑",
+      "description": "声公之弟，名丑；哀公被弑后郑人所立。",
+      "evidence": [
+        "p54"
+      ]
+    },
+    {
+      "id": "person:郑幽公",
+      "name": "郑幽公",
+      "alias": [
+        "已"
+      ],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "郑",
+      "description": "共公之子，名已；为韩武子所杀。",
+      "evidence": [
+        "p54"
+      ]
+    },
+    {
+      "id": "person:郑繻公",
+      "name": "郑繻公",
+      "alias": [
+        "駘",
+        "繚"
+      ],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "郑",
+      "description": "幽公之弟，名駘；杀其相子阳，后为子阳之党所弑。",
+      "evidence": [
+        "p54",
+        "p57"
+      ]
+    },
+    {
+      "id": "person:郑康公",
+      "name": "郑康公",
+      "alias": [
+        "乙",
+        "郑君乙"
+      ],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "郑",
+      "description": "幽公之弟，名乙；在位二十一年，韩哀侯灭郑，郑亡。",
+      "evidence": [
+        "p57",
+        "p58",
+        "p59"
+      ]
+    },
+    {
+      "id": "person:祭仲",
+      "name": "祭仲",
+      "alias": [
+        "祭足",
+        "仲足",
+        "祭仲足"
+      ],
+      "type": "卿",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑庄公时卿，专国政数十年，历立昭公、厉公、子亹、郑子，为郑国权臣。",
+      "evidence": [
+        "p3",
+        "p5",
+        "p6",
+        "p7",
+        "p8",
+        "p10",
+        "p11",
+        "p12",
+        "p61"
+      ]
+    },
+    {
+      "id": "person:高渠弥",
+      "name": "高渠弥",
+      "alias": [
+        "渠弥",
+        "弥",
+        "眯"
+      ],
+      "type": "卿",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑庄公时为卿，与昭公出猎射杀昭公；后与祭仲立子亹、郑子。",
+      "evidence": [
+        "p4",
+        "p10",
+        "p11"
+      ]
+    },
+    {
+      "id": "person:颍考叔",
+      "name": "颍考叔",
+      "alias": [
+        "考叔",
+        "颍谷之考叔"
+      ],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "颍谷封人，献食启发庄公掘地黄泉与母相见。",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "id": "person:祝聸",
+      "name": "祝聸",
+      "alias": [
+        "祝聃"
+      ],
+      "type": "将领",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "繻葛之战中射中周桓王手臂的郑将，请追而郑伯止之。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "person:雍纠",
+      "name": "雍纠",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑厉公之婿、祭仲之女婿，奉命谋杀祭仲，事泄反被祭仲所杀。",
+      "evidence": [
+        "p8"
+      ]
+    },
+    {
+      "id": "person:雍氏",
+      "name": "雍氏",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "宋",
+      "description": "宋国雍氏，其女为郑庄公夫人生厉公突，雍氏有宠于宋。",
+      "evidence": [
+        "p7"
+      ]
+    },
+    {
+      "id": "person:甫瑕",
+      "name": "甫瑕",
+      "alias": [
+        "傅瑕"
+      ],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑大夫，劫杀郑子（子仪）迎厉公复位，终为厉公所诛。",
+      "evidence": [
+        "p13",
+        "p60"
+      ]
+    },
+    {
+      "id": "person:原繁",
+      "name": "原繁",
+      "alias": [
+        "原",
+        "伯父原"
+      ],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑厉公伯父，因未尽迎立厉公之责被责让，自认有罪而自杀。",
+      "evidence": [
+        "p13"
+      ]
+    },
+    {
+      "id": "person:叔詹",
+      "name": "叔詹",
+      "alias": [
+        "叔瞻",
+        "詹"
+      ],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑文公之弟，屡谏文公礼遇重耳；秦晋围郑时自杀以免郑难。",
+      "evidence": [
+        "p19",
+        "p21",
+        "p61"
+      ]
+    },
+    {
+      "id": "person:石癸",
+      "name": "石癸",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑大夫，以姞姓当兴之说劝立子兰为太子。",
+      "evidence": [
+        "p21"
+      ]
+    },
+    {
+      "id": "person:弦高",
+      "name": "弦高",
+      "alias": [],
+      "type": "商人",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑国商人，以十二牛诈犒秦师，使秦兵未至郑而还。",
+      "evidence": [
+        "p23"
+      ]
+    },
+    {
+      "id": "person:缯贺",
+      "name": "缯贺",
+      "alias": [],
+      "type": "司城",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑司城，向秦出卖郑国实情，招致秦兵来袭。",
+      "evidence": [
+        "p23"
+      ]
+    },
+    {
+      "id": "person:子家",
+      "name": "子家",
+      "alias": [],
+      "type": "卿",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑灵公时卿，与子公共弑灵公，后其族被逐。",
+      "evidence": [
+        "p26",
+        "p28"
+      ]
+    },
+    {
+      "id": "person:子公",
+      "name": "子公",
+      "alias": [],
+      "type": "卿",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑灵公时卿，因鼋羹受辱而染指尝羹，与子家共弑灵公。",
+      "evidence": [
+        "p26"
+      ]
+    },
+    {
+      "id": "person:去疾",
+      "name": "去疾",
+      "alias": [],
+      "type": "公族",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑灵公之弟，让位于兄坚（郑襄公）。",
+      "evidence": [
+        "p26",
+        "p27"
+      ]
+    },
+    {
+      "id": "person:子驷",
+      "name": "子驷",
+      "alias": [],
+      "type": "相",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑釐公时相，弑釐公立简公，专权，后为尉止所杀。",
+      "evidence": [
+        "p37",
+        "p38"
+      ]
+    },
+    {
+      "id": "person:子孔",
+      "name": "子孔",
+      "alias": [],
+      "type": "相",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑国公子，使尉止杀子驷而代之；因子产之谏止其自立之谋，相简公，后为简公所诛。",
+      "evidence": [
+        "p38",
+        "p40"
+      ]
+    },
+    {
+      "id": "person:尉止",
+      "name": "尉止",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑大夫，受子孔之使杀相子驷。",
+      "evidence": [
+        "p38"
+      ]
+    },
+    {
+      "id": "person:子产",
+      "name": "子产",
+      "alias": [
+        "公孙侨",
+        "子美"
+      ],
+      "type": "相",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑成公少子，名侨；相简公、定公，以礼、德治国，为孔子所敬，卒时郑人皆哭。",
+      "evidence": [
+        "p38",
+        "p40",
+        "p41",
+        "p42",
+        "p45",
+        "p46",
+        "p50"
+      ]
+    },
+    {
+      "id": "person:子阳",
+      "name": "子阳",
+      "alias": [],
+      "type": "相",
+      "dynasty": "战国",
+      "state": "郑",
+      "description": "郑繻公之相，为郑君所杀，其党复弑繻公。",
+      "evidence": [
+        "p57"
+      ]
+    },
+    {
+      "id": "person:延陵季子",
+      "name": "延陵季子",
+      "alias": [
+        "季札",
+        "季子"
+      ],
+      "type": "公子",
+      "dynasty": "春秋",
+      "state": "吴",
+      "description": "吴国公子季札，聘郑见子产如旧交，戒其为政必以礼。",
+      "evidence": [
+        "p40"
+      ]
+    },
+    {
+      "id": "person:太史伯",
+      "name": "太史伯",
+      "alias": [],
+      "type": "太史",
+      "dynasty": "西周",
+      "state": "周",
+      "description": "周太史，为郑桓公谋东徙雒东、寄帑虢鄶之策，并预言齐秦晋楚将兴。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "person:周厉王",
+      "name": "周厉王",
+      "alias": [],
+      "type": "周王",
+      "dynasty": "西周",
+      "state": "周",
+      "description": "郑桓公之父，暴虐失国。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "person:周宣王",
+      "name": "周宣王",
+      "alias": [],
+      "type": "周王",
+      "dynasty": "西周",
+      "state": "周",
+      "description": "郑桓公之兄（桓公为其庶弟），封友于郑。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "person:周幽王",
+      "name": "周幽王",
+      "alias": [],
+      "type": "周王",
+      "dynasty": "西周",
+      "state": "周",
+      "description": "任郑桓公为司徒，因褒后致王室多故，后为犬戎所杀。",
+      "evidence": [
+        "p0",
+        "p1"
+      ]
+    },
+    {
+      "id": "person:周桓王",
+      "name": "周桓王",
+      "alias": [],
+      "type": "周王",
+      "dynasty": "春秋",
+      "state": "周",
+      "description": "率陈、蔡、虢、卫伐郑，败于繻葛，臂中祝聸之箭。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "person:周惠王",
+      "name": "周惠王",
+      "alias": [],
+      "type": "周王",
+      "dynasty": "春秋",
+      "state": "周",
+      "description": "为弟王子颓所逐出奔，赖郑厉公、虢叔之助复位。",
+      "evidence": [
+        "p15"
+      ]
+    },
+    {
+      "id": "person:王子颓",
+      "name": "王子颓",
+      "alias": [
+        "颓"
+      ],
+      "type": "公子",
+      "dynasty": "春秋",
+      "state": "周",
+      "description": "周惠王弟子，被燕、卫拥立为王，后为郑厉公与虢叔所袭杀。",
+      "evidence": [
+        "p15"
+      ]
+    },
+    {
+      "id": "person:周襄王",
+      "name": "周襄王",
+      "alias": [],
+      "type": "周王",
+      "dynasty": "春秋",
+      "state": "周",
+      "description": "使伯犕为滑请命，郑文公不听，遂与翟人伐郑；后被翟所逐，出奔郑居氾。",
+      "evidence": [
+        "p20"
+      ]
+    },
+    {
+      "id": "person:周敬王",
+      "name": "周敬王",
+      "alias": [],
+      "type": "周王",
+      "dynasty": "春秋",
+      "state": "周",
+      "description": "因弟子朝之乱出居狄泉，赖晋、郑之助入于成周。",
+      "evidence": [
+        "p48"
+      ]
+    },
+    {
+      "id": "person:伯犕",
+      "name": "伯犕",
+      "alias": [
+        "伯服"
+      ],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "周",
+      "description": "周大夫，奉襄王之命请滑，被郑文公所囚。",
+      "evidence": [
+        "p20"
+      ]
+    },
+    {
+      "id": "person:虢叔",
+      "name": "虢叔",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "虢",
+      "description": "与郑厉公同袭杀王子颓，纳周惠王于周。",
+      "evidence": [
+        "p15"
+      ]
+    },
+    {
+      "id": "person:申侯",
+      "name": "申侯",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "西周",
+      "state": "申",
+      "description": "申国之君，其女为郑武公夫人武姜。",
+      "evidence": [
+        "p2"
+      ]
+    },
+    {
+      "id": "person:州吁",
+      "name": "州吁",
+      "alias": [],
+      "type": "公子",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "卫公子，弑其君桓公自立，与宋伐郑。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "person:公子冯",
+      "name": "公子冯",
+      "alias": [
+        "冯"
+      ],
+      "type": "公子",
+      "dynasty": "春秋",
+      "state": "宋",
+      "description": "宋缪公之子，出奔郑，为宋、卫伐郑之由。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "person:宋缪公",
+      "name": "宋缪公",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "宋",
+      "description": "宋国君，卒后公子冯奔郑。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "person:宋庄公",
+      "name": "宋庄公",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "宋",
+      "description": "诱执祭仲、执突以求赂，迫使郑立突为厉公。",
+      "evidence": [
+        "p7"
+      ]
+    },
+    {
+      "id": "person:孔父",
+      "name": "孔父",
+      "alias": [
+        "孔父嘉"
+      ],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "宋",
+      "description": "宋大夫，为宋所杀。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "person:齐釐公",
+      "name": "齐釐公",
+      "alias": [
+        "齐僖公"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "齐",
+      "description": "欲以女妻郑太子忽，忽辞。",
+      "evidence": [
+        "p5"
+      ]
+    },
+    {
+      "id": "person:齐桓公",
+      "name": "齐桓公",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "齐",
+      "description": "始霸，破蔡伐楚至召陵。",
+      "evidence": [
+        "p14",
+        "p17"
+      ]
+    },
+    {
+      "id": "person:齐襄公",
+      "name": "齐襄公",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "齐",
+      "description": "会诸侯于首止，伏甲杀郑子亹；后为管至父等所弑。",
+      "evidence": [
+        "p11",
+        "p12"
+      ]
+    },
+    {
+      "id": "person:彭生",
+      "name": "彭生",
+      "alias": [],
+      "type": "将领",
+      "dynasty": "春秋",
+      "state": "齐",
+      "description": "齐襄公所使，醉拉杀鲁桓公。",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "id": "person:鲁桓公",
+      "name": "鲁桓公",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "鲁",
+      "description": "被齐襄公使彭生醉杀。",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "id": "person:管至父",
+      "name": "管至父",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "齐",
+      "description": "齐大夫，作乱弑其君襄公。",
+      "evidence": [
+        "p12"
+      ]
+    },
+    {
+      "id": "person:长万",
+      "name": "长万",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "宋",
+      "description": "宋大夫，弑其君湣公。",
+      "evidence": [
+        "p12"
+      ]
+    },
+    {
+      "id": "person:燕姞",
+      "name": "燕姞",
+      "alias": [],
+      "type": "贱妾",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑文公贱妾，梦见伯鯈与之兰而生子兰（郑穆公）。",
+      "evidence": [
+        "p18"
+      ]
+    },
+    {
+      "id": "person:伯鯈",
+      "name": "伯鯈",
+      "alias": [],
+      "type": "古族",
+      "dynasty": "上古",
+      "state": "南燕",
+      "description": "南燕之祖（集解引贾逵曰「伯鯈，南燕祖」），托梦于燕姞赐兰。",
+      "evidence": [
+        "p18"
+      ]
+    },
+    {
+      "id": "person:晋文公",
+      "name": "晋文公",
+      "alias": [
+        "重耳"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "出亡过郑受无礼，返国即位后与秦穆公围郑、立子兰为郑太子。",
+      "evidence": [
+        "p19",
+        "p20",
+        "p21"
+      ]
+    },
+    {
+      "id": "person:秦穆公",
+      "name": "秦穆公",
+      "alias": [
+        "秦缪公"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "秦",
+      "description": "与晋文公围郑；又使三将袭郑，遇弦高犒师而还，败于崤。",
+      "evidence": [
+        "p21",
+        "p23"
+      ]
+    },
+    {
+      "id": "person:商臣",
+      "name": "商臣",
+      "alias": [
+        "楚穆王"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "楚太子，弑父成王代立。",
+      "evidence": [
+        "p24"
+      ]
+    },
+    {
+      "id": "person:华元",
+      "name": "华元",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "宋",
+      "description": "宋大夫，与楚伐郑；因杀羊不与其御羊斟，反被载入郑军而被囚。",
+      "evidence": [
+        "p24",
+        "p28"
+      ]
+    },
+    {
+      "id": "person:羊斟",
+      "name": "羊斟",
+      "alias": [],
+      "type": "车御",
+      "dynasty": "春秋",
+      "state": "宋",
+      "description": "华元车御，因未得羊羹而驱车入郑，致华元被囚。",
+      "evidence": [
+        "p24"
+      ]
+    },
+    {
+      "id": "person:赵穿",
+      "name": "赵穿",
+      "alias": [],
+      "type": "将领",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "晋将，率兵伐郑。",
+      "evidence": [
+        "p24"
+      ]
+    },
+    {
+      "id": "person:楚庄王",
+      "name": "楚庄王",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "春秋五霸之一；围郑三月受郑襄公肉袒牵羊而降，旋大败晋军于河上；又伐宋而赦解扬。",
+      "evidence": [
+        "p29",
+        "p30"
+      ]
+    },
+    {
+      "id": "person:晋景公",
+      "name": "晋景公",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "欲救宋，采伯宗之谏，遣解扬诳楚。",
+      "evidence": [
+        "p30"
+      ]
+    },
+    {
+      "id": "person:伯宗",
+      "name": "伯宗",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "谏晋景公勿伐楚。",
+      "evidence": [
+        "p30"
+      ]
+    },
+    {
+      "id": "person:解扬",
+      "name": "解扬",
+      "alias": [
+        "子虎"
+      ],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "霍人，奉命诳楚，登楼车反致晋君之命，为楚所赦，晋爵为上卿。",
+      "evidence": [
+        "p30"
+      ]
+    },
+    {
+      "id": "person:许灵公",
+      "name": "许灵公",
+      "alias": [
+        "鄦公",
+        "许公"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "许",
+      "description": "许国国君（正文作「鄦公」，集解云「许公，灵公也」）；于楚说郑之恶，致郑悼公使弟睔赴楚自讼。",
+      "evidence": [
+        "p32"
+      ]
+    },
+    {
+      "id": "person:子反",
+      "name": "子反",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "楚大夫，为郑睔进言使归郑。",
+      "evidence": [
+        "p32"
+      ]
+    },
+    {
+      "id": "person:楚共王",
+      "name": "楚共王",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "与郑成公私盟，救郑；鄢陵之战被晋射伤目。",
+      "evidence": [
+        "p34",
+        "p35",
+        "p39"
+      ]
+    },
+    {
+      "id": "person:栾书",
+      "name": "栾书",
+      "alias": [],
+      "type": "将领",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "晋将，奉晋命伐郑。",
+      "evidence": [
+        "p34"
+      ]
+    },
+    {
+      "id": "person:公子如",
+      "name": "公子如",
+      "alias": [],
+      "type": "公子",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑公子，晋围郑时立成公庶兄繻为君。",
+      "evidence": [
+        "p34"
+      ]
+    },
+    {
+      "id": "person:繻",
+      "name": "繻",
+      "alias": [],
+      "type": "公子",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑成公庶兄，被公子如立为君，成公归后被郑人所杀。",
+      "evidence": [
+        "p34"
+      ]
+    },
+    {
+      "id": "person:晋厉公",
+      "name": "晋厉公",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "怒郑背晋盟而发兵伐郑。",
+      "evidence": [
+        "p35"
+      ]
+    },
+    {
+      "id": "person:晋悼公",
+      "name": "晋悼公",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "伐郑，兵于洧上。",
+      "evidence": [
+        "p35"
+      ]
+    },
+    {
+      "id": "person:晋平公",
+      "name": "晋平公",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "病中问实沉、台骀之祟于子产，称其为博物君子。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "person:叔向",
+      "name": "叔向",
+      "alias": [
+        "叔嚮"
+      ],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "晋大夫，与平公共赞子产为博物君子。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "person:楚灵王",
+      "name": "楚灵王",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "会诸侯盟于申，诛齐庆封；后被弃疾所弑。",
+      "evidence": [
+        "p42",
+        "p44"
+      ]
+    },
+    {
+      "id": "person:庆封",
+      "name": "庆封",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "齐",
+      "description": "齐臣，出奔吴，为楚灵王会诸侯于申时所诛。",
+      "evidence": [
+        "p42"
+      ]
+    },
+    {
+      "id": "person:晋昭公",
+      "name": "晋昭公",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "郑定公朝之；卒后六卿强、公室卑。",
+      "evidence": [
+        "p43",
+        "p45"
+      ]
+    },
+    {
+      "id": "person:楚平王",
+      "name": "楚平王",
+      "alias": [
+        "弃疾"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "楚公子弃疾，弑灵王自立；归灵王所侵郑地于郑。",
+      "evidence": [
+        "p44"
+      ]
+    },
+    {
+      "id": "person:韩宣子",
+      "name": "韩宣子",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "晋卿，子产对其言为政必以德。",
+      "evidence": [
+        "p45"
+      ]
+    },
+    {
+      "id": "person:太子建",
+      "name": "太子建",
+      "alias": [],
+      "type": "公子",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "楚太子，出奔郑；与晋谋袭郑，为郑所杀。",
+      "evidence": [
+        "p47"
+      ]
+    },
+    {
+      "id": "person:白公胜",
+      "name": "白公胜",
+      "alias": [
+        "胜"
+      ],
+      "type": "公子",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "太子建之子，父被杀后奔吴。",
+      "evidence": [
+        "p47"
+      ]
+    },
+    {
+      "id": "person:孔子",
+      "name": "孔子",
+      "alias": [],
+      "type": "圣人",
+      "dynasty": "春秋",
+      "state": "鲁",
+      "description": "与子产如兄弟，闻子产死而泣，称其为古之遗爱。",
+      "evidence": [
+        "p50",
+        "p52"
+      ]
+    },
+    {
+      "id": "person:范氏",
+      "name": "范氏",
+      "alias": [],
+      "type": "世族",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "晋六卿之一，与中行氏反晋，向郑告急。",
+      "evidence": [
+        "p51"
+      ]
+    },
+    {
+      "id": "person:中行氏",
+      "name": "中行氏",
+      "alias": [],
+      "type": "世族",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "晋六卿之一，与范氏反晋，郑救之，晋败郑军于铁。",
+      "evidence": [
+        "p51"
+      ]
+    },
+    {
+      "id": "person:宋景公",
+      "name": "宋景公",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "宋",
+      "description": "在位时灭曹。",
+      "evidence": [
+        "p52"
+      ]
+    },
+    {
+      "id": "person:田常",
+      "name": "田常",
+      "alias": [],
+      "type": "相",
+      "dynasty": "春秋",
+      "state": "齐",
+      "description": "弑其君齐简公，相于齐。",
+      "evidence": [
+        "p52"
+      ]
+    },
+    {
+      "id": "person:齐简公",
+      "name": "齐简公",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "齐",
+      "description": "为田常所弑。",
+      "evidence": [
+        "p52"
+      ]
+    },
+    {
+      "id": "person:楚惠王",
+      "name": "楚惠王",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "在位时灭陈。",
+      "evidence": [
+        "p52"
+      ]
+    },
+    {
+      "id": "person:知伯",
+      "name": "知伯",
+      "alias": [],
+      "type": "卿",
+      "dynasty": "战国",
+      "state": "晋",
+      "description": "晋卿，伐郑取九邑；后为三晋所灭。",
+      "evidence": [
+        "p53",
+        "p54"
+      ]
+    },
+    {
+      "id": "person:韩武子",
+      "name": "韩武子",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "韩",
+      "description": "伐郑，杀郑幽公。",
+      "evidence": [
+        "p54"
+      ]
+    },
+    {
+      "id": "person:韩景侯",
+      "name": "韩景侯",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "韩",
+      "description": "伐郑，取雍丘。",
+      "evidence": [
+        "p55"
+      ]
+    },
+    {
+      "id": "person:韩哀侯",
+      "name": "韩哀侯",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "韩",
+      "description": "灭郑，并其国。",
+      "evidence": [
+        "p59",
+        "p61"
+      ]
+    },
+    {
+      "id": "person:里克",
+      "name": "里克",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "晋大夫，太史公以之与甫瑕相比。",
+      "evidence": [
+        "p60"
+      ]
+    },
+    {
+      "id": "person:荀息",
+      "name": "荀息",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "晋大夫，守节而不能存奚齐。",
+      "evidence": [
+        "p60"
+      ]
+    },
+    {
+      "id": "person:奚齐",
+      "name": "奚齐",
+      "alias": [],
+      "type": "公子",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "晋公子，荀息所辅而不能存者。",
+      "evidence": [
+        "p60"
+      ]
+    },
+    {
+      "id": "person:祝融",
+      "name": "祝融",
+      "alias": [],
+      "type": "古族",
+      "dynasty": "上古",
+      "state": "",
+      "description": "高辛氏火正，功大而其後未有兴于周者，楚其后也。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "person:高辛氏",
+      "name": "高辛氏",
+      "alias": [
+        "帝喾"
+      ],
+      "type": "古帝",
+      "dynasty": "上古",
+      "state": "",
+      "description": "上古帝，祝融为其火正；有二子阏伯、实沉。",
+      "evidence": [
+        "p0",
+        "p41"
+      ]
+    },
+    {
+      "id": "person:伯夷",
+      "name": "伯夷",
+      "alias": [],
+      "type": "古族",
+      "dynasty": "上古",
+      "state": "",
+      "description": "姜姓之祖，佐尧典礼，齐其后也。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "person:伯繄",
+      "name": "伯繄",
+      "alias": [],
+      "type": "古族",
+      "dynasty": "上古",
+      "state": "",
+      "description": "嬴姓之祖，佐舜怀柔百物，秦其后也。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "person:周成王",
+      "name": "周成王",
+      "alias": [],
+      "type": "周王",
+      "dynasty": "西周",
+      "state": "周",
+      "description": "封叔虞于唐；又灭唐而封太叔（叔虞）。",
+      "evidence": [
+        "p0",
+        "p41"
+      ]
+    },
+    {
+      "id": "person:周武王",
+      "name": "周武王",
+      "alias": [],
+      "type": "周王",
+      "dynasty": "西周",
+      "state": "周",
+      "description": "克纣；其夫人邑姜梦帝命子名虞。",
+      "evidence": [
+        "p0",
+        "p41"
+      ]
+    },
+    {
+      "id": "person:唐叔虞",
+      "name": "唐叔虞",
+      "alias": [
+        "叔虞"
+      ],
+      "type": "君主",
+      "dynasty": "西周",
+      "state": "唐",
+      "description": "成王所封于唐，参星之祀所系，晋之始祖。",
+      "evidence": [
+        "p0",
+        "p41"
+      ]
+    },
+    {
+      "id": "person:阏伯",
+      "name": "阏伯",
+      "alias": [],
+      "type": "古族",
+      "dynasty": "上古",
+      "state": "",
+      "description": "高辛氏长子，迁于商丘主辰，为商星之祀所出。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "person:实沉",
+      "name": "实沉",
+      "alias": [],
+      "type": "神",
+      "dynasty": "上古",
+      "state": "",
+      "description": "高辛氏季子，迁于大夏主参，为参星之神；子产谓其不害晋平公之身。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "person:昧",
+      "name": "昧",
+      "alias": [],
+      "type": "古族",
+      "dynasty": "上古",
+      "state": "",
+      "description": "金天氏裔子，为玄冥师（水官之长），生允格、台骀。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "person:允格",
+      "name": "允格",
+      "alias": [],
+      "type": "古族",
+      "dynasty": "上古",
+      "state": "",
+      "description": "昧之子，台骀之兄。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "person:台骀",
+      "name": "台骀",
+      "alias": [],
+      "type": "神",
+      "dynasty": "上古",
+      "state": "",
+      "description": "昧之子，宣汾、洮，障大泽，居太原，为汾、洮之神。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "person:金天氏",
+      "name": "金天氏",
+      "alias": [
+        "少皞"
+      ],
+      "type": "古帝",
+      "dynasty": "上古",
+      "state": "",
+      "description": "上古帝，裔子昧为玄冥师。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "person:邑姜",
+      "name": "邑姜",
+      "alias": [],
+      "type": "夫人",
+      "dynasty": "西周",
+      "state": "周",
+      "description": "周武王夫人，梦帝命其子名虞（唐叔虞）。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "person:卫桓公",
+      "name": "卫桓公",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "卫国国君，为公子州吁所弑。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "person:宋湣公",
+      "name": "宋湣公",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "宋",
+      "description": "宋国国君，为大夫长万所弑。",
+      "evidence": [
+        "p12"
+      ]
+    },
+    {
+      "id": "person:单伯",
+      "name": "单伯",
+      "alias": [
+        "檀伯"
+      ],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑守栎大夫，郑厉公因栎人杀之而遂居栎（《索隐》谓《左传》作「檀伯」）。",
+      "evidence": [
+        "p9"
+      ]
+    },
+    {
+      "id": "person:邓女",
+      "name": "邓女",
+      "alias": [],
+      "type": "夫人",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑庄公所娶邓国之女，生太子忽（郑昭公）。",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "id": "person:溉",
+      "name": "溉",
+      "alias": [
+        "瑕"
+      ],
+      "type": "公子",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑文公群公子之一，文公怒而逐之（徐广曰一作「瑕」）。",
+      "evidence": [
+        "p21"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "id": "place:郑",
+      "name": "郑",
+      "alias": [
+        "郑国"
+      ],
+      "type": "国",
+      "description": "姬姓国；桓公初封于郑（旧郑在关中），后东徙新郑（p16《索隐》引系本作「文公徙郑」，宋忠云即新郑），至韩哀侯灭之。",
+      "evidence": [
+        "p0",
+        "p1",
+        "p16",
+        "p59"
+      ]
+    },
+    {
+      "id": "place:京",
+      "name": "京",
+      "alias": [],
+      "type": "都邑",
+      "description": "郑都邑，庄公封弟段于此；后郑亦城京。",
+      "evidence": [
+        "p3",
+        "p56"
+      ]
+    },
+    {
+      "id": "place:鄢",
+      "name": "鄢",
+      "alias": [],
+      "type": "邑",
+      "description": "郑地，段出奔鄢之处；一说即鄢陵。",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "id": "place:共",
+      "name": "共",
+      "alias": [],
+      "type": "国",
+      "description": "国名，共叔段出奔于此。",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "id": "place:城颍",
+      "name": "城颍",
+      "alias": [],
+      "type": "邑",
+      "description": "郑地，庄公迁母武姜于此。",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "id": "place:颍谷",
+      "name": "颍谷",
+      "alias": [],
+      "type": "地",
+      "description": "郑地，颍考叔故居，颍水所出。",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "id": "place:栎",
+      "name": "栎",
+      "alias": [
+        "历"
+      ],
+      "type": "邑",
+      "description": "郑边邑，郑厉公出居于此十七年。",
+      "evidence": [
+        "p8",
+        "p9",
+        "p13"
+      ]
+    },
+    {
+      "id": "place:新郑",
+      "name": "新郑",
+      "alias": [],
+      "type": "都邑",
+      "description": "郑之新都，在今河南新郑；「新郑」之名出《索隐》《集解》等注疏（韦昭「今河南新鄭」、宋忠「即新鄭」），正文未直见。",
+      "evidence": [
+        "p0",
+        "p16"
+      ]
+    },
+    {
+      "id": "place:雒",
+      "name": "雒",
+      "alias": [
+        "洛"
+      ],
+      "type": "水",
+      "description": "洛水，郑桓公东徙其民于雒东。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "place:河",
+      "name": "河",
+      "alias": [
+        "黄河"
+      ],
+      "type": "水",
+      "description": "黄河，郑在河济之南；晋郑河上之战处。",
+      "evidence": [
+        "p0",
+        "p29"
+      ]
+    },
+    {
+      "id": "place:济",
+      "name": "济",
+      "alias": [],
+      "type": "水",
+      "description": "济水，桓公所卜河济之南。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "place:江",
+      "name": "江",
+      "alias": [
+        "长江"
+      ],
+      "type": "水",
+      "description": "桓公曾欲南徙江上。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "place:骊山",
+      "name": "骊山",
+      "alias": [],
+      "type": "山",
+      "description": "犬戎杀周幽王、郑桓公处。",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "id": "place:虢",
+      "name": "虢",
+      "alias": [],
+      "type": "国",
+      "description": "姬姓东虢，郑桓公所寄帑、终取其地之国；虢叔后与厉公纳惠王。",
+      "evidence": [
+        "p0",
+        "p15"
+      ]
+    },
+    {
+      "id": "place:鄶",
+      "name": "鄶",
+      "alias": [
+        "郐"
+      ],
+      "type": "国",
+      "description": "妘姓之国，与虢同献十邑于郑。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "place:申",
+      "name": "申",
+      "alias": [],
+      "type": "国",
+      "description": "申国（姜姓），郑武公娶申侯女武姜。按：p42「盟於申」之申为楚地申县，与申国同名异实，本篇系同名异指。",
+      "evidence": [
+        "p2",
+        "p42"
+      ]
+    },
+    {
+      "id": "place:卫",
+      "name": "卫",
+      "alias": [],
+      "type": "国",
+      "description": "姬姓国，州吁之乱及与燕伐周等事所涉。",
+      "evidence": [
+        "p4",
+        "p15"
+      ]
+    },
+    {
+      "id": "place:陈",
+      "name": "陈",
+      "alias": [
+        "陈国"
+      ],
+      "type": "国",
+      "description": "周桓王率陈、蔡伐郑；后陈为楚惠王所灭。",
+      "evidence": [
+        "p4",
+        "p52"
+      ]
+    },
+    {
+      "id": "place:蔡",
+      "name": "蔡",
+      "alias": [
+        "蔡国"
+      ],
+      "type": "国",
+      "description": "周桓王所率伐郑之国；齐桓公破蔡伐楚。",
+      "evidence": [
+        "p4",
+        "p17"
+      ]
+    },
+    {
+      "id": "place:成周",
+      "name": "成周",
+      "alias": [],
+      "type": "都邑",
+      "description": "周东都，晋文公入周襄王于此；晋、郑谋入敬王于成周。",
+      "evidence": [
+        "p20",
+        "p48"
+      ]
+    },
+    {
+      "id": "place:温",
+      "name": "温",
+      "alias": [],
+      "type": "邑",
+      "description": "周邑，周惠王出奔于此。",
+      "evidence": [
+        "p15"
+      ]
+    },
+    {
+      "id": "place:首止",
+      "name": "首止",
+      "alias": [],
+      "type": "地",
+      "description": "近郑之会盟地，齐襄公会诸侯、杀郑子亹之处。",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "id": "place:鄢陵",
+      "name": "鄢陵",
+      "alias": [],
+      "type": "地",
+      "description": "郑地，郑与晋盟鄢陵；晋楚战鄢陵处。",
+      "evidence": [
+        "p29",
+        "p35"
+      ]
+    },
+    {
+      "id": "place:滑",
+      "name": "滑",
+      "alias": [
+        "滑国"
+      ],
+      "type": "国",
+      "description": "小国，郑入滑、郑伐滑；秦袭郑经此遇弦高。",
+      "evidence": [
+        "p20",
+        "p23"
+      ]
+    },
+    {
+      "id": "place:氾",
+      "name": "氾",
+      "alias": [],
+      "type": "邑",
+      "description": "郑地，郑文公居周襄王于此。",
+      "evidence": [
+        "p20"
+      ]
+    },
+    {
+      "id": "place:洧",
+      "name": "洧",
+      "alias": [],
+      "type": "水",
+      "description": "洧水，晋悼公伐郑兵于洧上。",
+      "evidence": [
+        "p35"
+      ]
+    },
+    {
+      "id": "place:崤",
+      "name": "崤",
+      "alias": [
+        "崤山"
+      ],
+      "type": "山",
+      "description": "晋败秦师处。",
+      "evidence": [
+        "p23"
+      ]
+    },
+    {
+      "id": "place:汪",
+      "name": "汪",
+      "alias": [],
+      "type": "地",
+      "description": "郑从晋伐秦，败秦兵于此。",
+      "evidence": [
+        "p23"
+      ]
+    },
+    {
+      "id": "place:铁",
+      "name": "铁",
+      "alias": [],
+      "type": "地",
+      "description": "晋败郑军于此。",
+      "evidence": [
+        "p51"
+      ]
+    },
+    {
+      "id": "place:召陵",
+      "name": "召陵",
+      "alias": [],
+      "type": "地",
+      "description": "齐桓公伐楚至召陵。",
+      "evidence": [
+        "p17"
+      ]
+    },
+    {
+      "id": "place:雍丘",
+      "name": "雍丘",
+      "alias": [],
+      "type": "邑",
+      "description": "韩景侯伐郑所取。",
+      "evidence": [
+        "p55"
+      ]
+    },
+    {
+      "id": "place:负黍",
+      "name": "负黍",
+      "alias": [],
+      "type": "地",
+      "description": "郑败韩兵于此；后负黍反归韩。",
+      "evidence": [
+        "p56",
+        "p58"
+      ]
+    },
+    {
+      "id": "place:阳翟",
+      "name": "阳翟",
+      "alias": [],
+      "type": "邑",
+      "description": "韩地，郑围之。",
+      "evidence": [
+        "p56"
+      ]
+    },
+    {
+      "id": "place:阳城",
+      "name": "阳城",
+      "alias": [],
+      "type": "邑",
+      "description": "韩伐郑所取。",
+      "evidence": [
+        "p58"
+      ]
+    },
+    {
+      "id": "place:许田",
+      "name": "许田",
+      "alias": [],
+      "type": "田",
+      "description": "近许之田，郑以祊易之。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "place:祊",
+      "name": "祊",
+      "alias": [],
+      "type": "邑",
+      "description": "郑助祭太山之汤沐邑，郑以之易许田。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "place:许",
+      "name": "许",
+      "alias": [
+        "许国"
+      ],
+      "type": "国",
+      "description": "许国，郑以许田易祊；许灵公事所涉。",
+      "evidence": [
+        "p4",
+        "p32"
+      ]
+    },
+    {
+      "id": "place:翟",
+      "name": "翟",
+      "alias": [],
+      "type": "戎",
+      "description": "翟人，与周王伐郑，后又逐周襄王。",
+      "evidence": [
+        "p20"
+      ]
+    },
+    {
+      "id": "place:齐",
+      "name": "齐",
+      "alias": [
+        "齐国"
+      ],
+      "type": "国",
+      "description": "姜姓大国，始霸之齐。",
+      "evidence": [
+        "p0",
+        "p5",
+        "p14"
+      ]
+    },
+    {
+      "id": "place:秦",
+      "name": "秦",
+      "alias": [
+        "秦国"
+      ],
+      "type": "国",
+      "description": "嬴姓国，与晋围郑、袭郑败于崤。",
+      "evidence": [
+        "p0",
+        "p21",
+        "p23"
+      ]
+    },
+    {
+      "id": "place:晋",
+      "name": "晋",
+      "alias": [
+        "晋国"
+      ],
+      "type": "国",
+      "description": "姬姓国，郑所依违之强邻。",
+      "evidence": [
+        "p0",
+        "p21",
+        "p28"
+      ]
+    },
+    {
+      "id": "place:楚",
+      "name": "楚",
+      "alias": [
+        "楚国"
+      ],
+      "type": "国",
+      "description": "芈姓国，郑屡与之盟、为其所伐。",
+      "evidence": [
+        "p0",
+        "p29",
+        "p34"
+      ]
+    },
+    {
+      "id": "place:鲁",
+      "name": "鲁",
+      "alias": [
+        "鲁国"
+      ],
+      "type": "国",
+      "description": "与郑易祊、许田。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "place:宋",
+      "name": "宋",
+      "alias": [
+        "宋国"
+      ],
+      "type": "国",
+      "description": "郑之邻国，所涉人物众多。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "place:燕",
+      "name": "燕",
+      "alias": [
+        "南燕"
+      ],
+      "type": "国",
+      "description": "与卫伐周立王子颓；燕姞所出。",
+      "evidence": [
+        "p15",
+        "p18"
+      ]
+    },
+    {
+      "id": "place:唐",
+      "name": "唐",
+      "alias": [],
+      "type": "国",
+      "description": "古国，成王封叔虞于唐。",
+      "evidence": [
+        "p0",
+        "p41"
+      ]
+    },
+    {
+      "id": "place:商丘",
+      "name": "商丘",
+      "alias": [],
+      "type": "地",
+      "description": "阏伯所迁、主辰（商星）之地。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "place:大夏",
+      "name": "大夏",
+      "alias": [],
+      "type": "地",
+      "description": "实沉所迁、主参之地。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "place:旷林",
+      "name": "旷林",
+      "alias": [],
+      "type": "地",
+      "description": "阏伯、实沉所居而不相能之地。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "place:汾",
+      "name": "汾",
+      "alias": [
+        "汾水"
+      ],
+      "type": "水",
+      "description": "汾水，台骀所宣、晋所主之汾川。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "place:洮",
+      "name": "洮",
+      "alias": [],
+      "type": "水",
+      "description": "洮水，台骀所宣。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "place:太原",
+      "name": "太原",
+      "alias": [],
+      "type": "地",
+      "description": "台骀障大泽而处之地。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "place:汾川",
+      "name": "汾川",
+      "alias": [],
+      "type": "地",
+      "description": "台骀所封之国，沈、姒、蓐、黄守其祀。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "place:韩",
+      "name": "韩",
+      "alias": [
+        "韩国"
+      ],
+      "type": "国",
+      "description": "三晋之一，终灭郑。",
+      "evidence": [
+        "p56",
+        "p59"
+      ]
+    },
+    {
+      "id": "place:赵",
+      "name": "赵",
+      "alias": [
+        "赵国"
+      ],
+      "type": "国",
+      "description": "三晋之一。",
+      "evidence": [
+        "p56"
+      ]
+    },
+    {
+      "id": "place:魏",
+      "name": "魏",
+      "alias": [
+        "魏国"
+      ],
+      "type": "国",
+      "description": "三晋之一。",
+      "evidence": [
+        "p56"
+      ]
+    },
+    {
+      "id": "place:吴",
+      "name": "吴",
+      "alias": [
+        "吴国"
+      ],
+      "type": "国",
+      "description": "延陵季子所出，聘郑见子产；太子建之子胜所奔。",
+      "evidence": [
+        "p40",
+        "p47"
+      ]
+    },
+    {
+      "id": "place:曹",
+      "name": "曹",
+      "alias": [
+        "曹国"
+      ],
+      "type": "国",
+      "description": "宋景公所灭。",
+      "evidence": [
+        "p52"
+      ]
+    },
+    {
+      "id": "place:沈",
+      "name": "沈",
+      "alias": [],
+      "type": "国",
+      "description": "台骀之后所守其祀之小国。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "place:姒",
+      "name": "姒",
+      "alias": [],
+      "type": "国",
+      "description": "台骀之后，守汾川之祀。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "place:蓐",
+      "name": "蓐",
+      "alias": [],
+      "type": "国",
+      "description": "台骀之后，守汾川之祀。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "place:黄",
+      "name": "黄",
+      "alias": [],
+      "type": "国",
+      "description": "台骀之后，守汾川之祀。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "place:郑南门",
+      "name": "郑南门",
+      "alias": [],
+      "type": "门",
+      "description": "内蛇与外蛇相斗之处。",
+      "evidence": [
+        "p13"
+      ]
+    },
+    {
+      "id": "place:皇门",
+      "name": "皇门",
+      "alias": [],
+      "type": "门",
+      "description": "郑都城门，楚王入自皇门。",
+      "evidence": [
+        "p29"
+      ]
+    },
+    {
+      "id": "place:犬戎",
+      "name": "犬戎",
+      "alias": [],
+      "type": "戎",
+      "description": "部族，杀周幽王与郑桓公于骊山。",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "id": "place:北戎",
+      "name": "北戎",
+      "alias": [],
+      "type": "戎",
+      "description": "部族，伐齐，齐求救于郑。",
+      "evidence": [
+        "p5"
+      ]
+    },
+    {
+      "id": "place:邓",
+      "name": "邓",
+      "alias": [
+        "邓国"
+      ],
+      "type": "国",
+      "description": "国名，郑庄公娶邓女，为郑昭公之母家。",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "id": "place:郢",
+      "name": "郢",
+      "alias": [],
+      "type": "都邑",
+      "description": "楚国都；楚庄王围郑，群臣言「自郢至此，士大夫亦久劳矣」。",
+      "evidence": [
+        "p29"
+      ]
+    },
+    {
+      "id": "place:周",
+      "name": "周",
+      "alias": [
+        "周王畿"
+      ],
+      "type": "王畿",
+      "description": "周王畿；郑侵周地取禾，郑厉公纳周惠王于周，晋、郑谋入敬王于周。",
+      "evidence": [
+        "p4",
+        "p15",
+        "p48"
+      ]
+    },
+    {
+      "id": "place:六邑",
+      "name": "六邑",
+      "alias": [],
+      "type": "邑群",
+      "description": "郑简公封子产之六邑（服虔曰四井为邑），子产让而受其三邑。",
+      "evidence": [
+        "p40"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "event:桓公东迁寄帑",
+      "name": "桓公东迁寄帑",
+      "type": "建国",
+      "description": "郑桓公采太史伯之谋，东徙其民于雒东，虢、鄶献十邑，郑遂建国于此。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "event:犬戎杀幽王与桓公",
+      "name": "犬戎杀幽王与桓公",
+      "type": "战乱",
+      "description": "犬戎杀周幽王于骊山下，并杀郑桓公；郑人共立其子掘突，是为武公。",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "id": "event:武公娶申生二子",
+      "name": "武公娶申生二子",
+      "type": "婚姻",
+      "description": "武公十年娶申侯女武姜为夫人，生太子寤生；后生少子叔段。",
+      "evidence": [
+        "p2"
+      ]
+    },
+    {
+      "id": "event:庄公封段于京",
+      "name": "庄公封段于京",
+      "type": "分封",
+      "description": "庄公元年封弟段于京，号太叔；祭仲谏其过大而庄公不改。",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "id": "event:共叔段之乱",
+      "name": "共叔段之乱",
+      "type": "内乱",
+      "description": "段至京缮甲兵，与母武姜谋袭郑，二十二年果袭郑，武姜为内应；庄公伐段，段走鄢、奔共。",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "id": "event:黄泉见母",
+      "name": "黄泉见母",
+      "type": "事迹",
+      "description": "庄公迁母武姜于城颍，誓不至黄泉不相见；颍考叔献计掘地及泉，庄公遂与母相见。",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "id": "event:郑侵周取禾",
+      "name": "郑侵周取禾",
+      "type": "侵夺",
+      "description": "郑庄公二十四年侵周地取禾，二十七年朝周桓王而王弗礼。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "event:郑易祊许田",
+      "name": "郑易祊许田",
+      "type": "外交",
+      "description": "庄公怒周不加礼，与鲁易祊、许田。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "event:繻葛之战",
+      "name": "繻葛之战",
+      "type": "战争",
+      "description": "庄公三十七年周桓王率陈、蔡、虢、卫伐郑，庄公与祭仲、高渠弥自救，王师大败，祝聸射中王臂，郑伯止其追击。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "event:太子忽救齐辞婚",
+      "name": "太子忽救齐辞婚",
+      "type": "事迹",
+      "description": "三十八年北戎伐齐，郑遣太子忽救齐；齐釐公欲妻之，忽辞，祭仲劝取齐女而不听。",
+      "evidence": [
+        "p5"
+      ]
+    },
+    {
+      "id": "event:祭仲立昭公",
+      "name": "祭仲立昭公",
+      "type": "继位",
+      "description": "庄公卒，祭仲以庄公宠卿之权立太子忽，是为昭公。",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "id": "event:宋要立厉公",
+      "name": "宋要立厉公",
+      "type": "政变",
+      "description": "宋庄公诱执祭仲并执突以求赂，祭仲许宋、与宋盟，携突归而立之，是为厉公；昭公出奔卫。",
+      "evidence": [
+        "p7"
+      ]
+    },
+    {
+      "id": "event:祭仲逐厉公迎昭公",
+      "name": "祭仲逐厉公迎昭公",
+      "type": "政变",
+      "description": "厉公阴遣雍纠杀祭仲，事泄，祭仲反杀雍纠；厉公出居边邑栎，祭仲迎昭公忽复位。",
+      "evidence": [
+        "p8"
+      ]
+    },
+    {
+      "id": "event:厉公居栎",
+      "name": "厉公居栎",
+      "type": "流亡",
+      "description": "厉公因栎人杀守栎大夫单伯而居栎，诸侯伐郑弗克，宋予以兵，厉公自守于栎。",
+      "evidence": [
+        "p9"
+      ]
+    },
+    {
+      "id": "event:高渠弥弑昭公",
+      "name": "高渠弥弑昭公",
+      "type": "弑君",
+      "description": "昭公二年，高渠弥与昭公出猎，射杀昭公于野。",
+      "evidence": [
+        "p10"
+      ]
+    },
+    {
+      "id": "event:祭仲立子亹",
+      "name": "祭仲立子亹",
+      "type": "继位",
+      "description": "祭仲与高渠弥不敢迎厉公，改立昭公弟弟子亹为君。",
+      "evidence": [
+        "p10"
+      ]
+    },
+    {
+      "id": "event:首止之会",
+      "name": "首止之会",
+      "type": "盟会",
+      "description": "子亹元年齐襄公会诸侯于首止，子亹赴会，齐襄公伏甲杀之。",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "id": "event:立郑子",
+      "name": "立郑子（子仪）",
+      "type": "继位",
+      "description": "高渠弥亡归，与祭仲自陈召子亹弟公子婴而立之，是为郑子（子仪）。",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "id": "event:祭仲之死",
+      "name": "祭仲之死",
+      "type": "死亡",
+      "description": "郑子十二年，郑祭仲死。",
+      "evidence": [
+        "p12"
+      ]
+    },
+    {
+      "id": "event:甫瑕纳厉公",
+      "name": "甫瑕纳厉公",
+      "type": "政变",
+      "description": "郑子十四年，甫瑕杀郑子及其二子，迎厉公突自栎复位。",
+      "evidence": [
+        "p13"
+      ]
+    },
+    {
+      "id": "event:内蛇外蛇之斗",
+      "name": "内蛇外蛇之斗",
+      "type": "灾异",
+      "description": "内蛇与外蛇斗于郑南门中，内蛇死；六年后厉公果复入。",
+      "evidence": [
+        "p13"
+      ]
+    },
+    {
+      "id": "event:原繁自杀",
+      "name": "原繁自杀",
+      "type": "死亡",
+      "description": "厉公复位后责其伯父原，原以事君无二心自认有罪，遂自杀。",
+      "evidence": [
+        "p13"
+      ]
+    },
+    {
+      "id": "event:厉公诛甫瑕",
+      "name": "厉公诛甫瑕",
+      "type": "刑杀",
+      "description": "厉公以甫瑕事君有二心而诛之。",
+      "evidence": [
+        "p13"
+      ]
+    },
+    {
+      "id": "event:齐桓公始霸",
+      "name": "齐桓公始霸",
+      "type": "史事",
+      "description": "厉公复位后元年，齐桓公始霸。",
+      "evidence": [
+        "p14"
+      ]
+    },
+    {
+      "id": "event:子颓之乱与惠王复位",
+      "name": "子颓之乱与惠王复位",
+      "type": "政变",
+      "description": "燕、卫与周惠王弟颓伐王，王出奔温、颓立为王；厉公击颓弗胜，与惠王归居栎，七年春与虢叔袭杀颓而纳惠王于周。",
+      "evidence": [
+        "p15"
+      ]
+    },
+    {
+      "id": "event:文公之立",
+      "name": "文公之立",
+      "type": "继位",
+      "description": "厉公卒，子文公踕立。",
+      "evidence": [
+        "p16"
+      ]
+    },
+    {
+      "id": "event:齐桓公伐楚至召陵",
+      "name": "齐桓公伐楚至召陵",
+      "type": "战争",
+      "description": "文公十七年，齐桓公破蔡伐楚，至召陵。",
+      "evidence": [
+        "p17"
+      ]
+    },
+    {
+      "id": "event:燕姞梦兰",
+      "name": "燕姞梦兰",
+      "type": "祥瑞",
+      "description": "文公二十四年贱妾燕姞梦天与之兰，生兰（郑穆公）。",
+      "evidence": [
+        "p18"
+      ]
+    },
+    {
+      "id": "event:重耳过郑无礼",
+      "name": "重耳过郑无礼",
+      "type": "事迹",
+      "description": "文公三十六年晋公子重耳过郑，文公弗礼，叔詹劝礼或杀之而不听。",
+      "evidence": [
+        "p19",
+        "p21"
+      ]
+    },
+    {
+      "id": "event:郑伐滑与囚伯犕",
+      "name": "郑伐滑与囚伯犕",
+      "type": "外交",
+      "description": "文公三十七年郑入滑、后伐滑，周襄王使伯犕请滑，郑文公怒而囚之。",
+      "evidence": [
+        "p20"
+      ]
+    },
+    {
+      "id": "event:襄王居氾",
+      "name": "襄王居氾",
+      "type": "动乱",
+      "description": "周王怒与翟人伐郑弗克；冬翟攻襄王，襄王出奔郑，文公居王于氾。",
+      "evidence": [
+        "p20"
+      ]
+    },
+    {
+      "id": "event:秦晋围郑",
+      "name": "秦晋围郑",
+      "type": "战争",
+      "description": "文公四十三年晋文公与秦穆公共围郑，讨其助楚与无礼；叔詹自杀，郑说秦而秦兵罢。",
+      "evidence": [
+        "p21"
+      ]
+    },
+    {
+      "id": "event:立子兰为太子",
+      "name": "立子兰为太子",
+      "type": "继位",
+      "description": "郑大夫石癸劝立子兰为太子，郑许晋与盟，卒立子兰为太子，晋兵罢去。",
+      "evidence": [
+        "p21"
+      ]
+    },
+    {
+      "id": "event:穆公之立",
+      "name": "穆公之立",
+      "type": "继位",
+      "description": "文公四十五年卒，子兰立，是为穆公（缪公）。",
+      "evidence": [
+        "p22"
+      ]
+    },
+    {
+      "id": "event:弦高犒师",
+      "name": "弦高犒师",
+      "type": "外交",
+      "description": "穆公元年春秦穆公使三将袭郑，郑贾人弦高诈以十二牛犒军，秦兵不至而还，晋败之于崤。",
+      "evidence": [
+        "p23"
+      ]
+    },
+    {
+      "id": "event:郑从晋伐秦",
+      "name": "郑从晋伐秦",
+      "type": "战争",
+      "description": "穆公三年郑发兵从晋伐秦，败秦兵于汪。",
+      "evidence": [
+        "p23"
+      ]
+    },
+    {
+      "id": "event:华元被囚",
+      "name": "华元被囚",
+      "type": "战争",
+      "description": "郑与宋华元伐郑事中，华元因羊斟不容而驰入郑军，郑囚华元，宋赎之。",
+      "evidence": [
+        "p24"
+      ]
+    },
+    {
+      "id": "event:灵公之立",
+      "name": "灵公之立",
+      "type": "继位",
+      "description": "二十二年郑穆公卒，子夷立，是为灵公。",
+      "evidence": [
+        "p25"
+      ]
+    },
+    {
+      "id": "event:染指于鼎与弑灵公",
+      "name": "染指于鼎与弑灵公",
+      "type": "弑君",
+      "description": "灵公元年楚献鼋，子公因不得鼋羹而染指尝之，灵公怒欲杀子公，子公与子家谋先，夏弑灵公。",
+      "evidence": [
+        "p26"
+      ]
+    },
+    {
+      "id": "event:襄公立",
+      "name": "襄公立",
+      "type": "继位",
+      "description": "郑人欲立灵公弟去疾，去疾让、立子坚，是为襄公。",
+      "evidence": [
+        "p26"
+      ]
+    },
+    {
+      "id": "event:襄公议缪氏",
+      "name": "襄公议缪氏",
+      "type": "事迹",
+      "description": "襄公立欲尽去缪氏，去疾以去止之，缪氏皆以为大夫。",
+      "evidence": [
+        "p27"
+      ]
+    },
+    {
+      "id": "event:子家卒逐其族",
+      "name": "子家卒逐其族",
+      "type": "刑杀",
+      "description": "襄公六年子家卒，国人逐其族，以其弑灵公。",
+      "evidence": [
+        "p28"
+      ]
+    },
+    {
+      "id": "event:楚庄王围郑",
+      "name": "楚庄王围郑",
+      "type": "战争",
+      "description": "襄公八年楚庄王以郑与晋盟来伐，围郑三月，郑以城降楚，襄公肉袒牵羊以迎，庄王却三十里而许之。",
+      "evidence": [
+        "p29"
+      ]
+    },
+    {
+      "id": "event:河上之战",
+      "name": "河上之战",
+      "type": "战争",
+      "description": "晋救郑持两端，比至河楚兵已去，卒渡河；庄王还击晋，郑反助楚，大破晋军于河上。",
+      "evidence": [
+        "p29"
+      ]
+    },
+    {
+      "id": "event:解扬诳楚",
+      "name": "解扬诳楚",
+      "type": "事迹",
+      "description": "襄公十一年楚庄王伐宋，晋遣解扬诳楚令宋毋降，解扬过郑被执献楚，登楼车反致晋君之命，楚王赦之，晋爵为上卿。",
+      "evidence": [
+        "p30"
+      ]
+    },
+    {
+      "id": "event:悼公之立",
+      "name": "悼公之立",
+      "type": "继位",
+      "description": "十八年襄公卒，子悼公㵒立。",
+      "evidence": [
+        "p31"
+      ]
+    },
+    {
+      "id": "event:睔囚于楚",
+      "name": "睔囚于楚",
+      "type": "外交",
+      "description": "悼公元年鄦公于楚恶郑，悼公使弟睔赴楚自讼不直，楚囚睔；悼公与晋平，睔因子反而归。",
+      "evidence": [
+        "p32"
+      ]
+    },
+    {
+      "id": "event:成公之立",
+      "name": "成公之立",
+      "type": "继位",
+      "description": "二年悼公卒，立其弟睔，是为成公。",
+      "evidence": [
+        "p33"
+      ]
+    },
+    {
+      "id": "event:晋执成公与立繻",
+      "name": "晋执成公与立繻",
+      "type": "政变",
+      "description": "成公三年私与楚盟，朝晋被执，晋使栾书伐郑；郑立成公庶兄繻为君，晋归成公，郑人杀繻迎成公。",
+      "evidence": [
+        "p34"
+      ]
+    },
+    {
+      "id": "event:鄢陵之战",
+      "name": "鄢陵之战",
+      "type": "战争",
+      "description": "成公十年郑背晋盟盟于楚，晋厉公伐郑，楚共王救郑，晋楚战鄢陵，楚败，晋射伤共王目。",
+      "evidence": [
+        "p35"
+      ]
+    },
+    {
+      "id": "event:釐公之立",
+      "name": "釐公之立",
+      "type": "继位",
+      "description": "十四年成公卒，子惲立，是为釐公。",
+      "evidence": [
+        "p36"
+      ]
+    },
+    {
+      "id": "event:子驷弑釐公立简公",
+      "name": "子驷弑釐公立简公",
+      "type": "弑君",
+      "description": "釐公五年相子驷朝釐公而公不礼，子驷使厨人药杀釐公，立釐公子嘉（五岁），是为简公。",
+      "evidence": [
+        "p37"
+      ]
+    },
+    {
+      "id": "event:子驷诛诸公子",
+      "name": "子驷诛诸公子",
+      "type": "内乱",
+      "description": "简公元年诸公子谋诛子驷，子驷觉之反尽诛诸公子，并两亲晋、楚。",
+      "evidence": [
+        "p38"
+      ]
+    },
+    {
+      "id": "event:尉止杀子驷",
+      "name": "尉止杀子驷",
+      "type": "政变",
+      "description": "简公三年子驷欲自立，公子子孔使尉止杀子驷而代之；子孔又欲自立，因子产之谏而止，相简公。",
+      "evidence": [
+        "p38"
+      ]
+    },
+    {
+      "id": "event:简公诛子孔用子产",
+      "name": "简公诛子孔用子产",
+      "type": "政变",
+      "description": "简公十二年怒子孔专权而诛之，以子产为卿。",
+      "evidence": [
+        "p40"
+      ]
+    },
+    {
+      "id": "event:延陵季子访郑",
+      "name": "延陵季子访郑",
+      "type": "事迹",
+      "description": "简公二十二年吴使延陵季子于郑，见子产如旧交，戒其为政必以礼。",
+      "evidence": [
+        "p40"
+      ]
+    },
+    {
+      "id": "event:子产论实沉台骀",
+      "name": "子产论实沉台骀",
+      "type": "论说",
+      "description": "简公二十五年子产聘晋问平公疾，以实沉为参神、台骀为汾洮神，谓二者不害君身，平公与叔向称其博物君子。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "event:盟于申诛庆封",
+      "name": "盟于申诛庆封",
+      "type": "盟会",
+      "description": "简公二十八年郑君病，使子产会诸侯与楚灵王盟于申，诛齐庆封。",
+      "evidence": [
+        "p42"
+      ]
+    },
+    {
+      "id": "event:定公之立",
+      "name": "定公之立",
+      "type": "继位",
+      "description": "三十六年简公卒，子定公宁立。",
+      "evidence": [
+        "p43"
+      ]
+    },
+    {
+      "id": "event:楚平王归郑地",
+      "name": "楚平王归郑地",
+      "type": "外交",
+      "description": "定公元年楚公子弃疾弑灵王自立为平王，欲行德诸侯，归灵王所侵郑地于郑。",
+      "evidence": [
+        "p44"
+      ]
+    },
+    {
+      "id": "event:子产论为政以德",
+      "name": "子产论为政以德",
+      "type": "论说",
+      "description": "定公四年子产谓韩宣子：为政必以德，毋忘所以立。",
+      "evidence": [
+        "p45"
+      ]
+    },
+    {
+      "id": "event:郑火劝脩德",
+      "name": "郑火劝脩德",
+      "type": "事迹",
+      "description": "定公六年郑火，公欲禳之，子产曰不如脩德。",
+      "evidence": [
+        "p46"
+      ]
+    },
+    {
+      "id": "event:太子建奔郑被杀",
+      "name": "太子建奔郑被杀",
+      "type": "事迹",
+      "description": "定公八年楚太子建来奔；十年太子建与晋谋袭郑，郑杀建，其子胜奔吴。",
+      "evidence": [
+        "p47"
+      ]
+    },
+    {
+      "id": "event:入敬王于周",
+      "name": "入敬王于周",
+      "type": "事迹",
+      "description": "定公十一年晋与郑谋诛周乱臣，入敬王于成周。",
+      "evidence": [
+        "p48"
+      ]
+    },
+    {
+      "id": "event:献公声公之立",
+      "name": "献公声公之立",
+      "type": "继位",
+      "description": "定公十三年卒，子献公蠆立；献公十三年卒，子声公胜立，时晋六卿侵夺郑，郑遂弱。",
+      "evidence": [
+        "p49"
+      ]
+    },
+    {
+      "id": "event:子产之死",
+      "name": "子产之死",
+      "type": "死亡",
+      "description": "声公五年郑相子产卒，郑人皆哭如亡亲戚；孔子闻之泣，称古之遗爱。",
+      "evidence": [
+        "p50"
+      ]
+    },
+    {
+      "id": "event:郑军败于铁",
+      "name": "郑军败于铁",
+      "type": "战争",
+      "description": "声公八年晋范、中行氏反晋，郑救之，晋伐郑败郑军于铁。",
+      "evidence": [
+        "p51"
+      ]
+    },
+    {
+      "id": "event:声公晚年诸侯之变",
+      "name": "声公晚年诸侯之变",
+      "type": "史事",
+      "description": "声公十四年宋景公灭曹，二十年田常弑齐简公而相于齐，二十二年楚惠王灭陈、孔子卒。",
+      "evidence": [
+        "p52"
+      ]
+    },
+    {
+      "id": "event:知伯伐郑",
+      "name": "知伯伐郑",
+      "type": "战争",
+      "description": "声公二十六年晋知伯伐郑，取九邑。",
+      "evidence": [
+        "p53"
+      ]
+    },
+    {
+      "id": "event:郑末叶君位更迭",
+      "name": "郑末叶君位更迭",
+      "type": "继位",
+      "description": "声公卒后哀公易立，哀公八年郑人弑哀公立声公弟丑（共公）；共公卒子幽公已立，韩武子杀幽公，郑人立幽公弟駘（繻公）。",
+      "evidence": [
+        "p54"
+      ]
+    },
+    {
+      "id": "event:韩取雍丘",
+      "name": "韩取雍丘",
+      "type": "战争",
+      "description": "繻公十五年韩景侯伐郑取雍丘，郑城京。",
+      "evidence": [
+        "p55"
+      ]
+    },
+    {
+      "id": "event:负黍之战",
+      "name": "负黍之战",
+      "type": "战争",
+      "description": "繻公十六年郑伐韩败韩兵于负黍；二十三年郑围韩之阳翟。",
+      "evidence": [
+        "p56"
+      ]
+    },
+    {
+      "id": "event:子阳之党弑繻公",
+      "name": "子阳之党弑繻公",
+      "type": "弑君",
+      "description": "繻公二十五年郑君杀其相子阳；二十七年子阳之党共弑繻公而立幽公弟乙，是为郑君（康公）。",
+      "evidence": [
+        "p57"
+      ]
+    },
+    {
+      "id": "event:韩取阳城",
+      "name": "韩取阳城",
+      "type": "战争",
+      "description": "郑君乙二年负黍反归韩；十一年韩伐郑取阳城。",
+      "evidence": [
+        "p58"
+      ]
+    },
+    {
+      "id": "event:郑之灭亡",
+      "name": "郑之灭亡",
+      "type": "灭国",
+      "description": "郑君乙二十一年，韩哀侯灭郑，并其国。",
+      "evidence": [
+        "p59"
+      ]
+    },
+    {
+      "id": "event:子产受封让邑",
+      "name": "子产受封让邑",
+      "type": "封赏",
+      "description": "简公十九年封子产以六邑，子产让，受其三邑。",
+      "evidence": [
+        "p40"
+      ]
+    },
+    {
+      "id": "event:诸公子欲杀子产",
+      "name": "诸公子欲杀子产",
+      "type": "内乱",
+      "description": "简公二十三年诸公子争宠相杀，又欲杀子产，或谏以子产仁人乃止。",
+      "evidence": [
+        "p40"
+      ]
+    },
+    {
+      "id": "event:子产谏子孔",
+      "name": "子产谏子孔",
+      "type": "纳谏",
+      "description": "子孔杀子驷而欲自立，子产谏以「誅之，今又效之，是亂無時息也」，子孔从之而相简公。",
+      "evidence": [
+        "p38"
+      ]
+    },
+    {
+      "id": "event:商臣弑成王",
+      "name": "商臣弑成王",
+      "type": "弑君",
+      "description": "楚太子商臣弑其父成王而代立。",
+      "evidence": [
+        "p24"
+      ]
+    },
+    {
+      "id": "event:州吁之乱与宋卫伐郑",
+      "name": "州吁之乱与宋卫伐郑",
+      "type": "战乱",
+      "description": "卫公子州吁弑其君桓公自立，与宋伐郑，以宋公子冯在郑之故。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "event:管至父长万弑君",
+      "name": "管至父、长万弑君",
+      "type": "弑君",
+      "description": "郑子八年齐人管至父等作乱弑其君襄公；十二年宋人长万弑其君湣公。",
+      "evidence": [
+        "p12"
+      ]
+    },
+    {
+      "id": "event:楚共王救郑败晋兵",
+      "name": "楚共王救郑败晋兵",
+      "type": "战争",
+      "description": "简公四年晋怒郑与楚盟而伐郑，楚共王救郑，败晋兵。",
+      "evidence": [
+        "p39"
+      ]
+    },
+    {
+      "id": "event:三晋灭知伯",
+      "name": "三晋灭知伯",
+      "type": "战争",
+      "description": "郑共公三年，韩、赵、魏三晋灭知伯。",
+      "evidence": [
+        "p54"
+      ]
+    },
+    {
+      "id": "event:韩赵魏列为诸侯",
+      "name": "韩赵魏列为诸侯",
+      "type": "史事",
+      "description": "郑繻公二十年，韩、赵、魏列为诸侯。",
+      "evidence": [
+        "p56"
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept:司徒",
+      "name": "司徒",
+      "type": "职官",
+      "description": "周官，郑桓公为周幽王司徒，和集周民；郑亦世任周卿士。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "concept:礼",
+      "name": "礼",
+      "type": "礼制",
+      "description": "郑国所重之礼，叔詹、季子皆劝以礼相待，子产执郑政亦必以礼。",
+      "evidence": [
+        "p19",
+        "p40"
+      ]
+    },
+    {
+      "id": "concept:盟",
+      "name": "盟",
+      "type": "礼制",
+      "description": "会盟之制，郑屡与宋、晋、楚结盟，背盟反复为郑之所苦。",
+      "evidence": [
+        "p7",
+        "p34"
+      ]
+    },
+    {
+      "id": "concept:质",
+      "name": "质",
+      "type": "制度",
+      "description": "以国君、公子为质相要挟之习，如宋执厉公突以求赂。",
+      "evidence": [
+        "p7"
+      ]
+    },
+    {
+      "id": "concept:穆氏",
+      "name": "穆氏",
+      "type": "世族",
+      "description": "郑穆公（缪公）之后诸族，正文作「缪氏」（即穆氏），指杀灵公之子公的族家；襄公立欲尽去之而未果。「七穆」为后世《左传》对其之专称，本《史记》正文及三家注未见此名。",
+      "evidence": [
+        "p27"
+      ]
+    },
+    {
+      "id": "concept:缁衣",
+      "name": "缁衣",
+      "type": "典籍",
+      "description": "《诗·郑风·缁衣》，述郑人爱桓公、武公之德，索隐述赞称『缁衣在咏』。",
+      "evidence": [
+        "p61"
+      ]
+    },
+    {
+      "id": "concept:黄泉",
+      "name": "黄泉",
+      "type": "观念",
+      "description": "地下之泉，庄公誓『不至黄泉毋相见』，后以掘地及泉见母。",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "id": "concept:染指",
+      "name": "染指",
+      "type": "典故",
+      "description": "子公染指于鼎尝鼋羹，遂成弑灵公之衅；后喻非分沾取。",
+      "evidence": [
+        "p26"
+      ]
+    },
+    {
+      "id": "concept:食指动",
+      "name": "食指动",
+      "type": "典故",
+      "description": "子公谓食指动必食异物，果应灵公之鼋羹。",
+      "evidence": [
+        "p26"
+      ]
+    },
+    {
+      "id": "concept:梦兰",
+      "name": "梦兰",
+      "type": "典故",
+      "description": "燕姞梦伯鯈与之兰而生兰（郑穆公），后为郑得福庆之兆，述赞称『梦兰疏庆』。",
+      "evidence": [
+        "p18",
+        "p61"
+      ]
+    },
+    {
+      "id": "concept:博物君子",
+      "name": "博物君子",
+      "type": "评语",
+      "description": "晋平公、叔向赞子产博通古今为博物君子。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "concept:实沉台骀",
+      "name": "实沉台骀",
+      "type": "神祀",
+      "description": "子产论实沉为参神、台骀为汾洮神，二者不害君身，病由饮食哀乐女色所生。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "concept:参为晋星",
+      "name": "参为晋星",
+      "type": "星祀",
+      "description": "实沉迁大夏主参，唐人是因，故参为晋星。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "concept:立长",
+      "name": "立长",
+      "type": "礼制",
+      "description": "去疾让位，以贤则不肖、以顺则公子坚长，遂立坚（郑襄公）。",
+      "evidence": [
+        "p26"
+      ]
+    },
+    {
+      "id": "concept:以权利合者权利尽而交疏",
+      "name": "以权利合者权利尽而交疏",
+      "type": "史论",
+      "description": "太史公引俗语论甫瑕与厉公之交，谓以权利合者权利尽而交疏。",
+      "evidence": [
+        "p60"
+      ]
+    },
+    {
+      "id": "concept:重德不报",
+      "name": "重德不报",
+      "type": "史论",
+      "description": "甫瑕临诛之叹『重德不报，诚然哉』。",
+      "evidence": [
+        "p13"
+      ]
+    },
+    {
+      "id": "concept:肉袒牵羊",
+      "name": "肉袒牵羊",
+      "type": "礼制",
+      "description": "郑襄公肉袒掔羊以降楚庄王，示服罪请命之礼。",
+      "evidence": [
+        "p29"
+      ]
+    },
+    {
+      "id": "concept:不毛之地",
+      "name": "不毛之地",
+      "type": "语词",
+      "description": "郑襄公自请锡不毛之地，谦不敢求肥饶。",
+      "evidence": [
+        "p29"
+      ]
+    },
+    {
+      "id": "concept:姞姓为后稷元妃",
+      "name": "姞姓为后稷元妃",
+      "type": "义理",
+      "description": "石癸引姞姓乃后稷元妃之说，谓其后当兴，劝立子兰为太子。",
+      "evidence": [
+        "p21"
+      ]
+    },
+    {
+      "id": "concept:内蛇外蛇",
+      "name": "内蛇外蛇",
+      "type": "灾异",
+      "description": "内蛇与外蛇斗于郑南门、内蛇死，为厉公出奔复入之兆。",
+      "evidence": [
+        "p13"
+      ]
+    },
+    {
+      "id": "concept:三公子皆君",
+      "name": "三公子皆君",
+      "type": "论断",
+      "description": "祭仲谓庄公多内宠，太子忽外无大援将不立，三公子（忽、突、子亹）皆可为君。",
+      "evidence": [
+        "p5"
+      ]
+    },
+    {
+      "id": "concept:祝融火正",
+      "name": "祝融火正",
+      "type": "职官",
+      "description": "祝融为高辛氏火正，功大而其後未兴于周，楚其后也。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "concept:十邑",
+      "name": "十邑",
+      "type": "地名群",
+      "description": "虢、鄶所献十邑（鄢、蔽、补、丹、依、㽥、历、莘等），郑遂建国于此。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "concept:为政以德",
+      "name": "为政以德",
+      "type": "义理",
+      "description": "子产谓为政必以德、毋忘所以立；郑火时又谓不如脩德。",
+      "evidence": [
+        "p45",
+        "p46"
+      ]
+    },
+    {
+      "id": "concept:守节",
+      "name": "守节",
+      "type": "义理",
+      "description": "太史公以荀息守节身死而不能存奚齐，与甫瑕之变相对。",
+      "evidence": [
+        "p60"
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "subject": "周厉王",
+      "predicate": "生",
+      "object": "郑桓公",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "subject": "郑桓公",
+      "predicate": "为庶弟于",
+      "object": "周宣王",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "subject": "郑桓公",
+      "predicate": "为司徒于",
+      "object": "周幽王",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "subject": "太史伯",
+      "predicate": "献策于",
+      "object": "郑桓公",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "subject": "犬戎",
+      "predicate": "杀",
+      "object": "周幽王、郑桓公",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "subject": "郑人",
+      "predicate": "立",
+      "object": "郑武公",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "subject": "郑桓公",
+      "predicate": "生",
+      "object": "郑武公",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "subject": "郑武公",
+      "predicate": "娶",
+      "object": "武姜",
+      "evidence": [
+        "p2"
+      ]
+    },
+    {
+      "subject": "武姜",
+      "predicate": "生",
+      "object": "郑庄公、共叔段",
+      "evidence": [
+        "p2"
+      ]
+    },
+    {
+      "subject": "郑武公",
+      "predicate": "生",
+      "object": "郑庄公",
+      "evidence": [
+        "p2"
+      ]
+    },
+    {
+      "subject": "郑庄公",
+      "predicate": "封",
+      "object": "共叔段",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "subject": "共叔段",
+      "predicate": "谋袭",
+      "object": "郑",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "subject": "郑庄公",
+      "predicate": "伐",
+      "object": "共叔段",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "subject": "郑庄公",
+      "predicate": "迁",
+      "object": "武姜",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "subject": "颍考叔",
+      "predicate": "献计于",
+      "object": "郑庄公",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "subject": "郑庄公",
+      "predicate": "见",
+      "object": "武姜",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "subject": "郑",
+      "predicate": "侵",
+      "object": "周",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "subject": "州吁",
+      "predicate": "弑",
+      "object": "卫桓公",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "subject": "郑",
+      "predicate": "易",
+      "object": "鲁",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "subject": "周桓王",
+      "predicate": "伐",
+      "object": "郑",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "subject": "祝聸",
+      "predicate": "射中",
+      "object": "周桓王（臂）",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "subject": "郑昭公",
+      "predicate": "救",
+      "object": "齐",
+      "evidence": [
+        "p5"
+      ]
+    },
+    {
+      "subject": "齐釐公",
+      "predicate": "欲妻",
+      "object": "郑昭公",
+      "evidence": [
+        "p5"
+      ]
+    },
+    {
+      "subject": "祭仲",
+      "predicate": "立",
+      "object": "郑昭公",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "subject": "郑庄公",
+      "predicate": "娶",
+      "object": "邓女",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "subject": "邓女",
+      "predicate": "生",
+      "object": "郑昭公",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "subject": "郑庄公",
+      "predicate": "生",
+      "object": "郑昭公",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "subject": "宋庄公",
+      "predicate": "诱执",
+      "object": "祭仲",
+      "evidence": [
+        "p7"
+      ]
+    },
+    {
+      "subject": "祭仲",
+      "predicate": "立",
+      "object": "郑厉公",
+      "evidence": [
+        "p7"
+      ]
+    },
+    {
+      "subject": "郑昭公",
+      "predicate": "奔",
+      "object": "卫",
+      "evidence": [
+        "p7"
+      ]
+    },
+    {
+      "subject": "郑庄公",
+      "predicate": "生",
+      "object": "郑厉公",
+      "evidence": [
+        "p7"
+      ]
+    },
+    {
+      "subject": "祭仲",
+      "predicate": "杀",
+      "object": "雍纠",
+      "evidence": [
+        "p8"
+      ]
+    },
+    {
+      "subject": "郑厉公",
+      "predicate": "出居",
+      "object": "栎",
+      "evidence": [
+        "p8"
+      ]
+    },
+    {
+      "subject": "祭仲",
+      "predicate": "迎立",
+      "object": "郑昭公",
+      "evidence": [
+        "p8"
+      ]
+    },
+    {
+      "subject": "郑厉公",
+      "predicate": "杀",
+      "object": "单伯",
+      "evidence": [
+        "p9"
+      ]
+    },
+    {
+      "subject": "高渠弥",
+      "predicate": "弑",
+      "object": "郑昭公",
+      "evidence": [
+        "p10"
+      ]
+    },
+    {
+      "subject": "祭仲、高渠弥",
+      "predicate": "立",
+      "object": "郑子亹",
+      "evidence": [
+        "p10"
+      ]
+    },
+    {
+      "subject": "齐襄公",
+      "predicate": "杀",
+      "object": "郑子亹",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "subject": "彭生",
+      "predicate": "拉杀",
+      "object": "鲁桓公",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "subject": "祭仲、高渠弥",
+      "predicate": "立",
+      "object": "郑子（子仪）",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "subject": "管至父",
+      "predicate": "弑",
+      "object": "齐襄公",
+      "evidence": [
+        "p12"
+      ]
+    },
+    {
+      "subject": "长万",
+      "predicate": "弑",
+      "object": "宋湣公",
+      "evidence": [
+        "p12"
+      ]
+    },
+    {
+      "subject": "甫瑕",
+      "predicate": "杀",
+      "object": "郑子（子仪）及其二子",
+      "evidence": [
+        "p13"
+      ]
+    },
+    {
+      "subject": "甫瑕",
+      "predicate": "迎纳",
+      "object": "郑厉公",
+      "evidence": [
+        "p13"
+      ]
+    },
+    {
+      "subject": "郑厉公",
+      "predicate": "诛",
+      "object": "甫瑕",
+      "evidence": [
+        "p13"
+      ]
+    },
+    {
+      "subject": "郑厉公",
+      "predicate": "责让",
+      "object": "原繁",
+      "evidence": [
+        "p13"
+      ]
+    },
+    {
+      "subject": "原繁",
+      "predicate": "自杀",
+      "object": "",
+      "evidence": [
+        "p13"
+      ]
+    },
+    {
+      "subject": "王子颓",
+      "predicate": "伐逐",
+      "object": "周惠王",
+      "evidence": [
+        "p15"
+      ]
+    },
+    {
+      "subject": "郑厉公、虢叔",
+      "predicate": "袭杀",
+      "object": "王子颓",
+      "evidence": [
+        "p15"
+      ]
+    },
+    {
+      "subject": "郑厉公",
+      "predicate": "纳",
+      "object": "周惠王",
+      "evidence": [
+        "p15"
+      ]
+    },
+    {
+      "subject": "郑厉公",
+      "predicate": "生",
+      "object": "郑文公",
+      "evidence": [
+        "p16"
+      ]
+    },
+    {
+      "subject": "齐桓公",
+      "predicate": "伐",
+      "object": "楚",
+      "evidence": [
+        "p17"
+      ]
+    },
+    {
+      "subject": "燕姞",
+      "predicate": "生",
+      "object": "郑穆公",
+      "evidence": [
+        "p18"
+      ]
+    },
+    {
+      "subject": "晋文公",
+      "predicate": "过",
+      "object": "郑",
+      "evidence": [
+        "p19",
+        "p21"
+      ]
+    },
+    {
+      "subject": "叔詹",
+      "predicate": "谏",
+      "object": "郑文公",
+      "evidence": [
+        "p19",
+        "p21"
+      ]
+    },
+    {
+      "subject": "郑",
+      "predicate": "伐",
+      "object": "滑",
+      "evidence": [
+        "p20"
+      ]
+    },
+    {
+      "subject": "郑文公",
+      "predicate": "囚",
+      "object": "伯犕",
+      "evidence": [
+        "p20"
+      ]
+    },
+    {
+      "subject": "晋文公",
+      "predicate": "入",
+      "object": "周襄王",
+      "evidence": [
+        "p20"
+      ]
+    },
+    {
+      "subject": "晋文公、秦穆公",
+      "predicate": "围",
+      "object": "郑",
+      "evidence": [
+        "p21"
+      ]
+    },
+    {
+      "subject": "叔詹",
+      "predicate": "自杀",
+      "object": "郑难",
+      "evidence": [
+        "p21"
+      ]
+    },
+    {
+      "subject": "石癸",
+      "predicate": "劝立",
+      "object": "郑穆公",
+      "evidence": [
+        "p21"
+      ]
+    },
+    {
+      "subject": "郑文公",
+      "predicate": "立",
+      "object": "郑穆公",
+      "evidence": [
+        "p21"
+      ]
+    },
+    {
+      "subject": "郑文公",
+      "predicate": "逐",
+      "object": "溉",
+      "evidence": [
+        "p21"
+      ]
+    },
+    {
+      "subject": "郑文公",
+      "predicate": "生",
+      "object": "郑穆公",
+      "evidence": [
+        "p22"
+      ]
+    },
+    {
+      "subject": "弦高",
+      "predicate": "诈犒",
+      "object": "秦师",
+      "evidence": [
+        "p23"
+      ]
+    },
+    {
+      "subject": "郑",
+      "predicate": "从晋伐",
+      "object": "秦",
+      "evidence": [
+        "p23"
+      ]
+    },
+    {
+      "subject": "秦穆公",
+      "predicate": "遣三将袭",
+      "object": "郑",
+      "evidence": [
+        "p23"
+      ]
+    },
+    {
+      "subject": "羊斟",
+      "predicate": "驰入",
+      "object": "郑军",
+      "evidence": [
+        "p24"
+      ]
+    },
+    {
+      "subject": "赵穿",
+      "predicate": "伐",
+      "object": "郑",
+      "evidence": [
+        "p24"
+      ]
+    },
+    {
+      "subject": "郑穆公",
+      "predicate": "生",
+      "object": "郑灵公",
+      "evidence": [
+        "p25"
+      ]
+    },
+    {
+      "subject": "子公、子家",
+      "predicate": "弑",
+      "object": "郑灵公",
+      "evidence": [
+        "p26"
+      ]
+    },
+    {
+      "subject": "郑人",
+      "predicate": "立",
+      "object": "郑襄公",
+      "evidence": [
+        "p26"
+      ]
+    },
+    {
+      "subject": "去疾",
+      "predicate": "让位",
+      "object": "郑襄公",
+      "evidence": [
+        "p26"
+      ]
+    },
+    {
+      "subject": "郑襄公",
+      "predicate": "为庶弟于",
+      "object": "郑灵公",
+      "evidence": [
+        "p26"
+      ]
+    },
+    {
+      "subject": "国人",
+      "predicate": "逐",
+      "object": "子家之族",
+      "evidence": [
+        "p28"
+      ]
+    },
+    {
+      "subject": "楚庄王",
+      "predicate": "围",
+      "object": "郑",
+      "evidence": [
+        "p29"
+      ]
+    },
+    {
+      "subject": "郑襄公",
+      "predicate": "肉袒牵羊迎降",
+      "object": "楚庄王",
+      "evidence": [
+        "p29"
+      ]
+    },
+    {
+      "subject": "楚庄王",
+      "predicate": "大败",
+      "object": "晋军（河上）",
+      "evidence": [
+        "p29"
+      ]
+    },
+    {
+      "subject": "解扬",
+      "predicate": "诳",
+      "object": "楚",
+      "evidence": [
+        "p30"
+      ]
+    },
+    {
+      "subject": "许灵公",
+      "predicate": "恶郑于",
+      "object": "楚",
+      "evidence": [
+        "p32"
+      ]
+    },
+    {
+      "subject": "楚",
+      "predicate": "囚",
+      "object": "睔",
+      "evidence": [
+        "p32"
+      ]
+    },
+    {
+      "subject": "子反",
+      "predicate": "言归",
+      "object": "睔",
+      "evidence": [
+        "p32"
+      ]
+    },
+    {
+      "subject": "晋",
+      "predicate": "执",
+      "object": "郑成公",
+      "evidence": [
+        "p34"
+      ]
+    },
+    {
+      "subject": "栾书",
+      "predicate": "伐",
+      "object": "郑",
+      "evidence": [
+        "p34"
+      ]
+    },
+    {
+      "subject": "公子如",
+      "predicate": "立",
+      "object": "繻",
+      "evidence": [
+        "p34"
+      ]
+    },
+    {
+      "subject": "郑人",
+      "predicate": "杀",
+      "object": "繻",
+      "evidence": [
+        "p34"
+      ]
+    },
+    {
+      "subject": "楚共王",
+      "predicate": "救",
+      "object": "郑",
+      "evidence": [
+        "p35"
+      ]
+    },
+    {
+      "subject": "晋",
+      "predicate": "射伤",
+      "object": "楚共王（目）",
+      "evidence": [
+        "p35"
+      ]
+    },
+    {
+      "subject": "晋悼公",
+      "predicate": "伐",
+      "object": "郑",
+      "evidence": [
+        "p35"
+      ]
+    },
+    {
+      "subject": "子驷",
+      "predicate": "弑",
+      "object": "郑釐公",
+      "evidence": [
+        "p37"
+      ]
+    },
+    {
+      "subject": "子驷",
+      "predicate": "立",
+      "object": "郑简公",
+      "evidence": [
+        "p37"
+      ]
+    },
+    {
+      "subject": "子驷",
+      "predicate": "诛",
+      "object": "诸公子",
+      "evidence": [
+        "p38"
+      ]
+    },
+    {
+      "subject": "子孔",
+      "predicate": "使尉止杀",
+      "object": "子驷",
+      "evidence": [
+        "p38"
+      ]
+    },
+    {
+      "subject": "子孔",
+      "predicate": "相",
+      "object": "郑简公",
+      "evidence": [
+        "p38"
+      ]
+    },
+    {
+      "subject": "子产",
+      "predicate": "谏",
+      "object": "子孔",
+      "evidence": [
+        "p38"
+      ]
+    },
+    {
+      "subject": "郑简公",
+      "predicate": "诛",
+      "object": "子孔",
+      "evidence": [
+        "p40"
+      ]
+    },
+    {
+      "subject": "郑简公",
+      "predicate": "任为卿",
+      "object": "子产",
+      "evidence": [
+        "p40"
+      ]
+    },
+    {
+      "subject": "郑简公",
+      "predicate": "封",
+      "object": "子产（六邑）",
+      "evidence": [
+        "p40"
+      ]
+    },
+    {
+      "subject": "子产",
+      "predicate": "让",
+      "object": "三邑",
+      "evidence": [
+        "p40"
+      ]
+    },
+    {
+      "subject": "延陵季子",
+      "predicate": "访见",
+      "object": "子产",
+      "evidence": [
+        "p40"
+      ]
+    },
+    {
+      "subject": "子产",
+      "predicate": "对",
+      "object": "晋平公",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "subject": "子产",
+      "predicate": "盟",
+      "object": "楚灵王",
+      "evidence": [
+        "p42"
+      ]
+    },
+    {
+      "subject": "楚平王",
+      "predicate": "弑",
+      "object": "楚灵王",
+      "evidence": [
+        "p44"
+      ]
+    },
+    {
+      "subject": "楚平王",
+      "predicate": "归",
+      "object": "郑（灵王所侵之地）",
+      "evidence": [
+        "p44"
+      ]
+    },
+    {
+      "subject": "子产",
+      "predicate": "谓",
+      "object": "韩宣子",
+      "evidence": [
+        "p45"
+      ]
+    },
+    {
+      "subject": "太子建",
+      "predicate": "奔",
+      "object": "郑",
+      "evidence": [
+        "p47"
+      ]
+    },
+    {
+      "subject": "郑",
+      "predicate": "杀",
+      "object": "太子建",
+      "evidence": [
+        "p47"
+      ]
+    },
+    {
+      "subject": "白公胜",
+      "predicate": "奔",
+      "object": "吴",
+      "evidence": [
+        "p47"
+      ]
+    },
+    {
+      "subject": "晋、郑",
+      "predicate": "谋入",
+      "object": "周敬王",
+      "evidence": [
+        "p48"
+      ]
+    },
+    {
+      "subject": "孔子",
+      "predicate": "泣吊",
+      "object": "子产",
+      "evidence": [
+        "p50"
+      ]
+    },
+    {
+      "subject": "郑成公",
+      "predicate": "生",
+      "object": "子产",
+      "evidence": [
+        "p50"
+      ]
+    },
+    {
+      "subject": "晋",
+      "predicate": "败",
+      "object": "郑军",
+      "evidence": [
+        "p51"
+      ]
+    },
+    {
+      "subject": "范氏、中行氏",
+      "predicate": "告急",
+      "object": "郑",
+      "evidence": [
+        "p51"
+      ]
+    },
+    {
+      "subject": "田常",
+      "predicate": "弑",
+      "object": "齐简公",
+      "evidence": [
+        "p52"
+      ]
+    },
+    {
+      "subject": "知伯",
+      "predicate": "伐",
+      "object": "郑",
+      "evidence": [
+        "p53"
+      ]
+    },
+    {
+      "subject": "韩武子",
+      "predicate": "杀",
+      "object": "郑幽公",
+      "evidence": [
+        "p54"
+      ]
+    },
+    {
+      "subject": "韩、赵、魏",
+      "predicate": "灭",
+      "object": "知伯",
+      "evidence": [
+        "p54"
+      ]
+    },
+    {
+      "subject": "韩景侯",
+      "predicate": "取",
+      "object": "雍丘",
+      "evidence": [
+        "p55"
+      ]
+    },
+    {
+      "subject": "郑",
+      "predicate": "败",
+      "object": "韩兵",
+      "evidence": [
+        "p56"
+      ]
+    },
+    {
+      "subject": "韩、赵、魏",
+      "predicate": "列为",
+      "object": "诸侯",
+      "evidence": [
+        "p56"
+      ]
+    },
+    {
+      "subject": "郑繻公",
+      "predicate": "杀",
+      "object": "子阳",
+      "evidence": [
+        "p57"
+      ]
+    },
+    {
+      "subject": "子阳之党",
+      "predicate": "弑",
+      "object": "郑繻公",
+      "evidence": [
+        "p57"
+      ]
+    },
+    {
+      "subject": "韩",
+      "predicate": "取",
+      "object": "阳城",
+      "evidence": [
+        "p58"
+      ]
+    },
+    {
+      "subject": "韩哀侯",
+      "predicate": "灭",
+      "object": "郑",
+      "evidence": [
+        "p59"
+      ]
+    },
+    {
+      "subject": "荀息",
+      "predicate": "守节而不能存",
+      "object": "奚齐",
+      "evidence": [
+        "p60"
+      ]
+    }
+  ]
+}
