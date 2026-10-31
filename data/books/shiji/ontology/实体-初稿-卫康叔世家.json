@@ -1,0 +1,1172 @@
+{
+  "book": "shiji",
+  "chapter_id": "shiji-衞康叔世家第七",
+  "title": "卫康叔世家第七",
+  "juan": "卷三十七",
+  "persons": [
+    {
+      "id": "person:卫康叔",
+      "name": "卫康叔",
+      "alias": ["康叔封", "康叔"],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "卫",
+      "description": "周武王同母少弟，名封；三监之乱后受封为卫国始封君，居河、淇之间故商墟，成王时举为周司寇。",
+      "evidence": ["p0", "p1", "p2", "p3", "p4", "p8", "p29", "p50"]
+    },
+    {
+      "id": "person:周武王",
+      "name": "周武王",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "西周",
+      "state": "周",
+      "description": "周朝开国君主；克殷纣后封纣子武庚禄父以奉殷祀，令管叔、蔡叔傅相之。",
+      "evidence": ["p0", "p1"]
+    },
+    {
+      "id": "person:周公旦",
+      "name": "周公旦",
+      "alias": ["周公"],
+      "type": "政治家",
+      "dynasty": "西周",
+      "state": "周",
+      "description": "周武王之弟；成王年幼时代理国政，东征平三监之乱，申告康叔并作《康诰》《酒诰》《梓材》。",
+      "evidence": ["p1", "p2"]
+    },
+    {
+      "id": "person:管叔",
+      "name": "管叔",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "管",
+      "description": "武王之弟，奉命傅相武庚禄父；后与蔡叔、武庚禄父作乱，为周公旦所杀。",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "person:蔡叔",
+      "name": "蔡叔",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "蔡",
+      "description": "武王之弟，傅相武庚禄父；与管叔、武庚禄父作乱，为周公旦所流放。",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "person:武庚禄父",
+      "name": "武庚禄父",
+      "alias": ["武庚", "禄父"],
+      "type": "诸侯",
+      "dynasty": "商",
+      "state": "商",
+      "description": "殷纣之子；受封以奉殷商先祀，后与管叔、蔡叔作乱，为周公旦所杀。",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "person:冉季",
+      "name": "冉季",
+      "alias": [],
+      "type": "贵族",
+      "dynasty": "西周",
+      "state": "周",
+      "description": "周武王同母弟，在康叔之后，年纪最小。",
+      "evidence": ["p0"]
+    },
+    {
+      "id": "person:成王",
+      "name": "成王",
+      "alias": ["周成王"],
+      "type": "君主",
+      "dynasty": "西周",
+      "state": "周",
+      "description": "周武王之子；年幼即位，长而亲政，举康叔为周司寇。",
+      "evidence": ["p1", "p3"]
+    },
+    {
+      "id": "person:康伯",
+      "name": "康伯",
+      "alias": ["牟伯", "王孙牟"],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "卫",
+      "description": "康叔之子，继位为卫君；一说即王孙牟，事周康王为大夫。",
+      "evidence": ["p4"]
+    },
+    {
+      "id": "person:考伯",
+      "name": "考伯",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "卫",
+      "description": "康伯之子，继位为卫君。",
+      "evidence": ["p4"]
+    },
+    {
+      "id": "person:嗣伯",
+      "name": "嗣伯",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "卫",
+      "description": "考伯之子，继位为卫君。",
+      "evidence": ["p4"]
+    },
+    {
+      "id": "person:𢈻伯",
+      "name": "𢈻伯",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "卫",
+      "description": "嗣伯之子，继位为卫君。",
+      "evidence": ["p4"]
+    },
+    {
+      "id": "person:靖伯",
+      "name": "靖伯",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "卫",
+      "description": "𢈻伯之子，继位为卫君。",
+      "evidence": ["p4"]
+    },
+    {
+      "id": "person:贞伯",
+      "name": "贞伯",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "卫",
+      "description": "靖伯之子，继位为卫君。",
+      "evidence": ["p4"]
+    },
+    {
+      "id": "person:顷侯",
+      "name": "顷侯",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "卫",
+      "description": "贞伯之子；厚赂周夷王，夷王命卫为侯，在位十二年卒。",
+      "evidence": ["p4", "p5"]
+    },
+    {
+      "id": "person:釐侯",
+      "name": "釐侯",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "卫",
+      "description": "顷侯之子；在位时周厉王出奔、共和行政、宣王继立，死后太子共伯余与弟和争位。",
+      "evidence": ["p5", "p6", "p7"]
+    },
+    {
+      "id": "person:共伯余",
+      "name": "共伯余",
+      "alias": ["共伯"],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "卫",
+      "description": "釐侯太子，继位为君；为其弟和袭攻于墓上，入墓道自杀，谥共伯。",
+      "evidence": ["p7"]
+    },
+    {
+      "id": "person:武公和",
+      "name": "武公和",
+      "alias": ["武公", "和"],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "卫",
+      "description": "釐侯之子、共伯余之弟；杀兄代立为卫侯，修康叔之政，佐周平戎有功，周平王命为公。",
+      "evidence": ["p7", "p8", "p50"]
+    },
+    {
+      "id": "person:庄公扬",
+      "name": "庄公扬",
+      "alias": ["庄公"],
+      "type": "诸侯",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "武公之子；取齐女、陈女为夫人，宠妾生子州吁，死后太子完继位为桓公。",
+      "evidence": ["p8", "p9", "p10"]
+    },
+    {
+      "id": "person:州吁",
+      "name": "州吁",
+      "alias": [],
+      "type": "公子",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "庄公宠妾之子，好兵；袭杀桓公自立，后为石碏与陈侯所杀于濮。",
+      "evidence": ["p9", "p10"]
+    },
+    {
+      "id": "person:石碏",
+      "name": "石碏",
+      "alias": [],
+      "type": "卿",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "卫上卿；谏庄公勿使州吁将兵，后设计诛州吁，迎立桓公之弟晋为宣公。",
+      "evidence": ["p9", "p10", "p50"]
+    },
+    {
+      "id": "person:宣公晋",
+      "name": "宣公晋",
+      "alias": ["宣公"],
+      "type": "诸侯",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "桓公之弟，由邢迎立；夺太子伋之妻，致伋、寿之死，改立朔为太子。",
+      "evidence": ["p10", "p11", "p12"]
+    },
+    {
+      "id": "person:太子伋",
+      "name": "太子伋",
+      "alias": ["伋"],
+      "type": "太子",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "宣公太子；因宣公夺其妻而见恶，被派往齐国途中遭界盗杀害。",
+      "evidence": ["p12", "p13", "p17", "p19", "p49"]
+    },
+    {
+      "id": "person:公子寿",
+      "name": "公子寿",
+      "alias": ["寿"],
+      "type": "公子",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "宣公与齐女之子、太子伋异母弟；盗白旄先行至界，代伋而死。",
+      "evidence": ["p12", "p19", "p49"]
+    },
+    {
+      "id": "person:惠公朔",
+      "name": "惠公朔",
+      "alias": ["惠公"],
+      "type": "诸侯",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "宣公之子；谗杀太子伋后代立，曾出奔齐又复入；与燕伐周立王子颓为王。",
+      "evidence": ["p12", "p13", "p14", "p15", "p17"]
+    },
+    {
+      "id": "person:黔牟",
+      "name": "黔牟",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "太子伋之弟；左右公子之乱中被立为君，八年后因齐襄公伐卫而奔周。",
+      "evidence": ["p13", "p14", "p17", "p19"]
+    },
+    {
+      "id": "person:懿公赤",
+      "name": "懿公赤",
+      "alias": ["懿公"],
+      "type": "诸侯",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "惠公之子；好鹤淫乐，翟人伐卫时兵畔被杀。",
+      "evidence": ["p15", "p16", "p17"]
+    },
+    {
+      "id": "person:戴公申",
+      "name": "戴公申",
+      "alias": ["戴公", "申"],
+      "type": "诸侯",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "黔牟之弟昭伯顽之子；卫人灭惠公之后而立之为君，元年即卒。",
+      "evidence": ["p17", "p18", "p19"]
+    },
+    {
+      "id": "person:文公燬",
+      "name": "文公燬",
+      "alias": ["文公", "燬"],
+      "type": "诸侯",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "戴公之弟，由齐桓公筑楚丘而立；轻赋平罪，与百姓同苦。",
+      "evidence": ["p18", "p19", "p20", "p21"]
+    },
+    {
+      "id": "person:成公郑",
+      "name": "成公郑",
+      "alias": ["成公"],
+      "type": "诸侯",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "文公之子；因不肯假道救宋、拒征师而遭元咺之乱，出入晋、陈之间。",
+      "evidence": ["p21", "p22"]
+    },
+    {
+      "id": "person:穆公遬",
+      "name": "穆公遬",
+      "alias": ["穆公"],
+      "type": "诸侯",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "成公之子，继位为卫君。",
+      "evidence": ["p22", "p23"]
+    },
+    {
+      "id": "person:定公臧",
+      "name": "定公臧",
+      "alias": ["定公"],
+      "type": "诸侯",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "穆公之子；在位十二年卒，弟秋（殇公）于其身后被立。",
+      "evidence": ["p23", "p24"]
+    },
+    {
+      "id": "person:献公衎",
+      "name": "献公衎",
+      "alias": ["献公"],
+      "type": "诸侯",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "定公之子；因慢待孙文子、宁惠子被逐奔齐，后复位，诛宁喜。",
+      "evidence": ["p23", "p24", "p25", "p26", "p27"]
+    },
+    {
+      "id": "person:殇公剽",
+      "name": "殇公剽",
+      "alias": ["殇公", "秋"],
+      "type": "诸侯",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "定公之弟；孙文子、宁惠子逐献公后所立，十二年后为宁喜所攻，被晋平公执。",
+      "evidence": ["p24", "p25"]
+    },
+    {
+      "id": "person:孙林父",
+      "name": "孙林父",
+      "alias": ["孙文子", "林父"],
+      "type": "卿",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "卫大夫，谥文子；逐献公、封于宿，后与宁喜争宠而奔晋。",
+      "evidence": ["p24", "p25", "p27"]
+    },
+    {
+      "id": "person:宁喜",
+      "name": "宁喜",
+      "alias": ["寗喜"],
+      "type": "卿",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "卫大夫；与孙林父争宠，逐之而纳献公复位，后被献公所诛。",
+      "evidence": ["p25", "p26"]
+    },
+    {
+      "id": "person:灵公元",
+      "name": "灵公元",
+      "alias": ["灵公", "元"],
+      "type": "诸侯",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "襄公之子，名元；夫人南子，太子蒯聩出奔，孔子曾适卫。",
+      "evidence": ["p29", "p30", "p31", "p32", "p33"]
+    },
+    {
+      "id": "person:南子",
+      "name": "南子",
+      "alias": [],
+      "type": "夫人",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "卫灵公夫人，宋女；与太子蒯聩有隙，致使蒯聩谋刺未果而出奔。",
+      "evidence": ["p32"]
+    },
+    {
+      "id": "person:太子蒯聩",
+      "name": "太子蒯聩",
+      "alias": ["蒯聩"],
+      "type": "太子",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "灵公太子；与南子结怨而出奔宋、晋，后借孔悝之乱入卫。",
+      "evidence": ["p32", "p33", "p34", "p37", "p38"]
+    },
+    {
+      "id": "person:出公辄",
+      "name": "出公辄",
+      "alias": ["出公", "辄"],
+      "type": "诸侯",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "太子蒯聩之子；灵公卒后由夫人立为君，在位期间屡出屡入。",
+      "evidence": ["p33", "p35", "p37", "p42"]
+    },
+    {
+      "id": "person:庄公蒯聩",
+      "name": "庄公蒯聩",
+      "alias": ["庄公"],
+      "type": "诸侯",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "出公之父，即太子蒯聩；流亡在外后由孔悝拥立为君，欲尽诛大臣，终因戎州之事为赵简子所围而出奔。",
+      "evidence": ["p38", "p39", "p41"]
+    },
+    {
+      "id": "person:悼公黔",
+      "name": "悼公黔",
+      "alias": ["悼公", "黔"],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "卫",
+      "description": "出公季父；攻出公之子而自立为君。",
+      "evidence": ["p42", "p43"]
+    },
+    {
+      "id": "person:敬公弗",
+      "name": "敬公弗",
+      "alias": ["敬公", "弗"],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "卫",
+      "description": "悼公之子；在位十九年卒。",
+      "evidence": ["p43", "p44"]
+    },
+    {
+      "id": "person:昭公紏",
+      "name": "昭公紏",
+      "alias": ["昭公"],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "卫",
+      "description": "敬公之子；时三晋强，卫如小侯附属之；六年后被公子亹所弑。",
+      "evidence": ["p43", "p44"]
+    },
+    {
+      "id": "person:怀公亹",
+      "name": "怀公亹",
+      "alias": ["怀公"],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "卫",
+      "description": "公子亹弑昭公后代立为君；十一年后被公子颓所弑。",
+      "evidence": ["p44"]
+    },
+    {
+      "id": "person:慎公颓",
+      "name": "慎公颓",
+      "alias": ["慎公", "公子颓"],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "卫",
+      "description": "公子颓弑怀公后代立；父为公子适，适之父为敬公；在位四十二年卒。",
+      "evidence": ["p44"]
+    },
+    {
+      "id": "person:声公训",
+      "name": "声公训",
+      "alias": ["声公"],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "卫",
+      "description": "慎公之子；在位十一年卒。",
+      "evidence": ["p44"]
+    },
+    {
+      "id": "person:成侯速",
+      "name": "成侯速",
+      "alias": ["成侯"],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "卫",
+      "description": "声公之子；时公孙鞅入秦，卫更贬号为侯。",
+      "evidence": ["p44", "p45", "p46"]
+    },
+    {
+      "id": "person:平侯",
+      "name": "平侯",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "卫",
+      "description": "成侯之子；在位八年卒。",
+      "evidence": ["p46"]
+    },
+    {
+      "id": "person:嗣君",
+      "name": "嗣君",
+      "alias": ["孝襄侯"],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "卫",
+      "description": "平侯之子；在位时卫更贬号为君，独有濮阳。",
+      "evidence": ["p46", "p47"]
+    },
+    {
+      "id": "person:怀君",
+      "name": "怀君",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "卫",
+      "description": "嗣君之子；朝魏时被魏国囚杀。",
+      "evidence": ["p47"]
+    },
+    {
+      "id": "person:元君",
+      "name": "元君",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "卫",
+      "description": "嗣君之弟，魏国女婿，由魏立为君；在位时秦置东郡、徙卫于野王。",
+      "evidence": ["p47"]
+    },
+    {
+      "id": "person:君角",
+      "name": "君角",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "卫",
+      "description": "元君之子，卫末代君；秦并天下后被秦二世废为庶人，卫绝祀。",
+      "evidence": ["p47", "p48", "p50"]
+    },
+    {
+      "id": "person:夷姜",
+      "name": "夷姜",
+      "alias": [],
+      "type": "夫人",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "宣公所爱之夫人，生子伋，伋被立为太子。",
+      "evidence": ["p12"]
+    },
+    {
+      "id": "person:师曹",
+      "name": "师曹",
+      "alias": [],
+      "type": "乐人",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "卫乐师；因受献公笞打而歌《巧言》卒章，以激怒孙文子。",
+      "evidence": ["p24"]
+    },
+    {
+      "id": "person:蘧伯玉",
+      "name": "蘧伯玉",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "卫大夫；受延陵季子称赞为卫国君子，孙文子曾向其诉说献公之事。",
+      "evidence": ["p24", "p27"]
+    },
+    {
+      "id": "person:史鰌",
+      "name": "史鰌",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "卫大夫，与蘧伯玉并称卫国君子，为延陵季子所见。",
+      "evidence": ["p27"]
+    },
+    {
+      "id": "person:孔成子",
+      "name": "孔成子",
+      "alias": ["孔烝鉏"],
+      "type": "卿",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "卫卿；为襄公贱妾解梦，指出康叔为卫之祖先。",
+      "evidence": ["p29"]
+    },
+    {
+      "id": "person:戏阳遬",
+      "name": "戏阳遬",
+      "alias": [],
+      "type": "家臣",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "太子蒯聩家臣；受命于朝时刺杀南子，临事后悔未果。",
+      "evidence": ["p32"]
+    },
+    {
+      "id": "person:子郢",
+      "name": "子郢",
+      "alias": ["郢", "子南"],
+      "type": "公子",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "灵公少子，字子南；灵公欲立为后，郢推辞，终立辄为出公。",
+      "evidence": ["p33"]
+    },
+    {
+      "id": "person:孔子",
+      "name": "孔子",
+      "alias": ["仲尼", "孔丘"],
+      "type": "学者",
+      "dynasty": "春秋",
+      "state": "鲁",
+      "description": "儒家创始人；曾至卫，禄之如鲁，后去而复来，闻卫乱预言高柴来、仲由死。",
+      "evidence": ["p31", "p36", "p38", "p40"]
+    },
+    {
+      "id": "person:孔文子",
+      "name": "孔文子",
+      "alias": ["孔圉"],
+      "type": "卿",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "卫大夫，娶太子蒯聩之姊而生孔悝；曾问兵于仲尼。",
+      "evidence": ["p36", "p37"]
+    },
+    {
+      "id": "person:孔悝",
+      "name": "孔悝",
+      "alias": ["孔叔"],
+      "type": "卿",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "孔文子之子；被母伯姬与浑良夫胁迫立盟，终拥立太子蒯聩为庄公。",
+      "evidence": ["p37", "p38"]
+    },
+    {
+      "id": "person:浑良夫",
+      "name": "浑良夫",
+      "alias": [],
+      "type": "家臣",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "孔氏家臣；与孔悝之母私通，引太子蒯聩潜入孔家。",
+      "evidence": ["p37"]
+    },
+    {
+      "id": "person:栾宁",
+      "name": "栾宁",
+      "alias": ["欒寗"],
+      "type": "家臣",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "孔氏家老；变乱中护送出公辄出奔鲁国。",
+      "evidence": ["p37"]
+    },
+    {
+      "id": "person:仲由",
+      "name": "仲由",
+      "alias": ["子路", "季路"],
+      "type": "学者",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "孔子弟子，为孔氏邑宰；卫乱中力战，结缨而死。",
+      "evidence": ["p37", "p38"]
+    },
+    {
+      "id": "person:子羔",
+      "name": "子羔",
+      "alias": ["高柴"],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "孔子弟子，卫大夫；卫乱将起时出奔。",
+      "evidence": ["p38"]
+    },
+    {
+      "id": "person:公孙敢",
+      "name": "公孙敢",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "卫大夫；卫乱中关闭城门，劝阻子路入城。",
+      "evidence": ["p38"]
+    },
+    {
+      "id": "person:石乞",
+      "name": "石乞",
+      "alias": [],
+      "type": "家臣",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "蒯聩之臣；与盂黶受命抵挡并击杀子路。",
+      "evidence": ["p38"]
+    },
+    {
+      "id": "person:盂黶",
+      "name": "盂黶",
+      "alias": [],
+      "type": "家臣",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "蒯聩之臣；与石乞以戈攻杀子路。",
+      "evidence": ["p38"]
+    },
+    {
+      "id": "person:阳虎",
+      "name": "阳虎",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "鲁",
+      "description": "受赵简子之令假传命令，令卫人衰绖归，以助蒯聩入卫。",
+      "evidence": ["p34"]
+    },
+    {
+      "id": "person:赵简子",
+      "name": "赵简子",
+      "alias": [],
+      "type": "卿",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "晋卿；欲纳蒯聩入卫，后因戎州之事围卫，迫使庄公出奔。",
+      "evidence": ["p34", "p41"]
+    },
+    {
+      "id": "person:公子斑师",
+      "name": "公子斑师",
+      "alias": ["斑师", "般师"],
+      "type": "公子",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "襄公之孙；庄公出奔后卫人所立之君，旋被齐所虏。",
+      "evidence": ["p41"]
+    },
+    {
+      "id": "person:公子起",
+      "name": "公子起",
+      "alias": ["起"],
+      "type": "公子",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "灵公之子；齐伐卫后所立之君，翌年被石曼尃驱逐奔齐。",
+      "evidence": ["p41", "p42"]
+    },
+    {
+      "id": "person:石曼尃",
+      "name": "石曼尃",
+      "alias": ["石圃"],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "卫大夫；逐其君起，起奔齐。",
+      "evidence": ["p42"]
+    },
+    {
+      "id": "person:孙良夫",
+      "name": "孙良夫",
+      "alias": [],
+      "type": "卿",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "卫大夫；救鲁伐齐，收复被侵占之地。",
+      "evidence": ["p23"]
+    },
+    {
+      "id": "person:元咺",
+      "name": "元咺",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "卫大夫；攻逐成公，后被复位之成公所诛。",
+      "evidence": ["p22"]
+    },
+    {
+      "id": "person:右宰丑",
+      "name": "右宰丑",
+      "alias": ["右宰醜"],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "卫",
+      "description": "卫大夫；受石碏与陈侯之谋，进食而杀州吁于濮。",
+      "evidence": ["p10"]
+    },
+    {
+      "id": "person:周夷王",
+      "name": "周夷王",
+      "alias": ["夷王"],
+      "type": "君主",
+      "dynasty": "西周",
+      "state": "周",
+      "description": "周天子；受顷侯厚赂而命卫为侯。",
+      "evidence": ["p5"]
+    },
+    {
+      "id": "person:周厉王",
+      "name": "周厉王",
+      "alias": ["厉王"],
+      "type": "君主",
+      "dynasty": "西周",
+      "state": "周",
+      "description": "周天子；出奔于彘，遂有共和行政。",
+      "evidence": ["p6"]
+    },
+    {
+      "id": "person:周宣王",
+      "name": "周宣王",
+      "alias": ["宣王"],
+      "type": "君主",
+      "dynasty": "西周",
+      "state": "周",
+      "description": "周天子；釐侯二十八年继立。",
+      "evidence": ["p6"]
+    },
+    {
+      "id": "person:周幽王",
+      "name": "周幽王",
+      "alias": ["幽王"],
+      "type": "君主",
+      "dynasty": "西周",
+      "state": "周",
+      "description": "周天子；为犬戎所杀，武公佐周平戎有功。",
+      "evidence": ["p8"]
+    },
+    {
+      "id": "person:周平王",
+      "name": "周平王",
+      "alias": ["平王"],
+      "type": "君主",
+      "dynasty": "东周",
+      "state": "周",
+      "description": "周天子；因武公佐周平戎有功而命其为公。",
+      "evidence": ["p8"]
+    },
+    {
+      "id": "person:齐襄公",
+      "name": "齐襄公",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "齐",
+      "description": "齐君；率诸侯奉王命伐卫，纳卫惠公、诛左右公子。",
+      "evidence": ["p14"]
+    },
+    {
+      "id": "person:齐桓公",
+      "name": "齐桓公",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "齐",
+      "description": "齐君；因卫数乱而率诸侯伐翟，为卫筑楚丘、立文公。",
+      "evidence": ["p18", "p21"]
+    },
+    {
+      "id": "person:晋文公",
+      "name": "晋文公",
+      "alias": ["重耳"],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "晋君，名重耳；曾过卫受无礼之待，后伐卫、分其地予宋，使人鸩卫成公。",
+      "evidence": ["p21", "p22"]
+    },
+    {
+      "id": "person:太史公",
+      "name": "太史公",
+      "alias": ["司马迁"],
+      "type": "史家",
+      "dynasty": "西汉",
+      "state": "汉",
+      "description": "《史记》作者；篇末论赞评卫宣公太子与公子寿争死之事。",
+      "evidence": ["p49"]
+    }
+  ],
+  "places": [
+    {
+      "id": "place:卫",
+      "name": "卫",
+      "alias": ["卫国"],
+      "type": "诸侯国",
+      "description": "周初分封的诸侯国，康叔始封，居河、淇之间故商墟，后都濮阳，最终灭于秦。",
+      "evidence": ["p1", "p5", "p47", "p48"]
+    },
+    {
+      "id": "place:故商墟",
+      "name": "故商墟",
+      "alias": ["殷墟", "商墟"],
+      "type": "都邑",
+      "description": "商朝故都废墟，在黄河、淇水之间，即康叔受封所居之地（约当今河南淇县一带）。",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "place:河",
+      "name": "河",
+      "alias": ["黄河"],
+      "type": "河流",
+      "description": "黄河；卫国始封之地在黄河与淇水之间。",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "place:淇",
+      "name": "淇",
+      "alias": ["淇水"],
+      "type": "河流",
+      "description": "淇水；卫国始封之地在黄河与淇水之间。",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "place:成周",
+      "name": "成周",
+      "alias": ["洛邑", "洛阳"],
+      "type": "都邑",
+      "description": "周朝东都洛邑；管叔、蔡叔、武庚作乱时欲攻成周，周公因此东居洛邑平乱。",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "place:彘",
+      "name": "彘",
+      "alias": [],
+      "type": "都邑",
+      "description": "周厉王出奔之地。",
+      "evidence": ["p6"]
+    },
+    {
+      "id": "place:温",
+      "name": "温",
+      "alias": [],
+      "type": "邑",
+      "description": "周惠王出奔之地。",
+      "evidence": ["p15"]
+    },
+    {
+      "id": "place:邢",
+      "name": "邢",
+      "alias": [],
+      "type": "诸侯国",
+      "description": "周公之后姬姓国；州吁死后卫人自邢迎立桓公之弟晋（宣公）。",
+      "evidence": ["p10"]
+    },
+    {
+      "id": "place:濮",
+      "name": "濮",
+      "alias": ["濮水"],
+      "type": "邑",
+      "description": "陈地（一说在曹、卫之间）；石碏与陈侯于此杀州吁。",
+      "evidence": ["p10"]
+    },
+    {
+      "id": "place:楚丘",
+      "name": "楚丘",
+      "alias": [],
+      "type": "都邑",
+      "description": "齐桓公为卫国所筑之城，以立戴公之弟燬（文公）。",
+      "evidence": ["p18"]
+    },
+    {
+      "id": "place:聚邑",
+      "name": "聚邑",
+      "alias": [],
+      "type": "邑",
+      "description": "齐国安置出奔之卫献公之地。",
+      "evidence": ["p24"]
+    },
+    {
+      "id": "place:宿",
+      "name": "宿",
+      "alias": [],
+      "type": "邑",
+      "description": "孙文子（孙林父）封邑；献公怒二子后二人如宿，蒯聩出奔后亦入宿而保。",
+      "evidence": ["p24", "p25", "p34"]
+    },
+    {
+      "id": "place:戎州",
+      "name": "戎州",
+      "alias": [],
+      "type": "邑",
+      "description": "戎人之邑，近卫；庄公登城辱之，戎州人告赵简子，致简子围卫。",
+      "evidence": ["p41"]
+    },
+    {
+      "id": "place:濮阳",
+      "name": "濮阳",
+      "alias": [],
+      "type": "都邑",
+      "description": "卫国后期都城；秦并濮阳入东郡后，卫徙于野王。",
+      "evidence": ["p47"]
+    },
+    {
+      "id": "place:野王",
+      "name": "野王",
+      "alias": ["野王县"],
+      "type": "都邑",
+      "description": "秦置东郡后，卫国迁徙之地。",
+      "evidence": ["p47"]
+    }
+  ],
+  "events": [
+    {
+      "id": "event:三监之乱",
+      "name": "三监之乱",
+      "type": "政治动乱",
+      "description": "武王死后，管叔、蔡叔疑周公，与武庚禄父作乱欲攻成周；周公旦兴师东征平乱，杀武庚禄父、管叔，放蔡叔。",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "event:共和行政",
+      "name": "共和行政",
+      "type": "政治事件",
+      "description": "周厉王出奔彘后，周公、召公共同执政。",
+      "evidence": ["p6"]
+    },
+    {
+      "id": "event:犬戎杀周幽王",
+      "name": "犬戎杀周幽王",
+      "type": "战争",
+      "description": "犬戎杀周幽王，武公将兵佐周平戎有功，周平王命武公为公。",
+      "evidence": ["p8"]
+    },
+    {
+      "id": "event:州吁之乱",
+      "name": "州吁之乱",
+      "type": "弑君",
+      "description": "州吁袭杀桓公而自立，后为石碏与陈侯所谋，被杀于濮。",
+      "evidence": ["p10", "p11"]
+    },
+    {
+      "id": "event:伋寿之死",
+      "name": "伋寿之死",
+      "type": "宫廷悲剧",
+      "description": "宣公令界盗拦截杀太子伋，公子寿盗白旄先驰代死，伋亦被杀；宣公改立朔为太子。",
+      "evidence": ["p12", "p13"]
+    },
+    {
+      "id": "event:左右公子之乱",
+      "name": "左右公子之乱",
+      "type": "政治动乱",
+      "description": "左右公子怨惠公谗杀太子伋而代立，攻逐惠公，立太子伋之弟黔牟为君。",
+      "evidence": ["p13"]
+    },
+    {
+      "id": "event:齐襄公纳惠公",
+      "name": "齐襄公纳惠公",
+      "type": "战争",
+      "description": "齐襄公率诸侯奉王命伐卫，纳卫惠公、诛左右公子，黔牟奔周。",
+      "evidence": ["p14"]
+    },
+    {
+      "id": "event:翟伐卫杀懿公",
+      "name": "翟伐卫杀懿公",
+      "type": "战争",
+      "description": "翟人伐卫，懿公好鹤致兵畔，翟入而杀懿公；卫人怜之，更立昭伯顽之子申为戴公。",
+      "evidence": ["p16", "p17"]
+    },
+    {
+      "id": "event:齐桓公筑楚丘",
+      "name": "齐桓公筑楚丘",
+      "type": "政治事件",
+      "description": "齐桓公因卫数乱，率诸侯伐翟，为卫筑楚丘，立戴公之弟燬为文公。",
+      "evidence": ["p18"]
+    },
+    {
+      "id": "event:元咺之乱",
+      "name": "元咺之乱",
+      "type": "政治动乱",
+      "description": "大夫元咺攻成公，成公出奔；晋文公伐卫，后周为成公请，成公复入而诛元咺。",
+      "evidence": ["p22"]
+    },
+    {
+      "id": "event:孙宁逐献公",
+      "name": "孙宁逐献公",
+      "type": "政治动乱",
+      "description": "孙文子、宁惠子怒而逐献公、立殇公；后宁喜逐孙林父、复纳献公，献公复位后诛宁喜。",
+      "evidence": ["p24", "p25", "p26"]
+    },
+    {
+      "id": "event:太子蒯聩出奔",
+      "name": "太子蒯聩出奔",
+      "type": "宫廷事件",
+      "description": "太子蒯聩与灵公夫人南子有恶，谋使戏阳遬刺之未果，惧而奔宋，已而之晋赵氏。",
+      "evidence": ["p32"]
+    },
+    {
+      "id": "event:孔悝之乱",
+      "name": "孔悝之乱",
+      "type": "政治动乱",
+      "description": "浑良夫引蒯聩潜入孔家，劫孔悝立盟，出公辄奔鲁，子路结缨而死；孔悝终立蒯聩为庄公。",
+      "evidence": ["p37", "p38"]
+    },
+    {
+      "id": "event:赵简子围卫",
+      "name": "赵简子围卫",
+      "type": "战争",
+      "description": "庄公登城辱戎州，戎州告赵简子，简子围卫，庄公出奔，卫人先后立斑师、起为君。",
+      "evidence": ["p41"]
+    },
+    {
+      "id": "event:卫绝祀",
+      "name": "卫绝祀",
+      "type": "政治事件",
+      "description": "君角九年秦并天下立为始皇帝；二十一年秦二世废君角为庶人，卫绝祀。",
+      "evidence": ["p48"]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept:三监",
+      "name": "三监",
+      "type": "制度",
+      "description": "周武王以弟管叔、蔡叔傅相纣子武庚禄父，以监殷遗民，后世称此监殷之制为三监。",
+      "evidence": ["p1"]
+    },
+    {
+      "id": "concept:康诰",
+      "name": "康诰",
+      "type": "典籍",
+      "description": "周公申告康叔之辞，教其求殷之贤者、务爱民，与《酒诰》《梓材》并称，用以训诫康叔治国。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "concept:酒诰",
+      "name": "酒诰",
+      "type": "典籍",
+      "description": "周公戒康叔鉴于纣以淫酒亡国而作。",
+      "evidence": ["p2"]
+    },
+    {
+      "id": "concept:梓材",
+      "name": "梓材",
+      "type": "典籍",
+      "description": "周公所作，取梓人为材之意，示君子可供效法之准则。",
+      "evidence": ["p2", "p3"]
+    },
+    {
+      "id": "concept:司寇",
+      "name": "司寇",
+      "type": "官职",
+      "description": "周朝掌刑狱之官；成王亲政后举康叔为周司寇。",
+      "evidence": ["p3"]
+    },
+    {
+      "id": "concept:方伯",
+      "name": "方伯",
+      "type": "制度",
+      "description": "一方诸侯之长（即州牧）；康伯称伯即方伯之伯，非降爵为伯。",
+      "evidence": ["p5"]
+    },
+    {
+      "id": "concept:白旄",
+      "name": "白旄",
+      "type": "器物",
+      "description": "以旄牛尾为饰的旗；宣公予太子伋白旄，告界盗见持白旄者即杀之。",
+      "evidence": ["p12"]
+    },
+    {
+      "id": "concept:三晋",
+      "name": "三晋",
+      "type": "政治格局",
+      "description": "指韩、赵、魏三家；时三晋强盛，卫如小侯，附属于三晋。",
+      "evidence": ["p43"]
+    },
+    {
+      "id": "concept:君子",
+      "name": "君子",
+      "type": "观念",
+      "description": "延陵季子过卫见其多贤德之士，赞曰「卫多君子，其国无故」。",
+      "evidence": ["p27"]
+    }
+  ]
+}
