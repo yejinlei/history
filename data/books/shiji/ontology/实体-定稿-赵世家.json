@@ -1,0 +1,4985 @@
+{
+ "book": "shiji",
+ "chapter_id": "shiji-趙世家第十三",
+ "title": "赵世家第十三",
+ "juan": "卷四十三",
+ "persons": [
+  {
+   "id": "person:中衍",
+   "name": "中衍",
+   "alias": [],
+   "type": "先祖",
+   "dynasty": "上古",
+   "state": null,
+   "description": "嬴姓，为殷帝大戊驾车，人面鸟噣，为赵、秦共同先祖。",
+   "evidence": [
+    "p0",
+    "p13"
+   ]
+  },
+  {
+   "id": "person:蜚廉",
+   "name": "蜚廉",
+   "alias": [],
+   "type": "先祖",
+   "dynasty": "商",
+   "state": null,
+   "description": "有子二人（恶来、季胜），其后分为秦、赵两支。",
+   "evidence": [
+    "p0"
+   ]
+  },
+  {
+   "id": "person:恶来",
+   "name": "恶来",
+   "alias": [],
+   "type": "先祖",
+   "dynasty": "商",
+   "state": "秦",
+   "description": "蜚廉之子，事纣，为周所杀，其后为秦。",
+   "evidence": [
+    "p0"
+   ]
+  },
+  {
+   "id": "person:季胜",
+   "name": "季胜",
+   "alias": [],
+   "type": "先祖",
+   "dynasty": "商",
+   "state": "赵",
+   "description": "蜚廉之子、恶来之弟，其后为赵。",
+   "evidence": [
+    "p0"
+   ]
+  },
+  {
+   "id": "person:孟增",
+   "name": "孟增",
+   "alias": [
+    "宅皋狼"
+   ],
+   "type": "先祖",
+   "dynasty": "西周",
+   "state": "赵",
+   "description": "季胜之子，幸于周成王，号宅皋狼。",
+   "evidence": [
+    "p1"
+   ]
+  },
+  {
+   "id": "person:衡父",
+   "name": "衡父",
+   "alias": [],
+   "type": "先祖",
+   "dynasty": "西周",
+   "state": "赵",
+   "description": "皋狼之子，造父之父。",
+   "evidence": [
+    "p1"
+   ]
+  },
+  {
+   "id": "person:造父",
+   "name": "造父",
+   "alias": [],
+   "type": "先祖",
+   "dynasty": "西周",
+   "state": "赵",
+   "description": "幸于周穆王，取八骏献之，穆王赐以赵城，赵氏由此得名。",
+   "evidence": [
+    "p1"
+   ]
+  },
+  {
+   "id": "person:奄父",
+   "name": "奄父",
+   "alias": [
+    "公仲"
+   ],
+   "type": "先祖",
+   "dynasty": "西周",
+   "state": "赵",
+   "description": "造父六世孙，周宣王时伐戎为御，千亩之战脱宣王。",
+   "evidence": [
+    "p2"
+   ]
+  },
+  {
+   "id": "person:叔带",
+   "name": "叔带",
+   "alias": [],
+   "type": "先祖",
+   "dynasty": "西周",
+   "state": "赵",
+   "description": "奄父之子，周幽王无道，去周如晋，事晋文侯，始建赵氏于晋。",
+   "evidence": [
+    "p2"
+   ]
+  },
+  {
+   "id": "person:赵夙",
+   "name": "赵夙",
+   "alias": [],
+   "type": "卿",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "晋献公十六年为将伐霍，赐耿。",
+   "evidence": [
+    "p4"
+   ]
+  },
+  {
+   "id": "person:共孟",
+   "name": "共孟",
+   "alias": [],
+   "type": "卿",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "赵夙之子，赵衰之父（《索隐》引《世本》《左传》异说）。",
+   "evidence": [
+    "p5",
+    "p6"
+   ]
+  },
+  {
+   "id": "person:赵衰",
+   "name": "赵衰",
+   "alias": [
+    "成季",
+    "子余"
+   ],
+   "type": "卿",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "从重耳出亡十九年，晋文公时为原大夫，任国政。",
+   "evidence": [
+    "p5",
+    "p6",
+    "p7"
+   ]
+  },
+  {
+   "id": "person:赵盾",
+   "name": "赵盾",
+   "alias": [
+    "宣孟",
+    "宣子"
+   ],
+   "type": "卿",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "赵衰之子，晋襄公、灵公时专晋政；太史书「赵盾弑其君」。",
+   "evidence": [
+    "p8",
+    "p9",
+    "p10"
+   ]
+  },
+  {
+   "id": "person:赵朔",
+   "name": "赵朔",
+   "alias": [],
+   "type": "卿",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "赵盾之子，娶晋成公姊，下宫之难被杀。",
+   "evidence": [
+    "p10",
+    "p11"
+   ]
+  },
+  {
+   "id": "person:赵同",
+   "name": "赵同",
+   "alias": [],
+   "type": "卿",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "赵衰之子，下宫之难被杀。",
+   "evidence": [
+    "p6",
+    "p11"
+   ]
+  },
+  {
+   "id": "person:赵括",
+   "name": "赵括",
+   "alias": [],
+   "type": "卿",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "赵衰之子，下宫之难被杀（与长平之赵括非一人）。",
+   "evidence": [
+    "p6",
+    "p11"
+   ]
+  },
+  {
+   "id": "person:赵婴齐",
+   "name": "赵婴齐",
+   "alias": [],
+   "type": "卿",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "赵衰之子，下宫之难被杀。",
+   "evidence": [
+    "p6",
+    "p11"
+   ]
+  },
+  {
+   "id": "person:赵武",
+   "name": "赵武",
+   "alias": [
+    "文子"
+   ],
+   "type": "卿",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "赵氏孤儿，程婴、公孙杵臼存立之；续赵宗，晋平公时为正卿。",
+   "evidence": [
+    "p13",
+    "p14",
+    "p16"
+   ]
+  },
+  {
+   "id": "person:赵景叔",
+   "name": "赵景叔",
+   "alias": [
+    "成"
+   ],
+   "type": "卿",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "赵武之子，赵鞅（简子）之父。",
+   "evidence": [
+    "p17",
+    "p18"
+   ]
+  },
+  {
+   "id": "person:赵鞅",
+   "name": "赵鞅",
+   "alias": [
+    "简子",
+    "赵简子"
+   ],
+   "type": "卿",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "赵景叔之子，晋顷公至定公时专晋政，梦游帝所、受三神之令。",
+   "evidence": [
+    "p19",
+    "p22",
+    "p25",
+    "p30"
+   ]
+  },
+  {
+   "id": "person:赵毋恤",
+   "name": "赵毋恤",
+   "alias": [
+    "襄子",
+    "赵襄子"
+   ],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "赵简子之子（翟婢所生），立为太子；平代、灭知氏，为赵立国奠基。",
+   "evidence": [
+    "p25",
+    "p33",
+    "p38",
+    "p39"
+   ]
+  },
+  {
+   "id": "person:伯鲁",
+   "name": "伯鲁",
+   "alias": [],
+   "type": "公子",
+   "dynasty": "春秋",
+   "state": "赵",
+   "description": "赵简子太子，被废；其子赵周封代成君。",
+   "evidence": [
+    "p25",
+    "p35",
+    "p39"
+   ]
+  },
+  {
+   "id": "person:代成君",
+   "name": "代成君",
+   "alias": [
+    "赵周"
+   ],
+   "type": "封君",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "伯鲁之子，封代成君，先襄子死。",
+   "evidence": [
+    "p35",
+    "p39"
+   ]
+  },
+  {
+   "id": "person:赵浣",
+   "name": "赵浣",
+   "alias": [
+    "献侯",
+    "献子"
+   ],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "代成君子，襄子立为太子，继位为献侯，治中牟。",
+   "evidence": [
+    "p39",
+    "p40"
+   ]
+  },
+  {
+   "id": "person:桓子",
+   "name": "桓子",
+   "alias": [],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "襄子弟，逐献侯自立于代，一年卒。",
+   "evidence": [
+    "p41"
+   ]
+  },
+  {
+   "id": "person:赵籍",
+   "name": "赵籍",
+   "alias": [
+    "烈侯"
+   ],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "献侯之子，烈侯；好音，纳公仲连所进三士。",
+   "evidence": [
+    "p42",
+    "p44"
+   ]
+  },
+  {
+   "id": "person:赵武公",
+   "name": "赵武公",
+   "alias": [
+    "武公"
+   ],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "烈侯之弟，继立（十三年卒）。",
+   "evidence": [
+    "p45"
+   ]
+  },
+  {
+   "id": "person:赵章",
+   "name": "赵章",
+   "alias": [
+    "敬侯"
+   ],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "烈侯太子，继立为敬侯，赵始都邯郸。",
+   "evidence": [
+    "p45",
+    "p46"
+   ]
+  },
+  {
+   "id": "person:赵种",
+   "name": "赵种",
+   "alias": [
+    "成侯"
+   ],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "敬侯之子，成侯。",
+   "evidence": [
+    "p48",
+    "p49"
+   ]
+  },
+  {
+   "id": "person:公子緤",
+   "name": "公子緤",
+   "alias": [],
+   "type": "公子",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "与太子肃侯争立，败奔韩。",
+   "evidence": [
+    "p51"
+   ]
+  },
+  {
+   "id": "person:赵肃侯",
+   "name": "赵肃侯",
+   "alias": [],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "成侯太子，继立为肃侯。",
+   "evidence": [
+    "p52"
+   ]
+  },
+  {
+   "id": "person:赵雍",
+   "name": "赵雍",
+   "alias": [
+    "武灵王",
+    "主父"
+   ],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "肃侯之子，胡服骑射、灭中山，传国于子何，自号主父，饿死沙丘。",
+   "evidence": [
+    "p56",
+    "p64",
+    "p71",
+    "p78"
+   ]
+  },
+  {
+   "id": "person:公子章",
+   "name": "公子章",
+   "alias": [
+    "代安阳君",
+    "安阳君"
+   ],
+   "type": "公子",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "武灵王长子，废太子，封代安阳君，沙丘之乱被杀。",
+   "evidence": [
+    "p70",
+    "p74",
+    "p78"
+   ]
+  },
+  {
+   "id": "person:赵何",
+   "name": "赵何",
+   "alias": [
+    "惠文王"
+   ],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "武灵王子（惠后吴娃所生），继位为惠文王。",
+   "evidence": [
+    "p71",
+    "p74"
+   ]
+  },
+  {
+   "id": "person:赵丹",
+   "name": "赵丹",
+   "alias": [
+    "孝成王",
+    "太子丹"
+   ],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "惠文王太子，继立为孝成王；纳上党致长平之祸。",
+   "evidence": [
+    "p91",
+    "p95",
+    "p102"
+   ]
+  },
+  {
+   "id": "person:赵偃",
+   "name": "赵偃",
+   "alias": [
+    "悼襄王"
+   ],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "孝成王之子，继立为悼襄王。",
+   "evidence": [
+    "p109"
+   ]
+  },
+  {
+   "id": "person:赵迁",
+   "name": "赵迁",
+   "alias": [
+    "幽缪王"
+   ],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "悼襄王之子，母倡，信谗诛李牧，赵亡被虏。",
+   "evidence": [
+    "p114",
+    "p117",
+    "p119"
+   ]
+  },
+  {
+   "id": "person:赵嘉",
+   "name": "赵嘉",
+   "alias": [
+    "代王嘉"
+   ],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "赵迁之兄（嫡子），赵亡后亡大夫共立为王，王代六岁，秦破之。",
+   "evidence": [
+    "p119"
+   ]
+  },
+  {
+   "id": "person:屠岸贾",
+   "name": "屠岸贾",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "晋景公时司寇，发下宫之难，诛赵氏。",
+   "evidence": [
+    "p11",
+    "p13"
+   ]
+  },
+  {
+   "id": "person:韩厥",
+   "name": "韩厥",
+   "alias": [],
+   "type": "卿",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "掩护赵朔、谋立赵孤，赵氏复兴之关键。",
+   "evidence": [
+    "p11",
+    "p13",
+    "p14"
+   ]
+  },
+  {
+   "id": "person:公孙杵臼",
+   "name": "公孙杵臼",
+   "alias": [],
+   "type": "门客",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "赵朔客，与程婴谋存赵孤，先死。",
+   "evidence": [
+    "p12",
+    "p13"
+   ]
+  },
+  {
+   "id": "person:程婴",
+   "name": "程婴",
+   "alias": [],
+   "type": "门客",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "赵朔友，匿养赵孤，赵武成人后自杀下报。",
+   "evidence": [
+    "p12",
+    "p14"
+   ]
+  },
+  {
+   "id": "person:赵史援",
+   "name": "赵史援",
+   "alias": [],
+   "type": "史官",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "占赵盾之梦，谓赵将世衰。",
+   "evidence": [
+    "p11"
+   ]
+  },
+  {
+   "id": "person:晋灵公",
+   "name": "晋灵公",
+   "alias": [
+    "夷皋"
+   ],
+   "type": "君主",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "晋襄公太子，赵盾所立；骄奢被杀。",
+   "evidence": [
+    "p8",
+    "p9",
+    "p10"
+   ]
+  },
+  {
+   "id": "person:晋襄公",
+   "name": "晋襄公",
+   "alias": [],
+   "type": "君主",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "晋文公之子，赵盾所事之君。",
+   "evidence": [
+    "p7",
+    "p8",
+    "p10"
+   ]
+  },
+  {
+   "id": "person:晋成公",
+   "name": "晋成公",
+   "alias": [
+    "黑臀"
+   ],
+   "type": "君主",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "襄公弟，赵穿弑灵公后所立。",
+   "evidence": [
+    "p10",
+    "p11"
+   ]
+  },
+  {
+   "id": "person:赵穿",
+   "name": "赵穿",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "弑晋灵公，立成公。",
+   "evidence": [
+    "p10"
+   ]
+  },
+  {
+   "id": "person:晋景公",
+   "name": "晋景公",
+   "alias": [],
+   "type": "君主",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "下宫之难时之晋君，后复立赵武。",
+   "evidence": [
+    "p10",
+    "p11",
+    "p13"
+   ]
+  },
+  {
+   "id": "person:晋厉公",
+   "name": "晋厉公",
+   "alias": [],
+   "type": "君主",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "杀三郤，被栾书等所弑。",
+   "evidence": [
+    "p16"
+   ]
+  },
+  {
+   "id": "person:栾书",
+   "name": "栾书",
+   "alias": [],
+   "type": "卿",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "弑晋厉公，立悼公。",
+   "evidence": [
+    "p16"
+   ]
+  },
+  {
+   "id": "person:晋悼公",
+   "name": "晋悼公",
+   "alias": [
+    "周"
+   ],
+   "type": "君主",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "襄公曾孙（一说孙/少子），栾书等所立。",
+   "evidence": [
+    "p16"
+   ]
+  },
+  {
+   "id": "person:晋平公",
+   "name": "晋平公",
+   "alias": [],
+   "type": "君主",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "赵武为正卿时之晋君，晏婴、叔向论晋政所归。",
+   "evidence": [
+    "p17",
+    "p18"
+   ]
+  },
+  {
+   "id": "person:季札",
+   "name": "季札",
+   "alias": [
+    "延陵季子"
+   ],
+   "type": "公子",
+   "dynasty": "春秋",
+   "state": "吴",
+   "description": "吴公子，使晋预言晋政卒归赵、韩、魏三家。",
+   "evidence": [
+    "p17"
+   ]
+  },
+  {
+   "id": "person:韩宣子",
+   "name": "韩宣子",
+   "alias": [],
+   "type": "卿",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "晋卿，六卿之一，季札所论三家之一。",
+   "evidence": [
+    "p17"
+   ]
+  },
+  {
+   "id": "person:魏献子",
+   "name": "魏献子",
+   "alias": [],
+   "type": "卿",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "晋卿，六卿之一，季札所论三家之一。",
+   "evidence": [
+    "p17"
+   ]
+  },
+  {
+   "id": "person:晏婴",
+   "name": "晏婴",
+   "alias": [],
+   "type": "卿",
+   "dynasty": "春秋",
+   "state": "齐",
+   "description": "齐景公使于晋，与叔向论齐政归田氏。",
+   "evidence": [
+    "p18"
+   ]
+  },
+  {
+   "id": "person:叔向",
+   "name": "叔向",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "晋大夫，与晏婴论晋政将归六卿。",
+   "evidence": [
+    "p18"
+   ]
+  },
+  {
+   "id": "person:晋顷公",
+   "name": "晋顷公",
+   "alias": [],
+   "type": "君主",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "赵简子合诸侯戍周、六卿诛祁氏羊舌氏时之晋君。",
+   "evidence": [
+    "p19",
+    "p20",
+    "p21"
+   ]
+  },
+  {
+   "id": "person:董安于",
+   "name": "董安于",
+   "alias": [],
+   "type": "家臣",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "赵简子家臣，范中行之乱中自杀以安赵氏。",
+   "evidence": [
+    "p22",
+    "p27"
+   ]
+  },
+  {
+   "id": "person:阳虎",
+   "name": "阳虎",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "春秋",
+   "state": "鲁",
+   "description": "鲁贼臣，奔赵，赵简子厚遇之，与送卫太子蒯聩。",
+   "evidence": [
+    "p22",
+    "p30"
+   ]
+  },
+  {
+   "id": "person:周敬王",
+   "name": "周敬王",
+   "alias": [],
+   "type": "天子",
+   "dynasty": "东周",
+   "state": "周",
+   "description": "赵简子合诸侯戍周、入敬王于周。",
+   "evidence": [
+    "p20"
+   ]
+  },
+  {
+   "id": "person:王子朝",
+   "name": "王子朝",
+   "alias": [],
+   "type": "王子",
+   "dynasty": "东周",
+   "state": "周",
+   "description": "敬王弟子，作乱，敬王避之入周。",
+   "evidence": [
+    "p20"
+   ]
+  },
+  {
+   "id": "person:孔子",
+   "name": "孔子",
+   "alias": [],
+   "type": "先师",
+   "dynasty": "春秋",
+   "state": "鲁",
+   "description": "书《春秋》「赵鞅以晋阳畔」。",
+   "evidence": [
+    "p28"
+   ]
+  },
+  {
+   "id": "person:周舍",
+   "name": "周舍",
+   "alias": [],
+   "type": "家臣",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "赵简子臣，好直谏，死后简子思其谔谔之言。",
+   "evidence": [
+    "p29"
+   ]
+  },
+  {
+   "id": "person:扁鹊",
+   "name": "扁鹊",
+   "alias": [],
+   "type": "医者",
+   "dynasty": "战国",
+   "state": null,
+   "description": "诊赵简子之疾，预言其三日内必醒而有所言。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:姑布子卿",
+   "name": "姑布子卿",
+   "alias": [],
+   "type": "相者",
+   "dynasty": "春秋",
+   "state": null,
+   "description": "相赵简子诸子，独许毋恤为真将军。",
+   "evidence": [
+    "p26"
+   ]
+  },
+  {
+   "id": "person:蒯聩",
+   "name": "蒯聩",
+   "alias": [
+    "卫太子"
+   ],
+   "type": "公子",
+   "dynasty": "春秋",
+   "state": "卫",
+   "description": "卫太子，赵简子与阳虎送之归卫，卫不纳，居戚。",
+   "evidence": [
+    "p30"
+   ]
+  },
+  {
+   "id": "person:知伯",
+   "name": "知伯",
+   "alias": [
+    "知瑶"
+   ],
+   "type": "卿",
+   "dynasty": "战国",
+   "state": "晋",
+   "description": "晋知氏之伯，伐郑辱毋恤、请地于赵、围晋阳，终为三家所灭。",
+   "evidence": [
+    "p33",
+    "p37",
+    "p38"
+   ]
+  },
+  {
+   "id": "person:知伯文子",
+   "name": "知伯文子",
+   "alias": [
+    "荀栎"
+   ],
+   "type": "卿",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "智文子，范中行之乱中言于晋侯，请皆逐始乱之三臣。",
+   "evidence": [
+    "p27"
+   ]
+  },
+  {
+   "id": "person:荀寅",
+   "name": "荀寅",
+   "alias": [
+    "中行文子"
+   ],
+   "type": "卿",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "中行氏，与赵午善，助范中行作乱，败奔朝歌、柏人，终奔齐。",
+   "evidence": [
+    "p27",
+    "p30",
+    "p31"
+   ]
+  },
+  {
+   "id": "person:范吉射",
+   "name": "范吉射",
+   "alias": [
+    "范昭子"
+   ],
+   "type": "卿",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "范氏，与荀寅同作乱伐赵鞅，败奔朝歌、柏人，终奔齐。",
+   "evidence": [
+    "p27",
+    "p31"
+   ]
+  },
+  {
+   "id": "person:赵午",
+   "name": "赵午",
+   "alias": [
+    "邯郸午"
+   ],
+   "type": "大夫",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "赵鞅同族，别封邯郸，因不肯归卫士五百家被赵鞅所杀。",
+   "evidence": [
+    "p27",
+    "p28"
+   ]
+  },
+  {
+   "id": "person:赵稷",
+   "name": "赵稷",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "赵午之子，以邯郸反。",
+   "evidence": [
+    "p27"
+   ]
+  },
+  {
+   "id": "person:涉宾",
+   "name": "涉宾",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "与赵稷以邯郸反。",
+   "evidence": [
+    "p27"
+   ]
+  },
+  {
+   "id": "person:籍秦",
+   "name": "籍秦",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "晋君所使围邯郸之将。",
+   "evidence": [
+    "p27"
+   ]
+  },
+  {
+   "id": "person:韩不佞",
+   "name": "韩不佞",
+   "alias": [],
+   "type": "卿",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "韩简子，奉公命伐范中行氏。",
+   "evidence": [
+    "p27"
+   ]
+  },
+  {
+   "id": "person:魏哆",
+   "name": "魏哆",
+   "alias": [],
+   "type": "卿",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "魏简子，奉公命伐范中行氏。",
+   "evidence": [
+    "p27"
+   ]
+  },
+  {
+   "id": "person:魏襄",
+   "name": "魏襄",
+   "alias": [],
+   "type": "卿",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "谋逐荀寅、范吉射，以梁婴父、范皋绎代之。",
+   "evidence": [
+    "p27"
+   ]
+  },
+  {
+   "id": "person:梁婴父",
+   "name": "梁婴父",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "晋大夫，拟代荀寅。",
+   "evidence": [
+    "p27"
+   ]
+  },
+  {
+   "id": "person:范皋绎",
+   "name": "范皋绎",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "范氏侧室子，拟代范吉射。",
+   "evidence": [
+    "p27"
+   ]
+  },
+  {
+   "id": "person:张孟同",
+   "name": "张孟同",
+   "alias": [
+    "张孟谈"
+   ],
+   "type": "家臣",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "赵襄子相，晋阳之难夜通韩、魏，共灭知氏（《战国策》作张孟谈，避史迁父讳改）。",
+   "evidence": [
+    "p39"
+   ]
+  },
+  {
+   "id": "person:高共",
+   "name": "高共",
+   "alias": [],
+   "type": "家臣",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "晋阳被围时独不失礼，襄子赏之居首。",
+   "evidence": [
+    "p39"
+   ]
+  },
+  {
+   "id": "person:原过",
+   "name": "原过",
+   "alias": [],
+   "type": "家臣",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "受三神竹书，后主霍泰山祠祀。",
+   "evidence": [
+    "p38",
+    "p39"
+   ]
+  },
+  {
+   "id": "person:代王",
+   "name": "代王",
+   "alias": [],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "代",
+   "description": "赵襄子姊之夫，为襄子所诱杀。",
+   "evidence": [
+    "p36"
+   ]
+  },
+  {
+   "id": "person:代王夫人",
+   "name": "代王夫人",
+   "alias": [],
+   "type": "夫人",
+   "dynasty": "战国",
+   "state": "代",
+   "description": "赵简子女、襄子姊，夫死磨笄自杀，所死地为摩笄之山。",
+   "evidence": [
+    "p36"
+   ]
+  },
+  {
+   "id": "person:楚隆",
+   "name": "楚隆",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "受襄子使慰问吴王。",
+   "evidence": [
+    "p34"
+   ]
+  },
+  {
+   "id": "person:秦穆公",
+   "name": "秦穆公",
+   "alias": [
+    "缪公"
+   ],
+   "type": "君主",
+   "dynasty": "春秋",
+   "state": "秦",
+   "description": "尝梦游帝所七日而寤，扁鹊举以释赵简子之疾。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:公孙支",
+   "name": "公孙支",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "春秋",
+   "state": "秦",
+   "description": "秦大夫，书藏穆公帝所之言。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:子舆",
+   "name": "子舆",
+   "alias": [
+    "子桑"
+   ],
+   "type": "大夫",
+   "dynasty": "春秋",
+   "state": "秦",
+   "description": "秦大夫，与公孙支同受穆公之语。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:晋懿公",
+   "name": "晋懿公",
+   "alias": [
+    "骄"
+   ],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "晋",
+   "description": "知伯所立，昭公曾孙（《索隐》或作哀公）。",
+   "evidence": [
+    "p37"
+   ]
+  },
+  {
+   "id": "person:晋出公",
+   "name": "晋出公",
+   "alias": [],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "晋",
+   "description": "欲伐四卿，奔齐道死。",
+   "evidence": [
+    "p33",
+    "p37"
+   ]
+  },
+  {
+   "id": "person:晋定公",
+   "name": "晋定公",
+   "alias": [],
+   "type": "君主",
+   "dynasty": "春秋",
+   "state": "晋",
+   "description": "黄池争长之晋君，赵简子从之。",
+   "evidence": [
+    "p27",
+    "p32"
+   ]
+  },
+  {
+   "id": "person:魏文侯",
+   "name": "魏文侯",
+   "alias": [],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "魏",
+   "description": "伐中山，与韩、赵相立为诸侯。",
+   "evidence": [
+    "p43"
+   ]
+  },
+  {
+   "id": "person:太子击",
+   "name": "太子击",
+   "alias": [],
+   "type": "公子",
+   "dynasty": "战国",
+   "state": "魏",
+   "description": "魏文侯太子，守中山。",
+   "evidence": [
+    "p43"
+   ]
+  },
+  {
+   "id": "person:公仲连",
+   "name": "公仲连",
+   "alias": [
+    "公仲"
+   ],
+   "type": "相",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "赵烈侯相，进牛畜、荀欣、徐越三士，止赐歌者田。",
+   "evidence": [
+    "p44"
+   ]
+  },
+  {
+   "id": "person:番吾君",
+   "name": "番吾君",
+   "alias": [],
+   "type": "封君",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "自代来，劝公仲连进贤；番吾在常山。",
+   "evidence": [
+    "p44"
+   ]
+  },
+  {
+   "id": "person:牛畜",
+   "name": "牛畜",
+   "alias": [],
+   "type": "贤士",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "公仲连所进，侍烈侯以仁义、约以王道，官为师。",
+   "evidence": [
+    "p44"
+   ]
+  },
+  {
+   "id": "person:荀欣",
+   "name": "荀欣",
+   "alias": [],
+   "type": "贤士",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "公仲连所进，以选练举贤、任官使能事烈侯，官为中尉。",
+   "evidence": [
+    "p44"
+   ]
+  },
+  {
+   "id": "person:徐越",
+   "name": "徐越",
+   "alias": [],
+   "type": "贤士",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "公仲连所进，以节财俭用、察度功德事烈侯，官为内史。",
+   "evidence": [
+    "p44"
+   ]
+  },
+  {
+   "id": "person:太戊午",
+   "name": "太戊午",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "赵成侯之相，肃侯时扣马谏耕事。",
+   "evidence": [
+    "p49",
+    "p53"
+   ]
+  },
+  {
+   "id": "person:韩昭侯",
+   "name": "韩昭侯",
+   "alias": [],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "韩",
+   "description": "与赵成侯遇上党。",
+   "evidence": [
+    "p49"
+   ]
+  },
+  {
+   "id": "person:魏惠王",
+   "name": "魏惠王",
+   "alias": [],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "魏",
+   "description": "围赵邯郸、败于桂陵，后归邯郸与赵盟。",
+   "evidence": [
+    "p49",
+    "p51"
+   ]
+  },
+  {
+   "id": "person:秦献公",
+   "name": "秦献公",
+   "alias": [],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "秦",
+   "description": "使庶长国伐魏少梁，虏魏太子、痤。",
+   "evidence": [
+    "p49"
+   ]
+  },
+  {
+   "id": "person:庶长国",
+   "name": "庶长国",
+   "alias": [],
+   "type": "将军",
+   "dynasty": "战国",
+   "state": "秦",
+   "description": "秦庶长，伐魏少梁，虏魏太子与痤。",
+   "evidence": [
+    "p49"
+   ]
+  },
+  {
+   "id": "person:商君",
+   "name": "商君",
+   "alias": [
+    "商鞅"
+   ],
+   "type": "卿",
+   "dynasty": "战国",
+   "state": "秦",
+   "description": "秦孝公使伐魏，虏魏将公子卬；孝公卒后被诛。",
+   "evidence": [
+    "p52"
+   ]
+  },
+  {
+   "id": "person:公子卬",
+   "name": "公子卬",
+   "alias": [],
+   "type": "将军",
+   "dynasty": "战国",
+   "state": "魏",
+   "description": "魏将，为商君所虏。",
+   "evidence": [
+    "p52"
+   ]
+  },
+  {
+   "id": "person:张仪",
+   "name": "张仪",
+   "alias": [],
+   "type": "相",
+   "dynasty": "战国",
+   "state": "秦",
+   "description": "相秦。",
+   "evidence": [
+    "p55"
+   ]
+  },
+  {
+   "id": "person:秦孝公",
+   "name": "秦孝公",
+   "alias": [],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "秦",
+   "description": "用商君变法，卒于肃侯十二年。",
+   "evidence": [
+    "p52"
+   ]
+  },
+  {
+   "id": "person:赵疵",
+   "name": "赵疵",
+   "alias": [],
+   "type": "将军",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "与秦战，败死于河西，秦取赵蔺、离石。",
+   "evidence": [
+    "p55"
+   ]
+  },
+  {
+   "id": "person:韩举",
+   "name": "韩举",
+   "alias": [],
+   "type": "将军",
+   "dynasty": "战国",
+   "state": "韩",
+   "description": "韩将，与齐、魏战死于桑丘。",
+   "evidence": [
+    "p55"
+   ]
+  },
+  {
+   "id": "person:梁襄王",
+   "name": "梁襄王",
+   "alias": [],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "魏",
+   "description": "与太子嗣朝赵信宫。",
+   "evidence": [
+    "p57"
+   ]
+  },
+  {
+   "id": "person:韩宣王",
+   "name": "韩宣王",
+   "alias": [],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "韩",
+   "description": "与太子仓朝赵信宫。",
+   "evidence": [
+    "p57"
+   ]
+  },
+  {
+   "id": "person:秦惠王",
+   "name": "秦惠王",
+   "alias": [],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "秦",
+   "description": "武灵王十六年卒。",
+   "evidence": [
+    "p61"
+   ]
+  },
+  {
+   "id": "person:李兊",
+   "name": "李兊",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "谏肥义避田不礼之祸；沙丘之乱后为司寇，围主父宫。",
+   "evidence": [
+    "p75",
+    "p78"
+   ]
+  },
+  {
+   "id": "person:肥义",
+   "name": "肥义",
+   "alias": [],
+   "type": "相",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "先王贵臣、惠文王相国，守主父之托，沙丘之乱中先入被杀。",
+   "evidence": [
+    "p57",
+    "p65",
+    "p75",
+    "p78"
+   ]
+  },
+  {
+   "id": "person:信期",
+   "name": "信期",
+   "alias": [
+    "高信"
+   ],
+   "type": "大夫",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "受肥义之托备难，沙丘之乱中与王战。",
+   "evidence": [
+    "p76",
+    "p78"
+   ]
+  },
+  {
+   "id": "person:田不礼",
+   "name": "田不礼",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "主父使相公子章，与章谋乱，沙丘之乱被杀。",
+   "evidence": [
+    "p74",
+    "p78"
+   ]
+  },
+  {
+   "id": "person:公子成",
+   "name": "公子成",
+   "alias": [],
+   "type": "公子",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "武灵王叔父，服胡服佐政；沙丘之乱后为相，号安平君。",
+   "evidence": [
+    "p66",
+    "p78"
+   ]
+  },
+  {
+   "id": "person:吴广",
+   "name": "吴广",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "舜之后，内其女娃嬴（孟姚）于王。",
+   "evidence": [
+    "p61"
+   ]
+  },
+  {
+   "id": "person:吴娃",
+   "name": "吴娃",
+   "alias": [
+    "孟姚",
+    "惠后"
+   ],
+   "type": "夫人",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "吴广之女，武灵王宠妃，生子何（惠文王）。",
+   "evidence": [
+    "p61",
+    "p71"
+   ]
+  },
+  {
+   "id": "person:楼缓",
+   "name": "楼缓",
+   "alias": [],
+   "type": "相",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "赞胡服，后使秦。",
+   "evidence": [
+    "p64",
+    "p69"
+   ]
+  },
+  {
+   "id": "person:王緤",
+   "name": "王緤",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "奉命告公子成胡服，后作乱被杀。",
+   "evidence": [
+    "p66"
+   ]
+  },
+  {
+   "id": "person:赵文",
+   "name": "赵文",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "谏止胡服，武灵王以「便国不必古」驳之。",
+   "evidence": [
+    "p68"
+   ]
+  },
+  {
+   "id": "person:赵造",
+   "name": "赵造",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "谏止胡服者之一。",
+   "evidence": [
+    "p68"
+   ]
+  },
+  {
+   "id": "person:周袑",
+   "name": "周袑",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "谏止胡服者，后胡服傅王子何。",
+   "evidence": [
+    "p68",
+    "p70"
+   ]
+  },
+  {
+   "id": "person:赵俊",
+   "name": "赵俊",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "谏止胡服者之一。",
+   "evidence": [
+    "p68"
+   ]
+  },
+  {
+   "id": "person:赵豹",
+   "name": "赵豹",
+   "alias": [
+    "阳文君",
+    "平阳君"
+   ],
+   "type": "封君",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "赵相，谏孝成王勿受上党，言「圣人甚祸无故之利」。",
+   "evidence": [
+    "p57",
+    "p100",
+    "p101"
+   ]
+  },
+  {
+   "id": "person:赵胜",
+   "name": "赵胜",
+   "alias": [
+    "平原君"
+   ],
+   "type": "封君",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "赵相，受上党地，如楚请救解邯郸之围。",
+   "evidence": [
+    "p101",
+    "p104",
+    "p106"
+   ]
+  },
+  {
+   "id": "person:赵禹",
+   "name": "赵禹",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "与平原君共劝孝成王受上党。",
+   "evidence": [
+    "p101"
+   ]
+  },
+  {
+   "id": "person:蔺相如",
+   "name": "蔺相如",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "攻齐至平邑。",
+   "evidence": [
+    "p94"
+   ]
+  },
+  {
+   "id": "person:廉颇",
+   "name": "廉颇",
+   "alias": [],
+   "type": "将军",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "赵名将，破齐、破燕，封信平君；晚年攻乐乘、亡入魏。",
+   "evidence": [
+    "p88",
+    "p106",
+    "p109"
+   ]
+  },
+  {
+   "id": "person:赵奢",
+   "name": "赵奢",
+   "alias": [
+    "马服君"
+   ],
+   "type": "将军",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "破秦于阏与下，赐号马服君；赵括之父。",
+   "evidence": [
+    "p94"
+   ]
+  },
+  {
+   "id": "person:冯亭",
+   "name": "冯亭",
+   "alias": [],
+   "type": "守",
+   "dynasty": "战国",
+   "state": "韩",
+   "description": "韩上党守，以上党十七城入赵，自守三不义，后战死长平。",
+   "evidence": [
+    "p100",
+    "p101"
+   ]
+  },
+  {
+   "id": "person:乐毅",
+   "name": "乐毅",
+   "alias": [],
+   "type": "将军",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "赵相国，率五国之师攻齐取灵丘。",
+   "evidence": [
+    "p89"
+   ]
+  },
+  {
+   "id": "person:乐乘",
+   "name": "乐乘",
+   "alias": [],
+   "type": "将军",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "赵将，破秦信梁军；封武襄君，后为廉颇所攻而走。",
+   "evidence": [
+    "p106",
+    "p108"
+   ]
+  },
+  {
+   "id": "person:庆舍",
+   "name": "庆舍",
+   "alias": [],
+   "type": "将军",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "赵将，攻秦信梁军；后守河梁。",
+   "evidence": [
+    "p106",
+    "p112"
+   ]
+  },
+  {
+   "id": "person:栗腹",
+   "name": "栗腹",
+   "alias": [],
+   "type": "相",
+   "dynasty": "战国",
+   "state": "燕",
+   "description": "燕丞相，约欢于赵，归而言赵可伐，为廉颇所破杀。",
+   "evidence": [
+    "p106"
+   ]
+  },
+  {
+   "id": "person:卿秦",
+   "name": "卿秦",
+   "alias": [],
+   "type": "将军",
+   "dynasty": "战国",
+   "state": "燕",
+   "description": "燕将，攻代，为廉颇所虏。",
+   "evidence": [
+    "p106"
+   ]
+  },
+  {
+   "id": "person:乐閒",
+   "name": "乐閒",
+   "alias": [
+    "乐间"
+   ],
+   "type": "封君",
+   "dynasty": "战国",
+   "state": "燕",
+   "description": "燕昌国君，谏燕王勿伐赵，不听，后为廉颇所虏。",
+   "evidence": [
+    "p106"
+   ]
+  },
+  {
+   "id": "person:剧辛",
+   "name": "剧辛",
+   "alias": [],
+   "type": "将军",
+   "dynasty": "战国",
+   "state": "燕",
+   "description": "燕将，为庞煖所禽。",
+   "evidence": [
+    "p112"
+   ]
+  },
+  {
+   "id": "person:庞煖",
+   "name": "庞煖",
+   "alias": [],
+   "type": "将军",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "赵将，禽剧辛，率四国之师攻秦蕞不拔。",
+   "evidence": [
+    "p112"
+   ]
+  },
+  {
+   "id": "person:李牧",
+   "name": "李牧",
+   "alias": [
+    "武安君"
+   ],
+   "type": "将军",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "赵名将，破燕、屡却秦军，封武安君；终被谗诛。",
+   "evidence": [
+    "p111",
+    "p115",
+    "p117"
+   ]
+  },
+  {
+   "id": "person:司马尚",
+   "name": "司马尚",
+   "alias": [],
+   "type": "将军",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "赵将，与李牧共击秦，李牧死后被免。",
+   "evidence": [
+    "p117"
+   ]
+  },
+  {
+   "id": "person:颜聚",
+   "name": "颜聚",
+   "alias": [],
+   "type": "将军",
+   "dynasty": "战国",
+   "state": "齐",
+   "description": "齐将，代李牧、司马尚击秦，军破亡去。",
+   "evidence": [
+    "p117"
+   ]
+  },
+  {
+   "id": "person:扈辄",
+   "name": "扈辄",
+   "alias": [],
+   "type": "将军",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "赵将，救武城，军败死。",
+   "evidence": [
+    "p114"
+   ]
+  },
+  {
+   "id": "person:郭开",
+   "name": "郭开",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "赵王迁所信之谗臣，谗杀李牧。",
+   "evidence": [
+    "p119"
+   ]
+  },
+  {
+   "id": "person:泄钧",
+   "name": "泄钧",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "为春平君说秦文信侯遣之归赵。",
+   "evidence": [
+    "p111"
+   ]
+  },
+  {
+   "id": "person:文信侯",
+   "name": "文信侯",
+   "alias": [
+    "吕不韦"
+   ],
+   "type": "相",
+   "dynasty": "战国",
+   "state": "秦",
+   "description": "秦相，扣留春平君，纳泄钧之说得而遣之。",
+   "evidence": [
+    "p111"
+   ]
+  },
+  {
+   "id": "person:春平君",
+   "name": "春平君",
+   "alias": [],
+   "type": "封君",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "赵太子（一说），为秦所召留，后得遣归。",
+   "evidence": [
+    "p111"
+   ]
+  },
+  {
+   "id": "person:触龙",
+   "name": "触龙",
+   "alias": [
+    "左师触龙"
+   ],
+   "type": "大夫",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "赵左师，说赵太后以长安君质齐，齐兵乃出。",
+   "evidence": [
+    "p96"
+   ]
+  },
+  {
+   "id": "person:燕后",
+   "name": "燕后",
+   "alias": [],
+   "type": "夫人",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "赵太后之女，嫁于燕，触龙借以喻爱子之计深远。",
+   "evidence": [
+    "p96"
+   ]
+  },
+  {
+   "id": "person:长安君",
+   "name": "长安君",
+   "alias": [],
+   "type": "封君",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "赵太后少子，质于齐以请救兵。",
+   "evidence": [
+    "p96",
+    "p97"
+   ]
+  },
+  {
+   "id": "person:子义",
+   "name": "子义",
+   "alias": [],
+   "type": "贤人",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "赵之贤人，论人主之子不能恃无功之尊。",
+   "evidence": [
+    "p97"
+   ]
+  },
+  {
+   "id": "person:田单",
+   "name": "田单",
+   "alias": [
+    "安平君"
+   ],
+   "type": "相",
+   "dynasty": "战国",
+   "state": "齐",
+   "description": "齐安平君，率赵师攻燕中阳、韩注人，后为赵相。",
+   "evidence": [
+    "p98"
+   ]
+  },
+  {
+   "id": "person:冯王孙",
+   "name": "冯王孙",
+   "alias": [],
+   "type": "士",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "冯唐之后，太史公闻其论赵王迁之亡。",
+   "evidence": [
+    "p119"
+   ]
+  },
+  {
+   "id": "person:秦武王",
+   "name": "秦武王",
+   "alias": [],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "秦",
+   "description": "举龙文赤鼎，绝膑而死。",
+   "evidence": [
+    "p63"
+   ]
+  },
+  {
+   "id": "person:孟说",
+   "name": "孟说",
+   "alias": [],
+   "type": "力士",
+   "dynasty": "战国",
+   "state": "秦",
+   "description": "与秦武王举鼎，武王绝膑而死。",
+   "evidence": [
+    "p63"
+   ]
+  },
+  {
+   "id": "person:齐景公",
+   "name": "齐景公",
+   "alias": [],
+   "type": "君主",
+   "dynasty": "春秋",
+   "state": "齐",
+   "description": "使晏婴于晋，晏婴论齐政归田氏。",
+   "evidence": [
+    "p18"
+   ]
+  },
+  {
+   "id": "person:秦昭王",
+   "name": "秦昭王",
+   "alias": [
+    "公子稷"
+   ],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "秦",
+   "description": "赵武灵王自燕迎立为秦王；主父诈为使者入秦，昭王惊异。",
+   "evidence": [
+    "p63",
+    "p72"
+   ]
+  },
+  {
+   "id": "person:燕昭王",
+   "name": "燕昭王",
+   "alias": [],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "燕",
+   "description": "来见赵王，与赵共击齐。",
+   "evidence": [
+    "p80"
+   ]
+  },
+  {
+   "id": "person:代相赵固",
+   "name": "代相赵固",
+   "alias": [
+    "赵固"
+   ],
+   "type": "相",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "赵代相，迎公子稷于燕，主胡致兵。",
+   "evidence": [
+    "p63",
+    "p69"
+   ]
+  },
+  {
+   "id": "person:仇液",
+   "name": "仇液",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "武灵王遣之使韩。",
+   "evidence": [
+    "p69"
+   ]
+  },
+  {
+   "id": "person:王贲",
+   "name": "王贲",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "武灵王遣之使楚。",
+   "evidence": [
+    "p69"
+   ]
+  },
+  {
+   "id": "person:富丁",
+   "name": "富丁",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "武灵王遣之使魏。",
+   "evidence": [
+    "p69"
+   ]
+  },
+  {
+   "id": "person:赵爵",
+   "name": "赵爵",
+   "alias": [],
+   "type": "大夫",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "武灵王遣之使齐。",
+   "evidence": [
+    "p69"
+   ]
+  },
+  {
+   "id": "person:许钧",
+   "name": "许钧",
+   "alias": [],
+   "type": "将军",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "攻中山时为左军。",
+   "evidence": [
+    "p70"
+   ]
+  },
+  {
+   "id": "person:牛翦",
+   "name": "牛翦",
+   "alias": [],
+   "type": "将军",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "攻中山时将车骑。",
+   "evidence": [
+    "p70"
+   ]
+  },
+  {
+   "id": "person:赵希",
+   "name": "赵希",
+   "alias": [],
+   "type": "将军",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "攻中山时并将胡、代之兵。",
+   "evidence": [
+    "p70"
+   ]
+  },
+  {
+   "id": "person:楼昌",
+   "name": "楼昌",
+   "alias": [],
+   "type": "将军",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "攻魏几不能取。",
+   "evidence": [
+    "p92"
+   ]
+  },
+  {
+   "id": "person:燕周",
+   "name": "燕周",
+   "alias": [],
+   "type": "将军",
+   "dynasty": "战国",
+   "state": "赵",
+   "description": "攻昌城、高唐，取之。",
+   "evidence": [
+    "p92"
+   ]
+  },
+  {
+   "id": "person:白起",
+   "name": "白起",
+   "alias": [],
+   "type": "将军",
+   "dynasty": "战国",
+   "state": "秦",
+   "description": "秦将，破赵于华阳；长平之战坑赵降卒四十万。",
+   "evidence": [
+    "p92",
+    "p102"
+   ]
+  },
+  {
+   "id": "person:秦王政",
+   "name": "秦王政",
+   "alias": [
+    "秦始皇"
+   ],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "秦",
+   "description": "初立之年，秦拔赵晋阳，终灭赵设郡。",
+   "evidence": [
+    "p108"
+   ]
+  },
+  {
+   "id": "person:成安君公孙操",
+   "name": "成安君公孙操",
+   "alias": [
+    "公孙操"
+   ],
+   "type": "封君",
+   "dynasty": "战国",
+   "state": "燕",
+   "description": "燕将，弑其王。",
+   "evidence": [
+    "p94"
+   ]
+  },
+  {
+   "id": "person:苏厉",
+   "name": "苏厉",
+   "alias": [],
+   "type": "游士",
+   "dynasty": "战国",
+   "state": "齐",
+   "description": "为齐遗书赵王，说其勿与秦攻齐。",
+   "evidence": [
+    "p81",
+    "p83"
+   ]
+  },
+  {
+   "id": "person:燕王",
+   "name": "燕王",
+   "alias": [
+    "燕王喜"
+   ],
+   "type": "君主",
+   "dynasty": "战国",
+   "state": "燕",
+   "description": "用栗腹之谋伐赵，败。",
+   "evidence": [
+    "p106"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "id": "place:赵",
+   "name": "赵",
+   "alias": [
+    "赵国",
+    "赵氏"
+   ],
+   "type": "国",
+   "description": "嬴姓，与秦同祖；自造父受封赵城得名，后为三晋之一，都邯郸，终为秦灭。",
+   "evidence": [
+    "p0",
+    "p1",
+    "p30",
+    "p119"
+   ]
+  },
+  {
+   "id": "place:赵城",
+   "name": "赵城",
+   "alias": [],
+   "type": "邑",
+   "description": "周穆王赐造父之邑，赵氏由此得名。",
+   "evidence": [
+    "p1"
+   ]
+  },
+  {
+   "id": "place:耿",
+   "name": "耿",
+   "alias": [],
+   "type": "邑",
+   "description": "晋献公赐赵夙之邑（《索隐》谓今河东皮氏县耿乡）。",
+   "evidence": [
+    "p4"
+   ]
+  },
+  {
+   "id": "place:原",
+   "name": "原",
+   "alias": [],
+   "type": "邑",
+   "description": "赵衰为原大夫所居（《括地志》谓故原城在怀州济原县西北）。",
+   "evidence": [
+    "p6"
+   ]
+  },
+  {
+   "id": "place:晋阳",
+   "name": "晋阳",
+   "alias": [],
+   "type": "邑",
+   "description": "赵氏之根基，简子奔保、襄子被围之城，终以汾水灌城、三家灭知氏。",
+   "evidence": [
+    "p26",
+    "p38",
+    "p39"
+   ]
+  },
+  {
+   "id": "place:邯郸",
+   "name": "邯郸",
+   "alias": [],
+   "type": "都邑",
+   "description": "赵地，赵午所守；敬侯时始为赵都，战国间数被魏围拔、终没于秦。",
+   "evidence": [
+    "p27",
+    "p46",
+    "p51",
+    "p118"
+   ]
+  },
+  {
+   "id": "place:柏人",
+   "name": "柏人",
+   "alias": [],
+   "type": "邑",
+   "description": "中行文子所奔，简子围之；后幽缪王筑城于此。",
+   "evidence": [
+    "p31",
+    "p114"
+   ]
+  },
+  {
+   "id": "place:朝歌",
+   "name": "朝歌",
+   "alias": [],
+   "type": "邑",
+   "description": "范、中行作乱后所奔，简子围之于朝歌。",
+   "evidence": [
+    "p27",
+    "p30"
+   ]
+  },
+  {
+   "id": "place:中牟",
+   "name": "中牟",
+   "alias": [],
+   "type": "都邑",
+   "description": "赵献侯所治（《索隐》谓此赵中牟在河北，非郑之中牟）。",
+   "evidence": [
+    "p40"
+   ]
+  },
+  {
+   "id": "place:平邑",
+   "name": "平邑",
+   "alias": [],
+   "type": "邑",
+   "description": "献侯十三年城平邑（一说魏州昌乐县东北之平邑）。",
+   "evidence": [
+    "p42",
+    "p94",
+    "p111"
+   ]
+  },
+  {
+   "id": "place:代",
+   "name": "代",
+   "alias": [
+    "代地"
+   ],
+   "type": "国/郡",
+   "description": "襄子平代杀代王而据之，后为赵北境；赵亡后代王嘉王代。",
+   "evidence": [
+    "p35",
+    "p36",
+    "p69",
+    "p119"
+   ]
+  },
+  {
+   "id": "place:夏屋",
+   "name": "夏屋",
+   "alias": [
+    "贾屋山"
+   ],
+   "type": "山",
+   "description": "襄子宴杀代王处（在代州雁门县东北三十五里）。",
+   "evidence": [
+    "p36"
+   ]
+  },
+  {
+   "id": "place:摩笄之山",
+   "name": "摩笄之山",
+   "alias": [
+    "磨笄山"
+   ],
+   "type": "山",
+   "description": "代王夫人磨笄自杀处，代人名之（在蔚州飞狐县东北）。",
+   "evidence": [
+    "p36"
+   ]
+  },
+  {
+   "id": "place:霍太山",
+   "name": "霍太山",
+   "alias": [
+    "霍泰山",
+    "霍山"
+   ],
+   "type": "山",
+   "description": "赵氏所奉之神山，原过主其祠祀，三神之令出于此。",
+   "evidence": [
+    "p4",
+    "p37",
+    "p38",
+    "p39"
+   ]
+  },
+  {
+   "id": "place:常山",
+   "name": "常山",
+   "alias": [
+    "恒山"
+   ],
+   "type": "山",
+   "description": "简子藏宝符处，毋恤登而临代；赵东境之险。",
+   "evidence": [
+    "p25",
+    "p67",
+    "p84"
+   ]
+  },
+  {
+   "id": "place:绛",
+   "name": "绛",
+   "alias": [],
+   "type": "都邑",
+   "description": "晋都，赵鞅入绛盟于公宫。",
+   "evidence": [
+    "p27"
+   ]
+  },
+  {
+   "id": "place:晋",
+   "name": "晋",
+   "alias": [
+    "晋国"
+   ],
+   "type": "国",
+   "description": "叔带奔晋始建赵氏，赵氏世为晋卿，终以六卿分晋。",
+   "evidence": [
+    "p2",
+    "p27",
+    "p48"
+   ]
+  },
+  {
+   "id": "place:周",
+   "name": "周",
+   "alias": [
+    "周室"
+   ],
+   "type": "王朝",
+   "description": "赵简子戍周、入敬王于周；王畿之地。",
+   "evidence": [
+    "p19",
+    "p20"
+   ]
+  },
+  {
+   "id": "place:秦",
+   "name": "秦",
+   "alias": [],
+   "type": "国",
+   "description": "赵之同祖之国，战国中后期为赵主要强敌，终灭赵。",
+   "evidence": [
+    "p0",
+    "p33",
+    "p119"
+   ]
+  },
+  {
+   "id": "place:齐",
+   "name": "齐",
+   "alias": [],
+   "type": "国",
+   "description": "与赵或合或攻，事赵以齐为难。",
+   "evidence": [
+    "p31",
+    "p66",
+    "p106"
+   ]
+  },
+  {
+   "id": "place:楚",
+   "name": "楚",
+   "alias": [],
+   "type": "国",
+   "description": "赵借兵于楚伐魏；赵以灵丘封楚相春申君。",
+   "evidence": [
+    "p43",
+    "p103"
+   ]
+  },
+  {
+   "id": "place:燕",
+   "name": "燕",
+   "alias": [],
+   "type": "国",
+   "description": "赵之东北邻国，与赵屡相攻伐，终为赵所屡攻。",
+   "evidence": [
+    "p64",
+    "p80",
+    "p106"
+   ]
+  },
+  {
+   "id": "place:韩",
+   "name": "韩",
+   "alias": [],
+   "type": "国",
+   "description": "三晋之一，与赵或合或争；韩上党入赵致长平之祸。",
+   "evidence": [
+    "p49",
+    "p100"
+   ]
+  },
+  {
+   "id": "place:魏",
+   "name": "魏",
+   "alias": [],
+   "type": "国",
+   "description": "三晋之一，围赵邯郸、败于桂陵，后与赵盟。",
+   "evidence": [
+    "p37",
+    "p51"
+   ]
+  },
+  {
+   "id": "place:中山",
+   "name": "中山",
+   "alias": [],
+   "type": "国",
+   "description": "古鲜虞国，姬姓；赵武灵王攻灭之，迁其王于肤施。",
+   "evidence": [
+    "p42",
+    "p64",
+    "p70",
+    "p74"
+   ]
+  },
+  {
+   "id": "place:林胡",
+   "name": "林胡",
+   "alias": [],
+   "type": "族/地",
+   "description": "赵西北胡族，武灵王略其地，三神之令许赐林胡之地。",
+   "evidence": [
+    "p38",
+    "p64"
+   ]
+  },
+  {
+   "id": "place:楼烦",
+   "name": "楼烦",
+   "alias": [],
+   "type": "族/地",
+   "description": "赵西北胡族，武灵王西遇楼烦王而致其兵。",
+   "evidence": [
+    "p64",
+    "p73"
+   ]
+  },
+  {
+   "id": "place:东胡",
+   "name": "东胡",
+   "alias": [],
+   "type": "族/地",
+   "description": "赵东北胡族，后叛赵，赵取东胡欧代地。",
+   "evidence": [
+    "p64",
+    "p92"
+   ]
+  },
+  {
+   "id": "place:榆中",
+   "name": "榆中",
+   "alias": [],
+   "type": "地",
+   "description": "武灵王西略胡地所至（胜州北河北岸）。",
+   "evidence": [
+    "p69"
+   ]
+  },
+  {
+   "id": "place:云中",
+   "name": "云中",
+   "alias": [],
+   "type": "郡",
+   "description": "武灵王攘地所至，欲从云中、九原直南袭秦。",
+   "evidence": [
+    "p70",
+    "p72"
+   ]
+  },
+  {
+   "id": "place:九原",
+   "name": "九原",
+   "alias": [],
+   "type": "郡",
+   "description": "武灵王攘地所至。",
+   "evidence": [
+    "p70",
+    "p72"
+   ]
+  },
+  {
+   "id": "place:信宫",
+   "name": "信宫",
+   "alias": [],
+   "type": "宫",
+   "description": "武灵王大朝、议天下、传国之处。",
+   "evidence": [
+    "p57",
+    "p64",
+    "p71"
+   ]
+  },
+  {
+   "id": "place:沙丘",
+   "name": "沙丘",
+   "alias": [],
+   "type": "宫",
+   "description": "主父与王异宫游处，公子章作乱，主父饿死于此。",
+   "evidence": [
+    "p78"
+   ]
+  },
+  {
+   "id": "place:灵寿",
+   "name": "灵寿",
+   "alias": [],
+   "type": "邑",
+   "description": "中山桓公所徙，武灵王灭中山后营之。",
+   "evidence": [
+    "p74"
+   ]
+  },
+  {
+   "id": "place:肤施",
+   "name": "肤施",
+   "alias": [],
+   "type": "邑",
+   "description": "中山王所迁之地（今延州肤施县）。",
+   "evidence": [
+    "p74"
+   ]
+  },
+  {
+   "id": "place:鄗",
+   "name": "鄗",
+   "alias": [],
+   "type": "邑",
+   "description": "中山所围、赵所取；燕栗腹攻鄗。",
+   "evidence": [
+    "p67",
+    "p70",
+    "p106"
+   ]
+  },
+  {
+   "id": "place:石邑",
+   "name": "石邑",
+   "alias": [],
+   "type": "邑",
+   "description": "武灵王攻中山所取（恒州鹿泉县南）。",
+   "evidence": [
+    "p70"
+   ]
+  },
+  {
+   "id": "place:封龙",
+   "name": "封龙",
+   "alias": [
+    "飞龙山"
+   ],
+   "type": "山/邑",
+   "description": "武灵王攻中山所取（恒州鹿泉县南）。",
+   "evidence": [
+    "p70"
+   ]
+  },
+  {
+   "id": "place:东垣",
+   "name": "东垣",
+   "alias": [],
+   "type": "邑",
+   "description": "武灵王攻中山所取。",
+   "evidence": [
+    "p70"
+   ]
+  },
+  {
+   "id": "place:宁葭",
+   "name": "宁葭",
+   "alias": [
+    "蔓葭"
+   ],
+   "type": "邑",
+   "description": "武灵王略中山地所至，县名在中山。",
+   "evidence": [
+    "p69"
+   ]
+  },
+  {
+   "id": "place:房子",
+   "name": "房子",
+   "alias": [],
+   "type": "邑",
+   "description": "赵与中山战处，武灵王北略所至。",
+   "evidence": [
+    "p47",
+    "p64",
+    "p92"
+   ]
+  },
+  {
+   "id": "place:曲阳",
+   "name": "曲阳",
+   "alias": [
+    "上曲阳"
+   ],
+   "type": "邑",
+   "description": "赵与诸军合军集结之处（常山郡上曲阳）。",
+   "evidence": [
+    "p70"
+   ]
+  },
+  {
+   "id": "place:漳水",
+   "name": "漳水",
+   "alias": [],
+   "type": "水",
+   "description": "赵、魏盟于漳水上；赵屡徙漳水于武平。",
+   "evidence": [
+    "p51",
+    "p91",
+    "p93"
+   ]
+  },
+  {
+   "id": "place:滏水",
+   "name": "滏水",
+   "alias": [],
+   "type": "水",
+   "description": "赵南境之险，与漳水并称。",
+   "evidence": [
+    "p64"
+   ]
+  },
+  {
+   "id": "place:薄洛之水",
+   "name": "薄洛之水",
+   "alias": [
+    "薄洛津"
+   ],
+   "type": "水",
+   "description": "赵东境之水，与齐、中山共有，须舟楫之备。",
+   "evidence": [
+    "p67"
+   ]
+  },
+  {
+   "id": "place:黄河",
+   "name": "黄河",
+   "alias": [
+    "河"
+   ],
+   "type": "水",
+   "description": "赵西、南之巨浸，赵简子与楚战河上、决河水灌敌皆在此。",
+   "evidence": [
+    "p66",
+    "p89"
+   ]
+  },
+  {
+   "id": "place:蔺",
+   "name": "蔺",
+   "alias": [],
+   "type": "邑",
+   "description": "赵西境边邑，屡被秦取。",
+   "evidence": [
+    "p49",
+    "p55",
+    "p60"
+   ]
+  },
+  {
+   "id": "place:离石",
+   "name": "离石",
+   "alias": [],
+   "type": "邑",
+   "description": "赵西境边邑，为秦所取。",
+   "evidence": [
+    "p55"
+   ]
+  },
+  {
+   "id": "place:长子",
+   "name": "长子",
+   "alias": [],
+   "type": "邑",
+   "description": "韩与赵交换之地（上党有长子县）。",
+   "evidence": [
+    "p49"
+   ]
+  },
+  {
+   "id": "place:端氏",
+   "name": "端氏",
+   "alias": [],
+   "type": "邑",
+   "description": "赵封晋君之地，肃侯夺之徙晋君于屯留。",
+   "evidence": [
+    "p50",
+    "p52"
+   ]
+  },
+  {
+   "id": "place:屯留",
+   "name": "屯留",
+   "alias": [],
+   "type": "邑",
+   "description": "晋君所徙处（潞州长子县东北）。",
+   "evidence": [
+    "p52"
+   ]
+  },
+  {
+   "id": "place:阴晋",
+   "name": "阴晋",
+   "alias": [],
+   "type": "邑",
+   "description": "肃侯与魏惠王相遇处（华阴县，魏之阴晋）。",
+   "evidence": [
+    "p52"
+   ]
+  },
+  {
+   "id": "place:高唐",
+   "name": "高唐",
+   "alias": [],
+   "type": "邑",
+   "description": "肃侯攻齐所拔。",
+   "evidence": [
+    "p52"
+   ]
+  },
+  {
+   "id": "place:大陵",
+   "name": "大陵",
+   "alias": [
+    "陆"
+   ],
+   "type": "邑",
+   "description": "肃侯、武灵王游处（并州文水县北）。",
+   "evidence": [
+    "p53",
+    "p61"
+   ]
+  },
+  {
+   "id": "place:鹿门",
+   "name": "鹿门",
+   "alias": [],
+   "type": "地",
+   "description": "肃侯出游所出，太戊午扣马谏处。",
+   "evidence": [
+    "p53"
+   ]
+  },
+  {
+   "id": "place:桑丘",
+   "name": "桑丘",
+   "alias": [],
+   "type": "邑",
+   "description": "韩举与齐魏战死之地。",
+   "evidence": [
+    "p55"
+   ]
+  },
+  {
+   "id": "place:观泽",
+   "name": "观泽",
+   "alias": [],
+   "type": "邑",
+   "description": "齐败赵处（魏州顿丘县东）。",
+   "evidence": [
+    "p60"
+   ]
+  },
+  {
+   "id": "place:中阳",
+   "name": "中阳",
+   "alias": [],
+   "type": "邑",
+   "description": "秦所取、赵与秦会盟处。",
+   "evidence": [
+    "p60",
+    "p80"
+   ]
+  },
+  {
+   "id": "place:临菑",
+   "name": "临菑",
+   "alias": [
+    "临淄"
+   ],
+   "type": "都邑",
+   "description": "齐都，燕独深入取之。",
+   "evidence": [
+    "p80"
+   ]
+  },
+  {
+   "id": "place:灵丘",
+   "name": "灵丘",
+   "alias": [],
+   "type": "邑",
+   "description": "乐毅取之；赵以灵丘封楚相春申君。",
+   "evidence": [
+    "p80",
+    "p103"
+   ]
+  },
+  {
+   "id": "place:繁阳",
+   "name": "繁阳",
+   "alias": [],
+   "type": "邑",
+   "description": "廉颇所取（相州内黄县东北）。",
+   "evidence": [
+    "p109"
+   ]
+  },
+  {
+   "id": "place:元氏",
+   "name": "元氏",
+   "alias": [],
+   "type": "邑",
+   "description": "孝成王筑城处（常山有元氏县）。",
+   "evidence": [
+    "p105"
+   ]
+  },
+  {
+   "id": "place:榆次",
+   "name": "榆次",
+   "alias": [],
+   "type": "邑",
+   "description": "秦拔赵榆次等三十七城。",
+   "evidence": [
+    "p108"
+   ]
+  },
+  {
+   "id": "place:武遂",
+   "name": "武遂",
+   "alias": [],
+   "type": "邑",
+   "description": "李牧攻燕所拔。",
+   "evidence": [
+    "p111"
+   ]
+  },
+  {
+   "id": "place:方城",
+   "name": "方城",
+   "alias": [],
+   "type": "邑",
+   "description": "李牧攻燕所拔（幽州固安县南）。",
+   "evidence": [
+    "p111"
+   ]
+  },
+  {
+   "id": "place:饶安",
+   "name": "饶安",
+   "alias": [],
+   "type": "邑",
+   "description": "庞煖移攻齐所取（沧州）。",
+   "evidence": [
+    "p112"
+   ]
+  },
+  {
+   "id": "place:邺",
+   "name": "邺",
+   "alias": [],
+   "type": "邑",
+   "description": "魏与赵之邑，后为秦所拔。",
+   "evidence": [
+    "p112",
+    "p113"
+   ]
+  },
+  {
+   "id": "place:宜安",
+   "name": "宜安",
+   "alias": [],
+   "type": "邑",
+   "description": "秦攻赵处，李牧与战于肥下却之。",
+   "evidence": [
+    "p115"
+   ]
+  },
+  {
+   "id": "place:肥下",
+   "name": "肥下",
+   "alias": [
+    "肥累"
+   ],
+   "type": "地",
+   "description": "李牧破秦之地（恒州稿城县西，春秋肥子国）。",
+   "evidence": [
+    "p115"
+   ]
+  },
+  {
+   "id": "place:番吾",
+   "name": "番吾",
+   "alias": [
+    "蒲吾"
+   ],
+   "type": "邑",
+   "description": "秦攻赵处，李牧却之。",
+   "evidence": [
+    "p115"
+   ]
+  },
+  {
+   "id": "place:平阴",
+   "name": "平阴",
+   "alias": [],
+   "type": "邑",
+   "description": "代地大动所至之北界（在汾，赵界）。",
+   "evidence": [
+    "p116"
+   ]
+  },
+  {
+   "id": "place:钜鹿",
+   "name": "钜鹿",
+   "alias": [],
+   "type": "郡",
+   "description": "苏厉论燕破齐后燕、秦之界所去处。",
+   "evidence": [
+    "p84"
+   ]
+  },
+  {
+   "id": "place:勾注",
+   "name": "勾注",
+   "alias": [
+    "句注",
+    "西陉山"
+   ],
+   "type": "山",
+   "description": "赵北之险，苏厉论秦踰勾注、斩常山则赵亡。",
+   "evidence": [
+    "p84"
+   ]
+  },
+  {
+   "id": "place:阏与",
+   "name": "阏与",
+   "alias": [],
+   "type": "邑",
+   "description": "秦韩相攻围阏与，赵奢大破秦军于此，赐号马服君。",
+   "evidence": [
+    "p94"
+   ]
+  },
+  {
+   "id": "place:长平",
+   "name": "长平",
+   "alias": [],
+   "type": "地",
+   "description": "白起破赵括、坑赵降卒四十万处（泽州高平县西）。",
+   "evidence": [
+    "p101",
+    "p102"
+   ]
+  },
+  {
+   "id": "place:上党",
+   "name": "上党",
+   "alias": [],
+   "type": "郡",
+   "description": "韩上党守冯亭以上党十七城入赵，为长平之祸之导因。",
+   "evidence": [
+    "p100",
+    "p101"
+   ]
+  },
+  {
+   "id": "place:卫",
+   "name": "卫",
+   "alias": [
+    "卫国"
+   ],
+   "type": "国",
+   "description": "赵简子与阳虎送卫太子蒯聩归卫，卫不纳；赵屡侵卫。",
+   "evidence": [
+    "p30",
+    "p47"
+   ]
+  },
+  {
+   "id": "place:郑",
+   "name": "郑",
+   "alias": [],
+   "type": "国",
+   "description": "知伯伐郑、以酒灌击毋恤，结赵氏之怨。",
+   "evidence": [
+    "p33"
+   ]
+  },
+  {
+   "id": "place:知",
+   "name": "知",
+   "alias": [
+    "智",
+    "知氏"
+   ],
+   "type": "族/邑",
+   "description": "晋六卿之一，知伯请地于赵、围晋阳，终为赵、韩、魏所灭分其地。",
+   "evidence": [
+    "p37",
+    "p38",
+    "p39"
+   ]
+  },
+  {
+   "id": "place:霍",
+   "name": "霍",
+   "alias": [
+    "霍国"
+   ],
+   "type": "国",
+   "description": "赵夙为将所伐之国，霍公求出奔齐。",
+   "evidence": [
+    "p4"
+   ]
+  },
+  {
+   "id": "place:武城",
+   "name": "武城",
+   "alias": [],
+   "type": "邑",
+   "description": "秦攻赵处，扈辄救之军败死。",
+   "evidence": [
+    "p114"
+   ]
+  },
+  {
+   "id": "place:赤丽",
+   "name": "赤丽",
+   "alias": [],
+   "type": "邑",
+   "description": "秦攻赵处，李牧与战肥下却之。",
+   "evidence": [
+    "p115"
+   ]
+  },
+  {
+   "id": "place:乐徐",
+   "name": "乐徐",
+   "alias": [],
+   "type": "地",
+   "description": "代地大动之西界（在晋州）。",
+   "evidence": [
+    "p116"
+   ]
+  },
+  {
+   "id": "place:挺关",
+   "name": "挺关",
+   "alias": [],
+   "type": "关",
+   "description": "秦上郡所近之关，苏厉论秦攻赵上党之形势。",
+   "evidence": [
+    "p84"
+   ]
+  },
+  {
+   "id": "place:羊肠",
+   "name": "羊肠",
+   "alias": [
+    "羊肠坂"
+   ],
+   "type": "地",
+   "description": "太行山阪道名，苏厉论秦以三郡攻赵上党之西界。",
+   "evidence": [
+    "p84"
+   ]
+  },
+  {
+   "id": "place:昆山",
+   "name": "昆山",
+   "alias": [
+    "昆山之玉"
+   ],
+   "type": "山",
+   "description": "出美玉之地，苏厉谓秦据勾注常山则昆山之玉不出。",
+   "evidence": [
+    "p84"
+   ]
+  },
+  {
+   "id": "place:高平",
+   "name": "高平",
+   "alias": [
+    "向"
+   ],
+   "type": "邑",
+   "description": "齐返于魏之邑（怀州河阳县西）。",
+   "evidence": [
+    "p85"
+   ]
+  },
+  {
+   "id": "place:根柔",
+   "name": "根柔",
+   "alias": [],
+   "type": "邑",
+   "description": "齐返于魏之邑，地未详。",
+   "evidence": [
+    "p85"
+   ]
+  },
+  {
+   "id": "place:巠分",
+   "name": "巠分",
+   "alias": [],
+   "type": "邑",
+   "description": "齐返于赵之邑（《正义》谓巠当作山，即句注山一带）。",
+   "evidence": [
+    "p85"
+   ]
+  },
+  {
+   "id": "place:先俞",
+   "name": "先俞",
+   "alias": [
+    "西隃"
+   ],
+   "type": "山",
+   "description": "齐返于赵之地（雁门山）。",
+   "evidence": [
+    "p85"
+   ]
+  },
+  {
+   "id": "place:麦丘",
+   "name": "麦丘",
+   "alias": [],
+   "type": "邑",
+   "description": "赵奢攻齐所取。",
+   "evidence": [
+    "p89"
+   ]
+  },
+  {
+   "id": "place:安阳",
+   "name": "安阳",
+   "alias": [],
+   "type": "邑",
+   "description": "廉颇攻魏所取。",
+   "evidence": [
+    "p92"
+   ]
+  },
+  {
+   "id": "place:几",
+   "name": "几",
+   "alias": [],
+   "type": "邑",
+   "description": "楼昌攻之不取，廉颇取而取之（当在相、潞之间）。",
+   "evidence": [
+    "p92"
+   ]
+  },
+  {
+   "id": "place:昌城",
+   "name": "昌城",
+   "alias": [
+    "昌壮"
+   ],
+   "type": "邑",
+   "description": "燕周攻取；燕攻昌壮五月拔之。",
+   "evidence": [
+    "p92",
+    "p105"
+   ]
+  },
+  {
+   "id": "place:注人",
+   "name": "注人",
+   "alias": [],
+   "type": "邑",
+   "description": "田单攻韩所拔（汝州梁县西）。",
+   "evidence": [
+    "p98"
+   ]
+  },
+  {
+   "id": "place:武垣",
+   "name": "武垣",
+   "alias": [],
+   "type": "邑",
+   "description": "武垣令傅豹等率燕众反燕地处。",
+   "evidence": [
+    "p103"
+   ]
+  },
+  {
+   "id": "place:信梁",
+   "name": "信梁",
+   "alias": [],
+   "type": "军营",
+   "description": "秦将信梁之军，乐乘、庆舍破之。",
+   "evidence": [
+    "p105"
+   ]
+  },
+  {
+   "id": "place:西周",
+   "name": "西周",
+   "alias": [],
+   "type": "国",
+   "description": "秦攻西周而拔之。",
+   "evidence": [
+    "p105"
+   ]
+  },
+  {
+   "id": "place:石城",
+   "name": "石城",
+   "alias": [],
+   "type": "邑",
+   "description": "秦拔赵石城。",
+   "evidence": [
+    "p89"
+   ]
+  },
+  {
+   "id": "place:东阳",
+   "name": "东阳",
+   "alias": [],
+   "type": "地",
+   "description": "赵王再之卫东阳，决河水伐魏。",
+   "evidence": [
+    "p89"
+   ]
+  },
+  {
+   "id": "place:河梁",
+   "name": "河梁",
+   "alias": [],
+   "type": "桥",
+   "description": "庆舍守河梁（河外魏州地）。",
+   "evidence": [
+    "p112"
+   ]
+  },
+  {
+   "id": "place:韩皋",
+   "name": "韩皋",
+   "alias": [],
+   "type": "邑",
+   "description": "赵筑城处。",
+   "evidence": [
+    "p111"
+   ]
+  },
+  {
+   "id": "place:饶",
+   "name": "饶",
+   "alias": [
+    "饶阳"
+   ],
+   "type": "邑",
+   "description": "赵以饶封长安君（瀛州饶阳县）。",
+   "evidence": [
+    "p112"
+   ]
+  }
+ ],
+ "events": [
+  {
+   "id": "event:造父封赵城",
+   "name": "造父封赵城",
+   "type": "封建",
+   "description": "造父献八骏、为穆王御，穆王赐以赵城，赵氏由此得名。",
+   "evidence": [
+    "p1"
+   ]
+  },
+  {
+   "id": "event:叔带奔晋",
+   "name": "叔带奔晋",
+   "type": "迁徙",
+   "description": "周幽王无道，叔带去周如晋，事晋文侯，始建赵氏于晋国。",
+   "evidence": [
+    "p2"
+   ]
+  },
+  {
+   "id": "event:赵夙伐霍",
+   "name": "赵夙伐霍",
+   "type": "征伐",
+   "description": "晋献公十六年伐霍、魏、耿，赵夙为将伐霍，赐耿。",
+   "evidence": [
+    "p4"
+   ]
+  },
+  {
+   "id": "event:赵衰从重耳出亡",
+   "name": "赵衰从重耳出亡十九年",
+   "type": "出亡",
+   "description": "赵衰从重耳出亡凡十九年，得反国，文公霸业多赵衰之计。",
+   "evidence": [
+    "p6",
+    "p7"
+   ]
+  },
+  {
+   "id": "event:赵盾专晋政",
+   "name": "赵盾专晋政",
+   "type": "执政",
+   "description": "赵盾立灵公而益专国政，骤谏灵公。",
+   "evidence": [
+    "p8",
+    "p9"
+   ]
+  },
+  {
+   "id": "event:赵穿弑灵公",
+   "name": "赵穿弑灵公",
+   "type": "弑君",
+   "description": "赵穿弑晋灵公而立成公黑臀，太史书「赵盾弑其君」。",
+   "evidence": [
+    "p10"
+   ]
+  },
+  {
+   "id": "event:下宫之难",
+   "name": "下宫之难",
+   "type": "族诛",
+   "description": "屠岸贾不请而擅攻赵氏于下宫，杀赵朔、赵同、赵括、赵婴齐，灭其族。",
+   "evidence": [
+    "p11"
+   ]
+  },
+  {
+   "id": "event:赵氏孤儿存立",
+   "name": "赵氏孤儿存立",
+   "type": "存孤",
+   "description": "程婴、公孙杵臼谋存赵朔遗腹子，匿山中十五年。",
+   "evidence": [
+    "p12",
+    "p13"
+   ]
+  },
+  {
+   "id": "event:赵武复立",
+   "name": "赵武复立",
+   "type": "复立",
+   "description": "韩厥谋于景公，立赵武，反攻屠岸贾灭其族，复与田邑。",
+   "evidence": [
+    "p14"
+   ]
+  },
+  {
+   "id": "event:赵武续赵宗",
+   "name": "赵武续赵宗",
+   "type": "承统",
+   "description": "赵武续赵宗二十七年，晋平公时为正卿。",
+   "evidence": [
+    "p16"
+   ]
+  },
+  {
+   "id": "event:六卿灭祁羊舌",
+   "name": "六卿灭祁氏羊舌氏",
+   "type": "兼并",
+   "description": "晋顷公十二年，六卿以法诛公族祁氏、羊舌氏，分其邑为十县。",
+   "evidence": [
+    "p21"
+   ]
+  },
+  {
+   "id": "event:范中行作乱",
+   "name": "范中行作乱",
+   "type": "内乱",
+   "description": "晋定公十四年范、中行氏作乱伐赵鞅，鞅奔晋阳，后韩魏为请而入绛盟。",
+   "evidence": [
+    "p27"
+   ]
+  },
+  {
+   "id": "event:董安于自杀",
+   "name": "董安于自杀",
+   "type": "死节",
+   "description": "以安于发范中行之乱，晋法始乱者死，安于自杀以安赵氏。",
+   "evidence": [
+    "p27"
+   ]
+  },
+  {
+   "id": "event:孔子书赵鞅以晋阳畔",
+   "name": "孔子书赵鞅以晋阳畔",
+   "type": "书法",
+   "description": "孔子闻简子不请晋君而执邯郸午、保晋阳，书《春秋》「赵鞅以晋阳畔」。",
+   "evidence": [
+    "p28"
+   ]
+  },
+  {
+   "id": "event:周舍直谏",
+   "name": "周舍直谏",
+   "type": "谏诤",
+   "description": "周舍好直谏，死后简子思其谔谔之言而忧。",
+   "evidence": [
+    "p29"
+   ]
+  },
+  {
+   "id": "event:赵简子梦游帝所",
+   "name": "赵简子梦游帝所",
+   "type": "梦兆",
+   "description": "简子疾五日不知人，梦游钧天、射熊罴、受二笥翟犬，帝言晋七世而亡。",
+   "evidence": [
+    "p22",
+    "p23"
+   ]
+  },
+  {
+   "id": "event:当道者致帝命",
+   "name": "当道者致帝命",
+   "type": "梦兆",
+   "description": "当道者传帝命，释熊罴为二卿之祖、翟犬为代之先。",
+   "evidence": [
+    "p24"
+   ]
+  },
+  {
+   "id": "event:姑布子卿相毋恤",
+   "name": "姑布子卿相毋恤",
+   "type": "相术",
+   "description": "姑布子卿相简子诸子，独许毋恤为真将军。",
+   "evidence": [
+    "p26"
+   ]
+  },
+  {
+   "id": "event:宝符临代",
+   "name": "宝符临代",
+   "type": "试子",
+   "description": "简子藏宝符于常山，毋恤独悟「从常山临代可取」。",
+   "evidence": [
+    "p26"
+   ]
+  },
+  {
+   "id": "event:知伯伐郑辱毋恤",
+   "name": "知伯伐郑辱毋恤",
+   "type": "羞辱",
+   "description": "知伯醉以酒灌击毋恤，毋恤忍訽，由此怨知伯。",
+   "evidence": [
+    "p33"
+   ]
+  },
+  {
+   "id": "event:赵襄子立",
+   "name": "赵襄子立",
+   "type": "继位",
+   "description": "晋出公十七年简子卒，太子毋恤代立为襄子。",
+   "evidence": [
+    "p33"
+   ]
+  },
+  {
+   "id": "event:襄子平代杀代王",
+   "name": "襄子平代杀代王",
+   "type": "并国",
+   "description": "襄子未除服而北登夏屋，使厨人以铜枓击杀代王，遂平代地；其姊磨笄自杀。",
+   "evidence": [
+    "p36"
+   ]
+  },
+  {
+   "id": "event:知伯围晋阳",
+   "name": "知伯围晋阳",
+   "type": "围城",
+   "description": "知伯率韩、魏攻赵，襄子奔保晋阳，引汾水灌城，城中易子而食。",
+   "evidence": [
+    "p37",
+    "p38"
+   ]
+  },
+  {
+   "id": "event:三神之令",
+   "name": "三神之令",
+   "type": "谶兆",
+   "description": "原过受三神竹书，预言反灭知氏、赐林胡之地、后世有伉王胡服。",
+   "evidence": [
+    "p38"
+   ]
+  },
+  {
+   "id": "event:三家灭知氏",
+   "name": "三家灭知氏",
+   "type": "灭族",
+   "description": "赵、韩、魏反灭知氏，共分其地，赵北有代、南并知氏。",
+   "evidence": [
+    "p38",
+    "p39"
+   ]
+  },
+  {
+   "id": "event:襄子行赏高共为首",
+   "name": "襄子行赏高共为首",
+   "type": "赏功",
+   "description": "晋阳之难群臣皆懈，唯高共不失礼，襄子赏之居首。",
+   "evidence": [
+    "p39"
+   ]
+  },
+  {
+   "id": "event:桓子逐献侯",
+   "name": "桓子逐献侯",
+   "type": "内乱",
+   "description": "襄子弟桓子逐献侯自立于代，一年卒，国人复迎立献侯。",
+   "evidence": [
+    "p41"
+   ]
+  },
+  {
+   "id": "event:烈侯好音公仲进贤",
+   "name": "烈侯好音公仲进贤",
+   "type": "纳谏",
+   "description": "烈侯欲贵郑歌者，公仲连进牛畜、荀欣、徐越三士，遂止赐田。",
+   "evidence": [
+    "p44"
+   ]
+  },
+  {
+   "id": "event:敬侯都邯郸",
+   "name": "敬侯都邯郸",
+   "type": "定都",
+   "description": "敬侯元年武公子朝作乱奔魏，赵始都邯郸。",
+   "evidence": [
+    "p46"
+   ]
+  },
+  {
+   "id": "event:五国相王赵独否",
+   "name": "五国相王赵独否",
+   "type": "称王",
+   "description": "魏、韩、赵、燕、中山五国相王，武灵王独否，令国人称己为君。",
+   "evidence": [
+    "p59"
+   ]
+  },
+  {
+   "id": "event:武灵王梦处女纳吴娃",
+   "name": "武灵王梦处女纳吴娃",
+   "type": "梦兆",
+   "description": "武灵王梦处女鼓琴而歌，吴广因夫人内其女娃嬴（孟姚），是为惠后。",
+   "evidence": [
+    "p61"
+   ]
+  },
+  {
+   "id": "event:胡服骑射之议",
+   "name": "胡服骑射之议",
+   "type": "变法",
+   "description": "武灵王欲胡服骑射以强兵，肥义赞之，群臣皆不欲。",
+   "evidence": [
+    "p64",
+    "p65"
+   ]
+  },
+  {
+   "id": "event:公子成服胡服",
+   "name": "公子成服胡服",
+   "type": "变法",
+   "description": "武灵王亲往公子成家说不服之非，公子成服胡服而朝，遂出胡服令。",
+   "evidence": [
+    "p66",
+    "p67"
+   ]
+  },
+  {
+   "id": "event:赵文等谏胡服",
+   "name": "赵文等谏胡服",
+   "type": "谏诤",
+   "description": "赵文、赵造、周袑、赵俊谏止胡服，武灵王以「便国不必古」驳之。",
+   "evidence": [
+    "p68"
+   ]
+  },
+  {
+   "id": "event:王略中山至宁葭",
+   "name": "王略中山至宁葭",
+   "type": "拓地",
+   "description": "武灵王二十年略中山至宁葭、西略胡地至榆中，林胡王献马。",
+   "evidence": [
+    "p69"
+   ]
+  },
+  {
+   "id": "event:五国击秦斩首八万",
+   "name": "赵与韩魏击秦",
+   "type": "战役",
+   "description": "武灵王九年与韩、魏共击秦，秦败赵，斩首八万级。",
+   "evidence": [
+    "p60"
+   ]
+  },
+  {
+   "id": "event:攻中山献四邑",
+   "name": "攻中山献四邑",
+   "type": "战役",
+   "description": "武灵王二十一年攻中山，取丹丘、华阳等，中山献四邑和。",
+   "evidence": [
+    "p70"
+   ]
+  },
+  {
+   "id": "event:传国于何",
+   "name": "传国于何",
+   "type": "传位",
+   "description": "武灵王二十七年大朝东宫，传国立王子何为王（惠文王），自号主父。",
+   "evidence": [
+    "p71"
+   ]
+  },
+  {
+   "id": "event:主父诈为使者入秦",
+   "name": "主父诈为使者入秦",
+   "type": "侦察",
+   "description": "主父诈为使者入秦，略地形、观秦王为人，秦昭王惊其状貌。",
+   "evidence": [
+    "p72"
+   ]
+  },
+  {
+   "id": "event:灭中山",
+   "name": "灭中山",
+   "type": "灭国",
+   "description": "惠文王三年灭中山，迁其王于肤施。",
+   "evidence": [
+    "p74"
+   ]
+  },
+  {
+   "id": "event:沙丘之乱",
+   "name": "沙丘之乱",
+   "type": "内乱",
+   "description": "公子章与田不礼作乱，诈以主父令召王，肥义先入被杀，公子成、李兊起兵平乱。",
+   "evidence": [
+    "p78"
+   ]
+  },
+  {
+   "id": "event:主父饿死沙丘宫",
+   "name": "主父饿死沙丘宫",
+   "type": "弑君",
+   "description": "公子成、李兊围主父宫，令宫中后出者夷，主父探爵鷇而食，三月余饿死。",
+   "evidence": [
+    "p78",
+    "p79"
+   ]
+  },
+  {
+   "id": "event:苏厉遗赵王书",
+   "name": "苏厉遗赵王书",
+   "type": "游说",
+   "description": "齐患赵与秦击齐，苏厉为齐遗书赵王，说其勿与秦攻齐。",
+   "evidence": [
+    "p81",
+    "p83",
+    "p86"
+   ]
+  },
+  {
+   "id": "event:赵辍不击齐",
+   "name": "赵辍不击齐",
+   "type": "罢兵",
+   "description": "赵王纳苏厉之说，辍兵谢秦不击齐。",
+   "evidence": [
+    "p87"
+   ]
+  },
+  {
+   "id": "event:廉颇赵奢攻齐",
+   "name": "廉颇赵奢攻齐",
+   "type": "战役",
+   "description": "廉颇攻齐昔阳，赵奢攻齐麦丘，皆取之。",
+   "evidence": [
+    "p88",
+    "p89"
+   ]
+  },
+  {
+   "id": "event:触龙说赵太后",
+   "name": "触龙说赵太后",
+   "type": "谏诤",
+   "description": "秦急攻赵，太后不肯以长安君为质，触龙以爱子计深远之说动之，遂质齐而齐兵出。",
+   "evidence": [
+    "p96"
+   ]
+  },
+  {
+   "id": "event:长平之战",
+   "name": "长平之战",
+   "type": "战役",
+   "description": "廉颇免而赵括代将，秦围赵括，括降，卒四十余万皆坑之，王悔不听赵豹之计。",
+   "evidence": [
+    "p102"
+   ]
+  },
+  {
+   "id": "event:邯郸之围",
+   "name": "邯郸之围",
+   "type": "围城",
+   "description": "赵不事秦，秦围邯郸，平原君如楚请救，楚、魏救兵至，围乃解。",
+   "evidence": [
+    "p103",
+    "p104"
+   ]
+  },
+  {
+   "id": "event:廉颇奔魏",
+   "name": "廉颇奔魏",
+   "type": "奔亡",
+   "description": "乐乘代廉颇，颇攻乐乘，乐乘走，颇亡入魏。",
+   "evidence": [
+    "p109"
+   ]
+  },
+  {
+   "id": "event:栗腹伐赵与廉颇破燕",
+   "name": "栗腹伐赵与廉颇破燕",
+   "type": "战役",
+   "description": "燕相约欢归而言赵可伐，燕起二军攻鄗、代，廉颇破杀栗腹，虏卿秦、乐间。",
+   "evidence": [
+    "p106"
+   ]
+  },
+  {
+   "id": "event:庞煖攻秦",
+   "name": "庞煖攻秦",
+   "type": "战役",
+   "description": "庞煖率赵、楚、魏、燕锐师攻秦蕞不拔，移攻齐取饶安。",
+   "evidence": [
+    "p112"
+   ]
+  },
+  {
+   "id": "event:李牧破秦",
+   "name": "李牧破秦",
+   "type": "战役",
+   "description": "李牧与秦战肥下、番吾，皆却之，封武安君。",
+   "evidence": [
+    "p115",
+    "p116"
+   ]
+  },
+  {
+   "id": "event:李牧之死",
+   "name": "李牧之死",
+   "type": "冤诛",
+   "description": "李牧诛、司马尚免，赵忽及齐将颜聚代之，赵忽军破，王迁降秦。",
+   "evidence": [
+    "p117"
+   ]
+  },
+  {
+   "id": "event:赵之亡",
+   "name": "赵之亡",
+   "type": "亡国",
+   "description": "邯郸为秦，赵迁被虏，亡大夫共立嘉为王，王代六岁，秦破嘉灭赵为郡。",
+   "evidence": [
+    "p118",
+    "p119"
+   ]
+  },
+  {
+   "id": "event:赵嘉王代",
+   "name": "赵嘉王代",
+   "type": "复国",
+   "description": "秦虏赵迁后，赵之亡大夫共立嘉为王，王代六岁，终为秦所破。",
+   "evidence": [
+    "p119"
+   ]
+  }
+ ],
+ "concepts": [
+  {
+   "id": "concept:赵氏",
+   "name": "赵氏",
+   "type": "宗族",
+   "description": "与秦共祖、出自蜚廉季胜一系，叔带奔晋始建赵氏于晋，后为三晋之一。",
+   "evidence": [
+    "p0",
+    "p2"
+   ]
+  },
+  {
+   "id": "concept:嬴姓",
+   "name": "嬴姓",
+   "type": "姓氏",
+   "description": "赵、秦同出之姓，自中衍以来皆嬴姓。",
+   "evidence": [
+    "p13"
+   ]
+  },
+  {
+   "id": "concept:晋卿",
+   "name": "晋卿",
+   "type": "职官",
+   "description": "赵氏世为晋卿，名晋卿而实专晋权，至赵襄子以下渐成诸侯。",
+   "evidence": [
+    "p30",
+    "p17"
+   ]
+  },
+  {
+   "id": "concept:六卿",
+   "name": "六卿",
+   "type": "职官",
+   "description": "晋国六卿（赵、韩、魏、知、范、中行），晋政将归六卿，后互相兼并。",
+   "evidence": [
+    "p17",
+    "p21"
+   ]
+  },
+  {
+   "id": "concept:公族",
+   "name": "公族",
+   "type": "制度",
+   "description": "晋国公族祁氏、羊舌氏，为六卿以法所诛，分其邑为十县。",
+   "evidence": [
+    "p21"
+   ]
+  },
+  {
+   "id": "concept:县",
+   "name": "县",
+   "type": "政区",
+   "description": "六卿分公族之邑为十县，各令其族为大夫。",
+   "evidence": [
+    "p21"
+   ]
+  },
+  {
+   "id": "concept:司寇",
+   "name": "司寇",
+   "type": "职官",
+   "description": "主刑之官，屠岸贾为晋司寇而发下宫之难。",
+   "evidence": [
+    "p11"
+   ]
+  },
+  {
+   "id": "concept:正卿",
+   "name": "正卿",
+   "type": "职官",
+   "description": "晋之执政，赵盾、赵武皆为正卿。",
+   "evidence": [
+    "p10",
+    "p16"
+   ]
+  },
+  {
+   "id": "concept:原大夫",
+   "name": "原大夫",
+   "type": "职官",
+   "description": "赵衰为原大夫、居原、任国政。",
+   "evidence": [
+    "p6"
+   ]
+  },
+  {
+   "id": "concept:帝所",
+   "name": "帝所",
+   "type": "宗教",
+   "description": "上帝居处，赵简子、秦穆公梦游帝所而受谶言。",
+   "evidence": [
+    "p22",
+    "p23"
+   ]
+  },
+  {
+   "id": "concept:钧天广乐",
+   "name": "钧天广乐",
+   "type": "宗教",
+   "description": "天帝之乐，广乐九奏万舞，不类三代之乐。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "concept:宝符",
+   "name": "宝符",
+   "type": "符兆",
+   "description": "简子藏宝符于常山，试诸子，毋恤独悟临代可取。",
+   "evidence": [
+    "p26"
+   ]
+  },
+  {
+   "id": "concept:胡服骑射",
+   "name": "胡服骑射",
+   "type": "变法",
+   "description": "武灵王改胡服、习骑射以强兵备边，为赵盛衰之一大关键。",
+   "evidence": [
+    "p64",
+    "p65",
+    "p69"
+   ]
+  },
+  {
+   "id": "concept:三胡",
+   "name": "三胡",
+   "type": "族称",
+   "description": "林胡、楼烦、东胡之总称，赵变服骑射以备燕、三胡、秦、韩之边。",
+   "evidence": [
+    "p67"
+   ]
+  },
+  {
+   "id": "concept:四战之国",
+   "name": "四战之国",
+   "type": "形势",
+   "description": "乐间论赵为四面受敌之国，其民习兵，伐之不可。",
+   "evidence": [
+    "p106"
+   ]
+  },
+  {
+   "id": "concept:王道",
+   "name": "王道",
+   "type": "思想",
+   "description": "牛畜侍烈侯以仁义、约以王道；武灵王论德约功亦本此。",
+   "evidence": [
+    "p44",
+    "p65"
+   ]
+  },
+  {
+   "id": "concept:仁义",
+   "name": "仁义",
+   "type": "思想",
+   "description": "牛畜以仁义事烈侯；公子成以中国为仁义所施之邦。",
+   "evidence": [
+    "p44",
+    "p66"
+   ]
+  },
+  {
+   "id": "concept:选练举贤",
+   "name": "选练举贤",
+   "type": "治术",
+   "description": "荀欣以选练举贤、任官使能事烈侯。",
+   "evidence": [
+    "p44"
+   ]
+  },
+  {
+   "id": "concept:节财俭用",
+   "name": "节财俭用",
+   "type": "治术",
+   "description": "徐越以节财俭用、察度功德事烈侯。",
+   "evidence": [
+    "p44"
+   ]
+  },
+  {
+   "id": "concept:内史",
+   "name": "内史",
+   "type": "职官",
+   "description": "掌治京师之官，徐越为内史。",
+   "evidence": [
+    "p44"
+   ]
+  },
+  {
+   "id": "concept:中尉",
+   "name": "中尉",
+   "type": "职官",
+   "description": "赵官，荀欣为中尉。",
+   "evidence": [
+    "p44"
+   ]
+  },
+  {
+   "id": "concept:师",
+   "name": "师",
+   "type": "职官",
+   "description": "赵官，牛畜为师。",
+   "evidence": [
+    "p44"
+   ]
+  },
+  {
+   "id": "concept:黑衣",
+   "name": "黑衣",
+   "type": "职官",
+   "description": "王宫卫士之服，触龙请以少子补黑衣之缺。",
+   "evidence": [
+    "p96"
+   ]
+  },
+  {
+   "id": "concept:质子",
+   "name": "质子",
+   "type": "外交",
+   "description": "长安君质于齐以乞救兵，为战国质任之制。",
+   "evidence": [
+    "p96"
+   ]
+  },
+  {
+   "id": "concept:无故之利",
+   "name": "无故之利",
+   "type": "义理",
+   "description": "赵豹言「圣人甚祸无故之利」，谏勿受韩上党。",
+   "evidence": [
+    "p100"
+   ]
+  },
+  {
+   "id": "concept:三不义",
+   "name": "三不义",
+   "type": "义理",
+   "description": "冯亭自言守地不死、入秦不听主令、卖主地而食，为三不义。",
+   "evidence": [
+    "p101"
+   ]
+  },
+  {
+   "id": "concept:阬",
+   "name": "阬",
+   "type": "军事",
+   "description": "长平之战秦坑赵降卒四十余万。",
+   "evidence": [
+    "p102"
+   ]
+  },
+  {
+   "id": "concept:偏裻之衣",
+   "name": "偏裻之衣",
+   "type": "服饰",
+   "description": "左右异色之衣，赵王梦衣偏裻，筮史占为残缺之兆。",
+   "evidence": [
+    "p99"
+   ]
+  },
+  {
+   "id": "concept:马服君",
+   "name": "马服君",
+   "type": "封号",
+   "description": "赵奢破秦于阏与下所赐之号，因马服山为名。",
+   "evidence": [
+    "p94"
+   ]
+  },
+  {
+   "id": "concept:武安君",
+   "name": "武安君",
+   "type": "封号",
+   "description": "李牧破秦所封之号。",
+   "evidence": [
+    "p115"
+   ]
+  },
+  {
+   "id": "concept:信平君",
+   "name": "信平君",
+   "type": "封号",
+   "description": "廉颇以尉文封之号，言笃信而平和。",
+   "evidence": [
+    "p106"
+   ]
+  },
+  {
+   "id": "concept:武襄君",
+   "name": "武襄君",
+   "type": "封号",
+   "description": "乐乘之号，言其功最高。",
+   "evidence": [
+    "p107"
+   ]
+  },
+  {
+   "id": "concept:安平君",
+   "name": "安平君",
+   "type": "封号",
+   "description": "公子成沙丘之乱后为相所号。",
+   "evidence": [
+    "p78"
+   ]
+  },
+  {
+   "id": "concept:主父",
+   "name": "主父",
+   "type": "称号",
+   "description": "武灵王传国于子后自号主父，为战国君位传递之特例。",
+   "evidence": [
+    "p71",
+    "p72"
+   ]
+  },
+  {
+   "id": "concept:相王",
+   "name": "相王",
+   "type": "外交",
+   "description": "五国互相称王，赵独否而令国人称君。",
+   "evidence": [
+    "p59"
+   ]
+  },
+  {
+   "id": "concept:封君",
+   "name": "封君",
+   "type": "制度",
+   "description": "战国以地封君，如代成君、安阳君、平阳君、长安君等。",
+   "evidence": [
+    "p35",
+    "p74"
+   ]
+  },
+  {
+   "id": "concept:下军",
+   "name": "下军",
+   "type": "军制",
+   "description": "晋三军之一，赵朔为晋将下军救郑。",
+   "evidence": [
+    "p11"
+   ]
+  },
+  {
+   "id": "concept:太史书赵盾弑其君",
+   "name": "赵盾弑其君",
+   "type": "书法",
+   "description": "太史据「亡不出境、反不讨贼」书赵盾弑君，为春秋书法之典型。",
+   "evidence": [
+    "p10"
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "subject": "蜚廉",
+   "predicate": "生",
+   "object": "恶来",
+   "evidence": [
+    "p0"
+   ]
+  },
+  {
+   "subject": "蜚廉",
+   "predicate": "生",
+   "object": "季胜",
+   "evidence": [
+    "p0"
+   ]
+  },
+  {
+   "subject": "季胜",
+   "predicate": "生",
+   "object": "孟增",
+   "evidence": [
+    "p1"
+   ]
+  },
+  {
+   "subject": "孟增",
+   "predicate": "生",
+   "object": "衡父",
+   "evidence": [
+    "p1"
+   ]
+  },
+  {
+   "subject": "衡父",
+   "predicate": "生",
+   "object": "造父",
+   "evidence": [
+    "p1"
+   ]
+  },
+  {
+   "subject": "造父",
+   "predicate": "受封",
+   "object": "赵城",
+   "evidence": [
+    "p1"
+   ]
+  },
+  {
+   "subject": "奄父",
+   "predicate": "为御",
+   "object": "周宣王",
+   "evidence": [
+    "p2"
+   ]
+  },
+  {
+   "subject": "叔带",
+   "predicate": "事",
+   "object": "晋文侯",
+   "evidence": [
+    "p2"
+   ]
+  },
+  {
+   "subject": "赵夙",
+   "predicate": "伐",
+   "object": "霍",
+   "evidence": [
+    "p4"
+   ]
+  },
+  {
+   "subject": "赵衰",
+   "predicate": "从亡",
+   "object": "重耳",
+   "evidence": [
+    "p6"
+   ]
+  },
+  {
+   "subject": "赵衰",
+   "predicate": "生",
+   "object": "赵盾",
+   "evidence": [
+    "p6"
+   ]
+  },
+  {
+   "subject": "赵穿",
+   "predicate": "弑",
+   "object": "晋灵公",
+   "evidence": [
+    "p10"
+   ]
+  },
+  {
+   "subject": "屠岸贾",
+   "predicate": "诛",
+   "object": "赵朔",
+   "evidence": [
+    "p11"
+   ]
+  },
+  {
+   "subject": "屠岸贾",
+   "predicate": "诛",
+   "object": "赵同",
+   "evidence": [
+    "p11"
+   ]
+  },
+  {
+   "subject": "屠岸贾",
+   "predicate": "诛",
+   "object": "赵括",
+   "evidence": [
+    "p11"
+   ]
+  },
+  {
+   "subject": "屠岸贾",
+   "predicate": "诛",
+   "object": "赵婴齐",
+   "evidence": [
+    "p11"
+   ]
+  },
+  {
+   "subject": "程婴",
+   "predicate": "存立",
+   "object": "赵武",
+   "evidence": [
+    "p12",
+    "p14"
+   ]
+  },
+  {
+   "subject": "公孙杵臼",
+   "predicate": "谋存",
+   "object": "赵武",
+   "evidence": [
+    "p12"
+   ]
+  },
+  {
+   "subject": "韩厥",
+   "predicate": "谋立",
+   "object": "赵武",
+   "evidence": [
+    "p14"
+   ]
+  },
+  {
+   "subject": "赵武",
+   "predicate": "攻灭",
+   "object": "屠岸贾",
+   "evidence": [
+    "p14"
+   ]
+  },
+  {
+   "subject": "赵武",
+   "predicate": "续",
+   "object": "赵氏",
+   "evidence": [
+    "p16"
+   ]
+  },
+  {
+   "subject": "赵景叔",
+   "predicate": "生",
+   "object": "赵鞅",
+   "evidence": [
+    "p18"
+   ]
+  },
+  {
+   "subject": "赵鞅",
+   "predicate": "废",
+   "object": "伯鲁",
+   "evidence": [
+    "p25"
+   ]
+  },
+  {
+   "subject": "赵鞅",
+   "predicate": "立",
+   "object": "赵毋恤",
+   "evidence": [
+    "p25"
+   ]
+  },
+  {
+   "subject": "赵鞅",
+   "predicate": "杀",
+   "object": "赵午",
+   "evidence": [
+    "p27"
+   ]
+  },
+  {
+   "subject": "范吉射",
+   "predicate": "伐",
+   "object": "赵鞅",
+   "evidence": [
+    "p27"
+   ]
+  },
+  {
+   "subject": "苟寅",
+   "predicate": "与谋",
+   "object": "范吉射",
+   "evidence": [
+    "p27"
+   ]
+  },
+  {
+   "subject": "董安于",
+   "predicate": "自杀",
+   "object": "赵氏",
+   "evidence": [
+    "p27"
+   ]
+  },
+  {
+   "subject": "知伯",
+   "predicate": "围",
+   "object": "晋阳",
+   "evidence": [
+    "p37",
+    "p38"
+   ]
+  },
+  {
+   "subject": "赵毋恤",
+   "predicate": "灭",
+   "object": "知伯",
+   "evidence": [
+    "p38",
+    "p39"
+   ]
+  },
+  {
+   "subject": "赵毋恤",
+   "predicate": "杀",
+   "object": "代王",
+   "evidence": [
+    "p36"
+   ]
+  },
+  {
+   "subject": "代王夫人",
+   "predicate": "自杀",
+   "object": "摩笄之山",
+   "evidence": [
+    "p36"
+   ]
+  },
+  {
+   "subject": "赵毋恤",
+   "predicate": "传位",
+   "object": "赵浣",
+   "evidence": [
+    "p39"
+   ]
+  },
+  {
+   "subject": "桓子",
+   "predicate": "逐",
+   "object": "赵浣",
+   "evidence": [
+    "p41"
+   ]
+  },
+  {
+   "subject": "公仲连",
+   "predicate": "举荐",
+   "object": "牛畜",
+   "evidence": [
+    "p44"
+   ]
+  },
+  {
+   "subject": "公仲连",
+   "predicate": "举荐",
+   "object": "荀欣",
+   "evidence": [
+    "p44"
+   ]
+  },
+  {
+   "subject": "公仲连",
+   "predicate": "举荐",
+   "object": "徐越",
+   "evidence": [
+    "p44"
+   ]
+  },
+  {
+   "subject": "赵雍",
+   "predicate": "灭",
+   "object": "中山",
+   "evidence": [
+    "p74"
+   ]
+  },
+  {
+   "subject": "赵雍",
+   "predicate": "传国",
+   "object": "赵何",
+   "evidence": [
+    "p71"
+   ]
+  },
+  {
+   "subject": "公子章",
+   "predicate": "作乱",
+   "object": "沙丘",
+   "evidence": [
+    "p78"
+   ]
+  },
+  {
+   "subject": "李兊",
+   "predicate": "围",
+   "object": "赵雍",
+   "evidence": [
+    "p78"
+   ]
+  },
+  {
+   "subject": "公子成",
+   "predicate": "杀",
+   "object": "公子章",
+   "evidence": [
+    "p78"
+   ]
+  },
+  {
+   "subject": "肥义",
+   "predicate": "被杀",
+   "object": "沙丘",
+   "evidence": [
+    "p78"
+   ]
+  },
+  {
+   "subject": "田不礼",
+   "predicate": "相",
+   "object": "公子章",
+   "evidence": [
+    "p74"
+   ]
+  },
+  {
+   "subject": "赵何",
+   "predicate": "为",
+   "object": "惠文王",
+   "evidence": [
+    "p71"
+   ]
+  },
+  {
+   "subject": "赵丹",
+   "predicate": "受",
+   "object": "上党",
+   "evidence": [
+    "p101"
+   ]
+  },
+  {
+   "subject": "冯亭",
+   "predicate": "献",
+   "object": "上党",
+   "evidence": [
+    "p100"
+   ]
+  },
+  {
+   "subject": "赵括",
+   "predicate": "败降",
+   "object": "长平",
+   "evidence": [
+    "p102"
+   ]
+  },
+  {
+   "subject": "白起",
+   "predicate": "坑",
+   "object": "赵卒",
+   "evidence": [
+    "p102"
+   ]
+  },
+  {
+   "subject": "触龙",
+   "predicate": "说",
+   "object": "赵太后",
+   "evidence": [
+    "p96"
+   ]
+  },
+  {
+   "subject": "长安君",
+   "predicate": "质于",
+   "object": "齐",
+   "evidence": [
+    "p96"
+   ]
+  },
+  {
+   "subject": "栗腹",
+   "predicate": "谋伐",
+   "object": "赵",
+   "evidence": [
+    "p106"
+   ]
+  },
+  {
+   "subject": "廉颇",
+   "predicate": "破杀",
+   "object": "栗腹",
+   "evidence": [
+    "p106"
+   ]
+  },
+  {
+   "subject": "廉颇",
+   "predicate": "虏",
+   "object": "卿秦",
+   "evidence": [
+    "p106"
+   ]
+  },
+  {
+   "subject": "乐乘",
+   "predicate": "破",
+   "object": "信梁",
+   "evidence": [
+    "p105"
+   ]
+  },
+  {
+   "subject": "庞煖",
+   "predicate": "禽",
+   "object": "剧辛",
+   "evidence": [
+    "p112"
+   ]
+  },
+  {
+   "subject": "李牧",
+   "predicate": "破",
+   "object": "秦",
+   "evidence": [
+    "p115"
+   ]
+  },
+  {
+   "subject": "李牧",
+   "predicate": "被诛",
+   "object": "赵王迁",
+   "evidence": [
+    "p117"
+   ]
+  },
+  {
+   "subject": "郭开",
+   "predicate": "谗",
+   "object": "李牧",
+   "evidence": [
+    "p119"
+   ]
+  },
+  {
+   "subject": "秦王政",
+   "predicate": "灭",
+   "object": "赵",
+   "evidence": [
+    "p118",
+    "p119"
+   ]
+  },
+  {
+   "subject": "赵嘉",
+   "predicate": "王",
+   "object": "代",
+   "evidence": [
+    "p119"
+   ]
+  },
+  {
+   "subject": "苏厉",
+   "predicate": "遗书",
+   "object": "赵王",
+   "evidence": [
+    "p81"
+   ]
+  },
+  {
+   "subject": "田单",
+   "predicate": "相",
+   "object": "赵",
+   "evidence": [
+    "p98"
+   ]
+  },
+  {
+   "subject": "蔺相如",
+   "predicate": "伐",
+   "object": "齐",
+   "evidence": [
+    "p94"
+   ]
+  },
+  {
+   "subject": "赵奢",
+   "predicate": "破",
+   "object": "秦",
+   "evidence": [
+    "p94"
+   ]
+  },
+  {
+   "subject": "乐毅",
+   "predicate": "率师攻",
+   "object": "齐",
+   "evidence": [
+    "p80"
+   ]
+  },
+  {
+   "subject": "张孟同",
+   "predicate": "通谋",
+   "object": "韩",
+   "evidence": [
+    "p39"
+   ]
+  },
+  {
+   "subject": "张孟同",
+   "predicate": "通谋",
+   "object": "魏",
+   "evidence": [
+    "p39"
+   ]
+  },
+  {
+   "subject": "原过",
+   "predicate": "受",
+   "object": "三神之令",
+   "evidence": [
+    "p38"
+   ]
+  },
+  {
+   "subject": "知伯",
+   "predicate": "请地",
+   "object": "赵",
+   "evidence": [
+    "p37"
+   ]
+  },
+  {
+   "subject": "赵毋恤",
+   "predicate": "立",
+   "object": "赵浣",
+   "evidence": [
+    "p39"
+   ]
+  },
+  {
+   "subject": "赵鞅",
+   "predicate": "专",
+   "object": "晋政",
+   "evidence": [
+    "p30"
+   ]
+  },
+  {
+   "subject": "赵盾",
+   "predicate": "专",
+   "object": "国政",
+   "evidence": [
+    "p9"
+   ]
+  },
+  {
+   "subject": "晋成公",
+   "predicate": "为",
+   "object": "晋君",
+   "evidence": [
+    "p10"
+   ]
+  },
+  {
+   "subject": "知伯",
+   "predicate": "立",
+   "object": "晋懿公",
+   "evidence": [
+    "p37"
+   ]
+  },
+  {
+   "subject": "献侯",
+   "predicate": "治",
+   "object": "中牟",
+   "evidence": [
+    "p40"
+   ]
+  },
+  {
+   "subject": "赵雍",
+   "predicate": "略",
+   "object": "中山",
+   "evidence": [
+    "p69"
+   ]
+  },
+  {
+   "subject": "赵雍",
+   "predicate": "略",
+   "object": "胡地",
+   "evidence": [
+    "p69"
+   ]
+  },
+  {
+   "subject": "赵胜",
+   "predicate": "请救于",
+   "object": "楚",
+   "evidence": [
+    "p104"
+   ]
+  },
+  {
+   "subject": "魏公子无忌",
+   "predicate": "救",
+   "object": "赵",
+   "evidence": [
+    "p104"
+   ]
+  },
+  {
+   "subject": "赵豹",
+   "predicate": "谏",
+   "object": "孝成王",
+   "evidence": [
+    "p100"
+   ]
+  }
+ ]
+}
