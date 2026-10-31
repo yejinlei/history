@@ -1,0 +1,2542 @@
+{
+  "book": "shiji",
+  "chapter_id": "shiji-外戚世家第十九",
+  "title": "外戚世家第十九",
+  "juan": "卷四十九",
+  "persons": [
+    {
+      "id": "person:吕后",
+      "name": "吕后",
+      "alias": [
+        "吕娥姁",
+        "高后",
+        "吕太后"
+      ],
+      "type": "太后",
+      "dynasty": "汉",
+      "description": "高祖正后，名娥姁（《汉书》名雉）。夷戚氏、诛赵王如意，王诸吕以辅幼主；高后崩后诸吕被诛。",
+      "evidence": [
+        "p2",
+        "p3",
+        "p4"
+      ]
+    },
+    {
+      "id": "person:刘邦",
+      "name": "刘邦",
+      "alias": [
+        "高祖",
+        "汉高祖",
+        "高帝"
+      ],
+      "type": "帝王",
+      "dynasty": "汉",
+      "description": "汉高祖。幸薄姬而生代王；戚夫人有宠而其子如意几代太子。",
+      "evidence": [
+        "p2",
+        "p6",
+        "p7"
+      ]
+    },
+    {
+      "id": "person:戚夫人",
+      "name": "戚夫人",
+      "alias": [],
+      "type": "后妃",
+      "dynasty": "汉",
+      "description": "高祖宠姬，其子如意为赵王。高祖崩后为吕后所夷。",
+      "evidence": [
+        "p2",
+        "p7"
+      ]
+    },
+    {
+      "id": "person:刘如意",
+      "name": "刘如意",
+      "alias": [
+        "赵王如意"
+      ],
+      "type": "宗室",
+      "dynasty": "汉",
+      "description": "高祖与戚夫人之子，封赵王，几代太子者数矣；高祖崩后为吕后所诛。",
+      "evidence": [
+        "p2"
+      ]
+    },
+    {
+      "id": "person:孝惠帝",
+      "name": "孝惠帝",
+      "alias": [
+        "刘盈"
+      ],
+      "type": "帝王",
+      "dynasty": "汉",
+      "description": "吕后子，继高祖为帝；其皇后张敖女无子，吕后诈取后宫人子为子。",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "id": "person:张敖",
+      "name": "张敖",
+      "alias": [
+        "宣平侯"
+      ],
+      "type": "大臣",
+      "dynasty": "汉",
+      "description": "宣平侯，娶吕后长女（鲁元公主）；其女为孝惠皇后。",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "id": "person:鲁元公主",
+      "name": "鲁元公主",
+      "alias": [
+        "吕后长女"
+      ],
+      "type": "公主",
+      "dynasty": "汉",
+      "description": "吕后长女，宣平侯张敖之妻，孝惠皇后之母。",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "id": "person:孝惠皇后",
+      "name": "孝惠皇后",
+      "alias": [
+        "张敖女"
+      ],
+      "type": "皇后",
+      "dynasty": "汉",
+      "description": "张敖与鲁元公主之女，孝惠帝之后。无子，吕后诈取后宫人子为子；诸吕灭后被置于北宫。",
+      "evidence": [
+        "p3",
+        "p4"
+      ]
+    },
+    {
+      "id": "person:吕禄",
+      "name": "吕禄",
+      "alias": [],
+      "type": "外戚",
+      "dynasty": "汉",
+      "description": "吕氏外戚，高后时其女为少帝后；高后崩后惧诛谋作乱，为大臣所诛。",
+      "evidence": [
+        "p3",
+        "p4"
+      ]
+    },
+    {
+      "id": "person:吕产",
+      "name": "吕产",
+      "alias": [],
+      "type": "外戚",
+      "dynasty": "汉",
+      "description": "吕氏外戚，高后崩后与吕禄等谋作乱，为大臣所诛。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "person:少帝",
+      "name": "少帝",
+      "alias": [],
+      "type": "帝王",
+      "dynasty": "汉",
+      "description": "吕后所立之帝，吕禄女为其后。与孝惠帝非一人。",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "id": "person:孝文帝",
+      "name": "孝文帝",
+      "alias": [
+        "代王",
+        "刘恒"
+      ],
+      "type": "帝王",
+      "dynasty": "汉",
+      "description": "初为代王，高后崩后大臣迎立为帝，是为孝文帝；幸窦姬，生女嫖及两男。",
+      "evidence": [
+        "p4",
+        "p8",
+        "p11"
+      ]
+    },
+    {
+      "id": "person:代王王后",
+      "name": "代王王后",
+      "alias": [],
+      "type": "后妃",
+      "dynasty": "汉",
+      "description": "代王之正妻，生四男而早卒；其四男在代王立为帝后更病死，故窦姬长男得立为太子。",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "id": "person:薄太后",
+      "name": "薄太后",
+      "alias": [
+        "薄姬"
+      ],
+      "type": "太后",
+      "dynasty": "汉",
+      "description": "文帝生母。父吴人姓薄氏，母魏媪；初入魏宫，魏豹灭后输织室，幸于高祖而生代王；文帝立，尊为皇太后。",
+      "evidence": [
+        "p5",
+        "p6",
+        "p7",
+        "p8",
+        "p9",
+        "p10"
+      ]
+    },
+    {
+      "id": "person:薄父",
+      "name": "薄父",
+      "alias": [],
+      "type": "外戚",
+      "dynasty": "秦",
+      "description": "薄太后之父，吴人，姓薄氏；秦时与魏媪通而生薄姬，死葬山阴；后追尊为灵文侯。",
+      "evidence": [
+        "p5",
+        "p9"
+      ]
+    },
+    {
+      "id": "person:魏媪",
+      "name": "魏媪",
+      "alias": [],
+      "type": "平民",
+      "dynasty": "秦",
+      "description": "故魏王宗家女，与薄父通而生薄姬；诸侯畔秦后内其女于魏宫。",
+      "evidence": [
+        "p5",
+        "p6"
+      ]
+    },
+    {
+      "id": "person:魏豹",
+      "name": "魏豹",
+      "alias": [
+        "魏王豹"
+      ],
+      "type": "诸侯",
+      "dynasty": "秦末",
+      "description": "诸侯畔秦后立为魏王；闻许负相薄姬当生天子而背汉中立、与楚连和，为曹参等击虏。",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "id": "person:许负",
+      "name": "许负",
+      "alias": [],
+      "type": "方士",
+      "dynasty": "汉",
+      "description": "相者，相薄姬云当生天子。",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "id": "person:曹参",
+      "name": "曹参",
+      "alias": [],
+      "type": "大臣",
+      "dynasty": "汉",
+      "description": "汉将，击虏魏王豹。",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "id": "person:项羽",
+      "name": "项羽",
+      "alias": [],
+      "type": "帝王",
+      "dynasty": "楚",
+      "description": "西楚霸王，方与汉王相距荥阳。",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "id": "person:薄昭",
+      "name": "薄昭",
+      "alias": [],
+      "type": "外戚",
+      "dynasty": "汉",
+      "description": "薄太后之弟，从如代；文帝立后封为轵侯。",
+      "evidence": [
+        "p7",
+        "p8"
+      ]
+    },
+    {
+      "id": "person:窦太后",
+      "name": "窦太后",
+      "alias": [
+        "窦姬",
+        "猗房"
+      ],
+      "type": "太后",
+      "dynasty": "汉",
+      "description": "赵之清河观津人，名猗房。吕太后时以良家子入宫，误置代伍而幸于代王；文帝立为皇后，景帝时为太后，好黄帝老子言。",
+      "evidence": [
+        "p11",
+        "p12",
+        "p16",
+        "p17",
+        "p18"
+      ]
+    },
+    {
+      "id": "person:窦长君",
+      "name": "窦长君",
+      "alias": [],
+      "type": "外戚",
+      "dynasty": "汉",
+      "description": "窦太后之兄（《决录》云建字长君）；与弟广国同为退让君子。",
+      "evidence": [
+        "p13",
+        "p14",
+        "p15"
+      ]
+    },
+    {
+      "id": "person:窦广国",
+      "name": "窦广国",
+      "alias": [
+        "少君"
+      ],
+      "type": "外戚",
+      "dynasty": "汉",
+      "description": "窦太后之弟，字少君。少时被略卖、入山作炭得脱；后上书自陈认亲，封章武侯。",
+      "evidence": [
+        "p13",
+        "p14",
+        "p15"
+      ]
+    },
+    {
+      "id": "person:窦婴",
+      "name": "窦婴",
+      "alias": [
+        "魏其侯"
+      ],
+      "type": "大臣",
+      "dynasty": "汉",
+      "description": "窦太后从昆弟子，任侠自喜，吴楚反时将兵，以军功为魏其侯。",
+      "evidence": [
+        "p15"
+      ]
+    },
+    {
+      "id": "person:绛侯",
+      "name": "绛侯",
+      "alias": [
+        "周勃"
+      ],
+      "type": "大臣",
+      "dynasty": "汉",
+      "description": "与灌将军等议为窦氏兄弟择师传宾客，以防复效吕氏。",
+      "evidence": [
+        "p14"
+      ]
+    },
+    {
+      "id": "person:彭祖",
+      "name": "彭祖",
+      "alias": [
+        "南皮侯"
+      ],
+      "type": "外戚",
+      "dynasty": "汉",
+      "description": "窦长君之子，长君死后封为南皮侯。",
+      "evidence": [
+        "p15"
+      ]
+    },
+    {
+      "id": "person:王太后",
+      "name": "王太后",
+      "alias": [
+        "王娡"
+      ],
+      "type": "太后",
+      "dynasty": "汉",
+      "description": "槐里人，名娡。母臧儿；初嫁金王孙，被夺入太子宫，幸于太子（景帝）而生汉武帝；后立为皇后、皇太后。",
+      "evidence": [
+        "p18",
+        "p23",
+        "p24",
+        "p25",
+        "p26"
+      ]
+    },
+    {
+      "id": "person:臧儿",
+      "name": "臧儿",
+      "alias": [
+        "平原君"
+      ],
+      "type": "外戚",
+      "dynasty": "汉",
+      "description": "故燕王臧荼孙女，王太后之母。嫁王仲，再嫁田氏；卜两女当贵，夺长女于金氏而入太子宫。",
+      "evidence": [
+        "p18",
+        "p24",
+        "p26"
+      ]
+    },
+    {
+      "id": "person:臧荼",
+      "name": "臧荼",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "汉",
+      "description": "故燕王，臧儿之祖父。",
+      "evidence": [
+        "p18"
+      ]
+    },
+    {
+      "id": "person:王仲",
+      "name": "王仲",
+      "alias": [],
+      "type": "平民",
+      "dynasty": "汉",
+      "description": "槐里人，臧儿之夫，王太后之父；早死葬槐里，追尊为共侯。",
+      "evidence": [
+        "p18",
+        "p26"
+      ]
+    },
+    {
+      "id": "person:田氏",
+      "name": "田氏",
+      "alias": [],
+      "type": "平民",
+      "dynasty": "汉",
+      "description": "长陵人，臧儿再嫁之夫，生田蚡、田胜。",
+      "evidence": [
+        "p18"
+      ]
+    },
+    {
+      "id": "person:田蚡",
+      "name": "田蚡",
+      "alias": [
+        "武安侯"
+      ],
+      "type": "外戚",
+      "dynasty": "汉",
+      "description": "臧儿再嫁田氏所生，王太后同母弟；封武安侯，贪而巧于文辞。",
+      "evidence": [
+        "p18",
+        "p24",
+        "p26"
+      ]
+    },
+    {
+      "id": "person:田胜",
+      "name": "田胜",
+      "alias": [
+        "周阳侯"
+      ],
+      "type": "外戚",
+      "dynasty": "汉",
+      "description": "臧儿再嫁田氏所生，王太后同母弟；封周阳侯。",
+      "evidence": [
+        "p18",
+        "p24"
+      ]
+    },
+    {
+      "id": "person:王信",
+      "name": "王信",
+      "alias": [
+        "盖侯"
+      ],
+      "type": "外戚",
+      "dynasty": "汉",
+      "description": "王太后之兄，封盖侯，好酒。",
+      "evidence": [
+        "p18",
+        "p23",
+        "p26"
+      ]
+    },
+    {
+      "id": "person:金王孙",
+      "name": "金王孙",
+      "alias": [],
+      "type": "平民",
+      "dynasty": "汉",
+      "description": "王太后初嫁之夫，生一女（后为修成君）。",
+      "evidence": [
+        "p18",
+        "p36"
+      ]
+    },
+    {
+      "id": "person:汉景帝",
+      "name": "汉景帝",
+      "alias": [
+        "景帝"
+      ],
+      "type": "帝王",
+      "dynasty": "汉",
+      "description": "太子时纳王娡；即位后废薄皇后，因栗姬之怒而废栗太子、立王夫人为皇后，其男为太子（武帝）。",
+      "evidence": [
+        "p18",
+        "p20",
+        "p21",
+        "p22",
+        "p23",
+        "p24"
+      ]
+    },
+    {
+      "id": "person:汉武帝",
+      "name": "汉武帝",
+      "alias": [
+        "武帝"
+      ],
+      "type": "帝王",
+      "dynasty": "汉",
+      "description": "景帝与王夫人之子。迎取民间同母姊（修成君）；宠卫子夫、废陈皇后；立少子（昭帝）而赐死钩弋夫人。",
+      "evidence": [
+        "p23",
+        "p27",
+        "p28",
+        "p36",
+        "p45",
+        "p46"
+      ]
+    },
+    {
+      "id": "person:刘荣",
+      "name": "刘荣",
+      "alias": [
+        "临江王",
+        "栗太子"
+      ],
+      "type": "宗室",
+      "dynasty": "汉",
+      "description": "景帝长男，母栗姬，初立为太子；因大行奏请立栗姬为后事废为临江王。",
+      "evidence": [
+        "p21",
+        "p23"
+      ]
+    },
+    {
+      "id": "person:栗姬",
+      "name": "栗姬",
+      "alias": [],
+      "type": "后妃",
+      "dynasty": "汉",
+      "description": "齐人，景帝长男刘荣之母。谢绝大长公主之婚，为谗所中；太子废而恚恨忧死。",
+      "evidence": [
+        "p21",
+        "p22",
+        "p23"
+      ]
+    },
+    {
+      "id": "person:薄皇后",
+      "name": "薄皇后",
+      "alias": [],
+      "type": "皇后",
+      "dynasty": "汉",
+      "description": "景帝为太子时，薄太后以薄氏女为妃；景帝立为皇后，无子无宠，薄太后崩后被废。",
+      "evidence": [
+        "p20"
+      ]
+    },
+    {
+      "id": "person:卫子夫",
+      "name": "卫子夫",
+      "alias": [
+        "卫皇后"
+      ],
+      "type": "皇后",
+      "dynasty": "汉",
+      "description": "字子夫，出微，平阳主歌者。得幸武帝，生三女一男（据），立为皇后；后色衰。",
+      "evidence": [
+        "p27",
+        "p28",
+        "p30",
+        "p31",
+        "p37"
+      ]
+    },
+    {
+      "id": "person:卫青",
+      "name": "卫青",
+      "alias": [
+        "大将军",
+        "长平侯"
+      ],
+      "type": "大臣",
+      "dynasty": "汉",
+      "description": "字仲卿，卫皇后之弟；击胡有功封长平侯，号大将军，三子在襁褓皆封列侯；后尚平阳公主。",
+      "evidence": [
+        "p27",
+        "p30",
+        "p37",
+        "p38"
+      ]
+    },
+    {
+      "id": "person:卫长君",
+      "name": "卫长君",
+      "alias": [],
+      "type": "外戚",
+      "dynasty": "汉",
+      "description": "卫皇后之兄，为侍中，先死。",
+      "evidence": [
+        "p27",
+        "p30"
+      ]
+    },
+    {
+      "id": "person:卫少儿",
+      "name": "卫少儿",
+      "alias": [],
+      "type": "外戚",
+      "dynasty": "汉",
+      "description": "卫皇后之姊，生霍去病。",
+      "evidence": [
+        "p30"
+      ]
+    },
+    {
+      "id": "person:卫伉",
+      "name": "卫伉",
+      "alias": [
+        "侯世子"
+      ],
+      "type": "外戚",
+      "dynasty": "汉",
+      "description": "卫青长子，为长平侯世子，常任侍中，贵幸。",
+      "evidence": [
+        "p37"
+      ]
+    },
+    {
+      "id": "person:霍去病",
+      "name": "霍去病",
+      "alias": [
+        "冠军侯",
+        "骠骑将军"
+      ],
+      "type": "大臣",
+      "dynasty": "汉",
+      "description": "卫少儿之子，以军功封冠军侯，号骠骑将军。",
+      "evidence": [
+        "p30"
+      ]
+    },
+    {
+      "id": "person:刘据",
+      "name": "刘据",
+      "alias": [
+        "卫太子"
+      ],
+      "type": "宗室",
+      "dynasty": "汉",
+      "description": "武帝与卫皇后之子，立为太子；后被废。",
+      "evidence": [
+        "p27",
+        "p30",
+        "p44"
+      ]
+    },
+    {
+      "id": "person:陈皇后",
+      "name": "陈皇后",
+      "alias": [
+        "陈氏",
+        "阿娇"
+      ],
+      "type": "皇后",
+      "dynasty": "汉",
+      "description": "大长公主之女，武帝为太子时娶为妃，立为皇后，无子；挟妇人媚道，事觉而废。",
+      "evidence": [
+        "p28",
+        "p29"
+      ]
+    },
+    {
+      "id": "person:大长公主",
+      "name": "大长公主",
+      "alias": [
+        "长公主嫖",
+        "馆陶公主"
+      ],
+      "type": "公主",
+      "dynasty": "汉",
+      "description": "文帝之女、景帝之姊、武帝之姑。有女陈氏；有力于武帝得立，日谗栗姬。",
+      "evidence": [
+        "p11",
+        "p23",
+        "p29"
+      ]
+    },
+    {
+      "id": "person:平阳公主",
+      "name": "平阳公主",
+      "alias": [
+        "平阳主"
+      ],
+      "type": "公主",
+      "dynasty": "汉",
+      "description": "王太后长女、武帝之姊。卫子夫初为其歌者；寡居后嫁大将军卫青。",
+      "evidence": [
+        "p25",
+        "p27",
+        "p29",
+        "p38"
+      ]
+    },
+    {
+      "id": "person:南宫公主",
+      "name": "南宫公主",
+      "alias": [
+        "南宫主"
+      ],
+      "type": "公主",
+      "dynasty": "汉",
+      "description": "王太后次女。",
+      "evidence": [
+        "p25"
+      ]
+    },
+    {
+      "id": "person:林虑公主",
+      "name": "林虑公主",
+      "alias": [
+        "林虑主"
+      ],
+      "type": "公主",
+      "dynasty": "汉",
+      "description": "王太后三女。",
+      "evidence": [
+        "p25"
+      ]
+    },
+    {
+      "id": "person:王夫人",
+      "name": "王夫人",
+      "alias": [],
+      "type": "后妃",
+      "dynasty": "汉",
+      "description": "卫后色衰后得幸于武帝，赵人，有子（闳）为齐王，早卒。",
+      "evidence": [
+        "p31"
+      ]
+    },
+    {
+      "id": "person:齐王闳",
+      "name": "齐王闳",
+      "alias": [
+        "齐王"
+      ],
+      "type": "宗室",
+      "dynasty": "汉",
+      "description": "武帝与王夫人之子，封齐王。",
+      "evidence": [
+        "p31"
+      ]
+    },
+    {
+      "id": "person:李夫人",
+      "name": "李夫人",
+      "alias": [],
+      "type": "后妃",
+      "dynasty": "汉",
+      "description": "中山人，得幸武帝，有男一人（髆）为昌邑王，早卒；其兄李延年以音幸。",
+      "evidence": [
+        "p32",
+        "p33",
+        "p35"
+      ]
+    },
+    {
+      "id": "person:昌邑王髆",
+      "name": "昌邑王髆",
+      "alias": [
+        "昌邑王"
+      ],
+      "type": "宗室",
+      "dynasty": "汉",
+      "description": "武帝与李夫人之子，封昌邑王。",
+      "evidence": [
+        "p32"
+      ]
+    },
+    {
+      "id": "person:李延年",
+      "name": "李延年",
+      "alias": [
+        "协律"
+      ],
+      "type": "乐人",
+      "dynasty": "汉",
+      "description": "李夫人之兄，以音幸，号协律；兄弟皆坐奸族。",
+      "evidence": [
+        "p33"
+      ]
+    },
+    {
+      "id": "person:李广利",
+      "name": "李广利",
+      "alias": [
+        "贰师将军",
+        "海西侯"
+      ],
+      "type": "将领",
+      "dynasty": "汉",
+      "description": "李夫人长兄，为贰师将军伐大宛；李氏夷灭后武帝怜其家，封为海西侯。",
+      "evidence": [
+        "p33"
+      ]
+    },
+    {
+      "id": "person:刘旦",
+      "name": "刘旦",
+      "alias": [
+        "燕王旦"
+      ],
+      "type": "宗室",
+      "dynasty": "汉",
+      "description": "武帝子，封燕王；卫太子废后上书愿归国入宿卫，武帝怒斩其使者。",
+      "evidence": [
+        "p34",
+        "p44"
+      ]
+    },
+    {
+      "id": "person:刘胥",
+      "name": "刘胥",
+      "alias": [
+        "广陵王"
+      ],
+      "type": "宗室",
+      "dynasty": "汉",
+      "description": "武帝子，封广陵王；其母李姬无宠以忧死。",
+      "evidence": [
+        "p34"
+      ]
+    },
+    {
+      "id": "person:尹婕妤",
+      "name": "尹婕妤",
+      "alias": [],
+      "type": "后妃",
+      "dynasty": "汉",
+      "description": "武帝宠妃，与邢夫人同时并幸；自请见邢夫人，见而自痛不如。",
+      "evidence": [
+        "p35",
+        "p40",
+        "p41"
+      ]
+    },
+    {
+      "id": "person:邢夫人",
+      "name": "邢夫人",
+      "alias": [
+        "娙娥",
+        "娙何"
+      ],
+      "type": "后妃",
+      "dynasty": "汉",
+      "description": "武帝宠妃，号娙娥，众人谓之娙何，秩比中二千石。",
+      "evidence": [
+        "p40",
+        "p41"
+      ]
+    },
+    {
+      "id": "person:钩弋夫人",
+      "name": "钩弋夫人",
+      "alias": [
+        "赵氏"
+      ],
+      "type": "后妃",
+      "dynasty": "汉",
+      "description": "姓赵氏，河间人。得幸武帝，生昭帝；武帝欲立少子，借故谴责而赐死，死云阳宫。",
+      "evidence": [
+        "p43",
+        "p45"
+      ]
+    },
+    {
+      "id": "person:汉昭帝",
+      "name": "汉昭帝",
+      "alias": [
+        "昭帝"
+      ],
+      "type": "帝王",
+      "dynasty": "汉",
+      "description": "武帝少子，钩弋夫人所生；武帝年七十乃生。",
+      "evidence": [
+        "p43",
+        "p45"
+      ]
+    },
+    {
+      "id": "person:儿姁",
+      "name": "儿姁",
+      "alias": [],
+      "type": "后妃",
+      "dynasty": "汉",
+      "description": "王太后之妹，臧儿少女，入太子宫，生四男皆为王。",
+      "evidence": [
+        "p19",
+        "p25"
+      ]
+    },
+    {
+      "id": "person:管夫人",
+      "name": "管夫人",
+      "alias": [],
+      "type": "后妃",
+      "dynasty": "汉",
+      "description": "薄姬少时相好，先幸汉王，与赵子儿笑薄姬之约。",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "id": "person:赵子儿",
+      "name": "赵子儿",
+      "alias": [],
+      "type": "后妃",
+      "dynasty": "汉",
+      "description": "与薄姬少时相好，先幸汉王。",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "id": "person:慎夫人",
+      "name": "慎夫人",
+      "alias": [],
+      "type": "后妃",
+      "dynasty": "汉",
+      "description": "邯郸人，文帝所幸，无子。",
+      "evidence": [
+        "p15"
+      ]
+    },
+    {
+      "id": "person:尹姬",
+      "name": "尹姬",
+      "alias": [],
+      "type": "后妃",
+      "dynasty": "汉",
+      "description": "文帝所幸，无子。",
+      "evidence": [
+        "p15"
+      ]
+    },
+    {
+      "id": "person:韩嫣",
+      "name": "韩嫣",
+      "alias": [
+        "韩王孙"
+      ],
+      "type": "外戚",
+      "dynasty": "汉",
+      "description": "素得幸武帝，承间白言王太后有女在长陵。",
+      "evidence": [
+        "p36"
+      ]
+    },
+    {
+      "id": "person:修成君",
+      "name": "修成君",
+      "alias": [
+        "金氏女"
+      ],
+      "type": "公主",
+      "dynasty": "汉",
+      "description": "王太后在民间与金王孙所生之女，武帝亲往长陵迎取，号修成君。",
+      "evidence": [
+        "p36"
+      ]
+    },
+    {
+      "id": "person:修成子仲",
+      "name": "修成子仲",
+      "alias": [],
+      "type": "外戚",
+      "dynasty": "汉",
+      "description": "修成君之子，骄恣陵折吏民。",
+      "evidence": [
+        "p36"
+      ]
+    },
+    {
+      "id": "person:钟离生",
+      "name": "钟离生",
+      "alias": [],
+      "type": "儒生",
+      "dynasty": "汉",
+      "description": "习汉家故事者，褚先生为郎时闻其述王太后民间女事。",
+      "evidence": [
+        "p36"
+      ]
+    },
+    {
+      "id": "person:周公",
+      "name": "周公",
+      "alias": [],
+      "type": "大臣",
+      "dynasty": "周",
+      "description": "武帝居甘泉宫，召画工图画周公负成王，以示欲立少子之意。",
+      "evidence": [
+        "p45"
+      ]
+    },
+    {
+      "id": "person:成王",
+      "name": "成王",
+      "alias": [],
+      "type": "帝王",
+      "dynasty": "周",
+      "description": "周成王，幼年即位，周公辅之；武帝画周公负成王以喻己意。",
+      "evidence": [
+        "p45"
+      ]
+    },
+    {
+      "id": "person:太史公",
+      "name": "太史公",
+      "alias": [
+        "司马迁"
+      ],
+      "type": "史家",
+      "dynasty": "汉",
+      "description": "本篇「太史公曰」之发论者。",
+      "evidence": [
+        "p2"
+      ]
+    },
+    {
+      "id": "person:梁孝王",
+      "name": "梁孝王",
+      "alias": [
+        "刘武"
+      ],
+      "type": "宗室",
+      "dynasty": "汉",
+      "description": "窦太后少子，初立为代王，后徙梁，是为梁孝王。",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "id": "person:大臣",
+      "name": "大臣",
+      "alias": [],
+      "type": "群体",
+      "dynasty": "汉",
+      "description": "诛诸吕、迎立孝文帝之汉廷大臣。",
+      "evidence": [
+        "p4",
+        "p8"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "id": "place:长陵",
+      "name": "长陵",
+      "alias": [],
+      "type": "陵邑",
+      "description": "高帝与吕后合葬处；王仲、臧儿亦葬长陵；王太后民间女家在长陵。",
+      "evidence": [
+        "p4",
+        "p10",
+        "p26",
+        "p36"
+      ]
+    },
+    {
+      "id": "place:北宫",
+      "name": "北宫",
+      "alias": [],
+      "type": "宫",
+      "description": "在未央宫北，孝惠皇后废后居此。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "place:山阴",
+      "name": "山阴",
+      "alias": [],
+      "type": "县",
+      "description": "会稽郡地，薄父死葬于此。",
+      "evidence": [
+        "p5"
+      ]
+    },
+    {
+      "id": "place:魏",
+      "name": "魏",
+      "alias": [
+        "魏宫"
+      ],
+      "type": "国",
+      "description": "魏豹所立之国，魏媪内薄姬于魏宫。",
+      "evidence": [
+        "p5",
+        "p6"
+      ]
+    },
+    {
+      "id": "place:荥阳",
+      "name": "荥阳",
+      "alias": [],
+      "type": "邑",
+      "description": "项羽与汉王相距处。",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "id": "place:织室",
+      "name": "织室",
+      "alias": [],
+      "type": "官署",
+      "description": "汉宫掌织作之署，薄姬曾输于此。",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "id": "place:河南宫",
+      "name": "河南宫",
+      "alias": [],
+      "type": "宫",
+      "description": "汉王坐成皋台之处。",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "id": "place:成皋",
+      "name": "成皋",
+      "alias": [
+        "成皋台"
+      ],
+      "type": "邑",
+      "description": "河南宫之成皋台，《汉书》作成皋灵台。",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "id": "place:代",
+      "name": "代",
+      "alias": [],
+      "type": "国",
+      "description": "薄姬从子之代；窦姬误置之代；代王后立为文帝。",
+      "evidence": [
+        "p7",
+        "p8",
+        "p11"
+      ]
+    },
+    {
+      "id": "place:轵",
+      "name": "轵",
+      "alias": [
+        "轵道"
+      ],
+      "type": "县",
+      "description": "薄昭封轵侯之地（《索隐》疑当作长安东之轵道亭）。",
+      "evidence": [
+        "p8"
+      ]
+    },
+    {
+      "id": "place:栎阳",
+      "name": "栎阳",
+      "alias": [],
+      "type": "县",
+      "description": "薄太后母葬于栎阳北，并置灵文侯夫人园。",
+      "evidence": [
+        "p9"
+      ]
+    },
+    {
+      "id": "place:会稽郡",
+      "name": "会稽郡",
+      "alias": [],
+      "type": "郡",
+      "description": "置园邑三百家奉守薄父冢。",
+      "evidence": [
+        "p9"
+      ]
+    },
+    {
+      "id": "place:南陵",
+      "name": "南陵",
+      "alias": [],
+      "type": "陵",
+      "description": "薄太后所葬，在霸陵南十里。",
+      "evidence": [
+        "p10"
+      ]
+    },
+    {
+      "id": "place:霸陵",
+      "name": "霸陵",
+      "alias": [],
+      "type": "陵",
+      "description": "孝文帝陵；窦太后合葬于此。",
+      "evidence": [
+        "p10",
+        "p17"
+      ]
+    },
+    {
+      "id": "place:清河",
+      "name": "清河",
+      "alias": [],
+      "type": "郡",
+      "description": "窦太后家所在（清河观津），置园邑二百家。",
+      "evidence": [
+        "p11",
+        "p12"
+      ]
+    },
+    {
+      "id": "place:观津",
+      "name": "观津",
+      "alias": [],
+      "type": "县",
+      "description": "清河之县，窦太后乡里，父母葬此。",
+      "evidence": [
+        "p11",
+        "p13"
+      ]
+    },
+    {
+      "id": "place:赵",
+      "name": "赵",
+      "alias": [],
+      "type": "国",
+      "description": "窦姬欲如赵近家，请置其籍于赵之伍中。",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "id": "place:宜阳",
+      "name": "宜阳",
+      "alias": [],
+      "type": "县",
+      "description": "窦少君为其主入山作炭之处。",
+      "evidence": [
+        "p13"
+      ]
+    },
+    {
+      "id": "place:长安",
+      "name": "长安",
+      "alias": [],
+      "type": "都",
+      "description": "汉都；窦广国、窦氏兄弟家于长安。",
+      "evidence": [
+        "p13",
+        "p38"
+      ]
+    },
+    {
+      "id": "place:章武",
+      "name": "章武",
+      "alias": [],
+      "type": "县",
+      "description": "窦广国封章武侯之地（属勃海）。",
+      "evidence": [
+        "p15"
+      ]
+    },
+    {
+      "id": "place:南皮",
+      "name": "南皮",
+      "alias": [],
+      "type": "县",
+      "description": "彭祖封南皮侯之地（属勃海）。",
+      "evidence": [
+        "p15"
+      ]
+    },
+    {
+      "id": "place:魏其",
+      "name": "魏其",
+      "alias": [],
+      "type": "县",
+      "description": "窦婴以军功封魏其侯之地（属琅邪）。",
+      "evidence": [
+        "p15"
+      ]
+    },
+    {
+      "id": "place:邯郸",
+      "name": "邯郸",
+      "alias": [],
+      "type": "都",
+      "description": "慎夫人乡里。",
+      "evidence": [
+        "p15"
+      ]
+    },
+    {
+      "id": "place:槐里",
+      "name": "槐里",
+      "alias": [
+        "废丘"
+      ],
+      "type": "县",
+      "description": "王太后乡里，王仲早死葬此。",
+      "evidence": [
+        "p18",
+        "p26"
+      ]
+    },
+    {
+      "id": "place:齐",
+      "name": "齐",
+      "alias": [],
+      "type": "国",
+      "description": "栗姬齐人；赵之王夫人子封齐王。",
+      "evidence": [
+        "p21",
+        "p31"
+      ]
+    },
+    {
+      "id": "place:盖",
+      "name": "盖",
+      "alias": [],
+      "type": "县",
+      "description": "王信封盖侯之地（属太山）。",
+      "evidence": [
+        "p23"
+      ]
+    },
+    {
+      "id": "place:临江",
+      "name": "临江",
+      "alias": [],
+      "type": "国",
+      "description": "栗太子废为临江王。",
+      "evidence": [
+        "p23"
+      ]
+    },
+    {
+      "id": "place:武安",
+      "name": "武安",
+      "alias": [],
+      "type": "县",
+      "description": "田蚡封武安侯之地（属魏郡）。",
+      "evidence": [
+        "p24"
+      ]
+    },
+    {
+      "id": "place:周阳",
+      "name": "周阳",
+      "alias": [],
+      "type": "县",
+      "description": "田胜封周阳侯之地（属上郡）。",
+      "evidence": [
+        "p24"
+      ]
+    },
+    {
+      "id": "place:平阳",
+      "name": "平阳",
+      "alias": [],
+      "type": "邑",
+      "description": "平阳公主、平阳侯邑；卫子夫出此。",
+      "evidence": [
+        "p25",
+        "p27"
+      ]
+    },
+    {
+      "id": "place:南宫",
+      "name": "南宫",
+      "alias": [],
+      "type": "县",
+      "description": "王太后次女封南宫公主（冀州县）。",
+      "evidence": [
+        "p25"
+      ]
+    },
+    {
+      "id": "place:林虑",
+      "name": "林虑",
+      "alias": [
+        "隆虑"
+      ],
+      "type": "县",
+      "description": "王太后女封林虑公主（属河内，本名隆虑）。",
+      "evidence": [
+        "p25"
+      ]
+    },
+    {
+      "id": "place:阳陵",
+      "name": "阳陵",
+      "alias": [],
+      "type": "陵",
+      "description": "景帝陵，王太后合葬于此。",
+      "evidence": [
+        "p26"
+      ]
+    },
+    {
+      "id": "place:霸上",
+      "name": "霸上",
+      "alias": [],
+      "type": "地",
+      "description": "武帝祓禊之所，还而过平阳主。",
+      "evidence": [
+        "p27"
+      ]
+    },
+    {
+      "id": "place:中山",
+      "name": "中山",
+      "alias": [],
+      "type": "国",
+      "description": "李夫人乡里。",
+      "evidence": [
+        "p32"
+      ]
+    },
+    {
+      "id": "place:昌邑",
+      "name": "昌邑",
+      "alias": [],
+      "type": "国",
+      "description": "李夫人子封昌邑王。",
+      "evidence": [
+        "p32"
+      ]
+    },
+    {
+      "id": "place:大宛",
+      "name": "大宛",
+      "alias": [],
+      "type": "国",
+      "description": "李广利伐大宛，国近西海，故号海西侯。",
+      "evidence": [
+        "p33"
+      ]
+    },
+    {
+      "id": "place:海西",
+      "name": "海西",
+      "alias": [],
+      "type": "县",
+      "description": "李广利封海西侯之地（以伐大宛近西海而号）。",
+      "evidence": [
+        "p33"
+      ]
+    },
+    {
+      "id": "place:广陵",
+      "name": "广陵",
+      "alias": [],
+      "type": "国",
+      "description": "武帝子刘胥封广陵王之国。",
+      "evidence": [
+        "p34"
+      ]
+    },
+    {
+      "id": "place:长乐宫",
+      "name": "长乐宫",
+      "alias": [],
+      "type": "宫",
+      "description": "武帝迎取修成君后径入此宫拜谒太后。",
+      "evidence": [
+        "p36"
+      ]
+    },
+    {
+      "id": "place:横城门",
+      "name": "横城门",
+      "alias": [],
+      "type": "城门",
+      "description": "长安北面西头门，武帝先驱旄骑出此门往长陵。",
+      "evidence": [
+        "p36"
+      ]
+    },
+    {
+      "id": "place:河间",
+      "name": "河间",
+      "alias": [],
+      "type": "国",
+      "description": "钩弋夫人乡里。",
+      "evidence": [
+        "p43"
+      ]
+    },
+    {
+      "id": "place:燕",
+      "name": "燕",
+      "alias": [],
+      "type": "国",
+      "description": "武帝子刘旦封燕王之国。",
+      "evidence": [
+        "p44"
+      ]
+    },
+    {
+      "id": "place:北阙",
+      "name": "北阙",
+      "alias": [],
+      "type": "宫阙",
+      "description": "武帝斩燕王旦使者处。",
+      "evidence": [
+        "p44"
+      ]
+    },
+    {
+      "id": "place:甘泉宫",
+      "name": "甘泉宫",
+      "alias": [],
+      "type": "宫",
+      "description": "武帝居此召画工图周公负成王。",
+      "evidence": [
+        "p45"
+      ]
+    },
+    {
+      "id": "place:云阳宫",
+      "name": "云阳宫",
+      "alias": [],
+      "type": "宫",
+      "description": "钩弋夫人死处。",
+      "evidence": [
+        "p45"
+      ]
+    },
+    {
+      "id": "place:掖庭",
+      "name": "掖庭",
+      "alias": [
+        "掖庭狱"
+      ],
+      "type": "官署",
+      "description": "宫中狱署，武帝命送钩弋夫人于此。",
+      "evidence": [
+        "p45"
+      ]
+    },
+    {
+      "id": "place:涂山",
+      "name": "涂山",
+      "alias": [],
+      "type": "古国",
+      "description": "禹所娶之国，在今九江。",
+      "evidence": [
+        "p1"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "event:吕后夷戚氏诛赵王",
+      "name": "吕后夷戚氏诛赵王",
+      "alias": [],
+      "type": "事件",
+      "description": "高祖崩后，吕后夷灭戚氏、诛赵王如意，后宫无宠疏远者乃得无恙。",
+      "evidence": [
+        "p2"
+      ]
+    },
+    {
+      "id": "event:张后诈取后宫子",
+      "name": "张后诈取后宫子",
+      "alias": [],
+      "type": "事件",
+      "description": "吕太后以重亲之故，欲孝惠皇后生子万方而终无子，诈取后宫人子为子。",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "id": "event:诛诸吕与迎立代王",
+      "name": "诛诸吕与迎立代王",
+      "alias": [],
+      "type": "事件",
+      "description": "高后崩，吕禄、吕产等谋作乱，大臣征之，卒灭吕氏，迎立代王为孝文帝。",
+      "evidence": [
+        "p4",
+        "p8"
+      ]
+    },
+    {
+      "id": "event:薄姬入织室幸高祖",
+      "name": "薄姬入织室幸高祖",
+      "alias": [],
+      "type": "事件",
+      "description": "魏豹灭，薄姬输织室；汉王入织室见其有色，诏内后宫，一幸生男（代王）。",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "id": "event:追尊薄父为灵文侯",
+      "name": "追尊薄父为灵文侯",
+      "alias": [],
+      "type": "事件",
+      "description": "薄太后母亦前死，乃追尊薄父为灵文侯，会稽置园邑三百家。",
+      "evidence": [
+        "p9"
+      ]
+    },
+    {
+      "id": "event:窦姬误置代伍",
+      "name": "窦姬误置代伍",
+      "alias": [],
+      "type": "事件",
+      "description": "吕太后出宫人赐诸王，窦姬请置赵伍而宦者误置代伍，至代独幸于代王。",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "id": "event:窦姬立为皇后",
+      "name": "窦姬立为皇后",
+      "alias": [],
+      "type": "事件",
+      "description": "代王立为帝，王后所生四男更病死，窦姬长男立为太子，窦姬立为皇后。",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "id": "event:窦广国认亲",
+      "name": "窦广国认亲",
+      "alias": [],
+      "type": "事件",
+      "description": "窦少君自陈为窦后之弟，言传舍中姊沐饭之事为验，果是，厚赐田宅金钱。",
+      "evidence": [
+        "p13"
+      ]
+    },
+    {
+      "id": "event:绛灌为窦氏择师",
+      "name": "绛灌为窦氏择师",
+      "alias": [],
+      "type": "事件",
+      "description": "绛侯、灌将军等选长者士有节行者与窦氏兄弟居，使为退让君子。",
+      "evidence": [
+        "p14"
+      ]
+    },
+    {
+      "id": "event:窦氏三人为侯",
+      "name": "窦氏三人为侯",
+      "alias": [],
+      "type": "事件",
+      "description": "窦广国封章武侯、窦彭祖封南皮侯、窦婴以军功封魏其侯，窦氏凡三人为侯。",
+      "evidence": [
+        "p15"
+      ]
+    },
+    {
+      "id": "event:窦太后崩",
+      "name": "窦太后崩",
+      "alias": [],
+      "type": "事件",
+      "description": "窦太后后孝景帝六岁、建元六年崩，合葬霸陵，遗诏尽以东宫金钱财物赐长公主嫖。",
+      "evidence": [
+        "p17"
+      ]
+    },
+    {
+      "id": "event:臧儿夺女入太子宫",
+      "name": "臧儿夺女入太子宫",
+      "alias": [],
+      "type": "事件",
+      "description": "臧儿卜两女皆当贵，夺长女于金氏，内之太子宫，太子幸爱之。",
+      "evidence": [
+        "p18"
+      ]
+    },
+    {
+      "id": "event:王夫人梦日",
+      "name": "王夫人梦日",
+      "alias": [],
+      "type": "事件",
+      "description": "王美人怀男时梦日入其怀，太子以为贵征；孝景即位而生男（武帝）。",
+      "evidence": [
+        "p18"
+      ]
+    },
+    {
+      "id": "event:废薄皇后",
+      "name": "废薄皇后",
+      "alias": [],
+      "type": "事件",
+      "description": "薄皇后无子无宠，薄太后崩后，景帝废之。",
+      "evidence": [
+        "p20"
+      ]
+    },
+    {
+      "id": "event:栗姬拒婚",
+      "name": "栗姬拒婚",
+      "alias": [],
+      "type": "事件",
+      "description": "大长公主欲以女予栗太子，栗姬妒而谢绝，大长公主怒，日谗栗姬于景帝。",
+      "evidence": [
+        "p21"
+      ]
+    },
+    {
+      "id": "event:栗太子废栗姬忧死",
+      "name": "栗太子废栗姬忧死",
+      "alias": [],
+      "type": "事件",
+      "description": "王夫人阴使人趣大臣立栗姬为皇后，大行奏请，景帝怒，诛大行、废太子荣，栗姬恚恨忧死。",
+      "evidence": [
+        "p23"
+      ]
+    },
+    {
+      "id": "event:立王夫人为皇后",
+      "name": "立王夫人为皇后",
+      "alias": [],
+      "type": "事件",
+      "description": "栗太子废后，卒立王夫人为皇后，其男为太子，封皇后兄信为盖侯。",
+      "evidence": [
+        "p23"
+      ]
+    },
+    {
+      "id": "event:王太后崩葬阳陵",
+      "name": "王太后崩葬阳陵",
+      "alias": [],
+      "type": "事件",
+      "description": "王太后后孝景帝十六岁，以元朔四年崩，合葬阳陵。",
+      "evidence": [
+        "p26"
+      ]
+    },
+    {
+      "id": "event:武帝迎取修成君",
+      "name": "武帝迎取修成君",
+      "alias": [],
+      "type": "事件",
+      "description": "武帝自往长陵迎取王太后在民间所生之女，载入长乐宫拜谒太后，号修成君。",
+      "evidence": [
+        "p36"
+      ]
+    },
+    {
+      "id": "event:卫子夫入宫得幸",
+      "name": "卫子夫入宫得幸",
+      "alias": [],
+      "type": "事件",
+      "description": "武帝过平阳主家，悦歌者卫子夫，得幸；入宫岁余不复幸，涕泣请出而复幸，遂有身。",
+      "evidence": [
+        "p27"
+      ]
+    },
+    {
+      "id": "event:废陈皇后立卫子夫",
+      "name": "废陈皇后立卫子夫",
+      "alias": [],
+      "type": "事件",
+      "description": "陈皇后挟妇人媚道事觉，武帝废之，而立卫子夫为皇后。",
+      "evidence": [
+        "p28"
+      ]
+    },
+    {
+      "id": "event:卫青击胡封侯",
+      "name": "卫青击胡封侯",
+      "alias": [],
+      "type": "事件",
+      "description": "卫青为将军击胡有功，封长平侯，三子在襁褓皆封列侯；霍去病以军功封冠军侯。",
+      "evidence": [
+        "p30"
+      ]
+    },
+    {
+      "id": "event:卫氏五人为侯",
+      "name": "卫氏五人为侯",
+      "alias": [],
+      "type": "事件",
+      "description": "卫氏枝属以军功起家，五人为侯，贵震天下，天下歌之。",
+      "evidence": [
+        "p30",
+        "p37"
+      ]
+    },
+    {
+      "id": "event:平阳公主嫁卫青",
+      "name": "平阳公主嫁卫青",
+      "alias": [],
+      "type": "事件",
+      "description": "平阳主寡居，左右皆言大将军可，主许之，白于武帝，诏卫将军尚平阳公主。",
+      "evidence": [
+        "p38"
+      ]
+    },
+    {
+      "id": "event:尹邢相妒",
+      "name": "尹邢相妒",
+      "alias": [],
+      "type": "事件",
+      "description": "尹夫人请见邢夫人，帝令他人饰为邢夫人，尹夫人辨其非，及见真邢夫人乃俯泣自痛不如。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "event:钩弋夫人生昭帝",
+      "name": "钩弋夫人生昭帝",
+      "alias": [],
+      "type": "事件",
+      "description": "钩弋夫人得幸武帝，生子一人即昭帝；武帝年七十乃生昭帝。",
+      "evidence": [
+        "p43"
+      ]
+    },
+    {
+      "id": "event:燕王旦上书斩使",
+      "name": "燕王旦上书斩使",
+      "alias": [],
+      "type": "事件",
+      "description": "卫太子废后未复立太子，燕王旦上书愿归国入宿卫，武帝怒，立斩其使者于北阙。",
+      "evidence": [
+        "p44"
+      ]
+    },
+    {
+      "id": "event:武帝赐死钩弋夫人",
+      "name": "武帝赐死钩弋夫人",
+      "alias": [],
+      "type": "事件",
+      "description": "武帝居甘泉宫画周公负成王，谴责钩弋夫人，送掖庭狱，夫人死云阳宫。",
+      "evidence": [
+        "p45"
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept:外戚",
+      "name": "外戚",
+      "alias": [],
+      "type": "体例",
+      "description": "纪后妃及其后族，后族亦代有封爵，故立此篇；《汉书》编之列传之中。",
+      "evidence": [
+        "p0",
+        "p1"
+      ]
+    },
+    {
+      "id": "concept:世家",
+      "name": "世家",
+      "alias": [
+        "系家"
+      ],
+      "type": "体例",
+      "description": "《史记》五体之一。本篇记汉室外戚后妃之世系与兴废。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "concept:继体守文",
+      "name": "继体守文",
+      "alias": [],
+      "type": "政论",
+      "description": "继体谓嫡子继先帝之正体而立；守文谓守先帝法度为之主。",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "id": "concept:妃匹之爱",
+      "name": "妃匹之爱",
+      "alias": [
+        "夫妇之际"
+      ],
+      "type": "政论",
+      "description": "夫妇相配之爱为君父所不能夺，然成败有命，非通幽明之变不能识性命。",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "id": "concept:重亲",
+      "name": "重亲",
+      "alias": [],
+      "type": "礼制",
+      "description": "亲上加亲，如张敖尚吕后女而其女又为惠帝后之类。",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "id": "concept:黄老",
+      "name": "黄老",
+      "alias": [
+        "黄帝老子言"
+      ],
+      "type": "学说",
+      "description": "黄帝、老子之学；窦太后好之，帝及太子、诸窦不得不读，尊其术。",
+      "evidence": [
+        "p16"
+      ]
+    },
+    {
+      "id": "concept:祓禊",
+      "name": "祓禊",
+      "alias": [
+        "祓除"
+      ],
+      "type": "礼俗",
+      "description": "三月上巳临水祓除之称；武帝祓霸上而还过平阳主。",
+      "evidence": [
+        "p27"
+      ]
+    },
+    {
+      "id": "concept:主少母壮",
+      "name": "主少母壮",
+      "alias": [
+        "子少母壮"
+      ],
+      "type": "政论",
+      "description": "武帝谓往古国家之乱由主少母壮、女主独居骄蹇淫乱，故凡生子者其母无不谴死。",
+      "evidence": [
+        "p46"
+      ]
+    },
+    {
+      "id": "concept:美女入室恶女之仇",
+      "name": "美女入室恶女之仇",
+      "alias": [],
+      "type": "谚语",
+      "description": "谚语，谓美女入室则为丑女所仇；褚先生引以论士女之相妒。",
+      "evidence": [
+        "p41",
+        "p42"
+      ]
+    },
+    {
+      "id": "concept:丈夫龙变",
+      "name": "丈夫龙变",
+      "alias": [],
+      "type": "谚语",
+      "description": "褚先生引传「蛇化为龙，不变其文；家化为国，不变其姓」，谓丈夫富贵则百恶灭除。",
+      "evidence": [
+        "p39"
+      ]
+    },
+    {
+      "id": "concept:褚先生补史",
+      "name": "褚先生补史",
+      "alias": [
+        "褚少孙"
+      ],
+      "type": "体例",
+      "description": "本篇 p36、p39、p42「褚先生曰」诸段为元成间褚少孙所补，《正义》已疑之。",
+      "evidence": [
+        "p36",
+        "p39",
+        "p42"
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "subject": "刘邦",
+      "predicate": "妻于",
+      "object": "吕后",
+      "evidence": [
+        "p2"
+      ]
+    },
+    {
+      "subject": "刘邦",
+      "predicate": "妾于",
+      "object": "戚夫人",
+      "evidence": [
+        "p2"
+      ]
+    },
+    {
+      "subject": "刘邦",
+      "predicate": "子于",
+      "object": "刘如意",
+      "evidence": [
+        "p2"
+      ]
+    },
+    {
+      "subject": "吕后",
+      "predicate": "夷",
+      "object": "戚夫人",
+      "evidence": [
+        "p2"
+      ]
+    },
+    {
+      "subject": "吕后",
+      "predicate": "诛",
+      "object": "刘如意",
+      "evidence": [
+        "p2"
+      ]
+    },
+    {
+      "subject": "吕后",
+      "predicate": "女于",
+      "object": "鲁元公主",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "subject": "鲁元公主",
+      "predicate": "妻于",
+      "object": "张敖",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "subject": "鲁元公主",
+      "predicate": "生",
+      "object": "孝惠皇后",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "subject": "张敖",
+      "predicate": "女于",
+      "object": "孝惠皇后",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "subject": "吕后",
+      "predicate": "王",
+      "object": "吕禄",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "subject": "吕禄",
+      "predicate": "女为后于",
+      "object": "少帝",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "subject": "大臣",
+      "predicate": "诛",
+      "object": "吕禄",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "subject": "大臣",
+      "predicate": "诛",
+      "object": "吕产",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "subject": "大臣",
+      "predicate": "迎立",
+      "object": "孝文帝",
+      "evidence": [
+        "p4",
+        "p8"
+      ]
+    },
+    {
+      "subject": "魏媪",
+      "predicate": "母于",
+      "object": "薄太后",
+      "evidence": [
+        "p5",
+        "p6"
+      ]
+    },
+    {
+      "subject": "薄父",
+      "predicate": "通于",
+      "object": "魏媪",
+      "evidence": [
+        "p5"
+      ]
+    },
+    {
+      "subject": "魏媪",
+      "predicate": "内薄姬于魏宫",
+      "object": "魏豹",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "subject": "许负",
+      "predicate": "相",
+      "object": "薄太后",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "subject": "魏豹",
+      "predicate": "背汉",
+      "object": "刘邦",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "subject": "曹参",
+      "predicate": "虏",
+      "object": "魏豹",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "subject": "刘邦",
+      "predicate": "幸",
+      "object": "薄太后",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "subject": "薄太后",
+      "predicate": "生",
+      "object": "孝文帝",
+      "evidence": [
+        "p6",
+        "p7"
+      ]
+    },
+    {
+      "subject": "薄昭",
+      "predicate": "弟于",
+      "object": "薄太后",
+      "evidence": [
+        "p7",
+        "p8"
+      ]
+    },
+    {
+      "subject": "代王王后",
+      "predicate": "妻于",
+      "object": "孝文帝",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "subject": "吕后",
+      "predicate": "出宫人赐",
+      "object": "孝文帝",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "subject": "孝文帝",
+      "predicate": "幸",
+      "object": "窦太后",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "subject": "窦太后",
+      "predicate": "生",
+      "object": "大长公主",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "subject": "窦太后",
+      "predicate": "生",
+      "object": "梁孝王",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "subject": "窦长君",
+      "predicate": "兄于",
+      "object": "窦太后",
+      "evidence": [
+        "p13"
+      ]
+    },
+    {
+      "subject": "窦广国",
+      "predicate": "弟于",
+      "object": "窦太后",
+      "evidence": [
+        "p13"
+      ]
+    },
+    {
+      "subject": "窦广国",
+      "predicate": "封",
+      "object": "章武",
+      "evidence": [
+        "p15"
+      ]
+    },
+    {
+      "subject": "窦婴",
+      "predicate": "昆弟子于",
+      "object": "窦太后",
+      "evidence": [
+        "p15"
+      ]
+    },
+    {
+      "subject": "窦太后",
+      "predicate": "好",
+      "object": "黄老",
+      "evidence": [
+        "p16"
+      ]
+    },
+    {
+      "subject": "臧儿",
+      "predicate": "母于",
+      "object": "王太后",
+      "evidence": [
+        "p18"
+      ]
+    },
+    {
+      "subject": "王仲",
+      "predicate": "妻于",
+      "object": "臧儿",
+      "evidence": [
+        "p18"
+      ]
+    },
+    {
+      "subject": "田氏",
+      "predicate": "妻于",
+      "object": "臧儿",
+      "evidence": [
+        "p18"
+      ]
+    },
+    {
+      "subject": "臧儿",
+      "predicate": "生",
+      "object": "王信",
+      "evidence": [
+        "p18"
+      ]
+    },
+    {
+      "subject": "臧儿",
+      "predicate": "生",
+      "object": "田蚡",
+      "evidence": [
+        "p18"
+      ]
+    },
+    {
+      "subject": "臧儿",
+      "predicate": "生",
+      "object": "田胜",
+      "evidence": [
+        "p18"
+      ]
+    },
+    {
+      "subject": "臧儿",
+      "predicate": "生",
+      "object": "儿姁",
+      "evidence": [
+        "p19"
+      ]
+    },
+    {
+      "subject": "王太后",
+      "predicate": "生",
+      "object": "汉武帝",
+      "evidence": [
+        "p18",
+        "p23"
+      ]
+    },
+    {
+      "subject": "王太后",
+      "predicate": "生",
+      "object": "平阳公主",
+      "evidence": [
+        "p25"
+      ]
+    },
+    {
+      "subject": "王太后",
+      "predicate": "生",
+      "object": "南宫公主",
+      "evidence": [
+        "p25"
+      ]
+    },
+    {
+      "subject": "王太后",
+      "predicate": "生",
+      "object": "林虑公主",
+      "evidence": [
+        "p25"
+      ]
+    },
+    {
+      "subject": "金王孙",
+      "predicate": "妻于",
+      "object": "修成君",
+      "evidence": [
+        "p18",
+        "p36"
+      ]
+    },
+    {
+      "subject": "汉景帝",
+      "predicate": "立",
+      "object": "薄皇后",
+      "evidence": [
+        "p20"
+      ]
+    },
+    {
+      "subject": "汉景帝",
+      "predicate": "废",
+      "object": "薄皇后",
+      "evidence": [
+        "p20"
+      ]
+    },
+    {
+      "subject": "栗姬",
+      "predicate": "生",
+      "object": "刘荣",
+      "evidence": [
+        "p21"
+      ]
+    },
+    {
+      "subject": "大长公主",
+      "predicate": "女于",
+      "object": "陈皇后",
+      "evidence": [
+        "p29"
+      ]
+    },
+    {
+      "subject": "汉景帝",
+      "predicate": "立",
+      "object": "王太后",
+      "evidence": [
+        "p23"
+      ]
+    },
+    {
+      "subject": "汉武帝",
+      "predicate": "迎取",
+      "object": "修成君",
+      "evidence": [
+        "p36"
+      ]
+    },
+    {
+      "subject": "卫子夫",
+      "predicate": "讴者于",
+      "object": "平阳公主",
+      "evidence": [
+        "p27"
+      ]
+    },
+    {
+      "subject": "卫子夫",
+      "predicate": "生",
+      "object": "刘据",
+      "evidence": [
+        "p27",
+        "p30"
+      ]
+    },
+    {
+      "subject": "汉武帝",
+      "predicate": "废",
+      "object": "陈皇后",
+      "evidence": [
+        "p28"
+      ]
+    },
+    {
+      "subject": "汉武帝",
+      "predicate": "立",
+      "object": "卫子夫",
+      "evidence": [
+        "p28"
+      ]
+    },
+    {
+      "subject": "卫青",
+      "predicate": "弟于",
+      "object": "卫子夫",
+      "evidence": [
+        "p27",
+        "p30"
+      ]
+    },
+    {
+      "subject": "卫伉",
+      "predicate": "子于",
+      "object": "卫青",
+      "evidence": [
+        "p37"
+      ]
+    },
+    {
+      "subject": "卫少儿",
+      "predicate": "生",
+      "object": "霍去病",
+      "evidence": [
+        "p30"
+      ]
+    },
+    {
+      "subject": "李延年",
+      "predicate": "兄于",
+      "object": "李夫人",
+      "evidence": [
+        "p33"
+      ]
+    },
+    {
+      "subject": "李广利",
+      "predicate": "兄于",
+      "object": "李夫人",
+      "evidence": [
+        "p33"
+      ]
+    },
+    {
+      "subject": "平阳公主",
+      "predicate": "嫁于",
+      "object": "卫青",
+      "evidence": [
+        "p38"
+      ]
+    },
+    {
+      "subject": "钩弋夫人",
+      "predicate": "生",
+      "object": "汉昭帝",
+      "evidence": [
+        "p43"
+      ]
+    },
+    {
+      "subject": "汉武帝",
+      "predicate": "赐死",
+      "object": "钩弋夫人",
+      "evidence": [
+        "p45"
+      ]
+    },
+    {
+      "subject": "刘旦",
+      "predicate": "子于",
+      "object": "汉武帝",
+      "evidence": [
+        "p34",
+        "p44"
+      ]
+    },
+    {
+      "subject": "刘胥",
+      "predicate": "子于",
+      "object": "汉武帝",
+      "evidence": [
+        "p34"
+      ]
+    },
+    {
+      "subject": "齐王闳",
+      "predicate": "子于",
+      "object": "汉武帝",
+      "evidence": [
+        "p31"
+      ]
+    },
+    {
+      "subject": "昌邑王髆",
+      "predicate": "子于",
+      "object": "汉武帝",
+      "evidence": [
+        "p32"
+      ]
+    },
+    {
+      "subject": "汉武帝",
+      "predicate": "命画周公负",
+      "object": "成王",
+      "evidence": [
+        "p45"
+      ]
+    },
+    {
+      "subject": "韩嫣",
+      "predicate": "白太后女于",
+      "object": "汉武帝",
+      "evidence": [
+        "p36"
+      ]
+    }
+  ],
+  "note": "定稿：据《外戚世家-本体校验.md》补入人物 14 条（代王王后、鲁元公主、孝惠皇后、少帝、成王、齐王闳、昌邑王髆、刘胥、南宫公主、林虑公主、卫伉、田氏、梁孝王、大臣）及地理 9 条（章武、魏其、武安、周阳、海西、广陵、燕、横城门、霸上）；修正关系错接（“张敖 妻于 吕后”改为“张敖 妻于 鲁元公主”、“大长公主 女于 陈皇后”改为“陈皇后 女于 大长公主”）；补“代王王后—孝文帝”“窦太后—梁孝王”“吕后—鲁元公主—孝惠皇后”世系关系，并闭合卫、李、王氏诸系。实体与关系均带 evidence 段落 id。"
+}
