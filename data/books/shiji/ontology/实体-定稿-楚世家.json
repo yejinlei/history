@@ -1,0 +1,4517 @@
+{
+  "book": "shiji",
+  "chapter_id": "shiji-楚世家第十",
+  "title": "楚世家第十",
+  "juan": "卷四十",
+  "persons": [
+    {
+      "id": "person:颛顼高阳",
+      "name": "颛顼高阳",
+      "alias": [
+        "颛顼",
+        "高阳"
+      ],
+      "type": "古帝",
+      "dynasty": "上古",
+      "state": "",
+      "description": "五帝之一，黄帝之孙、昌意之子；楚之先祖所自出。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "person:称",
+      "name": "称",
+      "alias": [],
+      "type": "古族",
+      "dynasty": "上古",
+      "state": "",
+      "description": "高阳之子，卷章之父。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "person:卷章",
+      "name": "卷章",
+      "alias": [
+        "老童"
+      ],
+      "type": "古族",
+      "dynasty": "上古",
+      "state": "",
+      "description": "称之子，重黎之父；一名老童。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "person:重黎",
+      "name": "重黎",
+      "alias": [],
+      "type": "古族",
+      "dynasty": "上古",
+      "state": "",
+      "description": "帝喾高辛的火正，能光融天下，帝喾命曰祝融；诛共工氏不尽而被诛。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "person:吴回",
+      "name": "吴回",
+      "alias": [],
+      "type": "古族",
+      "dynasty": "上古",
+      "state": "",
+      "description": "重黎之弟，继为火正，复称祝融，为楚及司马氏之祖。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "person:陆终",
+      "name": "陆终",
+      "alias": [],
+      "type": "古族",
+      "dynasty": "上古",
+      "state": "",
+      "description": "吴回之子，生六子（昆吾、参胡、彭祖、会人、曹姓、季连），皆坼剖而产。",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "id": "person:昆吾",
+      "name": "昆吾",
+      "alias": [
+        "樊"
+      ],
+      "type": "古国君主",
+      "dynasty": "上古",
+      "state": "昆吾",
+      "description": "陆终长子，名樊，己姓；夏时为侯伯，桀时为汤所灭；旧居许地。",
+      "evidence": [
+        "p1",
+        "p40"
+      ]
+    },
+    {
+      "id": "person:参胡",
+      "name": "参胡",
+      "alias": [
+        "惠连"
+      ],
+      "type": "古国君主",
+      "dynasty": "上古",
+      "state": "参胡",
+      "description": "陆终次子，斟姓，无后。",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "id": "person:彭祖",
+      "name": "彭祖",
+      "alias": [
+        "篯"
+      ],
+      "type": "古国君主",
+      "dynasty": "上古",
+      "state": "大彭",
+      "description": "陆终三子，彭姓，封大彭；殷时为侯伯，殷末被灭。",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "id": "person:会人",
+      "name": "会人",
+      "alias": [
+        "求言",
+        "郐人"
+      ],
+      "type": "古国君主",
+      "dynasty": "上古",
+      "state": "郐",
+      "description": "陆终四子，妘姓，封郐。",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "id": "person:季连",
+      "name": "季连",
+      "alias": [],
+      "type": "古族",
+      "dynasty": "上古",
+      "state": "楚",
+      "description": "陆终六子，芈姓，楚之始祖。",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "id": "person:附沮",
+      "name": "附沮",
+      "alias": [],
+      "type": "古族",
+      "dynasty": "上古",
+      "state": "楚",
+      "description": "季连之子。",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "id": "person:穴熊",
+      "name": "穴熊",
+      "alias": [],
+      "type": "古族",
+      "dynasty": "上古",
+      "state": "楚",
+      "description": "附沮之子；其后中微，世系不可纪。",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "id": "person:鬻熊",
+      "name": "鬻熊",
+      "alias": [],
+      "type": "部族首领",
+      "dynasty": "商周",
+      "state": "楚",
+      "description": "季连苗裔，子事周文王，早卒，为楚受封之祖。",
+      "evidence": [
+        "p2"
+      ]
+    },
+    {
+      "id": "person:熊丽",
+      "name": "熊丽",
+      "alias": [],
+      "type": "部族首领",
+      "dynasty": "西周",
+      "state": "楚",
+      "description": "鬻熊之子。",
+      "evidence": [
+        "p2"
+      ]
+    },
+    {
+      "id": "person:熊狂",
+      "name": "熊狂",
+      "alias": [],
+      "type": "部族首领",
+      "dynasty": "西周",
+      "state": "楚",
+      "description": "熊丽之子。",
+      "evidence": [
+        "p2"
+      ]
+    },
+    {
+      "id": "person:熊绎",
+      "name": "熊绎",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "楚",
+      "description": "周成王时受封于楚蛮，子男之田，居丹阳，为楚国始封君；与鲁公伯禽等俱事成王。",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "id": "person:熊艾",
+      "name": "熊艾",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "楚",
+      "description": "熊绎之子。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "person:熊䵣",
+      "name": "熊䵣",
+      "alias": [
+        "熊亶"
+      ],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "楚",
+      "description": "熊艾之子，一作熊亶。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "person:熊胜",
+      "name": "熊胜",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "楚",
+      "description": "熊䵣之子，以弟熊杨为后。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "person:熊杨",
+      "name": "熊杨",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "楚",
+      "description": "熊胜之弟，继立。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "person:熊渠",
+      "name": "熊渠",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "楚",
+      "description": "当周夷王时兴兵伐庸、杨粤至鄂，僭立三子为王，后因惧周厉王而去王号。",
+      "evidence": [
+        "p5",
+        "p6"
+      ]
+    },
+    {
+      "id": "person:熊毋康",
+      "name": "熊毋康",
+      "alias": [
+        "康",
+        "句亶王"
+      ],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "楚",
+      "description": "熊渠长子，立为句亶王，早死。",
+      "evidence": [
+        "p5",
+        "p6"
+      ]
+    },
+    {
+      "id": "person:熊挚红",
+      "name": "熊挚红",
+      "alias": [
+        "红",
+        "鄂王"
+      ],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "楚",
+      "description": "熊渠中子，立为鄂王，继熊渠而立，为弟熊延所杀。",
+      "evidence": [
+        "p5",
+        "p6"
+      ]
+    },
+    {
+      "id": "person:执疵",
+      "name": "执疵",
+      "alias": [
+        "越章王"
+      ],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "楚",
+      "description": "熊渠少子，立为越章王。",
+      "evidence": [
+        "p5"
+      ]
+    },
+    {
+      "id": "person:熊延",
+      "name": "熊延",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "楚",
+      "description": "熊挚红之弟，杀兄自立。",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "id": "person:熊勇",
+      "name": "熊勇",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "楚",
+      "description": "熊延之子；熊勇六年周厉王出奔彘。",
+      "evidence": [
+        "p6",
+        "p7"
+      ]
+    },
+    {
+      "id": "person:熊严",
+      "name": "熊严",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "楚",
+      "description": "熊勇之弟，继立，有子四人。",
+      "evidence": [
+        "p7",
+        "p8"
+      ]
+    },
+    {
+      "id": "person:熊霜",
+      "name": "熊霜",
+      "alias": [
+        "伯霜"
+      ],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "楚",
+      "description": "熊严长子，继立；卒后三弟争立。",
+      "evidence": [
+        "p8",
+        "p9"
+      ]
+    },
+    {
+      "id": "person:仲雪",
+      "name": "仲雪",
+      "alias": [],
+      "type": "公族",
+      "dynasty": "西周",
+      "state": "楚",
+      "description": "熊严次子，争立而死。",
+      "evidence": [
+        "p8",
+        "p9"
+      ]
+    },
+    {
+      "id": "person:叔堪",
+      "name": "叔堪",
+      "alias": [],
+      "type": "公族",
+      "dynasty": "西周",
+      "state": "楚",
+      "description": "熊严三子，争立失败，避难於濮。",
+      "evidence": [
+        "p8",
+        "p9"
+      ]
+    },
+    {
+      "id": "person:熊徇",
+      "name": "熊徇",
+      "alias": [
+        "季徇"
+      ],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "楚",
+      "description": "熊严少子，继立；时郑桓公初封于郑。",
+      "evidence": [
+        "p8",
+        "p9"
+      ]
+    },
+    {
+      "id": "person:熊咢",
+      "name": "熊咢",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "西周",
+      "state": "楚",
+      "description": "熊徇之子。",
+      "evidence": [
+        "p9"
+      ]
+    },
+    {
+      "id": "person:若敖",
+      "name": "若敖",
+      "alias": [
+        "熊仪"
+      ],
+      "type": "君主",
+      "dynasty": "西周",
+      "state": "楚",
+      "description": "熊咢之子；时周幽王被杀、周室东迁。",
+      "evidence": [
+        "p9",
+        "p10",
+        "p11"
+      ]
+    },
+    {
+      "id": "person:霄敖",
+      "name": "霄敖",
+      "alias": [
+        "熊坎"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "若敖之子。",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "id": "person:蚡冒",
+      "name": "蚡冒",
+      "alias": [
+        "熊眴"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "霄敖之子；死后其弟熊通杀其子自立。",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "id": "person:楚武王",
+      "name": "楚武王",
+      "alias": [
+        "熊通"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "蚡冒之弟，杀蚡冒子自立；伐随、自尊为武王，始开濮地。",
+      "evidence": [
+        "p11",
+        "p13",
+        "p14"
+      ]
+    },
+    {
+      "id": "person:楚文王",
+      "name": "楚文王",
+      "alias": [
+        "熊赀"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "武王之子，始都郢；伐申过邓、虏蔡哀侯、灭邓。",
+      "evidence": [
+        "p14",
+        "p15",
+        "p16"
+      ]
+    },
+    {
+      "id": "person:杜敖",
+      "name": "杜敖",
+      "alias": [
+        "熊囏"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "文王之子，欲杀弟熊恽，反被熊恽与随人所杀。",
+      "evidence": [
+        "p16"
+      ]
+    },
+    {
+      "id": "person:楚成王",
+      "name": "楚成王",
+      "alias": [
+        "熊恽"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "杀兄杜敖而立；结好诸侯、受周赐胙，与齐桓公盟，战泓水伤宋襄公；后为太子商臣所弑。",
+      "evidence": [
+        "p16",
+        "p17",
+        "p18",
+        "p20",
+        "p24"
+      ]
+    },
+    {
+      "id": "person:楚穆王",
+      "name": "楚穆王",
+      "alias": [
+        "商臣"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "成王太子，蜂目豺声，弑父自立；灭江、六、蓼。",
+      "evidence": [
+        "p24",
+        "p25"
+      ]
+    },
+    {
+      "id": "person:楚庄王",
+      "name": "楚庄王",
+      "alias": [
+        "侣",
+        "熊侣"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "穆王之子；三年不鸣一鸣惊人，灭庸、问鼎于周、围郑围宋，邲之战败晋，为春秋五霸之一。",
+      "evidence": [
+        "p25",
+        "p26",
+        "p27",
+        "p28",
+        "p29",
+        "p30",
+        "p31"
+      ]
+    },
+    {
+      "id": "person:楚共王",
+      "name": "楚共王",
+      "alias": [
+        "审",
+        "熊审"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "庄王之子；鄢陵之战败于晋、被射中目，怒杀子反。",
+      "evidence": [
+        "p32",
+        "p33",
+        "p34",
+        "p46"
+      ]
+    },
+    {
+      "id": "person:楚康王",
+      "name": "楚康王",
+      "alias": [
+        "招",
+        "熊招"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "共王之子，在位十五年卒。",
+      "evidence": [
+        "p34"
+      ]
+    },
+    {
+      "id": "person:郏敖",
+      "name": "郏敖",
+      "alias": [
+        "员",
+        "熊员"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "康王之子，为令尹公子围（灵王）所绞杀。",
+      "evidence": [
+        "p34",
+        "p35",
+        "p36"
+      ]
+    },
+    {
+      "id": "person:楚灵王",
+      "name": "楚灵王",
+      "alias": [
+        "围",
+        "公子围",
+        "熊围"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "康王弟，弑郏敖自立；会诸侯于申、作章华台、求周九鼎，众叛后饿死申亥家。",
+      "evidence": [
+        "p35",
+        "p36",
+        "p37",
+        "p38",
+        "p39",
+        "p40",
+        "p41",
+        "p42",
+        "p43"
+      ]
+    },
+    {
+      "id": "person:子比",
+      "name": "子比",
+      "alias": [
+        "初王比"
+      ],
+      "type": "公族",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "共王之子；被观从等立为王十余日，后为弃疾所逼自杀。",
+      "evidence": [
+        "p35",
+        "p41",
+        "p44",
+        "p45",
+        "p47",
+        "p48"
+      ]
+    },
+    {
+      "id": "person:子晳",
+      "name": "子晳",
+      "alias": [],
+      "type": "公族",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "共王之子；为令尹，后为弃疾所逼自杀。",
+      "evidence": [
+        "p35",
+        "p41",
+        "p44",
+        "p45",
+        "p47"
+      ]
+    },
+    {
+      "id": "person:楚平王",
+      "name": "楚平王",
+      "alias": [
+        "弃疾",
+        "熊居"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "共王幼子，诈杀子比、子晳而自立；复陈蔡、归郑侵地；纳秦女、谗太子建、杀伍奢父子。",
+      "evidence": [
+        "p44",
+        "p45",
+        "p46",
+        "p47",
+        "p48",
+        "p49",
+        "p50",
+        "p51",
+        "p52"
+      ]
+    },
+    {
+      "id": "person:太子建",
+      "name": "太子建",
+      "alias": [
+        "建"
+      ],
+      "type": "公族",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "平王太子，被费无忌谗害，出奔宋，后居郑被杀；其子为白公胜。",
+      "evidence": [
+        "p48",
+        "p49",
+        "p50",
+        "p51",
+        "p62"
+      ]
+    },
+    {
+      "id": "person:楚昭王",
+      "name": "楚昭王",
+      "alias": [
+        "珍",
+        "熊珍"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "平王之子；吴入郢出奔，申包胥乞师而复国；不祷河、让国于弟，孔子称其通大道。",
+      "evidence": [
+        "p52",
+        "p53",
+        "p55",
+        "p56",
+        "p57",
+        "p58",
+        "p59",
+        "p60",
+        "p61"
+      ]
+    },
+    {
+      "id": "person:楚惠王",
+      "name": "楚惠王",
+      "alias": [
+        "章",
+        "熊章"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "昭王之子，越女所生；白公胜之乱后复位，灭陈、蔡、杞。",
+      "evidence": [
+        "p61",
+        "p62",
+        "p63",
+        "p64"
+      ]
+    },
+    {
+      "id": "person:楚简王",
+      "name": "楚简王",
+      "alias": [
+        "中",
+        "熊中"
+      ],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "惠王之子；北伐灭莒。",
+      "evidence": [
+        "p64",
+        "p65"
+      ]
+    },
+    {
+      "id": "person:楚声王",
+      "name": "楚声王",
+      "alias": [
+        "当",
+        "熊当"
+      ],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "简王之子，被盗所杀。",
+      "evidence": [
+        "p66"
+      ]
+    },
+    {
+      "id": "person:楚悼王",
+      "name": "楚悼王",
+      "alias": [
+        "疑",
+        "熊疑"
+      ],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "声王之子；三晋伐楚，厚赂秦以和。",
+      "evidence": [
+        "p66"
+      ]
+    },
+    {
+      "id": "person:楚肃王",
+      "name": "楚肃王",
+      "alias": [
+        "臧",
+        "熊臧"
+      ],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "悼王之子；蜀伐楚取兹方，为扞关以拒之。",
+      "evidence": [
+        "p66",
+        "p67"
+      ]
+    },
+    {
+      "id": "person:楚宣王",
+      "name": "楚宣王",
+      "alias": [
+        "良夫",
+        "熊良夫"
+      ],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "肃王弟，肃王无子而立之。",
+      "evidence": [
+        "p67",
+        "p68"
+      ]
+    },
+    {
+      "id": "person:楚威王",
+      "name": "楚威王",
+      "alias": [
+        "商",
+        "熊商"
+      ],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "宣王之子；伐齐败之于徐州。",
+      "evidence": [
+        "p68",
+        "p69",
+        "p70",
+        "p71"
+      ]
+    },
+    {
+      "id": "person:楚怀王",
+      "name": "楚怀王",
+      "alias": [
+        "槐",
+        "熊槐"
+      ],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "威王之子；受张仪商於之欺、丹阳蓝田之败，后入秦被扣、客死于秦。",
+      "evidence": [
+        "p71",
+        "p76",
+        "p77",
+        "p78",
+        "p79",
+        "p80",
+        "p81",
+        "p82",
+        "p83",
+        "p84",
+        "p85",
+        "p86"
+      ]
+    },
+    {
+      "id": "person:楚顷襄王",
+      "name": "楚顷襄王",
+      "alias": [
+        "横",
+        "熊横"
+      ],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "怀王之子；郢为白起所拔，东北保于陈城。",
+      "evidence": [
+        "p85",
+        "p86",
+        "p87",
+        "p89",
+        "p90",
+        "p92",
+        "p93",
+        "p94"
+      ]
+    },
+    {
+      "id": "person:楚考烈王",
+      "name": "楚考烈王",
+      "alias": [
+        "元",
+        "熊元"
+      ],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "顷襄王之子；以左徒（黄歇）为令尹，封春申君。",
+      "evidence": [
+        "p94",
+        "p95",
+        "p96",
+        "p97"
+      ]
+    },
+    {
+      "id": "person:楚幽王",
+      "name": "楚幽王",
+      "alias": [
+        "悍"
+      ],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "考烈王之子；李园杀春申君。",
+      "evidence": [
+        "p97"
+      ]
+    },
+    {
+      "id": "person:楚哀王",
+      "name": "楚哀王",
+      "alias": [
+        "犹"
+      ],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "幽王同母弟，立二月余被庶兄负刍之徒所杀。",
+      "evidence": [
+        "p97"
+      ]
+    },
+    {
+      "id": "person:楚王负刍",
+      "name": "楚王负刍",
+      "alias": [
+        "负刍"
+      ],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "哀王庶兄，杀哀王自立；五年被秦所虏，楚灭。",
+      "evidence": [
+        "p97",
+        "p98",
+        "p99"
+      ]
+    },
+    {
+      "id": "person:伍举",
+      "name": "伍举",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "楚大夫，以隐语谏庄王、谏灵王慎终，并为灵王更定赴辞。",
+      "evidence": [
+        "p26",
+        "p36",
+        "p37"
+      ]
+    },
+    {
+      "id": "person:伍奢",
+      "name": "伍奢",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "太子建太傅，被费无忌谗害，与子伍尚同被杀。",
+      "evidence": [
+        "p49",
+        "p50",
+        "p51",
+        "p53"
+      ]
+    },
+    {
+      "id": "person:伍尚",
+      "name": "伍尚",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "伍奢长子，闻召归死。",
+      "evidence": [
+        "p50",
+        "p51"
+      ]
+    },
+    {
+      "id": "person:伍子胥",
+      "name": "伍子胥",
+      "alias": [
+        "伍胥",
+        "伍员",
+        "子胥"
+      ],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "吴",
+      "description": "伍奢次子，出奔吴；佐吴王阖闾伐楚入郢，辱平王之墓。",
+      "evidence": [
+        "p50",
+        "p51",
+        "p53",
+        "p55"
+      ]
+    },
+    {
+      "id": "person:费无忌",
+      "name": "费无忌",
+      "alias": [
+        "费无极"
+      ],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "平王时佞臣，谗害太子建、伍奢；后为令尹子常所诛。",
+      "evidence": [
+        "p48",
+        "p49",
+        "p50",
+        "p51",
+        "p53"
+      ]
+    },
+    {
+      "id": "person:伯嚭",
+      "name": "伯嚭",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "吴",
+      "description": "郤宛同宗伯氏之子，奔吴，与伍子胥共伐楚入郢。",
+      "evidence": [
+        "p53",
+        "p55"
+      ]
+    },
+    {
+      "id": "person:子西",
+      "name": "子西",
+      "alias": [],
+      "type": "令尹",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "平王庶弟，昭王时令尹；后被白公胜所杀。",
+      "evidence": [
+        "p52",
+        "p62"
+      ]
+    },
+    {
+      "id": "person:子綦",
+      "name": "子綦",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "昭王时大夫，匿昭王以脱吴难；后被白公胜所杀。",
+      "evidence": [
+        "p56",
+        "p61",
+        "p62"
+      ]
+    },
+    {
+      "id": "person:白公胜",
+      "name": "白公胜",
+      "alias": [
+        "胜",
+        "白公"
+      ],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "太子建之子，号白公，作乱杀子西、子綦、劫惠王，后为叶公所杀。",
+      "evidence": [
+        "p62"
+      ]
+    },
+    {
+      "id": "person:石乞",
+      "name": "石乞",
+      "alias": [],
+      "type": "力士",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "白公胜的勇力死士。",
+      "evidence": [
+        "p62"
+      ]
+    },
+    {
+      "id": "person:叶公",
+      "name": "叶公",
+      "alias": [
+        "沈诸梁"
+      ],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "叶公，率众救楚，杀白公胜。",
+      "evidence": [
+        "p62"
+      ]
+    },
+    {
+      "id": "person:申包胥",
+      "name": "申包胥",
+      "alias": [
+        "王孙包胥"
+      ],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "昭王时大夫，赴秦乞师救楚。",
+      "evidence": [
+        "p57"
+      ]
+    },
+    {
+      "id": "person:潘崇",
+      "name": "潘崇",
+      "alias": [],
+      "type": "太师",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "商臣之傅，助商臣弑成王；穆王以为太师。",
+      "evidence": [
+        "p24",
+        "p25"
+      ]
+    },
+    {
+      "id": "person:子上",
+      "name": "子上",
+      "alias": [],
+      "type": "令尹",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "成王时令尹，谏勿立商臣为太子。",
+      "evidence": [
+        "p24"
+      ]
+    },
+    {
+      "id": "person:子玉",
+      "name": "子玉",
+      "alias": [
+        "成得臣"
+      ],
+      "type": "将领",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "成王时将军，城濮之战败，被成王诛。",
+      "evidence": [
+        "p23"
+      ]
+    },
+    {
+      "id": "person:屈完",
+      "name": "屈完",
+      "alias": [],
+      "type": "将领",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "成王时将军，御齐桓公而与之盟。",
+      "evidence": [
+        "p18"
+      ]
+    },
+    {
+      "id": "person:申侯",
+      "name": "申侯",
+      "alias": [],
+      "type": "将领",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "成王时率兵伐齐，取穀。",
+      "evidence": [
+        "p22"
+      ]
+    },
+    {
+      "id": "person:屈匄",
+      "name": "屈匄",
+      "alias": [],
+      "type": "将领",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "怀王时大将军，丹阳之战被秦所虏。",
+      "evidence": [
+        "p78"
+      ]
+    },
+    {
+      "id": "person:逢侯丑",
+      "name": "逢侯丑",
+      "alias": [],
+      "type": "将领",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "怀王时裨将军，丹阳之战被虏。",
+      "evidence": [
+        "p78"
+      ]
+    },
+    {
+      "id": "person:唐眜",
+      "name": "唐眜",
+      "alias": [],
+      "type": "将领",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "怀王时楚将，为秦所杀。",
+      "evidence": [
+        "p84"
+      ]
+    },
+    {
+      "id": "person:景缺",
+      "name": "景缺",
+      "alias": [],
+      "type": "将领",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "怀王时将军，为秦所杀。",
+      "evidence": [
+        "p84"
+      ]
+    },
+    {
+      "id": "person:昭阳",
+      "name": "昭阳",
+      "alias": [],
+      "type": "将领",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "怀王时柱国，破魏于襄陵；陈轸以画蛇添足说之而罢攻齐。",
+      "evidence": [
+        "p73"
+      ]
+    },
+    {
+      "id": "person:景阳",
+      "name": "景阳",
+      "alias": [],
+      "type": "将领",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "考烈王时将军，救赵。",
+      "evidence": [
+        "p96"
+      ]
+    },
+    {
+      "id": "person:项燕",
+      "name": "项燕",
+      "alias": [],
+      "type": "将领",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "楚将，为秦将王翦所杀。",
+      "evidence": [
+        "p98"
+      ]
+    },
+    {
+      "id": "person:子常",
+      "name": "子常",
+      "alias": [
+        "囊瓦"
+      ],
+      "type": "令尹",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "昭王时令尹，诛费无忌；吴入郢时败走奔郑。",
+      "evidence": [
+        "p52",
+        "p53",
+        "p54",
+        "p55"
+      ]
+    },
+    {
+      "id": "person:观起",
+      "name": "观起",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "蔡",
+      "description": "蔡大夫，为灵王所杀，其子观从。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "person:观从",
+      "name": "观从",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "观起之子，劝吴伐楚、离间常寿过、立子比；平王许其为卜尹。",
+      "evidence": [
+        "p41",
+        "p44",
+        "p45"
+      ]
+    },
+    {
+      "id": "person:常寿过",
+      "name": "常寿过",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "越",
+      "description": "越大夫，被灵王羞辱，后为观从所离间。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "person:曼成然",
+      "name": "曼成然",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "奉弃疾之命恐吓子比、子晳，使之自杀。",
+      "evidence": [
+        "p44"
+      ]
+    },
+    {
+      "id": "person:申无宇",
+      "name": "申无宇",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "芋尹，曾两次犯王命而未受诛。",
+      "evidence": [
+        "p43"
+      ]
+    },
+    {
+      "id": "person:申亥",
+      "name": "申亥",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "申无宇之子，收葬饿死的灵王，以二女从死。",
+      "evidence": [
+        "p43"
+      ]
+    },
+    {
+      "id": "person:析父",
+      "name": "析父",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "楚大夫，灵王时为王仆；本篇以对王言之辞系于析父，《索隐》以为本为右尹子革之辞，史误。",
+      "evidence": [
+        "p40"
+      ]
+    },
+    {
+      "id": "person:子革",
+      "name": "子革",
+      "alias": [
+        "右尹"
+      ],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "右尹；据《左传》p40 对王言者为子革。",
+      "evidence": [
+        "p40"
+      ]
+    },
+    {
+      "id": "person:屈固",
+      "name": "屈固",
+      "alias": [],
+      "type": "从者",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "惠王从者，负王逃入昭王夫人宫。",
+      "evidence": [
+        "p62"
+      ]
+    },
+    {
+      "id": "person:奋扬",
+      "name": "奋扬",
+      "alias": [
+        "司马奋扬"
+      ],
+      "type": "司马",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "平王时司马，奉命召太子建。",
+      "evidence": [
+        "p49"
+      ]
+    },
+    {
+      "id": "person:宋遗",
+      "name": "宋遗",
+      "alias": [],
+      "type": "勇士",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "怀王派其北上辱齐王。",
+      "evidence": [
+        "p77"
+      ]
+    },
+    {
+      "id": "person:昭雎",
+      "name": "昭雎",
+      "alias": [
+        "昭子"
+      ],
+      "type": "大夫",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "怀王时大夫，谏勿入秦、主张善齐韩以重樗里疾。",
+      "evidence": [
+        "p82",
+        "p84",
+        "p85"
+      ]
+    },
+    {
+      "id": "person:春申君",
+      "name": "春申君",
+      "alias": [
+        "黄歇"
+      ],
+      "type": "令尹",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "考烈王时令尹，封于吴；后为李园所杀。",
+      "evidence": [
+        "p94",
+        "p96",
+        "p97"
+      ]
+    },
+    {
+      "id": "person:李园",
+      "name": "李园",
+      "alias": [],
+      "type": "外戚",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "幽王时杀春申君。",
+      "evidence": [
+        "p97"
+      ]
+    },
+    {
+      "id": "person:屈原",
+      "name": "屈原",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "怀王时使齐，归而谏王诛张仪。",
+      "evidence": [
+        "p80"
+      ]
+    },
+    {
+      "id": "person:靳尚",
+      "name": "靳尚",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "怀王身边之臣，为张仪说情。",
+      "evidence": [
+        "p79",
+        "p80"
+      ]
+    },
+    {
+      "id": "person:郑袖",
+      "name": "郑袖",
+      "alias": [],
+      "type": "夫人",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "怀王幸姬，所言王无不从，为张仪说情而使之获释。",
+      "evidence": [
+        "p79",
+        "p80"
+      ]
+    },
+    {
+      "id": "person:子兰",
+      "name": "子兰",
+      "alias": [],
+      "type": "公族",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "怀王之子，劝王入秦。",
+      "evidence": [
+        "p84"
+      ]
+    },
+    {
+      "id": "person:巴姬",
+      "name": "巴姬",
+      "alias": [],
+      "type": "妾",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "共王妾，与共王埋璧于室以决嗣。",
+      "evidence": [
+        "p46"
+      ]
+    },
+    {
+      "id": "person:江芈",
+      "name": "江芈",
+      "alias": [
+        "江芊"
+      ],
+      "type": "宠姬",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "成王宠姬，被商臣设计套出欲立子职之实情。",
+      "evidence": [
+        "p24"
+      ]
+    },
+    {
+      "id": "person:郑姬",
+      "name": "郑姬",
+      "alias": [],
+      "type": "姬妾",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "庄王所宠之姬。",
+      "evidence": [
+        "p26"
+      ]
+    },
+    {
+      "id": "person:越女",
+      "name": "越女",
+      "alias": [],
+      "type": "妾",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "昭王之妾，生惠王章。",
+      "evidence": [
+        "p61"
+      ]
+    },
+    {
+      "id": "person:子职",
+      "name": "子职",
+      "alias": [],
+      "type": "公子",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "成王欲立为太子而废商臣者。",
+      "evidence": [
+        "p24"
+      ]
+    },
+    {
+      "id": "person:太子禄",
+      "name": "太子禄",
+      "alias": [
+        "禄"
+      ],
+      "type": "公子",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "灵王太子，为叛军所杀。",
+      "evidence": [
+        "p41",
+        "p42"
+      ]
+    },
+    {
+      "id": "person:周幽王",
+      "name": "周幽王",
+      "alias": [],
+      "type": "周王",
+      "dynasty": "西周",
+      "state": "周",
+      "description": "为犬戎所弑，周室东徙。",
+      "evidence": [
+        "p10"
+      ]
+    },
+    {
+      "id": "person:周厉王",
+      "name": "周厉王",
+      "alias": [],
+      "type": "周王",
+      "dynasty": "西周",
+      "state": "周",
+      "description": "暴虐，国人作乱而出奔彘。",
+      "evidence": [
+        "p7"
+      ]
+    },
+    {
+      "id": "person:周宣王",
+      "name": "周宣王",
+      "alias": [],
+      "type": "周王",
+      "dynasty": "西周",
+      "state": "周",
+      "description": "初立在熊霜元年。",
+      "evidence": [
+        "p9"
+      ]
+    },
+    {
+      "id": "person:周定王",
+      "name": "周定王",
+      "alias": [],
+      "type": "周王",
+      "dynasty": "春秋",
+      "state": "周",
+      "description": "使王孙满劳楚庄王。",
+      "evidence": [
+        "p27"
+      ]
+    },
+    {
+      "id": "person:王孙满",
+      "name": "王孙满",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "周",
+      "description": "对楚庄王「在德不在鼎」，以天命未改折其问鼎之志。",
+      "evidence": [
+        "p27"
+      ]
+    },
+    {
+      "id": "person:周王赧",
+      "name": "周王赧",
+      "alias": [
+        "周赧王"
+      ],
+      "type": "周王",
+      "dynasty": "战国",
+      "state": "周",
+      "description": "使武公劝阻楚图周。",
+      "evidence": [
+        "p91"
+      ]
+    },
+    {
+      "id": "person:武公",
+      "name": "武公",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "战国",
+      "state": "周",
+      "description": "以虎肉臊、麋蒙虎皮为喻，劝阻楚相昭子图周。",
+      "evidence": [
+        "p91"
+      ]
+    },
+    {
+      "id": "person:昭子",
+      "name": "昭子",
+      "alias": [],
+      "type": "相",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "楚相，欲与齐韩图周。",
+      "evidence": [
+        "p91"
+      ]
+    },
+    {
+      "id": "person:齐桓公",
+      "name": "齐桓公",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "齐",
+      "description": "始霸，以兵侵楚至陉山，与屈完盟。",
+      "evidence": [
+        "p15",
+        "p18"
+      ]
+    },
+    {
+      "id": "person:宋襄公",
+      "name": "宋襄公",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "宋",
+      "description": "欲盟会而召楚，被执辱；泓水之败伤而死。",
+      "evidence": [
+        "p20"
+      ]
+    },
+    {
+      "id": "person:晋文公",
+      "name": "晋文公",
+      "alias": [
+        "重耳"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "出亡过楚，成王以客礼飨之；后为霸主，败楚于城濮。",
+      "evidence": [
+        "p21",
+        "p23"
+      ]
+    },
+    {
+      "id": "person:蔡哀侯",
+      "name": "蔡哀侯",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "蔡",
+      "description": "被楚文王所虏。",
+      "evidence": [
+        "p15"
+      ]
+    },
+    {
+      "id": "person:郑伯",
+      "name": "郑伯",
+      "alias": [
+        "郑襄公"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "楚庄王围郑，肉袒牵羊以迎，终得庄王许平。",
+      "evidence": [
+        "p30"
+      ]
+    },
+    {
+      "id": "person:华元",
+      "name": "华元",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "宋",
+      "description": "出城告宋围城实情，庄王称其为君子而罢兵。",
+      "evidence": [
+        "p31"
+      ]
+    },
+    {
+      "id": "person:随侯",
+      "name": "随侯",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "随",
+      "description": "被周召而受责，楚因而伐随。",
+      "evidence": [
+        "p14"
+      ]
+    },
+    {
+      "id": "person:邓侯",
+      "name": "邓侯",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "邓",
+      "description": "邓人劝取楚王而不许。",
+      "evidence": [
+        "p15"
+      ]
+    },
+    {
+      "id": "person:蔡侯",
+      "name": "蔡侯",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "蔡",
+      "description": "灵王召之，醉而杀之。",
+      "evidence": [
+        "p39"
+      ]
+    },
+    {
+      "id": "person:秦惠王",
+      "name": "秦惠王",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "欲伐齐而遣张仪欺楚，初称王。",
+      "evidence": [
+        "p72",
+        "p76",
+        "p81"
+      ]
+    },
+    {
+      "id": "person:秦武王",
+      "name": "秦武王",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "惠王死而武王立。",
+      "evidence": [
+        "p81"
+      ]
+    },
+    {
+      "id": "person:秦昭王",
+      "name": "秦昭王",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "约楚怀王会武关而扣留之，迫割巫、黔中。",
+      "evidence": [
+        "p83",
+        "p84",
+        "p85",
+        "p86",
+        "p89",
+        "p92"
+      ]
+    },
+    {
+      "id": "person:樗里疾",
+      "name": "樗里疾",
+      "alias": [
+        "樗里子"
+      ],
+      "type": "相",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "秦相，善韩；昭雎欲借齐、韩之重以重之。",
+      "evidence": [
+        "p81",
+        "p82"
+      ]
+    },
+    {
+      "id": "person:公孙衍",
+      "name": "公孙衍",
+      "alias": [],
+      "type": "相",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "秦相，善魏。",
+      "evidence": [
+        "p81"
+      ]
+    },
+    {
+      "id": "person:苏秦",
+      "name": "苏秦",
+      "alias": [],
+      "type": "说客",
+      "dynasty": "战国",
+      "state": "燕",
+      "description": "约山东六国合纵攻秦，怀王为从长。",
+      "evidence": [
+        "p75"
+      ]
+    },
+    {
+      "id": "person:齐湣王",
+      "name": "齐湣王",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "齐",
+      "description": "欲为从长，遗书劝楚合纵；又曾留楚太子以求淮北。",
+      "evidence": [
+        "p75",
+        "p81",
+        "p85"
+      ]
+    },
+    {
+      "id": "person:吴王阖闾",
+      "name": "吴王阖闾",
+      "alias": [
+        "阖闾"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "吴",
+      "description": "与伍子胥、伯嚭、唐蔡伐楚，五战入郢。",
+      "evidence": [
+        "p55",
+        "p57"
+      ]
+    },
+    {
+      "id": "person:夫概",
+      "name": "夫概",
+      "alias": [],
+      "type": "公子",
+      "dynasty": "春秋",
+      "state": "吴",
+      "description": "吴王弟，败后奔楚，封堂谿氏。",
+      "evidence": [
+        "p57"
+      ]
+    },
+    {
+      "id": "person:越王勾践",
+      "name": "越王勾践",
+      "alias": [
+        "勾践"
+      ],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "越",
+      "description": "射伤吴王阖闾致死。",
+      "evidence": [
+        "p59"
+      ]
+    },
+    {
+      "id": "person:吴王夫差",
+      "name": "吴王夫差",
+      "alias": [
+        "夫差"
+      ],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "吴",
+      "description": "强盛陵齐晋，来伐楚；后为越所灭。",
+      "evidence": [
+        "p63"
+      ]
+    },
+    {
+      "id": "person:孔子",
+      "name": "孔子",
+      "alias": [],
+      "type": "圣人",
+      "dynasty": "春秋",
+      "state": "鲁",
+      "description": "相鲁；闻楚昭王不移祸将相之言而称其通大道。",
+      "evidence": [
+        "p59",
+        "p60"
+      ]
+    },
+    {
+      "id": "person:白起",
+      "name": "白起",
+      "alias": [],
+      "type": "将领",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "伐韩于伊阙，拔楚郢、烧夷陵。",
+      "evidence": [
+        "p87",
+        "p92"
+      ]
+    },
+    {
+      "id": "person:秦庄襄王",
+      "name": "秦庄襄王",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "卒，子政立。",
+      "evidence": [
+        "p96"
+      ]
+    },
+    {
+      "id": "person:秦王政",
+      "name": "秦王政",
+      "alias": [
+        "政",
+        "赵政",
+        "嬴政"
+      ],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "庄襄王之子，即秦始皇。",
+      "evidence": [
+        "p96"
+      ]
+    },
+    {
+      "id": "person:吕不韦",
+      "name": "吕不韦",
+      "alias": [],
+      "type": "相",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "秦相。",
+      "evidence": [
+        "p97"
+      ]
+    },
+    {
+      "id": "person:赵主父",
+      "name": "赵主父",
+      "alias": [
+        "赵武灵王"
+      ],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "赵",
+      "description": "在代，名赵武灵王。",
+      "evidence": [
+        "p86"
+      ]
+    },
+    {
+      "id": "person:赵惠王",
+      "name": "赵惠王",
+      "alias": [
+        "赵惠文王"
+      ],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "赵",
+      "description": "赵主父之子，初立，不敢纳楚怀王。",
+      "evidence": [
+        "p86"
+      ]
+    },
+    {
+      "id": "person:魏文侯",
+      "name": "魏文侯",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "始列为诸侯。",
+      "evidence": [
+        "p65"
+      ]
+    },
+    {
+      "id": "person:韩武子",
+      "name": "韩武子",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "韩",
+      "description": "始列为诸侯。",
+      "evidence": [
+        "p65"
+      ]
+    },
+    {
+      "id": "person:赵桓子",
+      "name": "赵桓子",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "赵",
+      "description": "始列为诸侯。",
+      "evidence": [
+        "p65"
+      ]
+    },
+    {
+      "id": "person:秦献公",
+      "name": "秦献公",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "周天子贺之，秦始复强。",
+      "evidence": [
+        "p68"
+      ]
+    },
+    {
+      "id": "person:卫鞅",
+      "name": "卫鞅",
+      "alias": [
+        "商鞅"
+      ],
+      "type": "改革家",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "被秦封于商，南侵楚。",
+      "evidence": [
+        "p68"
+      ]
+    },
+    {
+      "id": "person:魏惠王",
+      "name": "魏惠王",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "三晋益大，魏惠王尤强。",
+      "evidence": [
+        "p68"
+      ]
+    },
+    {
+      "id": "person:齐威王",
+      "name": "齐威王",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "齐",
+      "description": "齐威王尤强。",
+      "evidence": [
+        "p68"
+      ]
+    },
+    {
+      "id": "person:田婴",
+      "name": "田婴",
+      "alias": [],
+      "type": "相",
+      "dynasty": "战国",
+      "state": "齐",
+      "description": "孟尝君之父，欺楚。",
+      "evidence": [
+        "p70"
+      ]
+    },
+    {
+      "id": "person:田盼子",
+      "name": "田盼子",
+      "alias": [
+        "盼子"
+      ],
+      "type": "将领",
+      "dynasty": "战国",
+      "state": "齐",
+      "description": "有功于国，百姓为之用。",
+      "evidence": [
+        "p70"
+      ]
+    },
+    {
+      "id": "person:张丑",
+      "name": "张丑",
+      "alias": [],
+      "type": "说客",
+      "dynasty": "战国",
+      "state": "齐",
+      "description": "为田婴说楚王，使楚不逐田婴。",
+      "evidence": [
+        "p70"
+      ]
+    },
+    {
+      "id": "person:申纪",
+      "name": "申纪",
+      "alias": [],
+      "type": "相",
+      "dynasty": "战国",
+      "state": "齐",
+      "description": "田婴所用以代田盼子者。",
+      "evidence": [
+        "p70"
+      ]
+    },
+    {
+      "id": "person:陈轸",
+      "name": "陈轸",
+      "alias": [],
+      "type": "说客",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "为秦使齐，以画蛇添足说昭阳罢兵；又屡谏怀王勿绝齐、勿伐秦。",
+      "evidence": [
+        "p73",
+        "p76",
+        "p77"
+      ]
+    },
+    {
+      "id": "person:张仪",
+      "name": "张仪",
+      "alias": [],
+      "type": "相",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "秦相，以商於之地六百里欺楚怀王；后又入楚，赖靳尚、郑袖脱身。",
+      "evidence": [
+        "p72",
+        "p74",
+        "p76",
+        "p77",
+        "p79",
+        "p80"
+      ]
+    },
+    {
+      "id": "person:燕太子丹",
+      "name": "燕太子丹",
+      "alias": [
+        "太子丹"
+      ],
+      "type": "公子",
+      "dynasty": "战国",
+      "state": "燕",
+      "description": "使荆轲刺秦王。",
+      "evidence": [
+        "p98"
+      ]
+    },
+    {
+      "id": "person:荆轲",
+      "name": "荆轲",
+      "alias": [],
+      "type": "刺客",
+      "dynasty": "战国",
+      "state": "燕",
+      "description": "奉太子丹之命刺秦王。",
+      "evidence": [
+        "p98"
+      ]
+    },
+    {
+      "id": "person:王翦",
+      "name": "王翦",
+      "alias": [],
+      "type": "将领",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "破楚军、杀项燕，终灭楚。",
+      "evidence": [
+        "p98",
+        "p99"
+      ]
+    },
+    {
+      "id": "person:蒙武",
+      "name": "蒙武",
+      "alias": [],
+      "type": "将领",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "与王翦共破楚。",
+      "evidence": [
+        "p99"
+      ]
+    },
+    {
+      "id": "person:赵王迁",
+      "name": "赵王迁",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "战国",
+      "state": "赵",
+      "description": "被秦所虏。",
+      "evidence": [
+        "p97"
+      ]
+    },
+    {
+      "id": "person:宋太宰华督",
+      "name": "华督",
+      "alias": [
+        "太宰华督"
+      ],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "宋",
+      "description": "弑其君殇公。",
+      "evidence": [
+        "p12"
+      ]
+    },
+    {
+      "id": "person:公子申",
+      "name": "公子申",
+      "alias": [],
+      "type": "公族",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "昭王之弟；昭王病重让国于之，不受。",
+      "evidence": [
+        "p61"
+      ]
+    },
+    {
+      "id": "person:公子结",
+      "name": "公子结",
+      "alias": [],
+      "type": "公族",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "昭王之弟；昭王让国于之，不受。",
+      "evidence": [
+        "p61"
+      ]
+    },
+    {
+      "id": "person:公子闾",
+      "name": "公子闾",
+      "alias": [],
+      "type": "公族",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "昭王之弟；五让而后许为王，昭王卒后迎立惠王。",
+      "evidence": [
+        "p61"
+      ]
+    },
+    {
+      "id": "person:潘尪",
+      "name": "潘尪",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "楚大夫，庄王许郑之平后入郑结盟。",
+      "evidence": [
+        "p30"
+      ]
+    },
+    {
+      "id": "person:子良",
+      "name": "子良",
+      "alias": [],
+      "type": "公族",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "郑伯之弟，出质于楚。",
+      "evidence": [
+        "p30"
+      ]
+    },
+    {
+      "id": "person:韩宣子",
+      "name": "韩宣子",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "晋大夫，问叔向子比能否得国。",
+      "evidence": [
+        "p47"
+      ]
+    },
+    {
+      "id": "person:叔向",
+      "name": "叔向",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "晋大夫，以「取国五难」论子比之不成、弃疾之当立。",
+      "evidence": [
+        "p47"
+      ]
+    },
+    {
+      "id": "person:周显王",
+      "name": "周显王",
+      "alias": [],
+      "type": "周王",
+      "dynasty": "战国",
+      "state": "周",
+      "description": "致文武胙于秦惠王。",
+      "evidence": [
+        "p69"
+      ]
+    },
+    {
+      "id": "person:郑文公",
+      "name": "郑文公",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "郑",
+      "description": "南朝于楚。",
+      "evidence": [
+        "p20"
+      ]
+    },
+    {
+      "id": "person:鲁僖公",
+      "name": "鲁僖公",
+      "alias": [],
+      "type": "君主",
+      "dynasty": "春秋",
+      "state": "鲁",
+      "description": "来请兵以伐齐，楚使申侯伐齐取穀。",
+      "evidence": [
+        "p22"
+      ]
+    },
+    {
+      "id": "person:郧公",
+      "name": "郧公",
+      "alias": [
+        "斗辛"
+      ],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "郧大夫；其弟怀欲弑昭王，郧公止之，与昭王出奔随。",
+      "evidence": [
+        "p56"
+      ]
+    },
+    {
+      "id": "person:怀",
+      "name": "怀",
+      "alias": [
+        "斗怀"
+      ],
+      "type": "公族",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "郧公之弟，以其父为平王所杀而欲弑昭王，为郧公所止。",
+      "evidence": [
+        "p56"
+      ]
+    },
+    {
+      "id": "person:鋗人",
+      "name": "鋗人",
+      "alias": [
+        "涓人"
+      ],
+      "type": "侍从",
+      "dynasty": "春秋",
+      "state": "楚",
+      "description": "灵王故宫中侍从，灵王向其求食，以土自代而逃去。",
+      "evidence": [
+        "p43"
+      ]
+    },
+    {
+      "id": "person:孟尝君",
+      "name": "孟尝君",
+      "alias": [],
+      "type": "公子",
+      "dynasty": "战国",
+      "state": "齐",
+      "description": "田婴之子，本篇言其父田婴欺楚。",
+      "evidence": [
+        "p70"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "id": "place:丹阳",
+      "name": "丹阳",
+      "alias": [],
+      "type": "都邑",
+      "description": "熊绎受封所居，楚始封之地；地望旧说在秭归、枝江一带。",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "id": "place:荆山",
+      "name": "荆山",
+      "alias": [],
+      "type": "山",
+      "description": "楚先王熊绎辟处之地，位于楚蛮。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "place:郢",
+      "name": "郢",
+      "alias": [],
+      "type": "都邑",
+      "description": "文王始都，在今江陵纪南城；后为白起所拔。",
+      "evidence": [
+        "p14",
+        "p51",
+        "p55",
+        "p92"
+      ]
+    },
+    {
+      "id": "place:庸",
+      "name": "庸",
+      "alias": [
+        "庸国"
+      ],
+      "type": "国",
+      "description": "楚所伐之国，后为楚所灭；地在上庸一带。",
+      "evidence": [
+        "p5",
+        "p26"
+      ]
+    },
+    {
+      "id": "place:杨粤",
+      "name": "杨粤",
+      "alias": [
+        "杨越"
+      ],
+      "type": "国",
+      "description": "熊渠所伐之地。",
+      "evidence": [
+        "p5"
+      ]
+    },
+    {
+      "id": "place:鄂",
+      "name": "鄂",
+      "alias": [],
+      "type": "邑",
+      "description": "熊渠所至，中子红为鄂王；即今武昌一带。",
+      "evidence": [
+        "p5"
+      ]
+    },
+    {
+      "id": "place:濮",
+      "name": "濮",
+      "alias": [],
+      "type": "地",
+      "description": "叔堪避难之地；楚武王始开濮地而有之。",
+      "evidence": [
+        "p9",
+        "p13"
+      ]
+    },
+    {
+      "id": "place:陉山",
+      "name": "陉山",
+      "alias": [],
+      "type": "山",
+      "description": "齐桓公侵楚至陉山；魏亦取楚陉山。",
+      "evidence": [
+        "p18",
+        "p71"
+      ]
+    },
+    {
+      "id": "place:穀",
+      "name": "穀",
+      "alias": [],
+      "type": "邑",
+      "description": "楚伐齐所取，置齐桓公子雍。",
+      "evidence": [
+        "p22"
+      ]
+    },
+    {
+      "id": "place:泓",
+      "name": "泓",
+      "alias": [],
+      "type": "水",
+      "description": "楚败宋襄公处。",
+      "evidence": [
+        "p20"
+      ]
+    },
+    {
+      "id": "place:城濮",
+      "name": "城濮",
+      "alias": [],
+      "type": "地",
+      "description": "晋败楚子玉处。",
+      "evidence": [
+        "p23"
+      ]
+    },
+    {
+      "id": "place:洛",
+      "name": "洛",
+      "alias": [
+        "雒"
+      ],
+      "type": "水",
+      "description": "楚庄王观兵于周郊之地。",
+      "evidence": [
+        "p27"
+      ]
+    },
+    {
+      "id": "place:朱方",
+      "name": "朱方",
+      "alias": [],
+      "type": "邑",
+      "description": "灵王伐吴围之，囚庆封。",
+      "evidence": [
+        "p37"
+      ]
+    },
+    {
+      "id": "place:章华台",
+      "name": "章华台",
+      "alias": [
+        "章华台"
+      ],
+      "type": "台",
+      "description": "灵王所作之台，又内亡人以实之。",
+      "evidence": [
+        "p38"
+      ]
+    },
+    {
+      "id": "place:乾谿",
+      "name": "乾谿",
+      "alias": [],
+      "type": "地",
+      "description": "灵王乐之不能去，终致众溃而死。",
+      "evidence": [
+        "p40",
+        "p41",
+        "p42"
+      ]
+    },
+    {
+      "id": "place:申",
+      "name": "申",
+      "alias": [],
+      "type": "邑",
+      "description": "灵王会诸侯之地；楚亦灭申。",
+      "evidence": [
+        "p36",
+        "p41"
+      ]
+    },
+    {
+      "id": "place:鄢",
+      "name": "鄢",
+      "alias": [],
+      "type": "别都",
+      "description": "楚别都，灵王欲入鄢；后为秦楚相会之地。",
+      "evidence": [
+        "p42",
+        "p89"
+      ]
+    },
+    {
+      "id": "place:釐泽",
+      "name": "釐泽",
+      "alias": [],
+      "type": "地",
+      "description": "灵王饥饿遇申亥之处。",
+      "evidence": [
+        "p43"
+      ]
+    },
+    {
+      "id": "place:居巢",
+      "name": "居巢",
+      "alias": [
+        "巢"
+      ],
+      "type": "邑",
+      "description": "太子建母所在，吴所灭；后为白公胜所治。",
+      "evidence": [
+        "p51",
+        "p62"
+      ]
+    },
+    {
+      "id": "place:钟离",
+      "name": "钟离",
+      "alias": [],
+      "type": "邑",
+      "description": "吴楚争桑之处，吴灭之。",
+      "evidence": [
+        "p51"
+      ]
+    },
+    {
+      "id": "place:卑梁",
+      "name": "卑梁",
+      "alias": [],
+      "type": "邑",
+      "description": "吴之边邑。",
+      "evidence": [
+        "p51"
+      ]
+    },
+    {
+      "id": "place:云梦",
+      "name": "云梦",
+      "alias": [],
+      "type": "地",
+      "description": "昭王出奔被射之处。",
+      "evidence": [
+        "p56"
+      ]
+    },
+    {
+      "id": "place:郧",
+      "name": "郧",
+      "alias": [],
+      "type": "邑",
+      "description": "昭王奔避之地。",
+      "evidence": [
+        "p56"
+      ]
+    },
+    {
+      "id": "place:随",
+      "name": "随",
+      "alias": [
+        "随国"
+      ],
+      "type": "国",
+      "description": "姬姓国；楚武王伐随、昭王奔随。",
+      "evidence": [
+        "p13",
+        "p14",
+        "p56",
+        "p58"
+      ]
+    },
+    {
+      "id": "place:稷",
+      "name": "稷",
+      "alias": [],
+      "type": "地",
+      "description": "秦楚联军败吴之处。",
+      "evidence": [
+        "p57"
+      ]
+    },
+    {
+      "id": "place:堂谿",
+      "name": "堂谿",
+      "alias": [],
+      "type": "邑",
+      "description": "楚封夫概之地，号堂谿氏。",
+      "evidence": [
+        "p57"
+      ]
+    },
+    {
+      "id": "place:鄀",
+      "name": "鄀",
+      "alias": [],
+      "type": "都邑",
+      "description": "昭王北徙所都。",
+      "evidence": [
+        "p58"
+      ]
+    },
+    {
+      "id": "place:城父",
+      "name": "城父",
+      "alias": [
+        "成父"
+      ],
+      "type": "邑",
+      "description": "太子建所居、昭王驻军之地，为楚北境。",
+      "evidence": [
+        "p49",
+        "p60"
+      ]
+    },
+    {
+      "id": "place:高府",
+      "name": "高府",
+      "alias": [],
+      "type": "府",
+      "description": "白公胜劫置惠王之处。",
+      "evidence": [
+        "p62"
+      ]
+    },
+    {
+      "id": "place:陈",
+      "name": "陈",
+      "alias": [
+        "陈国"
+      ],
+      "type": "国",
+      "description": "楚所灭、复、又灭之。",
+      "evidence": [
+        "p29",
+        "p39",
+        "p62",
+        "p92",
+        "p96"
+      ]
+    },
+    {
+      "id": "place:蔡",
+      "name": "蔡",
+      "alias": [
+        "蔡国"
+      ],
+      "type": "国",
+      "description": "楚所灭。",
+      "evidence": [
+        "p39",
+        "p63"
+      ]
+    },
+    {
+      "id": "place:杞",
+      "name": "杞",
+      "alias": [
+        "杞国"
+      ],
+      "type": "国",
+      "description": "楚所灭。",
+      "evidence": [
+        "p63"
+      ]
+    },
+    {
+      "id": "place:莒",
+      "name": "莒",
+      "alias": [
+        "莒国"
+      ],
+      "type": "国",
+      "description": "楚简王北伐灭之。",
+      "evidence": [
+        "p65"
+      ]
+    },
+    {
+      "id": "place:寿春",
+      "name": "寿春",
+      "alias": [],
+      "type": "都邑",
+      "description": "楚东迁所都，命曰郢。",
+      "evidence": [
+        "p96"
+      ]
+    },
+    {
+      "id": "place:扞关",
+      "name": "扞关",
+      "alias": [],
+      "type": "关",
+      "description": "楚拒蜀所筑之关。",
+      "evidence": [
+        "p67"
+      ]
+    },
+    {
+      "id": "place:兹方",
+      "name": "兹方",
+      "alias": [],
+      "type": "地",
+      "description": "蜀伐楚所取之地。",
+      "evidence": [
+        "p67"
+      ]
+    },
+    {
+      "id": "place:鲁阳",
+      "name": "鲁阳",
+      "alias": [],
+      "type": "邑",
+      "description": "魏所取楚地。",
+      "evidence": [
+        "p67"
+      ]
+    },
+    {
+      "id": "place:商於",
+      "name": "商於",
+      "alias": [],
+      "type": "地",
+      "description": "张仪所许以欺楚之六百里地。",
+      "evidence": [
+        "p76"
+      ]
+    },
+    {
+      "id": "place:汉中",
+      "name": "汉中",
+      "alias": [],
+      "type": "郡",
+      "description": "秦取楚地，后为秦楚相争之地。",
+      "evidence": [
+        "p78",
+        "p92"
+      ]
+    },
+    {
+      "id": "place:丹阳(汉中)",
+      "name": "丹阳",
+      "alias": [],
+      "type": "地",
+      "description": "楚秦丹阳之战处，在汉中。",
+      "evidence": [
+        "p78"
+      ]
+    },
+    {
+      "id": "place:蓝田",
+      "name": "蓝田",
+      "alias": [],
+      "type": "地",
+      "description": "秦败楚军之处。",
+      "evidence": [
+        "p78"
+      ]
+    },
+    {
+      "id": "place:武关",
+      "name": "武关",
+      "alias": [],
+      "type": "关",
+      "description": "秦诱怀王相会、伏兵劫之之处。",
+      "evidence": [
+        "p84"
+      ]
+    },
+    {
+      "id": "place:咸阳",
+      "name": "咸阳",
+      "alias": [],
+      "type": "都邑",
+      "description": "秦都，怀王被挟至此朝章台。",
+      "evidence": [
+        "p84"
+      ]
+    },
+    {
+      "id": "place:伊阙",
+      "name": "伊阙",
+      "alias": [],
+      "type": "地",
+      "description": "白起破韩之处。",
+      "evidence": [
+        "p87"
+      ]
+    },
+    {
+      "id": "place:夷陵",
+      "name": "夷陵",
+      "alias": [],
+      "type": "陵",
+      "description": "楚先王墓，为白起所烧。",
+      "evidence": [
+        "p92"
+      ]
+    },
+    {
+      "id": "place:郟鄏",
+      "name": "郟鄏",
+      "alias": [],
+      "type": "地",
+      "description": "周成王定鼎之处。",
+      "evidence": [
+        "p27"
+      ]
+    },
+    {
+      "id": "place:不羹",
+      "name": "不羹",
+      "alias": [],
+      "type": "城",
+      "description": "灵王所城之地，有东、西二不羹。",
+      "evidence": [
+        "p40"
+      ]
+    },
+    {
+      "id": "place:许",
+      "name": "许",
+      "alias": [
+        "许国"
+      ],
+      "type": "国",
+      "description": "成王伐许，许君肉袒谢罪。",
+      "evidence": [
+        "p19"
+      ]
+    },
+    {
+      "id": "place:黄",
+      "name": "黄",
+      "alias": [
+        "黄国"
+      ],
+      "type": "国",
+      "description": "成王所伐之国。",
+      "evidence": [
+        "p19"
+      ]
+    },
+    {
+      "id": "place:英",
+      "name": "英",
+      "alias": [
+        "英国"
+      ],
+      "type": "国",
+      "description": "成王所灭之国。",
+      "evidence": [
+        "p19"
+      ]
+    },
+    {
+      "id": "place:夔",
+      "name": "夔",
+      "alias": [
+        "夔国"
+      ],
+      "type": "国",
+      "description": "楚所灭之国，夔不祀祝融、鬻熊故被灭。",
+      "evidence": [
+        "p22"
+      ]
+    },
+    {
+      "id": "place:江",
+      "name": "江",
+      "alias": [
+        "江国"
+      ],
+      "type": "国",
+      "description": "穆王所灭之国。",
+      "evidence": [
+        "p25"
+      ]
+    },
+    {
+      "id": "place:六",
+      "name": "六",
+      "alias": [
+        "六国"
+      ],
+      "type": "国",
+      "description": "穆王所灭之国，皋陶之后。",
+      "evidence": [
+        "p25"
+      ]
+    },
+    {
+      "id": "place:蓼",
+      "name": "蓼",
+      "alias": [
+        "蓼国"
+      ],
+      "type": "国",
+      "description": "穆王所灭之国，皋陶之后。",
+      "evidence": [
+        "p25"
+      ]
+    },
+    {
+      "id": "place:舒",
+      "name": "舒",
+      "alias": [
+        "舒国"
+      ],
+      "type": "国",
+      "description": "庄王所灭之国。",
+      "evidence": [
+        "p28"
+      ]
+    },
+    {
+      "id": "place:陆浑",
+      "name": "陆浑",
+      "alias": [],
+      "type": "戎",
+      "description": "楚庄王所伐之戎，在洛西南。",
+      "evidence": [
+        "p27"
+      ]
+    },
+    {
+      "id": "place:徐州",
+      "name": "徐州",
+      "alias": [],
+      "type": "地",
+      "description": "楚威王败齐之处。",
+      "evidence": [
+        "p70"
+      ]
+    },
+    {
+      "id": "place:襄陵",
+      "name": "襄陵",
+      "alias": [],
+      "type": "地",
+      "description": "昭阳破魏之处，得八邑。",
+      "evidence": [
+        "p73"
+      ]
+    },
+    {
+      "id": "place:邯郸",
+      "name": "邯郸",
+      "alias": [],
+      "type": "城",
+      "description": "秦围之，楚遣景阳救赵。",
+      "evidence": [
+        "p96"
+      ]
+    },
+    {
+      "id": "place:鄢郢",
+      "name": "鄢郢",
+      "alias": [],
+      "type": "都邑",
+      "description": "楚之都邑，说客以喻楚之中枢。",
+      "evidence": [
+        "p90"
+      ]
+    },
+    {
+      "id": "place:彭城",
+      "name": "彭城",
+      "alias": [],
+      "type": "邑",
+      "description": "彭祖故国所在（《正义》引），在今徐州。",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "id": "place:黄棘",
+      "name": "黄棘",
+      "alias": [],
+      "type": "地",
+      "description": "秦楚盟约之地，怀王入秦与秦昭王相约于此。",
+      "evidence": [
+        "p83"
+      ]
+    },
+    {
+      "id": "place:析",
+      "name": "析",
+      "alias": [],
+      "type": "邑",
+      "description": "秦取楚之析；怀王出逃时秦取析十五城。",
+      "evidence": [
+        "p86"
+      ]
+    },
+    {
+      "id": "place:西陵",
+      "name": "西陵",
+      "alias": [],
+      "type": "地",
+      "description": "怀王、顷襄王时秦所拔楚之西陵。",
+      "evidence": [
+        "p92"
+      ]
+    },
+    {
+      "id": "place:巫、黔中",
+      "name": "巫、黔中",
+      "alias": [
+        "巫郡",
+        "黔中郡"
+      ],
+      "type": "郡",
+      "description": "秦所拔楚之巫、黔中郡。",
+      "evidence": [
+        "p92"
+      ]
+    },
+    {
+      "id": "place:上庸",
+      "name": "上庸",
+      "alias": [],
+      "type": "地",
+      "description": "秦复与楚上庸之地。",
+      "evidence": [
+        "p83"
+      ]
+    },
+    {
+      "id": "place:重丘",
+      "name": "重丘",
+      "alias": [],
+      "type": "地",
+      "description": "秦取楚重丘之地。",
+      "evidence": [
+        "p84"
+      ]
+    },
+    {
+      "id": "place:榆关",
+      "name": "榆关",
+      "alias": [],
+      "type": "关",
+      "description": "三晋伐楚，败楚于大梁、榆关。",
+      "evidence": [
+        "p66"
+      ]
+    },
+    {
+      "id": "place:大梁",
+      "name": "大梁",
+      "alias": [],
+      "type": "邑",
+      "description": "魏之都；三晋败楚于大梁，说客又以之为射猎目标。",
+      "evidence": [
+        "p66",
+        "p90"
+      ]
+    },
+    {
+      "id": "place:乘丘",
+      "name": "乘丘",
+      "alias": [],
+      "type": "地",
+      "description": "三晋伐楚所至之地。",
+      "evidence": [
+        "p66"
+      ]
+    },
+    {
+      "id": "place:负黍",
+      "name": "负黍",
+      "alias": [],
+      "type": "地",
+      "description": "楚伐韩所取之地。",
+      "evidence": [
+        "p66"
+      ]
+    },
+    {
+      "id": "place:州",
+      "name": "州",
+      "alias": [],
+      "type": "地",
+      "description": "考烈王元年纳州于秦以和。",
+      "evidence": [
+        "p95"
+      ]
+    },
+    {
+      "id": "place:新中",
+      "name": "新中",
+      "alias": [],
+      "type": "地",
+      "description": "考烈王时楚救赵所至之地；《正义》谓「中」当作「市」。",
+      "evidence": [
+        "p96"
+      ]
+    },
+    {
+      "id": "place:宛",
+      "name": "宛",
+      "alias": [],
+      "type": "邑",
+      "description": "顷襄王与秦昭王好会之地。",
+      "evidence": [
+        "p89"
+      ]
+    },
+    {
+      "id": "place:穰",
+      "name": "穰",
+      "alias": [],
+      "type": "邑",
+      "description": "顷襄王与秦王相会之地。",
+      "evidence": [
+        "p89"
+      ]
+    },
+    {
+      "id": "place:上蔡",
+      "name": "上蔡",
+      "alias": [],
+      "type": "郡",
+      "description": "说客言射魏大梁之南则上蔡之郡坏。",
+      "evidence": [
+        "p90"
+      ]
+    },
+    {
+      "id": "place:定陶",
+      "name": "定陶",
+      "alias": [],
+      "type": "邑",
+      "description": "说客言击定陶则魏东之外弃。",
+      "evidence": [
+        "p90"
+      ]
+    },
+    {
+      "id": "place:兰台",
+      "name": "兰台",
+      "alias": [],
+      "type": "台",
+      "description": "说客言收弋缴于兰台。",
+      "evidence": [
+        "p90"
+      ]
+    },
+    {
+      "id": "place:西河",
+      "name": "西河",
+      "alias": [],
+      "type": "地",
+      "description": "说客言饮马西河、定魏大梁。",
+      "evidence": [
+        "p90"
+      ]
+    },
+    {
+      "id": "place:东莒",
+      "name": "东莒",
+      "alias": [],
+      "type": "邑",
+      "description": "说客言朝射东莒。",
+      "evidence": [
+        "p90"
+      ]
+    },
+    {
+      "id": "place:浿丘",
+      "name": "浿丘",
+      "alias": [],
+      "type": "地",
+      "description": "说客言夕发浿丘。",
+      "evidence": [
+        "p90"
+      ]
+    },
+    {
+      "id": "place:即墨",
+      "name": "即墨",
+      "alias": [],
+      "type": "邑",
+      "description": "说客言夜加即墨。",
+      "evidence": [
+        "p90"
+      ]
+    },
+    {
+      "id": "place:午道",
+      "name": "午道",
+      "alias": [],
+      "type": "地",
+      "description": "说客言顾据午道，当在齐西界。",
+      "evidence": [
+        "p90"
+      ]
+    },
+    {
+      "id": "place:鄳塞",
+      "name": "鄳塞",
+      "alias": [],
+      "type": "关",
+      "description": "说客言涉鄳塞以待秦之倦。",
+      "evidence": [
+        "p90"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "event:楚之先祖与祝融",
+      "name": "楚之先祖与祝融",
+      "type": "世系",
+      "description": "颛顼—称—卷章—重黎/吴回，重黎、吴回相继为火正、称祝融，为楚之源。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "event:陆终六子坼剖而产",
+      "name": "陆终六子坼剖而产",
+      "type": "世系",
+      "description": "陆终生六子（昆吾、参胡、彭祖、会人、曹姓、季连），皆坼剖而产，季连为楚祖。",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "id": "event:鬻熊子事文王",
+      "name": "鬻熊子事文王",
+      "type": "事迹",
+      "description": "鬻熊为周文王师，早卒，为楚受封之祖。",
+      "evidence": [
+        "p2"
+      ]
+    },
+    {
+      "id": "event:熊绎封楚蛮居丹阳",
+      "name": "熊绎封楚蛮居丹阳",
+      "type": "封国",
+      "description": "周成王封熊绎于楚蛮，子男之田，居丹阳，楚始建国。",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "id": "event:熊渠僭立三王",
+      "name": "熊渠僭立三王",
+      "type": "僭越",
+      "description": "熊渠伐庸、杨粤至鄂，自称蛮夷不用中国号谥，立三子为王，后去王。",
+      "evidence": [
+        "p5"
+      ]
+    },
+    {
+      "id": "event:楚武王自立为王",
+      "name": "楚武王自立为王",
+      "type": "僭越",
+      "description": "熊通伐随，请周室尊楚不得，怒而自立为武王，与随盟，始开濮地。",
+      "evidence": [
+        "p13",
+        "p14"
+      ]
+    },
+    {
+      "id": "event:文王都郢",
+      "name": "文王都郢",
+      "type": "建都",
+      "description": "楚文王熊赀立，始都郢。",
+      "evidence": [
+        "p14"
+      ]
+    },
+    {
+      "id": "event:召陵之盟",
+      "name": "召陵之盟",
+      "type": "盟会",
+      "description": "齐桓公侵楚至陉山，楚成王使屈完御之并与之盟。",
+      "evidence": [
+        "p18"
+      ]
+    },
+    {
+      "id": "event:泓水之战",
+      "name": "泓水之战",
+      "type": "战争",
+      "description": "楚成王北伐宋，败之于泓，射伤宋襄公致其死。",
+      "evidence": [
+        "p20"
+      ]
+    },
+    {
+      "id": "event:城濮之战",
+      "name": "城濮之战",
+      "type": "战争",
+      "description": "晋文公败楚子玉于城濮，成王怒诛子玉。",
+      "evidence": [
+        "p23"
+      ]
+    },
+    {
+      "id": "event:商臣弑成王",
+      "name": "商臣弑成王",
+      "type": "弑君",
+      "description": "商臣闻成王欲立子职而废己，遂以宫卫兵围成王，成王自缢。",
+      "evidence": [
+        "p24"
+      ]
+    },
+    {
+      "id": "event:庄王三年不鸣",
+      "name": "庄王三年不鸣",
+      "type": "纳谏",
+      "description": "庄王三年不发布号令、日夜为乐，伍举以隐语进谏，苏从继之，庄王于是听政。",
+      "evidence": [
+        "p26"
+      ]
+    },
+    {
+      "id": "event:问鼎中原",
+      "name": "问鼎中原",
+      "type": "僭越",
+      "description": "楚庄王伐陆浑戎至洛，观兵周郊，问九鼎轻重，王孙满以「在德不在鼎」对。",
+      "evidence": [
+        "p27"
+      ]
+    },
+    {
+      "id": "event:庄王灭若敖氏",
+      "name": "庄王灭若敖氏",
+      "type": "内乱",
+      "description": "若敖氏被谗而反攻庄王，庄王击灭其族。",
+      "evidence": [
+        "p28"
+      ]
+    },
+    {
+      "id": "event:复封陈后",
+      "name": "复封陈后",
+      "type": "复国",
+      "description": "庄王灭陈为县，申叔时以「蹊田夺牛」为谏，庄王复陈后。",
+      "evidence": [
+        "p29"
+      ]
+    },
+    {
+      "id": "event:庄王围郑与邲之战",
+      "name": "庄王围郑与邲之战",
+      "type": "战争",
+      "description": "庄王围郑三月克之，郑伯肉袒牵羊，庄王许平；晋救郑而败于河上（邲）。",
+      "evidence": [
+        "p30"
+      ]
+    },
+    {
+      "id": "event:庄王围宋",
+      "name": "庄王围宋",
+      "type": "战争",
+      "description": "庄王围宋五月，城中易子而食、析骨而炊，华元告情，庄王称君子而罢兵。",
+      "evidence": [
+        "p31"
+      ]
+    },
+    {
+      "id": "event:鄢陵之战",
+      "name": "鄢陵之战",
+      "type": "战争",
+      "description": "晋败楚于鄢陵，射中共王目；共王怒射杀子反而归。",
+      "evidence": [
+        "p33"
+      ]
+    },
+    {
+      "id": "event:公子围弑郏敖",
+      "name": "公子围弑郏敖",
+      "type": "弑君",
+      "description": "令尹公子围绞杀郏敖及其二子，自立为灵王。",
+      "evidence": [
+        "p35"
+      ]
+    },
+    {
+      "id": "event:灵王会诸侯于申",
+      "name": "灵王会诸侯于申",
+      "type": "盟会",
+      "description": "灵王会诸侯于申，用齐桓召陵之礼；伍举引桀、纣、幽王之事谏其慎终。",
+      "evidence": [
+        "p36"
+      ]
+    },
+    {
+      "id": "event:诛庆封",
+      "name": "诛齐庆封",
+      "type": "刑杀",
+      "description": "楚以诸侯兵伐吴围朱方，克之，囚庆封灭其族，徇之于军，庆封反讥其弑君。",
+      "evidence": [
+        "p37"
+      ]
+    },
+    {
+      "id": "event:作章华台",
+      "name": "作章华台",
+      "type": "土木",
+      "description": "灵王就章华台，令内亡人实之。",
+      "evidence": [
+        "p38"
+      ]
+    },
+    {
+      "id": "event:灵王灭陈蔡",
+      "name": "灵王灭陈蔡",
+      "type": "灭国",
+      "description": "灵王使弃疾灭陈，又醉杀蔡侯，使弃疾定蔡，为陈蔡公。",
+      "evidence": [
+        "p39"
+      ]
+    },
+    {
+      "id": "event:乾谿之难",
+      "name": "乾谿之难",
+      "type": "内乱",
+      "description": "灵王乐乾谿不去、国人苦役，观从等作乱，立子比，楚众溃散归。",
+      "evidence": [
+        "p40",
+        "p41"
+      ]
+    },
+    {
+      "id": "event:灵王之死",
+      "name": "灵王之死",
+      "type": "死亡",
+      "description": "灵王独行山中，饿死于申亥家，申亥以二女从死并葬之。",
+      "evidence": [
+        "p42",
+        "p43"
+      ]
+    },
+    {
+      "id": "event:平王之立",
+      "name": "平王（弃疾）之立",
+      "type": "政变",
+      "description": "弃疾夜惊国人、使曼成然恐吓子比、子晳，二人自杀，弃疾即位，是为平王。",
+      "evidence": [
+        "p44",
+        "p45"
+      ]
+    },
+    {
+      "id": "event:埋璧决嗣",
+      "name": "埋璧决嗣",
+      "type": "占卜",
+      "description": "共王埋璧于室，召五公子斋入，平王幼而再拜压纽，终续楚祀。",
+      "evidence": [
+        "p46"
+      ]
+    },
+    {
+      "id": "event:叔向论子比五难",
+      "name": "叔向论子比五难",
+      "type": "论说",
+      "description": "韩宣子问叔向子比能否得国，叔向以「取国五难」论定其不成、弃疾当立。",
+      "evidence": [
+        "p47"
+      ]
+    },
+    {
+      "id": "event:费无忌谗太子建",
+      "name": "费无忌谗太子建",
+      "type": "谗害",
+      "description": "平王自娶秦女，费无忌日夜谗太子建，终于致其出奔。",
+      "evidence": [
+        "p48",
+        "p49"
+      ]
+    },
+    {
+      "id": "event:伍奢父子之难",
+      "name": "伍奢父子之难",
+      "type": "冤狱",
+      "description": "平王囚伍奢、诈召其二子，伍尚归死、伍胥奔吴，楚杀伍奢及尚。",
+      "evidence": [
+        "p50",
+        "p51"
+      ]
+    },
+    {
+      "id": "event:吴入郢",
+      "name": "吴入郢",
+      "type": "战争",
+      "description": "吴王阖闾与伍子胥、伯嚭、唐蔡伐楚，五战入郢，辱平王之墓，昭王出奔。",
+      "evidence": [
+        "p55"
+      ]
+    },
+    {
+      "id": "event:申包胥乞师",
+      "name": "申包胥乞师",
+      "type": "请救",
+      "description": "昭王出郢使申包胥如秦乞师，秦以车五百乘救楚，败吴于稷。",
+      "evidence": [
+        "p57"
+      ]
+    },
+    {
+      "id": "event:昭王让国",
+      "name": "昭王让国",
+      "type": "让位",
+      "description": "昭王病重，舍子让位于弟公子闾；卒后子闾等伏师闭涂，迎越女之子章立为惠王。",
+      "evidence": [
+        "p61"
+      ]
+    },
+    {
+      "id": "event:白公胜之乱",
+      "name": "白公胜之乱",
+      "type": "内乱",
+      "description": "白公胜袭杀令尹子西、子綦，劫惠王置之高府自立，叶公来救，杀白公，惠王复位。",
+      "evidence": [
+        "p62"
+      ]
+    },
+    {
+      "id": "event:楚灭蔡灭杞",
+      "name": "楚灭蔡、灭杞",
+      "type": "灭国",
+      "description": "惠王四十二年灭蔡、四十四年灭杞，与秦平。",
+      "evidence": [
+        "p63"
+      ]
+    },
+    {
+      "id": "event:越灭吴",
+      "name": "越灭吴",
+      "type": "灭国",
+      "description": "惠王十六年，越灭吴。",
+      "evidence": [
+        "p63"
+      ]
+    },
+    {
+      "id": "event:三晋列为诸侯",
+      "name": "三晋列为诸侯",
+      "type": "分封",
+      "description": "简王八年，魏文侯、韩武子、赵桓子始列为诸侯。",
+      "evidence": [
+        "p65"
+      ]
+    },
+    {
+      "id": "event:悼王时三晋伐楚",
+      "name": "悼王时三晋伐楚",
+      "type": "战争",
+      "description": "悼王二年三晋伐楚至乘丘；十一年三晋败楚于大梁、榆关，楚厚赂秦以和。",
+      "evidence": [
+        "p66"
+      ]
+    },
+    {
+      "id": "event:威王败齐徐州",
+      "name": "威王败齐于徐州",
+      "type": "战争",
+      "description": "楚威王伐齐，败之于徐州，令齐逐田婴，张丑说楚而止。",
+      "evidence": [
+        "p70"
+      ]
+    },
+    {
+      "id": "event:画蛇添足（陈轸说昭阳）",
+      "name": "画蛇添足（陈轸说昭阳）",
+      "type": "游说",
+      "description": "昭阳破魏于襄陵又移兵攻齐，陈轸以「画蛇添足」说之，昭阳引兵而去。",
+      "evidence": [
+        "p73"
+      ]
+    },
+    {
+      "id": "event:张仪欺楚",
+      "name": "张仪欺楚（商於之欺）",
+      "type": "外交",
+      "description": "秦遣张仪许楚商於六百里使绝齐，楚绝齐而秦负约，仅许六里，怀王大怒兴师。",
+      "evidence": [
+        "p76",
+        "p77"
+      ]
+    },
+    {
+      "id": "event:丹阳之战",
+      "name": "丹阳之战",
+      "type": "战争",
+      "description": "楚与秦战于丹阳，秦大败楚军，斩甲士八万，虏屈匄等七十余人，取汉中郡。",
+      "evidence": [
+        "p78"
+      ]
+    },
+    {
+      "id": "event:蓝田之战",
+      "name": "蓝田之战",
+      "type": "战争",
+      "description": "怀王悉国兵袭秦，战于蓝田，秦大败楚军；韩、魏南袭楚至邓。",
+      "evidence": [
+        "p78"
+      ]
+    },
+    {
+      "id": "event:怀王客死于秦",
+      "name": "怀王客死于秦",
+      "type": "外交",
+      "description": "秦昭王诱怀王会武关而扣留之，要割巫、黔中；怀王逃归不得，发病卒于秦。",
+      "evidence": [
+        "p84",
+        "p86"
+      ]
+    },
+    {
+      "id": "event:白起拔郢",
+      "name": "白起拔郢",
+      "type": "战争",
+      "description": "秦将白起拔楚西陵、郢，烧先王墓夷陵，楚顷襄王兵散，东保陈城。",
+      "evidence": [
+        "p92"
+      ]
+    },
+    {
+      "id": "event:春申君之死",
+      "name": "春申君之死",
+      "type": "弑杀",
+      "description": "考烈王卒，李园杀春申君。",
+      "evidence": [
+        "p97"
+      ]
+    },
+    {
+      "id": "event:楚之灭亡",
+      "name": "楚之灭亡",
+      "type": "灭国",
+      "description": "秦王翦、蒙武破楚，虏王负刍，灭楚名为楚郡。",
+      "evidence": [
+        "p98",
+        "p99"
+      ]
+    },
+    {
+      "id": "event:顷襄王射鸟之谏",
+      "name": "顷襄王射鸟之谏",
+      "type": "游说",
+      "description": "楚人以「圣人為弓、勇士為繳」进说顷襄王，劝其图秦复仇，襄王遂复为合纵。",
+      "evidence": [
+        "p90"
+      ]
+    },
+    {
+      "id": "event:楚欲图周",
+      "name": "楚欲图周",
+      "type": "谋略",
+      "description": "楚欲与齐韩连和伐秦而图周，周王赧使武公以虎皮麋鹿为喻劝阻，楚计遂辍。",
+      "evidence": [
+        "p91"
+      ]
+    },
+    {
+      "id": "event:六国合纵伐秦",
+      "name": "六国合纵伐秦",
+      "type": "战争",
+      "description": "苏秦约山东六国攻秦，怀王为从长，至函谷关而兵皆引归。",
+      "evidence": [
+        "p75"
+      ]
+    },
+    {
+      "id": "event:齐秦称帝",
+      "name": "齐秦称帝",
+      "type": "僭越",
+      "description": "顷襄王十一年，齐、秦各自称帝，月余复归帝为王。",
+      "evidence": [
+        "p88"
+      ]
+    },
+    {
+      "id": "event:赤云夹日（昭王不祷河）",
+      "name": "赤云夹日（昭王不祷河）",
+      "type": "天变",
+      "description": "昭王病于军中，有赤云如鸟夹日而飞，太史言可移祸将相，昭王不许、亦不祷河，孔子闻而称其通大道。",
+      "evidence": [
+        "p60"
+      ]
+    },
+    {
+      "id": "event:郑袖释张仪",
+      "name": "郑袖释张仪",
+      "type": "外交",
+      "description": "郑袖言张仪于王而出之，张仪遂劝怀王叛从约而合秦。",
+      "evidence": [
+        "p80"
+      ]
+    },
+    {
+      "id": "event:卑梁之衅（吴楚争桑）",
+      "name": "卑梁之衅（吴楚争桑）",
+      "type": "兵衅",
+      "description": "吴边邑卑梁与楚边邑钟离小童争桑，两家交攻，遂起两国之兵，吴灭钟离、居巢，楚城郢。",
+      "evidence": [
+        "p51"
+      ]
+    },
+    {
+      "id": "event:伍子胥奔吴",
+      "name": "伍子胥奔吴",
+      "type": "出奔",
+      "description": "伍胥弯弓出见使者、遂出奔吴，伍奢叹「胥亡，楚国危哉」。",
+      "evidence": [
+        "p51"
+      ]
+    },
+    {
+      "id": "event:申侯伐齐取穀",
+      "name": "申侯伐齐取穀",
+      "type": "战争",
+      "description": "鲁僖公来请兵伐齐，楚使申侯将兵伐齐取穀，置齐桓公子雍。",
+      "evidence": [
+        "p22"
+      ]
+    },
+    {
+      "id": "event:庄王灭庸",
+      "name": "庄王灭庸",
+      "type": "灭国",
+      "description": "庄王听政之年，是岁灭庸。",
+      "evidence": [
+        "p26"
+      ]
+    },
+    {
+      "id": "event:惠王灭陈",
+      "name": "惠王灭陈",
+      "type": "灭国",
+      "description": "白公胜之乱平后，是岁楚灭陈而县之。",
+      "evidence": [
+        "p62"
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept:祝融火正",
+      "name": "祝融火正",
+      "type": "职官",
+      "description": "重黎、吴回相继为帝喾火正，能光融天下，命曰祝融；为楚所自出之职官传统。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "concept:芈姓",
+      "name": "芈姓",
+      "type": "姓氏",
+      "description": "季连为芈姓，楚之族姓；本篇以芈姓之乱必立季子为楚之常例。",
+      "evidence": [
+        "p1",
+        "p47"
+      ]
+    },
+    {
+      "id": "concept:僭号称王",
+      "name": "僭号称王",
+      "type": "礼制",
+      "description": "楚自熊渠、楚武王始僭号称王，开蛮夷抗衡中国之端。",
+      "evidence": [
+        "p5",
+        "p13"
+      ]
+    },
+    {
+      "id": "concept:我蛮夷也",
+      "name": "我蛮夷也",
+      "type": "观念",
+      "description": "楚以「我蛮夷也，不与中國之號謚」自居，为其僭越与扩张之自我定位。",
+      "evidence": [
+        "p5",
+        "p13"
+      ]
+    },
+    {
+      "id": "concept:在德不在鼎",
+      "name": "在德不在鼎",
+      "type": "观念",
+      "description": "王孙满答楚庄王问鼎，谓国之轻重在德不在鼎，天命未改不可问。",
+      "evidence": [
+        "p27"
+      ]
+    },
+    {
+      "id": "concept:问鼎轻重",
+      "name": "问鼎轻重",
+      "type": "典故",
+      "description": "楚庄王问九鼎小大轻重，示欲取周之志；后喻觊觎政权。",
+      "evidence": [
+        "p27"
+      ]
+    },
+    {
+      "id": "concept:一鸣惊人",
+      "name": "一鸣惊人",
+      "type": "典故",
+      "description": "庄王答伍举「三年不蜚，蜚将冲天；三年不鸣，鸣将惊人」，后喻久蓄而骤发。",
+      "evidence": [
+        "p26"
+      ]
+    },
+    {
+      "id": "concept:隐语进谏",
+      "name": "隐语进谏",
+      "type": "纳谏",
+      "description": "伍举以「有鸟在阜，三年不蜚不鸣」之隐语谏庄王。",
+      "evidence": [
+        "p26"
+      ]
+    },
+    {
+      "id": "concept:蹊田夺牛",
+      "name": "蹊田夺牛",
+      "type": "义理",
+      "description": "申叔时以「牵牛径人田，田主取其牛」喻伐罪而贪其利之过，谏庄王复陈。",
+      "evidence": [
+        "p29"
+      ]
+    },
+    {
+      "id": "concept:取国五难",
+      "name": "取国五难",
+      "type": "论说",
+      "description": "叔向论取国有五难：有宠无人、有人无主、有主无谋、有谋无民、有民无德。",
+      "evidence": [
+        "p47"
+      ]
+    },
+    {
+      "id": "concept:神命决嗣",
+      "name": "神命决嗣",
+      "type": "占卜",
+      "description": "共王埋璧、望祭群神以决嗣君，平王幼而压纽，终如其符。",
+      "evidence": [
+        "p46"
+      ]
+    },
+    {
+      "id": "concept:让国",
+      "name": "让国",
+      "type": "礼制",
+      "description": "楚昭王病重舍子让国于弟，子闾受命复迎昭王子而立之，为期许王意。",
+      "evidence": [
+        "p61"
+      ]
+    },
+    {
+      "id": "concept:画蛇添足",
+      "name": "画蛇添足",
+      "type": "譬喻",
+      "description": "陈轸以画蛇添足喻功成身不退之危，劝昭阳罢兵。",
+      "evidence": [
+        "p73"
+      ]
+    },
+    {
+      "id": "concept:持满之术",
+      "name": "持满之术",
+      "type": "权术",
+      "description": "陈轸劝昭阳「引兵而去以德齐」，谓守盈满而不溢之术。",
+      "evidence": [
+        "p73"
+      ]
+    },
+    {
+      "id": "concept:欲起无先",
+      "name": "欲起无先",
+      "type": "典籍",
+      "description": "《周书》语，武公引之劝楚勿图周，谓欲有所兴者不可争先。",
+      "evidence": [
+        "p91"
+      ]
+    },
+    {
+      "id": "concept:虎皮麋鹿",
+      "name": "虎皮麋鹿",
+      "type": "譬喻",
+      "description": "武公以「泽中之麋蒙虎之皮，人之攻之必万于虎」喻贪图周室祭器之危。",
+      "evidence": [
+        "p91"
+      ]
+    },
+    {
+      "id": "concept:操行之不得",
+      "name": "操行之不得",
+      "type": "史论",
+      "description": "太史公论楚灵王「志小天下」而终饿死，叹操行之不得、权势之当慎。",
+      "evidence": [
+        "p100"
+      ]
+    },
+    {
+      "id": "concept:复国之义",
+      "name": "复国之义",
+      "type": "义理",
+      "description": "以义伐人之国而不贪其地为义，本篇借申叔时之谏立此义。",
+      "evidence": [
+        "p29"
+      ]
+    },
+    {
+      "id": "concept:三翮六翼",
+      "name": "三翮六翼",
+      "type": "名物",
+      "description": "与「九鼎」同实异名，空足曰翮、六翼即六耳，武公说楚相昭子之辞。",
+      "evidence": [
+        "p91"
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "subject": "陆终",
+      "predicate": "生",
+      "object": "昆吾、参胡、彭祖、会人、曹姓、季连",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "subject": "鬻熊",
+      "predicate": "子事",
+      "object": "周文王",
+      "evidence": [
+        "p2"
+      ]
+    },
+    {
+      "subject": "熊恽（楚成王）",
+      "predicate": "袭弑",
+      "object": "杜敖",
+      "evidence": [
+        "p16"
+      ]
+    },
+    {
+      "subject": "商臣（楚穆王）",
+      "predicate": "弑",
+      "object": "楚成王",
+      "evidence": [
+        "p24"
+      ]
+    },
+    {
+      "subject": "楚成王",
+      "predicate": "诛",
+      "object": "子玉",
+      "evidence": [
+        "p23"
+      ]
+    },
+    {
+      "subject": "楚庄王",
+      "predicate": "问鼎于",
+      "object": "周室",
+      "evidence": [
+        "p27"
+      ]
+    },
+    {
+      "subject": "楚庄王",
+      "predicate": "大败",
+      "object": "晋师（河上/邲）",
+      "evidence": [
+        "p30"
+      ]
+    },
+    {
+      "subject": "楚庄王",
+      "predicate": "灭",
+      "object": "若敖氏之族",
+      "evidence": [
+        "p28"
+      ]
+    },
+    {
+      "subject": "公子围（楚灵王）",
+      "predicate": "绞弑",
+      "object": "郏敖",
+      "evidence": [
+        "p35"
+      ]
+    },
+    {
+      "subject": "弃疾（楚平王）",
+      "predicate": "诈杀",
+      "object": "子比、子晳",
+      "evidence": [
+        "p44",
+        "p45"
+      ]
+    },
+    {
+      "subject": "费无忌",
+      "predicate": "谗害",
+      "object": "太子建",
+      "evidence": [
+        "p49"
+      ]
+    },
+    {
+      "subject": "楚平王",
+      "predicate": "杀",
+      "object": "伍奢、伍尚",
+      "evidence": [
+        "p50",
+        "p51"
+      ]
+    },
+    {
+      "subject": "伍子胥、伯嚭",
+      "predicate": "佐吴伐楚入",
+      "object": "郢",
+      "evidence": [
+        "p55"
+      ]
+    },
+    {
+      "subject": "吴",
+      "predicate": "辱",
+      "object": "平王之墓",
+      "evidence": [
+        "p55"
+      ]
+    },
+    {
+      "subject": "申包胥",
+      "predicate": "乞师于",
+      "object": "秦",
+      "evidence": [
+        "p57"
+      ]
+    },
+    {
+      "subject": "白公胜",
+      "predicate": "杀",
+      "object": "子西、子綦",
+      "evidence": [
+        "p62"
+      ]
+    },
+    {
+      "subject": "叶公",
+      "predicate": "杀",
+      "object": "白公胜",
+      "evidence": [
+        "p62"
+      ]
+    },
+    {
+      "subject": "张仪",
+      "predicate": "欺骗",
+      "object": "楚怀王（商於之地）",
+      "evidence": [
+        "p76",
+        "p77"
+      ]
+    },
+    {
+      "subject": "秦",
+      "predicate": "大败",
+      "object": "楚于丹阳",
+      "evidence": [
+        "p78"
+      ]
+    },
+    {
+      "subject": "秦昭王",
+      "predicate": "扣留",
+      "object": "楚怀王",
+      "evidence": [
+        "p84"
+      ]
+    },
+    {
+      "subject": "白起",
+      "predicate": "拔",
+      "object": "郢",
+      "evidence": [
+        "p92"
+      ]
+    },
+    {
+      "subject": "昭阳",
+      "predicate": "破",
+      "object": "魏于襄陵",
+      "evidence": [
+        "p73"
+      ]
+    },
+    {
+      "subject": "李园",
+      "predicate": "杀",
+      "object": "春申君",
+      "evidence": [
+        "p97"
+      ]
+    },
+    {
+      "subject": "王翦",
+      "predicate": "灭",
+      "object": "楚",
+      "evidence": [
+        "p99"
+      ]
+    },
+    {
+      "subject": "子常",
+      "predicate": "诛",
+      "object": "费无忌",
+      "evidence": [
+        "p53"
+      ]
+    },
+    {
+      "subject": "观从",
+      "predicate": "立",
+      "object": "子比（为王）",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "subject": "曼成然",
+      "predicate": "恐吓",
+      "object": "子比、子晳",
+      "evidence": [
+        "p44"
+      ]
+    },
+    {
+      "subject": "申亥",
+      "predicate": "收葬",
+      "object": "楚灵王",
+      "evidence": [
+        "p43"
+      ]
+    },
+    {
+      "subject": "齐桓公",
+      "predicate": "侵",
+      "object": "楚（至陉山）",
+      "evidence": [
+        "p18"
+      ]
+    },
+    {
+      "subject": "晋文公",
+      "predicate": "败",
+      "object": "子玉于城濮",
+      "evidence": [
+        "p23"
+      ]
+    },
+    {
+      "subject": "越",
+      "predicate": "灭",
+      "object": "吴",
+      "evidence": [
+        "p63"
+      ]
+    },
+    {
+      "subject": "楚",
+      "predicate": "灭",
+      "object": "蔡、杞",
+      "evidence": [
+        "p63"
+      ]
+    },
+    {
+      "subject": "白起",
+      "predicate": "烧",
+      "object": "夷陵（先王墓）",
+      "evidence": [
+        "p92"
+      ]
+    },
+    {
+      "subject": "熊通（楚武王）",
+      "predicate": "弑",
+      "object": "蚡冒之子",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "subject": "颛顼高阳",
+      "predicate": "生",
+      "object": "称",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "subject": "称",
+      "predicate": "生",
+      "object": "卷章",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "subject": "卷章",
+      "predicate": "生",
+      "object": "重黎",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "subject": "鬻熊",
+      "predicate": "生",
+      "object": "熊丽",
+      "evidence": [
+        "p2"
+      ]
+    },
+    {
+      "subject": "熊绎",
+      "predicate": "始封",
+      "object": "楚蛮（居丹阳）",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "subject": "楚昭王",
+      "predicate": "让国于",
+      "object": "公子闾",
+      "evidence": [
+        "p61"
+      ]
+    },
+    {
+      "subject": "公子闾",
+      "predicate": "迎立",
+      "object": "楚惠王（章）",
+      "evidence": [
+        "p61"
+      ]
+    },
+    {
+      "subject": "观从",
+      "predicate": "劝",
+      "object": "吴王伐楚",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "subject": "潘崇",
+      "predicate": "助",
+      "object": "商臣弑成王",
+      "evidence": [
+        "p24"
+      ]
+    },
+    {
+      "subject": "楚灵王",
+      "predicate": "辱",
+      "object": "常寿过",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "subject": "楚灵王",
+      "predicate": "杀",
+      "object": "观起",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "subject": "郧公之弟怀",
+      "predicate": "欲弑",
+      "object": "楚昭王",
+      "evidence": [
+        "p56"
+      ]
+    },
+    {
+      "subject": "郑袖、靳尚",
+      "predicate": "释",
+      "object": "张仪",
+      "evidence": [
+        "p79",
+        "p80"
+      ]
+    },
+    {
+      "subject": "秦",
+      "predicate": "取",
+      "object": "楚汉中郡",
+      "evidence": [
+        "p78"
+      ]
+    },
+    {
+      "subject": "楚威王",
+      "predicate": "败",
+      "object": "齐于徐州",
+      "evidence": [
+        "p70"
+      ]
+    }
+  ]
+}
