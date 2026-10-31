@@ -1,0 +1,2512 @@
+{
+ "book": "shiji",
+ "chapter_id": "shiji-陳涉世家第十八",
+ "title": "陈涉世家第十八",
+ "juan": "卷四十八",
+ "persons": [
+  {
+   "id": "person:陈胜",
+   "name": "陈胜",
+   "alias": [
+    "陈涉",
+    "陈王",
+    "张楚王"
+   ],
+   "type": "起义领袖",
+   "dynasty": "秦",
+   "state": "楚",
+   "description": "字涉，阳城人。秦二世元年七月与吴广于大泽乡起义，诈称扶苏、项燕，自立为将军，攻克陈县后立为王，号张楚。后为车夫庄贾所杀，谥隐王。太史公以其首事亡秦而列入世家。",
+   "evidence": [
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5",
+    "p14",
+    "p19",
+    "p20"
+   ]
+  },
+  {
+   "id": "person:吴广",
+   "name": "吴广",
+   "alias": [
+    "吴叔",
+    "假王",
+    "都尉"
+   ],
+   "type": "起义领袖",
+   "dynasty": "秦",
+   "state": "楚",
+   "description": "字叔，阳夏人。与陈胜同起义于大泽乡，为都尉，后为假王监诸将西击荥阳，为田臧等矫令所杀。",
+   "evidence": [
+    "p1",
+    "p2",
+    "p4",
+    "p10"
+   ]
+  },
+  {
+   "id": "person:秦二世",
+   "name": "二世",
+   "alias": [
+    "胡亥"
+   ],
+   "type": "帝王",
+   "dynasty": "秦",
+   "description": "始皇少子（一说第十八子），继位。陈胜起兵以“二世不当立”为辞。",
+   "evidence": [
+    "p2"
+   ]
+  },
+  {
+   "id": "person:扶苏",
+   "name": "扶苏",
+   "alias": [
+    "公子扶苏"
+   ],
+   "type": "公子",
+   "dynasty": "秦",
+   "description": "秦始皇长子，以数谏被使外将兵，为二世所杀。陈胜起兵诈称其名号以号召。",
+   "evidence": [
+    "p2",
+    "p3"
+   ]
+  },
+  {
+   "id": "person:项燕",
+   "name": "项燕",
+   "alias": [],
+   "type": "将领",
+   "state": "楚",
+   "description": "楚将，数有功，爱士卒，楚人怜之。陈胜起兵诈称其名号。",
+   "evidence": [
+    "p2",
+    "p6"
+   ]
+  },
+  {
+   "id": "person:卜者",
+   "name": "卜者",
+   "alias": [],
+   "type": "人物",
+   "state": "楚",
+   "description": "陈胜吴广行卜所遇之卜者，教其“卜之鬼”以威众。",
+   "evidence": [
+    "p2"
+   ]
+  },
+  {
+   "id": "person:葛婴",
+   "name": "葛婴",
+   "alias": [],
+   "type": "将领",
+   "state": "楚",
+   "description": "符离人。陈胜令其将兵徇蕲以东；至东城立襄彊为楚王，后闻陈王已立，杀襄彊，还报，为陈王所诛。",
+   "evidence": [
+    "p3",
+    "p5"
+   ]
+  },
+  {
+   "id": "person:襄彊",
+   "name": "襄彊",
+   "alias": [],
+   "type": "楚王",
+   "state": "楚",
+   "description": "葛婴至东城所立之楚王，后为葛婴所杀。",
+   "evidence": [
+    "p5"
+   ]
+  },
+  {
+   "id": "person:周市",
+   "name": "周市",
+   "alias": [],
+   "type": "将领",
+   "state": "魏",
+   "description": "魏人。陈王令其北徇魏地，至狄为田儋所败；后请立甯陵君咎为魏王，自为魏相。",
+   "evidence": [
+    "p5",
+    "p9"
+   ]
+  },
+  {
+   "id": "person:李由",
+   "name": "李由",
+   "alias": [],
+   "type": "郡守",
+   "dynasty": "秦",
+   "description": "李斯之子，为三川守，守荥阳，吴广不能下。",
+   "evidence": [
+    "p5"
+   ]
+  },
+  {
+   "id": "person:李斯",
+   "name": "李斯",
+   "alias": [],
+   "type": "政治家",
+   "dynasty": "秦",
+   "description": "秦丞相。李由之父（《索隐》）。",
+   "evidence": [
+    "p5"
+   ]
+  },
+  {
+   "id": "person:蔡赐",
+   "name": "蔡赐",
+   "alias": [
+    "房君"
+   ],
+   "type": "上柱国",
+   "state": "楚",
+   "description": "上蔡人，号房君。陈王以为上柱国，章邯破陈胜时死。",
+   "evidence": [
+    "p5",
+    "p13"
+   ]
+  },
+  {
+   "id": "person:周文",
+   "name": "周文",
+   "alias": [
+    "周章"
+   ],
+   "type": "将领",
+   "state": "楚",
+   "description": "陈之贤人，曾为项燕军视日、事春申君，自言习兵。陈王与将军印西击，至戏败于章邯，自刭。",
+   "evidence": [
+    "p6",
+    "p10"
+   ]
+  },
+  {
+   "id": "person:章邯",
+   "name": "章邯",
+   "alias": [],
+   "type": "将领",
+   "dynasty": "秦",
+   "description": "秦少府。免郦山徒、人奴产子以击楚军，屡破周文、田臧、李归、伍徐、张贺、房君，为镇压陈胜之主力。",
+   "evidence": [
+    "p6",
+    "p10",
+    "p11",
+    "p13"
+   ]
+  },
+  {
+   "id": "person:武臣",
+   "name": "武臣",
+   "alias": [],
+   "type": "赵王",
+   "state": "赵",
+   "description": "陈人。陈王令其徇赵地，至邯郸自立为赵王，陈馀为大将军，张耳、召骚为相。",
+   "evidence": [
+    "p4",
+    "p7"
+   ]
+  },
+  {
+   "id": "person:张耳",
+   "name": "张耳",
+   "alias": [],
+   "type": "丞相",
+   "state": "赵",
+   "description": "陈王令其与武臣徇赵地，后为赵左丞相；其子张敖封成都君。",
+   "evidence": [
+    "p4",
+    "p7"
+   ]
+  },
+  {
+   "id": "person:陈馀",
+   "name": "陈馀",
+   "alias": [],
+   "type": "大将军",
+   "state": "赵",
+   "description": "陈王令其与武臣徇赵地，后为赵大将军。",
+   "evidence": [
+    "p4",
+    "p7"
+   ]
+  },
+  {
+   "id": "person:召骚",
+   "name": "召骚",
+   "alias": [],
+   "type": "丞相",
+   "state": "赵",
+   "description": "武臣自立赵王后，召骚为右丞相。",
+   "evidence": [
+    "p7"
+   ]
+  },
+  {
+   "id": "person:张敖",
+   "name": "张敖",
+   "alias": [],
+   "type": "成都君",
+   "state": "赵",
+   "description": "张耳之子，陈王封为成都君。",
+   "evidence": [
+    "p7"
+   ]
+  },
+  {
+   "id": "person:韩广",
+   "name": "韩广",
+   "alias": [],
+   "type": "燕王",
+   "state": "燕",
+   "description": "故上谷卒史。奉赵命北徇燕地，自立为燕王。",
+   "evidence": [
+    "p7",
+    "p8"
+   ]
+  },
+  {
+   "id": "person:田儋",
+   "name": "田儋",
+   "alias": [],
+   "type": "齐王",
+   "state": "齐",
+   "description": "狄人。杀狄令自立为齐王，反击周市；后诛杀公孙庆。",
+   "evidence": [
+    "p9",
+    "p17"
+   ]
+  },
+  {
+   "id": "person:魏咎",
+   "name": "魏咎",
+   "alias": [
+    "甯陵君咎"
+   ],
+   "type": "魏王",
+   "state": "魏",
+   "description": "魏之诸公子。周市等请立，陈王立为魏王，遣之国。",
+   "evidence": [
+    "p9"
+   ]
+  },
+  {
+   "id": "person:田臧",
+   "name": "田臧",
+   "alias": [],
+   "type": "将军",
+   "state": "楚",
+   "description": "陈胜将军。与诸将矫王令诛吴广，献首陈王，得楚令尹印为上将；西迎秦军于敖仓，战死。",
+   "evidence": [
+    "p10"
+   ]
+  },
+  {
+   "id": "person:李归",
+   "name": "李归",
+   "alias": [],
+   "type": "将领",
+   "state": "楚",
+   "description": "田臧所使守荥阳城之诸将，为章邯所破而死。",
+   "evidence": [
+    "p10"
+   ]
+  },
+  {
+   "id": "person:邓说",
+   "name": "邓说",
+   "alias": [],
+   "type": "将领",
+   "state": "楚",
+   "description": "阳城人。将兵居郯，为章邯别将所破，军散走陈，为陈王所诛。",
+   "evidence": [
+    "p11"
+   ]
+  },
+  {
+   "id": "person:伍徐",
+   "name": "伍徐",
+   "alias": [
+    "伍逢"
+   ],
+   "type": "将领",
+   "state": "楚",
+   "description": "铚人。将兵居许，为章邯所破，军散走陈。",
+   "evidence": [
+    "p11"
+   ]
+  },
+  {
+   "id": "person:秦嘉",
+   "name": "秦嘉",
+   "alias": [],
+   "type": "大司马",
+   "state": "楚",
+   "description": "陵人。陈王初立时特起，后将兵围东海守庆于郯；不受陈王命，自立为大司马，矫王命杀武平君畔；后立景驹为楚王。",
+   "evidence": [
+    "p12",
+    "p17"
+   ]
+  },
+  {
+   "id": "person:董緤",
+   "name": "董緤",
+   "alias": [],
+   "type": "将领",
+   "state": "楚",
+   "description": "铚人。陈王初立时特起之将领。",
+   "evidence": [
+    "p12"
+   ]
+  },
+  {
+   "id": "person:朱鸡石",
+   "name": "朱鸡石",
+   "alias": [],
+   "type": "将领",
+   "state": "楚",
+   "description": "符离人。陈王初立时特起之将领。",
+   "evidence": [
+    "p12"
+   ]
+  },
+  {
+   "id": "person:郑布",
+   "name": "郑布",
+   "alias": [],
+   "type": "将领",
+   "state": "楚",
+   "description": "取虑人。陈王初立时特起之将领。",
+   "evidence": [
+    "p12"
+   ]
+  },
+  {
+   "id": "person:丁疾",
+   "name": "丁疾",
+   "alias": [],
+   "type": "将领",
+   "state": "楚",
+   "description": "徐人。陈王初立时特起之将领。",
+   "evidence": [
+    "p12"
+   ]
+  },
+  {
+   "id": "person:庆",
+   "name": "庆",
+   "alias": [],
+   "type": "郡守",
+   "state": "楚",
+   "description": "东海郡守，为秦嘉等将兵围于郯。",
+   "evidence": [
+    "p12"
+   ]
+  },
+  {
+   "id": "person:畔",
+   "name": "畔",
+   "alias": [
+    "武平君畔"
+   ],
+   "type": "将军",
+   "state": "楚",
+   "description": "号武平君。陈王以为将军，监郯下军，为秦嘉矫王命所杀。",
+   "evidence": [
+    "p12"
+   ]
+  },
+  {
+   "id": "person:张贺",
+   "name": "张贺",
+   "alias": [],
+   "type": "将领",
+   "state": "楚",
+   "description": "陈王军将。章邯进兵击陈西张贺军，陈王出监战，军破，张贺死。",
+   "evidence": [
+    "p13"
+   ]
+  },
+  {
+   "id": "person:庄贾",
+   "name": "庄贾",
+   "alias": [],
+   "type": "御者",
+   "state": "楚",
+   "description": "陈王车夫。陈王至下城父，庄贾杀之以降秦。",
+   "evidence": [
+    "p14"
+   ]
+  },
+  {
+   "id": "person:吕臣",
+   "name": "吕臣",
+   "alias": [],
+   "type": "将军",
+   "state": "楚",
+   "description": "陈王故涓人，为将军，组织仓头军，起新阳，攻陈下之，杀庄贾，复以陈为楚。",
+   "evidence": [
+    "p15"
+   ]
+  },
+  {
+   "id": "person:宋留",
+   "name": "宋留",
+   "alias": [],
+   "type": "将领",
+   "state": "楚",
+   "description": "铚人。陈王令其将兵定南阳、入武关；闻陈王死而南阳复为秦，不能入关，东至新蔡降秦，被车裂于咸阳。",
+   "evidence": [
+    "p16"
+   ]
+  },
+  {
+   "id": "person:景驹",
+   "name": "景驹",
+   "alias": [],
+   "type": "楚王",
+   "state": "楚",
+   "description": "秦嘉等闻陈王军破，所立之楚王。",
+   "evidence": [
+    "p17"
+   ]
+  },
+  {
+   "id": "person:公孙庆",
+   "name": "公孙庆",
+   "alias": [],
+   "type": "使者",
+   "state": "楚",
+   "description": "秦嘉等所遣使齐之使者，为田儋所杀。",
+   "evidence": [
+    "p17"
+   ]
+  },
+  {
+   "id": "person:黥布",
+   "name": "黥布",
+   "alias": [
+    "英布",
+    "当阳君"
+   ],
+   "type": "将领",
+   "state": "楚",
+   "description": "鄱盗，号当阳君。其兵与吕臣相收，破秦左右校于青波。",
+   "evidence": [
+    "p18"
+   ]
+  },
+  {
+   "id": "person:项梁",
+   "name": "项梁",
+   "alias": [],
+   "type": "将领",
+   "state": "楚",
+   "description": "楚将，立楚怀王孙心为楚王。",
+   "evidence": [
+    "p18"
+   ]
+  },
+  {
+   "id": "person:楚怀王孙心",
+   "name": "楚怀王孙心",
+   "alias": [
+    "心"
+   ],
+   "type": "楚王",
+   "state": "楚",
+   "description": "项梁所立之楚王。",
+   "evidence": [
+    "p18"
+   ]
+  },
+  {
+   "id": "person:朱房",
+   "name": "朱房",
+   "alias": [],
+   "type": "中正",
+   "state": "楚",
+   "description": "陈王以为中正，主司群臣，以苛察为忠，致诸将不亲附。",
+   "evidence": [
+    "p19"
+   ]
+  },
+  {
+   "id": "person:胡武",
+   "name": "胡武",
+   "alias": [],
+   "type": "司过",
+   "state": "楚",
+   "description": "陈王以为司过，主司群臣。",
+   "evidence": [
+    "p19"
+   ]
+  },
+  {
+   "id": "person:刘邦",
+   "name": "刘邦",
+   "alias": [
+    "高祖"
+   ],
+   "type": "帝王",
+   "dynasty": "汉",
+   "description": "汉高祖。为陈涉置守冢三十家于砀。",
+   "evidence": [
+    "p20"
+   ]
+  },
+  {
+   "id": "person:褚先生",
+   "name": "褚先生",
+   "alias": [],
+   "type": "史家",
+   "dynasty": "汉",
+   "description": "本篇末赞文之署名者。《集解》《索隐》据别本及班固奏事，谓当作“太史公”。",
+   "evidence": [
+    "p21"
+   ]
+  },
+  {
+   "id": "person:贾谊",
+   "name": "贾谊",
+   "alias": [
+    "贾生"
+   ],
+   "type": "文学家",
+   "dynasty": "汉",
+   "description": "《过秦论》作者，本篇末取其上、下篇为赞。",
+   "evidence": [
+    "p21"
+   ]
+  },
+  {
+   "id": "person:商鞅",
+   "name": "商鞅",
+   "alias": [
+    "商君"
+   ],
+   "type": "政治家",
+   "state": "秦",
+   "description": "佐秦孝公变法，内立法度、外连衡斗诸侯。",
+   "evidence": [
+    "p22"
+   ]
+  },
+  {
+   "id": "person:秦孝公",
+   "name": "秦孝公",
+   "alias": [],
+   "type": "诸侯",
+   "dynasty": "秦",
+   "description": "据殽函之固、拥雍州之地，用商鞅而强。",
+   "evidence": [
+    "p22",
+    "p23"
+   ]
+  },
+  {
+   "id": "person:秦惠文王",
+   "name": "秦惠文王",
+   "alias": [],
+   "type": "诸侯",
+   "dynasty": "秦",
+   "description": "蒙故业、因遗策，南取汉中、西举巴蜀。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:秦武王",
+   "name": "秦武王",
+   "alias": [],
+   "type": "诸侯",
+   "dynasty": "秦",
+   "description": "与惠文、昭王同承孝公之业。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:秦昭王",
+   "name": "秦昭王",
+   "alias": [],
+   "type": "诸侯",
+   "dynasty": "秦",
+   "description": "蒙故业、因遗策之秦君。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:秦孝文王",
+   "name": "秦孝文王",
+   "alias": [],
+   "type": "诸侯",
+   "dynasty": "秦",
+   "description": "享国日浅，国家无事。",
+   "evidence": [
+    "p24"
+   ]
+  },
+  {
+   "id": "person:秦庄襄王",
+   "name": "秦庄襄王",
+   "alias": [],
+   "type": "诸侯",
+   "dynasty": "秦",
+   "description": "享国日浅，国家无事。",
+   "evidence": [
+    "p24"
+   ]
+  },
+  {
+   "id": "person:秦始皇",
+   "name": "秦始皇",
+   "alias": [
+    "始皇"
+   ],
+   "type": "帝王",
+   "dynasty": "秦",
+   "description": "奋六世余烈，并天下、废先王之道、燔百家言，自以为万世之业。",
+   "evidence": [
+    "p25"
+   ]
+  },
+  {
+   "id": "person:蒙恬",
+   "name": "蒙恬",
+   "alias": [],
+   "type": "将领",
+   "dynasty": "秦",
+   "description": "北筑长城而守藩篱，却匈奴七百余里。",
+   "evidence": [
+    "p25"
+   ]
+  },
+  {
+   "id": "person:孟尝君",
+   "name": "孟尝君",
+   "alias": [
+    "孟尝"
+   ],
+   "type": "公子",
+   "state": "齐",
+   "description": "四公子之一，明知忠信、宽厚爱人。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:平原君",
+   "name": "平原君",
+   "alias": [
+    "平原"
+   ],
+   "type": "公子",
+   "state": "赵",
+   "description": "四公子之一。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:春申君",
+   "name": "春申君",
+   "alias": [],
+   "type": "公子",
+   "state": "楚",
+   "description": "四公子之一；周文曾事之。",
+   "evidence": [
+    "p6",
+    "p23"
+   ]
+  },
+  {
+   "id": "person:信陵君",
+   "name": "信陵君",
+   "alias": [
+    "信陵"
+   ],
+   "type": "公子",
+   "state": "魏",
+   "description": "四公子之一。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:宁越",
+   "name": "宁越",
+   "alias": [],
+   "type": "谋士",
+   "description": "六国之士，为六国谋。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:徐尚",
+   "name": "徐尚",
+   "alias": [],
+   "type": "谋士",
+   "description": "六国之士，为六国谋。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:苏秦",
+   "name": "苏秦",
+   "alias": [],
+   "type": "谋士",
+   "description": "六国之士，为六国谋。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:杜赫",
+   "name": "杜赫",
+   "alias": [],
+   "type": "谋士",
+   "description": "六国之士，为六国谋。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:齐明",
+   "name": "齐明",
+   "alias": [],
+   "type": "谋士",
+   "description": "六国之士，通其意者。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:周最",
+   "name": "周最",
+   "alias": [],
+   "type": "谋士",
+   "description": "六国之士，通其意者。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:陈轸",
+   "name": "陈轸",
+   "alias": [],
+   "type": "谋士",
+   "description": "六国之士，通其意者。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:邵滑",
+   "name": "邵滑",
+   "alias": [
+    "昭滑"
+   ],
+   "type": "谋士",
+   "description": "六国之士，通其意者。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:楼缓",
+   "name": "楼缓",
+   "alias": [],
+   "type": "谋士",
+   "description": "六国之士，通其意者。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:翟景",
+   "name": "翟景",
+   "alias": [],
+   "type": "谋士",
+   "description": "六国之士，通其意者。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:苏厉",
+   "name": "苏厉",
+   "alias": [],
+   "type": "谋士",
+   "description": "六国之士，通其意者。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:乐毅",
+   "name": "乐毅",
+   "alias": [],
+   "type": "将领",
+   "state": "燕",
+   "description": "六国之士，通其意者。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:吴起",
+   "name": "吴起",
+   "alias": [],
+   "type": "将领",
+   "description": "六国制兵之伦。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:孙膑",
+   "name": "孙膑",
+   "alias": [],
+   "type": "将领",
+   "state": "齐",
+   "description": "六国制兵之伦。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:带他",
+   "name": "带他",
+   "alias": [],
+   "type": "将领",
+   "description": "六国制兵之伦。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:儿良",
+   "name": "儿良",
+   "alias": [],
+   "type": "将领",
+   "description": "六国制兵之伦。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:王廖",
+   "name": "王廖",
+   "alias": [],
+   "type": "将领",
+   "description": "六国制兵之伦。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:田忌",
+   "name": "田忌",
+   "alias": [],
+   "type": "将领",
+   "state": "齐",
+   "description": "六国制兵之伦。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:廉颇",
+   "name": "廉颇",
+   "alias": [],
+   "type": "将领",
+   "state": "赵",
+   "description": "六国制兵之伦。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:赵奢",
+   "name": "赵奢",
+   "alias": [],
+   "type": "将领",
+   "state": "赵",
+   "description": "六国制兵之伦。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "person:孔子",
+   "name": "孔子",
+   "alias": [
+    "仲尼"
+   ],
+   "type": "思想家",
+   "state": "鲁",
+   "description": "儒家创始人，陈涉之材能所不及。",
+   "evidence": [
+    "p26"
+   ]
+  },
+  {
+   "id": "person:墨子",
+   "name": "墨子",
+   "alias": [
+    "墨翟"
+   ],
+   "type": "思想家",
+   "description": "墨家创始人，陈涉之材能所不及。",
+   "evidence": [
+    "p26"
+   ]
+  },
+  {
+   "id": "person:陶朱公",
+   "name": "陶朱公",
+   "alias": [
+    "陶朱"
+   ],
+   "type": "富商",
+   "description": "春秋末富商，陈涉之富所不及。",
+   "evidence": [
+    "p26"
+   ]
+  },
+  {
+   "id": "person:猗顿",
+   "name": "猗顿",
+   "alias": [],
+   "type": "富商",
+   "description": "战国富商，陈涉之富所不及。",
+   "evidence": [
+    "p26"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "id": "place:阳城",
+   "name": "阳城",
+   "alias": [],
+   "type": "县",
+   "description": "陈胜籍贯地。韦昭云属颍川，《汉志》云属汝南，《正义》谓即河南阳城县。",
+   "evidence": [
+    "p1"
+   ]
+  },
+  {
+   "id": "place:阳夏",
+   "name": "阳夏",
+   "alias": [],
+   "type": "县",
+   "description": "吴广籍贯地。属陈（淮阳）。",
+   "evidence": [
+    "p1"
+   ]
+  },
+  {
+   "id": "place:渔阳",
+   "name": "渔阳",
+   "alias": [],
+   "type": "郡县",
+   "description": "秦戍地，陈胜吴广等九百人適戍之所。",
+   "evidence": [
+    "p2"
+   ]
+  },
+  {
+   "id": "place:大泽乡",
+   "name": "大泽乡",
+   "alias": [],
+   "type": "乡",
+   "description": "在沛郡蕲县。陈胜吴广起义发难之地。",
+   "evidence": [
+    "p2",
+    "p3"
+   ]
+  },
+  {
+   "id": "place:蕲",
+   "name": "蕲",
+   "alias": [],
+   "type": "县",
+   "description": "属沛郡。陈胜军收而攻蕲，蕲下。",
+   "evidence": [
+    "p3"
+   ]
+  },
+  {
+   "id": "place:铚",
+   "name": "铚",
+   "alias": [],
+   "type": "县",
+   "description": "属沛。陈胜军攻下之，伍徐、董緤、宋留皆铚人。",
+   "evidence": [
+    "p3",
+    "p11",
+    "p12",
+    "p16"
+   ]
+  },
+  {
+   "id": "place:酂",
+   "name": "酂",
+   "alias": [],
+   "type": "县",
+   "description": "陈胜军所攻下之县。",
+   "evidence": [
+    "p3"
+   ]
+  },
+  {
+   "id": "place:苦",
+   "name": "苦",
+   "alias": [],
+   "type": "县",
+   "description": "属陈。陈胜军所攻下之县。",
+   "evidence": [
+    "p3"
+   ]
+  },
+  {
+   "id": "place:柘",
+   "name": "柘",
+   "alias": [],
+   "type": "县",
+   "description": "属陈。陈胜军所攻下之县。",
+   "evidence": [
+    "p3"
+   ]
+  },
+  {
+   "id": "place:谯",
+   "name": "谯",
+   "alias": [],
+   "type": "县",
+   "description": "陈胜军所攻下之县。",
+   "evidence": [
+    "p3"
+   ]
+  },
+  {
+   "id": "place:陈",
+   "name": "陈",
+   "alias": [],
+   "type": "县",
+   "description": "陈胜据之而称王，号张楚。陈守令皆不在，独守丞与战谯门中。",
+   "evidence": [
+    "p3",
+    "p4",
+    "p5",
+    "p19"
+   ]
+  },
+  {
+   "id": "place:荥阳",
+   "name": "荥阳",
+   "alias": [],
+   "type": "城",
+   "description": "吴广围荥阳，李由守之，久不能下。",
+   "evidence": [
+    "p4",
+    "p5",
+    "p10"
+   ]
+  },
+  {
+   "id": "place:九江郡",
+   "name": "九江郡",
+   "alias": [],
+   "type": "郡",
+   "description": "陈王令汝阴人邓宗徇九江郡。",
+   "evidence": [
+    "p4"
+   ]
+  },
+  {
+   "id": "place:上蔡",
+   "name": "上蔡",
+   "alias": [],
+   "type": "县",
+   "description": "蔡赐（房君）籍贯地。",
+   "evidence": [
+    "p5"
+   ]
+  },
+  {
+   "id": "place:东城",
+   "name": "东城",
+   "alias": [],
+   "type": "县",
+   "description": "属九江。葛婴至此立襄彊为楚王。",
+   "evidence": [
+    "p5"
+   ]
+  },
+  {
+   "id": "place:三川",
+   "name": "三川",
+   "alias": [],
+   "type": "郡",
+   "description": "李由所守之郡，地有伊、洛、河，故曰三川。",
+   "evidence": [
+    "p5"
+   ]
+  },
+  {
+   "id": "place:戏",
+   "name": "戏",
+   "alias": [],
+   "type": "亭",
+   "description": "周文西击至戏而军，为章邯所破之处。",
+   "evidence": [
+    "p6"
+   ]
+  },
+  {
+   "id": "place:曹阳",
+   "name": "曹阳",
+   "alias": [],
+   "type": "亭",
+   "description": "周文败退止次处，亦名好阳亭。",
+   "evidence": [
+    "p6"
+   ]
+  },
+  {
+   "id": "place:渑池",
+   "name": "渑池",
+   "alias": [],
+   "type": "县",
+   "description": "周文再退止次之地。",
+   "evidence": [
+    "p6"
+   ]
+  },
+  {
+   "id": "place:函谷关",
+   "name": "函谷关",
+   "alias": [
+    "关"
+   ],
+   "type": "关",
+   "description": "周文西击行收兵至关。",
+   "evidence": [
+    "p6"
+   ]
+  },
+  {
+   "id": "place:邯郸",
+   "name": "邯郸",
+   "alias": [],
+   "type": "城",
+   "description": "武臣至此自立为赵王。",
+   "evidence": [
+    "p7"
+   ]
+  },
+  {
+   "id": "place:燕",
+   "name": "燕",
+   "alias": [],
+   "type": "国",
+   "description": "韩广北徇燕地而自立为燕王。",
+   "evidence": [
+    "p7",
+    "p8"
+   ]
+  },
+  {
+   "id": "place:代",
+   "name": "代",
+   "alias": [],
+   "type": "地",
+   "description": "赵北有燕、代。",
+   "evidence": [
+    "p7"
+   ]
+  },
+  {
+   "id": "place:成都",
+   "name": "成都",
+   "alias": [],
+   "type": "县",
+   "description": "蜀郡县，陈王遥封张敖为成都君。",
+   "evidence": [
+    "p7"
+   ]
+  },
+  {
+   "id": "place:狄",
+   "name": "狄",
+   "alias": [],
+   "type": "县",
+   "description": "周市北徇地至狄，田儋杀狄令自立为齐王。",
+   "evidence": [
+    "p9"
+   ]
+  },
+  {
+   "id": "place:魏",
+   "name": "魏",
+   "alias": [],
+   "type": "国",
+   "description": "周市徇魏地，陈王立甯陵君咎为魏王。",
+   "evidence": [
+    "p9"
+   ]
+  },
+  {
+   "id": "place:赵",
+   "name": "赵",
+   "alias": [],
+   "type": "国",
+   "description": "武臣徇赵地而自立为赵王。",
+   "evidence": [
+    "p7",
+    "p8"
+   ]
+  },
+  {
+   "id": "place:齐",
+   "name": "齐",
+   "alias": [],
+   "type": "国",
+   "description": "田儋自立为齐王。",
+   "evidence": [
+    "p9",
+    "p17"
+   ]
+  },
+  {
+   "id": "place:许",
+   "name": "许",
+   "alias": [],
+   "type": "县",
+   "description": "伍徐将兵居许，为章邯所破。",
+   "evidence": [
+    "p11"
+   ]
+  },
+  {
+   "id": "place:东海",
+   "name": "东海",
+   "alias": [],
+   "type": "郡",
+   "description": "秦嘉等将兵围东海守庆于郯。",
+   "evidence": [
+    "p12"
+   ]
+  },
+  {
+   "id": "place:郯",
+   "name": "郯",
+   "alias": [],
+   "type": "县",
+   "description": "围东海守之处；邓说将兵居处。注谓疑当作“郟”。",
+   "evidence": [
+    "p11",
+    "p12"
+   ]
+  },
+  {
+   "id": "place:汝阴",
+   "name": "汝阴",
+   "alias": [],
+   "type": "县",
+   "description": "陈王至汝阴。",
+   "evidence": [
+    "p14"
+   ]
+  },
+  {
+   "id": "place:下城父",
+   "name": "下城父",
+   "alias": [],
+   "type": "聚",
+   "description": "陈王还至下城父，为庄贾所杀。",
+   "evidence": [
+    "p14"
+   ]
+  },
+  {
+   "id": "place:砀",
+   "name": "砀",
+   "alias": [],
+   "type": "县",
+   "description": "陈胜葬砀，高祖为置守冢三十家。",
+   "evidence": [
+    "p14",
+    "p20"
+   ]
+  },
+  {
+   "id": "place:新阳",
+   "name": "新阳",
+   "alias": [],
+   "type": "县",
+   "description": "吕臣起兵之地。",
+   "evidence": [
+    "p15"
+   ]
+  },
+  {
+   "id": "place:南阳",
+   "name": "南阳",
+   "alias": [],
+   "type": "郡",
+   "description": "宋留将兵定南阳，闻陈王死，南阳复为秦。",
+   "evidence": [
+    "p16"
+   ]
+  },
+  {
+   "id": "place:武关",
+   "name": "武关",
+   "alias": [],
+   "type": "关",
+   "description": "宋留欲入武关而不得。",
+   "evidence": [
+    "p16"
+   ]
+  },
+  {
+   "id": "place:新蔡",
+   "name": "新蔡",
+   "alias": [],
+   "type": "县",
+   "description": "宋留东至新蔡，遇秦军而降。",
+   "evidence": [
+    "p16"
+   ]
+  },
+  {
+   "id": "place:咸阳",
+   "name": "咸阳",
+   "alias": [],
+   "type": "都",
+   "description": "秦都。宋留被传至咸阳车裂。",
+   "evidence": [
+    "p16"
+   ]
+  },
+  {
+   "id": "place:方与",
+   "name": "方与",
+   "alias": [],
+   "type": "县",
+   "description": "秦嘉等立景驹后引兵之方与。",
+   "evidence": [
+    "p17"
+   ]
+  },
+  {
+   "id": "place:定陶",
+   "name": "定陶",
+   "alias": [],
+   "type": "城",
+   "description": "秦嘉等欲击秦军于定陶下。",
+   "evidence": [
+    "p17"
+   ]
+  },
+  {
+   "id": "place:青波",
+   "name": "青波",
+   "alias": [],
+   "type": "地名",
+   "description": "吕臣、黥布破秦左右校于青波。",
+   "evidence": [
+    "p18"
+   ]
+  },
+  {
+   "id": "place:雍州",
+   "name": "雍州",
+   "alias": [],
+   "type": "州",
+   "description": "秦所拥之地。",
+   "evidence": [
+    "p22",
+    "p27"
+   ]
+  },
+  {
+   "id": "place:殽",
+   "name": "殽",
+   "alias": [
+    "殽山"
+   ],
+   "type": "山",
+   "description": "秦据殽、函之固，殽谓二殽。",
+   "evidence": [
+    "p22",
+    "p27"
+   ]
+  },
+  {
+   "id": "place:汉中",
+   "name": "汉中",
+   "alias": [],
+   "type": "郡",
+   "description": "秦南取汉中。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "place:巴蜀",
+   "name": "巴蜀",
+   "alias": [],
+   "type": "地",
+   "description": "秦西举巴蜀。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "place:西河",
+   "name": "西河",
+   "alias": [],
+   "type": "地",
+   "description": "秦拱手而取西河之外。",
+   "evidence": [
+    "p22"
+   ]
+  },
+  {
+   "id": "place:桂林",
+   "name": "桂林",
+   "alias": [],
+   "type": "郡",
+   "description": "秦南取百越，置桂林郡。",
+   "evidence": [
+    "p25"
+   ]
+  },
+  {
+   "id": "place:象郡",
+   "name": "象郡",
+   "alias": [],
+   "type": "郡",
+   "description": "秦南取百越，置象郡。",
+   "evidence": [
+    "p25"
+   ]
+  },
+  {
+   "id": "place:百越",
+   "name": "百越",
+   "alias": [],
+   "type": "族地",
+   "description": "秦南取百越之地。",
+   "evidence": [
+    "p25"
+   ]
+  },
+  {
+   "id": "place:长城",
+   "name": "长城",
+   "alias": [],
+   "type": "工程",
+   "description": "蒙恬北筑长城以守藩篱。",
+   "evidence": [
+    "p25"
+   ]
+  },
+  {
+   "id": "place:华山",
+   "name": "华山",
+   "alias": [
+    "华"
+   ],
+   "type": "山",
+   "description": "秦践华为城。",
+   "evidence": [
+    "p25"
+   ]
+  },
+  {
+   "id": "place:黄河",
+   "name": "黄河",
+   "alias": [
+    "河"
+   ],
+   "type": "水",
+   "description": "秦因河为池。",
+   "evidence": [
+    "p25"
+   ]
+  },
+  {
+   "id": "place:山东",
+   "name": "山东",
+   "alias": [],
+   "type": "地域",
+   "description": "山东豪俊并起而亡秦族。",
+   "evidence": [
+    "p26",
+    "p27"
+   ]
+  },
+  {
+   "id": "place:关中",
+   "name": "关中",
+   "alias": [],
+   "type": "地域",
+   "description": "始皇自以为关中之固、金城千里。",
+   "evidence": [
+    "p25"
+   ]
+  },
+  {
+   "id": "place:六合",
+   "name": "六合",
+   "alias": [],
+   "type": "地域",
+   "description": "秦以六合为家。",
+   "evidence": [
+    "p27"
+   ]
+  },
+  {
+   "id": "place:八州",
+   "name": "八州",
+   "alias": [],
+   "type": "地域",
+   "description": "秦抑八州而朝同列。",
+   "evidence": [
+    "p27"
+   ]
+  },
+  {
+   "id": "place:楚",
+   "name": "楚",
+   "alias": [
+    "楚国"
+   ],
+   "type": "国",
+   "description": "陈胜、项梁、项燕等所系之国；陈胜立号张楚，楚怀王孙心亦立为楚王。",
+   "evidence": [
+    "p2",
+    "p3",
+    "p18"
+   ]
+  },
+  {
+   "id": "place:秦",
+   "name": "秦",
+   "alias": [
+    "秦朝"
+   ],
+   "type": "国",
+   "description": "秦朝，陈胜起兵所讨伐者；宋留降秦，陈胜首事而竟亡秦。",
+   "evidence": [
+    "p2",
+    "p16",
+    "p20",
+    "p22"
+   ]
+  }
+ ],
+ "events": [
+  {
+   "id": "event:大泽乡起义",
+   "name": "大泽乡起义",
+   "alias": [
+    "陈胜吴广起义"
+   ],
+   "type": "起义",
+   "description": "秦二世元年七月，陈胜、吴广等九百人屯大泽乡，遇雨失期，遂杀将尉，诈称扶苏、项燕，号召戍卒起义。",
+   "evidence": [
+    "p2",
+    "p3"
+   ]
+  },
+  {
+   "id": "event:丹书狐鸣",
+   "name": "丹书狐鸣",
+   "alias": [
+    "鱼腹丹书",
+    "篝火狐鸣"
+   ],
+   "type": "事迹",
+   "description": "陈胜以丹书帛置鱼腹、吴广夜篝火狐鸣呼“大楚兴，陈胜王”，以威众。",
+   "evidence": [
+    "p2"
+   ]
+  },
+  {
+   "id": "event:陈胜称王",
+   "name": "陈胜称王",
+   "alias": [
+    "立为张楚王"
+   ],
+   "type": "事件",
+   "description": "陈胜攻克陈县，三老豪杰请立为王，号张楚。",
+   "evidence": [
+    "p3"
+   ]
+  },
+  {
+   "id": "event:葛婴立襄彊",
+   "name": "葛婴立襄彊",
+   "alias": [],
+   "type": "事件",
+   "description": "葛婴至东城立襄彊为楚王，后闻陈王已立，杀襄彊，为陈王所诛。",
+   "evidence": [
+    "p5"
+   ]
+  },
+  {
+   "id": "event:武臣自立赵王",
+   "name": "武臣自立赵王",
+   "alias": [],
+   "type": "事件",
+   "description": "武臣徇赵至邯郸，自立为赵王。",
+   "evidence": [
+    "p7"
+   ]
+  },
+  {
+   "id": "event:韩广自立燕王",
+   "name": "韩广自立燕王",
+   "alias": [],
+   "type": "事件",
+   "description": "韩广奉赵命北徇燕地，为燕人所推，自立为燕王。",
+   "evidence": [
+    "p8"
+   ]
+  },
+  {
+   "id": "event:田儋自立齐王",
+   "name": "田儋自立齐王",
+   "alias": [],
+   "type": "事件",
+   "description": "狄人田儋杀狄令，自立为齐王。",
+   "evidence": [
+    "p9"
+   ]
+  },
+  {
+   "id": "event:立魏王咎",
+   "name": "立魏王咎",
+   "alias": [],
+   "type": "事件",
+   "description": "周市请立魏后甯陵君咎，使者五反，陈王乃立咎为魏王。",
+   "evidence": [
+    "p9"
+   ]
+  },
+  {
+   "id": "event:周文西击秦",
+   "name": "周文西击秦",
+   "alias": [],
+   "type": "战役",
+   "description": "周文受陈王将军印西击，至戏为章邯所破，退走曹阳、渑池，自刭。",
+   "evidence": [
+    "p6"
+   ]
+  },
+  {
+   "id": "event:田臧诛吴广",
+   "name": "田臧诛吴广",
+   "alias": [],
+   "type": "事件",
+   "description": "田臧等矫王令诛吴广，献首陈王，得令尹印。",
+   "evidence": [
+    "p10"
+   ]
+  },
+  {
+   "id": "event:敖仓之战",
+   "name": "敖仓之战",
+   "alias": [],
+   "type": "战役",
+   "description": "田臧自以精兵西迎秦军于敖仓，战死军破；章邯又破李归等于荥阳下。",
+   "evidence": [
+    "p10"
+   ]
+  },
+  {
+   "id": "event:章邯破陈",
+   "name": "章邯破陈",
+   "alias": [],
+   "type": "战役",
+   "description": "章邯破伍徐、房君、张贺军，陈王出监战而军破。",
+   "evidence": [
+    "p11",
+    "p13"
+   ]
+  },
+  {
+   "id": "event:陈胜之死",
+   "name": "陈胜之死",
+   "alias": [],
+   "type": "事件",
+   "description": "腊月，陈王至汝阴、还至下城父，车夫庄贾杀以降秦。陈胜葬砀，谥隐王。",
+   "evidence": [
+    "p14"
+   ]
+  },
+  {
+   "id": "event:吕臣复陈",
+   "name": "吕臣复陈",
+   "alias": [],
+   "type": "事件",
+   "description": "吕臣为仓头军，起新阳，攻陈下之，杀庄贾，复以陈为楚。",
+   "evidence": [
+    "p15"
+   ]
+  },
+  {
+   "id": "event:宋留降秦",
+   "name": "宋留降秦",
+   "alias": [],
+   "type": "事件",
+   "description": "宋留定南阳，闻陈王死而南阳复为秦，不能入武关，东至新蔡降秦，被车裂于咸阳。",
+   "evidence": [
+    "p16"
+   ]
+  },
+  {
+   "id": "event:秦嘉立景驹",
+   "name": "秦嘉立景驹",
+   "alias": [],
+   "type": "事件",
+   "description": "秦嘉等闻陈王军破，立景驹为楚王；公孙庆使齐，为田儋所杀。",
+   "evidence": [
+    "p17"
+   ]
+  },
+  {
+   "id": "event:项梁立楚怀王",
+   "name": "项梁立楚怀王",
+   "alias": [
+    "立楚怀王孙心"
+   ],
+   "type": "事件",
+   "description": "项梁立楚怀王孙心为楚王，为楚地复振之转折。",
+   "evidence": [
+    "p18"
+   ]
+  },
+  {
+   "id": "event:夥涉为王",
+   "name": "夥涉为王",
+   "alias": [],
+   "type": "事迹",
+   "description": "陈胜故人入宫见殿屋帷帐，叹“夥颐！涉之为王沈沈者”，其语传为“夥涉为王”。",
+   "evidence": [
+    "p19"
+   ]
+  },
+  {
+   "id": "event:陈胜之败",
+   "name": "陈胜之败",
+   "alias": [],
+   "type": "评述",
+   "description": "陈胜信用朱房、胡武，以苛察为忠，故人不亲附，诸将不亲，遂致败。",
+   "evidence": [
+    "p19"
+   ]
+  },
+  {
+   "id": "event:守冢血食",
+   "name": "守冢血食",
+   "alias": [
+    "高祖置守冢"
+   ],
+   "type": "事件",
+   "description": "陈胜虽死，所置侯王将相竟亡秦；高祖为陈涉置守冢三十家于砀，至今血食。",
+   "evidence": [
+    "p20"
+   ]
+  }
+ ],
+ "concepts": [
+  {
+   "id": "concept:世家",
+   "name": "世家",
+   "alias": [
+    "系家"
+   ],
+   "type": "体例",
+   "description": "《史记》五体之一。陈胜立数月而死、无后而仍称世家，以其所遣王侯将相竟灭秦、为首事故。",
+   "evidence": [
+    "p0"
+   ]
+  },
+  {
+   "id": "concept:闾左",
+   "name": "闾左",
+   "alias": [],
+   "type": "制度",
+   "description": "秦时居闾里之左者（一说贫弱者），秦役戍多，尽发闾左之民。",
+   "evidence": [
+    "p2"
+   ]
+  },
+  {
+   "id": "concept:张楚",
+   "name": "张楚",
+   "alias": [],
+   "type": "国号",
+   "description": "陈胜立为王所号之国，“欲张大楚国”之意。",
+   "evidence": [
+    "p3"
+   ]
+  },
+  {
+   "id": "concept:上柱国",
+   "name": "上柱国",
+   "alias": [],
+   "type": "官名",
+   "description": "楚官，陈王以蔡赐为上柱国。",
+   "evidence": [
+    "p5"
+   ]
+  },
+  {
+   "id": "concept:假王",
+   "name": "假王",
+   "alias": [],
+   "type": "官名",
+   "description": "暂摄之王。陈王以吴广为假王，监诸将西击荥阳。",
+   "evidence": [
+    "p4",
+    "p10"
+   ]
+  },
+  {
+   "id": "concept:令尹",
+   "name": "令尹",
+   "alias": [],
+   "type": "官名",
+   "description": "楚官。陈王赐田臧楚令尹印，使为上将。",
+   "evidence": [
+    "p10"
+   ]
+  },
+  {
+   "id": "concept:中正",
+   "name": "中正",
+   "alias": [],
+   "type": "官名",
+   "description": "陈王以朱房为中正，主司群臣。",
+   "evidence": [
+    "p19"
+   ]
+  },
+  {
+   "id": "concept:司过",
+   "name": "司过",
+   "alias": [],
+   "type": "官名",
+   "description": "陈王以胡武为司过，主司群臣。",
+   "evidence": [
+    "p19"
+   ]
+  },
+  {
+   "id": "concept:王侯将相宁有种乎",
+   "name": "王侯将相宁有种乎",
+   "alias": [],
+   "type": "名句",
+   "description": "陈胜激励戍卒之语，谓王侯将相并非天生贵种。",
+   "evidence": [
+    "p3"
+   ]
+  },
+  {
+   "id": "concept:苛察为忠",
+   "name": "苛察为忠",
+   "alias": [],
+   "type": "观念",
+   "description": "陈胜信用朱房、胡武，以苛刻细察为忠，致诸将不亲附。",
+   "evidence": [
+    "p19"
+   ]
+  },
+  {
+   "id": "concept:仁义",
+   "name": "仁义",
+   "alias": [],
+   "type": "观念",
+   "description": "《过秦论》要旨：秦以攻取天下而不知守成以仁义，故速亡。",
+   "evidence": [
+    "p21",
+    "p27"
+   ]
+  },
+  {
+   "id": "concept:攻城守势",
+   "name": "攻守之势",
+   "alias": [],
+   "type": "观念",
+   "description": "《过秦论》谓秦“仁义不施而攻守之势异”，成败异变、功业相反。",
+   "evidence": [
+    "p27"
+   ]
+  },
+  {
+   "id": "concept:过秦论",
+   "name": "过秦论",
+   "alias": [],
+   "type": "文献",
+   "description": "贾谊论秦兴亡之名篇，褚先生（一说太史公）取以缀于本篇之末。",
+   "evidence": [
+    "p21",
+    "p22"
+   ]
+  },
+  {
+   "id": "concept:连衡",
+   "name": "连衡",
+   "alias": [
+    "连横"
+   ],
+   "type": "策略",
+   "description": "秦外连衡而斗诸侯之策。",
+   "evidence": [
+    "p22",
+    "p23"
+   ]
+  },
+  {
+   "id": "concept:合从",
+   "name": "合从",
+   "alias": [
+    "约从"
+   ],
+   "type": "策略",
+   "description": "六国合纵缔交、相与为一以弱秦之策。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "concept:九国",
+   "name": "九国",
+   "alias": [],
+   "type": "称谓",
+   "description": "《索隐》谓六国之外更有宋、卫、中山，合为九国。",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "id": "concept:金人十二",
+   "name": "金人十二",
+   "alias": [
+    "翁仲"
+   ],
+   "type": "器物",
+   "description": "秦始皇收天下兵器销铸为金人十二，各重千石、坐高二丈。",
+   "evidence": [
+    "p25"
+   ]
+  },
+  {
+   "id": "concept:瓮牖绳枢",
+   "name": "瓮牖绳枢",
+   "alias": [],
+   "type": "典故",
+   "description": "以破瓮为窗、以绳系门枢，状陈涉出身贫寒。",
+   "evidence": [
+    "p26"
+   ]
+  },
+  {
+   "id": "concept:七庙",
+   "name": "七庙",
+   "alias": [],
+   "type": "宗庙",
+   "description": "天子七庙。陈涉一夫作难而七庙堕，谓秦宗庙倾覆。",
+   "evidence": [
+    "p27"
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "subject": "陈胜",
+   "predicate": "与",
+   "object": "吴广",
+   "evidence": [
+    "p2"
+   ]
+  },
+  {
+   "subject": "陈胜",
+   "predicate": "建号",
+   "object": "张楚",
+   "evidence": [
+    "p3"
+   ]
+  },
+  {
+   "subject": "陈胜",
+   "predicate": "任为假王",
+   "object": "吴广",
+   "evidence": [
+    "p4"
+   ]
+  },
+  {
+   "subject": "陈胜",
+   "predicate": "令",
+   "object": "葛婴",
+   "evidence": [
+    "p3"
+   ]
+  },
+  {
+   "subject": "葛婴",
+   "predicate": "立",
+   "object": "襄彊",
+   "evidence": [
+    "p5"
+   ]
+  },
+  {
+   "subject": "葛婴",
+   "predicate": "杀",
+   "object": "襄彊",
+   "evidence": [
+    "p5"
+   ]
+  },
+  {
+   "subject": "陈胜",
+   "predicate": "诛",
+   "object": "葛婴",
+   "evidence": [
+    "p5"
+   ]
+  },
+  {
+   "subject": "陈胜",
+   "predicate": "令",
+   "object": "周市",
+   "evidence": [
+    "p5"
+   ]
+  },
+  {
+   "subject": "陈胜",
+   "predicate": "任",
+   "object": "蔡赐",
+   "evidence": [
+    "p5"
+   ]
+  },
+  {
+   "subject": "陈胜",
+   "predicate": "与将军印于",
+   "object": "周文",
+   "evidence": [
+    "p6"
+   ]
+  },
+  {
+   "subject": "章邯",
+   "predicate": "破",
+   "object": "周文",
+   "evidence": [
+    "p6"
+   ]
+  },
+  {
+   "subject": "陈胜",
+   "predicate": "令",
+   "object": "武臣",
+   "evidence": [
+    "p4"
+   ]
+  },
+  {
+   "subject": "陈胜",
+   "predicate": "令",
+   "object": "张耳",
+   "evidence": [
+    "p4"
+   ]
+  },
+  {
+   "subject": "陈胜",
+   "predicate": "令",
+   "object": "陈馀",
+   "evidence": [
+    "p4"
+   ]
+  },
+  {
+   "subject": "武臣",
+   "predicate": "自立为赵王于",
+   "object": "赵",
+   "evidence": [
+    "p7"
+   ]
+  },
+  {
+   "subject": "武臣",
+   "predicate": "任",
+   "object": "陈馀",
+   "evidence": [
+    "p7"
+   ]
+  },
+  {
+   "subject": "武臣",
+   "predicate": "任",
+   "object": "张耳",
+   "evidence": [
+    "p7"
+   ]
+  },
+  {
+   "subject": "武臣",
+   "predicate": "任",
+   "object": "召骚",
+   "evidence": [
+    "p7"
+   ]
+  },
+  {
+   "subject": "陈胜",
+   "predicate": "封",
+   "object": "张敖",
+   "evidence": [
+    "p7"
+   ]
+  },
+  {
+   "subject": "陈胜",
+   "predicate": "遣使贺",
+   "object": "赵",
+   "evidence": [
+    "p7"
+   ]
+  },
+  {
+   "subject": "韩广",
+   "predicate": "自立为燕王于",
+   "object": "燕",
+   "evidence": [
+    "p8"
+   ]
+  },
+  {
+   "subject": "田儋",
+   "predicate": "自立为齐王于",
+   "object": "齐",
+   "evidence": [
+    "p9"
+   ]
+  },
+  {
+   "subject": "田儋",
+   "predicate": "杀狄令于",
+   "object": "狄",
+   "evidence": [
+    "p9"
+   ]
+  },
+  {
+   "subject": "陈胜",
+   "predicate": "立",
+   "object": "魏咎",
+   "evidence": [
+    "p9"
+   ]
+  },
+  {
+   "subject": "周市",
+   "predicate": "为相于",
+   "object": "魏咎",
+   "evidence": [
+    "p9"
+   ]
+  },
+  {
+   "subject": "田臧",
+   "predicate": "诛",
+   "object": "吴广",
+   "evidence": [
+    "p10"
+   ]
+  },
+  {
+   "subject": "田臧",
+   "predicate": "令",
+   "object": "李归",
+   "evidence": [
+    "p10"
+   ]
+  },
+  {
+   "subject": "章邯",
+   "predicate": "破",
+   "object": "田臧",
+   "evidence": [
+    "p10"
+   ]
+  },
+  {
+   "subject": "章邯",
+   "predicate": "破",
+   "object": "李归",
+   "evidence": [
+    "p10"
+   ]
+  },
+  {
+   "subject": "章邯",
+   "predicate": "破",
+   "object": "邓说",
+   "evidence": [
+    "p11"
+   ]
+  },
+  {
+   "subject": "陈胜",
+   "predicate": "诛",
+   "object": "邓说",
+   "evidence": [
+    "p11"
+   ]
+  },
+  {
+   "subject": "章邯",
+   "predicate": "破",
+   "object": "伍徐",
+   "evidence": [
+    "p11"
+   ]
+  },
+  {
+   "subject": "秦嘉",
+   "predicate": "杀",
+   "object": "畔",
+   "evidence": [
+    "p12"
+   ]
+  },
+  {
+   "subject": "秦嘉",
+   "predicate": "立",
+   "object": "景驹",
+   "evidence": [
+    "p17"
+   ]
+  },
+  {
+   "subject": "田儋",
+   "predicate": "诛杀",
+   "object": "公孙庆",
+   "evidence": [
+    "p17"
+   ]
+  },
+  {
+   "subject": "章邯",
+   "predicate": "破",
+   "object": "蔡赐",
+   "evidence": [
+    "p13"
+   ]
+  },
+  {
+   "subject": "章邯",
+   "predicate": "破",
+   "object": "张贺",
+   "evidence": [
+    "p13"
+   ]
+  },
+  {
+   "subject": "庄贾",
+   "predicate": "杀",
+   "object": "陈胜",
+   "evidence": [
+    "p14"
+   ]
+  },
+  {
+   "subject": "吕臣",
+   "predicate": "杀",
+   "object": "庄贾",
+   "evidence": [
+    "p15"
+   ]
+  },
+  {
+   "subject": "宋留",
+   "predicate": "降",
+   "object": "秦",
+   "evidence": [
+    "p16"
+   ]
+  },
+  {
+   "subject": "黥布",
+   "predicate": "与",
+   "object": "吕臣",
+   "evidence": [
+    "p18"
+   ]
+  },
+  {
+   "subject": "项梁",
+   "predicate": "立",
+   "object": "楚怀王孙心",
+   "evidence": [
+    "p18"
+   ]
+  },
+  {
+   "subject": "陈胜",
+   "predicate": "任",
+   "object": "朱房",
+   "evidence": [
+    "p19"
+   ]
+  },
+  {
+   "subject": "陈胜",
+   "predicate": "任",
+   "object": "胡武",
+   "evidence": [
+    "p19"
+   ]
+  },
+  {
+   "subject": "刘邦",
+   "predicate": "置守冢于",
+   "object": "陈胜",
+   "evidence": [
+    "p20"
+   ]
+  },
+  {
+   "subject": "陈胜",
+   "predicate": "首事亡",
+   "object": "秦",
+   "evidence": [
+    "p20"
+   ]
+  },
+  {
+   "subject": "商鞅",
+   "predicate": "佐",
+   "object": "秦孝公",
+   "evidence": [
+    "p22"
+   ]
+  },
+  {
+   "subject": "秦孝公",
+   "predicate": "据",
+   "object": "殽",
+   "evidence": [
+    "p22"
+   ]
+  },
+  {
+   "subject": "秦始皇",
+   "predicate": "并",
+   "object": "六合",
+   "evidence": [
+    "p25"
+   ]
+  },
+  {
+   "subject": "蒙恬",
+   "predicate": "筑",
+   "object": "长城",
+   "evidence": [
+    "p25"
+   ]
+  },
+  {
+   "subject": "秦始皇",
+   "predicate": "铸",
+   "object": "金人十二",
+   "evidence": [
+    "p25"
+   ]
+  },
+  {
+   "subject": "孟尝君",
+   "predicate": "为齐公子于",
+   "object": "齐",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "subject": "平原君",
+   "predicate": "为赵公子于",
+   "object": "赵",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "subject": "春申君",
+   "predicate": "为楚公子于",
+   "object": "楚",
+   "evidence": [
+    "p6"
+   ]
+  },
+  {
+   "subject": "信陵君",
+   "predicate": "为魏公子于",
+   "object": "魏",
+   "evidence": [
+    "p23"
+   ]
+  },
+  {
+   "subject": "张耳",
+   "predicate": "父于",
+   "object": "张敖",
+   "evidence": [
+    "p7"
+   ]
+  },
+  {
+   "subject": "李斯",
+   "predicate": "父于",
+   "object": "李由",
+   "evidence": [
+    "p5"
+   ]
+  },
+  {
+   "subject": "陈胜",
+   "predicate": "地为",
+   "object": "陈",
+   "evidence": [
+    "p3"
+   ]
+  },
+  {
+   "subject": "项梁",
+   "predicate": "立",
+   "object": "楚怀王孙心",
+   "evidence": [
+    "p18"
+   ]
+  }
+ ],
+ "note": "定稿：据《陈涉世家-本体校验.md》补入叙事部分宋留、公孙庆、朱房、胡武、刘邦、卜者、李斯等，并整体补入《过秦论》所涉秦六世之君、四公子、六国谋士武将及蒙恬、商鞅、孔子、墨子、陶朱、猗顿等；补地理 20 余处、事件 2 条、概念 6 条；统一关系称谓（陈王→陈胜、武平君→畔），清除悬空关系并补齐关系链。全部实体与关系带 evidence 段落 id。"
+}

@@ -1,0 +1,1095 @@
+{
+ "book": "shiji",
+ "chapter_id": "shiji-楚元王世家第二十",
+ "title": "楚元王世家第二十",
+ "juan": "卷五十",
+ "persons": [
+  {
+   "id": "person:刘邦",
+   "name": "刘邦",
+   "alias": [
+    "高祖"
+   ],
+   "type": "帝王",
+   "dynasty": "汉",
+   "description": "汉高祖。同母少弟为楚元王刘交；微时怨嫂，为帝后封兄子信为羹颉侯，王次兄仲于代。",
+   "evidence": [
+    "p0",
+    "p1"
+   ]
+  },
+  {
+   "id": "person:刘交",
+   "name": "刘交",
+   "alias": [
+    "楚元王"
+   ],
+   "type": "诸侯王",
+   "dynasty": "汉",
+   "state": "楚",
+   "description": "字游，高祖同母少弟。高祖六年禽韩信于陈，以交为楚王，都彭城；即位二十三年卒。",
+   "evidence": [
+    "p0",
+    "p2"
+   ]
+  },
+  {
+   "id": "person:刘伯",
+   "name": "刘伯",
+   "alias": [
+    "伯"
+   ],
+   "type": "人物",
+   "dynasty": "汉",
+   "description": "高祖长兄，早卒，其子信封羹颉侯。",
+   "evidence": [
+    "p1"
+   ]
+  },
+  {
+   "id": "person:羹颉侯信",
+   "name": "羹颉侯信",
+   "alias": [
+    "信"
+   ],
+   "type": "列侯",
+   "dynasty": "汉",
+   "description": "刘伯之子。因高祖怨其母不长者，初不得封，后封羹颉侯。",
+   "evidence": [
+    "p1"
+   ]
+  },
+  {
+   "id": "person:太上皇",
+   "name": "太上皇",
+   "alias": [],
+   "type": "人物",
+   "dynasty": "汉",
+   "description": "高祖之父。为伯子求封于高祖。",
+   "evidence": [
+    "p1"
+   ]
+  },
+  {
+   "id": "person:刘仲",
+   "name": "刘仲",
+   "alias": [
+    "仲",
+    "喜"
+   ],
+   "type": "诸侯王",
+   "dynasty": "汉",
+   "state": "代",
+   "description": "高祖次兄，名喜、字仲。以六年立为代王，其年罢，卒谥顷王。",
+   "evidence": [
+    "p1"
+   ]
+  },
+  {
+   "id": "person:韩信",
+   "name": "韩信",
+   "alias": [
+    "楚王韩信"
+   ],
+   "type": "诸侯王",
+   "dynasty": "汉",
+   "state": "楚",
+   "description": "楚王。高祖六年为高祖禽于陈地，刘交继为楚王。",
+   "evidence": [
+    "p2"
+   ]
+  },
+  {
+   "id": "person:夷王郢",
+   "name": "夷王郢",
+   "alias": [
+    "郢",
+    "郢客"
+   ],
+   "type": "诸侯王",
+   "dynasty": "汉",
+   "state": "楚",
+   "description": "刘交之子，继为楚王，四年卒。",
+   "evidence": [
+    "p2"
+   ]
+  },
+  {
+   "id": "person:王戊",
+   "name": "王戊",
+   "alias": [
+    "楚王戊"
+   ],
+   "type": "诸侯王",
+   "dynasty": "汉",
+   "state": "楚",
+   "description": "夷王郢之子。立二十年，坐为薄太后服私奸削东海郡，遂与吴王合谋反，自杀。",
+   "evidence": [
+    "p3",
+    "p9",
+    "p10"
+   ]
+  },
+  {
+   "id": "person:薄太后",
+   "name": "薄太后",
+   "alias": [],
+   "type": "人物",
+   "dynasty": "汉",
+   "description": "汉文帝之母。王戊坐为薄太后服私奸而削东海郡。",
+   "evidence": [
+    "p3"
+   ]
+  },
+  {
+   "id": "person:张尚",
+   "name": "张尚",
+   "alias": [],
+   "type": "丞相",
+   "dynasty": "汉",
+   "state": "楚",
+   "description": "楚相。王戊谋反时与太傅赵夷吾谏，为王戊所杀。",
+   "evidence": [
+    "p3"
+   ]
+  },
+  {
+   "id": "person:赵夷吾",
+   "name": "赵夷吾",
+   "alias": [],
+   "type": "太傅",
+   "dynasty": "汉",
+   "state": "楚",
+   "description": "楚太傅。谏王戊勿反，为王戊所杀。",
+   "evidence": [
+    "p3"
+   ]
+  },
+  {
+   "id": "person:周亚夫",
+   "name": "周亚夫",
+   "alias": [],
+   "type": "将领",
+   "dynasty": "汉",
+   "description": "汉将。与楚王戊战，绝吴楚粮道，吴楚败。",
+   "evidence": [
+    "p3"
+   ]
+  },
+  {
+   "id": "person:吴王濞",
+   "name": "吴王濞",
+   "alias": [
+    "吴王"
+   ],
+   "type": "诸侯王",
+   "dynasty": "汉",
+   "state": "吴",
+   "description": "吴王。与楚王戊合谋反，为七国之首；景帝欲续其后，窦太后不许。",
+   "evidence": [
+    "p3",
+    "p4"
+   ]
+  },
+  {
+   "id": "person:孝景帝",
+   "name": "孝景帝",
+   "alias": [],
+   "type": "帝王",
+   "dynasty": "汉",
+   "description": "汉景帝。平吴楚后欲以德侯子续吴、元王子礼续楚。",
+   "evidence": [
+    "p4",
+    "p7"
+   ]
+  },
+  {
+   "id": "person:德侯广",
+   "name": "德侯广",
+   "alias": [
+    "德侯"
+   ],
+   "type": "列侯",
+   "dynasty": "汉",
+   "description": "德侯名广，吴王濞之弟，其父曰仲。",
+   "evidence": [
+    "p4"
+   ]
+  },
+  {
+   "id": "person:刘礼",
+   "name": "刘礼",
+   "alias": [
+    "礼",
+    "楚文王"
+   ],
+   "type": "诸侯王",
+   "dynasty": "汉",
+   "state": "楚",
+   "description": "元王之子，时为汉宗正。景帝拜为楚王，奉元王宗庙，是为楚文王。",
+   "evidence": [
+    "p4"
+   ]
+  },
+  {
+   "id": "person:窦太后",
+   "name": "窦太后",
+   "alias": [],
+   "type": "人物",
+   "dynasty": "汉",
+   "description": "窦太后。不许续吴之后，而许立楚后。",
+   "evidence": [
+    "p4"
+   ]
+  },
+  {
+   "id": "person:安王道",
+   "name": "安王道",
+   "alias": [
+    "道"
+   ],
+   "type": "诸侯王",
+   "dynasty": "汉",
+   "state": "楚",
+   "description": "楚文王之子，继为楚王，二十二年卒。",
+   "evidence": [
+    "p5"
+   ]
+  },
+  {
+   "id": "person:襄王经",
+   "name": "襄王经",
+   "alias": [
+    "经"
+   ],
+   "type": "诸侯王",
+   "dynasty": "汉",
+   "state": "楚",
+   "description": "安王之子，继为楚王，十四年卒。",
+   "evidence": [
+    "p5"
+   ]
+  },
+  {
+   "id": "person:王纯",
+   "name": "王纯",
+   "alias": [
+    "纯"
+   ],
+   "type": "诸侯王",
+   "dynasty": "汉",
+   "state": "楚",
+   "description": "襄王之子。立后地节二年国人告其谋反，自杀国除。",
+   "evidence": [
+    "p5"
+   ]
+  },
+  {
+   "id": "person:刘遂",
+   "name": "刘遂",
+   "alias": [
+    "赵王遂"
+   ],
+   "type": "诸侯王",
+   "dynasty": "汉",
+   "state": "赵",
+   "description": "赵幽王之子。景帝时坐削常山郡，与吴楚合谋反，城守邯郸，城坏自杀，赵幽王绝后。",
+   "evidence": [
+    "p6",
+    "p8"
+   ]
+  },
+  {
+   "id": "person:刘友",
+   "name": "刘友",
+   "alias": [
+    "幽王"
+   ],
+   "type": "诸侯王",
+   "dynasty": "汉",
+   "state": "赵",
+   "description": "高祖中子，名友，谥幽。以忧死，故谥幽。",
+   "evidence": [
+    "p6"
+   ]
+  },
+  {
+   "id": "person:吕禄",
+   "name": "吕禄",
+   "alias": [],
+   "type": "人物",
+   "dynasty": "汉",
+   "description": "高后封之为赵王，一岁而高后崩，大臣诛诸吕。",
+   "evidence": [
+    "p6"
+   ]
+  },
+  {
+   "id": "person:高后",
+   "name": "高后",
+   "alias": [
+    "吕后"
+   ],
+   "type": "人物",
+   "dynasty": "汉",
+   "description": "汉高后吕雉。封吕禄为赵王，崩后大臣诛诸吕。",
+   "evidence": [
+    "p6"
+   ]
+  },
+  {
+   "id": "person:辟彊",
+   "name": "辟彊",
+   "alias": [
+    "河间文王"
+   ],
+   "type": "诸侯王",
+   "dynasty": "汉",
+   "state": "河间",
+   "description": "刘遂之弟。孝文帝二年立为河间王，十三年卒。",
+   "evidence": [
+    "p7"
+   ]
+  },
+  {
+   "id": "person:哀王福",
+   "name": "哀王福",
+   "alias": [
+    "福"
+   ],
+   "type": "诸侯王",
+   "dynasty": "汉",
+   "state": "河间",
+   "description": "河间文王之子。立一年卒，无子国除。",
+   "evidence": [
+    "p7"
+   ]
+  },
+  {
+   "id": "person:孝文帝",
+   "name": "孝文帝",
+   "alias": [],
+   "type": "帝王",
+   "dynasty": "汉",
+   "description": "汉文帝。即位二年立辟彊为河间王。",
+   "evidence": [
+    "p7"
+   ]
+  },
+  {
+   "id": "person:晁错",
+   "name": "晁错",
+   "alias": [],
+   "type": "政治家",
+   "dynasty": "汉",
+   "description": "汉臣。议削诸侯之郡，赵王遂坐此削常山郡。",
+   "evidence": [
+    "p8"
+   ]
+  },
+  {
+   "id": "person:建德",
+   "name": "建德",
+   "alias": [],
+   "type": "丞相",
+   "dynasty": "汉",
+   "state": "赵",
+   "description": "赵相。谏赵王遂勿反，为遂所烧杀。",
+   "evidence": [
+    "p8"
+   ]
+  },
+  {
+   "id": "person:王悍",
+   "name": "王悍",
+   "alias": [],
+   "type": "内史",
+   "dynasty": "汉",
+   "state": "赵",
+   "description": "赵内史。谏赵王遂勿反，为遂所烧杀。",
+   "evidence": [
+    "p8"
+   ]
+  },
+  {
+   "id": "person:郦寄",
+   "name": "郦寄",
+   "alias": [
+    "曲周侯"
+   ],
+   "type": "将领",
+   "dynasty": "汉",
+   "description": "曲周侯。汉使击赵王遂。",
+   "evidence": [
+    "p8"
+   ]
+  },
+  {
+   "id": "person:栾布",
+   "name": "栾布",
+   "alias": [],
+   "type": "将领",
+   "dynasty": "汉",
+   "description": "自破齐还，并兵引水灌赵城，赵王遂自杀。",
+   "evidence": [
+    "p8"
+   ]
+  },
+  {
+   "id": "person:申公",
+   "name": "申公",
+   "alias": [
+    "申培"
+   ],
+   "type": "学者",
+   "dynasty": "汉",
+   "description": "名培，鲁诗学者，为楚王戊所刑。",
+   "evidence": [
+    "p9"
+   ]
+  },
+  {
+   "id": "person:防与先生",
+   "name": "防与先生",
+   "alias": [
+    "防与公"
+   ],
+   "type": "贤人",
+   "state": "赵",
+   "description": "赵人防与公。太史公举以结赞。",
+   "evidence": [
+    "p9"
+   ]
+  },
+  {
+   "id": "person:穆生",
+   "name": "穆生",
+   "alias": [],
+   "type": "贤者",
+   "dynasty": "汉",
+   "state": "楚",
+   "description": "楚元王所礼遇之贤者，元王为穆生设醴，王戊忘设而穆生去。",
+   "evidence": [
+    "p10"
+   ]
+  },
+  {
+   "id": "person:韦孟",
+   "name": "韦孟",
+   "alias": [],
+   "type": "傅",
+   "dynasty": "汉",
+   "state": "楚",
+   "description": "楚元王傅，历事三世，作《讽谏诗》以谏王戊。",
+   "evidence": [
+    "p10"
+   ]
+  },
+  {
+   "id": "person:大臣",
+   "name": "大臣",
+   "alias": [],
+   "type": "群体",
+   "dynasty": "汉",
+   "description": "诛诸吕吕禄等之汉大臣，诛吕后立幽王子遂为赵王。",
+   "evidence": [
+    "p6"
+   ]
+  }
+ ],
+ "places": [
+  {
+   "id": "place:楚",
+   "name": "楚",
+   "alias": [],
+   "type": "国",
+   "description": "刘交始王楚，都彭城；后礼、文王、安王、襄王、纯相继。",
+   "evidence": [
+    "p0",
+    "p2",
+    "p4",
+    "p5"
+   ]
+  },
+  {
+   "id": "place:代",
+   "name": "代",
+   "alias": [],
+   "type": "国",
+   "description": "高祖王次兄仲于代。",
+   "evidence": [
+    "p1"
+   ]
+  },
+  {
+   "id": "place:陈",
+   "name": "陈",
+   "alias": [],
+   "type": "地",
+   "description": "高祖六年禽楚王韩信于陈。",
+   "evidence": [
+    "p2"
+   ]
+  },
+  {
+   "id": "place:彭城",
+   "name": "彭城",
+   "alias": [],
+   "type": "都",
+   "description": "楚都彭城。",
+   "evidence": [
+    "p2"
+   ]
+  },
+  {
+   "id": "place:彭城郡",
+   "name": "彭城郡",
+   "alias": [],
+   "type": "郡",
+   "description": "王纯国除后入汉为彭城郡。",
+   "evidence": [
+    "p5"
+   ]
+  },
+  {
+   "id": "place:东海郡",
+   "name": "东海郡",
+   "alias": [],
+   "type": "郡",
+   "description": "王戊因罪被削东海郡。",
+   "evidence": [
+    "p3"
+   ]
+  },
+  {
+   "id": "place:梁",
+   "name": "梁",
+   "alias": [],
+   "type": "国",
+   "description": "楚王戊与吴西攻梁，破棘壁；吴楚败于梁。",
+   "evidence": [
+    "p3",
+    "p8"
+   ]
+  },
+  {
+   "id": "place:棘壁",
+   "name": "棘壁",
+   "alias": [],
+   "type": "城",
+   "description": "楚吴联军所破，即大棘故城。",
+   "evidence": [
+    "p3"
+   ]
+  },
+  {
+   "id": "place:昌邑",
+   "name": "昌邑",
+   "alias": [],
+   "type": "城",
+   "description": "楚王戊至此南与周亚夫战。",
+   "evidence": [
+    "p3"
+   ]
+  },
+  {
+   "id": "place:邯郸",
+   "name": "邯郸",
+   "alias": [],
+   "type": "城",
+   "description": "赵王遂城守邯郸，相距七月，城坏而降。",
+   "evidence": [
+    "p6",
+    "p8"
+   ]
+  },
+  {
+   "id": "place:赵",
+   "name": "赵",
+   "alias": [],
+   "type": "国",
+   "description": "刘友、吕禄、刘遂相继王赵。",
+   "evidence": [
+    "p6",
+    "p8"
+   ]
+  },
+  {
+   "id": "place:河间郡",
+   "name": "河间郡",
+   "alias": [],
+   "type": "郡",
+   "description": "文帝取赵之河间郡封辟彊为河间王。",
+   "evidence": [
+    "p7"
+   ]
+  },
+  {
+   "id": "place:吴",
+   "name": "吴",
+   "alias": [],
+   "type": "国",
+   "description": "吴王濞之封国。",
+   "evidence": [
+    "p3",
+    "p4"
+   ]
+  },
+  {
+   "id": "place:常山郡",
+   "name": "常山郡",
+   "alias": [],
+   "type": "郡",
+   "description": "赵王遂坐晁错议被削常山郡。",
+   "evidence": [
+    "p8"
+   ]
+  }
+ ],
+ "events": [
+  {
+   "id": "event:高祖封交为楚王",
+   "name": "高祖封交为楚王",
+   "alias": [],
+   "type": "事件",
+   "description": "高祖六年，禽楚王韩信于陈，乃以弟交为楚王，都彭城。",
+   "evidence": [
+    "p2"
+   ]
+  },
+  {
+   "id": "event:羹颉侯之封",
+   "name": "羹颉侯之封",
+   "alias": [],
+   "type": "事迹",
+   "description": "高祖微时怨嫂，为帝后伯子独不得封，太上皇为言，乃封其子信为羹颉侯。",
+   "evidence": [
+    "p1"
+   ]
+  },
+  {
+   "id": "event:吴楚七国之乱",
+   "name": "吴楚七国之乱",
+   "alias": [
+    "吴楚反"
+   ],
+   "type": "叛乱",
+   "description": "景帝时，楚王戊与吴王合谋反，杀谏臣，西攻梁，周亚夫绝其粮道，吴王走、楚王戊自杀。",
+   "evidence": [
+    "p3",
+    "p4",
+    "p8"
+   ]
+  },
+  {
+   "id": "event:礼为楚文王",
+   "name": "礼为楚文王",
+   "alias": [],
+   "type": "事件",
+   "description": "平吴楚后，景帝以元王子礼续楚，拜为楚王，是为楚文王。",
+   "evidence": [
+    "p4"
+   ]
+  },
+  {
+   "id": "event:大臣诛诸吕",
+   "name": "大臣诛诸吕",
+   "alias": [],
+   "type": "事件",
+   "description": "高后崩后，大臣诛诸吕吕禄等，乃立幽王子遂为赵王。",
+   "evidence": [
+    "p6"
+   ]
+  },
+  {
+   "id": "event:河间文王之立",
+   "name": "河间文王之立",
+   "alias": [],
+   "type": "事件",
+   "description": "孝文帝即位二年，立遂弟辟彊，取赵之河间郡为河间王。",
+   "evidence": [
+    "p7"
+   ]
+  },
+  {
+   "id": "event:赵王遂之乱",
+   "name": "赵王遂之乱",
+   "alias": [],
+   "type": "叛乱",
+   "description": "赵王遂与吴楚合谋反，烧杀谏臣，守邯郸，栾布灌城，遂自杀，赵幽王绝后。",
+   "evidence": [
+    "p8"
+   ]
+  },
+  {
+   "id": "event:王纯国除",
+   "name": "王纯国除",
+   "alias": [],
+   "type": "事件",
+   "description": "王纯立，地节二年国人告其谋反，自杀国除，入汉为彭城郡。",
+   "evidence": [
+    "p5"
+   ]
+  },
+  {
+   "id": "event:穆生置醴韦孟作程",
+   "name": "穆生置醴、韦孟作程",
+   "alias": [],
+   "type": "事迹",
+   "description": "楚元王为穆生设醴，王戊忘设而穆生去；韦孟历事三世，作《讽谏诗》谏王戊。",
+   "evidence": [
+    "p10"
+   ]
+  }
+ ],
+ "concepts": [
+  {
+   "id": "concept:世家",
+   "name": "世家",
+   "alias": [
+    "系家"
+   ],
+   "type": "体例",
+   "description": "《史记》五体之一。本篇记楚元王刘交、赵王刘遂等同姓诸侯之世系与兴亡。",
+   "evidence": [
+    "p0"
+   ]
+  },
+  {
+   "id": "concept:七国",
+   "name": "七国",
+   "alias": [],
+   "type": "称谓",
+   "description": "吴楚等七国，景帝时同反，号称七国之乱。",
+   "evidence": [
+    "p4"
+   ]
+  },
+  {
+   "id": "concept:宗正",
+   "name": "宗正",
+   "alias": [],
+   "type": "官名",
+   "description": "汉宗正，掌宗室。刘礼时为汉宗正。",
+   "evidence": [
+    "p4"
+   ]
+  },
+  {
+   "id": "concept:削郡",
+   "name": "削郡",
+   "alias": [],
+   "type": "制度",
+   "description": "汉廷削诸侯王支郡以弱其势，王戊削东海郡、赵遂削常山郡皆是。",
+   "evidence": [
+    "p3",
+    "p8"
+   ]
+  },
+  {
+   "id": "concept:安危在出令存亡在所任",
+   "name": "安危在出令，存亡在所任",
+   "alias": [],
+   "type": "名句",
+   "description": "太史公引以结赞，谓国之安危存亡在于出令与任人。",
+   "evidence": [
+    "p9"
+   ]
+  },
+  {
+   "id": "concept:太史公曰",
+   "name": "太史公曰",
+   "alias": [],
+   "type": "体例",
+   "description": "《史记》篇末司马迁之论赞。本篇以“国之将兴，必有祯祥”云云论任贤之要。",
+   "evidence": [
+    "p9"
+   ]
+  },
+  {
+   "id": "concept:索隐述赞",
+   "name": "索隐述赞",
+   "alias": [],
+   "type": "体例",
+   "description": "司马贞《索隐》篇末韵语总评，非《史记》本文。",
+   "evidence": [
+    "p10"
+   ]
+  }
+ ],
+ "relations": [
+  {
+   "subject": "刘邦",
+   "predicate": "兄于",
+   "object": "刘伯",
+   "evidence": [
+    "p1"
+   ]
+  },
+  {
+   "subject": "刘邦",
+   "predicate": "弟于",
+   "object": "刘交",
+   "evidence": [
+    "p0"
+   ]
+  },
+  {
+   "subject": "刘邦",
+   "predicate": "封",
+   "object": "羹颉侯信",
+   "evidence": [
+    "p1"
+   ]
+  },
+  {
+   "subject": "刘邦",
+   "predicate": "王",
+   "object": "刘仲",
+   "evidence": [
+    "p1"
+   ]
+  },
+  {
+   "subject": "太上皇",
+   "predicate": "请封于",
+   "object": "刘邦",
+   "evidence": [
+    "p1"
+   ]
+  },
+  {
+   "subject": "刘邦",
+   "predicate": "禽",
+   "object": "韩信",
+   "evidence": [
+    "p2"
+   ]
+  },
+  {
+   "subject": "刘邦",
+   "predicate": "封",
+   "object": "刘交",
+   "evidence": [
+    "p2"
+   ]
+  },
+  {
+   "subject": "刘交",
+   "predicate": "父于",
+   "object": "夷王郢",
+   "evidence": [
+    "p2"
+   ]
+  },
+  {
+   "subject": "夷王郢",
+   "predicate": "父于",
+   "object": "王戊",
+   "evidence": [
+    "p2"
+   ]
+  },
+  {
+   "subject": "王戊",
+   "predicate": "杀",
+   "object": "张尚",
+   "evidence": [
+    "p3"
+   ]
+  },
+  {
+   "subject": "王戊",
+   "predicate": "杀",
+   "object": "赵夷吾",
+   "evidence": [
+    "p3"
+   ]
+  },
+  {
+   "subject": "王戊",
+   "predicate": "与合谋反",
+   "object": "吴王濞",
+   "evidence": [
+    "p3"
+   ]
+  },
+  {
+   "subject": "周亚夫",
+   "predicate": "战",
+   "object": "王戊",
+   "evidence": [
+    "p3"
+   ]
+  },
+  {
+   "subject": "孝景帝",
+   "predicate": "欲续",
+   "object": "吴王濞",
+   "evidence": [
+    "p4"
+   ]
+  },
+  {
+   "subject": "窦太后",
+   "predicate": "不许续",
+   "object": "吴王濞",
+   "evidence": [
+    "p4"
+   ]
+  },
+  {
+   "subject": "孝景帝",
+   "predicate": "拜",
+   "object": "刘礼",
+   "evidence": [
+    "p4"
+   ]
+  },
+  {
+   "subject": "刘礼",
+   "predicate": "奉",
+   "object": "刘交",
+   "evidence": [
+    "p4"
+   ]
+  },
+  {
+   "subject": "安王道",
+   "predicate": "父于",
+   "object": "襄王经",
+   "evidence": [
+    "p5"
+   ]
+  },
+  {
+   "subject": "襄王经",
+   "predicate": "父于",
+   "object": "王纯",
+   "evidence": [
+    "p5"
+   ]
+  },
+  {
+   "subject": "刘友",
+   "predicate": "父于",
+   "object": "刘遂",
+   "evidence": [
+    "p6"
+   ]
+  },
+  {
+   "subject": "高后",
+   "predicate": "王",
+   "object": "吕禄",
+   "evidence": [
+    "p6"
+   ]
+  },
+  {
+   "subject": "大臣",
+   "predicate": "诛",
+   "object": "吕禄",
+   "evidence": [
+    "p6"
+   ]
+  },
+  {
+   "subject": "孝文帝",
+   "predicate": "立",
+   "object": "辟彊",
+   "evidence": [
+    "p7"
+   ]
+  },
+  {
+   "subject": "辟彊",
+   "predicate": "父于",
+   "object": "哀王福",
+   "evidence": [
+    "p7"
+   ]
+  },
+  {
+   "subject": "刘遂",
+   "predicate": "杀",
+   "object": "建德",
+   "evidence": [
+    "p8"
+   ]
+  },
+  {
+   "subject": "刘遂",
+   "predicate": "杀",
+   "object": "王悍",
+   "evidence": [
+    "p8"
+   ]
+  },
+  {
+   "subject": "郦寄",
+   "predicate": "击",
+   "object": "刘遂",
+   "evidence": [
+    "p8"
+   ]
+  },
+  {
+   "subject": "栾布",
+   "predicate": "灌城于",
+   "object": "邯郸",
+   "evidence": [
+    "p8"
+   ]
+  },
+  {
+   "subject": "刘遂",
+   "predicate": "与合谋反",
+   "object": "吴王濞",
+   "evidence": [
+    "p8"
+   ]
+  },
+  {
+   "subject": "晁错",
+   "predicate": "削",
+   "object": "常山郡",
+   "evidence": [
+    "p8"
+   ]
+  },
+  {
+   "subject": "王戊",
+   "predicate": "刑",
+   "object": "申公",
+   "evidence": [
+    "p9"
+   ]
+  },
+  {
+   "subject": "防与先生",
+   "predicate": "贤于",
+   "object": "赵",
+   "evidence": [
+    "p9"
+   ]
+  },
+  {
+   "subject": "刘友",
+   "predicate": "子于",
+   "object": "刘遂",
+   "evidence": [
+    "p6"
+   ]
+  },
+  {
+   "subject": "刘邦",
+   "predicate": "孙于",
+   "object": "太上皇",
+   "evidence": [
+    "p1"
+   ]
+  }
+ ],
+ "note": "定稿：据《楚元王世家-本体校验.md》补入薄太后、高后、晁错、穆生、韦孟等 6 人及棘壁、昌邑、彭城郡 3 地，补事件 3 条、概念 1 条；统一关系称谓（“太后”→“窦太后”“王戊 与吴王濞 合谋反”），补齐高后王吕禄、大臣诛诸吕、晁错削赵等关系链。全部实体与关系带 evidence 段落 id。"
+}
