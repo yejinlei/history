@@ -11,7 +11,7 @@
     {"mention": "刘濞", "sent_ids": [], "entity_id": "pingzhun-p4"},
     {"mention": "邓通", "sent_ids": [4], "entity_id": "pingzhun-p5"},
     {"mention": "今上", "sent_ids": [7], "entity_id": "pingzhun-p6"},
-    {"mention": "天子", "sent_ids": [9,10,13,14,15,16,18,21,24,25,31,42-50], "entity_id": "pingzhun-p6"},
+    {"mention": "天子", "sent_ids": [9,10,13,14,15,16,18,21,24,25,31,42, 43, 44, 45, 46, 47, 48, 49, 50], "entity_id": "pingzhun-p6"},
     {"mention": "汉武帝", "sent_ids": [], "entity_id": "pingzhun-p6"},
     {"mention": "卫青", "sent_ids": [9,10,21], "entity_id": "pingzhun-p7"},
     {"mention": "大将军", "sent_ids": [10,21], "entity_id": "pingzhun-p7"},
