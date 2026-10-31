@@ -1,0 +1,1405 @@
+{
+  "book": "shiji",
+  "chapter_id": "shiji-陳丞相世家第二十六",
+  "title": "陳丞相世家第二十六",
+  "juan": "卷五十六",
+  "persons": [
+    {
+      "id": "person:陈平",
+      "name": "陈平",
+      "alias": [
+        "陳丞相",
+        "戶牖侯",
+        "曲逆侯",
+        "獻侯"
+      ],
+      "type": "丞相",
+      "dynasty": "汉",
+      "description": "阳武户牖乡人。少好读书，本好黄帝老子之术；先事魏王咎、项羽，后降汉拜都尉、典护军，屡出奇计，六益封，封户牖侯、曲逆侯；孝惠时与王陵同相，孝文时让勃为右丞相而专为一丞相，谥献侯。",
+      "evidence": [
+        "p0",
+        "p2",
+        "p4",
+        "p5",
+        "p6",
+        "p10",
+        "p11",
+        "p12",
+        "p13",
+        "p22",
+        "p23",
+        "p24",
+        "p25"
+      ]
+    },
+    {
+      "id": "person:陈伯",
+      "name": "陈伯",
+      "alias": [
+        "兄伯"
+      ],
+      "type": "平民",
+      "dynasty": "汉",
+      "description": "陈平之兄，常耕田，纵平使游学；因妻嫉平而逐其妇。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "person:陈平嫂",
+      "name": "陈平之嫂",
+      "alias": [
+        "嫂"
+      ],
+      "type": "平民",
+      "dynasty": "汉",
+      "description": "嫉陈平不视家生产，讥其「食糠覈」；《集解》谓此嫂疑兄伯后娶。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "person:张负",
+      "name": "张负",
+      "alias": [],
+      "type": "富人",
+      "dynasty": "汉",
+      "description": "户牖富人，识陈平于丧所，卒以孙女嫁之；《索隐》谓负为妇人老宿之称，或恐是丈夫。",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "id": "person:张仲",
+      "name": "张仲",
+      "alias": [],
+      "type": "平民",
+      "dynasty": "汉",
+      "description": "张负之子，疑陈平贫不事事而反对嫁女。",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "id": "person:陈涉",
+      "name": "陈涉",
+      "alias": [],
+      "type": "诸侯王",
+      "dynasty": "秦末",
+      "description": "起兵而王陈，使周市略定魏地、立魏咎为魏王。",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "id": "person:周市",
+      "name": "周市",
+      "alias": [],
+      "type": "将领",
+      "dynasty": "秦末",
+      "description": "陈涉所使略定魏地者。",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "id": "person:魏王咎",
+      "name": "魏王咎",
+      "alias": [
+        "魏咎"
+      ],
+      "type": "诸侯王",
+      "dynasty": "魏",
+      "description": "为魏王，与秦军相攻于临济；陈平往事之，以为太仆，说而不听，遂亡去。",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "id": "person:项羽",
+      "name": "项羽",
+      "alias": [
+        "項王",
+        "項籍"
+      ],
+      "type": "诸侯王",
+      "dynasty": "楚",
+      "description": "陈平往归之，从入破秦；以平为信武君，击降殷王，拜都尉。后陈平封金还印而亡去。",
+      "evidence": [
+        "p4",
+        "p5",
+        "p8"
+      ]
+    },
+    {
+      "id": "person:殷王",
+      "name": "殷王",
+      "alias": [],
+      "type": "诸侯王",
+      "dynasty": "汉",
+      "description": "反楚，陈平以信武君将魏王咎客在楚者击降之；后为汉王攻下。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "person:项悍",
+      "name": "项悍",
+      "alias": [],
+      "type": "将领",
+      "dynasty": "楚",
+      "description": "项王使之拜陈平为都尉。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "person:刘邦",
+      "name": "刘邦",
+      "alias": [
+        "漢王",
+        "高帝",
+        "高祖"
+      ],
+      "type": "帝王",
+      "dynasty": "汉",
+      "description": "汉王召见陈平而说之，拜为都尉、典护军；后拜护军中尉，尽护诸将；用其奇计灭楚、擒韩信、解平城之围。",
+      "evidence": [
+        "p5",
+        "p6",
+        "p9",
+        "p10",
+        "p11",
+        "p12",
+        "p14"
+      ]
+    },
+    {
+      "id": "person:魏无知",
+      "name": "魏无知",
+      "alias": [
+        "魏倩"
+      ],
+      "type": "官员",
+      "dynasty": "汉",
+      "description": "陈平因其求见汉王；为陈平辩「臣所言者能也，陛下所问者行也」；陈平受封辞功而请赏之。",
+      "evidence": [
+        "p5",
+        "p6",
+        "p11"
+      ]
+    },
+    {
+      "id": "person:石奋",
+      "name": "石奋",
+      "alias": [
+        "萬石君奮"
+      ],
+      "type": "官员",
+      "dynasty": "汉",
+      "description": "时为汉王中涓，受陈平之谒；《集解》徐广「亦曰涓人」。",
+      "evidence": [
+        "p5"
+      ]
+    },
+    {
+      "id": "person:周勃",
+      "name": "周勃",
+      "alias": [
+        "絳侯"
+      ],
+      "type": "丞相",
+      "dynasty": "汉",
+      "description": "与灌婴同谗陈平；受诏代樊哙将；孝文时为右丞相，后自知不如陈平而谢病免相。",
+      "evidence": [
+        "p6",
+        "p14",
+        "p23",
+        "p24"
+      ]
+    },
+    {
+      "id": "person:灌婴",
+      "name": "灌婴",
+      "alias": [],
+      "type": "官员",
+      "dynasty": "汉",
+      "description": "与绛侯同谗陈平者；后与陈平同受诏屯荥阳。",
+      "evidence": [
+        "p6",
+        "p15"
+      ]
+    },
+    {
+      "id": "person:范增",
+      "name": "范增",
+      "alias": [
+        "亞父"
+      ],
+      "type": "谋臣",
+      "dynasty": "楚",
+      "description": "项王骨鲠之臣，为陈平反间所疑，疽发背而死。",
+      "evidence": [
+        "p7",
+        "p8"
+      ]
+    },
+    {
+      "id": "person:钟离眛",
+      "name": "钟离眛",
+      "alias": [],
+      "type": "将领",
+      "dynasty": "楚",
+      "description": "项王骨鲠之臣，为陈平反间所间。",
+      "evidence": [
+        "p7",
+        "p8"
+      ]
+    },
+    {
+      "id": "person:龙且",
+      "name": "龙且",
+      "alias": [],
+      "type": "将领",
+      "dynasty": "楚",
+      "description": "项王骨鲠之臣。",
+      "evidence": [
+        "p7"
+      ]
+    },
+    {
+      "id": "person:周殷",
+      "name": "周殷",
+      "alias": [],
+      "type": "将领",
+      "dynasty": "楚",
+      "description": "项王骨鲠之臣。",
+      "evidence": [
+        "p7"
+      ]
+    },
+    {
+      "id": "person:韩信",
+      "name": "韩信",
+      "alias": [
+        "淮陰侯",
+        "楚王"
+      ],
+      "type": "诸侯王",
+      "dynasty": "汉",
+      "description": "破齐自立为齐王，陈平蹑汉王足而劝立之；后被告反，为陈平伪游云梦之计所擒。",
+      "evidence": [
+        "p9",
+        "p10"
+      ]
+    },
+    {
+      "id": "person:张良",
+      "name": "张良",
+      "alias": [
+        "張子房"
+      ],
+      "type": "谋臣",
+      "dynasty": "汉",
+      "description": "汉王使张良卒立韩信为齐王。",
+      "evidence": [
+        "p9"
+      ]
+    },
+    {
+      "id": "person:臧荼",
+      "name": "臧荼",
+      "alias": [
+        "燕王臧荼"
+      ],
+      "type": "诸侯王",
+      "dynasty": "汉",
+      "description": "陈平常以护军中尉从定之。",
+      "evidence": [
+        "p9"
+      ]
+    },
+    {
+      "id": "person:韩王信",
+      "name": "韩王信",
+      "alias": [
+        "韓王信"
+      ],
+      "type": "诸侯王",
+      "dynasty": "汉",
+      "description": "陈平为亚将时所属；后代反，陈平从攻之，卒至平城被围。",
+      "evidence": [
+        "p5",
+        "p11"
+      ]
+    },
+    {
+      "id": "person:陈豨",
+      "name": "陈豨",
+      "alias": [],
+      "type": "将领",
+      "dynasty": "汉",
+      "description": "陈平常以护军中尉从攻之。",
+      "evidence": [
+        "p13"
+      ]
+    },
+    {
+      "id": "person:黥布",
+      "name": "黥布",
+      "alias": [],
+      "type": "诸侯王",
+      "dynasty": "汉",
+      "description": "陈平常以护军中尉从攻之。",
+      "evidence": [
+        "p13"
+      ]
+    },
+    {
+      "id": "person:卢绾",
+      "name": "卢绾",
+      "alias": [
+        "燕王盧綰"
+      ],
+      "type": "诸侯王",
+      "dynasty": "汉",
+      "description": "反汉，高帝使樊哙以相国将兵攻之。",
+      "evidence": [
+        "p14"
+      ]
+    },
+    {
+      "id": "person:樊哙",
+      "name": "樊哙",
+      "alias": [],
+      "type": "将领",
+      "dynasty": "汉",
+      "description": "以相国将兵攻卢绾；高帝怒而令陈平斩其头，陈平不即斩，囚送长安，吕后赦而复位。",
+      "evidence": [
+        "p14",
+        "p15"
+      ]
+    },
+    {
+      "id": "person:吕𡡓",
+      "name": "吕𡡓",
+      "alias": [],
+      "type": "列侯",
+      "dynasty": "汉",
+      "description": "吕后之弟、樊哙之妻；因陈平谋执樊哙而数谗之。",
+      "evidence": [
+        "p14",
+        "p15",
+        "p21"
+      ]
+    },
+    {
+      "id": "person:吕太后",
+      "name": "吕太后",
+      "alias": [
+        "呂后",
+        "高后"
+      ],
+      "type": "皇后",
+      "dynasty": "汉",
+      "description": "高帝崩后以陈平为郎中令、傅教孝惠；立诸吕为王，陈平伪听之。",
+      "evidence": [
+        "p15",
+        "p18",
+        "p19",
+        "p21",
+        "p22"
+      ]
+    },
+    {
+      "id": "person:孝惠帝",
+      "name": "孝惠帝",
+      "alias": [
+        "孝惠"
+      ],
+      "type": "帝王",
+      "dynasty": "汉",
+      "description": "陈平所傅教；孝惠六年曹参卒后为相之世。",
+      "evidence": [
+        "p15",
+        "p16",
+        "p18"
+      ]
+    },
+    {
+      "id": "person:曹参",
+      "name": "曹参",
+      "alias": [],
+      "type": "丞相",
+      "dynasty": "汉",
+      "description": "孝惠六年卒，其卒后以王陵为右丞相、陈平为左丞相。",
+      "evidence": [
+        "p16"
+      ]
+    },
+    {
+      "id": "person:王陵",
+      "name": "王陵",
+      "alias": [
+        "安國侯"
+      ],
+      "type": "丞相",
+      "dynasty": "汉",
+      "description": "故沛人，始为县豪，高祖微时兄事之；后以兵属汉，晚封安国侯。孝惠时为右丞相，因谏立诸吕而被迁为太傅，谢疾免。",
+      "evidence": [
+        "p16",
+        "p17",
+        "p18"
+      ]
+    },
+    {
+      "id": "person:王陵母",
+      "name": "王陵之母",
+      "alias": [
+        "陵母"
+      ],
+      "type": "平民",
+      "dynasty": "汉",
+      "description": "为项羽所取置军中，私送使者嘱王陵谨事汉王，遂伏剑而死，项王怒而烹之。",
+      "evidence": [
+        "p17"
+      ]
+    },
+    {
+      "id": "person:审食其",
+      "name": "审食其",
+      "alias": [
+        "辟陽侯"
+      ],
+      "type": "丞相",
+      "dynasty": "汉",
+      "description": "亦沛人，以舍人侍吕后，幸于吕太后；吕后徙陈平为右丞相而以食其为左丞相，居宫中决事，后免相。",
+      "evidence": [
+        "p19",
+        "p20",
+        "p22"
+      ]
+    },
+    {
+      "id": "person:孝文帝",
+      "name": "孝文帝",
+      "alias": [
+        "孝文皇帝"
+      ],
+      "type": "帝王",
+      "dynasty": "汉",
+      "description": "诛诸吕后所立；朝问右丞相周勃狱事钱谷，周勃不能对而陈平答「各有主者」，帝称善。",
+      "evidence": [
+        "p22",
+        "p23",
+        "p24"
+      ]
+    },
+    {
+      "id": "person:陈买",
+      "name": "陈买",
+      "alias": [
+        "共侯買"
+      ],
+      "type": "列侯",
+      "dynasty": "汉",
+      "description": "陈平之子，代侯，谥共侯。",
+      "evidence": [
+        "p25"
+      ]
+    },
+    {
+      "id": "person:陈恢",
+      "name": "陈恢",
+      "alias": [
+        "簡侯恢"
+      ],
+      "type": "列侯",
+      "dynasty": "汉",
+      "description": "陈买之子，代侯，谥简侯。",
+      "evidence": [
+        "p25"
+      ]
+    },
+    {
+      "id": "person:陈何",
+      "name": "陈何",
+      "alias": [],
+      "type": "列侯",
+      "dynasty": "汉",
+      "description": "陈恢之子，代侯；坐略人妻，弃市，国除。",
+      "evidence": [
+        "p25"
+      ]
+    },
+    {
+      "id": "person:陈掌",
+      "name": "陈掌",
+      "alias": [],
+      "type": "外戚",
+      "dynasty": "汉",
+      "description": "陈平曾孙，以卫氏亲贵戚，愿得续封陈氏而终不得；《集解》徐广谓陈掌为卫青之子婿。",
+      "evidence": [
+        "p26"
+      ]
+    },
+    {
+      "id": "person:尾生",
+      "name": "尾生",
+      "alias": [],
+      "type": "典故人物",
+      "dynasty": "春秋",
+      "description": "魏无知所举有行而无益于胜负之数者。",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "id": "person:孝己",
+      "name": "孝己",
+      "alias": [],
+      "type": "典故人物",
+      "dynasty": "商",
+      "description": "高宗之子，有孝行；魏无知与尾生并举。",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "id": "person:廷尉",
+      "name": "廷尉",
+      "alias": [],
+      "type": "官职",
+      "dynasty": "汉",
+      "description": "陈平答文帝「问决狱，责廷尉」。",
+      "evidence": [
+        "p24"
+      ]
+    },
+    {
+      "id": "person:治粟内史",
+      "name": "治粟内史",
+      "alias": [],
+      "type": "官职",
+      "dynasty": "汉",
+      "description": "陈平答文帝「问钱谷，责治粟内史」。",
+      "evidence": [
+        "p24"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "id": "place:阳武",
+      "name": "阳武",
+      "alias": [
+        "陽武"
+      ],
+      "type": "县",
+      "description": "陈平籍贯，《集解》徐广谓属魏地，《索隐》按《地理志》属河南郡。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "place:户牖乡",
+      "name": "户牖乡",
+      "alias": [
+        "戶牖鄉",
+        "戶牖"
+      ],
+      "type": "乡",
+      "description": "陈平所居，《集解》徐广谓今为东昏县，属陈留；陈平初封户牖侯。",
+      "evidence": [
+        "p0",
+        "p11"
+      ]
+    },
+    {
+      "id": "place:东昏",
+      "name": "东昏",
+      "alias": [
+        "東昏"
+      ],
+      "type": "县",
+      "description": "即故户牖乡，《正义》引《陈留风俗传》《括地志》。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "place:临济",
+      "name": "临济",
+      "alias": [
+        "臨濟"
+      ],
+      "type": "城邑",
+      "description": "魏咎与秦军相攻处，陈平往事魏王处。",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "id": "place:河上",
+      "name": "河上",
+      "alias": [],
+      "type": "地区",
+      "description": "项羽略地至河上，陈平往归之。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "place:彭城",
+      "name": "彭城",
+      "alias": [],
+      "type": "城邑",
+      "description": "项羽东王处；汉王东伐战败处；亚父归未至而死处。",
+      "evidence": [
+        "p5",
+        "p8",
+        "p9"
+      ]
+    },
+    {
+      "id": "place:三秦",
+      "name": "三秦",
+      "alias": [],
+      "type": "地区",
+      "description": "汉王还定三秦而东。",
+      "evidence": [
+        "p5"
+      ]
+    },
+    {
+      "id": "place:修武",
+      "name": "修武",
+      "alias": [
+        "脩武"
+      ],
+      "type": "县",
+      "description": "陈平降汉处，《集解》徐广谓汉二年。",
+      "evidence": [
+        "p5"
+      ]
+    },
+    {
+      "id": "place:广武",
+      "name": "广武",
+      "alias": [
+        "廣武"
+      ],
+      "type": "城邑",
+      "description": "陈平为亚将、属韩王信所军处。",
+      "evidence": [
+        "p5"
+      ]
+    },
+    {
+      "id": "place:荥阳",
+      "name": "荥阳",
+      "alias": [
+        "滎陽"
+      ],
+      "type": "城邑",
+      "description": "楚绝汉甬道、围汉王处；陈平行反间、夜出女子处。",
+      "evidence": [
+        "p5",
+        "p7",
+        "p8",
+        "p15"
+      ]
+    },
+    {
+      "id": "place:云梦",
+      "name": "云梦",
+      "alias": [
+        "雲夢"
+      ],
+      "type": "地区",
+      "description": "陈平献策伪游之处。",
+      "evidence": [
+        "p10"
+      ]
+    },
+    {
+      "id": "place:陈",
+      "name": "陈",
+      "alias": [
+        "陳"
+      ],
+      "type": "城邑",
+      "description": "会诸侯之处，《正义》「今陈州也」，为楚之西界。",
+      "evidence": [
+        "p10"
+      ]
+    },
+    {
+      "id": "place:平城",
+      "name": "平城",
+      "alias": [],
+      "type": "县",
+      "description": "高帝被匈奴所围、用陈平奇计得开处。",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "id": "place:曲逆",
+      "name": "曲逆",
+      "alias": [],
+      "type": "县",
+      "description": "陈平改封之邑，《集解》属中山，《索隐》章帝改名蒲阴。",
+      "evidence": [
+        "p12"
+      ]
+    },
+    {
+      "id": "place:洛阳",
+      "name": "洛阳",
+      "alias": [
+        "洛陽"
+      ],
+      "type": "都城",
+      "description": "高帝过曲逆时言「独见洛阳与是」。",
+      "evidence": [
+        "p12"
+      ]
+    },
+    {
+      "id": "place:长安",
+      "name": "长安",
+      "alias": [
+        "長安"
+      ],
+      "type": "都城",
+      "description": "高帝还至处；陈平受诏囚樊哙传送处；陈平与文帝对答处。",
+      "evidence": [
+        "p14",
+        "p24"
+      ]
+    },
+    {
+      "id": "place:雒阳",
+      "name": "雒阳",
+      "alias": [
+        "雒陽"
+      ],
+      "type": "都城",
+      "description": "还至雒阳，赦韩信为淮阴侯而与功臣剖符定封。",
+      "evidence": [
+        "p10"
+      ]
+    },
+    {
+      "id": "place:南阳",
+      "name": "南阳",
+      "alias": [
+        "南陽"
+      ],
+      "type": "地区",
+      "description": "王陵聚党数千人所居。",
+      "evidence": [
+        "p17"
+      ]
+    },
+    {
+      "id": "place:沛",
+      "name": "沛",
+      "alias": [],
+      "type": "县",
+      "description": "王陵故里；审食其亦沛人。",
+      "evidence": [
+        "p17",
+        "p20"
+      ]
+    },
+    {
+      "id": "place:代",
+      "name": "代",
+      "alias": [],
+      "type": "郡",
+      "description": "陈平从攻反者韩王信于代。",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "id": "place:燕",
+      "name": "燕",
+      "alias": [],
+      "type": "郡",
+      "description": "陈平从定燕王臧荼；后卢绾反于燕、周勃定燕反县。",
+      "evidence": [
+        "p9",
+        "p14"
+      ]
+    },
+    {
+      "id": "place:咸阳",
+      "name": "咸阳",
+      "alias": [
+        "咸陽"
+      ],
+      "type": "都城",
+      "description": "王陵自聚党居南阳前后之时，高祖入至咸阳。",
+      "evidence": [
+        "p17"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "event:里中分肉为宰",
+      "name": "里中社分肉为宰",
+      "alias": [],
+      "type": "事件",
+      "description": "陈平为里中社宰，分肉甚均，父老称善，平曰「使平得宰天下，亦如是肉矣」。",
+      "evidence": [
+        "p2"
+      ]
+    },
+    {
+      "id": "event:事魏亡去",
+      "name": "事魏王咎而亡去",
+      "alias": [],
+      "type": "事件",
+      "description": "陈平往事魏王咎于临济，魏王以为太仆，说而不听，人以谗之，遂亡去。",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "id": "event:归楚与封金亡去",
+      "name": "归项羽、击降殷王而封金还印亡去",
+      "alias": [],
+      "type": "事件",
+      "description": "陈平往归项羽，从入破秦，赐爵卿；以信武君击降殷王，拜都尉赐金；惧诛而封金与印归项王，间行杖剑亡，渡河裸身刺船得免。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "event:降汉典护军",
+      "name": "降汉拜都尉典护军",
+      "alias": [],
+      "type": "事件",
+      "description": "陈平至脩武降汉，因魏无知求见汉王，是日拜为都尉、使为参乘、典护军；诸将尽讙而汉王益幸之。",
+      "evidence": [
+        "p5"
+      ]
+    },
+    {
+      "id": "event:魏无知之对",
+      "name": "绛灌谗陈平与魏无知之对",
+      "alias": [],
+      "type": "事件",
+      "description": "绛侯、灌婴谗陈平盗嫂受金反复乱臣，汉王让魏无知；无知以「所言者能也，所问者行也」对，陈平自陈裸身来归、金具在请输官，汉王乃谢，拜为护军中尉。",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "id": "event:荥阳反间",
+      "name": "荥阳行反间",
+      "alias": [],
+      "type": "事件",
+      "description": "陈平请捐数万斤金行反间，汉王出黄金四万斤与平、不问出入；宣言钟离眛等欲与汉为一，项王果疑之，亚父怒请骸骨归，疽发背而死。",
+      "evidence": [
+        "p7",
+        "p8"
+      ]
+    },
+    {
+      "id": "event:夜出女子",
+      "name": "夜出女子二千人",
+      "alias": [],
+      "type": "事件",
+      "description": "陈平夜出女子二千人于荥阳城东门，楚因击之，陈平与汉王从城西门夜出，遂入关收散兵复东。",
+      "evidence": [
+        "p8"
+      ]
+    },
+    {
+      "id": "event:蹑足立信",
+      "name": "蹑汉王足而立韩信为齐王",
+      "alias": [],
+      "type": "事件",
+      "description": "韩信破齐自立为齐王，汉王大怒而骂，陈平蹑汉王；汉王悟，厚遇齐使，使张良卒立信为齐王，封平以户牖乡。",
+      "evidence": [
+        "p9"
+      ]
+    },
+    {
+      "id": "event:伪游云梦",
+      "name": "伪游云梦擒韩信",
+      "alias": [],
+      "type": "事件",
+      "description": "人告楚王韩信反，陈平献策伪游云梦、会诸侯于陈，信必郊迎，因擒之；帝以为然，信果郊迎被缚，载后车，赦为淮阴侯。",
+      "evidence": [
+        "p10"
+      ]
+    },
+    {
+      "id": "event:剖符户牖侯",
+      "name": "剖符封户牖侯",
+      "alias": [],
+      "type": "事件",
+      "description": "与陈平剖符，世世勿绝，为户牖侯；陈平辞功而归美魏无知，上乃复赏魏无知。",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "id": "event:平城解围",
+      "name": "平城解围",
+      "alias": [],
+      "type": "事件",
+      "description": "从攻韩王信于代，卒至平城为匈奴所围七日不得食；高帝用陈平奇计，使单于阏氏，围以得开，其计隐秘世莫得闻。",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "id": "event:改封曲逆",
+      "name": "改封曲逆侯",
+      "alias": [],
+      "type": "事件",
+      "description": "高帝南过曲逆，望见屋室甚大，诏御史更以陈平为曲逆侯，尽食之，除前所食户牖。",
+      "evidence": [
+        "p12"
+      ]
+    },
+    {
+      "id": "event:六出奇计",
+      "name": "六出奇计六益封",
+      "alias": [],
+      "type": "事件",
+      "description": "常以护军中尉从攻陈豨及黥布，凡六出奇计，辄益邑，凡六益封。",
+      "evidence": [
+        "p13"
+      ]
+    },
+    {
+      "id": "event:受诏执樊哙",
+      "name": "受诏执樊哙而不即斩",
+      "alias": [],
+      "type": "事件",
+      "description": "高帝用陈平谋召周勃受诏，令陈平驰传载勃代哙将、至军斩哙头；二人行计，宁囚而致上，遂为坛以节召哙，反接载槛车传送长安，而令勃代将定燕反县。",
+      "evidence": [
+        "p14"
+      ]
+    },
+    {
+      "id": "event:宿卫宫中",
+      "name": "高帝崩后宿卫宫中",
+      "alias": [],
+      "type": "事件",
+      "description": "陈平闻高帝崩，恐吕太后及吕𡡓谗怒，驰传先去，逢诏与灌婴屯荥阳，立复驰至宫哭甚哀、奏事丧前；固请宿卫中，太后以为郎中令，傅教孝惠，吕𡡓之谗乃不得行。",
+      "evidence": [
+        "p15"
+      ]
+    },
+    {
+      "id": "event:王陵母伏剑",
+      "name": "王陵母伏剑",
+      "alias": [],
+      "type": "事件",
+      "description": "项羽取陵母置军中，欲以招陵；陵母私送使者，嘱陵谨事汉王、勿持二心，遂伏剑而死，项王怒而烹之。",
+      "evidence": [
+        "p17"
+      ]
+    },
+    {
+      "id": "event:诛诸吕让勃",
+      "name": "诛诸吕、立孝文与让勃",
+      "alias": [],
+      "type": "事件",
+      "description": "吕太后立诸吕为王，陈平伪听之；吕太后崩，平与太尉勃合谋诛诸吕、立孝文皇帝，陈平本谋也；陈平又以病谢，愿以右丞相让勃。",
+      "evidence": [
+        "p22",
+        "p23"
+      ]
+    },
+    {
+      "id": "event:主臣对答",
+      "name": "主臣对答",
+      "alias": [],
+      "type": "事件",
+      "description": "孝文帝问右丞相勃决狱钱谷，勃不能对；问陈平，平答「各有主者」，并陈宰相「上佐天子理阴阳顺四时……」之职，文帝称善，绛侯自知不如而谢病免相，陈平专为一丞相。",
+      "evidence": [
+        "p24"
+      ]
+    },
+    {
+      "id": "event:卒谥献侯",
+      "name": "卒谥献侯与世系",
+      "alias": [],
+      "type": "事件",
+      "description": "孝文帝二年陈平卒，谥献侯；子买、恢、何相继代侯，陈何坐略人妻弃市国除；曾孙陈掌愿续封而不得。",
+      "evidence": [
+        "p25",
+        "p26"
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept:黄老之术",
+      "name": "黄帝老子之术",
+      "alias": [
+        "黃老之術"
+      ],
+      "type": "概念",
+      "description": "陈平少时本好黄帝、老子之术；篇末自道「我多阴谋，是道家之所禁」，为太史公论断之根。",
+      "evidence": [
+        "p0",
+        "p27"
+      ]
+    },
+    {
+      "id": "concept:宰天下",
+      "name": "宰肉平均与宰天下",
+      "alias": [],
+      "type": "概念",
+      "description": "陈平分肉甚均而言「使平得宰天下，亦如是肉矣」，全篇之伏笔。",
+      "evidence": [
+        "p2"
+      ]
+    },
+    {
+      "id": "concept:冠玉",
+      "name": "冠玉",
+      "alias": [],
+      "type": "概念",
+      "description": "绛侯、灌婴讥陈平「如冠玉耳，其中未必有也」；《集解》引《汉书音义》「饰冠以玉，光好外见，中非所有」。",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "id": "concept:反间",
+      "name": "反间",
+      "alias": [
+        "反閒"
+      ],
+      "type": "概念",
+      "description": "陈平请出数万斤金行反间，离间项王君臣；汉王出黄金四万斤与平，恣所为不问出入。",
+      "evidence": [
+        "p7",
+        "p8"
+      ]
+    },
+    {
+      "id": "concept:伪游云梦",
+      "name": "伪游云梦",
+      "alias": [
+        "偽游雲夢"
+      ],
+      "type": "概念",
+      "description": "陈平献策伪游云梦、会诸侯于陈以擒韩信，为后世著名之计。",
+      "evidence": [
+        "p10"
+      ]
+    },
+    {
+      "id": "concept:剖符",
+      "name": "剖符",
+      "alias": [],
+      "type": "概念",
+      "description": "还与功臣剖符定封；陈平剖符世世勿绝为户牖侯，与《萧相国世家》同制。",
+      "evidence": [
+        "p10",
+        "p11"
+      ]
+    },
+    {
+      "id": "concept:护军中尉",
+      "name": "护军中尉",
+      "alias": [
+        "典護軍"
+      ],
+      "type": "概念",
+      "description": "汉王拜陈平为都尉、典护军，后拜护军中尉、尽护诸将，为汉初护军之制一例。",
+      "evidence": [
+        "p5",
+        "p6"
+      ]
+    },
+    {
+      "id": "concept:主臣",
+      "name": "主臣",
+      "alias": [],
+      "type": "概念",
+      "description": "陈平对文帝谢罪语；《集解》张晏「若今人谢曰『惶恐』也」，孟康「主臣，主群臣也」，韦昭「言主臣道，不敢欺也」。",
+      "evidence": [
+        "p24"
+      ]
+    },
+    {
+      "id": "concept:六出奇计",
+      "name": "六出奇计",
+      "alias": [
+        "六出奇計"
+      ],
+      "type": "概念",
+      "description": "陈平凡六出奇计、六益封，奇计或颇秘，世莫能闻；与《索隐述赞》相合。",
+      "evidence": [
+        "p13"
+      ]
+    },
+    {
+      "id": "concept:道家之禁",
+      "name": "道家之禁与阴祸",
+      "alias": [],
+      "type": "概念",
+      "description": "陈平自言「我多阴谋，是道家之所禁……以吾多阴祸也」。",
+      "evidence": [
+        "p26"
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "subject": "陈平",
+      "predicate": "娶",
+      "object": "张负",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "subject": "张负",
+      "predicate": "孙女子",
+      "object": "陈平",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "subject": "陈平",
+      "predicate": "事",
+      "object": "魏王咎",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "subject": "陈平",
+      "predicate": "事",
+      "object": "项羽",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "subject": "陈平",
+      "predicate": "击降",
+      "object": "殷王",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "subject": "陈平",
+      "predicate": "降",
+      "object": "刘邦",
+      "evidence": [
+        "p5"
+      ]
+    },
+    {
+      "subject": "魏无知",
+      "predicate": "荐",
+      "object": "陈平",
+      "evidence": [
+        "p5"
+      ]
+    },
+    {
+      "subject": "刘邦",
+      "predicate": "拜",
+      "object": "陈平",
+      "evidence": [
+        "p5"
+      ]
+    },
+    {
+      "subject": "周勃",
+      "predicate": "谗",
+      "object": "陈平",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "subject": "灌婴",
+      "predicate": "谗",
+      "object": "陈平",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "subject": "陈平",
+      "predicate": "离间",
+      "object": "范增",
+      "evidence": [
+        "p8"
+      ]
+    },
+    {
+      "subject": "陈平",
+      "predicate": "谏立",
+      "object": "韩信",
+      "evidence": [
+        "p9"
+      ]
+    },
+    {
+      "subject": "刘邦",
+      "predicate": "遣",
+      "object": "张良",
+      "evidence": [
+        "p9"
+      ]
+    },
+    {
+      "subject": "陈平",
+      "predicate": "献计擒",
+      "object": "韩信",
+      "evidence": [
+        "p10"
+      ]
+    },
+    {
+      "subject": "陈平",
+      "predicate": "请赏",
+      "object": "魏无知",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "subject": "周勃",
+      "predicate": "代将",
+      "object": "樊哙",
+      "evidence": [
+        "p14"
+      ]
+    },
+    {
+      "subject": "陈平",
+      "predicate": "受诏囚",
+      "object": "樊哙",
+      "evidence": [
+        "p14"
+      ]
+    },
+    {
+      "subject": "吕𡡓",
+      "predicate": "谗",
+      "object": "陈平",
+      "evidence": [
+        "p21"
+      ]
+    },
+    {
+      "subject": "王陵之母",
+      "predicate": "子",
+      "object": "王陵",
+      "evidence": [
+        "p17"
+      ]
+    },
+    {
+      "subject": "吕太后",
+      "predicate": "迁",
+      "object": "王陵",
+      "evidence": [
+        "p18"
+      ]
+    },
+    {
+      "subject": "吕太后",
+      "predicate": "拜",
+      "object": "陈平",
+      "evidence": [
+        "p15"
+      ]
+    },
+    {
+      "subject": "陈平",
+      "predicate": "合谋",
+      "object": "周勃",
+      "evidence": [
+        "p22"
+      ]
+    },
+    {
+      "subject": "陈平",
+      "predicate": "让",
+      "object": "周勃",
+      "evidence": [
+        "p23"
+      ]
+    },
+    {
+      "subject": "陈买",
+      "predicate": "子",
+      "object": "陈平",
+      "evidence": [
+        "p25"
+      ]
+    },
+    {
+      "subject": "陈恢",
+      "predicate": "子",
+      "object": "陈买",
+      "evidence": [
+        "p25"
+      ]
+    },
+    {
+      "subject": "陈何",
+      "predicate": "子",
+      "object": "陈恢",
+      "evidence": [
+        "p25"
+      ]
+    },
+    {
+      "subject": "陈平",
+      "predicate": "傅教",
+      "object": "孝惠帝",
+      "evidence": [
+        "p15"
+      ]
+    },
+    {
+      "subject": "审食其",
+      "predicate": "侍",
+      "object": "吕太后",
+      "evidence": [
+        "p20"
+      ]
+    },
+    {
+      "subject": "陈平",
+      "predicate": "伪听",
+      "object": "吕太后",
+      "evidence": [
+        "p22"
+      ]
+    },
+    {
+      "subject": "陈平",
+      "predicate": "为相于",
+      "object": "孝惠帝",
+      "evidence": [
+        "p16"
+      ]
+    }
+  ],
+  "note": "定稿：据《陈丞相世家-本体校验.md》落实补漏并完善关系。人物 42、地理 22、事件 19、概念 10、关系 30。补入陈涉、周市、魏咎、殷王、项悍、亚父、钟离眛、龙且、周殷、魏无知、石奋、灌婴、陈伯、其嫂、张负、张仲、樊哙、吕𡡓、卢绾、臧荼、陈豨、黥布、韩王信、王陵、陵母、审食其、陈买、陈恢、陈何、陈掌、尾生、孝己等，及黄老之术、反间、伪游云梦、剖符、护军中尉、主臣、冠玉、六出奇计等概念。实体与关系均带 evidence 段落 id。"
+}
