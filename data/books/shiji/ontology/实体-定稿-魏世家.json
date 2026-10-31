@@ -1,0 +1,3602 @@
+{
+  "book": "shiji",
+  "chapter_id": "shiji-魏世家第十四",
+  "title": "魏世家第十四",
+  "juan": "卷四十四",
+  "persons": [
+    {
+      "id": "person:毕公高",
+      "name": "毕公高",
+      "alias": [],
+      "type": "先祖",
+      "dynasty": "西周",
+      "state": "周",
+      "description": "周文王之子（一说庶子），封于毕，为毕姓之祖。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "person:毕万",
+      "name": "毕万",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "毕公高苗裔，事晋献公，伐霍、耿、魏有功，封于魏，为魏氏始祖。",
+      "evidence": [
+        "p0",
+        "p1",
+        "p2"
+      ]
+    },
+    {
+      "id": "person:卜偃",
+      "name": "卜偃",
+      "alias": [
+        "郭偃"
+      ],
+      "type": "卜官",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "晋国掌卜大夫，占毕万之后必大。",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "id": "person:辛廖",
+      "name": "辛廖",
+      "alias": [],
+      "type": "占者",
+      "dynasty": "春秋",
+      "state": null,
+      "description": "占毕万之卦，断为吉，其后必蕃昌。",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "id": "person:魏武子",
+      "name": "魏武子",
+      "alias": [
+        "魏犨",
+        "武仲州"
+      ],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "魏",
+      "description": "毕万之子，从重耳出亡十九年，归国后袭魏氏封邑。",
+      "evidence": [
+        "p2"
+      ]
+    },
+    {
+      "id": "person:魏悼子",
+      "name": "魏悼子",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "魏",
+      "description": "魏武子之子，徙治霍。",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "id": "person:魏绛",
+      "name": "魏绛",
+      "alias": [
+        "魏昭子"
+      ],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "魏",
+      "description": "魏悼子之子，事晋悼公，佐和戎翟，九合诸侯有功，谥昭子。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "person:魏嬴",
+      "name": "魏嬴",
+      "alias": [],
+      "type": "人物",
+      "dynasty": "春秋",
+      "state": "魏",
+      "description": "魏绛之子。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "person:魏献子",
+      "name": "魏献子",
+      "alias": [
+        "魏舒"
+      ],
+      "type": "卿",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "魏嬴之子，事晋昭公，晋顷公时为国政，与赵简子等并为晋卿。",
+      "evidence": [
+        "p5",
+        "p6",
+        "p7"
+      ]
+    },
+    {
+      "id": "person:魏侈",
+      "name": "魏侈",
+      "alias": [],
+      "type": "卿",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "魏献子之子，与赵鞅共攻范氏、中行氏。",
+      "evidence": [
+        "p7"
+      ]
+    },
+    {
+      "id": "person:魏桓子",
+      "name": "魏桓子",
+      "alias": [
+        "魏驹"
+      ],
+      "type": "卿",
+      "dynasty": "战国",
+      "state": "晋",
+      "description": "魏侈之孙，与韩康子、赵襄子共灭知伯，三分其地。",
+      "evidence": [
+        "p8"
+      ]
+    },
+    {
+      "id": "person:魏文侯",
+      "name": "魏文侯",
+      "alias": [
+        "文侯都",
+        "魏斯"
+      ],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "魏桓子之孙，魏国始封诸侯，礼贤下士，得誉于诸侯。",
+      "evidence": [
+        "p9",
+        "p10",
+        "p11",
+        "p15",
+        "p16",
+        "p17",
+        "p20"
+      ]
+    },
+    {
+      "id": "person:子击",
+      "name": "子击",
+      "alias": [
+        "魏武侯"
+      ],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "文侯之子，继位为武侯，逢田子方于朝歌。",
+      "evidence": [
+        "p11",
+        "p14",
+        "p20",
+        "p21",
+        "p26"
+      ]
+    },
+    {
+      "id": "person:子罃",
+      "name": "子罃",
+      "alias": [
+        "魏惠王",
+        "梁惠王"
+      ],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "武侯之子，与公中缓争立，后为惠王，数败于军旅而礼贤招士。",
+      "evidence": [
+        "p14",
+        "p26",
+        "p27",
+        "p34",
+        "p35",
+        "p37",
+        "p38"
+      ]
+    },
+    {
+      "id": "person:赵夙",
+      "name": "赵夙",
+      "alias": [],
+      "type": "大夫",
+      "dynasty": "春秋",
+      "state": "赵",
+      "description": "晋献公时为之御，伐霍、耿、魏，受封耿地。",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "id": "person:晋献公",
+      "name": "晋献公",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "灭霍、耿、魏，以耿封赵夙、以魏封毕万。",
+      "evidence": [
+        "p0",
+        "p1",
+        "p2"
+      ]
+    },
+    {
+      "id": "person:重耳",
+      "name": "重耳",
+      "alias": [
+        "晋文公"
+      ],
+      "type": "诸侯",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "流亡十九年，魏武子从之，归国即位为晋文公。",
+      "evidence": [
+        "p2"
+      ]
+    },
+    {
+      "id": "person:晋悼公",
+      "name": "晋悼公",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "用魏绛和戎，赐之乐。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "person:杨干",
+      "name": "杨干",
+      "alias": [],
+      "type": "人物",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "悼公之弟，乱军阵行列，为魏绛所辱。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "person:晋昭公",
+      "name": "晋昭公",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "魏献子所事之君，卒后六卿强盛。",
+      "evidence": [
+        "p5"
+      ]
+    },
+    {
+      "id": "person:韩宣子",
+      "name": "韩宣子",
+      "alias": [],
+      "type": "卿",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "晋顷公十二年告老。",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "id": "person:赵简子",
+      "name": "赵简子",
+      "alias": [],
+      "type": "卿",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "与魏献子等并为晋卿，攻范氏、中行氏。",
+      "evidence": [
+        "p6",
+        "p7"
+      ]
+    },
+    {
+      "id": "person:中行文子",
+      "name": "中行文子",
+      "alias": [],
+      "type": "卿",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "晋卿。",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "id": "person:范献子",
+      "name": "范献子",
+      "alias": [],
+      "type": "卿",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "晋卿。",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "id": "person:赵鞅",
+      "name": "赵鞅",
+      "alias": [],
+      "type": "卿",
+      "dynasty": "春秋",
+      "state": "晋",
+      "description": "与魏侈共攻范氏、中行氏。",
+      "evidence": [
+        "p7"
+      ]
+    },
+    {
+      "id": "person:韩康子",
+      "name": "韩康子",
+      "alias": [],
+      "type": "卿",
+      "dynasty": "战国",
+      "state": "韩",
+      "description": "与魏桓子、赵襄子共灭知伯。",
+      "evidence": [
+        "p8"
+      ]
+    },
+    {
+      "id": "person:赵襄子",
+      "name": "赵襄子",
+      "alias": [],
+      "type": "卿",
+      "dynasty": "战国",
+      "state": "赵",
+      "description": "与魏桓子、韩康子共灭知伯。",
+      "evidence": [
+        "p8"
+      ]
+    },
+    {
+      "id": "person:知伯",
+      "name": "知伯",
+      "alias": [
+        "知瑶",
+        "知襄子"
+      ],
+      "type": "卿",
+      "dynasty": "战国",
+      "state": "晋",
+      "description": "晋卿中最强者，围赵襄子于晋阳，终为韩赵魏所灭。",
+      "evidence": [
+        "p8",
+        "p56"
+      ]
+    },
+    {
+      "id": "person:秦灵公",
+      "name": "秦灵公",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "与魏文侯同年即位。",
+      "evidence": [
+        "p9"
+      ]
+    },
+    {
+      "id": "person:韩武子",
+      "name": "韩武子",
+      "alias": [],
+      "type": "卿",
+      "dynasty": "战国",
+      "state": "韩",
+      "description": "与魏文侯同时。",
+      "evidence": [
+        "p9"
+      ]
+    },
+    {
+      "id": "person:赵桓子",
+      "name": "赵桓子",
+      "alias": [],
+      "type": "卿",
+      "dynasty": "战国",
+      "state": "赵",
+      "description": "与魏文侯同时。",
+      "evidence": [
+        "p9"
+      ]
+    },
+    {
+      "id": "person:周威王",
+      "name": "周威王",
+      "alias": [
+        "周威烈王"
+      ],
+      "type": "王",
+      "dynasty": "东周",
+      "state": "周",
+      "description": "与魏文侯同时。",
+      "evidence": [
+        "p9"
+      ]
+    },
+    {
+      "id": "person:田子方",
+      "name": "田子方",
+      "alias": [],
+      "type": "学者",
+      "dynasty": "战国",
+      "state": null,
+      "description": "文侯之师，子击逢之于朝歌，不为礼。",
+      "evidence": [
+        "p11",
+        "p17"
+      ]
+    },
+    {
+      "id": "person:赵仓唐",
+      "name": "赵仓唐",
+      "alias": [],
+      "type": "人物",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "子击守中山时为其傅。",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "id": "person:子夏",
+      "name": "子夏",
+      "alias": [
+        "卜子夏"
+      ],
+      "type": "学者",
+      "dynasty": "战国",
+      "state": null,
+      "description": "孔子弟子，文侯受经艺于其门，魏成子所举。",
+      "evidence": [
+        "p15",
+        "p17"
+      ]
+    },
+    {
+      "id": "person:段干木",
+      "name": "段干木",
+      "alias": [],
+      "type": "学者",
+      "dynasty": "战国",
+      "state": null,
+      "description": "文侯以客礼待之，过其闾必轼。",
+      "evidence": [
+        "p15",
+        "p17"
+      ]
+    },
+    {
+      "id": "person:西门豹",
+      "name": "西门豹",
+      "alias": [],
+      "type": "官员",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "任邺令，河内称治。",
+      "evidence": [
+        "p16"
+      ]
+    },
+    {
+      "id": "person:李克",
+      "name": "李克",
+      "alias": [],
+      "type": "卿",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "文侯问相，以居视所亲等五者对。",
+      "evidence": [
+        "p17"
+      ]
+    },
+    {
+      "id": "person:翟璜",
+      "name": "翟璜",
+      "alias": [],
+      "type": "卿",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "与魏成子争相，自陈荐吴起、西门豹、乐羊、李克、屈侯鲋之功。",
+      "evidence": [
+        "p17"
+      ]
+    },
+    {
+      "id": "person:魏成子",
+      "name": "魏成子",
+      "alias": [],
+      "type": "卿",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "食禄千钟，什九在外，得卜子夏、田子方、段干木，终为魏相。",
+      "evidence": [
+        "p17"
+      ]
+    },
+    {
+      "id": "person:乐羊",
+      "name": "乐羊",
+      "alias": [],
+      "type": "将",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "翟璜所举，伐中山。",
+      "evidence": [
+        "p17"
+      ]
+    },
+    {
+      "id": "person:屈侯鲋",
+      "name": "屈侯鲋",
+      "alias": [],
+      "type": "人物",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "翟璜所举，为文侯子之傅。",
+      "evidence": [
+        "p17"
+      ]
+    },
+    {
+      "id": "person:吴起",
+      "name": "吴起",
+      "alias": [],
+      "type": "将",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "西河守，翟璜所举；后伐齐至灵丘。",
+      "evidence": [
+        "p17",
+        "p23"
+      ]
+    },
+    {
+      "id": "person:齐威王",
+      "name": "齐威王",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "齐",
+      "description": "与魏武侯同时初立，魏惠王二十八年卒。",
+      "evidence": [
+        "p23",
+        "p33"
+      ]
+    },
+    {
+      "id": "person:秦献公",
+      "name": "秦献公",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "县栎阳，卒后子孝公立。",
+      "evidence": [
+        "p25",
+        "p28"
+      ]
+    },
+    {
+      "id": "person:秦孝公",
+      "name": "秦孝公",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "献公之子，用商君，东地至河。",
+      "evidence": [
+        "p28",
+        "p36"
+      ]
+    },
+    {
+      "id": "person:商君",
+      "name": "商君",
+      "alias": [
+        "卫鞅",
+        "商鞅",
+        "公孙鞅"
+      ],
+      "type": "卿",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "秦孝公时用事，诈魏将公子卬而袭夺其军，破魏。",
+      "evidence": [
+        "p35",
+        "p36"
+      ]
+    },
+    {
+      "id": "person:公子卬",
+      "name": "公子卬",
+      "alias": [],
+      "type": "将",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "为商君所诈，丧其军。",
+      "evidence": [
+        "p35"
+      ]
+    },
+    {
+      "id": "person:公子赫",
+      "name": "公子赫",
+      "alias": [],
+      "type": "太子",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "魏惠王三十一年立为太子。",
+      "evidence": [
+        "p35"
+      ]
+    },
+    {
+      "id": "person:庞涓",
+      "name": "庞涓",
+      "alias": [],
+      "type": "将",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "马陵之战中为齐所杀。",
+      "evidence": [
+        "p34"
+      ]
+    },
+    {
+      "id": "person:太子申",
+      "name": "太子申",
+      "alias": [],
+      "type": "太子",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "魏惠王三十年将兵攻齐，马陵之败被虏。",
+      "evidence": [
+        "p34"
+      ]
+    },
+    {
+      "id": "person:田忌",
+      "name": "田忌",
+      "alias": [],
+      "type": "将",
+      "dynasty": "战国",
+      "state": "齐",
+      "description": "齐救赵之将。",
+      "evidence": [
+        "p31"
+      ]
+    },
+    {
+      "id": "person:孙膑",
+      "name": "孙膑",
+      "alias": [
+        "孙子"
+      ],
+      "type": "军师",
+      "dynasty": "战国",
+      "state": "齐",
+      "description": "齐用其计救赵，败魏于桂陵。",
+      "evidence": [
+        "p31",
+        "p34"
+      ]
+    },
+    {
+      "id": "person:齐宣王",
+      "name": "齐宣王",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "齐",
+      "description": "用孙子之计救赵击魏，会魏惠王于平阿南。",
+      "evidence": [
+        "p34",
+        "p36"
+      ]
+    },
+    {
+      "id": "person:邹衍",
+      "name": "邹衍",
+      "alias": [],
+      "type": "学者",
+      "dynasty": "战国",
+      "state": null,
+      "description": "至大梁，为魏惠王所招。",
+      "evidence": [
+        "p37"
+      ]
+    },
+    {
+      "id": "person:淳于髡",
+      "name": "淳于髡",
+      "alias": [],
+      "type": "学者",
+      "dynasty": "战国",
+      "state": null,
+      "description": "至大梁，为魏惠王所招。",
+      "evidence": [
+        "p37"
+      ]
+    },
+    {
+      "id": "person:孟轲",
+      "name": "孟轲",
+      "alias": [
+        "孟子"
+      ],
+      "type": "学者",
+      "dynasty": "战国",
+      "state": null,
+      "description": "至梁，说梁惠王以仁义而不言利。",
+      "evidence": [
+        "p37"
+      ]
+    },
+    {
+      "id": "person:张仪",
+      "name": "张仪",
+      "alias": [],
+      "type": "相",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "相魏，与诸侯执政会齧桑。",
+      "evidence": [
+        "p42",
+        "p43",
+        "p47",
+        "p48"
+      ]
+    },
+    {
+      "id": "person:魏襄王",
+      "name": "魏襄王",
+      "alias": [
+        "襄王"
+      ],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "惠王之子，与诸侯会徐州相王。",
+      "evidence": [
+        "p38",
+        "p39",
+        "p43"
+      ]
+    },
+    {
+      "id": "person:魏哀王",
+      "name": "魏哀王",
+      "alias": [
+        "哀王"
+      ],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "襄王之子。",
+      "evidence": [
+        "p43",
+        "p44",
+        "p49"
+      ]
+    },
+    {
+      "id": "person:魏昭王",
+      "name": "魏昭王",
+      "alias": [
+        "昭王"
+      ],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "哀王之子，佐韩攻秦，伊阙大败。",
+      "evidence": [
+        "p49",
+        "p50",
+        "p53"
+      ]
+    },
+    {
+      "id": "person:安釐王",
+      "name": "安釐王",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "昭王之子，屡遭秦侵。",
+      "evidence": [
+        "p53",
+        "p54",
+        "p70"
+      ]
+    },
+    {
+      "id": "person:景湣王",
+      "name": "景湣王",
+      "alias": [
+        "太子增",
+        "增"
+      ],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "安釐王太子，曾质于秦，后继立。",
+      "evidence": [
+        "p68",
+        "p70",
+        "p71"
+      ]
+    },
+    {
+      "id": "person:王假",
+      "name": "王假",
+      "alias": [
+        "魏王假"
+      ],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "魏国末代君主，为秦所虏，魏亡。",
+      "evidence": [
+        "p71",
+        "p72",
+        "p73"
+      ]
+    },
+    {
+      "id": "person:公中缓",
+      "name": "公中缓",
+      "alias": [
+        "公仲缓"
+      ],
+      "type": "公子",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "与魏罃争为太子，浊泽之战一方。",
+      "evidence": [
+        "p27"
+      ]
+    },
+    {
+      "id": "person:公孙颀",
+      "name": "公孙颀",
+      "alias": [],
+      "type": "人物",
+      "dynasty": "战国",
+      "state": null,
+      "description": "游说韩懿侯合赵伐魏。",
+      "evidence": [
+        "p27"
+      ]
+    },
+    {
+      "id": "person:韩懿侯",
+      "name": "韩懿侯",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "韩",
+      "description": "与赵成侯合军伐魏于浊泽。",
+      "evidence": [
+        "p27"
+      ]
+    },
+    {
+      "id": "person:赵成侯",
+      "name": "赵成侯",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "赵",
+      "description": "与韩合军伐魏；魏惠王二十一年卒。",
+      "evidence": [
+        "p27",
+        "p33"
+      ]
+    },
+    {
+      "id": "person:王错",
+      "name": "王错",
+      "alias": [],
+      "type": "人物",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "魏罃所倚，据上党。",
+      "evidence": [
+        "p27"
+      ]
+    },
+    {
+      "id": "person:樗里子",
+      "name": "樗里子",
+      "alias": [],
+      "type": "将",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "秦伐取魏曲沃，走犀首于岸门。",
+      "evidence": [
+        "p45"
+      ]
+    },
+    {
+      "id": "person:犀首",
+      "name": "犀首",
+      "alias": [
+        "公孙衍"
+      ],
+      "type": "将",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "魏将，为秦所败于岸门。",
+      "evidence": [
+        "p45",
+        "p47"
+      ]
+    },
+    {
+      "id": "person:薛公",
+      "name": "薛公",
+      "alias": [
+        "孟尝君",
+        "田文"
+      ],
+      "type": "相",
+      "dynasty": "战国",
+      "state": "齐",
+      "description": "齐相，楚忌其为魏相。",
+      "evidence": [
+        "p47",
+        "p56"
+      ]
+    },
+    {
+      "id": "person:田需",
+      "name": "田需",
+      "alias": [],
+      "type": "相",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "魏相，死后引发楚、魏相争之谋。",
+      "evidence": [
+        "p47"
+      ]
+    },
+    {
+      "id": "person:昭鱼",
+      "name": "昭鱼",
+      "alias": [],
+      "type": "相",
+      "dynasty": "战国",
+      "state": "楚",
+      "description": "楚相，谋使魏太子自相。",
+      "evidence": [
+        "p47"
+      ]
+    },
+    {
+      "id": "person:苏代",
+      "name": "苏代",
+      "alias": [],
+      "type": "纵横家",
+      "dynasty": "战国",
+      "state": null,
+      "description": "为昭鱼游说，使魏太子为相；后谏魏王勿予秦南阳。",
+      "evidence": [
+        "p47",
+        "p54"
+      ]
+    },
+    {
+      "id": "person:如耳",
+      "name": "如耳",
+      "alias": [],
+      "type": "人物",
+      "dynasty": "战国",
+      "state": null,
+      "description": "游说卫君、魏王，使魏罢兵免成陵君。",
+      "evidence": [
+        "p46",
+        "p56"
+      ]
+    },
+    {
+      "id": "person:成陵君",
+      "name": "成陵君",
+      "alias": [],
+      "type": "封君",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "魏之封君，因如耳之谮被免。",
+      "evidence": [
+        "p46"
+      ]
+    },
+    {
+      "id": "person:魏齐",
+      "name": "魏齐",
+      "alias": [],
+      "type": "相",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "秦昭王与如耳并举之魏臣。",
+      "evidence": [
+        "p56"
+      ]
+    },
+    {
+      "id": "person:芒卯",
+      "name": "芒卯",
+      "alias": [],
+      "type": "将",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "以诈术见重，后为秦所走。",
+      "evidence": [
+        "p50",
+        "p54",
+        "p56"
+      ]
+    },
+    {
+      "id": "person:唐雎",
+      "name": "唐雎",
+      "alias": [],
+      "type": "人物",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "年九十余，西说秦昭王，使秦发兵救魏。",
+      "evidence": [
+        "p57"
+      ]
+    },
+    {
+      "id": "person:范痤",
+      "name": "范痤",
+      "alias": [],
+      "type": "相",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "魏之免相，赵欲以地易其死，赖信陵君得免。",
+      "evidence": [
+        "p58"
+      ]
+    },
+    {
+      "id": "person:信陵君",
+      "name": "信陵君",
+      "alias": [
+        "无忌",
+        "魏无忌"
+      ],
+      "type": "公子",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "安釐王异母弟，窃符救赵，率五国兵败秦于河外。",
+      "evidence": [
+        "p58",
+        "p59",
+        "p67",
+        "p68",
+        "p70"
+      ]
+    },
+    {
+      "id": "person:中旗",
+      "name": "中旗",
+      "alias": [
+        "中期"
+      ],
+      "type": "人物",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "冯琴谏秦昭王勿轻韩、魏。",
+      "evidence": [
+        "p56"
+      ]
+    },
+    {
+      "id": "person:秦昭王",
+      "name": "秦昭王",
+      "alias": [
+        "秦昭襄王"
+      ],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "称西帝，发兵救魏，约囚魏太子增。",
+      "evidence": [
+        "p50",
+        "p57",
+        "p67",
+        "p68"
+      ]
+    },
+    {
+      "id": "person:白起",
+      "name": "白起",
+      "alias": [],
+      "type": "将",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "伊阙之战败魏军二十四万。",
+      "evidence": [
+        "p50"
+      ]
+    },
+    {
+      "id": "person:段干子",
+      "name": "段干子",
+      "alias": [],
+      "type": "将",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "请割南阳予秦以和。",
+      "evidence": [
+        "p54"
+      ]
+    },
+    {
+      "id": "person:秦武王",
+      "name": "秦武王",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "与魏哀王会于应。",
+      "evidence": [
+        "p48"
+      ]
+    },
+    {
+      "id": "person:蒙骜",
+      "name": "蒙骜",
+      "alias": [],
+      "type": "将",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "为信陵君所率五国兵击走。",
+      "evidence": [
+        "p68"
+      ]
+    },
+    {
+      "id": "person:公孙喜",
+      "name": "公孙喜",
+      "alias": [],
+      "type": "人物",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "谓魏相之谋，为秦所忌。",
+      "evidence": [
+        "p68"
+      ]
+    },
+    {
+      "id": "person:秦王政",
+      "name": "秦王政",
+      "alias": [
+        "秦始皇",
+        "嬴政"
+      ],
+      "type": "王",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "初立，终灭魏以为郡县。",
+      "evidence": [
+        "p69",
+        "p72",
+        "p73"
+      ]
+    },
+    {
+      "id": "person:燕太子丹",
+      "name": "燕太子丹",
+      "alias": [],
+      "type": "太子",
+      "dynasty": "战国",
+      "state": "燕",
+      "description": "使荆轲刺秦王。",
+      "evidence": [
+        "p72"
+      ]
+    },
+    {
+      "id": "person:荆轲",
+      "name": "荆轲",
+      "alias": [],
+      "type": "刺客",
+      "dynasty": "战国",
+      "state": "燕",
+      "description": "受燕太子丹之使刺秦王，事败。",
+      "evidence": [
+        "p72"
+      ]
+    },
+    {
+      "id": "person:齐湣王",
+      "name": "齐湣王",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "齐",
+      "description": "称东帝，伐齐之役出亡。",
+      "evidence": [
+        "p50",
+        "p51"
+      ]
+    },
+    {
+      "id": "person:宋王",
+      "name": "宋王",
+      "alias": [
+        "宋王偃"
+      ],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "宋",
+      "description": "齐灭宋，死于魏之温地。",
+      "evidence": [
+        "p51"
+      ]
+    },
+    {
+      "id": "person:宣太后",
+      "name": "宣太后",
+      "alias": [
+        "芈八子"
+      ],
+      "type": "人物",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "秦昭王母，因忧而死。",
+      "evidence": [
+        "p60"
+      ]
+    },
+    {
+      "id": "person:穰侯",
+      "name": "穰侯",
+      "alias": [
+        "魏冉"
+      ],
+      "type": "相",
+      "dynasty": "战国",
+      "state": "秦",
+      "description": "秦昭王舅，功大而竟被逐。",
+      "evidence": [
+        "p60"
+      ]
+    },
+    {
+      "id": "person:晋鄙",
+      "name": "晋鄙",
+      "alias": [],
+      "type": "将",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "魏将，兵为信陵君所夺。",
+      "evidence": [
+        "p67"
+      ]
+    },
+    {
+      "id": "person:龙贾",
+      "name": "龙贾",
+      "alias": [],
+      "type": "将",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "雕阴之败，军四万五千为秦所破。",
+      "evidence": [
+        "p40"
+      ]
+    },
+    {
+      "id": "person:公孙痤",
+      "name": "公孙痤",
+      "alias": [],
+      "type": "将",
+      "dynasty": "战国",
+      "state": "魏",
+      "description": "少梁之战为秦所虏。",
+      "evidence": [
+        "p28"
+      ]
+    },
+    {
+      "id": "person:赵敬侯",
+      "name": "赵敬侯",
+      "alias": [],
+      "type": "诸侯",
+      "dynasty": "战国",
+      "state": "赵",
+      "description": "初立时公子朔作乱。",
+      "evidence": [
+        "p21"
+      ]
+    },
+    {
+      "id": "person:公子朔",
+      "name": "公子朔",
+      "alias": [],
+      "type": "公子",
+      "dynasty": "战国",
+      "state": "赵",
+      "description": "作乱不胜，奔魏，与魏袭邯郸。",
+      "evidence": [
+        "p21"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "id": "place:魏",
+      "name": "魏",
+      "alias": [
+        "魏国",
+        "魏氏"
+      ],
+      "type": "国",
+      "description": "毕公高苗裔毕万受封于魏，后为三晋之一，都安邑、后徙大梁，终为秦所灭。",
+      "evidence": [
+        "p0",
+        "p1",
+        "p2",
+        "p12",
+        "p24",
+        "p73"
+      ]
+    },
+    {
+      "id": "place:毕",
+      "name": "毕",
+      "alias": [
+        "毕原"
+      ],
+      "type": "邑",
+      "description": "毕公高封地，在今陕西长安西北。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "place:霍",
+      "name": "霍",
+      "alias": [],
+      "type": "邑",
+      "description": "魏悼子迁治于此。",
+      "evidence": [
+        "p1",
+        "p3"
+      ]
+    },
+    {
+      "id": "place:耿",
+      "name": "耿",
+      "alias": [],
+      "type": "邑",
+      "description": "晋献公灭之以封赵夙。",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "id": "place:安邑",
+      "name": "安邑",
+      "alias": [],
+      "type": "都邑",
+      "description": "魏旧都，魏绛迁治安邑，惠王因近秦徙治大梁。",
+      "evidence": [
+        "p4",
+        "p22",
+        "p35"
+      ]
+    },
+    {
+      "id": "place:少梁",
+      "name": "少梁",
+      "alias": [],
+      "type": "邑",
+      "description": "魏筑城于此，后为秦所取。",
+      "evidence": [
+        "p10",
+        "p28",
+        "p31"
+      ]
+    },
+    {
+      "id": "place:繁庞",
+      "name": "繁庞",
+      "alias": [],
+      "type": "邑",
+      "description": "子击所围。",
+      "evidence": [
+        "p10"
+      ]
+    },
+    {
+      "id": "place:临晋",
+      "name": "临晋",
+      "alias": [],
+      "type": "邑",
+      "description": "魏筑城屯守，与秦会盟之地。",
+      "evidence": [
+        "p10",
+        "p45",
+        "p48"
+      ]
+    },
+    {
+      "id": "place:元里",
+      "name": "元里",
+      "alias": [],
+      "type": "邑",
+      "description": "魏筑城，后与秦战于此。",
+      "evidence": [
+        "p10",
+        "p31"
+      ]
+    },
+    {
+      "id": "place:中山",
+      "name": "中山",
+      "alias": [],
+      "type": "国",
+      "description": "魏文侯所伐，使子击守之。",
+      "evidence": [
+        "p11",
+        "p17",
+        "p33"
+      ]
+    },
+    {
+      "id": "place:朝歌",
+      "name": "朝歌",
+      "alias": [],
+      "type": "邑",
+      "description": "子击逢田子方处，后为秦所取。",
+      "evidence": [
+        "p11",
+        "p71"
+      ]
+    },
+    {
+      "id": "place:雒阴",
+      "name": "雒阴",
+      "alias": [],
+      "type": "邑",
+      "description": "子击攻秦后所筑。",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "id": "place:合阳",
+      "name": "合阳",
+      "alias": [],
+      "type": "邑",
+      "description": "子击攻秦后所筑。",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "id": "place:邺",
+      "name": "邺",
+      "alias": [],
+      "type": "邑",
+      "description": "西门豹为邺令之地。",
+      "evidence": [
+        "p16"
+      ]
+    },
+    {
+      "id": "place:河内",
+      "name": "河内",
+      "alias": [],
+      "type": "地区",
+      "description": "魏地，西门豹治邺而河内称治。",
+      "evidence": [
+        "p16",
+        "p63"
+      ]
+    },
+    {
+      "id": "place:西河",
+      "name": "西河",
+      "alias": [],
+      "type": "地区",
+      "description": "吴起为西河守。",
+      "evidence": [
+        "p17"
+      ]
+    },
+    {
+      "id": "place:阳狐",
+      "name": "阳狐",
+      "alias": [],
+      "type": "邑",
+      "description": "秦伐魏至阳狐。",
+      "evidence": [
+        "p13"
+      ]
+    },
+    {
+      "id": "place:酸枣",
+      "name": "酸枣",
+      "alias": [],
+      "type": "邑",
+      "description": "魏筑城。",
+      "evidence": [
+        "p19"
+      ]
+    },
+    {
+      "id": "place:注",
+      "name": "注",
+      "alias": [],
+      "type": "邑",
+      "description": "魏败秦于此。",
+      "evidence": [
+        "p19"
+      ]
+    },
+    {
+      "id": "place:襄陵",
+      "name": "襄陵",
+      "alias": [],
+      "type": "邑",
+      "description": "齐、楚屡取之，诸侯围之。",
+      "evidence": [
+        "p19",
+        "p32",
+        "p42"
+      ]
+    },
+    {
+      "id": "place:阴晋",
+      "name": "阴晋",
+      "alias": [],
+      "type": "邑",
+      "description": "秦侵魏之地。",
+      "evidence": [
+        "p19"
+      ]
+    },
+    {
+      "id": "place:武下",
+      "name": "武下",
+      "alias": [],
+      "type": "邑",
+      "description": "秦败魏于此。",
+      "evidence": [
+        "p20"
+      ]
+    },
+    {
+      "id": "place:邯郸",
+      "name": "邯郸",
+      "alias": [],
+      "type": "都邑",
+      "description": "赵都，魏围而拔之，后归赵；秦又围之。",
+      "evidence": [
+        "p21",
+        "p31",
+        "p67"
+      ]
+    },
+    {
+      "id": "place:王垣",
+      "name": "王垣",
+      "alias": [],
+      "type": "邑",
+      "description": "魏筑城。",
+      "evidence": [
+        "p22"
+      ]
+    },
+    {
+      "id": "place:桑丘",
+      "name": "桑丘",
+      "alias": [],
+      "type": "邑",
+      "description": "魏伐齐至桑丘。",
+      "evidence": [
+        "p23"
+      ]
+    },
+    {
+      "id": "place:浍",
+      "name": "浍",
+      "alias": [],
+      "type": "水名",
+      "description": "翟败魏、魏败韩之地。",
+      "evidence": [
+        "p23",
+        "p28"
+      ]
+    },
+    {
+      "id": "place:灵丘",
+      "name": "灵丘",
+      "alias": [],
+      "type": "邑",
+      "description": "吴起伐齐至此。",
+      "evidence": [
+        "p23"
+      ]
+    },
+    {
+      "id": "place:栎阳",
+      "name": "栎阳",
+      "alias": [],
+      "type": "都邑",
+      "description": "秦献公迁县于此。",
+      "evidence": [
+        "p25"
+      ]
+    },
+    {
+      "id": "place:北蔺",
+      "name": "北蔺",
+      "alias": [],
+      "type": "邑",
+      "description": "魏败赵之地。",
+      "evidence": [
+        "p25"
+      ]
+    },
+    {
+      "id": "place:鲁阳",
+      "name": "鲁阳",
+      "alias": [],
+      "type": "邑",
+      "description": "魏伐楚所取。",
+      "evidence": [
+        "p26"
+      ]
+    },
+    {
+      "id": "place:浊泽",
+      "name": "浊泽",
+      "alias": [],
+      "type": "邑",
+      "description": "魏与韩赵大战之地，魏大败。",
+      "evidence": [
+        "p27"
+      ]
+    },
+    {
+      "id": "place:马陵",
+      "name": "马陵",
+      "alias": [],
+      "type": "邑",
+      "description": "魏败韩于此；又为魏太子申败于齐之地。",
+      "evidence": [
+        "p28",
+        "p34"
+      ]
+    },
+    {
+      "id": "place:怀",
+      "name": "怀",
+      "alias": [],
+      "type": "邑",
+      "description": "魏败赵于此，后为秦所取。",
+      "evidence": [
+        "p28",
+        "p55"
+      ]
+    },
+    {
+      "id": "place:观",
+      "name": "观",
+      "alias": [],
+      "type": "邑",
+      "description": "齐败魏于此。",
+      "evidence": [
+        "p28"
+      ]
+    },
+    {
+      "id": "place:宅阳",
+      "name": "宅阳",
+      "alias": [],
+      "type": "邑",
+      "description": "魏与韩会盟。",
+      "evidence": [
+        "p28"
+      ]
+    },
+    {
+      "id": "place:武堵",
+      "name": "武堵",
+      "alias": [],
+      "type": "邑",
+      "description": "魏筑城。",
+      "evidence": [
+        "p28"
+      ]
+    },
+    {
+      "id": "place:仪台",
+      "name": "仪台",
+      "alias": [],
+      "type": "邑",
+      "description": "魏伐取宋之仪台。",
+      "evidence": [
+        "p28"
+      ]
+    },
+    {
+      "id": "place:庞",
+      "name": "庞",
+      "alias": [],
+      "type": "邑",
+      "description": "秦取庞。",
+      "evidence": [
+        "p28"
+      ]
+    },
+    {
+      "id": "place:皮牢",
+      "name": "皮牢",
+      "alias": [],
+      "type": "邑",
+      "description": "魏取赵之皮牢。",
+      "evidence": [
+        "p29"
+      ]
+    },
+    {
+      "id": "place:鄗",
+      "name": "鄗",
+      "alias": [],
+      "type": "邑",
+      "description": "魏与赵会盟。",
+      "evidence": [
+        "p30"
+      ]
+    },
+    {
+      "id": "place:杜平",
+      "name": "杜平",
+      "alias": [],
+      "type": "邑",
+      "description": "魏与秦孝公会盟。",
+      "evidence": [
+        "p30"
+      ]
+    },
+    {
+      "id": "place:黄池",
+      "name": "黄池",
+      "alias": [],
+      "type": "邑",
+      "description": "魏侵宋黄池，宋复取之。",
+      "evidence": [
+        "p30"
+      ]
+    },
+    {
+      "id": "place:桂陵",
+      "name": "桂陵",
+      "alias": [],
+      "type": "邑",
+      "description": "齐败魏于此。",
+      "evidence": [
+        "p31"
+      ]
+    },
+    {
+      "id": "place:固阳",
+      "name": "固阳",
+      "alias": [],
+      "type": "邑",
+      "description": "魏筑长城设塞。",
+      "evidence": [
+        "p32"
+      ]
+    },
+    {
+      "id": "place:漳水",
+      "name": "漳水",
+      "alias": [],
+      "type": "水名",
+      "description": "魏与赵盟于漳水上。",
+      "evidence": [
+        "p33"
+      ]
+    },
+    {
+      "id": "place:彤",
+      "name": "彤",
+      "alias": [],
+      "type": "邑",
+      "description": "魏与秦会盟。",
+      "evidence": [
+        "p33"
+      ]
+    },
+    {
+      "id": "place:外黄",
+      "name": "外黄",
+      "alias": [],
+      "type": "邑",
+      "description": "徐子谏魏太子处。",
+      "evidence": [
+        "p34"
+      ]
+    },
+    {
+      "id": "place:莒",
+      "name": "莒",
+      "alias": [],
+      "type": "邑",
+      "description": "徐子设喻所及。",
+      "evidence": [
+        "p34"
+      ]
+    },
+    {
+      "id": "place:大梁",
+      "name": "大梁",
+      "alias": [],
+      "type": "都邑",
+      "description": "魏惠王徙治于此，终为秦所灌灭。",
+      "evidence": [
+        "p35",
+        "p73",
+        "p74"
+      ]
+    },
+    {
+      "id": "place:平阿",
+      "name": "平阿",
+      "alias": [],
+      "type": "邑",
+      "description": "魏与齐宣王会于此南。",
+      "evidence": [
+        "p36"
+      ]
+    },
+    {
+      "id": "place:雕阴",
+      "name": "雕阴",
+      "alias": [],
+      "type": "邑",
+      "description": "秦破魏龙贾军于此。",
+      "evidence": [
+        "p40"
+      ]
+    },
+    {
+      "id": "place:焦",
+      "name": "焦",
+      "alias": [],
+      "type": "邑",
+      "description": "秦围取之地。",
+      "evidence": [
+        "p40",
+        "p41"
+      ]
+    },
+    {
+      "id": "place:曲沃",
+      "name": "曲沃",
+      "alias": [],
+      "type": "邑",
+      "description": "屡为秦所取、所归。",
+      "evidence": [
+        "p40",
+        "p41",
+        "p42",
+        "p45"
+      ]
+    },
+    {
+      "id": "place:河西",
+      "name": "河西",
+      "alias": [],
+      "type": "地区",
+      "description": "魏予秦之地。",
+      "evidence": [
+        "p40"
+      ]
+    },
+    {
+      "id": "place:汾阴",
+      "name": "汾阴",
+      "alias": [],
+      "type": "邑",
+      "description": "秦取之地。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "place:皮氏",
+      "name": "皮氏",
+      "alias": [],
+      "type": "邑",
+      "description": "秦所攻取之地。",
+      "evidence": [
+        "p41",
+        "p48"
+      ]
+    },
+    {
+      "id": "place:陉山",
+      "name": "陉山",
+      "alias": [],
+      "type": "邑",
+      "description": "魏败楚于此。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "place:上郡",
+      "name": "上郡",
+      "alias": [],
+      "type": "地区",
+      "description": "魏尽入于秦。",
+      "evidence": [
+        "p41"
+      ]
+    },
+    {
+      "id": "place:蒲阳",
+      "name": "蒲阳",
+      "alias": [],
+      "type": "邑",
+      "description": "秦降之、后取之。",
+      "evidence": [
+        "p41",
+        "p71"
+      ]
+    },
+    {
+      "id": "place:应",
+      "name": "应",
+      "alias": [],
+      "type": "邑",
+      "description": "魏与秦屡会于此。",
+      "evidence": [
+        "p41",
+        "p45",
+        "p48"
+      ]
+    },
+    {
+      "id": "place:齧桑",
+      "name": "齧桑",
+      "alias": [],
+      "type": "邑",
+      "description": "诸侯执政与张仪会盟于此。",
+      "evidence": [
+        "p42"
+      ]
+    },
+    {
+      "id": "place:平周",
+      "name": "平周",
+      "alias": [],
+      "type": "邑",
+      "description": "秦取之地。",
+      "evidence": [
+        "p42"
+      ]
+    },
+    {
+      "id": "place:观津",
+      "name": "观津",
+      "alias": [],
+      "type": "邑",
+      "description": "齐败魏于此。",
+      "evidence": [
+        "p45"
+      ]
+    },
+    {
+      "id": "place:岸门",
+      "name": "岸门",
+      "alias": [],
+      "type": "邑",
+      "description": "秦走犀首于此。",
+      "evidence": [
+        "p45"
+      ]
+    },
+    {
+      "id": "place:甄",
+      "name": "甄",
+      "alias": [],
+      "type": "邑",
+      "description": "魏与齐王会盟。",
+      "evidence": [
+        "p38"
+      ]
+    },
+    {
+      "id": "place:徐州",
+      "name": "徐州",
+      "alias": [],
+      "type": "邑",
+      "description": "魏与诸侯会盟相王。",
+      "evidence": [
+        "p39"
+      ]
+    },
+    {
+      "id": "place:垣雍",
+      "name": "垣雍",
+      "alias": [],
+      "type": "邑",
+      "description": "秦得之可决荥泽灌大梁。",
+      "evidence": [
+        "p63"
+      ]
+    },
+    {
+      "id": "place:垝津",
+      "name": "垝津",
+      "alias": [],
+      "type": "邑",
+      "description": "秦筑城以临河内。",
+      "evidence": [
+        "p63"
+      ]
+    },
+    {
+      "id": "place:共",
+      "name": "共",
+      "alias": [],
+      "type": "邑",
+      "description": "河内要地。",
+      "evidence": [
+        "p63",
+        "p66"
+      ]
+    },
+    {
+      "id": "place:汲",
+      "name": "汲",
+      "alias": [],
+      "type": "邑",
+      "description": "河内要地，后为秦所取。",
+      "evidence": [
+        "p63",
+        "p71"
+      ]
+    },
+    {
+      "id": "place:茅",
+      "name": "茅",
+      "alias": [],
+      "type": "邑",
+      "description": "秦所固有。",
+      "evidence": [
+        "p63"
+      ]
+    },
+    {
+      "id": "place:邢丘",
+      "name": "邢丘",
+      "alias": [],
+      "type": "邑",
+      "description": "秦所固有。",
+      "evidence": [
+        "p63"
+      ]
+    },
+    {
+      "id": "place:叶阳",
+      "name": "叶阳",
+      "alias": [],
+      "type": "邑",
+      "description": "秦邑，近武阳。",
+      "evidence": [
+        "p63"
+      ]
+    },
+    {
+      "id": "place:昆阳",
+      "name": "昆阳",
+      "alias": [],
+      "type": "邑",
+      "description": "秦邑，近武阳。",
+      "evidence": [
+        "p63"
+      ]
+    },
+    {
+      "id": "place:武阳",
+      "name": "武阳",
+      "alias": [],
+      "type": "邑",
+      "description": "与秦叶阳、昆阳相邻。",
+      "evidence": [
+        "p63"
+      ]
+    },
+    {
+      "id": "place:舞阳",
+      "name": "舞阳",
+      "alias": [],
+      "type": "邑",
+      "description": "秦军所绕之地。",
+      "evidence": [
+        "p63"
+      ]
+    },
+    {
+      "id": "place:许",
+      "name": "许",
+      "alias": [],
+      "type": "邑",
+      "description": "秦军所临之南国要地。",
+      "evidence": [
+        "p63"
+      ]
+    },
+    {
+      "id": "place:安陵",
+      "name": "安陵",
+      "alias": [],
+      "type": "国",
+      "description": "魏之附庸，秦欲灭之。",
+      "evidence": [
+        "p63",
+        "p66"
+      ]
+    },
+    {
+      "id": "place:林乡",
+      "name": "林乡",
+      "alias": [],
+      "type": "邑",
+      "description": "秦攻魏之始地。",
+      "evidence": [
+        "p64"
+      ]
+    },
+    {
+      "id": "place:囿中",
+      "name": "囿中",
+      "alias": [],
+      "type": "地区",
+      "description": "秦五入之地。",
+      "evidence": [
+        "p64"
+      ]
+    },
+    {
+      "id": "place:文台",
+      "name": "文台",
+      "alias": [],
+      "type": "台",
+      "description": "魏之台，为秦所堕。",
+      "evidence": [
+        "p64"
+      ]
+    },
+    {
+      "id": "place:垂都",
+      "name": "垂都",
+      "alias": [],
+      "type": "邑",
+      "description": "魏邑，为秦所焚。",
+      "evidence": [
+        "p64"
+      ]
+    },
+    {
+      "id": "place:陶",
+      "name": "陶",
+      "alias": [],
+      "type": "邑",
+      "description": "秦兵所至之郊。",
+      "evidence": [
+        "p64"
+      ]
+    },
+    {
+      "id": "place:平监",
+      "name": "平监",
+      "alias": [],
+      "type": "邑",
+      "description": "秦兵所至之北界。",
+      "evidence": [
+        "p64"
+      ]
+    },
+    {
+      "id": "place:安成",
+      "name": "安成",
+      "alias": [],
+      "type": "邑",
+      "description": "通上党之道路所经。",
+      "evidence": [
+        "p66"
+      ]
+    },
+    {
+      "id": "place:宁",
+      "name": "宁",
+      "alias": [
+        "寗"
+      ],
+      "type": "邑",
+      "description": "韩上党通往之地。",
+      "evidence": [
+        "p66"
+      ]
+    },
+    {
+      "id": "place:郪丘",
+      "name": "郪丘",
+      "alias": [],
+      "type": "邑",
+      "description": "秦所取。",
+      "evidence": [
+        "p55"
+      ]
+    },
+    {
+      "id": "place:郢",
+      "name": "郢",
+      "alias": [],
+      "type": "都邑",
+      "description": "楚都，为秦所拔，楚王徙陈。",
+      "evidence": [
+        "p52"
+      ]
+    },
+    {
+      "id": "place:陈",
+      "name": "陈",
+      "alias": [],
+      "type": "都邑",
+      "description": "楚徙都于此。",
+      "evidence": [
+        "p51",
+        "p52"
+      ]
+    },
+    {
+      "id": "place:温",
+      "name": "温",
+      "alias": [],
+      "type": "邑",
+      "description": "宋王死于此，魏割予秦。",
+      "evidence": [
+        "p51",
+        "p54"
+      ]
+    },
+    {
+      "id": "place:安城",
+      "name": "安城",
+      "alias": [],
+      "type": "邑",
+      "description": "秦所拔。",
+      "evidence": [
+        "p52"
+      ]
+    },
+    {
+      "id": "place:冥阨",
+      "name": "冥阨",
+      "alias": [
+        "冥厄"
+      ],
+      "type": "关塞",
+      "description": "秦伐楚所攻之险塞。",
+      "evidence": [
+        "p62"
+      ]
+    },
+    {
+      "id": "place:召陵",
+      "name": "召陵",
+      "alias": [],
+      "type": "邑",
+      "description": "秦取道河外所经。",
+      "evidence": [
+        "p62"
+      ]
+    },
+    {
+      "id": "place:蔡",
+      "name": "蔡",
+      "alias": [],
+      "type": "邑",
+      "description": "秦取道河外所经。",
+      "evidence": [
+        "p62"
+      ]
+    },
+    {
+      "id": "place:晋阳",
+      "name": "晋阳",
+      "alias": [],
+      "type": "都邑",
+      "description": "赵襄子被知伯围困之地。",
+      "evidence": [
+        "p56"
+      ]
+    },
+    {
+      "id": "place:平阳",
+      "name": "平阳",
+      "alias": [],
+      "type": "都邑",
+      "description": "知伯设喻所及，绛水可灌之地。",
+      "evidence": [
+        "p56"
+      ]
+    },
+    {
+      "id": "place:野王",
+      "name": "野王",
+      "alias": [],
+      "type": "邑",
+      "description": "卫君徙居于此。",
+      "evidence": [
+        "p71"
+      ]
+    },
+    {
+      "id": "place:东郡",
+      "name": "东郡",
+      "alias": [
+        "秦东郡"
+      ],
+      "type": "郡",
+      "description": "秦取魏二十城所置之郡。",
+      "evidence": [
+        "p71"
+      ]
+    },
+    {
+      "id": "place:蒲反",
+      "name": "蒲反",
+      "alias": [
+        "蒲阪"
+      ],
+      "type": "邑",
+      "description": "秦拔之，后归魏。",
+      "evidence": [
+        "p48"
+      ]
+    },
+    {
+      "id": "place:阳晋",
+      "name": "阳晋",
+      "alias": [],
+      "type": "邑",
+      "description": "秦所拔。",
+      "evidence": [
+        "p48"
+      ]
+    },
+    {
+      "id": "place:封陵",
+      "name": "封陵",
+      "alias": [],
+      "type": "邑",
+      "description": "秦所拔，后归魏以和。",
+      "evidence": [
+        "p48",
+        "p49"
+      ]
+    },
+    {
+      "id": "place:函谷",
+      "name": "函谷",
+      "alias": [
+        "函谷关"
+      ],
+      "type": "关塞",
+      "description": "魏与齐、韩共败秦军于此。",
+      "evidence": [
+        "p48"
+      ]
+    },
+    {
+      "id": "place:伊阙",
+      "name": "伊阙",
+      "alias": [],
+      "type": "关塞",
+      "description": "白起大败魏军二十四万于此。",
+      "evidence": [
+        "p50"
+      ]
+    },
+    {
+      "id": "place:河外",
+      "name": "河外",
+      "alias": [],
+      "type": "地区",
+      "description": "秦予魏之地，信陵君败秦于此。",
+      "evidence": [
+        "p49",
+        "p64",
+        "p68"
+      ]
+    },
+    {
+      "id": "place:河东",
+      "name": "河东",
+      "alias": [],
+      "type": "地区",
+      "description": "魏予秦四百里之地。",
+      "evidence": [
+        "p50"
+      ]
+    },
+    {
+      "id": "place:新垣",
+      "name": "新垣",
+      "alias": [],
+      "type": "邑",
+      "description": "秦所拔。",
+      "evidence": [
+        "p50"
+      ]
+    },
+    {
+      "id": "place:曲阳",
+      "name": "曲阳",
+      "alias": [],
+      "type": "邑",
+      "description": "秦所拔。",
+      "evidence": [
+        "p50"
+      ]
+    },
+    {
+      "id": "place:济西",
+      "name": "济西",
+      "alias": [],
+      "type": "地区",
+      "description": "五国败齐军之地。",
+      "evidence": [
+        "p51"
+      ]
+    },
+    {
+      "id": "place:临菑",
+      "name": "临菑",
+      "alias": [],
+      "type": "都邑",
+      "description": "燕独入齐都。",
+      "evidence": [
+        "p51"
+      ]
+    },
+    {
+      "id": "place:西周",
+      "name": "西周",
+      "alias": [
+        "周"
+      ],
+      "type": "国",
+      "description": "魏与秦王会盟之地。",
+      "evidence": [
+        "p51"
+      ]
+    },
+    {
+      "id": "place:涉谷",
+      "name": "涉谷",
+      "alias": [],
+      "type": "谷道",
+      "description": "秦伐楚取道之所。",
+      "evidence": [
+        "p62"
+      ]
+    },
+    {
+      "id": "place:长安",
+      "name": "长安",
+      "alias": [],
+      "type": "都邑",
+      "description": "《索隐述赞》所及，喻秦之北窥。",
+      "evidence": [
+        "p75"
+      ]
+    },
+    {
+      "id": "place:晋",
+      "name": "晋",
+      "alias": [
+        "晋国"
+      ],
+      "type": "国",
+      "description": "魏氏所自出之国，终为韩赵魏三分。",
+      "evidence": [
+        "p2",
+        "p6",
+        "p24"
+      ]
+    },
+    {
+      "id": "place:秦",
+      "name": "秦",
+      "alias": [
+        "秦国"
+      ],
+      "type": "国",
+      "description": "魏之劲敌，屡败魏，终灭魏。",
+      "evidence": [
+        "p10",
+        "p28",
+        "p35",
+        "p40",
+        "p50",
+        "p73"
+      ]
+    },
+    {
+      "id": "place:齐",
+      "name": "齐",
+      "alias": [
+        "齐国"
+      ],
+      "type": "国",
+      "description": "屡破魏，马陵、桂陵之役皆齐胜。",
+      "evidence": [
+        "p23",
+        "p31",
+        "p34",
+        "p51"
+      ]
+    },
+    {
+      "id": "place:赵",
+      "name": "赵",
+      "alias": [
+        "赵国"
+      ],
+      "type": "国",
+      "description": "与魏相邻，屡有战和。",
+      "evidence": [
+        "p7",
+        "p21",
+        "p31",
+        "p33"
+      ]
+    },
+    {
+      "id": "place:韩",
+      "name": "韩",
+      "alias": [
+        "韩国"
+      ],
+      "type": "国",
+      "description": "三晋之一，与魏共灭知伯，后邻秦。",
+      "evidence": [
+        "p8",
+        "p24",
+        "p27",
+        "p61"
+      ]
+    },
+    {
+      "id": "place:燕",
+      "name": "燕",
+      "alias": [
+        "燕国"
+      ],
+      "type": "国",
+      "description": "与魏共伐齐，后太子丹刺秦。",
+      "evidence": [
+        "p51",
+        "p72"
+      ]
+    },
+    {
+      "id": "place:楚",
+      "name": "楚",
+      "alias": [
+        "楚国"
+      ],
+      "type": "国",
+      "description": "与魏战和，楚相昭鱼谋魏相。",
+      "evidence": [
+        "p11",
+        "p41",
+        "p47",
+        "p57"
+      ]
+    },
+    {
+      "id": "place:宋",
+      "name": "宋",
+      "alias": [
+        "宋国"
+      ],
+      "type": "国",
+      "description": "与魏交战，终为齐所灭。",
+      "evidence": [
+        "p28",
+        "p30",
+        "p51"
+      ]
+    },
+    {
+      "id": "place:卫",
+      "name": "卫",
+      "alias": [
+        "卫国"
+      ],
+      "type": "国",
+      "description": "与魏相邻，魏伐之而如耳存之。",
+      "evidence": [
+        "p46",
+        "p66",
+        "p71"
+      ]
+    },
+    {
+      "id": "place:郑",
+      "name": "郑",
+      "alias": [
+        "郑国"
+      ],
+      "type": "国",
+      "description": "魏所伐，其地为秦所得。",
+      "evidence": [
+        "p19",
+        "p30"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "event:毕万封魏",
+      "name": "毕万封魏",
+      "alias": [],
+      "type": "封建",
+      "description": "晋献公十六年，毕万伐霍耿魏有功，受封于魏，卜偃、辛廖皆断其后必大。",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "id": "event:魏绛僇辱杨干",
+      "name": "魏绛僇辱杨干",
+      "alias": [],
+      "type": "政治",
+      "description": "晋悼公三年会诸侯，悼公弟杨干乱行，魏绛僇辱之，悼公怒而终任其政。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "event:六卿诛祁氏羊舌氏",
+      "name": "六卿诛祁氏羊舌氏",
+      "alias": [],
+      "type": "政治",
+      "description": "晋顷公十二年，祁氏、羊舌氏相恶，六卿诛之，尽取其邑为十县。",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "id": "event:三家灭知伯",
+      "name": "三家灭知伯",
+      "alias": [
+        "三家分知氏"
+      ],
+      "type": "战争",
+      "description": "魏桓子与韩康子、赵襄子共伐灭知伯，分其地。",
+      "evidence": [
+        "p8"
+      ]
+    },
+    {
+      "id": "event:三晋列为诸侯",
+      "name": "三晋列为诸侯",
+      "alias": [],
+      "type": "制度",
+      "description": "魏、赵、韩列为诸侯，周天子命之。",
+      "evidence": [
+        "p12"
+      ]
+    },
+    {
+      "id": "event:魏文侯伐中山",
+      "name": "魏文侯伐中山",
+      "alias": [],
+      "type": "战争",
+      "description": "文侯十七年伐中山，使子击守之、赵仓唐傅之。",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "id": "event:文侯问相",
+      "name": "文侯问相",
+      "alias": [
+        "李克论五视"
+      ],
+      "type": "政治",
+      "description": "文侯问相于李克，李克以五视对，断魏成子当为相。",
+      "evidence": [
+        "p17"
+      ]
+    },
+    {
+      "id": "event:魏绛和戎",
+      "name": "魏绛和戎",
+      "alias": [],
+      "type": "外交",
+      "description": "魏绛和戎翟，八年九合诸侯。",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "id": "event:浊泽之战",
+      "name": "浊泽之战",
+      "alias": [],
+      "type": "战争",
+      "description": "魏惠王初立，韩赵合兵伐魏，战于浊泽，魏大败，因二家谋不和而国不分。",
+      "evidence": [
+        "p27"
+      ]
+    },
+    {
+      "id": "event:桂陵之战",
+      "name": "桂陵之战",
+      "alias": [],
+      "type": "战争",
+      "description": "魏围赵邯郸，齐使田忌、孙膑救赵，败魏于桂陵。",
+      "evidence": [
+        "p31"
+      ]
+    },
+    {
+      "id": "event:马陵之战",
+      "name": "马陵之战",
+      "alias": [],
+      "type": "战争",
+      "description": "齐用孙膑计救赵击魏，魏太子申被虏、庞涓被杀，魏军大破。",
+      "evidence": [
+        "p34"
+      ]
+    },
+    {
+      "id": "event:商君袭公子卬",
+      "name": "商君袭公子卬",
+      "alias": [],
+      "type": "战争",
+      "description": "秦将商君诈魏将公子卬而袭夺其军，破魏。",
+      "evidence": [
+        "p35"
+      ]
+    },
+    {
+      "id": "event:魏徙都大梁",
+      "name": "魏徙都大梁",
+      "alias": [],
+      "type": "制度",
+      "description": "魏惠王以安邑近秦，徙治大梁。",
+      "evidence": [
+        "p35"
+      ]
+    },
+    {
+      "id": "event:徐州相王",
+      "name": "徐州相王",
+      "alias": [],
+      "type": "外交",
+      "description": "魏襄王与诸侯会徐州，相王，追尊惠王为王。",
+      "evidence": [
+        "p39"
+      ]
+    },
+    {
+      "id": "event:雕阴之战",
+      "name": "雕阴之战",
+      "alias": [],
+      "type": "战争",
+      "description": "秦败魏龙贾军四万五千于雕阴，围焦、曲沃。",
+      "evidence": [
+        "p40"
+      ]
+    },
+    {
+      "id": "event:五国攻秦",
+      "name": "五国攻秦",
+      "alias": [],
+      "type": "战争",
+      "description": "魏哀王元年，五国共攻秦，不胜而还。",
+      "evidence": [
+        "p44"
+      ]
+    },
+    {
+      "id": "event:如耳存卫",
+      "name": "如耳存卫",
+      "alias": [],
+      "type": "外交",
+      "description": "魏伐卫，如耳说卫君及魏王，使魏罢兵、免成陵君。",
+      "evidence": [
+        "p46"
+      ]
+    },
+    {
+      "id": "event:苏代说魏太子为相",
+      "name": "苏代说魏太子为相",
+      "alias": [],
+      "type": "政治",
+      "description": "田需死后，苏代为楚相昭鱼游说梁王，使魏太子自相。",
+      "evidence": [
+        "p47"
+      ]
+    },
+    {
+      "id": "event:伊阙之战",
+      "name": "伊阙之战",
+      "alias": [],
+      "type": "战争",
+      "description": "魏昭王三年佐韩攻秦，白起败魏军二十四万于伊阙。",
+      "evidence": [
+        "p50"
+      ]
+    },
+    {
+      "id": "event:五国伐齐",
+      "name": "五国伐齐",
+      "alias": [],
+      "type": "战争",
+      "description": "魏与秦、赵、韩、燕共伐齐，败之济西，湣王出亡。",
+      "evidence": [
+        "p51"
+      ]
+    },
+    {
+      "id": "event:苏代谏予秦南阳",
+      "name": "苏代谏予秦南阳",
+      "alias": [],
+      "type": "政治",
+      "description": "魏将段干子请割南阳予秦以和，苏代以抱薪救火谏之。",
+      "evidence": [
+        "p54"
+      ]
+    },
+    {
+      "id": "event:中旗谏秦昭王",
+      "name": "中旗谏秦昭王",
+      "alias": [],
+      "type": "政治",
+      "description": "秦昭王轻韩、魏，中旗以知伯之事谏之，秦王遂恐。",
+      "evidence": [
+        "p56"
+      ]
+    },
+    {
+      "id": "event:唐雎说秦昭王",
+      "name": "唐雎说秦昭王",
+      "alias": [],
+      "type": "外交",
+      "description": "唐雎年九十余西说秦昭王，秦遂发兵救魏。",
+      "evidence": [
+        "p57"
+      ]
+    },
+    {
+      "id": "event:范痤之难",
+      "name": "范痤之难",
+      "alias": [],
+      "type": "政治",
+      "description": "赵欲以地易杀范痤，魏王从之，范痤上书请于信陵君，赖以免。",
+      "evidence": [
+        "p58"
+      ]
+    },
+    {
+      "id": "event:信陵君谏伐韩",
+      "name": "信陵君谏伐韩",
+      "alias": [
+        "无忌谏魏王"
+      ],
+      "type": "政治",
+      "description": "魏王欲亲秦伐韩以求故地，信陵君无忌长篇谏止之。",
+      "evidence": [
+        "p59",
+        "p60",
+        "p61",
+        "p62",
+        "p63",
+        "p64",
+        "p65",
+        "p66"
+      ]
+    },
+    {
+      "id": "event:信陵君窃符救赵",
+      "name": "信陵君窃符救赵",
+      "alias": [
+        "邯郸之围"
+      ],
+      "type": "战争",
+      "description": "秦围邯郸，信陵君矫夺将军晋鄙兵以救赵，赵得全。",
+      "evidence": [
+        "p67"
+      ]
+    },
+    {
+      "id": "event:信陵君率五国兵败秦",
+      "name": "信陵君率五国兵败秦",
+      "alias": [],
+      "type": "战争",
+      "description": "无忌率五国兵攻秦，败之河外，走蒙骜。",
+      "evidence": [
+        "p68"
+      ]
+    },
+    {
+      "id": "event:荆轲刺秦王",
+      "name": "荆轲刺秦王",
+      "alias": [],
+      "type": "政治",
+      "description": "燕太子丹使荆轲刺秦王政，秦王察觉。",
+      "evidence": [
+        "p72"
+      ]
+    },
+    {
+      "id": "event:秦灭魏",
+      "name": "秦灭魏",
+      "alias": [
+        "秦灌大梁"
+      ],
+      "type": "战争",
+      "description": "秦王政三年，秦引水灌大梁，虏王假，灭魏以为郡县。",
+      "evidence": [
+        "p73"
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "concept:魏氏",
+      "name": "魏氏",
+      "alias": [
+        "魏"
+      ],
+      "type": "宗族",
+      "description": "毕万受封于魏而以其国名为氏，后为三晋之一。",
+      "evidence": [
+        "p1",
+        "p2"
+      ]
+    },
+    {
+      "id": "concept:毕姓",
+      "name": "毕姓",
+      "alias": [],
+      "type": "姓氏",
+      "description": "毕公高封毕而得姓，其后绝封为庶人。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "concept:六卿",
+      "name": "六卿",
+      "alias": [],
+      "type": "制度",
+      "description": "晋国六卿专权，终致三家分晋。",
+      "evidence": [
+        "p5",
+        "p6"
+      ]
+    },
+    {
+      "id": "concept:大夫",
+      "name": "大夫",
+      "alias": [],
+      "type": "爵位",
+      "description": "晋、魏之卿大夫阶层。",
+      "evidence": [
+        "p1",
+        "p2"
+      ]
+    },
+    {
+      "id": "concept:庶人",
+      "name": "庶人",
+      "alias": [],
+      "type": "身份",
+      "description": "毕公高之后绝封而为庶人。",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "id": "concept:诸侯",
+      "name": "诸侯",
+      "alias": [],
+      "type": "爵位",
+      "description": "周室所命之列国君主，三晋被列为诸侯。",
+      "evidence": [
+        "p12"
+      ]
+    },
+    {
+      "id": "concept:相王",
+      "name": "相王",
+      "alias": [],
+      "type": "外交",
+      "description": "诸侯互相承认王号，魏与诸侯会徐州相王。",
+      "evidence": [
+        "p39"
+      ]
+    },
+    {
+      "id": "concept:合纵",
+      "name": "合纵",
+      "alias": [
+        "从"
+      ],
+      "type": "外交",
+      "description": "六国联合抗秦，信陵君以合纵说魏王。",
+      "evidence": [
+        "p65"
+      ]
+    },
+    {
+      "id": "concept:郡县",
+      "name": "郡县",
+      "alias": [],
+      "type": "制度",
+      "description": "秦灭魏后设为郡县。",
+      "evidence": [
+        "p73"
+      ]
+    },
+    {
+      "id": "concept:长城",
+      "name": "长城",
+      "alias": [],
+      "type": "军事",
+      "description": "魏筑长城以御敌。",
+      "evidence": [
+        "p32"
+      ]
+    },
+    {
+      "id": "concept:仁义",
+      "name": "仁义",
+      "alias": [],
+      "type": "思想",
+      "description": "孟子说梁惠王以仁义而已，何必言利。",
+      "evidence": [
+        "p37"
+      ]
+    },
+    {
+      "id": "concept:虎狼之心",
+      "name": "虎狼之心",
+      "alias": [],
+      "type": "思想",
+      "description": "信陵君斥秦有虎狼之心，贪戾好利无信。",
+      "evidence": [
+        "p60"
+      ]
+    },
+    {
+      "id": "concept:抱薪救火",
+      "name": "抱薪救火",
+      "alias": [],
+      "type": "成语",
+      "description": "苏代以抱薪救火喻割地事秦，薪不尽火不灭。",
+      "evidence": [
+        "p54"
+      ]
+    },
+    {
+      "id": "concept:五视",
+      "name": "五视",
+      "alias": [
+        "五者"
+      ],
+      "type": "思想",
+      "description": "李克论察相之道：居视所亲、富视所与、达视所举、穷视所不为、贫视所不取。",
+      "evidence": [
+        "p17"
+      ]
+    },
+    {
+      "id": "concept:屯之比",
+      "name": "屯之比",
+      "alias": [],
+      "type": "占卜",
+      "description": "毕万卜事晋得屯卦变比卦，辛廖占为吉。",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "id": "concept:东藩",
+      "name": "东藩",
+      "alias": [],
+      "type": "外交",
+      "description": "魏自称秦之东藩，受冠带、祠春秋。",
+      "evidence": [
+        "p57"
+      ]
+    },
+    {
+      "id": "concept:阿衡",
+      "name": "阿衡",
+      "alias": [],
+      "type": "官职",
+      "description": "伊尹之官称，太史公借喻大贤之佐。",
+      "evidence": [
+        "p74"
+      ]
+    },
+    {
+      "id": "concept:雁行顿刃",
+      "name": "雁行顿刃",
+      "alias": [],
+      "type": "外交",
+      "description": "韩国请为天下诸侯充当雁行先锋、磨砺兵刃以抗秦。",
+      "evidence": [
+        "p65"
+      ]
+    },
+    {
+      "id": "concept:重质",
+      "name": "重质",
+      "alias": [],
+      "type": "外交",
+      "description": "魏以韩上党为重质，掌握其要害以富强。",
+      "evidence": [
+        "p66"
+      ]
+    },
+    {
+      "id": "concept:肘足相接",
+      "name": "肘足相接",
+      "alias": [],
+      "type": "典故",
+      "description": "知伯行水，魏桓子肘、韩康子履，于车上示意，遂分知氏。",
+      "evidence": [
+        "p56"
+      ]
+    },
+    {
+      "id": "concept:满数",
+      "name": "满数",
+      "alias": [],
+      "type": "占卜",
+      "description": "万为满数、魏为大名，卜偃以此断毕万之后必大。",
+      "evidence": [
+        "p1"
+      ]
+    },
+    {
+      "id": "concept:博戏枭",
+      "name": "博戏枭",
+      "alias": [],
+      "type": "游戏",
+      "description": "苏代以博戏贵枭、便则食不便则止，喻魏王用智不如用枭。",
+      "evidence": [
+        "p54"
+      ]
+    },
+    {
+      "id": "concept:三版",
+      "name": "三版",
+      "alias": [],
+      "type": "典故",
+      "description": "知伯灌晋阳，城墙不没者三版，喻危殆。",
+      "evidence": [
+        "p56"
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "subject": "毕公高",
+      "predicate": "后裔",
+      "object": "毕万",
+      "evidence": [
+        "p0"
+      ]
+    },
+    {
+      "subject": "毕万",
+      "predicate": "生",
+      "object": "魏武子",
+      "evidence": [
+        "p2"
+      ]
+    },
+    {
+      "subject": "魏武子",
+      "predicate": "生",
+      "object": "魏悼子",
+      "evidence": [
+        "p3"
+      ]
+    },
+    {
+      "subject": "魏悼子",
+      "predicate": "生",
+      "object": "魏绛",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "subject": "魏绛",
+      "predicate": "生",
+      "object": "魏嬴",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "subject": "魏嬴",
+      "predicate": "生",
+      "object": "魏献子",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "subject": "魏献子",
+      "predicate": "生",
+      "object": "魏侈",
+      "evidence": [
+        "p7"
+      ]
+    },
+    {
+      "subject": "魏侈",
+      "predicate": "孙",
+      "object": "魏桓子",
+      "evidence": [
+        "p8"
+      ]
+    },
+    {
+      "subject": "魏桓子",
+      "predicate": "孙",
+      "object": "魏文侯",
+      "evidence": [
+        "p9"
+      ]
+    },
+    {
+      "subject": "魏文侯",
+      "predicate": "生",
+      "object": "子击",
+      "evidence": [
+        "p14"
+      ]
+    },
+    {
+      "subject": "子击",
+      "predicate": "生",
+      "object": "子罃",
+      "evidence": [
+        "p14"
+      ]
+    },
+    {
+      "subject": "魏襄王",
+      "predicate": "生",
+      "object": "魏哀王",
+      "evidence": [
+        "p43"
+      ]
+    },
+    {
+      "subject": "魏哀王",
+      "predicate": "生",
+      "object": "魏昭王",
+      "evidence": [
+        "p49"
+      ]
+    },
+    {
+      "subject": "魏昭王",
+      "predicate": "生",
+      "object": "安釐王",
+      "evidence": [
+        "p53"
+      ]
+    },
+    {
+      "subject": "安釐王",
+      "predicate": "生",
+      "object": "景湣王",
+      "evidence": [
+        "p70"
+      ]
+    },
+    {
+      "subject": "景湣王",
+      "predicate": "生",
+      "object": "王假",
+      "evidence": [
+        "p71"
+      ]
+    },
+    {
+      "subject": "魏绛",
+      "predicate": "僇辱",
+      "object": "杨干",
+      "evidence": [
+        "p4"
+      ]
+    },
+    {
+      "subject": "六卿",
+      "predicate": "诛灭",
+      "object": "祁氏",
+      "evidence": [
+        "p6"
+      ]
+    },
+    {
+      "subject": "魏桓子",
+      "predicate": "灭",
+      "object": "知伯",
+      "evidence": [
+        "p8"
+      ]
+    },
+    {
+      "subject": "韩康子",
+      "predicate": "灭",
+      "object": "知伯",
+      "evidence": [
+        "p8"
+      ]
+    },
+    {
+      "subject": "赵襄子",
+      "predicate": "灭",
+      "object": "知伯",
+      "evidence": [
+        "p8"
+      ]
+    },
+    {
+      "subject": "赵简子",
+      "predicate": "攻",
+      "object": "范氏",
+      "evidence": [
+        "p7"
+      ]
+    },
+    {
+      "subject": "赵鞅",
+      "predicate": "攻",
+      "object": "范氏",
+      "evidence": [
+        "p7"
+      ]
+    },
+    {
+      "subject": "魏文侯",
+      "predicate": "师事",
+      "object": "子夏",
+      "evidence": [
+        "p15"
+      ]
+    },
+    {
+      "subject": "魏文侯",
+      "predicate": "师事",
+      "object": "田子方",
+      "evidence": [
+        "p17"
+      ]
+    },
+    {
+      "subject": "魏文侯",
+      "predicate": "客礼",
+      "object": "段干木",
+      "evidence": [
+        "p15"
+      ]
+    },
+    {
+      "subject": "子击",
+      "predicate": "礼遇",
+      "object": "田子方",
+      "evidence": [
+        "p11"
+      ]
+    },
+    {
+      "subject": "翟璜",
+      "predicate": "举荐",
+      "object": "吴起",
+      "evidence": [
+        "p17"
+      ]
+    },
+    {
+      "subject": "翟璜",
+      "predicate": "举荐",
+      "object": "西门豹",
+      "evidence": [
+        "p17"
+      ]
+    },
+    {
+      "subject": "翟璜",
+      "predicate": "举荐",
+      "object": "乐羊",
+      "evidence": [
+        "p17"
+      ]
+    },
+    {
+      "subject": "翟璜",
+      "predicate": "举荐",
+      "object": "李克",
+      "evidence": [
+        "p17"
+      ]
+    },
+    {
+      "subject": "翟璜",
+      "predicate": "举荐",
+      "object": "屈侯鲋",
+      "evidence": [
+        "p17"
+      ]
+    },
+    {
+      "subject": "魏成子",
+      "predicate": "举荐",
+      "object": "子夏",
+      "evidence": [
+        "p17"
+      ]
+    },
+    {
+      "subject": "商君",
+      "predicate": "诈袭",
+      "object": "公子卬",
+      "evidence": [
+        "p35"
+      ]
+    },
+    {
+      "subject": "齐宣王",
+      "predicate": "使",
+      "object": "田忌",
+      "evidence": [
+        "p31"
+      ]
+    },
+    {
+      "subject": "齐宣王",
+      "predicate": "使",
+      "object": "孙膑",
+      "evidence": [
+        "p31"
+      ]
+    },
+    {
+      "subject": "齐",
+      "predicate": "虏",
+      "object": "太子申",
+      "evidence": [
+        "p34"
+      ]
+    },
+    {
+      "subject": "齐",
+      "predicate": "杀",
+      "object": "庞涓",
+      "evidence": [
+        "p34"
+      ]
+    },
+    {
+      "subject": "秦",
+      "predicate": "虏",
+      "object": "公孙痤",
+      "evidence": [
+        "p28"
+      ]
+    },
+    {
+      "subject": "白起",
+      "predicate": "败",
+      "object": "魏军",
+      "evidence": [
+        "p50"
+      ]
+    },
+    {
+      "subject": "信陵君",
+      "predicate": "夺兵于",
+      "object": "晋鄙",
+      "evidence": [
+        "p67"
+      ]
+    },
+    {
+      "subject": "信陵君",
+      "predicate": "救",
+      "object": "赵",
+      "evidence": [
+        "p67"
+      ]
+    },
+    {
+      "subject": "信陵君",
+      "predicate": "击走",
+      "object": "蒙骜",
+      "evidence": [
+        "p68"
+      ]
+    },
+    {
+      "subject": "秦昭王",
+      "predicate": "逐",
+      "object": "穰侯",
+      "evidence": [
+        "p60"
+      ]
+    },
+    {
+      "subject": "燕太子丹",
+      "predicate": "使",
+      "object": "荆轲",
+      "evidence": [
+        "p72"
+      ]
+    },
+    {
+      "subject": "秦",
+      "predicate": "灭",
+      "object": "魏",
+      "evidence": [
+        "p73"
+      ]
+    }
+  ]
+}
