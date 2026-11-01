@@ -1,0 +1,856 @@
+{
+  "book": "shiji",
+  "chapter_id": "shiji-袁盎鼂錯列傳第四十一",
+  "chapter_title": "袁盎鼂錯列傳第四十一",
+  "version": "1.0",
+  "generated_at": "2026-11-01",
+  "paragraphs": [
+    {
+      "para_id": "text:shiji:shiji-袁盎鼂錯列傳第四十一:p0",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "袁盎",
+          "surface": "袁盎"
+        },
+        {
+          "entity_id": "p004",
+          "entity_type": "person",
+          "name": "吕禄",
+          "surface": "呂祿"
+        },
+        {
+          "entity_id": "p005",
+          "entity_type": "person",
+          "name": "汉文帝",
+          "surface": "孝文帝"
+        },
+        {
+          "entity_id": "pl01",
+          "entity_type": "place",
+          "name": "楚",
+          "surface": "楚"
+        },
+        {
+          "entity_id": "pl02",
+          "entity_type": "place",
+          "name": "安陵",
+          "surface": "安陵"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-袁盎鼂錯列傳第四十一:p1",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "袁盎",
+          "surface": "袁盎"
+        },
+        {
+          "entity_id": "p003",
+          "entity_type": "person",
+          "name": "周勃",
+          "surface": "絳侯"
+        },
+        {
+          "entity_id": "p008",
+          "entity_type": "person",
+          "name": "吕后",
+          "surface": "呂后"
+        },
+        {
+          "entity_id": "c01",
+          "entity_type": "concept",
+          "name": "社稷臣",
+          "surface": "社稷臣"
+        },
+        {
+          "entity_id": "c02",
+          "entity_type": "concept",
+          "name": "功臣",
+          "surface": "功臣"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-袁盎鼂錯列傳第四十一:p2",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "袁盎",
+          "surface": "袁盎"
+        },
+        {
+          "entity_id": "p003",
+          "entity_type": "person",
+          "name": "周勃",
+          "surface": "絳侯"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-袁盎鼂錯列傳第四十一:p3",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "袁盎",
+          "surface": "袁盎"
+        },
+        {
+          "entity_id": "p009",
+          "entity_type": "person",
+          "name": "刘长",
+          "surface": "淮南厲王"
+        },
+        {
+          "entity_id": "p009",
+          "entity_type": "person",
+          "name": "刘长",
+          "surface": "淮南王"
+        },
+        {
+          "entity_id": "p011",
+          "entity_type": "person",
+          "name": "柴武",
+          "surface": "柴武"
+        },
+        {
+          "entity_id": "p011",
+          "entity_type": "person",
+          "name": "柴武",
+          "surface": "棘蒲侯"
+        },
+        {
+          "entity_id": "pl05",
+          "entity_type": "place",
+          "name": "蜀",
+          "surface": "蜀"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-袁盎鼂錯列傳第四十一:p4",
+      "mentions": [
+        {
+          "entity_id": "p008",
+          "entity_type": "person",
+          "name": "吕后",
+          "surface": "太后"
+        },
+        {
+          "entity_id": "p009",
+          "entity_type": "person",
+          "name": "刘长",
+          "surface": "淮南王"
+        },
+        {
+          "entity_id": "p030",
+          "entity_type": "person",
+          "name": "曾参",
+          "surface": "曾參"
+        },
+        {
+          "entity_id": "p031",
+          "entity_type": "person",
+          "name": "许由",
+          "surface": "許由"
+        },
+        {
+          "entity_id": "pl03",
+          "entity_type": "place",
+          "name": "代",
+          "surface": "代"
+        },
+        {
+          "entity_id": "pl04",
+          "entity_type": "place",
+          "name": "雍",
+          "surface": "雍"
+        },
+        {
+          "entity_id": "pl23",
+          "entity_type": "place",
+          "name": "代邸",
+          "surface": "代邸"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-袁盎鼂錯列傳第四十一:p5",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "袁盎",
+          "surface": "袁盎"
+        },
+        {
+          "entity_id": "p005",
+          "entity_type": "person",
+          "name": "汉文帝",
+          "surface": "孝文帝"
+        },
+        {
+          "entity_id": "p014",
+          "entity_type": "person",
+          "name": "赵同",
+          "surface": "趙同"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-袁盎鼂錯列傳第四十一:p6",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "袁盎",
+          "surface": "袁盎"
+        },
+        {
+          "entity_id": "p008",
+          "entity_type": "person",
+          "name": "吕后",
+          "surface": "太后"
+        },
+        {
+          "entity_id": "pl09",
+          "entity_type": "place",
+          "name": "霸陵",
+          "surface": "霸陵"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-袁盎鼂錯列傳第四十一:p7",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "袁盎",
+          "surface": "袁盎"
+        },
+        {
+          "entity_id": "p015",
+          "entity_type": "person",
+          "name": "慎夫人",
+          "surface": "慎夫人"
+        },
+        {
+          "entity_id": "p016",
+          "entity_type": "person",
+          "name": "皇后",
+          "surface": "皇后"
+        },
+        {
+          "entity_id": "c08",
+          "entity_type": "concept",
+          "name": "人彘",
+          "surface": "人彘"
+        },
+        {
+          "entity_id": "c09",
+          "entity_type": "concept",
+          "name": "尊卑有序",
+          "surface": "尊卑有序"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-袁盎鼂錯列傳第四十一:p8",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "袁盎",
+          "surface": "袁盎"
+        },
+        {
+          "entity_id": "p020",
+          "entity_type": "person",
+          "name": "刘濞",
+          "surface": "吳王"
+        },
+        {
+          "entity_id": "pl06",
+          "entity_type": "place",
+          "name": "陇西",
+          "surface": "隴西"
+        },
+        {
+          "entity_id": "pl07",
+          "entity_type": "place",
+          "name": "齐",
+          "surface": "齊"
+        },
+        {
+          "entity_id": "pl08",
+          "entity_type": "place",
+          "name": "吴",
+          "surface": "吳"
+        },
+        {
+          "entity_id": "c11",
+          "entity_type": "concept",
+          "name": "直谏",
+          "surface": "直諫"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-袁盎鼂錯列傳第四十一:p9",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "袁盎",
+          "surface": "袁盎"
+        },
+        {
+          "entity_id": "p003",
+          "entity_type": "person",
+          "name": "周勃",
+          "surface": "絳侯"
+        },
+        {
+          "entity_id": "p007",
+          "entity_type": "person",
+          "name": "刘邦",
+          "surface": "高帝"
+        },
+        {
+          "entity_id": "p017",
+          "entity_type": "person",
+          "name": "申屠嘉",
+          "surface": "申屠嘉"
+        },
+        {
+          "entity_id": "p018",
+          "entity_type": "person",
+          "name": "陈平",
+          "surface": "陳平"
+        },
+        {
+          "entity_id": "pl03",
+          "entity_type": "place",
+          "name": "代",
+          "surface": "代"
+        },
+        {
+          "entity_id": "pl21",
+          "entity_type": "place",
+          "name": "淮阳",
+          "surface": "淮陽"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-袁盎鼂錯列傳第四十一:p10",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "袁盎",
+          "surface": "袁盎"
+        },
+        {
+          "entity_id": "p002",
+          "entity_type": "person",
+          "name": "晁错",
+          "surface": "鼂錯"
+        },
+        {
+          "entity_id": "p005",
+          "entity_type": "person",
+          "name": "汉文帝",
+          "surface": "孝文帝"
+        },
+        {
+          "entity_id": "p006",
+          "entity_type": "person",
+          "name": "汉景帝",
+          "surface": "孝景帝"
+        },
+        {
+          "entity_id": "p020",
+          "entity_type": "person",
+          "name": "刘濞",
+          "surface": "吳王"
+        },
+        {
+          "entity_id": "pl08",
+          "entity_type": "place",
+          "name": "吴",
+          "surface": "吳"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-袁盎鼂錯列傳第四十一:p11",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "袁盎",
+          "surface": "袁盎"
+        },
+        {
+          "entity_id": "p002",
+          "entity_type": "person",
+          "name": "晁错",
+          "surface": "鼂錯"
+        },
+        {
+          "entity_id": "p019",
+          "entity_type": "person",
+          "name": "窦婴",
+          "surface": "竇嬰"
+        },
+        {
+          "entity_id": "p020",
+          "entity_type": "person",
+          "name": "刘濞",
+          "surface": "吳王"
+        },
+        {
+          "entity_id": "pl01",
+          "entity_type": "place",
+          "name": "楚",
+          "surface": "楚"
+        },
+        {
+          "entity_id": "pl08",
+          "entity_type": "place",
+          "name": "吴",
+          "surface": "吳"
+        },
+        {
+          "entity_id": "pl22",
+          "entity_type": "place",
+          "name": "长安",
+          "surface": "長安"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-袁盎鼂錯列傳第四十一:p12",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "袁盎",
+          "surface": "袁盎"
+        },
+        {
+          "entity_id": "p002",
+          "entity_type": "person",
+          "name": "晁错",
+          "surface": "鼂錯"
+        },
+        {
+          "entity_id": "p020",
+          "entity_type": "person",
+          "name": "刘濞",
+          "surface": "吳王"
+        },
+        {
+          "entity_id": "p037",
+          "entity_type": "person",
+          "name": "从史",
+          "surface": "從史"
+        },
+        {
+          "entity_id": "pl08",
+          "entity_type": "place",
+          "name": "吴",
+          "surface": "吳"
+        },
+        {
+          "entity_id": "pl20",
+          "entity_type": "place",
+          "name": "梁",
+          "surface": "梁"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-袁盎鼂錯列傳第四十一:p13",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "袁盎",
+          "surface": "袁盎"
+        },
+        {
+          "entity_id": "p021",
+          "entity_type": "person",
+          "name": "刘礼",
+          "surface": "平陸侯"
+        },
+        {
+          "entity_id": "p022",
+          "entity_type": "person",
+          "name": "剧孟",
+          "surface": "劇孟"
+        },
+        {
+          "entity_id": "p023",
+          "entity_type": "person",
+          "name": "季心",
+          "surface": "季心"
+        },
+        {
+          "entity_id": "pl01",
+          "entity_type": "place",
+          "name": "楚",
+          "surface": "楚"
+        },
+        {
+          "entity_id": "pl02",
+          "entity_type": "place",
+          "name": "安陵",
+          "surface": "安陵"
+        },
+        {
+          "entity_id": "pl08",
+          "entity_type": "place",
+          "name": "吴",
+          "surface": "吳"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-袁盎鼂錯列傳第四十一:p14",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "袁盎",
+          "surface": "袁盎"
+        },
+        {
+          "entity_id": "p024",
+          "entity_type": "person",
+          "name": "掊生",
+          "surface": "掊生"
+        },
+        {
+          "entity_id": "p025",
+          "entity_type": "person",
+          "name": "梁王",
+          "surface": "梁王"
+        },
+        {
+          "entity_id": "pl02",
+          "entity_type": "place",
+          "name": "安陵",
+          "surface": "安陵"
+        },
+        {
+          "entity_id": "pl19",
+          "entity_type": "place",
+          "name": "关中",
+          "surface": "關中"
+        },
+        {
+          "entity_id": "pl20",
+          "entity_type": "place",
+          "name": "梁",
+          "surface": "梁"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-袁盎鼂錯列傳第四十一:p15",
+      "mentions": [
+        {
+          "entity_id": "p002",
+          "entity_type": "person",
+          "name": "晁错",
+          "surface": "鼂錯"
+        },
+        {
+          "entity_id": "p021",
+          "entity_type": "person",
+          "name": "刘礼",
+          "surface": "劉禮"
+        },
+        {
+          "entity_id": "p026",
+          "entity_type": "person",
+          "name": "宋孟",
+          "surface": "宋孟"
+        },
+        {
+          "entity_id": "p034",
+          "entity_type": "person",
+          "name": "张恢",
+          "surface": "張恢"
+        },
+        {
+          "entity_id": "p034",
+          "entity_type": "person",
+          "name": "张恢",
+          "surface": "張恢先"
+        },
+        {
+          "entity_id": "pl12",
+          "entity_type": "place",
+          "name": "颍川",
+          "surface": "潁川"
+        },
+        {
+          "entity_id": "pl13",
+          "entity_type": "place",
+          "name": "轵",
+          "surface": "軹"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-袁盎鼂錯列傳第四十一:p16",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "袁盎",
+          "surface": "袁盎"
+        },
+        {
+          "entity_id": "p002",
+          "entity_type": "person",
+          "name": "晁错",
+          "surface": "智囊"
+        },
+        {
+          "entity_id": "p005",
+          "entity_type": "person",
+          "name": "汉文帝",
+          "surface": "孝文帝"
+        },
+        {
+          "entity_id": "p027",
+          "entity_type": "person",
+          "name": "伏生",
+          "surface": "伏生"
+        },
+        {
+          "entity_id": "pl14",
+          "entity_type": "place",
+          "name": "济南",
+          "surface": "濟南"
+        },
+        {
+          "entity_id": "c02",
+          "entity_type": "concept",
+          "name": "功臣",
+          "surface": "功臣"
+        },
+        {
+          "entity_id": "c04",
+          "entity_type": "concept",
+          "name": "智囊",
+          "surface": "智囊"
+        },
+        {
+          "entity_id": "c06",
+          "entity_type": "concept",
+          "name": "尚书",
+          "surface": "尚書"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-袁盎鼂錯列傳第四十一:p17",
+      "mentions": [
+        {
+          "entity_id": "p017",
+          "entity_type": "person",
+          "name": "申屠嘉",
+          "surface": "申屠嘉"
+        },
+        {
+          "entity_id": "pl24",
+          "entity_type": "place",
+          "name": "太上庙",
+          "surface": "太上廟"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-袁盎鼂錯列傳第四十一:p18",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "袁盎",
+          "surface": "袁盎"
+        },
+        {
+          "entity_id": "p002",
+          "entity_type": "person",
+          "name": "晁错",
+          "surface": "晁錯"
+        },
+        {
+          "entity_id": "p002",
+          "entity_type": "person",
+          "name": "晁错",
+          "surface": "鼂錯"
+        },
+        {
+          "entity_id": "p019",
+          "entity_type": "person",
+          "name": "窦婴",
+          "surface": "竇嬰"
+        },
+        {
+          "entity_id": "pl01",
+          "entity_type": "place",
+          "name": "楚",
+          "surface": "楚"
+        },
+        {
+          "entity_id": "pl08",
+          "entity_type": "place",
+          "name": "吴",
+          "surface": "吳"
+        },
+        {
+          "entity_id": "pl12",
+          "entity_type": "place",
+          "name": "颍川",
+          "surface": "潁川"
+        },
+        {
+          "entity_id": "pl18",
+          "entity_type": "place",
+          "name": "东市",
+          "surface": "東市"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-袁盎鼂錯列傳第四十一:p19",
+      "mentions": [
+        {
+          "entity_id": "p002",
+          "entity_type": "person",
+          "name": "晁错",
+          "surface": "鼂錯"
+        },
+        {
+          "entity_id": "p020",
+          "entity_type": "person",
+          "name": "刘濞",
+          "surface": "吳王"
+        },
+        {
+          "entity_id": "p028",
+          "entity_type": "person",
+          "name": "邓公",
+          "surface": "鄧公"
+        },
+        {
+          "entity_id": "pl01",
+          "entity_type": "place",
+          "name": "楚",
+          "surface": "楚"
+        },
+        {
+          "entity_id": "pl08",
+          "entity_type": "place",
+          "name": "吴",
+          "surface": "吳"
+        },
+        {
+          "entity_id": "pl15",
+          "entity_type": "place",
+          "name": "京师",
+          "surface": "京師"
+        },
+        {
+          "entity_id": "pl16",
+          "entity_type": "place",
+          "name": "城阳",
+          "surface": "城陽"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-袁盎鼂錯列傳第四十一:p20",
+      "mentions": [
+        {
+          "entity_id": "p028",
+          "entity_type": "person",
+          "name": "邓公",
+          "surface": "鄧公"
+        },
+        {
+          "entity_id": "pl17",
+          "entity_type": "place",
+          "name": "成固",
+          "surface": "成固"
+        },
+        {
+          "entity_id": "c07",
+          "entity_type": "concept",
+          "name": "黄老",
+          "surface": "黃老"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-袁盎鼂錯列傳第四十一:p21",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "袁盎",
+          "surface": "袁盎"
+        },
+        {
+          "entity_id": "p002",
+          "entity_type": "person",
+          "name": "晁错",
+          "surface": "鼂錯"
+        },
+        {
+          "entity_id": "pl01",
+          "entity_type": "place",
+          "name": "楚",
+          "surface": "楚"
+        },
+        {
+          "entity_id": "pl08",
+          "entity_type": "place",
+          "name": "吴",
+          "surface": "吳"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-袁盎鼂錯列傳第四十一:p22",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "袁盎",
+          "surface": "袁絲"
+        },
+        {
+          "entity_id": "p002",
+          "entity_type": "person",
+          "name": "晁错",
+          "surface": "鼂錯"
+        }
+      ]
+    }
+  ]
+}
