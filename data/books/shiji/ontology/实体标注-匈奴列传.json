@@ -1,0 +1,2630 @@
+{
+  "book_id": "shiji",
+  "chapter_id": "liezhuan50",
+  "chapter_title": "匈奴列傳第五十",
+  "version": "1.0",
+  "generated_at": "2026-11-02",
+  "paragraphs": [
+    {
+      "para_id": "p0",
+      "text": "〔正義〕此卷或有本次平津侯後，第五十二。今第五十者，先生舊本如此，劉伯莊云亦然。若先諸傳而次四夷，則司馬、汲鄭不合在後也。",
+      "mentions": []
+    },
+    {
+      "para_id": "p1",
+      "text": "匈奴，其先祖夏后氏之苗裔也，曰淳維。⟦0⟧⟦1⟧唐虞以上有山戎、⟦2⟧獫狁、葷粥，⟦3⟧居于北蠻，隨畜牧而轉移。其畜之所多則馬、牛、羊，其奇畜則橐駞、⟦4⟧⟦5⟧驢、驘、⟦6⟧⟦7⟧駃騠、⟦8⟧⟦9⟧騊駼、⟦10⟧⟦11⟧驒騱。⟦12⟧⟦13⟧逐水草遷徙，毌城郭常處耕田之業，然亦各有分地。⟦14⟧毌文書，以言語爲約束。兒能騎羊，引弓射鳥鼠；少長則射狐兔：⟦15⟧用爲食。士力能彎弓，⟦16⟧盡爲甲騎。其俗，寬則隨畜，因射獵禽獸爲生業，急則人習戰攻以侵伐，其天性也。其長兵則弓矢，短兵則刀鋋。⟦17⟧⟦18⟧利則進，不利則退，不羞遁走。苟利所在，不知禮義。自君王以下，咸食畜肉，衣其皮革，被旃裘。壯者食肥美，老者食其餘。貴壯健，賤老弱。父死，妻其後母；兄弟死，皆取其妻妻之。其俗有名不諱，而無姓字。⟦19⟧⟦20⟧",
+      "mentions": [
+        {
+          "start": 15,
+          "end": 17,
+          "name": "淳維",
+          "category": "persons"
+        }
+      ]
+    },
+    {
+      "para_id": "p2",
+      "text": "夏道衰，而公劉失其稷官，⟦0⟧⟦1⟧變于西戎，邑于豳。其後三百有餘歲，戎狄攻大王亶父，⟦2⟧亶父亡走岐下，而豳人悉從亶父而邑焉，作周。⟦3⟧其後百有餘歲，周西伯昌伐畎夷氏。⟦4⟧後十有餘年，武王伐紂而營雒邑，復居于酆鄗，放逐戎夷涇、洛之北，⟦5⟧以時入貢，命曰「荒服」。其後二百有餘年，周道衰，⟦6⟧而穆王伐犬戎，得四白狼四白鹿以歸。自是之後，荒服不至。於是周遂作甫刑之辟。穆王之後二百有餘年，周幽王用寵姬襃姒之故，與申侯有郤。⟦7⟧申侯怒而與犬戎共攻殺周幽王于驪山之下，⟦8⟧遂取周之焦穫，⟦9⟧而居于涇渭之間，侵暴中國。秦襄公救周，於是周平王去酆鄗而東徙雒邑。當是之時，秦襄公伐戎至岐，始列爲諸侯。⟦10⟧是後六十有五年，而山戎越燕而伐齊，⟦11⟧齊釐公與戰于齊郊。⟦12⟧其後四十四年，而山戎伐燕。燕告急于齊，齊桓公北伐山戎，山戎走。其後二十有餘年，而戎狄至洛邑，伐周襄王，襄王奔于鄭之氾邑。⟦13⟧初，周襄王欲伐鄭，故娶戎狄女爲后，與戎狄兵共伐鄭。已而黜狄后，狄后怨，而襄王後母曰惠后，有子子帶，欲立之，於是惠后與狄后、子帶爲內應，開戎狄，戎狄以故得入，破逐周襄王，而立子帶爲天子。於是戎狄或居于陸渾，⟦14⟧⟦15⟧東至於衞，侵盜暴虐中國。中國疾之，故詩人歌之曰「戎狄是應」，「薄伐獫狁，至於大原」，⟦16⟧「出輿彭彭，城彼朔方」。⟦17⟧⟦18⟧周襄王旣居外四年，乃使使告急于晉。晉文公初立，欲修霸業，乃興師伐逐戎翟，誅子帶，迎內周襄王，居于雒邑。",
+      "mentions": [
+        {
+          "start": 5,
+          "end": 7,
+          "name": "公劉",
+          "category": "persons"
+        },
+        {
+          "start": 38,
+          "end": 42,
+          "name": "大王亶父",
+          "category": "persons"
+        },
+        {
+          "start": 46,
+          "end": 48,
+          "name": "亶父",
+          "category": "persons"
+        },
+        {
+          "start": 50,
+          "end": 52,
+          "name": "岐下",
+          "category": "places"
+        },
+        {
+          "start": 58,
+          "end": 60,
+          "name": "亶父",
+          "category": "persons"
+        },
+        {
+          "start": 77,
+          "end": 81,
+          "name": "周西伯昌",
+          "category": "persons"
+        },
+        {
+          "start": 95,
+          "end": 97,
+          "name": "武王",
+          "category": "persons"
+        },
+        {
+          "start": 101,
+          "end": 103,
+          "name": "雒邑",
+          "category": "places"
+        },
+        {
+          "start": 107,
+          "end": 109,
+          "name": "酆鄗",
+          "category": "places"
+        },
+        {
+          "start": 114,
+          "end": 117,
+          "name": "涇、洛",
+          "category": "places"
+        },
+        {
+          "start": 131,
+          "end": 133,
+          "name": "荒服",
+          "category": "concepts"
+        },
+        {
+          "start": 151,
+          "end": 156,
+          "name": "穆王伐犬戎",
+          "category": "events"
+        },
+        {
+          "start": 172,
+          "end": 174,
+          "name": "荒服",
+          "category": "concepts"
+        },
+        {
+          "start": 187,
+          "end": 189,
+          "name": "穆王",
+          "category": "persons"
+        },
+        {
+          "start": 197,
+          "end": 200,
+          "name": "周幽王",
+          "category": "persons"
+        },
+        {
+          "start": 203,
+          "end": 205,
+          "name": "襃姒",
+          "category": "persons"
+        },
+        {
+          "start": 209,
+          "end": 211,
+          "name": "申侯",
+          "category": "persons"
+        },
+        {
+          "start": 217,
+          "end": 219,
+          "name": "申侯",
+          "category": "persons"
+        },
+        {
+          "start": 227,
+          "end": 230,
+          "name": "周幽王",
+          "category": "persons"
+        },
+        {
+          "start": 231,
+          "end": 233,
+          "name": "驪山",
+          "category": "places"
+        },
+        {
+          "start": 243,
+          "end": 245,
+          "name": "焦穫",
+          "category": "places"
+        },
+        {
+          "start": 262,
+          "end": 265,
+          "name": "秦襄公",
+          "category": "persons"
+        },
+        {
+          "start": 270,
+          "end": 273,
+          "name": "周平王",
+          "category": "persons"
+        },
+        {
+          "start": 274,
+          "end": 276,
+          "name": "酆鄗",
+          "category": "places"
+        },
+        {
+          "start": 279,
+          "end": 281,
+          "name": "雒邑",
+          "category": "places"
+        },
+        {
+          "start": 287,
+          "end": 290,
+          "name": "秦襄公",
+          "category": "persons"
+        },
+        {
+          "start": 326,
+          "end": 329,
+          "name": "齊釐公",
+          "category": "persons"
+        },
+        {
+          "start": 358,
+          "end": 361,
+          "name": "齊桓公",
+          "category": "persons"
+        },
+        {
+          "start": 361,
+          "end": 365,
+          "name": "北伐山戎",
+          "category": "events"
+        },
+        {
+          "start": 382,
+          "end": 384,
+          "name": "洛邑",
+          "category": "places"
+        },
+        {
+          "start": 386,
+          "end": 389,
+          "name": "周襄王",
+          "category": "persons"
+        },
+        {
+          "start": 390,
+          "end": 392,
+          "name": "襄王",
+          "category": "persons"
+        },
+        {
+          "start": 405,
+          "end": 408,
+          "name": "周襄王",
+          "category": "persons"
+        },
+        {
+          "start": 439,
+          "end": 441,
+          "name": "襄王",
+          "category": "persons"
+        },
+        {
+          "start": 444,
+          "end": 446,
+          "name": "惠后",
+          "category": "persons"
+        },
+        {
+          "start": 449,
+          "end": 451,
+          "name": "子帶",
+          "category": "persons"
+        },
+        {
+          "start": 458,
+          "end": 460,
+          "name": "惠后",
+          "category": "persons"
+        },
+        {
+          "start": 464,
+          "end": 466,
+          "name": "子帶",
+          "category": "persons"
+        },
+        {
+          "start": 483,
+          "end": 486,
+          "name": "周襄王",
+          "category": "persons"
+        },
+        {
+          "start": 489,
+          "end": 491,
+          "name": "子帶",
+          "category": "persons"
+        },
+        {
+          "start": 502,
+          "end": 504,
+          "name": "陸渾",
+          "category": "places"
+        },
+        {
+          "start": 567,
+          "end": 569,
+          "name": "朔方",
+          "category": "places"
+        },
+        {
+          "start": 579,
+          "end": 582,
+          "name": "周襄王",
+          "category": "persons"
+        },
+        {
+          "start": 596,
+          "end": 599,
+          "name": "晉文公",
+          "category": "persons"
+        },
+        {
+          "start": 616,
+          "end": 618,
+          "name": "子帶",
+          "category": "persons"
+        },
+        {
+          "start": 621,
+          "end": 624,
+          "name": "周襄王",
+          "category": "persons"
+        },
+        {
+          "start": 627,
+          "end": 629,
+          "name": "雒邑",
+          "category": "places"
+        }
+      ]
+    },
+    {
+      "para_id": "p3",
+      "text": "當是之時，秦晉爲彊國。晉文公攘戎翟，居于河西圁、洛之間，⟦0⟧⟦1⟧⟦2⟧號曰赤翟、⟦3⟧白翟。⟦4⟧⟦5⟧秦穆公得由余，西戎八國服於秦，故自隴以西有緜諸、⟦6⟧⟦7⟧緄戎、⟦8⟧翟、䝠之戎，⟦9⟧⟦10⟧⟦11⟧岐、梁山、涇、漆之北有義渠、⟦12⟧⟦13⟧大荔、⟦14⟧⟦15⟧⟦16⟧烏氏、⟦17⟧⟦18⟧朐衍之戎。⟦19⟧⟦20⟧⟦21⟧而晉北有林胡、⟦22⟧⟦23⟧樓煩之戎，⟦24⟧⟦25⟧燕北有東胡、山戎。⟦26⟧⟦27⟧各分散居谿谷，自有君長，徃徃而聚者百有餘戎，然莫能相一。",
+      "mentions": [
+        {
+          "start": 11,
+          "end": 14,
+          "name": "晉文公",
+          "category": "persons"
+        },
+        {
+          "start": 22,
+          "end": 25,
+          "name": "圁、洛",
+          "category": "places"
+        }
+      ]
+    },
+    {
+      "para_id": "p4",
+      "text": "自是之後百有餘年，晉悼公使魏絳和戎翟，戎翟朝晉。後百有餘年，趙襄子踰句注⟦0⟧⟦1⟧而破并代以臨胡貉。⟦2⟧其後旣與韓魏共滅智伯，分晉地而有之，則趙有代、句注之北，魏有河西、上郡，以與戎界邊。其後義渠之戎築城郭以自守，而秦稍蠶食，至於惠王，遂拔義渠二十五城。惠王擊魏，魏盡入西河及上郡于秦。秦昭王時，義渠戎王與宣太后⟦3⟧亂，有二子。宣太后詐而殺義渠戎王於甘泉，遂起兵伐殘義渠。於是秦有隴西、北地、上郡，築長城以拒胡。而趙武靈王亦變俗胡服，習騎射，北破林胡、樓煩。築長城，⟦4⟧自代並⟦5⟧陰山下，⟦6⟧⟦7⟧至高闕爲塞。⟦8⟧⟦9⟧而置雲中、鴈門、代郡。其後燕有賢將秦開，爲質於胡，胡甚信之。歸而襲破走東胡，東胡郤千餘里。與荊軻刺秦王秦舞陽者，開之孫也。燕亦築長城，自造陽⟦10⟧⟦11⟧至襄平。⟦12⟧置上谷、漁陽、右北平、遼西、遼東郡以拒胡。當是之時，冠帶戰國七，而三國邊於匈奴。⟦13⟧其後趙將李牧時，匈奴不敢入趙邊。後秦滅六國，而始皇帝使蒙恬將十萬之衆北擊胡，悉收河南地。因河爲塞，⟦14⟧築四十四縣城臨河，徙適戍以充之。⟦15⟧而通直道，⟦16⟧自九原至雲陽，⟦17⟧⟦18⟧因邊山險壍谿谷可繕者治之，起臨洮至遼東萬餘里。⟦19⟧⟦20⟧又度河據陽山北假中。⟦21⟧⟦22⟧⟦23⟧",
+      "mentions": [
+        {
+          "start": 13,
+          "end": 15,
+          "name": "魏絳",
+          "category": "persons"
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "name": "趙襄子",
+          "category": "persons"
+        },
+        {
+          "start": 34,
+          "end": 36,
+          "name": "句注",
+          "category": "places"
+        },
+        {
+          "start": 77,
+          "end": 79,
+          "name": "句注",
+          "category": "places"
+        },
+        {
+          "start": 117,
+          "end": 119,
+          "name": "惠王",
+          "category": "persons"
+        },
+        {
+          "start": 129,
+          "end": 131,
+          "name": "惠王",
+          "category": "persons"
+        },
+        {
+          "start": 155,
+          "end": 158,
+          "name": "宣太后",
+          "category": "persons"
+        },
+        {
+          "start": 167,
+          "end": 170,
+          "name": "宣太后",
+          "category": "persons"
+        },
+        {
+          "start": 178,
+          "end": 180,
+          "name": "甘泉",
+          "category": "places"
+        },
+        {
+          "start": 193,
+          "end": 201,
+          "name": "隴西、北地、上郡",
+          "category": "places"
+        },
+        {
+          "start": 210,
+          "end": 214,
+          "name": "趙武靈王",
+          "category": "persons"
+        },
+        {
+          "start": 245,
+          "end": 247,
+          "name": "陰山",
+          "category": "places"
+        },
+        {
+          "start": 256,
+          "end": 258,
+          "name": "高闕",
+          "category": "places"
+        },
+        {
+          "start": 269,
+          "end": 277,
+          "name": "雲中、鴈門、代郡",
+          "category": "places"
+        },
+        {
+          "start": 284,
+          "end": 286,
+          "name": "秦開",
+          "category": "persons"
+        },
+        {
+          "start": 318,
+          "end": 321,
+          "name": "秦舞陽",
+          "category": "persons"
+        },
+        {
+          "start": 354,
+          "end": 369,
+          "name": "上谷、漁陽、右北平、遼西、遼東",
+          "category": "places"
+        },
+        {
+          "start": 401,
+          "end": 403,
+          "name": "李牧",
+          "category": "persons"
+        },
+        {
+          "start": 420,
+          "end": 423,
+          "name": "始皇帝",
+          "category": "persons"
+        },
+        {
+          "start": 424,
+          "end": 426,
+          "name": "蒙恬",
+          "category": "persons"
+        },
+        {
+          "start": 437,
+          "end": 440,
+          "name": "河南地",
+          "category": "places"
+        },
+        {
+          "start": 472,
+          "end": 474,
+          "name": "直道",
+          "category": "concepts"
+        }
+      ]
+    },
+    {
+      "para_id": "p5",
+      "text": "當是之時，東胡彊而月氏盛。⟦0⟧匈奴單于⟦1⟧⟦2⟧曰頭曼，⟦3⟧⟦4⟧頭曼不勝秦，北徙。十餘年而蒙恬死，諸侯畔秦，中國擾亂，諸秦所徙適戍邊者皆復去，於是匈奴得寬，復稍度河南與中國界於故塞。",
+      "mentions": [
+        {
+          "start": 18,
+          "end": 20,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 27,
+          "end": 29,
+          "name": "頭曼",
+          "category": "persons"
+        },
+        {
+          "start": 36,
+          "end": 38,
+          "name": "頭曼",
+          "category": "persons"
+        },
+        {
+          "start": 49,
+          "end": 51,
+          "name": "蒙恬",
+          "category": "persons"
+        }
+      ]
+    },
+    {
+      "para_id": "p6",
+      "text": "單于有太子名冐頓。⟦0⟧後有所愛閼氏，⟦1⟧生少子，而單于欲廢冐頓而立少子，乃使冐頓質於月氏。冐頓旣質於月氏，而頭曼急擊月氏。月氏欲殺冐頓，冐頓盜其善馬，騎之亡歸。頭曼以爲壯，令將萬騎。冐頓乃作爲鳴鏑，⟦2⟧⟦3⟧習勒其騎射，令曰：「鳴鏑所射而不悉射者，斬之。」行獵鳥獸，有不射鳴鏑所射者，輒斬之。已而冐頓以鳴鏑自射其善馬，左右或不敢射者，冐頓立斬不射善馬者。居頃之，復以鳴鏑自射其愛妻，左右或頗恐，不敢射，冐頓又復斬之。居頃之，冐頓出獵，以鳴鏑射單于善馬，左右皆射之。於是冐頓知其左右皆可用。從其父單于頭曼獵，以鳴鏑射頭曼，其左右亦皆隨鳴鏑而射殺單于頭曼，遂盡誅其後母與弟及大臣不聽從者。冐頓自立爲單于。",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 2,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 6,
+          "end": 8,
+          "name": "冐頓",
+          "category": "persons"
+        },
+        {
+          "start": 16,
+          "end": 18,
+          "name": "閼氏",
+          "category": "persons"
+        },
+        {
+          "start": 27,
+          "end": 29,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 31,
+          "end": 33,
+          "name": "冐頓",
+          "category": "persons"
+        },
+        {
+          "start": 40,
+          "end": 42,
+          "name": "冐頓",
+          "category": "persons"
+        },
+        {
+          "start": 47,
+          "end": 49,
+          "name": "冐頓",
+          "category": "persons"
+        },
+        {
+          "start": 56,
+          "end": 58,
+          "name": "頭曼",
+          "category": "persons"
+        },
+        {
+          "start": 67,
+          "end": 69,
+          "name": "冐頓",
+          "category": "persons"
+        },
+        {
+          "start": 70,
+          "end": 72,
+          "name": "冐頓",
+          "category": "persons"
+        },
+        {
+          "start": 82,
+          "end": 84,
+          "name": "頭曼",
+          "category": "persons"
+        },
+        {
+          "start": 90,
+          "end": 92,
+          "name": "萬騎",
+          "category": "concepts"
+        },
+        {
+          "start": 93,
+          "end": 95,
+          "name": "冐頓",
+          "category": "persons"
+        },
+        {
+          "start": 98,
+          "end": 100,
+          "name": "鳴鏑",
+          "category": "concepts"
+        },
+        {
+          "start": 117,
+          "end": 119,
+          "name": "鳴鏑",
+          "category": "concepts"
+        },
+        {
+          "start": 139,
+          "end": 141,
+          "name": "鳴鏑",
+          "category": "concepts"
+        },
+        {
+          "start": 151,
+          "end": 153,
+          "name": "冐頓",
+          "category": "persons"
+        },
+        {
+          "start": 154,
+          "end": 156,
+          "name": "鳴鏑",
+          "category": "concepts"
+        },
+        {
+          "start": 170,
+          "end": 172,
+          "name": "冐頓",
+          "category": "persons"
+        },
+        {
+          "start": 186,
+          "end": 188,
+          "name": "鳴鏑",
+          "category": "concepts"
+        },
+        {
+          "start": 204,
+          "end": 206,
+          "name": "冐頓",
+          "category": "persons"
+        },
+        {
+          "start": 215,
+          "end": 217,
+          "name": "冐頓",
+          "category": "persons"
+        },
+        {
+          "start": 221,
+          "end": 223,
+          "name": "鳴鏑",
+          "category": "concepts"
+        },
+        {
+          "start": 224,
+          "end": 226,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 237,
+          "end": 239,
+          "name": "冐頓",
+          "category": "persons"
+        },
+        {
+          "start": 250,
+          "end": 252,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 252,
+          "end": 254,
+          "name": "頭曼",
+          "category": "persons"
+        },
+        {
+          "start": 257,
+          "end": 259,
+          "name": "鳴鏑",
+          "category": "concepts"
+        },
+        {
+          "start": 260,
+          "end": 262,
+          "name": "頭曼",
+          "category": "persons"
+        },
+        {
+          "start": 269,
+          "end": 271,
+          "name": "鳴鏑",
+          "category": "concepts"
+        },
+        {
+          "start": 274,
+          "end": 276,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 276,
+          "end": 278,
+          "name": "頭曼",
+          "category": "persons"
+        },
+        {
+          "start": 295,
+          "end": 297,
+          "name": "冐頓",
+          "category": "persons"
+        },
+        {
+          "start": 300,
+          "end": 302,
+          "name": "單于",
+          "category": "concepts"
+        }
+      ]
+    },
+    {
+      "para_id": "p7",
+      "text": "冐頓旣立，⟦0⟧是時東胡彊盛，聞冐頓殺父自立，乃使使謂冐頓，欲得頭曼時有千里馬。冒頓問羣臣，羣臣皆曰：「千里馬，匈奴寶馬也，勿與。」冒頓曰：「奈何與人鄰國而愛一馬乎？」遂與之千里馬。居頃之，東胡以爲冒頓畏之，乃使使謂冒頓，欲得單于一閼氏。冒頓復問左右，左右皆怒曰：「東胡無道，乃求閼氏！請擊之。」冒頓曰：「奈何與人鄰國愛一女子乎？」遂取所愛閼氏予東胡。東胡王愈益驕，西侵。與匈奴間，中有弃地，莫居，千餘里，各居其邊爲甌脫。⟦1⟧⟦2⟧⟦3⟧東胡使使謂冒頓曰：「匈奴所與我界甌脫外弃地，匈奴非能至也，吾欲有之。」冒頓問羣臣，羣臣或曰：「此弃地，予之亦可，勿予亦可。」於是冒頓大怒曰：「地者，國之本也，奈何予之！」諸言予之者，皆斬之。冒頓上馬，令國中有後者斬，遂東襲擊東胡。東胡初輕冒頓，不爲備。及冒頓以兵至，擊，大破滅東胡王，而虜其民人及畜產。旣歸，西擊走月氏，南并樓煩、白羊河南王。⟦4⟧侵燕代，悉復收秦所使蒙恬所奪匈奴地者，與漢關故河南塞，至朝那、膚施，⟦5⟧⟦6⟧遂侵燕、代。是時漢兵與項羽相距，中國罷於兵革，以故冒頓得自彊，控弦之士三十餘萬。",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 2,
+          "name": "冐頓",
+          "category": "persons"
+        },
+        {
+          "start": 16,
+          "end": 18,
+          "name": "冐頓",
+          "category": "persons"
+        },
+        {
+          "start": 27,
+          "end": 29,
+          "name": "冐頓",
+          "category": "persons"
+        },
+        {
+          "start": 32,
+          "end": 34,
+          "name": "頭曼",
+          "category": "persons"
+        },
+        {
+          "start": 40,
+          "end": 42,
+          "name": "冒頓",
+          "category": "persons"
+        },
+        {
+          "start": 66,
+          "end": 68,
+          "name": "冒頓",
+          "category": "persons"
+        },
+        {
+          "start": 99,
+          "end": 101,
+          "name": "冒頓",
+          "category": "persons"
+        },
+        {
+          "start": 108,
+          "end": 110,
+          "name": "冒頓",
+          "category": "persons"
+        },
+        {
+          "start": 113,
+          "end": 115,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 116,
+          "end": 118,
+          "name": "閼氏",
+          "category": "persons"
+        },
+        {
+          "start": 119,
+          "end": 121,
+          "name": "冒頓",
+          "category": "persons"
+        },
+        {
+          "start": 140,
+          "end": 142,
+          "name": "閼氏",
+          "category": "persons"
+        },
+        {
+          "start": 148,
+          "end": 150,
+          "name": "冒頓",
+          "category": "persons"
+        },
+        {
+          "start": 170,
+          "end": 172,
+          "name": "閼氏",
+          "category": "persons"
+        },
+        {
+          "start": 208,
+          "end": 210,
+          "name": "甌脫",
+          "category": "concepts"
+        },
+        {
+          "start": 225,
+          "end": 227,
+          "name": "冒頓",
+          "category": "persons"
+        },
+        {
+          "start": 236,
+          "end": 238,
+          "name": "甌脫",
+          "category": "concepts"
+        },
+        {
+          "start": 255,
+          "end": 257,
+          "name": "冒頓",
+          "category": "persons"
+        },
+        {
+          "start": 284,
+          "end": 286,
+          "name": "冒頓",
+          "category": "persons"
+        },
+        {
+          "start": 315,
+          "end": 317,
+          "name": "冒頓",
+          "category": "persons"
+        },
+        {
+          "start": 339,
+          "end": 341,
+          "name": "冒頓",
+          "category": "persons"
+        },
+        {
+          "start": 347,
+          "end": 349,
+          "name": "冒頓",
+          "category": "persons"
+        },
+        {
+          "start": 385,
+          "end": 390,
+          "name": "白羊河南王",
+          "category": "persons"
+        },
+        {
+          "start": 404,
+          "end": 406,
+          "name": "蒙恬",
+          "category": "persons"
+        },
+        {
+          "start": 422,
+          "end": 424,
+          "name": "朝那",
+          "category": "places"
+        },
+        {
+          "start": 425,
+          "end": 427,
+          "name": "膚施",
+          "category": "places"
+        },
+        {
+          "start": 459,
+          "end": 461,
+          "name": "冒頓",
+          "category": "persons"
+        }
+      ]
+    },
+    {
+      "para_id": "p8",
+      "text": "自淳維以至頭曼千有餘歲，時大時小，別散分離，尚矣，其世傳不可得而次云。然至冒頓而匈奴最彊大，盡服從北夷，而南與中國爲敵國，其世傳國官號乃可得而記云。",
+      "mentions": [
+        {
+          "start": 1,
+          "end": 3,
+          "name": "淳維",
+          "category": "persons"
+        },
+        {
+          "start": 5,
+          "end": 7,
+          "name": "頭曼",
+          "category": "persons"
+        },
+        {
+          "start": 37,
+          "end": 39,
+          "name": "冒頓",
+          "category": "persons"
+        }
+      ]
+    },
+    {
+      "para_id": "p9",
+      "text": "置左右賢王，左右谷蠡王，⟦0⟧⟦1⟧左右大將，左右大都尉，左右大當戶，左右骨都侯。⟦2⟧⟦3⟧匈奴謂賢曰「屠耆」，⟦4⟧故常以太子爲左屠耆王。自如左右賢王以下至當戶，大者萬騎，小者數千，凡二十四長，立號曰「萬騎」。諸大臣皆世官。呼衍氏，蘭氏，⟦5⟧其後有須卜氏，⟦6⟧⟦7⟧⟦8⟧此三姓其貴種也。諸左方王將居東方，直上谷⟦9⟧⟦10⟧以徃者，東接穢貉、朝鮮；右方王將居西方，直上郡⟦11⟧以西，接月氏、氐、羌；⟦12⟧而單于之庭直代、雲中：⟦13⟧⟦14⟧各有分地，逐水草移徙。而左右賢王、左右谷蠡王最爲大國，左右骨都侯輔政。諸二十四長亦各自置千長、百長、什長、⟦15⟧裨小王、相、封⟦16⟧都尉、當戶、且渠之屬。⟦17⟧",
+      "mentions": [
+        {
+          "start": 2,
+          "end": 5,
+          "name": "右賢王",
+          "category": "persons"
+        },
+        {
+          "start": 74,
+          "end": 77,
+          "name": "右賢王",
+          "category": "persons"
+        },
+        {
+          "start": 85,
+          "end": 87,
+          "name": "萬騎",
+          "category": "concepts"
+        },
+        {
+          "start": 94,
+          "end": 98,
+          "name": "二十四長",
+          "category": "concepts"
+        },
+        {
+          "start": 103,
+          "end": 105,
+          "name": "萬騎",
+          "category": "concepts"
+        },
+        {
+          "start": 210,
+          "end": 212,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 241,
+          "end": 244,
+          "name": "右賢王",
+          "category": "persons"
+        },
+        {
+          "start": 264,
+          "end": 268,
+          "name": "二十四長",
+          "category": "concepts"
+        }
+      ]
+    },
+    {
+      "para_id": "p10",
+      "text": "歲正月，諸長小會單于庭，祠。五月，大會蘢城，⟦0⟧祭其先、天地、鬼神。秋，馬肥，大會蹛林，⟦1⟧⟦2⟧⟦3⟧課校人畜⟦4⟧計。其法，拔刃尺者死，坐盜者沒入其家；有罪小者軋，⟦5⟧⟦6⟧⟦7⟧大者死。獄久者不過十日，一國之囚不過數人。而單于朝出營，拜日之始生，夕拜月。其坐，長左而北鄉。⟦8⟧日上戊己。其送死，有棺槨金銀衣裘，而無封樹喪服；⟦9⟧近幸臣妾從死者，多至數千百人。⟦10⟧舉事而候星月，月盛壯則攻戰，月虧則退兵。其攻戰，斬首虜賜一巵酒，而所得鹵獲因以予之，得人以爲奴婢。故其戰，人人自爲趣利，善爲誘兵以冒敵。故其見敵則逐利，如鳥之集；其困敗，則瓦解雲散矣。戰而扶輿死者，盡得死者家財。",
+      "mentions": [
+        {
+          "start": 8,
+          "end": 10,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 19,
+          "end": 21,
+          "name": "蘢城",
+          "category": "places"
+        },
+        {
+          "start": 42,
+          "end": 44,
+          "name": "蹛林",
+          "category": "places"
+        },
+        {
+          "start": 117,
+          "end": 119,
+          "name": "單于",
+          "category": "concepts"
+        }
+      ]
+    },
+    {
+      "para_id": "p11",
+      "text": "後北服渾庾、屈射、丁零、⟦0⟧鬲昆、薪犁之國。⟦1⟧於是匈奴貴人大臣皆服，以冒頓單于爲賢。",
+      "mentions": [
+        {
+          "start": 38,
+          "end": 42,
+          "name": "冒頓單于",
+          "category": "persons"
+        }
+      ]
+    },
+    {
+      "para_id": "p12",
+      "text": "是時漢初定中國，徙韓王信於代，都馬邑。匈奴大攻圍馬邑，韓王信降匈奴。匈奴得信，因引兵南踰句注，攻太原，至晉陽下。高帝自將兵徃擊之。會冬大寒雨雪，卒之墮指者十二三，於是冒頓詳敗走，誘漢兵。漢兵逐擊冒頓，冒頓匿其精兵，見其羸弱，於是漢悉兵，多步兵，三十二萬，北逐之。高帝先至平城，⟦0⟧步兵未盡到，冒頓縱精兵四十萬騎圍高帝於白登，⟦1⟧七日，漢兵中外不得相救餉。匈奴騎，其西方盡白馬，東方盡青駹馬，⟦2⟧⟦3⟧北方盡烏驪馬，⟦4⟧南方盡騂馬。⟦5⟧高帝乃使使間厚遺閼氏，閼氏乃謂冒頓曰：「兩主不相困。今得漢地，而單于終非能居之也。且漢王亦有神，單于察之。」冒頓與韓王信之將王黃、趙利期，而黃、利兵又不來，疑其與漢有謀，亦取閼氏之言，乃解圍之一角。於是高帝令士皆持滿傅矢外鄉，⟦6⟧從解角直出，竟與大軍合，而冒頓遂引兵而去。漢亦引兵而罷，使劉敬結和親之約。",
+      "mentions": [
+        {
+          "start": 9,
+          "end": 12,
+          "name": "韓王信",
+          "category": "persons"
+        },
+        {
+          "start": 16,
+          "end": 18,
+          "name": "馬邑",
+          "category": "places"
+        },
+        {
+          "start": 24,
+          "end": 26,
+          "name": "馬邑",
+          "category": "places"
+        },
+        {
+          "start": 27,
+          "end": 30,
+          "name": "韓王信",
+          "category": "persons"
+        },
+        {
+          "start": 44,
+          "end": 46,
+          "name": "句注",
+          "category": "places"
+        },
+        {
+          "start": 56,
+          "end": 58,
+          "name": "高帝",
+          "category": "persons"
+        },
+        {
+          "start": 83,
+          "end": 85,
+          "name": "冒頓",
+          "category": "persons"
+        },
+        {
+          "start": 97,
+          "end": 99,
+          "name": "冒頓",
+          "category": "persons"
+        },
+        {
+          "start": 100,
+          "end": 102,
+          "name": "冒頓",
+          "category": "persons"
+        },
+        {
+          "start": 131,
+          "end": 133,
+          "name": "高帝",
+          "category": "persons"
+        },
+        {
+          "start": 135,
+          "end": 137,
+          "name": "平城",
+          "category": "places"
+        },
+        {
+          "start": 147,
+          "end": 149,
+          "name": "冒頓",
+          "category": "persons"
+        },
+        {
+          "start": 154,
+          "end": 156,
+          "name": "萬騎",
+          "category": "concepts"
+        },
+        {
+          "start": 157,
+          "end": 159,
+          "name": "高帝",
+          "category": "persons"
+        },
+        {
+          "start": 160,
+          "end": 162,
+          "name": "白登",
+          "category": "places"
+        },
+        {
+          "start": 222,
+          "end": 224,
+          "name": "高帝",
+          "category": "persons"
+        },
+        {
+          "start": 230,
+          "end": 232,
+          "name": "閼氏",
+          "category": "persons"
+        },
+        {
+          "start": 233,
+          "end": 235,
+          "name": "閼氏",
+          "category": "persons"
+        },
+        {
+          "start": 237,
+          "end": 239,
+          "name": "冒頓",
+          "category": "persons"
+        },
+        {
+          "start": 254,
+          "end": 256,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 264,
+          "end": 266,
+          "name": "漢王",
+          "category": "persons"
+        },
+        {
+          "start": 270,
+          "end": 272,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 276,
+          "end": 278,
+          "name": "冒頓",
+          "category": "persons"
+        },
+        {
+          "start": 279,
+          "end": 282,
+          "name": "韓王信",
+          "category": "persons"
+        },
+        {
+          "start": 309,
+          "end": 311,
+          "name": "閼氏",
+          "category": "persons"
+        },
+        {
+          "start": 323,
+          "end": 325,
+          "name": "高帝",
+          "category": "persons"
+        },
+        {
+          "start": 351,
+          "end": 353,
+          "name": "冒頓",
+          "category": "persons"
+        },
+        {
+          "start": 367,
+          "end": 369,
+          "name": "劉敬",
+          "category": "persons"
+        },
+        {
+          "start": 370,
+          "end": 374,
+          "name": "和親之約",
+          "category": "events"
+        }
+      ]
+    },
+    {
+      "para_id": "p13",
+      "text": "是後韓王信爲匈奴將，及趙利、王黃等數倍約，侵盜代、雲中。居無幾何，陳豨反，又與韓信合謀擊代。漢使樊噲徃擊之，復拔代、鴈門、雲中郡縣，不出塞。是時匈奴以漢將衆徃降，故冒頓常徃來侵盜代地。於是漢患之，高帝乃使劉敬奉宗室女公主爲單于閼氏，歲奉匈奴絮繒酒米食物各有數，約爲昆弟以和親，冒頓乃少止。後燕王盧綰反，率其黨數千人降匈奴，往來苦上谷以東。",
+      "mentions": [
+        {
+          "start": 2,
+          "end": 5,
+          "name": "韓王信",
+          "category": "persons"
+        },
+        {
+          "start": 48,
+          "end": 50,
+          "name": "樊噲",
+          "category": "persons"
+        },
+        {
+          "start": 82,
+          "end": 84,
+          "name": "冒頓",
+          "category": "persons"
+        },
+        {
+          "start": 98,
+          "end": 100,
+          "name": "高帝",
+          "category": "persons"
+        },
+        {
+          "start": 102,
+          "end": 104,
+          "name": "劉敬",
+          "category": "persons"
+        },
+        {
+          "start": 111,
+          "end": 113,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 113,
+          "end": 115,
+          "name": "閼氏",
+          "category": "persons"
+        },
+        {
+          "start": 135,
+          "end": 137,
+          "name": "和親",
+          "category": "concepts"
+        },
+        {
+          "start": 138,
+          "end": 140,
+          "name": "冒頓",
+          "category": "persons"
+        },
+        {
+          "start": 147,
+          "end": 149,
+          "name": "盧綰",
+          "category": "persons"
+        }
+      ]
+    },
+    {
+      "para_id": "p14",
+      "text": "高祖崩，孝惠、呂太后時，漢初定，故匈奴以驕。冒頓乃爲書遺高后，妄言。高后欲擊之，⟦0⟧諸將曰：「以高帝賢武，然尚困於平城。」於是高后乃止，⟦1⟧復與匈奴和親。",
+      "mentions": [
+        {
+          "start": 4,
+          "end": 6,
+          "name": "孝惠",
+          "category": "persons"
+        },
+        {
+          "start": 7,
+          "end": 10,
+          "name": "呂太后",
+          "category": "persons"
+        },
+        {
+          "start": 22,
+          "end": 24,
+          "name": "冒頓",
+          "category": "persons"
+        },
+        {
+          "start": 28,
+          "end": 30,
+          "name": "高后",
+          "category": "persons"
+        },
+        {
+          "start": 34,
+          "end": 36,
+          "name": "高后",
+          "category": "persons"
+        },
+        {
+          "start": 49,
+          "end": 51,
+          "name": "高帝",
+          "category": "persons"
+        },
+        {
+          "start": 58,
+          "end": 60,
+          "name": "平城",
+          "category": "places"
+        },
+        {
+          "start": 64,
+          "end": 66,
+          "name": "高后",
+          "category": "persons"
+        },
+        {
+          "start": 76,
+          "end": 78,
+          "name": "和親",
+          "category": "concepts"
+        }
+      ]
+    },
+    {
+      "para_id": "p15",
+      "text": "至孝文帝初立，復脩和親之事。其三年五月，匈奴右賢王入居河南地，侵盜上郡葆塞蠻夷，殺略人民。於是孝文帝詔丞相灌嬰發車騎八萬五千，詣高奴，⟦0⟧擊右賢王。右賢王走出塞。文帝幸太原。是時濟北王反，文帝歸，罷丞相擊胡之兵。",
+      "mentions": [
+        {
+          "start": 1,
+          "end": 4,
+          "name": "孝文帝",
+          "category": "persons"
+        },
+        {
+          "start": 9,
+          "end": 11,
+          "name": "和親",
+          "category": "concepts"
+        },
+        {
+          "start": 22,
+          "end": 25,
+          "name": "右賢王",
+          "category": "persons"
+        },
+        {
+          "start": 27,
+          "end": 30,
+          "name": "河南地",
+          "category": "places"
+        },
+        {
+          "start": 47,
+          "end": 50,
+          "name": "孝文帝",
+          "category": "persons"
+        },
+        {
+          "start": 53,
+          "end": 55,
+          "name": "灌嬰",
+          "category": "persons"
+        },
+        {
+          "start": 71,
+          "end": 74,
+          "name": "右賢王",
+          "category": "persons"
+        },
+        {
+          "start": 75,
+          "end": 78,
+          "name": "右賢王",
+          "category": "persons"
+        },
+        {
+          "start": 82,
+          "end": 84,
+          "name": "文帝",
+          "category": "persons"
+        },
+        {
+          "start": 90,
+          "end": 93,
+          "name": "濟北王",
+          "category": "persons"
+        },
+        {
+          "start": 95,
+          "end": 97,
+          "name": "文帝",
+          "category": "persons"
+        }
+      ]
+    },
+    {
+      "para_id": "p16",
+      "text": "其明年，單于遺漢書曰：「天所立匈奴大單于敬問皇帝無恙。前時皇帝言和親事，稱書意，合歡。漢邊吏侵侮右賢王，右賢王不請，聽後義盧侯難氏⟦0⟧⟦1⟧等計，與漢吏相距，絕二主之約，離兄弟之親。皇帝讓書再至，發使以書報，不來，漢使不至，漢以其故不和，鄰國不附。今以小吏之敗約故，罰右賢王，使之西求月氏擊之。以天之福，吏卒良，馬彊力，以夷滅月氏，盡斬殺降下之。定樓蘭、⟦2⟧⟦3⟧烏孫、呼揭⟦4⟧⟦5⟧及其旁二十六國，皆以爲匈奴。⟦6⟧諸引弓之民，并爲一家。北州已定，願寢兵休士卒養馬，除前事，復故約，以安邊民，以應始古，使少者得成其長，老者安其處，世世平樂。未得皇帝之志也，故使郎中係雩淺奉書⟦7⟧⟦8⟧請，獻橐他一匹，騎馬二匹，駕二駟。⟦9⟧皇帝即不欲匈奴近塞，則且詔吏民遠舍。使者至，即遣之。」以六月中來至薪望之地。⟦10⟧⟦11⟧書至，漢議擊與和親孰便。公卿皆曰：「單于新破月氏，乘勝，不可擊。且得匈奴地，澤鹵，⟦12⟧非可居也。和親甚便。」漢許之。",
+      "mentions": [
+        {
+          "start": 4,
+          "end": 6,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 18,
+          "end": 20,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 22,
+          "end": 24,
+          "name": "皇帝",
+          "category": "persons"
+        },
+        {
+          "start": 29,
+          "end": 31,
+          "name": "皇帝",
+          "category": "persons"
+        },
+        {
+          "start": 32,
+          "end": 34,
+          "name": "和親",
+          "category": "concepts"
+        },
+        {
+          "start": 48,
+          "end": 51,
+          "name": "右賢王",
+          "category": "persons"
+        },
+        {
+          "start": 52,
+          "end": 55,
+          "name": "右賢王",
+          "category": "persons"
+        },
+        {
+          "start": 92,
+          "end": 94,
+          "name": "皇帝",
+          "category": "persons"
+        },
+        {
+          "start": 135,
+          "end": 138,
+          "name": "右賢王",
+          "category": "persons"
+        },
+        {
+          "start": 276,
+          "end": 278,
+          "name": "皇帝",
+          "category": "persons"
+        },
+        {
+          "start": 284,
+          "end": 289,
+          "name": "郎中係雩淺",
+          "category": "persons"
+        },
+        {
+          "start": 317,
+          "end": 319,
+          "name": "皇帝",
+          "category": "persons"
+        },
+        {
+          "start": 370,
+          "end": 372,
+          "name": "和親",
+          "category": "concepts"
+        },
+        {
+          "start": 381,
+          "end": 383,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 413,
+          "end": 415,
+          "name": "和親",
+          "category": "concepts"
+        }
+      ]
+    },
+    {
+      "para_id": "p17",
+      "text": "孝文皇帝前六年，漢遺匈奴書曰：「皇帝敬問匈奴大單于無恙。使郎中係雩淺遺朕書曰：『右賢王不請，聽後義盧侯難氏等計，絕二主之約，離兄弟之親，漢以故不和，鄰國不附。今以小吏敗約，故罰右賢王使西擊月氏，盡定之。願寢兵休士卒養馬，除前事，復故約，以安邊民，使少者得成其長，老者安其處，世世平樂。』朕甚嘉之，此古聖主之意也。漢與匈奴約爲兄弟，所以遺單于甚厚。倍約離兄弟之親者，常在匈奴。然右賢王事已在赦前，單于勿深誅。單于若稱書意，明告諸吏，使無負約，有信，敬如單于書。使者言單于自將伐國有功，甚苦兵事。服繡袷綺衣、繡袷長襦、⟦0⟧⟦1⟧錦袷袍各一，比余一，⟦2⟧⟦3⟧黃金飾具帶一，⟦4⟧黃金胥紕一，⟦5⟧⟦6⟧繡十匹，錦三十匹，赤綈、⟦7⟧⟦8⟧綠繒各四十匹，使中大夫意、謁者令肩遺單于。」",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 4,
+          "name": "孝文皇帝",
+          "category": "persons"
+        },
+        {
+          "start": 16,
+          "end": 18,
+          "name": "皇帝",
+          "category": "persons"
+        },
+        {
+          "start": 23,
+          "end": 25,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 29,
+          "end": 34,
+          "name": "郎中係雩淺",
+          "category": "persons"
+        },
+        {
+          "start": 40,
+          "end": 43,
+          "name": "右賢王",
+          "category": "persons"
+        },
+        {
+          "start": 88,
+          "end": 91,
+          "name": "右賢王",
+          "category": "persons"
+        },
+        {
+          "start": 168,
+          "end": 170,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 188,
+          "end": 191,
+          "name": "右賢王",
+          "category": "persons"
+        },
+        {
+          "start": 197,
+          "end": 199,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 203,
+          "end": 205,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 225,
+          "end": 227,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 232,
+          "end": 234,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 337,
+          "end": 339,
+          "name": "單于",
+          "category": "concepts"
+        }
+      ]
+    },
+    {
+      "para_id": "p18",
+      "text": "後頃之，冒頓死，子稽粥立，⟦0⟧號曰老上單于。",
+      "mentions": [
+        {
+          "start": 4,
+          "end": 6,
+          "name": "冒頓",
+          "category": "persons"
+        },
+        {
+          "start": 18,
+          "end": 22,
+          "name": "老上單于",
+          "category": "persons"
+        }
+      ]
+    },
+    {
+      "para_id": "p19",
+      "text": "老上稽粥單于初立，⟦0⟧孝文皇帝復遣宗室女公主爲單于閼氏，使宦者燕人中行說⟦1⟧傅公主。說不欲行，漢彊使之。說曰：「必我行也，爲漢患者。」中行說旣至，因降單于，單于甚親幸之。",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 6,
+          "name": "老上稽粥單于",
+          "category": "persons"
+        },
+        {
+          "start": 12,
+          "end": 16,
+          "name": "孝文皇帝",
+          "category": "persons"
+        },
+        {
+          "start": 24,
+          "end": 26,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 26,
+          "end": 28,
+          "name": "閼氏",
+          "category": "persons"
+        },
+        {
+          "start": 34,
+          "end": 37,
+          "name": "中行說",
+          "category": "persons"
+        },
+        {
+          "start": 69,
+          "end": 72,
+          "name": "中行說",
+          "category": "persons"
+        },
+        {
+          "start": 77,
+          "end": 79,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 80,
+          "end": 82,
+          "name": "單于",
+          "category": "concepts"
+        }
+      ]
+    },
+    {
+      "para_id": "p20",
+      "text": "初，匈奴好漢繒絮食物，中行說曰：「匈奴人衆不能當漢之一郡，然所以彊者，以衣食異，無仰於漢也。今單于變俗好漢物，漢物不過什二，則匈奴盡歸於漢矣。⟦0⟧其得漢繒絮，以馳草棘中，衣袴皆裂敝，以示不如旃裘之完善也。得漢食物皆去之，以示不如湩酪之便美也。」⟦1⟧⟦2⟧於是說教單于左右疏記，以計課其人衆畜物。⟦3⟧",
+      "mentions": [
+        {
+          "start": 11,
+          "end": 14,
+          "name": "中行說",
+          "category": "persons"
+        },
+        {
+          "start": 47,
+          "end": 49,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 133,
+          "end": 135,
+          "name": "單于",
+          "category": "concepts"
+        }
+      ]
+    },
+    {
+      "para_id": "p21",
+      "text": "漢遺單于書，牘以尺一寸，辭曰「皇帝敬問匈奴大單于無恙」，所遺物及言語云云。中行說令單于遺漢書以尺二寸牘，及印封皆令廣大長，倨傲其辭曰「天地所生日月所置匈奴大單于敬問漢皇帝無恙」，所以遺物言語亦云云。",
+      "mentions": [
+        {
+          "start": 2,
+          "end": 4,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 15,
+          "end": 17,
+          "name": "皇帝",
+          "category": "persons"
+        },
+        {
+          "start": 22,
+          "end": 24,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 37,
+          "end": 40,
+          "name": "中行說",
+          "category": "persons"
+        },
+        {
+          "start": 41,
+          "end": 43,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 78,
+          "end": 80,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 83,
+          "end": 85,
+          "name": "皇帝",
+          "category": "persons"
+        }
+      ]
+    },
+    {
+      "para_id": "p22",
+      "text": "漢使或言曰：「匈奴俗賤老。」中行說窮漢使曰：「而漢俗屯戍從軍當發者，其老親豈有不自脫溫厚肥美以齎送飲食行戍乎？」漢使曰：「然。」中行說曰：「匈奴明以戰攻爲事，其老弱不能鬬，故以其肥美飲食壯健者，盖以自爲守衞，如此父子各得久相保，何以言匈奴輕老也？」漢使曰：「匈奴父子乃同穹廬而卧。⟦0⟧父死，妻其後母；兄弟死，盡取其妻妻之。無冠帶之飾，闕庭之禮。」中行說曰：「匈奴之俗，人食畜肉，飲其汁，衣其皮；畜食草飲水，隨時轉移。故其急則人習騎射，寬則人樂無事，其約束輕，易行也。君臣簡易，一國之政猶一身也。父子兄弟死，取其妻妻之，惡種姓之失也。故匈奴雖亂，必立宗種。今中國雖詳⟦1⟧不取其父兄之妻，親屬益疏則相殺，至乃易姓，皆從此類。且禮義之敝，上下交怨望，而室屋之極，生力必屈。⟦2⟧夫力耕桑以求衣食，築城郭以自備，故其民急則不習戰功，緩則罷於作業。嗟土室之人，顧無多辭，令喋喋⟦3⟧而佔佔，⟦4⟧冠固何當？」⟦5⟧⟦6⟧",
+      "mentions": [
+        {
+          "start": 14,
+          "end": 17,
+          "name": "中行說",
+          "category": "persons"
+        },
+        {
+          "start": 64,
+          "end": 67,
+          "name": "中行說",
+          "category": "persons"
+        },
+        {
+          "start": 174,
+          "end": 177,
+          "name": "中行說",
+          "category": "persons"
+        }
+      ]
+    },
+    {
+      "para_id": "p23",
+      "text": "自是之後，漢使欲辯論者，中行說輒曰：「漢使無多言，顧漢所輸匈奴繒絮米糵，令其量中，必善美而己矣，何以爲言乎？且所給備善則已；不備，苦惡，⟦0⟧則候秋孰，以騎馳蹂而稼穡耳。」⟦1⟧日夜教單于候利害處。",
+      "mentions": [
+        {
+          "start": 12,
+          "end": 15,
+          "name": "中行說",
+          "category": "persons"
+        },
+        {
+          "start": 92,
+          "end": 94,
+          "name": "單于",
+          "category": "concepts"
+        }
+      ]
+    },
+    {
+      "para_id": "p24",
+      "text": "漢孝文皇帝十四年，匈奴單于十四萬騎入朝那、蕭關，殺北地都尉卬，⟦0⟧⟦1⟧虜人民畜產甚多，遂至彭陽。⟦2⟧⟦3⟧使奇兵入燒囬中宮，⟦4⟧⟦5⟧候騎至雍甘泉。⟦6⟧⟦7⟧於是文帝以中尉周舍、郎中令張武爲將軍，發車千乘，騎十萬，軍長安旁以備胡寇。而拜昌侯盧卿爲上郡將軍，⟦8⟧寗侯魏遬爲北地將軍，隆慮侯周竈爲隴西將軍，東陽侯張相如爲大將軍，成侯董赤⟦9⟧爲前將軍，大發車騎徃擊胡。⟦10⟧單于留塞內月餘乃去，漢逐出塞即還，不能有所殺。匈奴日已驕，歲入邊，殺略人民畜產甚多，雲中、遼東最甚，至代郡萬餘人。漢患之，乃使使遺匈奴書。單于亦使當戶報謝，復言和親事。",
+      "mentions": [
+        {
+          "start": 1,
+          "end": 5,
+          "name": "孝文皇帝",
+          "category": "persons"
+        },
+        {
+          "start": 11,
+          "end": 13,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 15,
+          "end": 17,
+          "name": "萬騎",
+          "category": "concepts"
+        },
+        {
+          "start": 18,
+          "end": 20,
+          "name": "朝那",
+          "category": "places"
+        },
+        {
+          "start": 21,
+          "end": 23,
+          "name": "蕭關",
+          "category": "places"
+        },
+        {
+          "start": 25,
+          "end": 30,
+          "name": "北地都尉卬",
+          "category": "persons"
+        },
+        {
+          "start": 47,
+          "end": 49,
+          "name": "彭陽",
+          "category": "places"
+        },
+        {
+          "start": 74,
+          "end": 77,
+          "name": "雍甘泉",
+          "category": "places"
+        },
+        {
+          "start": 86,
+          "end": 88,
+          "name": "文帝",
+          "category": "persons"
+        },
+        {
+          "start": 91,
+          "end": 93,
+          "name": "周舍",
+          "category": "persons"
+        },
+        {
+          "start": 97,
+          "end": 99,
+          "name": "張武",
+          "category": "persons"
+        },
+        {
+          "start": 123,
+          "end": 127,
+          "name": "昌侯盧卿",
+          "category": "persons"
+        },
+        {
+          "start": 136,
+          "end": 140,
+          "name": "寗侯魏遬",
+          "category": "persons"
+        },
+        {
+          "start": 146,
+          "end": 151,
+          "name": "隆慮侯周竈",
+          "category": "persons"
+        },
+        {
+          "start": 157,
+          "end": 163,
+          "name": "東陽侯張相如",
+          "category": "persons"
+        },
+        {
+          "start": 164,
+          "end": 167,
+          "name": "大將軍",
+          "category": "persons"
+        },
+        {
+          "start": 168,
+          "end": 172,
+          "name": "成侯董赤",
+          "category": "persons"
+        },
+        {
+          "start": 192,
+          "end": 194,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 261,
+          "end": 263,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 272,
+          "end": 274,
+          "name": "和親",
+          "category": "concepts"
+        }
+      ]
+    },
+    {
+      "para_id": "p25",
+      "text": "孝文帝後二年，使使遺匈奴書曰：「皇帝敬問匈奴大單于無恙。使當戶且居雕渠難、⟦0⟧⟦1⟧郎中韓遼遺朕馬二匹，已至，敬受。先帝制：長城以北，引弓之國，受命單于；長城以內，冠帶之室，朕亦制之。使萬民耕織射獵衣食，父子無離，臣主相安，俱無暴逆。今聞渫惡民貪降其進取之利，倍義絕約，忘萬民之命，離兩主之驩，然其事已在前矣。書曰：『二國已和親，兩主驩說，寢兵休卒養馬，世世昌樂，闟然更始。』⟦2⟧朕甚嘉之。聖人者日新，改作更始，使老者得息，幼者得長，各保其首領而終其天命。朕與單于俱由此道，順天恤民，世世相傳，施之無窮，天下莫不咸便。漢與匈奴鄰國之敵，匈奴處北地，寒，殺氣早降，故詔吏遺單于秫糵金帛絲絮佗物歲有數。今天下大安，萬民熙熙，朕與單于爲之父母。朕追念前事，薄物細故，謀臣計失，皆不足以離兄弟之驩。朕聞天不頗覆，地不偏載。朕與單于皆捐徃細故，俱蹈大道，墮壞前惡，以圖長久，使兩國之民若一家子。元元萬民，下及魚鼈，上及飛鳥，跂行喙息蠕動之類，⟦3⟧莫不就安利而辟危殆。故來者不止，天之道也。俱去前事：朕釋逃虜民，單于無言章尼等。⟦4⟧朕聞古之帝王，約分明而無食言。單于留志，天下大安，和親之後，漢過不先。單于其察之。」",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 3,
+          "name": "孝文帝",
+          "category": "persons"
+        },
+        {
+          "start": 16,
+          "end": 18,
+          "name": "皇帝",
+          "category": "persons"
+        },
+        {
+          "start": 23,
+          "end": 25,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 29,
+          "end": 36,
+          "name": "當戶且居雕渠難",
+          "category": "persons"
+        },
+        {
+          "start": 43,
+          "end": 47,
+          "name": "郎中韓遼",
+          "category": "persons"
+        },
+        {
+          "start": 75,
+          "end": 77,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 163,
+          "end": 165,
+          "name": "和親",
+          "category": "concepts"
+        },
+        {
+          "start": 232,
+          "end": 234,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 287,
+          "end": 289,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 314,
+          "end": 316,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 361,
+          "end": 363,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 453,
+          "end": 455,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 479,
+          "end": 481,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 489,
+          "end": 491,
+          "name": "和親",
+          "category": "concepts"
+        },
+        {
+          "start": 499,
+          "end": 501,
+          "name": "單于",
+          "category": "concepts"
+        }
+      ]
+    },
+    {
+      "para_id": "p26",
+      "text": "單于旣約和親，於是制詔御史曰：「匈奴大單于遺朕書，言和親已定，亡人不足以益衆廣地，匈奴無入塞，漢無出塞，犯令約者，殺之可以，久親後無咎，俱便。朕已許之。其布告天下，使明知之。」",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 2,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 4,
+          "end": 6,
+          "name": "和親",
+          "category": "concepts"
+        },
+        {
+          "start": 19,
+          "end": 21,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 26,
+          "end": 28,
+          "name": "和親",
+          "category": "concepts"
+        }
+      ]
+    },
+    {
+      "para_id": "p27",
+      "text": "後四歲，老上稽粥單于死，子軍臣立爲單于。旣立，⟦0⟧孝文皇帝復與匈奴和親。而中行說復事之。",
+      "mentions": [
+        {
+          "start": 4,
+          "end": 10,
+          "name": "老上稽粥單于",
+          "category": "persons"
+        },
+        {
+          "start": 17,
+          "end": 19,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 26,
+          "end": 30,
+          "name": "孝文皇帝",
+          "category": "persons"
+        },
+        {
+          "start": 34,
+          "end": 36,
+          "name": "和親",
+          "category": "concepts"
+        },
+        {
+          "start": 38,
+          "end": 41,
+          "name": "中行說",
+          "category": "persons"
+        }
+      ]
+    },
+    {
+      "para_id": "p28",
+      "text": "軍臣單于立四歲，⟦0⟧匈奴復絕和親，大入上郡、雲中各三萬騎，所殺略甚衆而去。於是漢使三將軍軍屯北地，代屯句注，趙屯飛狐口，緣邊亦各堅守以備胡寇。又置三將軍，軍長安西細栁、渭北棘門、霸上以備胡。胡騎入代句注邊，烽火通於甘泉、長安。數月，漢兵至邊，匈奴亦去遠塞，漢兵亦罷。後歲餘，孝文帝崩，孝景帝立，而趙王遂乃陰使人於匈奴。吳楚反，欲與趙合謀入邊。漢圍破趙，匈奴亦止。自是之後，孝景帝復與匈奴和親，通關市，給遺匈奴，遣公主，如故約。終孝景時，時小入盜邊，無大寇。",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 4,
+          "name": "軍臣單于",
+          "category": "persons"
+        },
+        {
+          "start": 15,
+          "end": 17,
+          "name": "和親",
+          "category": "concepts"
+        },
+        {
+          "start": 27,
+          "end": 29,
+          "name": "萬騎",
+          "category": "concepts"
+        },
+        {
+          "start": 52,
+          "end": 54,
+          "name": "句注",
+          "category": "places"
+        },
+        {
+          "start": 57,
+          "end": 60,
+          "name": "飛狐口",
+          "category": "places"
+        },
+        {
+          "start": 87,
+          "end": 89,
+          "name": "棘門",
+          "category": "places"
+        },
+        {
+          "start": 90,
+          "end": 92,
+          "name": "霸上",
+          "category": "places"
+        },
+        {
+          "start": 100,
+          "end": 102,
+          "name": "句注",
+          "category": "places"
+        },
+        {
+          "start": 108,
+          "end": 110,
+          "name": "甘泉",
+          "category": "places"
+        },
+        {
+          "start": 138,
+          "end": 141,
+          "name": "孝文帝",
+          "category": "persons"
+        },
+        {
+          "start": 143,
+          "end": 146,
+          "name": "孝景帝",
+          "category": "persons"
+        },
+        {
+          "start": 149,
+          "end": 152,
+          "name": "趙王遂",
+          "category": "persons"
+        },
+        {
+          "start": 187,
+          "end": 190,
+          "name": "孝景帝",
+          "category": "persons"
+        },
+        {
+          "start": 194,
+          "end": 196,
+          "name": "和親",
+          "category": "concepts"
+        },
+        {
+          "start": 198,
+          "end": 200,
+          "name": "關市",
+          "category": "concepts"
+        }
+      ]
+    },
+    {
+      "para_id": "p29",
+      "text": "今帝即位，明和親約束，厚遇，通關市，饒給之。匈奴自單于以下皆親漢，徃來長城下。",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 2,
+          "name": "今帝",
+          "category": "persons"
+        },
+        {
+          "start": 6,
+          "end": 8,
+          "name": "和親",
+          "category": "concepts"
+        },
+        {
+          "start": 15,
+          "end": 17,
+          "name": "關市",
+          "category": "concepts"
+        },
+        {
+          "start": 25,
+          "end": 27,
+          "name": "單于",
+          "category": "concepts"
+        }
+      ]
+    },
+    {
+      "para_id": "p30",
+      "text": "漢使馬邑下人聶翁壹⟦0⟧姧蘭⟦1⟧出物與匈奴交，⟦2⟧詳爲賣馬邑城以誘單于。單于信之，而貪馬邑財物，乃以十萬騎入武州塞。⟦3⟧漢伏兵三十餘萬馬邑旁，御史大夫韓安國爲護軍，護四將軍以伏單于。單于旣入漢塞，未至馬邑百餘里，見畜布野而無人牧者，恠之，乃攻亭。是時鴈門尉史行徼，⟦4⟧見寇，葆此亭，知漢兵謀，單于得，欲殺之，⟦5⟧尉史乃告單于漢兵所居。單于大驚曰：「吾固疑之。」乃引兵還。出曰：「吾得尉史，天也，天使若言。」以尉史爲「天王」。漢兵約單于入馬邑而縱，單于不至，以故漢兵無所得。漢將軍王恢部出代擊胡輜重，聞單于還，兵多，不敢出。漢以恢本造兵謀而不進，斬恢。⟦6⟧自是之後，匈奴絕和親，攻當路塞，⟦7⟧徃徃入盜於漢邊，不可勝數。然匈奴貪，尚樂關市，嗜漢財物，漢亦尚關市不絕以中之。⟦8⟧",
+      "mentions": [
+        {
+          "start": 2,
+          "end": 4,
+          "name": "馬邑",
+          "category": "places"
+        },
+        {
+          "start": 6,
+          "end": 9,
+          "name": "聶翁壹",
+          "category": "persons"
+        },
+        {
+          "start": 30,
+          "end": 32,
+          "name": "馬邑",
+          "category": "places"
+        },
+        {
+          "start": 35,
+          "end": 37,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 38,
+          "end": 40,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 45,
+          "end": 47,
+          "name": "馬邑",
+          "category": "places"
+        },
+        {
+          "start": 53,
+          "end": 55,
+          "name": "萬騎",
+          "category": "concepts"
+        },
+        {
+          "start": 56,
+          "end": 59,
+          "name": "武州塞",
+          "category": "places"
+        },
+        {
+          "start": 70,
+          "end": 72,
+          "name": "馬邑",
+          "category": "places"
+        },
+        {
+          "start": 78,
+          "end": 81,
+          "name": "韓安國",
+          "category": "persons"
+        },
+        {
+          "start": 82,
+          "end": 84,
+          "name": "護軍",
+          "category": "persons"
+        },
+        {
+          "start": 91,
+          "end": 93,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 94,
+          "end": 96,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 103,
+          "end": 105,
+          "name": "馬邑",
+          "category": "places"
+        },
+        {
+          "start": 130,
+          "end": 132,
+          "name": "尉史",
+          "category": "persons"
+        },
+        {
+          "start": 150,
+          "end": 152,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 161,
+          "end": 163,
+          "name": "尉史",
+          "category": "persons"
+        },
+        {
+          "start": 165,
+          "end": 167,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 172,
+          "end": 174,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 196,
+          "end": 198,
+          "name": "尉史",
+          "category": "persons"
+        },
+        {
+          "start": 209,
+          "end": 211,
+          "name": "尉史",
+          "category": "persons"
+        },
+        {
+          "start": 213,
+          "end": 215,
+          "name": "天王",
+          "category": "persons"
+        },
+        {
+          "start": 220,
+          "end": 222,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 223,
+          "end": 225,
+          "name": "馬邑",
+          "category": "places"
+        },
+        {
+          "start": 228,
+          "end": 230,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 244,
+          "end": 246,
+          "name": "王恢",
+          "category": "persons"
+        },
+        {
+          "start": 255,
+          "end": 257,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 291,
+          "end": 293,
+          "name": "和親",
+          "category": "concepts"
+        },
+        {
+          "start": 322,
+          "end": 324,
+          "name": "關市",
+          "category": "concepts"
+        },
+        {
+          "start": 333,
+          "end": 335,
+          "name": "關市",
+          "category": "concepts"
+        }
+      ]
+    },
+    {
+      "para_id": "p31",
+      "text": "自馬邑軍後五年之秋，漢使四將軍各萬騎擊胡關市下。將軍衞青出上谷，至蘢城，得胡首虜七百人。公孫賀出雲中，無所得。公孫敖出代郡，爲胡所敗七千餘人。李廣出鴈門，爲胡所敗，而匈奴生得廣，廣後得亡歸。漢囚敖、廣，敖、廣贖爲庶人。其冬，匈奴數入盜邊，漁陽尤甚。漢使將軍韓安國屯漁陽備胡。其明年秋，匈奴二萬騎入漢，殺遼西太守，略二千餘人。胡又入敗漁陽太守軍千餘人，圍漢將軍安國，安國時千餘騎亦且盡，會燕救至，匈奴乃去。匈奴又入鴈門，殺略千餘人。於是漢使將軍衞青將三萬騎出鴈門，李息出代郡，擊胡。得首虜數千人。其明年，衞青復出雲中以西至隴西，擊胡之樓煩、白羊王於河南，得胡首虜數千，牛羊百餘萬。於是漢遂取河南地，築朔方，復繕故秦時蒙恬所爲塞，因河爲固。漢亦弃上谷之什辟縣造陽地以予胡。⟦0⟧⟦1⟧⟦2⟧是歲，漢之元朔二年也。",
+      "mentions": [
+        {
+          "start": 1,
+          "end": 3,
+          "name": "馬邑",
+          "category": "places"
+        },
+        {
+          "start": 16,
+          "end": 18,
+          "name": "萬騎",
+          "category": "concepts"
+        },
+        {
+          "start": 20,
+          "end": 22,
+          "name": "關市",
+          "category": "concepts"
+        },
+        {
+          "start": 24,
+          "end": 28,
+          "name": "將軍衞青",
+          "category": "persons"
+        },
+        {
+          "start": 33,
+          "end": 35,
+          "name": "蘢城",
+          "category": "places"
+        },
+        {
+          "start": 44,
+          "end": 47,
+          "name": "公孫賀",
+          "category": "persons"
+        },
+        {
+          "start": 55,
+          "end": 58,
+          "name": "公孫敖",
+          "category": "persons"
+        },
+        {
+          "start": 71,
+          "end": 73,
+          "name": "李廣",
+          "category": "persons"
+        },
+        {
+          "start": 128,
+          "end": 131,
+          "name": "韓安國",
+          "category": "persons"
+        },
+        {
+          "start": 145,
+          "end": 147,
+          "name": "萬騎",
+          "category": "concepts"
+        },
+        {
+          "start": 219,
+          "end": 223,
+          "name": "將軍衞青",
+          "category": "persons"
+        },
+        {
+          "start": 225,
+          "end": 227,
+          "name": "萬騎",
+          "category": "concepts"
+        },
+        {
+          "start": 231,
+          "end": 233,
+          "name": "李息",
+          "category": "persons"
+        },
+        {
+          "start": 251,
+          "end": 253,
+          "name": "衞青",
+          "category": "persons"
+        },
+        {
+          "start": 269,
+          "end": 272,
+          "name": "白羊王",
+          "category": "persons"
+        },
+        {
+          "start": 294,
+          "end": 297,
+          "name": "河南地",
+          "category": "places"
+        },
+        {
+          "start": 299,
+          "end": 301,
+          "name": "朔方",
+          "category": "places"
+        },
+        {
+          "start": 307,
+          "end": 309,
+          "name": "蒙恬",
+          "category": "persons"
+        }
+      ]
+    },
+    {
+      "para_id": "p32",
+      "text": "其後冬，匈奴軍臣單于死。軍臣單于弟左谷蠡王伊稚斜自立爲單于，⟦0⟧攻破軍臣單于太子於單。⟦1⟧於單亡降漢，漢封於單爲涉安侯，數月而死。",
+      "mentions": [
+        {
+          "start": 6,
+          "end": 10,
+          "name": "軍臣單于",
+          "category": "persons"
+        },
+        {
+          "start": 12,
+          "end": 16,
+          "name": "軍臣單于",
+          "category": "persons"
+        },
+        {
+          "start": 21,
+          "end": 26,
+          "name": "伊稚斜自立",
+          "category": "events"
+        },
+        {
+          "start": 27,
+          "end": 29,
+          "name": "單于",
+          "category": "concepts"
+        },
+        {
+          "start": 35,
+          "end": 39,
+          "name": "軍臣單于",
+          "category": "persons"
+        },
+        {
+          "start": 41,
+          "end": 43,
+          "name": "於單",
+          "category": "persons"
+        },
+        {
+          "start": 47,
+          "end": 49,
+          "name": "於單",
+          "category": "persons"
+        },
+        {
+          "start": 55,
+          "end": 57,
+          "name": "於單",
+          "category": "persons"
+        }
+      ]
+    },
+    {
+      "para_id": "p33",
+      "text": "伊稚斜單于旣立，其夏，匈奴數萬騎入殺代郡太守恭，及略千餘人。其秋，匈奴又入鴈門，殺略千餘人。其明年，匈奴又復入代郡、定襄、⟦0⟧上郡，各三萬騎，殺略數千人。匈奴右賢王怨漢奪之河南地而築朔方，數爲寇，盜邊，及入河南，侵擾朔方，殺略吏民甚衆。",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 5,
+          "name": "伊稚斜單于",
+          "category": "persons"
+        },
+        {
+          "start": 14,
+          "end": 16,
+          "name": "萬騎",
+          "category": "concepts"
+        },
+        {
+          "start": 18,
+          "end": 23,
+          "name": "代郡太守恭",
+          "category": "persons"
+        },
+        {
+          "start": 69,
+          "end": 71,
+          "name": "萬騎",
+          "category": "concepts"
+        },
+        {
+          "start": 80,
+          "end": 83,
+          "name": "右賢王",
+          "category": "persons"
+        },
+        {
+          "start": 87,
+          "end": 90,
+          "name": "河南地",
+          "category": "places"
+        },
+        {
+          "start": 92,
+          "end": 94,
+          "name": "朔方",
+          "category": "places"
+        },
+        {
+          "start": 109,
+          "end": 111,
+          "name": "朔方",
+          "category": "places"
+        }
+      ]
+    },
+    {
+      "para_id": "p34",
+      "text": "其明年春，漢以衞青爲大將軍，將六將軍，十餘萬人，出朔方、高闕擊胡。右賢王以爲漢兵不能至，飲酒醉，漢兵出塞六七百里，夜圍右賢王。右賢王大驚，脫身逃走，諸精騎徃徃隨後去。漢得右賢王衆男女萬五千人，裨小王十餘人。其秋，匈奴萬騎入殺代郡都尉朱英，略千餘人。",
+      "mentions": [
+        {
+          "start": 7,
+          "end": 9,
+          "name": "衞青",
+          "category": "persons"
+        },
+        {
+          "start": 10,
+          "end": 13,
+          "name": "大將軍",
+          "category": "persons"
+        },
+        {
+          "start": 25,
+          "end": 27,
+          "name": "朔方",
+          "category": "places"
+        },
+        {
+          "start": 28,
+          "end": 30,
+          "name": "高闕",
+          "category": "places"
+        },
+        {
+          "start": 33,
+          "end": 36,
+          "name": "右賢王",
+          "category": "persons"
+        },
+        {
+          "start": 59,
+          "end": 62,
+          "name": "右賢王",
+          "category": "persons"
+        },
+        {
+          "start": 63,
+          "end": 66,
+          "name": "右賢王",
+          "category": "persons"
+        },
+        {
+          "start": 85,
+          "end": 88,
+          "name": "右賢王",
+          "category": "persons"
+        },
+        {
+          "start": 108,
+          "end": 110,
+          "name": "萬騎",
+          "category": "concepts"
+        },
+        {
+          "start": 114,
+          "end": 118,
+          "name": "都尉朱英",
+          "category": "persons"
+        }
+      ]
+    }
+  ]
+}
