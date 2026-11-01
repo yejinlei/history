@@ -1,0 +1,992 @@
+{
+  "book": "shiji",
+  "chapter_id": "shiji-蒙恬列傳第二十八",
+  "chapter_title": "蒙恬列传第二十八",
+  "version": "1.0",
+  "generated_at": "2026-11-01",
+  "note": "秦将蒙氏三世合传：蒙骜—蒙武—蒙恬（附蒙毅）。记蒙恬北逐匈奴、收河南、首筑万里长城、修秦直道，威震匈奴；终因赵高构陷、二世赐死，临终有「绝地脉」之叹。太史公则讥其「阿意兴功」「轻百姓力」。本篇实体据底本逐段核验定稿，凡初稿无据者（如笔祖传说、宜春观葬处等）一律不入本体。",
+  "entities": {
+    "persons": [
+      {
+        "name": "蒙恬",
+        "alias": [],
+        "note": "秦名将，蒙骜孙、蒙武子，祖齐人。将三十万众北逐匈奴、收河南、筑万里长城、修直道，居上郡十余年威震匈奴；后囚于阳周，吞药自杀。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p0",
+          "text:shiji:shiji-蒙恬列傳第二十八:p1",
+          "text:shiji:shiji-蒙恬列傳第二十八:p3",
+          "text:shiji:shiji-蒙恬列傳第二十八:p5",
+          "text:shiji:shiji-蒙恬列傳第二十八:p6",
+          "text:shiji:shiji-蒙恬列傳第二十八:p9",
+          "text:shiji:shiji-蒙恬列傳第二十八:p10"
+        ]
+      },
+      {
+        "name": "蒙骜",
+        "alias": [],
+        "note": "蒙恬祖父，自齐事秦昭王，官至上卿，历仕数王，伐韩赵魏取城、置三川郡与东郡。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p0"
+        ]
+      },
+      {
+        "name": "蒙武",
+        "alias": [],
+        "note": "蒙恬父，秦裨将军，与王翦攻楚大破之、杀项燕、虏楚王。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p0"
+        ]
+      },
+      {
+        "name": "蒙毅",
+        "alias": [],
+        "note": "蒙恬弟，位至上卿，出则参乘、入则御前；因赵高旧怨被谗，囚于代，终为御史曲宫所杀。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p1",
+          "text:shiji:shiji-蒙恬列傳第二十八:p2",
+          "text:shiji:shiji-蒙恬列傳第二十八:p4",
+          "text:shiji:shiji-蒙恬列傳第二十八:p5",
+          "text:shiji:shiji-蒙恬列傳第二十八:p6",
+          "text:shiji:shiji-蒙恬列傳第二十八:p8"
+        ]
+      },
+      {
+        "name": "秦始皇",
+        "alias": [
+          "始皇",
+          "秦王",
+          "先主",
+          "先帝"
+        ],
+        "note": "统一六国称皇帝，使蒙恬将三十万众北逐戎狄、筑长城、修直道；三十七年崩于沙丘。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p1",
+          "text:shiji:shiji-蒙恬列傳第二十八:p2",
+          "text:shiji:shiji-蒙恬列傳第二十八:p3",
+          "text:shiji:shiji-蒙恬列傳第二十八:p4",
+          "text:shiji:shiji-蒙恬列傳第二十八:p5",
+          "text:shiji:shiji-蒙恬列傳第二十八:p6",
+          "text:shiji:shiji-蒙恬列傳第二十八:p8"
+        ]
+      },
+      {
+        "name": "秦二世",
+        "alias": [
+          "胡亥",
+          "公子胡亥",
+          "二世皇帝"
+        ],
+        "note": "始皇少子，从赵高、李斯阴谋得立，听谗囚杀蒙毅、逼蒙恬死。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p2",
+          "text:shiji:shiji-蒙恬列傳第二十八:p5",
+          "text:shiji:shiji-蒙恬列傳第二十八:p6",
+          "text:shiji:shiji-蒙恬列傳第二十八:p8",
+          "text:shiji:shiji-蒙恬列傳第二十八:p9"
+        ]
+      },
+      {
+        "name": "赵高",
+        "alias": [],
+        "note": "秦宦官、中车府令，与蒙毅有旧怨（高犯大罪蒙毅当死之被始皇赦），沙丘之谋后日夜毁恶、谗杀蒙氏兄弟。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p2",
+          "text:shiji:shiji-蒙恬列傳第二十八:p5",
+          "text:shiji:shiji-蒙恬列傳第二十八:p6"
+        ]
+      },
+      {
+        "name": "李斯",
+        "alias": [],
+        "note": "秦丞相，沙丘之谋与赵高合谋改立胡亥。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p5"
+        ]
+      },
+      {
+        "name": "扶苏",
+        "alias": [
+          "公子扶苏"
+        ],
+        "note": "始皇长子，被伪诏赐死。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p5"
+        ]
+      },
+      {
+        "name": "子婴",
+        "alias": [],
+        "note": "秦宗室，二世时进谏勿诛蒙氏兄弟，二世不听；后为秦王，降刘邦。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p7"
+        ]
+      },
+      {
+        "name": "秦昭王",
+        "alias": [
+          "昭襄王"
+        ],
+        "note": "秦昭襄王，蒙骜自齐事之。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p0"
+        ]
+      },
+      {
+        "name": "王翦",
+        "alias": [],
+        "note": "秦名将，与蒙武共破楚杀项燕。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p0"
+        ]
+      },
+      {
+        "name": "项燕",
+        "alias": [],
+        "note": "楚将，为蒙武、王翦所破杀；项羽祖父。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p0"
+        ]
+      },
+      {
+        "name": "曲宫",
+        "alias": [
+          "御史曲宫"
+        ],
+        "note": "秦御史（姓曲名宫），奉诏至代杀蒙毅。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p8"
+        ]
+      },
+      {
+        "name": "周成王",
+        "alias": [
+          "成王"
+        ],
+        "note": "西周王，蒙恬临终以周公辅成王自喻。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p9"
+        ]
+      },
+      {
+        "name": "周公旦",
+        "alias": [
+          "周公"
+        ],
+        "note": "周成王辅臣，负王听政、剪爪沉河为成王祝祷，蒙恬自比其受疑。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p9"
+        ]
+      },
+      {
+        "name": "秦穆公",
+        "alias": [
+          "缪公"
+        ],
+        "note": "秦穆公，以三良殉葬、罪百里奚，蒙毅举为杀忠之君。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p8"
+        ]
+      },
+      {
+        "name": "百里奚",
+        "alias": [],
+        "note": "秦贤大夫，蒙毅谓穆公「罪之而非其罪」。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p8"
+        ]
+      },
+      {
+        "name": "白起",
+        "alias": [
+          "武安君"
+        ],
+        "note": "秦将，为昭襄王赐死杜邮，蒙毅举为昭襄王杀忠之例。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p8"
+        ]
+      },
+      {
+        "name": "伍奢",
+        "alias": [],
+        "note": "楚大夫，楚平王信谗杀之，其子伍子胥奔吴。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p8"
+        ]
+      },
+      {
+        "name": "楚平王",
+        "alias": [],
+        "note": "楚王，杀伍奢，蒙毅举为杀忠之君。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p8"
+        ]
+      },
+      {
+        "name": "夫差",
+        "alias": [
+          "吴王夫差"
+        ],
+        "note": "吴王，赐属镂剑杀伍子胥。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p8"
+        ]
+      },
+      {
+        "name": "伍子胥",
+        "alias": [
+          "伍员"
+        ],
+        "note": "吴王夫差忠臣，被赐死，蒙毅举为夫差杀忠之例。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p8"
+        ]
+      },
+      {
+        "name": "关龙逢",
+        "alias": [
+          "关龙逄"
+        ],
+        "note": "夏桀之贤臣，因强谏被杀，蒙恬举为亡国之君杀忠之例。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p9"
+        ]
+      },
+      {
+        "name": "比干",
+        "alias": [
+          "王子比干"
+        ],
+        "note": "商纣叔父，强谏被剖心，蒙恬举为纣杀忠之例。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p9"
+        ]
+      },
+      {
+        "name": "桀",
+        "alias": [
+          "夏桀"
+        ],
+        "note": "夏桀，杀关龙逢而不悔，终于国亡。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p9"
+        ]
+      },
+      {
+        "name": "纣",
+        "alias": [
+          "商纣"
+        ],
+        "note": "商纣，杀王子比干而不悔，终于国亡。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p9"
+        ]
+      },
+      {
+        "name": "赵王迁",
+        "alias": [
+          "赵幽缪王"
+        ],
+        "note": "赵国末王，听谗杀良将李牧而用颜聚，终致亡国。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p7"
+        ]
+      },
+      {
+        "name": "李牧",
+        "alias": [],
+        "note": "赵国良将，为赵王迁所杀。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p7"
+        ]
+      },
+      {
+        "name": "颜聚",
+        "alias": [],
+        "note": "赵将，赵王迁弃李牧而用之。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p7"
+        ]
+      },
+      {
+        "name": "燕王喜",
+        "alias": [],
+        "note": "燕末代君主，用太子丹荆轲刺秦之谋而背秦约。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p7"
+        ]
+      },
+      {
+        "name": "荆轲",
+        "alias": [],
+        "note": "刺客，受燕太子丹之托刺秦王，事见《刺客列传》。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p7"
+        ]
+      },
+      {
+        "name": "齐王建",
+        "alias": [],
+        "note": "田齐末代君主，听后胜之议不助五国，终降秦。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p7"
+        ]
+      },
+      {
+        "name": "后胜",
+        "alias": [],
+        "note": "齐相，多受秦金，劝齐王建不助五国、不修战备。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p7"
+        ]
+      },
+      {
+        "name": "三良",
+        "alias": [
+          "子车氏三子"
+        ],
+        "note": "秦穆公以奄息、仲行、针虎三良臣殉葬，《诗经·黄鸟》哀之。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p8"
+        ]
+      }
+    ],
+    "places": [
+      {
+        "name": "齐国",
+        "alias": [
+          "齐"
+        ],
+        "note": "蒙氏祖籍，蒙骜自齐入秦。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p0"
+        ]
+      },
+      {
+        "name": "三川郡",
+        "alias": [],
+        "note": "秦郡，因河、洛、伊三川得名，治洛阳；蒙骜取成皋、荥阳后置。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p0"
+        ]
+      },
+      {
+        "name": "东郡",
+        "alias": [],
+        "note": "秦郡，治濮阳；蒙骜攻魏取二十城后置。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p0"
+        ]
+      },
+      {
+        "name": "成皋",
+        "alias": [
+          "成臯"
+        ],
+        "note": "古虎牢关所在，今河南荥阳汜水镇，秦军事要地。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p0"
+        ]
+      },
+      {
+        "name": "荥阳",
+        "alias": [
+          "滎陽"
+        ],
+        "note": "今河南荥阳，中原军事重镇。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p0"
+        ]
+      },
+      {
+        "name": "河南地",
+        "alias": [
+          "河南",
+          "新秦中"
+        ],
+        "note": "黄河以南、今内蒙古河套及鄂尔多斯高原一带，蒙恬北逐匈奴所收复。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p1"
+        ]
+      },
+      {
+        "name": "临洮",
+        "alias": [],
+        "note": "今甘肃岷县，秦长城西起点。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p1",
+          "text:shiji:shiji-蒙恬列傳第二十八:p9"
+        ]
+      },
+      {
+        "name": "辽东",
+        "alias": [
+          "遼東"
+        ],
+        "note": "秦辽东郡，长城东端至辽水、西南入海。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p1",
+          "text:shiji:shiji-蒙恬列傳第二十八:p9"
+        ]
+      },
+      {
+        "name": "阳山",
+        "alias": [],
+        "note": "今内蒙古黄河北岸狼山、阴山一带，蒙恬渡河所据。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p1"
+        ]
+      },
+      {
+        "name": "上郡",
+        "alias": [],
+        "note": "秦郡，治肤施（今陕西榆林东南），蒙恬屯兵御匈奴地。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p1"
+        ]
+      },
+      {
+        "name": "九原",
+        "alias": [],
+        "note": "秦郡，今内蒙古包头一带，秦直道北端起点。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p3"
+        ]
+      },
+      {
+        "name": "甘泉",
+        "alias": [
+          "甘泉宫"
+        ],
+        "note": "秦甘泉宫，在今陕西淳化西北甘泉山，秦直道南端终点。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p3"
+        ]
+      },
+      {
+        "name": "会稽",
+        "alias": [],
+        "note": "会稽山、会稽郡，今浙江绍兴，始皇三十七年上会稽祭大禹。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p4"
+        ]
+      },
+      {
+        "name": "琅邪",
+        "alias": [],
+        "note": "今山东胶南、诸城一带，始皇东巡所至，有琅邪台。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p4"
+        ]
+      },
+      {
+        "name": "沙丘",
+        "alias": [
+          "沙丘平台"
+        ],
+        "note": "今河北广宗西北，始皇崩处；亦赵武灵王饿死之地。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p5"
+        ]
+      },
+      {
+        "name": "咸阳",
+        "alias": [],
+        "note": "秦都，始皇灵柩至咸阳安葬处。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p6"
+        ]
+      },
+      {
+        "name": "代",
+        "alias": [
+          "代地",
+          "代郡"
+        ],
+        "note": "今河北蔚县一带，蒙毅被囚、被杀处。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p6",
+          "text:shiji:shiji-蒙恬列傳第二十八:p8"
+        ]
+      },
+      {
+        "name": "阳周",
+        "alias": [],
+        "note": "秦县，属上郡，今陕西子长、绥德一带，蒙恬被囚及吞药处。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p6",
+          "text:shiji:shiji-蒙恬列傳第二十八:p9"
+        ]
+      },
+      {
+        "name": "直道",
+        "alias": [
+          "秦直道"
+        ],
+        "note": "自九原至甘泉一千八百里军事通道，蒙恬主持修筑，太史公自直道归。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p3",
+          "text:shiji:shiji-蒙恬列傳第二十八:p10"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "name": "蒙骜伐韩赵魏置郡",
+        "alias": [],
+        "note": "蒙骜为秦将，伐韩取成皋荥阳置三川郡，攻赵取三十七城，攻韩取十三城，攻魏取二十城置东郡。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p0"
+        ]
+      },
+      {
+        "name": "蒙武王翦破楚",
+        "alias": [],
+        "note": "蒙武为秦裨将军，与王翦攻楚大破之、杀项燕，次年虏楚王。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p0"
+        ]
+      },
+      {
+        "name": "蒙恬攻齐拜内史",
+        "alias": [],
+        "note": "始皇二十六年蒙恬因家世为秦将，攻齐大破之，拜为内史。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p1"
+        ]
+      },
+      {
+        "name": "蒙恬北逐戎狄收河南",
+        "alias": [
+          "北逐匈奴"
+        ],
+        "note": "秦并天下后使蒙恬将三十万众北逐戎狄、收河南，渡河据阳山。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p1"
+        ]
+      },
+      {
+        "name": "蒙恬筑长城",
+        "alias": [
+          "筑万里长城"
+        ],
+        "note": "蒙恬筑长城，因地形用险制塞，起临洮至辽东，延袤万余里。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p1"
+        ]
+      },
+      {
+        "name": "蒙毅参乘御前内外相济",
+        "alias": [],
+        "note": "蒙毅位至上卿，出则参乘、入则御前；恬任外事、毅常为内谋，名忠信。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p1"
+        ]
+      },
+      {
+        "name": "赵高犯罪蒙毅治之",
+        "alias": [
+          "赵高与蒙氏结怨"
+        ],
+        "note": "赵高犯大罪，秦王令蒙毅法治之，毅判高死罪、除其宦籍，始皇以高敦于事赦之复其官爵，由是赵高怨蒙毅。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p2"
+        ]
+      },
+      {
+        "name": "始皇修直道",
+        "alias": [
+          "壍山堙谷通直道"
+        ],
+        "note": "始皇欲游天下，道九原直抵甘泉，乃使蒙恬通道，自九原抵甘泉，壍山堙谷千八百里，道未就。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p3"
+        ]
+      },
+      {
+        "name": "始皇出游会稽",
+        "alias": [
+          "蒙毅还祷山川"
+        ],
+        "note": "始皇三十七年冬行出游会稽、并海上、北走琅邪，道病，使蒙毅还祷山川未返。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p4"
+        ]
+      },
+      {
+        "name": "始皇崩沙丘",
+        "alias": [],
+        "note": "始皇至沙丘崩，秘不发丧，群臣莫知。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p5"
+        ]
+      },
+      {
+        "name": "沙丘之谋",
+        "alias": [
+          "赵高李斯胡亥改立"
+        ],
+        "note": "赵高与丞相李斯、公子胡亥阴谋，立胡亥为太子。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p5"
+        ]
+      },
+      {
+        "name": "赐扶苏蒙恬死",
+        "alias": [],
+        "note": "胡亥立为太子后，遣使者以罪赐公子扶苏、蒙恬死；扶苏自杀，蒙恬疑而请复。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p5"
+        ]
+      },
+      {
+        "name": "囚蒙恬于阳周系蒙毅于代",
+        "alias": [],
+        "note": "使者以蒙恬属吏、更置；赵高谗蒙毅，胡亥系蒙毅于代，此前已囚蒙恬于阳周。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p6"
+        ]
+      },
+      {
+        "name": "子婴进谏",
+        "alias": [],
+        "note": "子婴以赵王迁杀李牧、燕王喜用荆轲、齐王建杀忠臣为戒，谏二世勿诛蒙氏兄弟，二世不听。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p7"
+        ]
+      },
+      {
+        "name": "曲宫杀蒙毅",
+        "alias": [],
+        "note": "二世遣御史曲宫乘传之代赐蒙毅死，蒙毅抗辞自辩，使者知胡亥之意不听，遂杀之。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p8"
+        ]
+      },
+      {
+        "name": "蒙恬吞药自杀",
+        "alias": [
+          "阳周之死"
+        ],
+        "note": "二世遣使至阳周赐蒙恬死，蒙恬自陈三世积功信、引周公成王事为辩，终吞药自杀。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p9"
+        ]
+      },
+      {
+        "name": "绝地脉之叹",
+        "alias": [],
+        "note": "蒙恬临终自言起临洮属辽东、城堑万余里，不能无绝地脉，以此自承其罪。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p9"
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "name": "内史",
+        "alias": [],
+        "note": "秦官，掌京畿地区行政，蒙恬曾拜内史。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p1"
+        ]
+      },
+      {
+        "name": "参乘",
+        "alias": [
+          "骖乘"
+        ],
+        "note": "陪乘之人，尊者出行居车右为近卫与礼遇；蒙毅出则参乘。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p1"
+        ]
+      },
+      {
+        "name": "中车府令",
+        "alias": [],
+        "note": "秦官，掌皇帝车舆，属太仆，秩不高而亲近皇帝；赵高任之。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p2"
+        ]
+      },
+      {
+        "name": "隐宫",
+        "alias": [
+          "隐官"
+        ],
+        "note": "受宫刑者所处之所；赵高兄弟皆生隐宫，一说为「隐官」之误，存参。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p2"
+        ]
+      },
+      {
+        "name": "万里长城",
+        "alias": [
+          "秦长城",
+          "长城"
+        ],
+        "note": "蒙恬主持修筑，起临洮至辽东万余里，古代著名军事防御工程。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p1",
+          "text:shiji:shiji-蒙恬列傳第二十八:p9",
+          "text:shiji:shiji-蒙恬列傳第二十八:p10"
+        ]
+      },
+      {
+        "name": "秦直道",
+        "alias": [],
+        "note": "九原至甘泉千八百里国防通道，堑山堙谷，秦代重要军事交通工程。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p3",
+          "text:shiji:shiji-蒙恬列傳第二十八:p10"
+        ]
+      },
+      {
+        "name": "匈奴",
+        "alias": [
+          "戎狄"
+        ],
+        "note": "北方游牧民族，蒙恬北逐之后十余年不敢南下牧马。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p1"
+        ]
+      },
+      {
+        "name": "绝地脉",
+        "alias": [
+          "绝地脉之罪"
+        ],
+        "note": "秦汉堪舆观念，谓掘地断山伤断地之脉络为大罪；蒙恬临终以此自解，太史公则谓其不当罪地脉。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p9",
+          "text:shiji:shiji-蒙恬列傳第二十八:p10"
+        ]
+      },
+      {
+        "name": "积功信于秦三世",
+        "alias": [
+          "三世宿将"
+        ],
+        "note": "蒙骜、蒙武、蒙恬（及蒙毅）三代事秦，蒙恬以此为守义不叛之据。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p9"
+        ]
+      },
+      {
+        "name": "阿意兴功",
+        "alias": [
+          "轻百姓力"
+        ],
+        "note": "太史公论赞批评蒙恬不谏始皇休养生息，反迎合上意、大兴长城直道之役，轻用民力。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p10"
+        ]
+      },
+      {
+        "name": "参而伍之",
+        "alias": [
+          "参伍"
+        ],
+        "note": "错综比较、反复参验之意，《周书》语，蒙恬引以谏二世当审察。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p9"
+        ]
+      },
+      {
+        "name": "记府",
+        "alias": [],
+        "note": "藏典籍盟书之府库；成王于记府得周公沉河祷书而悔。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p9"
+        ]
+      },
+      {
+        "name": "亭障",
+        "alias": [],
+        "note": "边塞斥候哨所与防御城堡，蒙恬所筑长城亭障。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p10"
+        ]
+      },
+      {
+        "name": "吞药自杀",
+        "alias": [
+          "饮药死"
+        ],
+        "note": "秦代大臣贵族常见自杀方式，蒙恬吞药死于阳周。",
+        "evidence": [
+          "text:shiji:shiji-蒙恬列傳第二十八:p9"
+        ]
+      }
+    ]
+  },
+  "relations": [
+    {
+      "from": "蒙骜",
+      "type": "为 蒙武之父",
+      "to": "蒙武",
+      "evidence": [
+        "text:shiji:shiji-蒙恬列傳第二十八:p0"
+      ]
+    },
+    {
+      "from": "蒙武",
+      "type": "为 蒙恬之父",
+      "to": "蒙恬",
+      "evidence": [
+        "text:shiji:shiji-蒙恬列傳第二十八:p0"
+      ]
+    },
+    {
+      "from": "蒙恬",
+      "type": "为 蒙毅之兄",
+      "to": "蒙毅",
+      "evidence": [
+        "text:shiji:shiji-蒙恬列傳第二十八:p0"
+      ]
+    },
+    {
+      "from": "蒙恬",
+      "type": "为 秦将",
+      "to": "秦始皇",
+      "evidence": [
+        "text:shiji:shiji-蒙恬列傳第二十八:p1"
+      ]
+    },
+    {
+      "from": "蒙毅",
+      "type": "亲近于",
+      "to": "秦始皇",
+      "evidence": [
+        "text:shiji:shiji-蒙恬列傳第二十八:p1"
+      ]
+    },
+    {
+      "from": "蒙毅",
+      "type": "治罪结怨于",
+      "to": "赵高",
+      "evidence": [
+        "text:shiji:shiji-蒙恬列傳第二十八:p2"
+      ]
+    },
+    {
+      "from": "赵高",
+      "type": "谗毁",
+      "to": "蒙毅",
+      "evidence": [
+        "text:shiji:shiji-蒙恬列傳第二十八:p6"
+      ]
+    },
+    {
+      "from": "赵高",
+      "type": "与李斯共谋立",
+      "to": "秦二世",
+      "evidence": [
+        "text:shiji:shiji-蒙恬列傳第二十八:p5"
+      ]
+    },
+    {
+      "from": "李斯",
+      "type": "与赵高共谋立",
+      "to": "秦二世",
+      "evidence": [
+        "text:shiji:shiji-蒙恬列傳第二十八:p5"
+      ]
+    },
+    {
+      "from": "秦二世",
+      "type": "赐死",
+      "to": "扶苏",
+      "evidence": [
+        "text:shiji:shiji-蒙恬列傳第二十八:p5"
+      ]
+    },
+    {
+      "from": "曲宫",
+      "type": "奉诏杀",
+      "to": "蒙毅",
+      "evidence": [
+        "text:shiji:shiji-蒙恬列傳第二十八:p8"
+      ]
+    },
+    {
+      "from": "蒙恬",
+      "type": "自杀于阳周",
+      "to": "阳周",
+      "evidence": [
+        "text:shiji:shiji-蒙恬列傳第二十八:p9"
+      ]
+    },
+    {
+      "from": "子婴",
+      "type": "进谏",
+      "to": "秦二世",
+      "evidence": [
+        "text:shiji:shiji-蒙恬列傳第二十八:p7"
+      ]
+    },
+    {
+      "from": "周成王",
+      "type": "受周公旦辅佐",
+      "to": "周公旦",
+      "evidence": [
+        "text:shiji:shiji-蒙恬列傳第二十八:p9"
+      ]
+    },
+    {
+      "from": "桀",
+      "type": "杀",
+      "to": "关龙逢",
+      "evidence": [
+        "text:shiji:shiji-蒙恬列傳第二十八:p9"
+      ]
+    },
+    {
+      "from": "纣",
+      "type": "杀",
+      "to": "比干",
+      "evidence": [
+        "text:shiji:shiji-蒙恬列傳第二十八:p9"
+      ]
+    },
+    {
+      "from": "秦穆公",
+      "type": "杀",
+      "to": "三良",
+      "evidence": [
+        "text:shiji:shiji-蒙恬列傳第二十八:p8"
+      ]
+    },
+    {
+      "from": "秦穆公",
+      "type": "罪",
+      "to": "百里奚",
+      "evidence": [
+        "text:shiji:shiji-蒙恬列傳第二十八:p8"
+      ]
+    },
+    {
+      "from": "秦昭王",
+      "type": "杀",
+      "to": "白起",
+      "evidence": [
+        "text:shiji:shiji-蒙恬列傳第二十八:p8"
+      ]
+    },
+    {
+      "from": "楚平王",
+      "type": "杀",
+      "to": "伍奢",
+      "evidence": [
+        "text:shiji:shiji-蒙恬列傳第二十八:p8"
+      ]
+    },
+    {
+      "from": "夫差",
+      "type": "杀",
+      "to": "伍子胥",
+      "evidence": [
+        "text:shiji:shiji-蒙恬列傳第二十八:p8"
+      ]
+    }
+  ]
+}
