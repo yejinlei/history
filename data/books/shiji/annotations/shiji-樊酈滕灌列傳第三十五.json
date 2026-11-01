@@ -1,1506 +1,3330 @@
-[
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a0",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p0",
-    "annotator": "正義",
-    "text": "舞陽在許州葉縣東十里。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a1",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p0",
-    "annotator": "正義",
-    "text": "噲音快，又吉外反。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a2",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p0",
-    "annotator": "正義",
-    "text": "沛，徐州縣。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a3",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p0",
-    "annotator": "正義",
-    "text": "時人食狗亦與羊豕同，故噲專屠以賣之。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a4",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "正義",
-    "text": "房預二音。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a5",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "索隱",
-    "text": "案：監者，秦時御史監郡也。豐下，豐縣之下也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a6",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "正義",
-    "text": "泗水，郡名。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a7",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "索隱",
-    "text": "謂破其守於薛縣之西也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a8",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "集解",
-    "text": "張晏曰：「秦司馬。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a9",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "正義",
-    "text": "秦將章邯司馬尼。又，碭，宋州縣也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a10",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "集解",
-    "text": "文穎曰：「即官大夫也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a11",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "正義",
-    "text": "爵第六級也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a12",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "集解",
-    "text": "文穎曰：「即公大夫，爵第七。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a13",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "集解",
-    "text": "徐廣曰：「年表二年七月，破秦軍濮陽東，屠城陽也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a14",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "正義",
-    "text": "按城陽近濮陽，而漢書作「陽城」，大錯誤。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a15",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "正義",
-    "text": "戶牖，汴州東陳留縣東北九十一里東昏故城是。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a16",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "集解",
-    "text": "孟康曰：「不在二十爵中，如執圭、執帛比也。」如淳曰：「閒，或作『聞』。呂氏春秋曰『魏文侯東勝齊於長城，天子賞文侯以上閒爵』。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a17",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "索隱",
-    "text": "張晏云：「得徑上聞。」晉灼曰：「名通於天子也。」如淳曰「或作『上聞』，又引呂氏春秋，當證「上閒」。「閒」音「中閒」之「閒」。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a18",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "正義",
-    "text": "曹州縣。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a19",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "索隱",
-    "text": "案亳，湯所都，今河南偃師有湯亳是也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a20",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "正義",
-    "text": "亳故城在宋州穀熟縣西南四十里。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a21",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "正義",
-    "text": "地名，近城陽。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a22",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "正義",
-    "text": "汴州縣。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a23",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "索隱",
-    "text": "音齲顒，邑名也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a24",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "正義",
-    "text": "曲，丘雨反。遇，牛恭反。鄭州中牟縣有曲遇聚。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a25",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "索隱",
-    "text": "地理志屬河南。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a26",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "正義",
-    "text": "宛陵故城在鄭州新鄭縣東北三十八里。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a27",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "集解",
-    "text": "徐廣曰：「時賜爵有執帛、執圭，又有賜爵封而加美名以爲號也。又有功，則賜封列侯。」駰案：張晏曰「食祿比封君而無邑」。瓚曰「秦制，列侯乃有封爵也」。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a28",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "索隱",
-    "text": "小顏云：「楚漢之際，權設寵榮，假其位號，或得邑地，或空受爵，此例多矣。約以秦制，於義不通。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a29",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "正義",
-    "text": "許州理縣也。轘轅關在緱氏縣東南三十里。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a30",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "正義",
-    "text": "古平陰津在河南府東北五十里也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a31",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "注",
-    "text": "，"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a32",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "正義",
-    "text": "在偃師南。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a33",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "正義",
-    "text": "在汝州魯山縣東南。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a34",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "正義",
-    "text": "酈音擲。在鄧州新城縣西北四十里。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a35",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "集解",
-    "text": "張晏曰：「益祿也。」如淳曰：「正爵名也。」瓚曰：「增封也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a36",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
-    "annotator": "索隱",
-    "text": "張晏、臣瓚義亦近是，如淳非也。小顏以爲重封者，兼二號，蓋爲得也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a37",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p2",
-    "annotator": "集解",
-    "text": "張晏曰：「酒酣也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a38",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p2",
-    "annotator": "集解",
-    "text": "漢書音義曰：「揰音撞鍾。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a39",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p2",
-    "annotator": "正義",
-    "text": "撞，直江反。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a40",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p2",
-    "annotator": "集解",
-    "text": "徐廣曰：「一本作『立帷下，瞋目而視，眥皆血出』。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a41",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p2",
-    "annotator": "正義",
-    "text": "時羽未爲王，史追書。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a42",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p2",
-    "annotator": "正義",
-    "text": "紀買反。至此爲絕句。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a43",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p2",
-    "annotator": "索隱",
-    "text": "誚，責也。或亦作「譙」。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a44",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p2",
-    "annotator": "正義",
-    "text": "幾音祈。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a45",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p3",
-    "annotator": "集解",
-    "text": "徐廣曰：「隴西有西縣。白水在武都。」駰案：如淳曰「皆地名也」。晉灼曰「白水，今廣平魏縣也。地理志無『西丞』，似秦將名」。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a46",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p3",
-    "annotator": "索隱",
-    "text": "案西謂隴西之西縣。白水，水名，出武都，經西縣東南流。言噲擊西縣之丞在白水之北耳，徐廣等說皆非也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a47",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p3",
-    "annotator": "正義",
-    "text": "括地志云：「白馬水源出文州曲水縣西南，會經孫山下。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a48",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p3",
-    "annotator": "正義",
-    "text": "上「雍」於拱反。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a49",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p3",
-    "annotator": "集解",
-    "text": "斄音胎。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a50",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p3",
-    "annotator": "索隱",
-    "text": "案雍即扶風雍縣。斄音台，即后稷所封，今之武功故斄城是。章平即章邯子也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a51",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p3",
-    "annotator": "索隱",
-    "text": "小顏亦以爲地名。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a52",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p3",
-    "annotator": "正義",
-    "text": "壤鄉在武功縣東南二十里。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a53",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p3",
-    "annotator": "正義",
-    "text": "岐州縣。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a54",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p3",
-    "annotator": "集解",
-    "text": "李奇曰：「以水灌廢丘也。」張晏曰：「最，功第一也。」晉灼曰：「京輔治華陰，灌北也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a55",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p3",
-    "annotator": "索隱",
-    "text": "案柳中即細柳也，在長安西也。灌謂以水灌廢丘，城陷，其功最上也。李奇曰「廢丘即槐里也。上有槐里，此又言者，疑此是小槐里」，非也。按：文云「攻趙賁，下郿、槐里、柳中、咸陽」，總言所攻陷之邑。別言以水灌廢丘，其功特最也。何者？初云槐里，稱其新名，後言功最，是重舉，不欲再見其文，故因舊稱廢丘也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a56",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p3",
-    "annotator": "正義",
-    "text": "雍州縣。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a57",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p3",
-    "annotator": "索隱",
-    "text": "案杜陵有樊鄉。三秦記曰「長安正南，山名秦嶺，谷名子午，一名樊川，一名御宿」。樊鄉即樊川也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a58",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p3",
-    "annotator": "索隱",
-    "text": "晉灼云檢地理志無「煮棗」，功臣表則有煮棗侯，清河有煮棗城。小顏以爲「攻項籍，屠煮棗，合在河南，非清河之城明矣」。今案續漢書郡國志，在濟陰宛朐也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a59",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p3",
-    "annotator": "正義",
-    "text": "案：其時項羽未渡河北，冀州信都縣東北五十里煮棗非矣。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a60",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p3",
-    "annotator": "正義",
-    "text": "鄒，兗州縣，在州東南六十二里。魯，兗州曲阜縣。瑕丘，兗州縣。薛在徐州滕縣界。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a61",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p3",
-    "annotator": "正義",
-    "text": "平陰故城在濟陽東北五里。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a62",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p3",
-    "annotator": "正義",
-    "text": "夏音假。陳州太康縣。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a63",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p3",
-    "annotator": "正義",
-    "text": "陳州。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a64",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p3",
-    "annotator": "正義",
-    "text": "在兗州南。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a65",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p4",
-    "annotator": "正義",
-    "text": "徐州。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a66",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p4",
-    "annotator": "正義",
-    "text": "先累反，又蘇果反，又山寡反。杜預云「霍人，晉邑也。『霍人』當作『葰』，地理志云葰人縣屬太原郡」。括地志云：「葰人故城在代州繁畤縣界也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a67",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p4",
-    "annotator": "正義",
-    "text": "雲中郡縣，皆朔州善陽縣北三百八十里定襄故城是也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a68",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p4",
-    "annotator": "集解",
-    "text": "徐廣曰：「曼，一作『寗』字。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a69",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p4",
-    "annotator": "正義",
-    "text": "邢州城。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a70",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p4",
-    "annotator": "正義",
-    "text": "邢州縣。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a71",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p4",
-    "annotator": "集解",
-    "text": "張晏曰：「殘，有所毀也。」瓚曰：「殘謂多所殺傷也。孟子曰『賊義謂之殘』。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a72",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p4",
-    "annotator": "正義",
-    "text": "在蔚州飛狐縣北七里。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a73",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p4",
-    "annotator": "正義",
-    "text": "在朔州定襄縣界。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a74",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p4",
-    "annotator": "正義",
-    "text": "谷音欲。蓋在代。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a75",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p4",
-    "annotator": "正義",
-    "text": "人姓名。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a76",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p4",
-    "annotator": "索隱",
-    "text": "抵音丁禮反。抵訓至。一云抵者，丞相之名。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a77",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p5",
-    "annotator": "正義",
-    "text": "闥，宮中小門。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a78",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p6",
-    "annotator": "索隱",
-    "text": "婘音眷。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a79",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p6",
-    "annotator": "正義",
-    "text": "言不能行人道。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a80",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p6",
-    "annotator": "索隱",
-    "text": "案漢書平帝元始二年，封噲玄孫之子章爲舞陽侯，邑千戶。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a81",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p7",
-    "annotator": "正義",
-    "text": "故城在洺州曲周西南十五里。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a82",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p7",
-    "annotator": "索隱",
-    "text": "酈音歷。高陽，聚名，屬陳留。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a83",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p7",
-    "annotator": "正義",
-    "text": "雍州西南聚邑人也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a84",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p7",
-    "annotator": "集解",
-    "text": "徐廣曰：「月表曰二世元年九月，沛公起兵；二世三年二月，襲陳留，用酈食其策。起兵至此十九月矣。食其傳曰旣說高帝已，乃言其弟商，使從沛公也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a85",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p7",
-    "annotator": "索隱",
-    "text": "事與酈生傳及年表小不同，蓋史官意異也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a86",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p7",
-    "annotator": "正義",
-    "text": "徐注非也。言商先東西略得數千人，及沛公略地至陳留，商起兵，乃六月餘得四千人，以將軍從高祖也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a87",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p7",
-    "annotator": "索隱",
-    "text": "此地名闕，蓋在河南陳、鄭之界。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a88",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p7",
-    "annotator": "正義",
-    "text": "高紀云「酈食其說沛公襲陳留，乃以食其爲廣野君，酈商爲將，將陳留兵，與偕攻開封」。酈生傳云「沛公引兵隨之，乃下陳留，爲廣陽君。言其弟酈商，使將數千人從沛公西南略地」。此傳云「屬沛公於岐，從攻長社」。案紀傳此說，岐當與陳留、高陽相近也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a89",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p7",
-    "annotator": "集解",
-    "text": "漢書音義曰：「漢中旬陽縣。音詢。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a90",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p7",
-    "annotator": "索隱",
-    "text": "案在漢中旬陽縣，旬水上之關。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a91",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p8",
-    "annotator": "正義",
-    "text": "寧州。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a92",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p8",
-    "annotator": "正義",
-    "text": "鄜州。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a93",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p8",
-    "annotator": "集解",
-    "text": "音支。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a94",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p8",
-    "annotator": "索隱",
-    "text": "烏音於然反，氏音支。縣名，屬安定。漢書云破章邯別將。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a95",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p8",
-    "annotator": "正義",
-    "text": "縣在涇州安定縣東四十里。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a96",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p8",
-    "annotator": "索隱",
-    "text": "栒邑在豳州。地理志屬右扶風。栒音荀。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a97",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p8",
-    "annotator": "集解",
-    "text": "徐廣曰：「駔，一作『騠』。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a98",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p8",
-    "annotator": "索隱",
-    "text": "北地縣名。駔者，龍馬也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a99",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p8",
-    "annotator": "正義",
-    "text": "故城在寧州羅川縣北三十一里。泥谷水源出羅川縣東北泥陽。源側有泉，於泥中潛流二十餘步而流入泥谷。又有泥陽湫，在縣東北四十里。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a100",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p8",
-    "annotator": "正義",
-    "text": "縣在華州鄭縣東十三里。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a101",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p9",
-    "annotator": "集解",
-    "text": "徐廣曰：「在燕趙之界。」駰案：漢書音義曰「地名」。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a102",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p9",
-    "annotator": "索隱",
-    "text": "其地闕。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a103",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p9",
-    "annotator": "正義",
-    "text": "易州易縣。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a104",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p9",
-    "annotator": "正義",
-    "text": "涿，幽州。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a105",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p9",
-    "annotator": "正義",
-    "text": "媯州。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a106",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p9",
-    "annotator": "集解",
-    "text": "徐廣曰：「一作『和』。」駰謂拒，方陳。拒音矩。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a107",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p9",
-    "annotator": "索隱",
-    "text": "音巨，又音矩。左傳有「左拒右拒」。徐云「一作『和』。和，軍門也」。漢書作「前垣」，小顏以爲攻其壁壘之前垣也。李奇以爲「前鋒堅蔽若垣牆」，非也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a108",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p10",
-    "annotator": "集解",
-    "text": "文穎曰：「不能治官事。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a109",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p10",
-    "annotator": "索隱",
-    "text": "酈寄字也。鄒氏本作「兄」，亦音況。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a110",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p10",
-    "annotator": "索隱",
-    "text": "紿，欺也，詐也。音待。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a111",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p10",
-    "annotator": "集解",
-    "text": "班固曰：「夫賣交者，謂見利而忘義也。若寄父爲功臣，而又執劫，雖摧呂祿以安稷，誼存君親可也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a112",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p11",
-    "annotator": "集解",
-    "text": "俞音舒。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a113",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p11",
-    "annotator": "索隱",
-    "text": "俞音歈，縣名，又音輸，在河東。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a114",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p11",
-    "annotator": "集解",
-    "text": "蘇林曰：「景帝王皇后母臧兒也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a115",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p11",
-    "annotator": "集解",
-    "text": "徐廣曰：「繆者，更封邑名。謚曰靖。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a116",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p11",
-    "annotator": "索隱",
-    "text": "繆音穆，邑也。謚曰靖侯。漢書無謚。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a117",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p11",
-    "annotator": "集解",
-    "text": "徐廣曰：「世，一作『他』。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a118",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p12",
-    "annotator": "正義",
-    "text": "汝陰即今陽城。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a119",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p12",
-    "annotator": "索隱",
-    "text": "案楚漢春秋云滕公爲御也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a120",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p12",
-    "annotator": "集解",
-    "text": "韋昭曰：「告，白也。白高祖傷人。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a121",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p12",
-    "annotator": "集解",
-    "text": "如淳曰：「爲吏傷人，其罪重也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a122",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p12",
-    "annotator": "注",
-    "text": "鄧展曰：「律有故乞鞠。高祖自告不傷人。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a123",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p12",
-    "annotator": "索隱",
-    "text": "案晉灼云「獄結竟，呼囚鞠語罪狀，囚若稱枉欲乞鞠者，許之也」。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a124",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p12",
-    "annotator": "索隱",
-    "text": "案韋昭曰「高帝自言不傷嬰，嬰證之，是獄辭翻覆也」。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a125",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p13",
-    "annotator": "正義",
-    "text": "上爲，于偽反。使，所吏反。又曰謂父老開城門迎高祖。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a126",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p13",
-    "annotator": "集解",
-    "text": "張晏曰：「胡陵，平所止縣，何嘗給之，故與降也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a127",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p13",
-    "annotator": "索隱",
-    "text": "案說文云「匱，匣也」。謂得其時自相部署之印。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a128",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p13",
-    "annotator": "集解",
-    "text": "徐廣曰：「令也。」駰案：鄧展曰「今沛郡公丘」。漢書曰嬰爲滕令奉車，故號滕公。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a129",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p13",
-    "annotator": "正義",
-    "text": "滕即公丘故城是，在徐州滕縣西南十五里。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a130",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p13",
-    "annotator": "索隱",
-    "text": "芷音止，地名，今霸陵也，在京兆。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a131",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p14",
-    "annotator": "索隱",
-    "text": "蹶音厥，又音巨月反，一音居衞反。漢書作「蹳」，音撥。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a132",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p14",
-    "annotator": "集解",
-    "text": "服虔曰：「高祖欲斬之，故嬰圍樹走也。面，向樹也。」應劭曰：「古者皆立乘，嬰恐小兒墜，各置一面雍持之。樹，立也。」蘇林曰：「南陽人謂抱小兒爲『雍樹』。面者，大人以面首向臨之，小兒抱大人頸似懸樹也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a133",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p14",
-    "annotator": "索隱",
-    "text": "蘇林與晉灼皆同，今則無其言，或當時有此說。其應、服之說，蓋疏也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a134",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p15",
-    "annotator": "集解",
-    "text": "徐廣曰：「祈，一作『沂』。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a135",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p15",
-    "annotator": "索隱",
-    "text": "蓋鄉名也。漢書作「沂」，楚無其縣。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a136",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p15",
-    "annotator": "索隱",
-    "text": "縣名也。地理志屬太原。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a137",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p16",
-    "annotator": "索隱",
-    "text": "地理志武泉屬雲中。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a138",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p16",
-    "annotator": "正義",
-    "text": "二縣，在朔州善陽縣界。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a139",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p16",
-    "annotator": "索隱",
-    "text": "地理志屬汝南。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a140",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p16",
-    "annotator": "集解",
-    "text": "漢書音義曰：「時有罪過奪邑者，以賜之。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a141",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p17",
-    "annotator": "正義",
-    "text": "宋州碭山縣。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a142",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p17",
-    "annotator": "索隱",
-    "text": "案姚氏云「三輔故事曰『滕文公墓在飲馬橋東大道南，俗謂之馬冢』。博物志曰『公卿送嬰葬，至東都門外，馬不行，踣地悲鳴，得石槨，有銘曰「佳城鬱鬱，三千年見白日，吁嗟滕公居此室」。乃葬之』」。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a143",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p18",
-    "annotator": "正義",
-    "text": "今陳州南潁縣西北十三里潁陰故城是。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a144",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p18",
-    "annotator": "正義",
-    "text": "睢陽，宋州宋城縣。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a145",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p18",
-    "annotator": "集解",
-    "text": "服虔曰：「疾攻之。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a146",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p18",
-    "annotator": "索隱",
-    "text": "亦稱宣陵君，皆非爵土，加美號耳。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a147",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p19",
-    "annotator": "索隱",
-    "text": "謂食杜縣之平鄉。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a148",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p20",
-    "annotator": "集解",
-    "text": "張晏曰：「秦將，降爲公，今反。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a149",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p20",
-    "annotator": "正義",
-    "text": "故城在曹州考城縣東二十四里。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a150",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p20",
-    "annotator": "集解",
-    "text": "徐廣曰：「重泉屬馮翊。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a151",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p20",
-    "annotator": "正義",
-    "text": "故城在同州蒲城縣東南四十五里。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a152",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p20",
-    "annotator": "索隱",
-    "text": "必，甲，二人名也。姚氏案：漢紀桓帝延熹三年，追錄高祖功臣李必後黃門丞李遂爲晉陽關內侯也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a153",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p20",
-    "annotator": "集解",
-    "text": "如淳曰：「傅音附。猶言隨從者。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a154",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p20",
-    "annotator": "集解",
-    "text": "張晏曰：「王右方之馬，左亦如之。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a155",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p20",
-    "annotator": "集解",
-    "text": "徐廣曰：「柘屬陳。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a156",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p20",
-    "annotator": "索隱",
-    "text": "案武，柘縣令也。柘縣屬陳。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a157",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p20",
-    "annotator": "正義",
-    "text": "柘屬淮陽國。案：滑州胙城，本南燕國也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a158",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p20",
-    "annotator": "集解",
-    "text": "李奇曰：「樓煩，縣名。其人善騎射，故以名射士爲「樓煩」，取其美稱，未必樓煩人也。」張晏曰：「樓煩，胡國名也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a159",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p20",
-    "annotator": "集解",
-    "text": "張晏曰：「大夫，楚官。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a160",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p20",
-    "annotator": "索隱",
-    "text": "案左傳「莫敖、連尹、宮廄尹」是。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a161",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p21",
-    "annotator": "索隱",
-    "text": "留，縣。令稱公，旋其名也。高密，縣名，在北海。漢書作「假密」。假密，地名，不知所在，未知孰是。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a162",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p21",
-    "annotator": "正義",
-    "text": "留縣在沛郡。公，其令。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a163",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p21",
-    "annotator": "集解",
-    "text": "文穎曰：「所將卒。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a164",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p22",
-    "annotator": "索隱",
-    "text": "取音秋。慮音閭。取又音趣。僮、徐是二縣，取慮是一縣名。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a165",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p22",
-    "annotator": "集解",
-    "text": "漢書音義曰：「住廣陵以禦敵。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a166",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p22",
-    "annotator": "正義",
-    "text": "謂從下相以東南，盡降城邑，乃至廣陵，皆平定也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a167",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p22",
-    "annotator": "正義",
-    "text": "郯音談，東海縣。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a168",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p22",
-    "annotator": "索隱",
-    "text": "小顏云「此平陽在東郡」。地理志太山有東平陽縣。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a169",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p22",
-    "annotator": "正義",
-    "text": "南平陽縣城，今兗州鄒縣也，在兗州東南六十二里。案：鄒縣去徐州滕縣界四十餘里也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a170",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p22",
-    "annotator": "正義",
-    "text": "戶焦二音。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a171",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p22",
-    "annotator": "集解",
-    "text": "徐廣曰：「苦縣有頤鄉。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a172",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p22",
-    "annotator": "索隱",
-    "text": "音以之反。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a173",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p23",
-    "annotator": "正義",
-    "text": "縣在濠州定遠縣東南五十五里。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a174",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p23",
-    "annotator": "正義",
-    "text": "和州歷陽縣，即今州城是也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a175",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p23",
-    "annotator": "集解",
-    "text": "如淳曰：「『雄長』之『長』也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a176",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p23",
-    "annotator": "索隱",
-    "text": "下有郡守，此長即令也。如淳以爲雄長，非也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a177",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p23",
-    "annotator": "正義",
-    "text": "今蘇州也。案：如說非也。吳郡長即吳郡守也。一破吳郡長兵於吳城下而得吳郡守身也。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a178",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p25",
-    "annotator": "正義",
-    "text": "縣名，在朔州北二百二十里。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a179",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p25",
-    "annotator": "集解",
-    "text": "服虔曰：「胡名也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a180",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p25",
-    "annotator": "集解",
-    "text": "服虔曰：「硰音沙。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a181",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p25",
-    "annotator": "索隱",
-    "text": "劉氏音千卧反。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a182",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p26",
-    "annotator": "集解",
-    "text": "文穎曰：「『特一』之『特』也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a183",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p26",
-    "annotator": "正義",
-    "text": "盧奴，定州安喜縣是。曲陽，定州曲陽縣是。安平，定州安平縣。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a184",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p27",
-    "annotator": "集解",
-    "text": "徐廣曰：「一作『銖』。」"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a185",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p27",
-    "annotator": "索隱",
-    "text": "案漢書作「肥銖」。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a186",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p28",
-    "annotator": "正義",
-    "text": "風，方鳳反。"
-  },
-  {
-    "id": "anno:shiji:shiji-樊酈滕灌列傳第三十五:a187",
-    "book": "shiji",
-    "chapter_id": "shiji-樊酈滕灌列傳第三十五",
-    "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p30",
-    "annotator": "索隱",
-    "text": "案他廣，樊噲之孫，後失封。蓋嘗訝太史公序蕭、曹、樊、滕之功悉具，則從他廣而得其事，故備也。"
-  }
-]
+{
+  "book": "shiji",
+  "chapter_id": "shiji-樊酈滕灌列傳第三十五",
+  "annotations": [
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p0",
+      "positions": [
+        {
+          "start": 6,
+          "end": 8,
+          "type": "person",
+          "name": "樊哙",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p0"
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "type": "place",
+          "name": "沛",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p0"
+        },
+        {
+          "start": 30,
+          "end": 32,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p0"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p1",
+      "positions": [
+        {
+          "start": 2,
+          "end": 4,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 5,
+          "end": 6,
+          "type": "place",
+          "name": "豐",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 9,
+          "end": 10,
+          "type": "place",
+          "name": "沛",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 11,
+          "end": 13,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 14,
+          "end": 16,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 25,
+          "end": 27,
+          "type": "place",
+          "name": "胡陵",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 28,
+          "end": 30,
+          "type": "place",
+          "name": "方與",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 36,
+          "end": 37,
+          "type": "place",
+          "name": "豐",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 42,
+          "end": 43,
+          "type": "place",
+          "name": "豐",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 57,
+          "end": 58,
+          "type": "place",
+          "name": "沛",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 63,
+          "end": 64,
+          "type": "place",
+          "name": "薛",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 107,
+          "end": 109,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 110,
+          "end": 112,
+          "type": "person",
+          "name": "章邯",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 113,
+          "end": 115,
+          "type": "place",
+          "name": "濮陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 143,
+          "end": 145,
+          "type": "place",
+          "name": "城陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 157,
+          "end": 159,
+          "type": "place",
+          "name": "戶牖",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 165,
+          "end": 167,
+          "type": "place",
+          "name": "李由",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 261,
+          "end": 263,
+          "type": "place",
+          "name": "開封",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 304,
+          "end": 306,
+          "type": "place",
+          "name": "曲遇",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 316,
+          "end": 318,
+          "type": "place",
+          "name": "宛陵",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 360,
+          "end": 362,
+          "type": "place",
+          "name": "長社",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 363,
+          "end": 365,
+          "type": "place",
+          "name": "轘轅",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 371,
+          "end": 373,
+          "type": "place",
+          "name": "河津",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 383,
+          "end": 384,
+          "type": "place",
+          "name": "尸",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 397,
+          "end": 398,
+          "type": "place",
+          "name": "犨",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 404,
+          "end": 406,
+          "type": "place",
+          "name": "南陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 409,
+          "end": 411,
+          "type": "place",
+          "name": "陽城",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 414,
+          "end": 416,
+          "type": "place",
+          "name": "宛城",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 422,
+          "end": 423,
+          "type": "place",
+          "name": "酈",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 458,
+          "end": 460,
+          "type": "place",
+          "name": "武關",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        },
+        {
+          "start": 462,
+          "end": 464,
+          "type": "place",
+          "name": "霸上",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p1"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p2",
+      "positions": [
+        {
+          "start": 0,
+          "end": 2,
+          "type": "person",
+          "name": "项羽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 8,
+          "end": 10,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 11,
+          "end": 13,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 18,
+          "end": 20,
+          "type": "person",
+          "name": "项伯",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 22,
+          "end": 24,
+          "type": "person",
+          "name": "项羽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 32,
+          "end": 34,
+          "type": "person",
+          "name": "项羽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 45,
+          "end": 47,
+          "type": "person",
+          "name": "范增",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 50,
+          "end": 52,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 54,
+          "end": 56,
+          "type": "person",
+          "name": "项庄",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 64,
+          "end": 66,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 67,
+          "end": 69,
+          "type": "person",
+          "name": "项伯",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 76,
+          "end": 78,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 79,
+          "end": 81,
+          "type": "person",
+          "name": "张良",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 85,
+          "end": 87,
+          "type": "person",
+          "name": "樊哙",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 126,
+          "end": 128,
+          "type": "person",
+          "name": "项羽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 135,
+          "end": 137,
+          "type": "person",
+          "name": "张良",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 140,
+          "end": 142,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 144,
+          "end": 146,
+          "type": "person",
+          "name": "樊哙",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 148,
+          "end": 150,
+          "type": "person",
+          "name": "项羽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 161,
+          "end": 163,
+          "type": "concept",
+          "name": "彘肩",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 178,
+          "end": 180,
+          "type": "person",
+          "name": "项羽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 206,
+          "end": 208,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 211,
+          "end": 213,
+          "type": "place",
+          "name": "咸陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 216,
+          "end": 218,
+          "type": "place",
+          "name": "霸上",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 240,
+          "end": 242,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 261,
+          "end": 263,
+          "type": "person",
+          "name": "项羽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 266,
+          "end": 268,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 272,
+          "end": 274,
+          "type": "person",
+          "name": "樊哙",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 279,
+          "end": 281,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 291,
+          "end": 293,
+          "type": "person",
+          "name": "樊哙",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 306,
+          "end": 308,
+          "type": "place",
+          "name": "霸上",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 312,
+          "end": 314,
+          "type": "person",
+          "name": "张良",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 315,
+          "end": 317,
+          "type": "person",
+          "name": "项羽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 318,
+          "end": 320,
+          "type": "person",
+          "name": "项羽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 327,
+          "end": 329,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 336,
+          "end": 338,
+          "type": "person",
+          "name": "樊哙",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 343,
+          "end": 345,
+          "type": "person",
+          "name": "项羽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 346,
+          "end": 348,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 361,
+          "end": 363,
+          "type": "person",
+          "name": "项羽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 365,
+          "end": 367,
+          "type": "place",
+          "name": "咸陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 369,
+          "end": 371,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        },
+        {
+          "start": 396,
+          "end": 398,
+          "type": "place",
+          "name": "漢中",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p2"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p3",
+      "positions": [
+        {
+          "start": 9,
+          "end": 11,
+          "type": "place",
+          "name": "白水",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        },
+        {
+          "start": 22,
+          "end": 23,
+          "type": "place",
+          "name": "雍",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        },
+        {
+          "start": 27,
+          "end": 28,
+          "type": "place",
+          "name": "雍",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        },
+        {
+          "start": 38,
+          "end": 39,
+          "type": "place",
+          "name": "雍",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        },
+        {
+          "start": 40,
+          "end": 41,
+          "type": "place",
+          "name": "斄",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        },
+        {
+          "start": 49,
+          "end": 51,
+          "type": "place",
+          "name": "好畤",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        },
+        {
+          "start": 128,
+          "end": 130,
+          "type": "place",
+          "name": "咸陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        },
+        {
+          "start": 132,
+          "end": 134,
+          "type": "place",
+          "name": "廢丘",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        },
+        {
+          "start": 145,
+          "end": 147,
+          "type": "place",
+          "name": "櫟陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        },
+        {
+          "start": 155,
+          "end": 156,
+          "type": "place",
+          "name": "杜",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        },
+        {
+          "start": 157,
+          "end": 159,
+          "type": "place",
+          "name": "樊鄉",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        },
+        {
+          "start": 190,
+          "end": 192,
+          "type": "place",
+          "name": "外黃",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        },
+        {
+          "start": 194,
+          "end": 195,
+          "type": "place",
+          "name": "鄒",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        },
+        {
+          "start": 196,
+          "end": 197,
+          "type": "place",
+          "name": "魯",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        },
+        {
+          "start": 198,
+          "end": 200,
+          "type": "place",
+          "name": "瑕丘",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        },
+        {
+          "start": 201,
+          "end": 202,
+          "type": "place",
+          "name": "薛",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        },
+        {
+          "start": 207,
+          "end": 209,
+          "type": "person",
+          "name": "项羽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        },
+        {
+          "start": 213,
+          "end": 215,
+          "type": "place",
+          "name": "彭城",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        },
+        {
+          "start": 219,
+          "end": 220,
+          "type": "place",
+          "name": "魯",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        },
+        {
+          "start": 227,
+          "end": 229,
+          "type": "place",
+          "name": "滎陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        },
+        {
+          "start": 232,
+          "end": 234,
+          "type": "place",
+          "name": "平陰",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        },
+        {
+          "start": 246,
+          "end": 248,
+          "type": "place",
+          "name": "廣武",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        },
+        {
+          "start": 252,
+          "end": 254,
+          "type": "person",
+          "name": "项羽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        },
+        {
+          "start": 259,
+          "end": 261,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        },
+        {
+          "start": 266,
+          "end": 268,
+          "type": "place",
+          "name": "陽夏",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        },
+        {
+          "start": 287,
+          "end": 288,
+          "type": "place",
+          "name": "陳",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        },
+        {
+          "start": 298,
+          "end": 300,
+          "type": "place",
+          "name": "胡陵",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p3"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p4",
+      "positions": [
+        {
+          "start": 31,
+          "end": 33,
+          "type": "person",
+          "name": "臧荼",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 43,
+          "end": 45,
+          "type": "person",
+          "name": "韩信(韩王信)",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 50,
+          "end": 51,
+          "type": "place",
+          "name": "陳",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 97,
+          "end": 99,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 101,
+          "end": 104,
+          "type": "person",
+          "name": "韩王信",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 105,
+          "end": 106,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 108,
+          "end": 110,
+          "type": "place",
+          "name": "霍人",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 116,
+          "end": 118,
+          "type": "place",
+          "name": "雲中",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 139,
+          "end": 141,
+          "type": "person",
+          "name": "陈豨",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 151,
+          "end": 153,
+          "type": "place",
+          "name": "襄國",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 169,
+          "end": 171,
+          "type": "place",
+          "name": "清河",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 172,
+          "end": 174,
+          "type": "place",
+          "name": "常山",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 181,
+          "end": 183,
+          "type": "place",
+          "name": "東垣",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 191,
+          "end": 192,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 203,
+          "end": 205,
+          "type": "place",
+          "name": "無終",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 206,
+          "end": 208,
+          "type": "place",
+          "name": "廣昌",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 222,
+          "end": 223,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 227,
+          "end": 229,
+          "type": "person",
+          "name": "韩信(韩王信)",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 242,
+          "end": 244,
+          "type": "person",
+          "name": "韩信(韩王信)",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 249,
+          "end": 251,
+          "type": "place",
+          "name": "橫谷",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 262,
+          "end": 263,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 264,
+          "end": 265,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 299,
+          "end": 300,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 310,
+          "end": 312,
+          "type": "person",
+          "name": "卢绾",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 316,
+          "end": 317,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 319,
+          "end": 321,
+          "type": "person",
+          "name": "卢绾",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 325,
+          "end": 326,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 327,
+          "end": 328,
+          "type": "place",
+          "name": "薊",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        },
+        {
+          "start": 406,
+          "end": 407,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p4"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p5",
+      "positions": [
+        {
+          "start": 2,
+          "end": 4,
+          "type": "person",
+          "name": "吕后",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p5"
+        },
+        {
+          "start": 6,
+          "end": 8,
+          "type": "person",
+          "name": "吕须",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p5"
+        },
+        {
+          "start": 24,
+          "end": 26,
+          "type": "person",
+          "name": "黥布",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p5"
+        },
+        {
+          "start": 29,
+          "end": 31,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p5"
+        },
+        {
+          "start": 68,
+          "end": 70,
+          "type": "concept",
+          "name": "排闥",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p5"
+        },
+        {
+          "start": 105,
+          "end": 106,
+          "type": "place",
+          "name": "豐",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p5"
+        },
+        {
+          "start": 106,
+          "end": 107,
+          "type": "place",
+          "name": "沛",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p5"
+        },
+        {
+          "start": 176,
+          "end": 178,
+          "type": "person",
+          "name": "卢绾",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p5"
+        },
+        {
+          "start": 185,
+          "end": 186,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p5"
+        },
+        {
+          "start": 226,
+          "end": 230,
+          "type": "person",
+          "name": "赵王如意",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p5"
+        },
+        {
+          "start": 242,
+          "end": 244,
+          "type": "person",
+          "name": "陈平",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p5"
+        },
+        {
+          "start": 247,
+          "end": 248,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p5"
+        },
+        {
+          "start": 257,
+          "end": 259,
+          "type": "person",
+          "name": "陈平",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p5"
+        },
+        {
+          "start": 260,
+          "end": 262,
+          "type": "person",
+          "name": "吕后",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p5"
+        },
+        {
+          "start": 271,
+          "end": 273,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p5"
+        },
+        {
+          "start": 276,
+          "end": 278,
+          "type": "person",
+          "name": "吕后",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p5"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p6",
+      "positions": [
+        {
+          "start": 0,
+          "end": 2,
+          "type": "person",
+          "name": "孝惠帝",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p6"
+        },
+        {
+          "start": 5,
+          "end": 7,
+          "type": "person",
+          "name": "樊哙",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p6"
+        },
+        {
+          "start": 16,
+          "end": 17,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p6"
+        },
+        {
+          "start": 22,
+          "end": 24,
+          "type": "person",
+          "name": "吕须",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p6"
+        },
+        {
+          "start": 45,
+          "end": 46,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p6"
+        },
+        {
+          "start": 60,
+          "end": 62,
+          "type": "person",
+          "name": "吕须",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p6"
+        },
+        {
+          "start": 80,
+          "end": 82,
+          "type": "person",
+          "name": "汉文帝",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p6"
+        },
+        {
+          "start": 122,
+          "end": 123,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p6"
+        },
+        {
+          "start": 182,
+          "end": 183,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p6"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p7",
+      "positions": [
+        {
+          "start": 6,
+          "end": 8,
+          "type": "person",
+          "name": "郦商",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p7"
+        },
+        {
+          "start": 20,
+          "end": 21,
+          "type": "place",
+          "name": "陳",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p7"
+        },
+        {
+          "start": 38,
+          "end": 40,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p7"
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "type": "place",
+          "name": "陳",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p7"
+        },
+        {
+          "start": 67,
+          "end": 69,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p7"
+        },
+        {
+          "start": 80,
+          "end": 82,
+          "type": "place",
+          "name": "長社",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p7"
+        },
+        {
+          "start": 94,
+          "end": 96,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p7"
+        },
+        {
+          "start": 97,
+          "end": 99,
+          "type": "place",
+          "name": "緱氏",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p7"
+        },
+        {
+          "start": 101,
+          "end": 103,
+          "type": "place",
+          "name": "河津",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p7"
+        },
+        {
+          "start": 107,
+          "end": 109,
+          "type": "place",
+          "name": "洛陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p7"
+        },
+        {
+          "start": 114,
+          "end": 115,
+          "type": "place",
+          "name": "宛",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p7"
+        },
+        {
+          "start": 116,
+          "end": 117,
+          "type": "place",
+          "name": "穰",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p7"
+        },
+        {
+          "start": 126,
+          "end": 128,
+          "type": "place",
+          "name": "旬關",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p7"
+        },
+        {
+          "start": 136,
+          "end": 138,
+          "type": "place",
+          "name": "漢中",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p7"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p8",
+      "positions": [
+        {
+          "start": 0,
+          "end": 2,
+          "type": "person",
+          "name": "项羽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p8"
+        },
+        {
+          "start": 6,
+          "end": 8,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p8"
+        },
+        {
+          "start": 25,
+          "end": 27,
+          "type": "place",
+          "name": "隴西",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p8"
+        },
+        {
+          "start": 33,
+          "end": 35,
+          "type": "place",
+          "name": "北地",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p8"
+        },
+        {
+          "start": 39,
+          "end": 41,
+          "type": "place",
+          "name": "上郡",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p8"
+        },
+        {
+          "start": 46,
+          "end": 47,
+          "type": "place",
+          "name": "雍",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p8"
+        },
+        {
+          "start": 49,
+          "end": 51,
+          "type": "place",
+          "name": "烏氏",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p8"
+        },
+        {
+          "start": 64,
+          "end": 66,
+          "type": "place",
+          "name": "栒邑",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p8"
+        },
+        {
+          "start": 74,
+          "end": 76,
+          "type": "place",
+          "name": "泥陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p8"
+        },
+        {
+          "start": 89,
+          "end": 91,
+          "type": "place",
+          "name": "武成",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p8"
+        },
+        {
+          "start": 99,
+          "end": 101,
+          "type": "place",
+          "name": "隴西",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p8"
+        },
+        {
+          "start": 112,
+          "end": 114,
+          "type": "place",
+          "name": "鉅野",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p8"
+        },
+        {
+          "start": 116,
+          "end": 119,
+          "type": "person",
+          "name": "钟离眛",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p8"
+        },
+        {
+          "start": 126,
+          "end": 127,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p8"
+        },
+        {
+          "start": 139,
+          "end": 140,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p8"
+        },
+        {
+          "start": 144,
+          "end": 146,
+          "type": "person",
+          "name": "项羽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p8"
+        },
+        {
+          "start": 152,
+          "end": 154,
+          "type": "place",
+          "name": "胡陵",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p8"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p9",
+      "positions": [
+        {
+          "start": 0,
+          "end": 2,
+          "type": "person",
+          "name": "项羽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p9"
+        },
+        {
+          "start": 16,
+          "end": 18,
+          "type": "person",
+          "name": "臧荼",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p9"
+        },
+        {
+          "start": 29,
+          "end": 31,
+          "type": "place",
+          "name": "龍脫",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p9"
+        },
+        {
+          "start": 46,
+          "end": 47,
+          "type": "place",
+          "name": "易",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p9"
+        },
+        {
+          "start": 59,
+          "end": 60,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p9"
+        },
+        {
+          "start": 79,
+          "end": 80,
+          "type": "place",
+          "name": "涿",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p9"
+        },
+        {
+          "start": 89,
+          "end": 90,
+          "type": "place",
+          "name": "涿",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p9"
+        },
+        {
+          "start": 95,
+          "end": 96,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p9"
+        },
+        {
+          "start": 98,
+          "end": 100,
+          "type": "place",
+          "name": "上谷",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p9"
+        },
+        {
+          "start": 106,
+          "end": 107,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p9"
+        },
+        {
+          "start": 110,
+          "end": 111,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p9"
+        },
+        {
+          "start": 117,
+          "end": 118,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p9"
+        },
+        {
+          "start": 119,
+          "end": 120,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p9"
+        },
+        {
+          "start": 127,
+          "end": 128,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p9"
+        },
+        {
+          "start": 129,
+          "end": 131,
+          "type": "place",
+          "name": "鴈門",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p9"
+        },
+        {
+          "start": 133,
+          "end": 134,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p9"
+        },
+        {
+          "start": 135,
+          "end": 136,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p9"
+        },
+        {
+          "start": 140,
+          "end": 141,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p9"
+        },
+        {
+          "start": 174,
+          "end": 175,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p9"
+        },
+        {
+          "start": 176,
+          "end": 178,
+          "type": "person",
+          "name": "陈豨",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p9"
+        },
+        {
+          "start": 180,
+          "end": 182,
+          "type": "place",
+          "name": "東垣",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p9"
+        },
+        {
+          "start": 187,
+          "end": 188,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p9"
+        },
+        {
+          "start": 192,
+          "end": 194,
+          "type": "person",
+          "name": "黥布",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p9"
+        },
+        {
+          "start": 208,
+          "end": 209,
+          "type": "place",
+          "name": "陳",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p9"
+        },
+        {
+          "start": 249,
+          "end": 250,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p9"
+        },
+        {
+          "start": 252,
+          "end": 253,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p9"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p10",
+      "positions": [
+        {
+          "start": 2,
+          "end": 4,
+          "type": "person",
+          "name": "孝惠帝",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p10"
+        },
+        {
+          "start": 71,
+          "end": 73,
+          "type": "person",
+          "name": "郦商",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p10"
+        },
+        {
+          "start": 123,
+          "end": 124,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p10"
+        },
+        {
+          "start": 129,
+          "end": 130,
+          "type": "place",
+          "name": "酈",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p10"
+        },
+        {
+          "start": 131,
+          "end": 133,
+          "type": "concept",
+          "name": "賣交",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p10"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p11",
+      "positions": [
+        {
+          "start": 6,
+          "end": 7,
+          "type": "place",
+          "name": "吳",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p11"
+        },
+        {
+          "start": 23,
+          "end": 25,
+          "type": "place",
+          "name": "趙城",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p11"
+        },
+        {
+          "start": 50,
+          "end": 52,
+          "type": "place",
+          "name": "趙城",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p11"
+        },
+        {
+          "start": 106,
+          "end": 107,
+          "type": "place",
+          "name": "繆",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p11"
+        },
+        {
+          "start": 116,
+          "end": 117,
+          "type": "place",
+          "name": "酈",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p11"
+        },
+        {
+          "start": 120,
+          "end": 121,
+          "type": "place",
+          "name": "繆",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p11"
+        },
+        {
+          "start": 137,
+          "end": 138,
+          "type": "place",
+          "name": "懷",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p11"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p12",
+      "positions": [
+        {
+          "start": 6,
+          "end": 9,
+          "type": "person",
+          "name": "夏侯婴(滕公)",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p12"
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "type": "place",
+          "name": "沛",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p12"
+        },
+        {
+          "start": 15,
+          "end": 16,
+          "type": "place",
+          "name": "沛",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p12"
+        },
+        {
+          "start": 30,
+          "end": 31,
+          "type": "place",
+          "name": "沛",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p12"
+        },
+        {
+          "start": 36,
+          "end": 38,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p12"
+        },
+        {
+          "start": 56,
+          "end": 58,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p12"
+        },
+        {
+          "start": 58,
+          "end": 59,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p12"
+        },
+        {
+          "start": 61,
+          "end": 63,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p12"
+        },
+        {
+          "start": 71,
+          "end": 73,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p12"
+        },
+        {
+          "start": 77,
+          "end": 79,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p12"
+        },
+        {
+          "start": 117,
+          "end": 119,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p12"
+        },
+        {
+          "start": 132,
+          "end": 134,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p12"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p13",
+      "positions": [
+        {
+          "start": 0,
+          "end": 2,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p13"
+        },
+        {
+          "start": 9,
+          "end": 10,
+          "type": "place",
+          "name": "沛",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p13"
+        },
+        {
+          "start": 19,
+          "end": 21,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p13"
+        },
+        {
+          "start": 25,
+          "end": 26,
+          "type": "place",
+          "name": "沛",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p13"
+        },
+        {
+          "start": 32,
+          "end": 34,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p13"
+        },
+        {
+          "start": 35,
+          "end": 37,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p13"
+        },
+        {
+          "start": 52,
+          "end": 54,
+          "type": "place",
+          "name": "胡陵",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p13"
+        },
+        {
+          "start": 57,
+          "end": 59,
+          "type": "person",
+          "name": "萧何",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p13"
+        },
+        {
+          "start": 70,
+          "end": 72,
+          "type": "place",
+          "name": "胡陵",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p13"
+        },
+        {
+          "start": 93,
+          "end": 95,
+          "type": "place",
+          "name": "戶牖",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p13"
+        },
+        {
+          "start": 97,
+          "end": 99,
+          "type": "place",
+          "name": "李由",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p13"
+        },
+        {
+          "start": 100,
+          "end": 102,
+          "type": "place",
+          "name": "雍丘",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p13"
+        },
+        {
+          "start": 125,
+          "end": 127,
+          "type": "person",
+          "name": "章邯",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p13"
+        },
+        {
+          "start": 131,
+          "end": 133,
+          "type": "place",
+          "name": "濮陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p13"
+        },
+        {
+          "start": 160,
+          "end": 162,
+          "type": "place",
+          "name": "開封",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p13"
+        },
+        {
+          "start": 166,
+          "end": 168,
+          "type": "place",
+          "name": "曲遇",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p13"
+        },
+        {
+          "start": 220,
+          "end": 222,
+          "type": "person",
+          "name": "夏侯婴",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p13"
+        },
+        {
+          "start": 235,
+          "end": 237,
+          "type": "place",
+          "name": "南陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p13"
+        },
+        {
+          "start": 258,
+          "end": 260,
+          "type": "place",
+          "name": "霸上",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p13"
+        },
+        {
+          "start": 261,
+          "end": 263,
+          "type": "person",
+          "name": "项羽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p13"
+        },
+        {
+          "start": 269,
+          "end": 271,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p13"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p14",
+      "positions": [
+        {
+          "start": 11,
+          "end": 13,
+          "type": "place",
+          "name": "彭城",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p14"
+        },
+        {
+          "start": 14,
+          "end": 16,
+          "type": "person",
+          "name": "项羽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p14"
+        },
+        {
+          "start": 32,
+          "end": 34,
+          "type": "person",
+          "name": "孝惠帝",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p14"
+        },
+        {
+          "start": 35,
+          "end": 36,
+          "type": "place",
+          "name": "魯",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p14"
+        },
+        {
+          "start": 74,
+          "end": 75,
+          "type": "place",
+          "name": "雍",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p14"
+        },
+        {
+          "start": 103,
+          "end": 105,
+          "type": "person",
+          "name": "孝惠帝",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p14"
+        },
+        {
+          "start": 106,
+          "end": 107,
+          "type": "place",
+          "name": "魯",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p14"
+        },
+        {
+          "start": 109,
+          "end": 110,
+          "type": "place",
+          "name": "豐",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p14"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p15",
+      "positions": [
+        {
+          "start": 4,
+          "end": 6,
+          "type": "place",
+          "name": "滎陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p15"
+        },
+        {
+          "start": 17,
+          "end": 19,
+          "type": "place",
+          "name": "祈陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p15"
+        },
+        {
+          "start": 37,
+          "end": 38,
+          "type": "place",
+          "name": "陳",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p15"
+        },
+        {
+          "start": 44,
+          "end": 45,
+          "type": "place",
+          "name": "魯",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p15"
+        },
+        {
+          "start": 48,
+          "end": 50,
+          "type": "place",
+          "name": "茲氏",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p15"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p16",
+      "positions": [
+        {
+          "start": 11,
+          "end": 13,
+          "type": "person",
+          "name": "臧荼",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p16"
+        },
+        {
+          "start": 28,
+          "end": 29,
+          "type": "place",
+          "name": "陳",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p16"
+        },
+        {
+          "start": 52,
+          "end": 53,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p16"
+        },
+        {
+          "start": 55,
+          "end": 57,
+          "type": "place",
+          "name": "武泉",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p16"
+        },
+        {
+          "start": 58,
+          "end": 60,
+          "type": "place",
+          "name": "雲中",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p16"
+        },
+        {
+          "start": 75,
+          "end": 77,
+          "type": "person",
+          "name": "韩信(韩王信)",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p16"
+        },
+        {
+          "start": 80,
+          "end": 82,
+          "type": "place",
+          "name": "晉陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p16"
+        },
+        {
+          "start": 91,
+          "end": 93,
+          "type": "place",
+          "name": "平城",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p16"
+        },
+        {
+          "start": 111,
+          "end": 113,
+          "type": "person",
+          "name": "阏氏",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p16"
+        },
+        {
+          "start": 114,
+          "end": 116,
+          "type": "person",
+          "name": "冒顿单于",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p16"
+        },
+        {
+          "start": 146,
+          "end": 148,
+          "type": "place",
+          "name": "細陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p16"
+        },
+        {
+          "start": 162,
+          "end": 164,
+          "type": "place",
+          "name": "句注",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p16"
+        },
+        {
+          "start": 176,
+          "end": 178,
+          "type": "place",
+          "name": "平城",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p16"
+        },
+        {
+          "start": 182,
+          "end": 183,
+          "type": "place",
+          "name": "陳",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p16"
+        },
+        {
+          "start": 203,
+          "end": 205,
+          "type": "person",
+          "name": "陈豨",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p16"
+        },
+        {
+          "start": 206,
+          "end": 208,
+          "type": "person",
+          "name": "黥布",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p16"
+        },
+        {
+          "start": 211,
+          "end": 212,
+          "type": "place",
+          "name": "陳",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p16"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p17",
+      "positions": [
+        {
+          "start": 5,
+          "end": 6,
+          "type": "place",
+          "name": "沛",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p17"
+        },
+        {
+          "start": 13,
+          "end": 15,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p17"
+        },
+        {
+          "start": 21,
+          "end": 23,
+          "type": "person",
+          "name": "孝惠帝",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p17"
+        },
+        {
+          "start": 24,
+          "end": 26,
+          "type": "person",
+          "name": "孝惠帝",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p17"
+        },
+        {
+          "start": 34,
+          "end": 36,
+          "type": "person",
+          "name": "孝惠帝",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p17"
+        },
+        {
+          "start": 37,
+          "end": 38,
+          "type": "place",
+          "name": "魯",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p17"
+        },
+        {
+          "start": 69,
+          "end": 71,
+          "type": "person",
+          "name": "孝惠帝",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p17"
+        },
+        {
+          "start": 85,
+          "end": 86,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p17"
+        },
+        {
+          "start": 95,
+          "end": 98,
+          "type": "person",
+          "name": "刘兴居(东牟侯)",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p17"
+        },
+        {
+          "start": 112,
+          "end": 113,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p17"
+        },
+        {
+          "start": 114,
+          "end": 115,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p17"
+        },
+        {
+          "start": 123,
+          "end": 125,
+          "type": "person",
+          "name": "汉文帝",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p17"
+        },
+        {
+          "start": 171,
+          "end": 173,
+          "type": "place",
+          "name": "平陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p17"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p18",
+      "positions": [
+        {
+          "start": 0,
+          "end": 2,
+          "type": "place",
+          "name": "潁陰",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p18"
+        },
+        {
+          "start": 6,
+          "end": 8,
+          "type": "person",
+          "name": "灌婴",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p18"
+        },
+        {
+          "start": 10,
+          "end": 12,
+          "type": "place",
+          "name": "睢陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p18"
+        },
+        {
+          "start": 20,
+          "end": 22,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p18"
+        },
+        {
+          "start": 24,
+          "end": 26,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p18"
+        },
+        {
+          "start": 30,
+          "end": 32,
+          "type": "place",
+          "name": "雍丘",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p18"
+        },
+        {
+          "start": 34,
+          "end": 36,
+          "type": "person",
+          "name": "章邯",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p18"
+        },
+        {
+          "start": 42,
+          "end": 44,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p18"
+        },
+        {
+          "start": 86,
+          "end": 88,
+          "type": "place",
+          "name": "開封",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p18"
+        },
+        {
+          "start": 89,
+          "end": 91,
+          "type": "place",
+          "name": "曲遇",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p18"
+        },
+        {
+          "start": 111,
+          "end": 113,
+          "type": "place",
+          "name": "陽武",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p18"
+        },
+        {
+          "start": 122,
+          "end": 123,
+          "type": "place",
+          "name": "尸",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p18"
+        },
+        {
+          "start": 127,
+          "end": 129,
+          "type": "place",
+          "name": "河津",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p18"
+        },
+        {
+          "start": 132,
+          "end": 134,
+          "type": "place",
+          "name": "南陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p18"
+        },
+        {
+          "start": 136,
+          "end": 138,
+          "type": "place",
+          "name": "陽城",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p18"
+        },
+        {
+          "start": 142,
+          "end": 144,
+          "type": "place",
+          "name": "南陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p18"
+        },
+        {
+          "start": 148,
+          "end": 150,
+          "type": "place",
+          "name": "武關",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p18"
+        },
+        {
+          "start": 160,
+          "end": 162,
+          "type": "place",
+          "name": "霸上",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p18"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p19",
+      "positions": [
+        {
+          "start": 0,
+          "end": 2,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p19"
+        },
+        {
+          "start": 15,
+          "end": 17,
+          "type": "place",
+          "name": "漢中",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p19"
+        },
+        {
+          "start": 34,
+          "end": 36,
+          "type": "place",
+          "name": "櫟陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p19"
+        },
+        {
+          "start": 43,
+          "end": 45,
+          "type": "person",
+          "name": "章邯",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p19"
+        },
+        {
+          "start": 46,
+          "end": 48,
+          "type": "place",
+          "name": "廢丘",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p19"
+        },
+        {
+          "start": 55,
+          "end": 58,
+          "type": "place",
+          "name": "臨晉關",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p19"
+        },
+        {
+          "start": 61,
+          "end": 62,
+          "type": "place",
+          "name": "殷",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p19"
+        },
+        {
+          "start": 69,
+          "end": 71,
+          "type": "person",
+          "name": "项羽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p19"
+        },
+        {
+          "start": 72,
+          "end": 74,
+          "type": "person",
+          "name": "龙且",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p19"
+        },
+        {
+          "start": 76,
+          "end": 77,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p19"
+        },
+        {
+          "start": 77,
+          "end": 79,
+          "type": "person",
+          "name": "项他",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p19"
+        },
+        {
+          "start": 103,
+          "end": 104,
+          "type": "place",
+          "name": "杜",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p19"
+        },
+        {
+          "start": 104,
+          "end": 106,
+          "type": "place",
+          "name": "平鄉",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p19"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p20",
+      "positions": [
+        {
+          "start": 12,
+          "end": 14,
+          "type": "place",
+          "name": "彭城",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p20"
+        },
+        {
+          "start": 15,
+          "end": 17,
+          "type": "person",
+          "name": "项羽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p20"
+        },
+        {
+          "start": 36,
+          "end": 38,
+          "type": "place",
+          "name": "雍丘",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p20"
+        },
+        {
+          "start": 69,
+          "end": 71,
+          "type": "place",
+          "name": "滎陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p20"
+        },
+        {
+          "start": 105,
+          "end": 107,
+          "type": "person",
+          "name": "李必",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p20"
+        },
+        {
+          "start": 108,
+          "end": 110,
+          "type": "person",
+          "name": "骆甲",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p20"
+        },
+        {
+          "start": 167,
+          "end": 169,
+          "type": "person",
+          "name": "灌婴",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p20"
+        },
+        {
+          "start": 179,
+          "end": 181,
+          "type": "person",
+          "name": "灌婴",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p20"
+        },
+        {
+          "start": 187,
+          "end": 189,
+          "type": "person",
+          "name": "李必",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p20"
+        },
+        {
+          "start": 190,
+          "end": 192,
+          "type": "person",
+          "name": "骆甲",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p20"
+        },
+        {
+          "start": 207,
+          "end": 209,
+          "type": "place",
+          "name": "滎陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p20"
+        },
+        {
+          "start": 229,
+          "end": 231,
+          "type": "place",
+          "name": "陽武",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p20"
+        },
+        {
+          "start": 232,
+          "end": 234,
+          "type": "place",
+          "name": "襄邑",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p20"
+        },
+        {
+          "start": 236,
+          "end": 238,
+          "type": "person",
+          "name": "项羽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p20"
+        },
+        {
+          "start": 243,
+          "end": 244,
+          "type": "place",
+          "name": "魯",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p20"
+        },
+        {
+          "start": 291,
+          "end": 293,
+          "type": "place",
+          "name": "樓煩",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p20"
+        },
+        {
+          "start": 353,
+          "end": 354,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p20"
+        },
+        {
+          "start": 355,
+          "end": 357,
+          "type": "person",
+          "name": "韩信(韩王信)",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p20"
+        },
+        {
+          "start": 364,
+          "end": 366,
+          "type": "place",
+          "name": "敖倉",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p20"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p21",
+      "positions": [
+        {
+          "start": 8,
+          "end": 9,
+          "type": "place",
+          "name": "杜",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p21"
+        },
+        {
+          "start": 9,
+          "end": 11,
+          "type": "place",
+          "name": "平鄉",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p21"
+        },
+        {
+          "start": 26,
+          "end": 27,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p21"
+        },
+        {
+          "start": 28,
+          "end": 30,
+          "type": "person",
+          "name": "韩信(韩王信)",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p21"
+        },
+        {
+          "start": 47,
+          "end": 50,
+          "type": "person",
+          "name": "华毋伤",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p21"
+        },
+        {
+          "start": 66,
+          "end": 67,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p21"
+        },
+        {
+          "start": 67,
+          "end": 69,
+          "type": "person",
+          "name": "田光",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p21"
+        },
+        {
+          "start": 72,
+          "end": 73,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p21"
+        },
+        {
+          "start": 73,
+          "end": 75,
+          "type": "person",
+          "name": "田横",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p21"
+        },
+        {
+          "start": 124,
+          "end": 126,
+          "type": "person",
+          "name": "韩信(韩王信)",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p21"
+        },
+        {
+          "start": 127,
+          "end": 129,
+          "type": "person",
+          "name": "龙且",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p21"
+        },
+        {
+          "start": 144,
+          "end": 146,
+          "type": "person",
+          "name": "龙且",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p21"
+        },
+        {
+          "start": 162,
+          "end": 164,
+          "type": "place",
+          "name": "樓煩",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p21"
+        },
+        {
+          "start": 173,
+          "end": 175,
+          "type": "person",
+          "name": "周兰",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p21"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p22",
+      "positions": [
+        {
+          "start": 5,
+          "end": 7,
+          "type": "person",
+          "name": "韩信(韩王信)",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p22"
+        },
+        {
+          "start": 10,
+          "end": 12,
+          "type": "person",
+          "name": "齐哀王",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p22"
+        },
+        {
+          "start": 23,
+          "end": 24,
+          "type": "place",
+          "name": "魯",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p22"
+        },
+        {
+          "start": 33,
+          "end": 34,
+          "type": "place",
+          "name": "薛",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p22"
+        },
+        {
+          "start": 51,
+          "end": 52,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p22"
+        },
+        {
+          "start": 75,
+          "end": 77,
+          "type": "place",
+          "name": "廣陵",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p22"
+        },
+        {
+          "start": 84,
+          "end": 86,
+          "type": "person",
+          "name": "项羽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p22"
+        },
+        {
+          "start": 90,
+          "end": 91,
+          "type": "place",
+          "name": "薛",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p22"
+        },
+        {
+          "start": 112,
+          "end": 114,
+          "type": "place",
+          "name": "下邳",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p22"
+        },
+        {
+          "start": 119,
+          "end": 120,
+          "type": "place",
+          "name": "薛",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p22"
+        },
+        {
+          "start": 123,
+          "end": 125,
+          "type": "place",
+          "name": "下邳",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p22"
+        },
+        {
+          "start": 131,
+          "end": 133,
+          "type": "place",
+          "name": "平陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p22"
+        },
+        {
+          "start": 142,
+          "end": 144,
+          "type": "place",
+          "name": "彭城",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p22"
+        },
+        {
+          "start": 154,
+          "end": 155,
+          "type": "place",
+          "name": "薛",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p22"
+        },
+        {
+          "start": 156,
+          "end": 157,
+          "type": "place",
+          "name": "沛",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p22"
+        },
+        {
+          "start": 162,
+          "end": 163,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p22"
+        },
+        {
+          "start": 165,
+          "end": 166,
+          "type": "place",
+          "name": "苦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p22"
+        },
+        {
+          "start": 167,
+          "end": 168,
+          "type": "place",
+          "name": "譙",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p22"
+        },
+        {
+          "start": 176,
+          "end": 178,
+          "type": "person",
+          "name": "周兰",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p22"
+        },
+        {
+          "start": 183,
+          "end": 185,
+          "type": "place",
+          "name": "頤鄉",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p22"
+        },
+        {
+          "start": 198,
+          "end": 199,
+          "type": "place",
+          "name": "陳",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p22"
+        },
+        {
+          "start": 208,
+          "end": 210,
+          "type": "place",
+          "name": "樓煩",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p22"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p23",
+      "positions": [
+        {
+          "start": 3,
+          "end": 5,
+          "type": "place",
+          "name": "垓下",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p23"
+        },
+        {
+          "start": 24,
+          "end": 26,
+          "type": "place",
+          "name": "東城",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p23"
+        },
+        {
+          "start": 72,
+          "end": 74,
+          "type": "place",
+          "name": "東城",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p23"
+        },
+        {
+          "start": 75,
+          "end": 77,
+          "type": "place",
+          "name": "歷陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p23"
+        },
+        {
+          "start": 85,
+          "end": 86,
+          "type": "place",
+          "name": "吳",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p23"
+        },
+        {
+          "start": 88,
+          "end": 89,
+          "type": "place",
+          "name": "吳",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p23"
+        },
+        {
+          "start": 101,
+          "end": 102,
+          "type": "place",
+          "name": "吳",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p23"
+        },
+        {
+          "start": 106,
+          "end": 107,
+          "type": "place",
+          "name": "吳",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p23"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p24",
+      "positions": [
+        {
+          "start": 28,
+          "end": 30,
+          "type": "person",
+          "name": "臧荼",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p24"
+        },
+        {
+          "start": 36,
+          "end": 37,
+          "type": "place",
+          "name": "陳",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p24"
+        },
+        {
+          "start": 54,
+          "end": 56,
+          "type": "place",
+          "name": "潁陰",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p24"
+        },
+        {
+          "start": 64,
+          "end": 66,
+          "type": "place",
+          "name": "潁陰",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p24"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p25",
+      "positions": [
+        {
+          "start": 8,
+          "end": 11,
+          "type": "person",
+          "name": "韩王信",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p25"
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p25"
+        },
+        {
+          "start": 15,
+          "end": 17,
+          "type": "place",
+          "name": "馬邑",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p25"
+        },
+        {
+          "start": 22,
+          "end": 24,
+          "type": "place",
+          "name": "樓煩",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p25"
+        },
+        {
+          "start": 30,
+          "end": 31,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p25"
+        },
+        {
+          "start": 32,
+          "end": 33,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p25"
+        },
+        {
+          "start": 38,
+          "end": 40,
+          "type": "place",
+          "name": "武泉",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p25"
+        },
+        {
+          "start": 48,
+          "end": 50,
+          "type": "person",
+          "name": "韩信(韩王信)",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p25"
+        },
+        {
+          "start": 52,
+          "end": 54,
+          "type": "place",
+          "name": "晉陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p25"
+        },
+        {
+          "start": 91,
+          "end": 93,
+          "type": "place",
+          "name": "硰石",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p25"
+        },
+        {
+          "start": 101,
+          "end": 103,
+          "type": "place",
+          "name": "平城",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p25"
+        },
+        {
+          "start": 112,
+          "end": 114,
+          "type": "place",
+          "name": "東垣",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p25"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p26",
+      "positions": [
+        {
+          "start": 2,
+          "end": 4,
+          "type": "person",
+          "name": "陈豨",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p26"
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p26"
+        },
+        {
+          "start": 15,
+          "end": 17,
+          "type": "place",
+          "name": "曲逆",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p26"
+        },
+        {
+          "start": 35,
+          "end": 37,
+          "type": "place",
+          "name": "曲逆",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p26"
+        },
+        {
+          "start": 38,
+          "end": 40,
+          "type": "place",
+          "name": "盧奴",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p26"
+        },
+        {
+          "start": 41,
+          "end": 44,
+          "type": "place",
+          "name": "上曲陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p26"
+        },
+        {
+          "start": 45,
+          "end": 47,
+          "type": "place",
+          "name": "安國",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p26"
+        },
+        {
+          "start": 48,
+          "end": 50,
+          "type": "place",
+          "name": "安平",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p26"
+        },
+        {
+          "start": 56,
+          "end": 58,
+          "type": "place",
+          "name": "東垣",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p26"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p27",
+      "positions": [
+        {
+          "start": 0,
+          "end": 2,
+          "type": "person",
+          "name": "黥布",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p27"
+        },
+        {
+          "start": 17,
+          "end": 18,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p27"
+        },
+        {
+          "start": 25,
+          "end": 27,
+          "type": "place",
+          "name": "樓煩",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p27"
+        },
+        {
+          "start": 161,
+          "end": 162,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p27"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p28",
+      "positions": [
+        {
+          "start": 15,
+          "end": 17,
+          "type": "person",
+          "name": "孝惠帝",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p28"
+        },
+        {
+          "start": 89,
+          "end": 91,
+          "type": "place",
+          "name": "滎陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p28"
+        },
+        {
+          "start": 102,
+          "end": 104,
+          "type": "place",
+          "name": "滎陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p28"
+        },
+        {
+          "start": 106,
+          "end": 108,
+          "type": "person",
+          "name": "齐哀王",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p28"
+        },
+        {
+          "start": 131,
+          "end": 133,
+          "type": "person",
+          "name": "齐哀王",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p28"
+        },
+        {
+          "start": 142,
+          "end": 144,
+          "type": "place",
+          "name": "滎陽",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p28"
+        },
+        {
+          "start": 150,
+          "end": 152,
+          "type": "person",
+          "name": "陈平",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p28"
+        },
+        {
+          "start": 154,
+          "end": 155,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p28"
+        },
+        {
+          "start": 157,
+          "end": 159,
+          "type": "person",
+          "name": "汉文帝",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p28"
+        },
+        {
+          "start": 162,
+          "end": 164,
+          "type": "person",
+          "name": "汉文帝",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p28"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p29",
+      "positions": [
+        {
+          "start": 7,
+          "end": 8,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p29"
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p29"
+        },
+        {
+          "start": 28,
+          "end": 30,
+          "type": "place",
+          "name": "北地",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p29"
+        },
+        {
+          "start": 31,
+          "end": 33,
+          "type": "place",
+          "name": "上郡",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p29"
+        },
+        {
+          "start": 36,
+          "end": 37,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p29"
+        },
+        {
+          "start": 72,
+          "end": 73,
+          "type": "place",
+          "name": "相",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p29"
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p29"
+        },
+        {
+          "start": 95,
+          "end": 96,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p29"
+        },
+        {
+          "start": 118,
+          "end": 120,
+          "type": "person",
+          "name": "灌婴",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p29"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p30",
+      "positions": [
+        {
+          "start": 7,
+          "end": 8,
+          "type": "place",
+          "name": "豐",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p30"
+        },
+        {
+          "start": 8,
+          "end": 9,
+          "type": "place",
+          "name": "沛",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p30"
+        },
+        {
+          "start": 21,
+          "end": 23,
+          "type": "person",
+          "name": "樊哙",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p30"
+        },
+        {
+          "start": 24,
+          "end": 26,
+          "type": "person",
+          "name": "夏侯婴",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p30"
+        },
+        {
+          "start": 52,
+          "end": 54,
+          "type": "concept",
+          "name": "附驥",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p30"
+        },
+        {
+          "start": 76,
+          "end": 78,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p30"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-樊酈滕灌列傳第三十五:p31",
+      "positions": [
+        {
+          "start": 36,
+          "end": 37,
+          "type": "place",
+          "name": "酈",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p31"
+        },
+        {
+          "start": 38,
+          "end": 40,
+          "type": "concept",
+          "name": "賣交",
+          "evidence": "text:shiji:text:shiji:shiji-樊酈滕灌列傳第三十五:p31"
+        }
+      ]
+    }
+  ]
+}
