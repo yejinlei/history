@@ -1,10 +1,6 @@
 {
-  "book_id": "shiji",
-  "chapter_id": "shiji-李將軍列傳第四十九",
-  "chapter_title": "李将军列传第四十九",
-  "version": "final",
-  "generated_at": "2026-11-02",
-  "paragraphs": [
+  "chapter": "李將軍列傳第四十九",
+  "annotations": [
     {
       "para_id": "p0",
       "text": "李將軍廣者，隴西成紀人也。其先曰李信，秦時爲將，逐得燕太子丹者也。故槐里，徙成紀。廣家世世受射。孝文帝十四年，匈奴大入蕭關，而廣以良家子從軍擊胡，用善騎射，殺首虜多，爲漢中郎。廣從弟李蔡亦爲郎，皆爲武騎常侍，秩八百石。嘗從行，有所衝陷折關及格猛獸，而文帝曰：「惜乎，子不遇時！如令子當高帝時，萬戶侯豈足道哉！」",
@@ -12,121 +8,92 @@
         {
           "start": 0,
           "end": 3,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "李將軍"
         },
         {
           "start": 3,
           "end": 4,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 6,
+          "end": 8,
+          "entity_id": "隴西",
+          "surface": "隴西"
+        },
+        {
+          "start": 8,
           "end": 10,
-          "entity_id": "l1",
-          "type": "地理",
-          "name": "陇西郡"
+          "entity_id": "成紀",
+          "surface": "成紀"
         },
         {
           "start": 16,
           "end": 18,
-          "entity_id": "p2",
-          "type": "人物",
-          "name": "李信"
+          "entity_id": "李信",
+          "surface": "李信"
         },
         {
-          "start": 27,
-          "end": 29,
-          "entity_id": "p27",
-          "type": "人物",
-          "name": "刘据（卫太子）"
+          "start": 26,
+          "end": 30,
+          "entity_id": "燕太子丹",
+          "surface": "燕太子丹"
         },
         {
           "start": 34,
           "end": 36,
-          "entity_id": "l3",
-          "type": "地理",
-          "name": "槐里"
+          "entity_id": "槐里",
+          "surface": "槐里"
         },
         {
           "start": 38,
           "end": 40,
-          "entity_id": "l2",
-          "type": "地理",
-          "name": "成纪"
+          "entity_id": "成紀",
+          "surface": "成紀"
         },
         {
           "start": 41,
           "end": 42,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
-        },
-        {
-          "start": 43,
-          "end": 47,
-          "entity_id": "c3",
-          "type": "概念",
-          "name": "世世受射"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 48,
           "end": 51,
-          "entity_id": "p3",
-          "type": "人物",
-          "name": "刘恒（汉文帝）"
+          "entity_id": "劉恆（漢文帝）",
+          "surface": "孝文帝"
         },
         {
           "start": 59,
           "end": 61,
-          "entity_id": "l4",
-          "type": "地理",
-          "name": "萧关"
+          "entity_id": "蕭關",
+          "surface": "蕭關"
         },
         {
           "start": 63,
           "end": 64,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
-        },
-        {
-          "start": 65,
-          "end": 68,
-          "entity_id": "c2",
-          "type": "概念",
-          "name": "良家子"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 88,
           "end": 89,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 91,
           "end": 93,
-          "entity_id": "p4",
-          "type": "人物",
-          "name": "李蔡"
+          "entity_id": "李蔡",
+          "surface": "李蔡"
         },
         {
           "start": 125,
           "end": 127,
-          "entity_id": "p3",
-          "type": "人物",
-          "name": "刘恒（汉文帝）"
-        },
-        {
-          "start": 142,
-          "end": 145,
-          "entity_id": "p3",
-          "type": "人物",
-          "name": "刘恒（汉文帝）"
+          "entity_id": "劉恆（漢文帝）",
+          "surface": "文帝"
         }
       ]
     },
@@ -137,149 +104,128 @@
         {
           "start": 1,
           "end": 3,
-          "entity_id": "p5",
-          "type": "人物",
-          "name": "刘启（汉景帝）"
+          "entity_id": "劉啟（漢景帝）",
+          "surface": "孝景"
         },
         {
           "start": 6,
           "end": 7,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 8,
           "end": 10,
-          "entity_id": "l1",
-          "type": "地理",
-          "name": "陇西郡"
+          "entity_id": "隴西",
+          "surface": "隴西"
         },
         {
           "start": 24,
           "end": 25,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 32,
           "end": 36,
-          "entity_id": "p6",
-          "type": "人物",
-          "name": "周亚夫"
+          "entity_id": "周亞夫",
+          "surface": "太尉亞夫"
         },
         {
           "start": 47,
           "end": 49,
-          "entity_id": "l11",
-          "type": "地理",
-          "name": "昌邑"
+          "entity_id": "昌邑",
+          "surface": "昌邑"
         },
         {
           "start": 52,
           "end": 54,
-          "entity_id": "p7",
-          "type": "人物",
-          "name": "刘武（梁孝王）"
+          "entity_id": "劉武（梁孝王）",
+          "surface": "梁王"
         },
         {
           "start": 55,
           "end": 56,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 56,
           "end": 58,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "將軍"
         },
         {
           "start": 68,
           "end": 70,
-          "entity_id": "l5",
-          "type": "地理",
-          "name": "上谷郡"
+          "entity_id": "上谷",
+          "surface": "上谷"
         },
         {
-          "start": 80,
+          "start": 83,
           "end": 87,
-          "entity_id": "p8",
-          "type": "人物",
-          "name": "公孙昆邪"
+          "entity_id": "公孫昆邪",
+          "surface": "公孫昆邪"
         },
         {
           "start": 88,
           "end": 89,
-          "entity_id": "p34",
-          "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "entity_id": "劉徹（漢武帝）",
+          "surface": "上"
         },
         {
           "start": 93,
           "end": 95,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "李廣"
         },
         {
           "start": 124,
           "end": 126,
-          "entity_id": "l6",
-          "type": "地理",
-          "name": "上郡"
+          "entity_id": "上郡",
+          "surface": "上郡"
         },
         {
           "start": 130,
           "end": 131,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 139,
           "end": 141,
-          "entity_id": "l6",
-          "type": "地理",
-          "name": "上郡"
+          "entity_id": "上郡",
+          "surface": "上郡"
         },
         {
           "start": 144,
           "end": 146,
-          "entity_id": "l1",
-          "type": "地理",
-          "name": "陇西郡"
+          "entity_id": "隴西",
+          "surface": "隴西"
         },
         {
           "start": 147,
           "end": 149,
-          "entity_id": "l7",
-          "type": "地理",
-          "name": "北地郡"
+          "entity_id": "北地",
+          "surface": "北地"
         },
         {
           "start": 150,
           "end": 152,
-          "entity_id": "l8",
-          "type": "地理",
-          "name": "雁门郡"
+          "entity_id": "雁門",
+          "surface": "鴈門"
         },
         {
           "start": 153,
           "end": 155,
-          "entity_id": "l9",
-          "type": "地理",
-          "name": "代郡"
+          "entity_id": "代郡",
+          "surface": "代郡"
         },
         {
           "start": 156,
           "end": 158,
-          "entity_id": "l10",
-          "type": "地理",
-          "name": "云中郡"
+          "entity_id": "雲中",
+          "surface": "雲中"
         }
       ]
     },
@@ -290,163 +236,140 @@
         {
           "start": 4,
           "end": 6,
-          "entity_id": "l6",
-          "type": "地理",
-          "name": "上郡"
+          "entity_id": "上郡",
+          "surface": "上郡"
         },
         {
           "start": 7,
           "end": 9,
-          "entity_id": "p34",
-          "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "entity_id": "劉徹（漢武帝）",
+          "surface": "天子"
         },
         {
           "start": 14,
           "end": 15,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 60,
           "end": 61,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 62,
           "end": 63,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 74,
           "end": 75,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 97,
           "end": 98,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 107,
           "end": 108,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 137,
           "end": 138,
-          "entity_id": "p34",
-          "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "entity_id": "劉徹（漢武帝）",
+          "surface": "上"
         },
         {
           "start": 149,
           "end": 150,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 159,
           "end": 160,
-          "entity_id": "p34",
-          "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "entity_id": "劉徹（漢武帝）",
+          "surface": "上"
         },
         {
           "start": 163,
           "end": 164,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 176,
           "end": 177,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 214,
           "end": 217,
-          "entity_id": "p15",
-          "type": "人物",
-          "name": "卫青"
+          "entity_id": "衛青（大將軍）",
+          "surface": "大將軍"
         },
         {
           "start": 222,
           "end": 223,
-          "entity_id": "p17",
-          "type": "人物",
-          "name": "李敢"
+          "entity_id": "李敢",
+          "surface": "敢"
         },
         {
           "start": 227,
           "end": 228,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 278,
           "end": 279,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 310,
           "end": 311,
-          "entity_id": "p17",
-          "type": "人物",
-          "name": "李敢"
+          "entity_id": "李敢",
+          "surface": "敢"
         },
         {
           "start": 322,
           "end": 324,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "李廣"
         },
         {
           "start": 324,
           "end": 325,
-          "entity_id": "p34",
-          "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "entity_id": "劉徹（漢武帝）",
+          "surface": "上"
         },
         {
           "start": 368,
           "end": 369,
-          "entity_id": "p17",
-          "type": "人物",
-          "name": "李敢"
+          "entity_id": "李敢",
+          "surface": "敢"
         },
         {
           "start": 401,
           "end": 403,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "李廣"
         },
         {
           "start": 413,
           "end": 414,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         }
       ]
     },
@@ -457,170 +380,128 @@
         {
           "start": 4,
           "end": 6,
-          "entity_id": "p5",
-          "type": "人物",
-          "name": "刘启（汉景帝）"
+          "entity_id": "劉啟（漢景帝）",
+          "surface": "孝景"
         },
         {
           "start": 8,
           "end": 10,
-          "entity_id": "p34",
-          "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "entity_id": "劉徹（漢武帝）",
+          "surface": "武帝"
         },
         {
           "start": 16,
           "end": 17,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 23,
           "end": 24,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 25,
           "end": 27,
-          "entity_id": "l6",
-          "type": "地理",
-          "name": "上郡"
+          "entity_id": "上郡",
+          "surface": "上郡"
         },
         {
           "start": 30,
           "end": 32,
-          "entity_id": "l18",
-          "type": "地理",
-          "name": "未央宫"
+          "entity_id": "未央宮",
+          "surface": "未央"
         },
         {
           "start": 36,
           "end": 39,
-          "entity_id": "p9",
-          "type": "人物",
-          "name": "程不识"
+          "entity_id": "程不識",
+          "surface": "程不識"
         },
         {
           "start": 41,
           "end": 43,
-          "entity_id": "l19",
-          "type": "地理",
-          "name": "长乐宫"
+          "entity_id": "長樂宮",
+          "surface": "長樂"
         },
         {
           "start": 46,
           "end": 49,
-          "entity_id": "p9",
-          "type": "人物",
-          "name": "程不识"
+          "entity_id": "程不識",
+          "surface": "程不識"
         },
         {
           "start": 51,
           "end": 53,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "李廣"
         },
         {
           "start": 58,
           "end": 60,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "將軍"
         },
         {
           "start": 68,
           "end": 69,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
-        },
-        {
-          "start": 92,
-          "end": 94,
-          "entity_id": "c5",
-          "type": "概念",
-          "name": "刁斗"
-        },
-        {
-          "start": 98,
-          "end": 100,
-          "entity_id": "c6",
-          "type": "概念",
-          "name": "幕府"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 118,
           "end": 121,
-          "entity_id": "p9",
-          "type": "人物",
-          "name": "程不识"
-        },
-        {
-          "start": 130,
-          "end": 132,
-          "entity_id": "c5",
-          "type": "概念",
-          "name": "刁斗"
+          "entity_id": "程不識",
+          "surface": "程不識"
         },
         {
           "start": 159,
           "end": 161,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "李廣"
         },
         {
           "start": 211,
           "end": 213,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "李廣"
         },
         {
           "start": 214,
           "end": 217,
-          "entity_id": "p9",
-          "type": "人物",
-          "name": "程不识"
+          "entity_id": "程不識",
+          "surface": "程不識"
         },
         {
           "start": 226,
           "end": 228,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "李廣"
         },
         {
           "start": 237,
           "end": 239,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "李廣"
         },
         {
           "start": 241,
           "end": 244,
-          "entity_id": "p9",
-          "type": "人物",
-          "name": "程不识"
+          "entity_id": "程不識",
+          "surface": "程不識"
         },
         {
           "start": 245,
           "end": 248,
-          "entity_id": "p9",
-          "type": "人物",
-          "name": "程不识"
+          "entity_id": "程不識",
+          "surface": "程不識"
         },
         {
           "start": 248,
           "end": 250,
-          "entity_id": "p5",
-          "type": "人物",
-          "name": "刘启（汉景帝）"
+          "entity_id": "劉啟（漢景帝）",
+          "surface": "孝景"
         }
       ]
     },
@@ -631,177 +512,152 @@
         {
           "start": 3,
           "end": 5,
-          "entity_id": "l16",
-          "type": "地理",
-          "name": "马邑"
+          "entity_id": "馬邑",
+          "surface": "馬邑"
         },
         {
           "start": 7,
           "end": 9,
-          "entity_id": "p10",
-          "type": "人物",
-          "name": "军臣单于"
+          "entity_id": "軍臣單于",
+          "surface": "單于"
         },
         {
           "start": 14,
           "end": 16,
-          "entity_id": "l16",
-          "type": "地理",
-          "name": "马邑"
+          "entity_id": "馬邑",
+          "surface": "馬邑"
         },
         {
           "start": 20,
           "end": 21,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
-          "start": 23,
+          "start": 24,
           "end": 26,
-          "entity_id": "p33",
-          "type": "人物",
-          "name": "公孙敖"
+          "entity_id": "李廣（李將軍）",
+          "surface": "將軍"
         },
         {
-          "start": 31,
+          "start": 29,
           "end": 33,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "韓安國",
+          "surface": "護軍將軍"
         },
         {
           "start": 36,
           "end": 38,
-          "entity_id": "p10",
-          "type": "人物",
-          "name": "军臣单于"
+          "entity_id": "軍臣單于",
+          "surface": "單于"
         },
         {
           "start": 54,
           "end": 55,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 59,
           "end": 61,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "將軍"
         },
         {
           "start": 63,
           "end": 65,
-          "entity_id": "l8",
-          "type": "地理",
-          "name": "雁门郡"
+          "entity_id": "雁門",
+          "surface": "鴈門"
         },
         {
           "start": 76,
           "end": 77,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 81,
           "end": 82,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 83,
           "end": 85,
-          "entity_id": "p10",
-          "type": "人物",
-          "name": "军臣单于"
+          "entity_id": "軍臣單于",
+          "surface": "單于"
         },
         {
           "start": 87,
           "end": 88,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 95,
           "end": 97,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "李廣"
         },
         {
           "start": 106,
           "end": 107,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 108,
           "end": 109,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 114,
           "end": 115,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 123,
           "end": 124,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 130,
           "end": 131,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 145,
           "end": 146,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 149,
           "end": 150,
-          "entity_id": "p34",
-          "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "entity_id": "劉徹（漢武帝）",
+          "surface": "上"
         },
         {
           "start": 193,
           "end": 194,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 217,
           "end": 218,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 222,
           "end": 223,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         }
       ]
     },
@@ -812,135 +668,116 @@
         {
           "start": 8,
           "end": 9,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
-          "start": 12,
+          "start": 11,
           "end": 16,
-          "entity_id": "p11",
-          "type": "人物",
-          "name": "灌强"
+          "entity_id": "灌強",
+          "surface": "故潁陰侯孫"
         },
         {
           "start": 19,
           "end": 23,
-          "entity_id": "l12",
-          "type": "地理",
-          "name": "蓝田南山"
+          "entity_id": "藍田南山",
+          "surface": "藍田南山"
         },
         {
           "start": 42,
           "end": 45,
-          "entity_id": "l13",
-          "type": "地理",
-          "name": "霸陵亭"
+          "entity_id": "霸陵亭",
+          "surface": "霸陵亭"
         },
         {
           "start": 46,
           "end": 49,
-          "entity_id": "p12",
-          "type": "人物",
-          "name": "霸陵尉"
+          "entity_id": "霸陵尉",
+          "surface": "霸陵尉"
         },
         {
           "start": 53,
           "end": 54,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 55,
           "end": 56,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
-          "start": 60,
+          "start": 61,
           "end": 64,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "李將軍"
         },
         {
           "start": 71,
           "end": 73,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "將軍"
         },
         {
           "start": 86,
           "end": 87,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 99,
           "end": 101,
-          "entity_id": "l14",
-          "type": "地理",
-          "name": "辽西郡"
+          "entity_id": "遼西",
+          "surface": "遼西"
         },
         {
           "start": 105,
           "end": 108,
-          "entity_id": "p13",
-          "type": "人物",
-          "name": "韩安国"
+          "entity_id": "韓安國",
+          "surface": "韓將軍"
         },
         {
           "start": 109,
           "end": 112,
-          "entity_id": "p13",
-          "type": "人物",
-          "name": "韩安国"
+          "entity_id": "韓安國",
+          "surface": "韓將軍"
         },
         {
           "start": 114,
           "end": 117,
-          "entity_id": "l15",
-          "type": "地理",
-          "name": "右北平郡"
+          "entity_id": "右北平",
+          "surface": "右北平"
         },
         {
           "start": 120,
           "end": 122,
-          "entity_id": "p34",
-          "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "entity_id": "劉徹（漢武帝）",
+          "surface": "天子"
         },
         {
           "start": 125,
           "end": 126,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 127,
           "end": 130,
-          "entity_id": "l15",
-          "type": "地理",
-          "name": "右北平郡"
+          "entity_id": "右北平",
+          "surface": "右北平"
         },
         {
           "start": 133,
           "end": 134,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 136,
           "end": 139,
-          "entity_id": "p12",
-          "type": "人物",
-          "name": "霸陵尉"
+          "entity_id": "霸陵尉",
+          "surface": "霸陵尉"
         }
       ]
     },
@@ -951,37 +788,32 @@
         {
           "start": 0,
           "end": 1,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 2,
           "end": 5,
-          "entity_id": "l15",
-          "type": "地理",
-          "name": "右北平郡"
+          "entity_id": "右北平",
+          "surface": "右北平"
         },
         {
           "start": 14,
           "end": 19,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "漢之飛將軍"
         },
         {
           "start": 27,
           "end": 28,
-          "entity_id": "p17",
-          "type": "人物",
-          "name": "李敢"
+          "entity_id": "李敢",
+          "surface": "敢"
         },
         {
           "start": 29,
           "end": 32,
-          "entity_id": "l15",
-          "type": "地理",
-          "name": "右北平郡"
+          "entity_id": "右北平",
+          "surface": "右北平"
         }
       ]
     },
@@ -992,37 +824,32 @@
         {
           "start": 0,
           "end": 1,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 40,
           "end": 41,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 55,
           "end": 58,
-          "entity_id": "l15",
-          "type": "地理",
-          "name": "右北平郡"
+          "entity_id": "右北平",
+          "surface": "右北平"
         },
         {
           "start": 64,
           "end": 65,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 66,
           "end": 67,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         }
       ]
     },
@@ -1033,58 +860,50 @@
         {
           "start": 0,
           "end": 1,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 20,
           "end": 21,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 45,
           "end": 46,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 73,
           "end": 74,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 75,
           "end": 76,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 106,
           "end": 107,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 125,
           "end": 126,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 136,
           "end": 137,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         }
       ]
     },
@@ -1095,198 +914,158 @@
         {
           "start": 4,
           "end": 6,
-          "entity_id": "p14",
-          "type": "人物",
-          "name": "石建"
+          "entity_id": "石建",
+          "surface": "石建"
         },
         {
           "start": 10,
           "end": 11,
-          "entity_id": "p34",
-          "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "entity_id": "劉徹（漢武帝）",
+          "surface": "上"
         },
         {
           "start": 12,
           "end": 13,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 25,
           "end": 26,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 29,
           "end": 31,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "將軍"
         },
         {
           "start": 33,
           "end": 36,
-          "entity_id": "p15",
-          "type": "人物",
-          "name": "卫青"
+          "entity_id": "衛青（大將軍）",
+          "surface": "大將軍"
         },
         {
           "start": 38,
           "end": 40,
-          "entity_id": "l17",
-          "type": "地理",
-          "name": "定襄郡"
+          "entity_id": "定襄",
+          "surface": "定襄"
         },
         {
           "start": 60,
           "end": 61,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 69,
           "end": 70,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 79,
           "end": 82,
-          "entity_id": "l15",
-          "type": "地理",
-          "name": "右北平郡"
+          "entity_id": "右北平",
+          "surface": "右北平"
         },
         {
           "start": 83,
-          "end": 86,
-          "entity_id": "p16",
-          "type": "人物",
-          "name": "张骞"
-        },
-        {
-          "start": 86,
           "end": 88,
-          "entity_id": "p16",
-          "type": "人物",
-          "name": "张骞"
+          "entity_id": "張騫",
+          "surface": "博望侯張騫"
         },
         {
           "start": 92,
           "end": 93,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
+        },
+        {
+          "start": 106,
+          "end": 109,
+          "entity_id": "左賢王",
+          "surface": "左賢王"
         },
         {
           "start": 114,
           "end": 115,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 116,
           "end": 117,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 122,
           "end": 123,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 127,
           "end": 128,
-          "entity_id": "p17",
-          "type": "人物",
-          "name": "李敢"
-        },
-        {
-          "start": 132,
-          "end": 133,
-          "entity_id": "p17",
-          "type": "人物",
-          "name": "李敢"
+          "entity_id": "李敢",
+          "surface": "敢"
         },
         {
           "start": 153,
           "end": 154,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 169,
           "end": 170,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 198,
           "end": 199,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 208,
           "end": 209,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
-        },
-        {
-          "start": 212,
-          "end": 214,
-          "entity_id": "c18",
-          "type": "概念",
-          "name": "大黄弩"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 240,
           "end": 241,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 267,
           "end": 270,
-          "entity_id": "p16",
-          "type": "人物",
-          "name": "张骞"
+          "entity_id": "張騫",
+          "surface": "博望侯"
         },
         {
           "start": 291,
           "end": 292,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 302,
           "end": 305,
-          "entity_id": "p16",
-          "type": "人物",
-          "name": "张骞"
+          "entity_id": "張騫",
+          "surface": "博望侯"
         },
         {
           "start": 318,
           "end": 319,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         }
       ]
     },
@@ -1297,149 +1076,140 @@
         {
           "start": 2,
           "end": 3,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 6,
           "end": 8,
-          "entity_id": "p4",
-          "type": "人物",
-          "name": "李蔡"
+          "entity_id": "李蔡",
+          "surface": "李蔡"
         },
         {
           "start": 9,
           "end": 10,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 12,
           "end": 15,
-          "entity_id": "p3",
-          "type": "人物",
-          "name": "刘恒（汉文帝）"
+          "entity_id": "劉恆（漢文帝）",
+          "surface": "孝文帝"
+        },
+        {
+          "start": 16,
+          "end": 18,
+          "entity_id": "劉啟（漢景帝）",
+          "surface": "景帝"
         },
         {
           "start": 20,
           "end": 21,
-          "entity_id": "p4",
-          "type": "人物",
-          "name": "李蔡"
+          "entity_id": "李蔡",
+          "surface": "蔡"
         },
         {
-          "start": 29,
+          "start": 30,
           "end": 32,
-          "entity_id": "p34",
-          "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "entity_id": "劉徹（漢武帝）",
+          "surface": "武帝"
         },
         {
           "start": 50,
           "end": 53,
-          "entity_id": "p15",
-          "type": "人物",
-          "name": "卫青"
+          "entity_id": "衛青（大將軍）",
+          "surface": "大將軍"
+        },
+        {
+          "start": 65,
+          "end": 67,
+          "entity_id": "樂安",
+          "surface": "樂安"
         },
         {
           "start": 76,
           "end": 79,
-          "entity_id": "p19",
-          "type": "人物",
-          "name": "公孙弘"
+          "entity_id": "公孫弘",
+          "surface": "公孫弘"
         },
         {
           "start": 83,
           "end": 84,
-          "entity_id": "p4",
-          "type": "人物",
-          "name": "李蔡"
+          "entity_id": "李蔡",
+          "surface": "蔡"
         },
         {
           "start": 93,
           "end": 94,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 99,
           "end": 100,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 112,
           "end": 113,
-          "entity_id": "p4",
-          "type": "人物",
-          "name": "李蔡"
+          "entity_id": "李蔡",
+          "surface": "蔡"
         },
         {
           "start": 123,
           "end": 124,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 135,
           "end": 136,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 138,
           "end": 142,
-          "entity_id": "p20",
-          "type": "人物",
-          "name": "王朔"
+          "entity_id": "王朔",
+          "surface": "望氣王朔"
         },
         {
           "start": 154,
           "end": 155,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 191,
           "end": 192,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 230,
           "end": 232,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "將軍"
         },
         {
           "start": 243,
           "end": 244,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 250,
           "end": 252,
-          "entity_id": "l1",
-          "type": "地理",
-          "name": "陇西郡"
+          "entity_id": "隴西",
+          "surface": "隴西"
         },
         {
           "start": 301,
           "end": 303,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "將軍"
         }
       ]
     },
@@ -1450,37 +1220,32 @@
         {
           "start": 4,
           "end": 7,
-          "entity_id": "p15",
-          "type": "人物",
-          "name": "卫青"
+          "entity_id": "衛青（大將軍）",
+          "surface": "大將軍"
         },
         {
           "start": 8,
           "end": 12,
-          "entity_id": "p21",
-          "type": "人物",
-          "name": "霍去病"
+          "entity_id": "霍去病（驃騎將軍）",
+          "surface": "驃騎將軍"
         },
         {
           "start": 18,
           "end": 19,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 24,
           "end": 26,
-          "entity_id": "p34",
-          "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "entity_id": "劉徹（漢武帝）",
+          "surface": "天子"
         },
         {
           "start": 42,
           "end": 44,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "將軍"
         }
       ]
     },
@@ -1491,387 +1256,326 @@
         {
           "start": 0,
           "end": 1,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 3,
-          "end": 6,
-          "entity_id": "p15",
-          "type": "人物",
-          "name": "卫青"
+          "end": 7,
+          "entity_id": "衛青（大將軍）",
+          "surface": "大將軍青"
+        },
+        {
+          "start": 15,
+          "end": 16,
+          "entity_id": "衛青（大將軍）",
+          "surface": "青"
         },
         {
           "start": 19,
           "end": 21,
-          "entity_id": "p10",
-          "type": "人物",
-          "name": "军臣单于"
+          "entity_id": "軍臣單于",
+          "surface": "單于"
         },
         {
           "start": 34,
           "end": 35,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 37,
           "end": 40,
-          "entity_id": "p23",
-          "type": "人物",
-          "name": "赵食其"
+          "entity_id": "趙食其",
+          "surface": "右將軍"
         },
         {
           "start": 43,
           "end": 45,
-          "entity_id": "l27",
-          "type": "地理",
-          "name": "东道"
+          "entity_id": "東道",
+          "surface": "東道"
         },
         {
           "start": 46,
           "end": 48,
-          "entity_id": "l27",
-          "type": "地理",
-          "name": "东道"
+          "entity_id": "東道",
+          "surface": "東道"
         },
         {
           "start": 66,
           "end": 67,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 76,
           "end": 78,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "將軍"
         },
         {
           "start": 80,
           "end": 83,
-          "entity_id": "p15",
-          "type": "人物",
-          "name": "卫青"
+          "entity_id": "衛青（大將軍）",
+          "surface": "大將軍"
         },
         {
           "start": 88,
           "end": 90,
-          "entity_id": "l27",
-          "type": "地理",
-          "name": "东道"
+          "entity_id": "東道",
+          "surface": "東道"
         },
         {
           "start": 106,
           "end": 108,
-          "entity_id": "p10",
-          "type": "人物",
-          "name": "军臣单于"
+          "entity_id": "軍臣單于",
+          "surface": "單于"
         },
         {
           "start": 116,
           "end": 118,
-          "entity_id": "p10",
-          "type": "人物",
-          "name": "军臣单于"
+          "entity_id": "軍臣單于",
+          "surface": "單于"
         },
         {
           "start": 120,
-          "end": 123,
-          "entity_id": "p15",
-          "type": "人物",
-          "name": "卫青"
+          "end": 124,
+          "entity_id": "衛青（大將軍）",
+          "surface": "大將軍青"
         },
         {
           "start": 127,
           "end": 128,
-          "entity_id": "p34",
-          "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "entity_id": "劉徹（漢武帝）",
+          "surface": "上"
         },
         {
           "start": 132,
           "end": 134,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "李廣"
         },
         {
           "start": 142,
           "end": 144,
-          "entity_id": "p10",
-          "type": "人物",
-          "name": "军臣单于"
+          "entity_id": "軍臣單于",
+          "surface": "單于"
         },
         {
           "start": 154,
           "end": 157,
-          "entity_id": "p22",
-          "type": "人物",
-          "name": "公孙敖"
+          "entity_id": "公孫敖",
+          "surface": "公孫敖"
         },
         {
           "start": 163,
           "end": 165,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "將軍"
         },
         {
           "start": 166,
           "end": 169,
-          "entity_id": "p15",
-          "type": "人物",
-          "name": "卫青"
+          "entity_id": "衛青（大將軍）",
+          "surface": "大將軍"
         },
         {
           "start": 170,
           "end": 173,
-          "entity_id": "p15",
-          "type": "人物",
-          "name": "卫青"
+          "entity_id": "衛青（大將軍）",
+          "surface": "大將軍"
         },
         {
           "start": 180,
           "end": 182,
-          "entity_id": "p10",
-          "type": "人物",
-          "name": "军臣单于"
+          "entity_id": "軍臣單于",
+          "surface": "單于"
         },
         {
           "start": 186,
           "end": 188,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "將軍"
         },
         {
           "start": 188,
           "end": 189,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 190,
           "end": 191,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 199,
           "end": 202,
-          "entity_id": "p15",
-          "type": "人物",
-          "name": "卫青"
+          "entity_id": "衛青（大將軍）",
+          "surface": "大將軍"
         },
         {
           "start": 203,
           "end": 206,
-          "entity_id": "p15",
-          "type": "人物",
-          "name": "卫青"
+          "entity_id": "衛青（大將軍）",
+          "surface": "大將軍"
         },
         {
           "start": 215,
           "end": 216,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
-        },
-        {
-          "start": 217,
-          "end": 219,
-          "entity_id": "c6",
-          "type": "概念",
-          "name": "幕府"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 231,
           "end": 232,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 234,
           "end": 237,
-          "entity_id": "p15",
-          "type": "人物",
-          "name": "卫青"
+          "entity_id": "衛青（大將軍）",
+          "surface": "大將軍"
         },
         {
           "start": 252,
           "end": 255,
-          "entity_id": "p23",
-          "type": "人物",
-          "name": "赵食其"
+          "entity_id": "趙食其",
+          "surface": "右將軍"
         },
         {
           "start": 255,
           "end": 257,
-          "entity_id": "p23",
-          "type": "人物",
-          "name": "赵食其"
+          "entity_id": "趙食其",
+          "surface": "食其"
         },
         {
           "start": 260,
           "end": 262,
-          "entity_id": "l27",
-          "type": "地理",
-          "name": "东道"
+          "entity_id": "東道",
+          "surface": "東道"
         },
         {
           "start": 272,
           "end": 275,
-          "entity_id": "p15",
-          "type": "人物",
-          "name": "卫青"
+          "entity_id": "衛青（大將軍）",
+          "surface": "大將軍"
         },
         {
           "start": 276,
           "end": 279,
-          "entity_id": "p15",
-          "type": "人物",
-          "name": "卫青"
+          "entity_id": "衛青（大將軍）",
+          "surface": "大將軍"
         },
         {
           "start": 280,
           "end": 282,
-          "entity_id": "p10",
-          "type": "人物",
-          "name": "军臣单于"
+          "entity_id": "軍臣單于",
+          "surface": "單于"
         },
         {
           "start": 285,
           "end": 287,
-          "entity_id": "p10",
-          "type": "人物",
-          "name": "军臣单于"
-        },
-        {
-          "start": 298,
-          "end": 299,
-          "entity_id": "l26",
-          "type": "地理",
-          "name": "漠南（沙漠）"
+          "entity_id": "軍臣單于",
+          "surface": "單于"
         },
         {
           "start": 302,
           "end": 304,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "將軍"
         },
         {
           "start": 305,
           "end": 308,
-          "entity_id": "p23",
-          "type": "人物",
-          "name": "赵食其"
+          "entity_id": "趙食其",
+          "surface": "右將軍"
         },
         {
           "start": 309,
           "end": 310,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 312,
           "end": 315,
-          "entity_id": "p15",
-          "type": "人物",
-          "name": "卫青"
+          "entity_id": "衛青（大將軍）",
+          "surface": "大將軍"
         },
         {
           "start": 320,
           "end": 323,
-          "entity_id": "p15",
-          "type": "人物",
-          "name": "卫青"
+          "entity_id": "衛青（大將軍）",
+          "surface": "大將軍"
         },
         {
           "start": 330,
           "end": 331,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 334,
           "end": 335,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 336,
           "end": 338,
-          "entity_id": "p23",
-          "type": "人物",
-          "name": "赵食其"
+          "entity_id": "趙食其",
+          "surface": "食其"
+        },
+        {
+          "start": 342,
+          "end": 343,
+          "entity_id": "衛青（大將軍）",
+          "surface": "青"
         },
         {
           "start": 344,
           "end": 345,
-          "entity_id": "p34",
-          "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "entity_id": "劉徹（漢武帝）",
+          "surface": "上"
         },
         {
           "start": 347,
           "end": 349,
-          "entity_id": "p34",
-          "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "entity_id": "劉徹（漢武帝）",
+          "surface": "天子"
         },
         {
           "start": 353,
           "end": 354,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 357,
           "end": 360,
-          "entity_id": "p15",
-          "type": "人物",
-          "name": "卫青"
+          "entity_id": "衛青（大將軍）",
+          "surface": "大將軍"
         },
         {
           "start": 365,
           "end": 366,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
-        },
-        {
-          "start": 367,
-          "end": 368,
-          "entity_id": "l26",
-          "type": "地理",
-          "name": "漠南（沙漠）"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 372,
           "end": 373,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 391,
           "end": 392,
-          "entity_id": "p34",
-          "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "entity_id": "劉徹（漢武帝）",
+          "surface": "上"
         }
       ]
     },
@@ -1880,88 +1584,58 @@
       "text": "至莫府，廣謂其麾下曰：「廣結髮與匈奴大小七十餘戰，今幸從大將軍出接單于兵，而大將軍又徙廣部行囬遠，而又迷失道，豈非天哉！且廣年六十餘矣，終不能復對刀筆之吏。」遂引刀自剄。廣軍士大夫一軍皆哭。百姓聞之，知與不知，無老壯皆爲垂涕。而右將軍獨下吏，當死，贖爲庶人。",
       "mentions": [
         {
-          "start": 1,
-          "end": 3,
-          "entity_id": "c6",
-          "type": "概念",
-          "name": "幕府"
-        },
-        {
           "start": 4,
           "end": 5,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 12,
           "end": 13,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 28,
           "end": 31,
-          "entity_id": "p15",
-          "type": "人物",
-          "name": "卫青"
+          "entity_id": "衛青（大將軍）",
+          "surface": "大將軍"
         },
         {
           "start": 33,
           "end": 35,
-          "entity_id": "p10",
-          "type": "人物",
-          "name": "军臣单于"
+          "entity_id": "軍臣單于",
+          "surface": "單于"
         },
         {
           "start": 38,
           "end": 41,
-          "entity_id": "p15",
-          "type": "人物",
-          "name": "卫青"
+          "entity_id": "衛青（大將軍）",
+          "surface": "大將軍"
         },
         {
           "start": 43,
           "end": 44,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 61,
           "end": 62,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 85,
           "end": 86,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
-        },
-        {
-          "start": 100,
-          "end": 104,
-          "entity_id": "c27",
-          "type": "概念",
-          "name": "天下知与不知"
-        },
-        {
-          "start": 105,
-          "end": 112,
-          "entity_id": "c27",
-          "type": "概念",
-          "name": "天下知与不知"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 114,
           "end": 117,
-          "entity_id": "p23",
-          "type": "人物",
-          "name": "赵食其"
+          "entity_id": "趙食其",
+          "surface": "右將軍"
         }
       ]
     },
@@ -1972,282 +1646,260 @@
         {
           "start": 0,
           "end": 1,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 6,
           "end": 8,
-          "entity_id": "p24",
-          "type": "人物",
-          "name": "李当户"
+          "entity_id": "李當戶",
+          "surface": "當戶"
         },
         {
           "start": 9,
           "end": 10,
-          "entity_id": "p25",
-          "type": "人物",
-          "name": "李椒"
+          "entity_id": "李椒",
+          "surface": "椒"
         },
         {
           "start": 11,
           "end": 12,
-          "entity_id": "p17",
-          "type": "人物",
-          "name": "李敢"
+          "entity_id": "李敢",
+          "surface": "敢"
         },
         {
           "start": 16,
           "end": 18,
-          "entity_id": "p34",
-          "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "entity_id": "劉徹（漢武帝）",
+          "surface": "天子"
         },
         {
           "start": 19,
           "end": 21,
-          "entity_id": "p26",
-          "type": "人物",
-          "name": "韩嫣"
+          "entity_id": "韓嫣",
+          "surface": "韓嫣"
         },
         {
           "start": 28,
           "end": 30,
-          "entity_id": "p24",
-          "type": "人物",
-          "name": "李当户"
+          "entity_id": "李當戶",
+          "surface": "當戶"
         },
         {
           "start": 38,
           "end": 40,
-          "entity_id": "p34",
-          "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "entity_id": "劉徹（漢武帝）",
+          "surface": "天子"
         },
         {
           "start": 44,
           "end": 46,
-          "entity_id": "p24",
-          "type": "人物",
-          "name": "李当户"
+          "entity_id": "李當戶",
+          "surface": "當戶"
         },
         {
           "start": 50,
           "end": 51,
-          "entity_id": "p25",
-          "type": "人物",
-          "name": "李椒"
+          "entity_id": "李椒",
+          "surface": "椒"
         },
         {
           "start": 52,
           "end": 54,
-          "entity_id": "l9",
-          "type": "地理",
-          "name": "代郡"
+          "entity_id": "代郡",
+          "surface": "代郡"
         },
         {
           "start": 59,
           "end": 60,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 62,
           "end": 64,
-          "entity_id": "p24",
-          "type": "人物",
-          "name": "李当户"
+          "entity_id": "李當戶",
+          "surface": "當戶"
         },
         {
           "start": 69,
           "end": 70,
-          "entity_id": "p29",
-          "type": "人物",
-          "name": "李陵"
+          "entity_id": "李陵",
+          "surface": "陵"
         },
         {
           "start": 71,
           "end": 72,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 76,
           "end": 77,
-          "entity_id": "p17",
-          "type": "人物",
-          "name": "李敢"
+          "entity_id": "李敢",
+          "surface": "敢"
         },
         {
           "start": 78,
           "end": 82,
-          "entity_id": "p21",
-          "type": "人物",
-          "name": "霍去病"
+          "entity_id": "霍去病（驃騎將軍）",
+          "surface": "驃騎將軍"
         },
         {
           "start": 83,
           "end": 84,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 88,
           "end": 90,
-          "entity_id": "p4",
-          "type": "人物",
-          "name": "李蔡"
+          "entity_id": "李蔡",
+          "surface": "李蔡"
         },
         {
           "start": 95,
           "end": 97,
-          "entity_id": "p5",
-          "type": "人物",
-          "name": "刘启（汉景帝）"
+          "entity_id": "劉啟（漢景帝）",
+          "surface": "孝景"
         },
         {
           "start": 106,
           "end": 107,
-          "entity_id": "p4",
-          "type": "人物",
-          "name": "李蔡"
+          "entity_id": "李蔡",
+          "surface": "蔡"
         },
         {
-          "start": 118,
+          "start": 119,
           "end": 120,
-          "entity_id": "p17",
-          "type": "人物",
-          "name": "李敢"
+          "entity_id": "李敢",
+          "surface": "敢"
         },
         {
           "start": 124,
           "end": 128,
-          "entity_id": "p21",
-          "type": "人物",
-          "name": "霍去病"
+          "entity_id": "霍去病（驃騎將軍）",
+          "surface": "驃騎將軍"
+        },
+        {
+          "start": 130,
+          "end": 133,
+          "entity_id": "左賢王",
+          "surface": "左賢王"
+        },
+        {
+          "start": 138,
+          "end": 141,
+          "entity_id": "左賢王",
+          "surface": "左賢王"
         },
         {
           "start": 161,
           "end": 162,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
+          "entity_id": "李廣（李將軍）",
+          "surface": "廣"
         },
         {
           "start": 171,
-          "end": 174,
-          "entity_id": "p15",
-          "type": "人物",
-          "name": "卫青"
+          "end": 175,
+          "entity_id": "衛青（大將軍）",
+          "surface": "大將軍青"
         },
         {
           "start": 183,
           "end": 186,
-          "entity_id": "p15",
-          "type": "人物",
-          "name": "卫青"
+          "entity_id": "衛青（大將軍）",
+          "surface": "大將軍"
         },
         {
           "start": 187,
           "end": 190,
-          "entity_id": "p15",
-          "type": "人物",
-          "name": "卫青"
+          "entity_id": "衛青（大將軍）",
+          "surface": "大將軍"
         },
         {
           "start": 198,
           "end": 199,
-          "entity_id": "p17",
-          "type": "人物",
-          "name": "李敢"
-        },
-        {
-          "start": 200,
-          "end": 201,
-          "entity_id": "p34",
-          "type": "人物",
-          "name": "刘彻（汉武帝）"
-        },
-        {
-          "start": 201,
-          "end": 202,
-          "entity_id": "l24",
-          "type": "地理",
-          "name": "雍县"
+          "entity_id": "李敢",
+          "surface": "敢"
         },
         {
           "start": 204,
           "end": 207,
-          "entity_id": "l25",
-          "type": "地理",
-          "name": "甘泉宫"
+          "entity_id": "甘泉宮",
+          "surface": "甘泉宮"
         },
         {
           "start": 209,
-          "end": 213,
-          "entity_id": "p21",
-          "type": "人物",
-          "name": "霍去病"
+          "end": 215,
+          "entity_id": "霍去病（驃騎將軍）",
+          "surface": "驃騎將軍去病"
+        },
+        {
+          "start": 216,
+          "end": 217,
+          "entity_id": "衛青（大將軍）",
+          "surface": "青"
         },
         {
           "start": 222,
           "end": 223,
-          "entity_id": "p17",
-          "type": "人物",
-          "name": "李敢"
+          "entity_id": "李敢",
+          "surface": "敢"
+        },
+        {
+          "start": 224,
+          "end": 226,
+          "entity_id": "霍去病（驃騎將軍）",
+          "surface": "去病"
         },
         {
           "start": 231,
           "end": 232,
-          "entity_id": "p34",
-          "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "entity_id": "劉徹（漢武帝）",
+          "surface": "上"
+        },
+        {
+          "start": 243,
+          "end": 245,
+          "entity_id": "霍去病（驃騎將軍）",
+          "surface": "去病"
         },
         {
           "start": 248,
           "end": 249,
-          "entity_id": "p17",
-          "type": "人物",
-          "name": "李敢"
+          "entity_id": "李敢",
+          "surface": "敢"
         },
         {
           "start": 252,
           "end": 254,
-          "entity_id": "p27",
-          "type": "人物",
-          "name": "刘据（卫太子）"
+          "entity_id": "劉據（衛太子）",
+          "surface": "太子"
         },
         {
           "start": 260,
           "end": 261,
-          "entity_id": "p17",
-          "type": "人物",
-          "name": "李敢"
+          "entity_id": "李敢",
+          "surface": "敢"
         },
         {
           "start": 262,
           "end": 263,
-          "entity_id": "p28",
-          "type": "人物",
-          "name": "李禹"
+          "entity_id": "李禹",
+          "surface": "禹"
         },
         {
           "start": 266,
           "end": 268,
-          "entity_id": "p27",
-          "type": "人物",
-          "name": "刘据（卫太子）"
+          "entity_id": "劉據（衛太子）",
+          "surface": "太子"
         },
         {
           "start": 275,
           "end": 276,
-          "entity_id": "p29",
-          "type": "人物",
-          "name": "李陵"
+          "entity_id": "李陵",
+          "surface": "陵"
         }
       ]
     },
@@ -2258,37 +1910,38 @@
         {
           "start": 0,
           "end": 2,
-          "entity_id": "p29",
-          "type": "人物",
-          "name": "李陵"
+          "entity_id": "李陵",
+          "surface": "李陵"
         },
         {
           "start": 22,
           "end": 24,
-          "entity_id": "p34",
-          "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "entity_id": "劉徹（漢武帝）",
+          "surface": "天子"
         },
         {
           "start": 49,
           "end": 51,
-          "entity_id": "l20",
-          "type": "地理",
-          "name": "居延"
+          "entity_id": "居延",
+          "surface": "居延"
+        },
+        {
+          "start": 69,
+          "end": 71,
+          "entity_id": "丹陽",
+          "surface": "丹陽"
         },
         {
           "start": 79,
           "end": 81,
-          "entity_id": "l21",
-          "type": "地理",
-          "name": "酒泉郡"
+          "entity_id": "酒泉",
+          "surface": "酒泉"
         },
         {
           "start": 82,
           "end": 84,
-          "entity_id": "l22",
-          "type": "地理",
-          "name": "张掖郡"
+          "entity_id": "張掖",
+          "surface": "張掖"
         }
       ]
     },
@@ -2299,107 +1952,80 @@
         {
           "start": 9,
           "end": 13,
-          "entity_id": "p31",
-          "type": "人物",
-          "name": "李广利"
+          "entity_id": "李廣利",
+          "surface": "貳師將軍"
         },
         {
           "start": 13,
           "end": 16,
-          "entity_id": "p31",
-          "type": "人物",
-          "name": "李广利"
+          "entity_id": "李廣利",
+          "surface": "李廣利"
         },
         {
           "start": 27,
           "end": 31,
-          "entity_id": "l23",
-          "type": "地理",
-          "name": "祁连天山"
+          "entity_id": "祁連天山",
+          "surface": "祁連天山"
         },
         {
           "start": 34,
           "end": 35,
-          "entity_id": "p29",
-          "type": "人物",
-          "name": "李陵"
+          "entity_id": "李陵",
+          "surface": "陵"
         },
         {
           "start": 45,
           "end": 47,
-          "entity_id": "l20",
-          "type": "地理",
-          "name": "居延"
-        },
-        {
-          "start": 64,
-          "end": 66,
-          "entity_id": "p31",
-          "type": "人物",
-          "name": "李广利"
+          "entity_id": "居延",
+          "surface": "居延"
         },
         {
           "start": 68,
           "end": 69,
-          "entity_id": "p29",
-          "type": "人物",
-          "name": "李陵"
+          "entity_id": "李陵",
+          "surface": "陵"
         },
         {
           "start": 75,
           "end": 77,
-          "entity_id": "p10",
-          "type": "人物",
-          "name": "军臣单于"
+          "entity_id": "且鞮侯單于",
+          "surface": "單于"
         },
         {
           "start": 83,
           "end": 84,
-          "entity_id": "p29",
-          "type": "人物",
-          "name": "李陵"
+          "entity_id": "李陵",
+          "surface": "陵"
         },
         {
           "start": 86,
           "end": 87,
-          "entity_id": "p29",
-          "type": "人物",
-          "name": "李陵"
+          "entity_id": "李陵",
+          "surface": "陵"
         },
         {
           "start": 127,
           "end": 129,
-          "entity_id": "l20",
-          "type": "地理",
-          "name": "居延"
+          "entity_id": "居延",
+          "surface": "居延"
         },
         {
           "start": 140,
           "end": 141,
-          "entity_id": "p29",
-          "type": "人物",
-          "name": "李陵"
+          "entity_id": "李陵",
+          "surface": "陵"
         },
         {
           "start": 154,
           "end": 155,
-          "entity_id": "p29",
-          "type": "人物",
-          "name": "李陵"
+          "entity_id": "李陵",
+          "surface": "陵"
         },
         {
           "start": 156,
           "end": 157,
-          "entity_id": "p29",
-          "type": "人物",
-          "name": "李陵"
-        },
-        {
-          "start": 164,
-          "end": 166,
-          "entity_id": "p34",
-          "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "entity_id": "李陵",
+          "surface": "陵"
         }
       ]
     },
@@ -2410,37 +2036,32 @@
         {
           "start": 0,
           "end": 2,
-          "entity_id": "p10",
-          "type": "人物",
-          "name": "军臣单于"
+          "entity_id": "且鞮侯單于",
+          "surface": "單于"
         },
         {
           "start": 4,
           "end": 5,
-          "entity_id": "p29",
-          "type": "人物",
-          "name": "李陵"
+          "entity_id": "李陵",
+          "surface": "陵"
         },
         {
           "start": 22,
           "end": 23,
-          "entity_id": "p29",
-          "type": "人物",
-          "name": "李陵"
+          "entity_id": "李陵",
+          "surface": "陵"
         },
         {
           "start": 31,
           "end": 32,
-          "entity_id": "p29",
-          "type": "人物",
-          "name": "李陵"
+          "entity_id": "李陵",
+          "surface": "陵"
         },
         {
           "start": 47,
           "end": 49,
-          "entity_id": "l1",
-          "type": "地理",
-          "name": "陇西郡"
+          "entity_id": "隴西",
+          "surface": "隴西"
         }
       ]
     },
@@ -2449,61 +2070,23 @@
       "text": "太史公曰：傳曰「其身正，不令而行；其身不正，雖令不從」。其李將軍之謂也？余睹李將軍悛悛如鄙人，口不能道辭。及死之日，天下知與不知，皆爲盡哀。彼其忠實心誠信於士大夫也？諺曰「桃李不言，下自成蹊」。此言雖小，可以諭大也。",
       "mentions": [
         {
-          "start": 0,
-          "end": 3,
-          "entity_id": "p32",
-          "type": "人物",
-          "name": "司马迁（太史公）"
-        },
-        {
           "start": 29,
           "end": 32,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
-        },
-        {
-          "start": 36,
-          "end": 37,
-          "entity_id": "p32",
-          "type": "人物",
-          "name": "司马迁（太史公）"
+          "entity_id": "李廣（李將軍）",
+          "surface": "李將軍"
         },
         {
           "start": 38,
           "end": 41,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "李广"
-        },
-        {
-          "start": 41,
-          "end": 46,
-          "entity_id": "c23",
-          "type": "概念",
-          "name": "悛悛如鄙人"
-        },
-        {
-          "start": 60,
-          "end": 64,
-          "entity_id": "c27",
-          "type": "概念",
-          "name": "天下知与不知"
+          "entity_id": "李廣（李將軍）",
+          "surface": "李將軍"
         }
       ]
     },
     {
       "para_id": "p19",
       "text": "索隱述贊曰：猨臂善射，實負其庸。解鞍却敵，圓陣摧鋒。邊郡屢守，大軍再從。失道見斥，數奇不封。惜哉名將，天下無雙！",
-      "mentions": [
-        {
-          "start": 0,
-          "end": 4,
-          "entity_id": "p33",
-          "type": "人物",
-          "name": "司马贞"
-        }
-      ]
+      "mentions": []
     }
   ]
 }
