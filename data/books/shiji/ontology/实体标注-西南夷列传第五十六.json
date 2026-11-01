@@ -1,139 +1,149 @@
 {
   "book_id": "shiji",
-  "chapter_id": "56",
+  "chapter_id": "西南夷列传第五十六",
   "chapter_title": "西南夷列传第五十六",
   "version": "final",
-  "generated_at": "2026-11-02T05:53:27.726863+08:00",
+  "generated_at": "2026-11-02T06:09:23.058318",
   "paragraphs": [
     {
       "para_id": "p0",
       "text": "西南夷君長⟦0⟧以什數，⟦1⟧夜郎最大；⟦2⟧⟦3⟧其西靡莫之屬⟦4⟧⟦5⟧以什數，滇最大；⟦6⟧⟦7⟧⟦8⟧自滇以北君長以什數，卭都最大：此皆魋結，⟦9⟧耕田，有邑聚。其外西自同師以東，⟦10⟧⟦11⟧北至楪榆，⟦12⟧⟦13⟧名爲嶲、昆明，⟦14⟧⟦15⟧⟦16⟧皆編髮，隨畜遷徙，⟦17⟧毋常處，毋君長，地方可數千里。自嶲以東北，君長以什數，徙、筰都最大；⟦18⟧⟦19⟧⟦20⟧自筰以東北，君長以什數，冉駹最大。⟦21⟧⟦22⟧其俗或士箸，或移徙，在蜀之西。自冉駹以東北，君長以什數，白馬最大，⟦23⟧⟦24⟧皆氐類也。此皆巴蜀西南外蠻夷也。",
       "mentions": [
         {
-          "start": 0,
-          "end": 3,
-          "name": "西南夷",
-          "category": "places"
+          "entity_id": "place_001",
+          "entity_name": "夜郎",
+          "entity_type": "place",
+          "start": 15,
+          "end": 17,
+          "surface": "夜郎"
         },
         {
-          "start": 9,
-          "end": 11,
-          "name": "夜郎",
-          "category": "places"
+          "entity_id": "place_003",
+          "entity_name": "靡莫",
+          "entity_type": "place",
+          "start": 28,
+          "end": 32,
+          "surface": "靡莫之屬"
         },
         {
-          "start": 16,
-          "end": 18,
-          "name": "靡莫",
-          "category": "places"
+          "entity_id": "place_002",
+          "entity_name": "滇",
+          "entity_type": "place",
+          "start": 42,
+          "end": 43,
+          "surface": "滇"
         },
         {
-          "start": 24,
-          "end": 25,
-          "name": "滇",
-          "category": "places"
+          "entity_id": "place_004",
+          "entity_name": "邛都",
+          "entity_type": "place",
+          "start": 65,
+          "end": 67,
+          "surface": "卭都"
         },
         {
-          "start": 29,
-          "end": 30,
-          "name": "滇",
-          "category": "places"
+          "entity_id": "concept_001",
+          "entity_name": "魋结",
+          "entity_type": "concept",
+          "start": 72,
+          "end": 74,
+          "surface": "魋結"
         },
         {
-          "start": 38,
-          "end": 40,
-          "name": "邛都",
-          "category": "places"
+          "entity_id": "place_005",
+          "entity_name": "同师",
+          "entity_type": "place",
+          "start": 89,
+          "end": 91,
+          "surface": "同師"
         },
         {
-          "start": 45,
-          "end": 47,
-          "name": "魋结（椎髻）",
-          "category": "concepts"
+          "entity_id": "place_006",
+          "entity_name": "楪榆",
+          "entity_type": "place",
+          "start": 104,
+          "end": 106,
+          "surface": "楪榆"
         },
         {
-          "start": 59,
-          "end": 61,
-          "name": "同师",
-          "category": "places"
+          "entity_id": "place_007",
+          "entity_name": "嶲",
+          "entity_type": "place",
+          "start": 116,
+          "end": 118,
+          "surface": "爲嶲"
         },
         {
-          "start": 66,
-          "end": 68,
-          "name": "楪榆",
-          "category": "places"
+          "entity_id": "place_007",
+          "entity_name": "嶲",
+          "entity_type": "place",
+          "start": 117,
+          "end": 118,
+          "surface": "嶲"
         },
         {
-          "start": 71,
-          "end": 72,
-          "name": "嶲",
-          "category": "places"
+          "entity_id": "place_008",
+          "entity_name": "昆明",
+          "entity_type": "place",
+          "start": 119,
+          "end": 121,
+          "surface": "昆明"
         },
         {
-          "start": 73,
-          "end": 75,
-          "name": "昆明（夷）",
-          "category": "places"
+          "entity_id": "concept_002",
+          "entity_name": "编发",
+          "entity_type": "concept",
+          "start": 135,
+          "end": 137,
+          "surface": "編髮"
         },
         {
-          "start": 77,
-          "end": 79,
-          "name": "编发",
-          "category": "concepts"
+          "entity_id": "place_009",
+          "entity_name": "徙",
+          "entity_type": "place",
+          "start": 141,
+          "end": 142,
+          "surface": "徙"
         },
         {
-          "start": 83,
-          "end": 84,
-          "name": "徙",
-          "category": "places"
-        },
-        {
-          "start": 101,
-          "end": 102,
-          "name": "嶲",
-          "category": "places"
-        },
-        {
-          "start": 112,
-          "end": 113,
-          "name": "徙",
-          "category": "places"
-        },
-        {
-          "start": 114,
-          "end": 116,
-          "name": "筰都",
-          "category": "places"
-        },
-        {
-          "start": 131,
-          "end": 133,
-          "name": "冉駹",
-          "category": "places"
-        },
-        {
-          "start": 144,
-          "end": 145,
-          "name": "徙",
-          "category": "places"
-        },
-        {
-          "start": 152,
-          "end": 154,
-          "name": "冉駹",
-          "category": "places"
-        },
-        {
-          "start": 164,
-          "end": 166,
-          "name": "白马",
-          "category": "places"
-        },
-        {
+          "entity_id": "place_010",
+          "entity_name": "筰都",
+          "entity_type": "place",
           "start": 176,
           "end": 178,
-          "name": "巴蜀",
-          "category": "places"
+          "surface": "筰都"
+        },
+        {
+          "entity_id": "place_011",
+          "entity_name": "冉駹",
+          "entity_type": "place",
+          "start": 205,
+          "end": 207,
+          "surface": "冉駹"
+        },
+        {
+          "entity_id": "place_012",
+          "entity_name": "白马",
+          "entity_type": "place",
+          "start": 246,
+          "end": 248,
+          "surface": "白馬"
+        },
+        {
+          "entity_id": "place_012",
+          "entity_name": "白马氐",
+          "entity_type": "place",
+          "start": 260,
+          "end": 262,
+          "surface": "氐類"
+        },
+        {
+          "entity_id": "place_013",
+          "entity_name": "巴蜀",
+          "entity_type": "place",
+          "start": 266,
+          "end": 268,
+          "surface": "巴蜀"
         }
       ]
     },
@@ -142,88 +152,124 @@
       "text": "始楚威王時，使將軍莊蹻⟦0⟧將兵循江上，略巴蜀黔中以西。莊蹻者，故楚莊王苗裔也。⟦1⟧蹻至滇池，地方三百里，⟦2⟧⟦3⟧旁平地，肥饒數千里，以兵威定屬楚。欲歸報，會秦擊奪楚巴、黔中郡，道塞不通，因還，以其衆王滇，變服，從其俗，以長之。秦時常頞⟦4⟧略通五尺道，⟦5⟧⟦6⟧諸此國頗置吏焉。十餘歲，秦滅。及漢興，皆弃此國而開蜀故徼。巴蜀民或竊出商賈，取其筰馬、僰僮、⟦7⟧⟦8⟧髦牛，以此巴蜀殷富。",
       "mentions": [
         {
+          "entity_id": "person_008",
+          "entity_name": "楚威王",
+          "entity_type": "person",
+          "start": 1,
+          "end": 4,
+          "surface": "楚威王"
+        },
+        {
+          "entity_id": "person_007",
+          "entity_name": "庄蹻（楚将）",
+          "entity_type": "person",
           "start": 9,
           "end": 11,
-          "name": "庄蹻",
-          "category": "persons"
+          "surface": "莊蹻"
         },
         {
-          "start": 15,
-          "end": 16,
-          "name": "刘彻（汉武帝）",
-          "category": "persons"
+          "entity_id": "place_013",
+          "entity_name": "巴蜀",
+          "entity_type": "place",
+          "start": 17,
+          "end": 19,
+          "surface": "江上"
         },
         {
-          "start": 18,
-          "end": 20,
-          "name": "巴蜀",
-          "category": "places"
+          "entity_id": "place_013",
+          "entity_name": "巴蜀",
+          "entity_type": "place",
+          "start": 21,
+          "end": 23,
+          "surface": "巴蜀"
         },
         {
-          "start": 20,
-          "end": 22,
-          "name": "黔中郡",
-          "category": "places"
+          "entity_id": "place_015",
+          "entity_name": "黔中郡",
+          "entity_type": "place",
+          "start": 23,
+          "end": 25,
+          "surface": "黔中"
         },
         {
-          "start": 25,
-          "end": 27,
-          "name": "庄蹻",
-          "category": "persons"
+          "entity_id": "person_007",
+          "entity_name": "庄蹻（楚将）",
+          "entity_type": "person",
+          "start": 28,
+          "end": 30,
+          "surface": "莊蹻"
         },
         {
-          "start": 30,
-          "end": 33,
-          "name": "楚庄王",
-          "category": "persons"
+          "entity_id": "person_009",
+          "entity_name": "楚庄王",
+          "entity_type": "person",
+          "start": 33,
+          "end": 36,
+          "surface": "楚莊王"
         },
         {
-          "start": 39,
-          "end": 41,
-          "name": "滇池",
-          "category": "places"
+          "entity_id": "person_007",
+          "entity_name": "庄蹻（楚将）",
+          "entity_type": "person",
+          "start": 43,
+          "end": 44,
+          "surface": "蹻"
         },
         {
-          "start": 76,
-          "end": 78,
-          "name": "黔中郡",
-          "category": "places"
+          "entity_id": "place_002",
+          "entity_name": "滇",
+          "entity_type": "place",
+          "start": 45,
+          "end": 47,
+          "surface": "滇池"
         },
         {
-          "start": 92,
-          "end": 93,
-          "name": "滇",
-          "category": "places"
+          "entity_id": "place_002",
+          "entity_name": "滇",
+          "entity_type": "place",
+          "start": 45,
+          "end": 46,
+          "surface": "滇"
         },
         {
-          "start": 107,
-          "end": 109,
-          "name": "常頞",
-          "category": "persons"
+          "entity_id": "place_015",
+          "entity_name": "黔中郡",
+          "entity_type": "place",
+          "start": 86,
+          "end": 91,
+          "surface": "巴、黔中郡"
         },
         {
-          "start": 111,
-          "end": 114,
-          "name": "五尺道",
-          "category": "places"
+          "entity_id": "person_010",
+          "entity_name": "常頞",
+          "entity_type": "person",
+          "start": 119,
+          "end": 121,
+          "surface": "常頞"
         },
         {
-          "start": 140,
-          "end": 143,
-          "name": "蜀故徼",
-          "category": "places"
+          "entity_id": "place_016",
+          "entity_name": "五尺道",
+          "entity_type": "place",
+          "start": 126,
+          "end": 129,
+          "surface": "五尺道"
         },
         {
-          "start": 144,
-          "end": 146,
-          "name": "巴蜀",
-          "category": "places"
+          "entity_id": "place_010",
+          "entity_name": "筰都",
+          "entity_type": "place",
+          "start": 176,
+          "end": 178,
+          "surface": "筰馬"
         },
         {
-          "start": 166,
-          "end": 168,
-          "name": "巴蜀",
-          "category": "places"
+          "entity_id": "place_021",
+          "entity_name": "僰道",
+          "entity_type": "place",
+          "start": 179,
+          "end": 181,
+          "surface": "僰僮"
         }
       ]
     },
@@ -232,244 +278,420 @@
       "text": "建元六年，大行王恢擊東越，東越殺王郢以報。恢因兵威使番陽令⟦0⟧唐蒙風指曉南越。南越食蒙蜀枸醬，⟦1⟧⟦2⟧蒙問所從來，曰「道西北䍧柯，䍧柯江⟦3⟧廣數里，出番禺城下」。蒙歸至長安，問蜀賈人，賈人曰：「獨蜀出枸醬，多持竊出市夜郎。夜郎者，臨䍧柯江，江廣百餘步，足以行船。南越以財物役屬夜郎，西至同師，然亦不能臣使也。」蒙乃上書說上曰：「南越王黃屋左纛，地東西萬餘里，名爲外臣，實一州主也。今以長沙、豫章徃，水道多絕，難行。竊聞夜郎所有精兵，可得十餘萬，浮船䍧柯江，出其不意，此制越一奇也。誠以漢之彊，巴蜀之饒，通夜郎道，爲置吏，易甚。」上許之。乃拜蒙爲郎中將，將千人，食重萬餘人，⟦4⟧從巴蜀筰關入，遂見夜郎侯多同。蒙厚賜，喻以威德，約爲置吏，使其子爲令。夜郎旁小邑皆貪漢繒帛，以爲漢道險，終不能有也，乃且聽蒙約。還報，乃以爲犍爲郡。發巴蜀卒治道，自僰道指䍧柯江。⟦5⟧蜀人司馬相如亦言西夷卭、筰可置郡。使相如以郎中將往喻，皆如南夷，爲置一都尉，十餘縣，屬蜀。",
       "mentions": [
         {
+          "entity_id": "person_011",
+          "entity_name": "王恢（大行）",
+          "entity_type": "person",
           "start": 7,
           "end": 9,
-          "name": "王恢",
-          "category": "persons"
+          "surface": "王恢"
         },
         {
+          "entity_id": "place_035",
+          "entity_name": "东越",
+          "entity_type": "place",
           "start": 10,
           "end": 12,
-          "name": "东越",
-          "category": "places"
+          "surface": "東越"
         },
         {
+          "entity_id": "place_035",
+          "entity_name": "东越",
+          "entity_type": "place",
           "start": 13,
           "end": 15,
-          "name": "东越",
-          "category": "places"
+          "surface": "東越"
         },
         {
-          "start": 17,
-          "end": 18,
-          "name": "东越王郢",
-          "category": "persons"
+          "entity_id": "person_004",
+          "entity_name": "唐蒙（番阳令）",
+          "entity_type": "person",
+          "start": 32,
+          "end": 34,
+          "surface": "唐蒙"
         },
         {
-          "start": 26,
-          "end": 28,
-          "name": "番阳",
-          "category": "places"
+          "entity_id": "person_004",
+          "entity_name": "唐蒙（番阳令）",
+          "entity_type": "person",
+          "start": 33,
+          "end": 34,
+          "surface": "蒙"
         },
         {
-          "start": 29,
-          "end": 31,
-          "name": "唐蒙",
-          "category": "persons"
-        },
-        {
-          "start": 34,
-          "end": 36,
-          "name": "南越",
-          "category": "places"
-        },
-        {
+          "entity_id": "place_034",
+          "entity_name": "南越",
+          "entity_type": "place",
           "start": 37,
           "end": 39,
-          "name": "南越",
-          "category": "places"
+          "surface": "南越"
         },
         {
-          "start": 42,
+          "entity_id": "place_034",
+          "entity_name": "南越",
+          "entity_type": "place",
+          "start": 40,
+          "end": 42,
+          "surface": "南越"
+        },
+        {
+          "entity_id": "person_004",
+          "entity_name": "唐蒙（番阳令）",
+          "entity_type": "person",
+          "start": 43,
           "end": 44,
-          "name": "枸酱",
-          "category": "concepts"
+          "surface": "蒙"
         },
         {
-          "start": 59,
-          "end": 62,
-          "name": "牂柯江",
-          "category": "places"
+          "entity_id": "concept_004",
+          "entity_name": "枸酱之路",
+          "entity_type": "concept",
+          "start": 45,
+          "end": 47,
+          "surface": "枸醬"
         },
         {
-          "start": 67,
-          "end": 69,
-          "name": "番禺",
-          "category": "places"
+          "entity_id": "person_004",
+          "entity_name": "唐蒙（番阳令）",
+          "entity_type": "person",
+          "start": 54,
+          "end": 55,
+          "surface": "蒙"
         },
         {
-          "start": 76,
-          "end": 78,
-          "name": "长安",
-          "category": "places"
+          "entity_id": "place_017",
+          "entity_name": "牂柯江",
+          "entity_type": "place",
+          "start": 65,
+          "end": 67,
+          "surface": "䍧柯"
         },
         {
-          "start": 92,
-          "end": 94,
-          "name": "枸酱",
-          "category": "concepts"
+          "entity_id": "place_017",
+          "entity_name": "牂柯江",
+          "entity_type": "place",
+          "start": 68,
+          "end": 70,
+          "surface": "䍧柯"
         },
         {
-          "start": 100,
-          "end": 102,
-          "name": "夜郎",
-          "category": "places"
+          "entity_id": "place_017",
+          "entity_name": "牂柯江",
+          "entity_type": "place",
+          "start": 68,
+          "end": 71,
+          "surface": "䍧柯江"
         },
         {
-          "start": 103,
-          "end": 105,
-          "name": "夜郎",
-          "category": "places"
+          "entity_id": "place_018",
+          "entity_name": "番禺",
+          "entity_type": "place",
+          "start": 79,
+          "end": 81,
+          "surface": "番禺"
         },
         {
-          "start": 108,
-          "end": 111,
-          "name": "牂柯江",
-          "category": "places"
+          "entity_id": "person_004",
+          "entity_name": "唐蒙（番阳令）",
+          "entity_type": "person",
+          "start": 85,
+          "end": 86,
+          "surface": "蒙"
         },
         {
-          "start": 123,
-          "end": 125,
-          "name": "南越",
-          "category": "places"
+          "entity_id": "place_019",
+          "entity_name": "长安",
+          "entity_type": "place",
+          "start": 88,
+          "end": 90,
+          "surface": "長安"
         },
         {
-          "start": 130,
-          "end": 132,
-          "name": "夜郎",
-          "category": "places"
+          "entity_id": "concept_004",
+          "entity_name": "枸酱之路",
+          "entity_type": "concept",
+          "start": 104,
+          "end": 106,
+          "surface": "枸醬"
         },
         {
+          "entity_id": "place_001",
+          "entity_name": "夜郎",
+          "entity_type": "place",
+          "start": 112,
+          "end": 114,
+          "surface": "夜郎"
+        },
+        {
+          "entity_id": "place_001",
+          "entity_name": "夜郎",
+          "entity_type": "place",
+          "start": 115,
+          "end": 117,
+          "surface": "夜郎"
+        },
+        {
+          "entity_id": "place_017",
+          "entity_name": "牂柯江",
+          "entity_type": "place",
+          "start": 120,
+          "end": 122,
+          "surface": "䍧柯"
+        },
+        {
+          "entity_id": "place_017",
+          "entity_name": "牂柯江",
+          "entity_type": "place",
+          "start": 120,
+          "end": 123,
+          "surface": "䍧柯江"
+        },
+        {
+          "entity_id": "place_034",
+          "entity_name": "南越",
+          "entity_type": "place",
           "start": 135,
           "end": 137,
-          "name": "同师",
-          "category": "places"
+          "surface": "南越"
         },
         {
-          "start": 149,
-          "end": 150,
-          "name": "刘彻（汉武帝）",
-          "category": "persons"
+          "entity_id": "place_001",
+          "entity_name": "夜郎",
+          "entity_type": "place",
+          "start": 142,
+          "end": 144,
+          "surface": "夜郎"
         },
         {
-          "start": 152,
-          "end": 153,
-          "name": "刘彻（汉武帝）",
-          "category": "persons"
+          "entity_id": "place_005",
+          "entity_name": "同师",
+          "entity_type": "place",
+          "start": 147,
+          "end": 149,
+          "surface": "同師"
         },
         {
-          "start": 156,
-          "end": 158,
-          "name": "南越",
-          "category": "places"
-        },
-        {
+          "entity_id": "person_004",
+          "entity_name": "唐蒙（番阳令）",
+          "entity_type": "person",
           "start": 159,
-          "end": 163,
-          "name": "黄屋左纛",
-          "category": "concepts"
+          "end": 160,
+          "surface": "蒙"
         },
         {
-          "start": 184,
-          "end": 186,
-          "name": "长沙（国）",
-          "category": "places"
+          "entity_id": "place_034",
+          "entity_name": "南越",
+          "entity_type": "place",
+          "start": 168,
+          "end": 170,
+          "surface": "南越"
         },
         {
-          "start": 187,
-          "end": 189,
-          "name": "豫章郡",
-          "category": "places"
+          "entity_id": "place_037",
+          "entity_name": "长沙国",
+          "entity_type": "place",
+          "start": 196,
+          "end": 198,
+          "surface": "長沙"
         },
         {
-          "start": 201,
-          "end": 203,
-          "name": "夜郎",
-          "category": "places"
+          "entity_id": "place_036",
+          "entity_name": "豫章郡",
+          "entity_type": "place",
+          "start": 199,
+          "end": 201,
+          "surface": "豫章"
         },
         {
-          "start": 216,
-          "end": 219,
-          "name": "牂柯江",
-          "category": "places"
+          "entity_id": "place_001",
+          "entity_name": "夜郎",
+          "entity_type": "place",
+          "start": 213,
+          "end": 215,
+          "surface": "夜郎"
         },
         {
-          "start": 238,
-          "end": 240,
-          "name": "巴蜀",
-          "category": "places"
+          "entity_id": "place_017",
+          "entity_name": "牂柯江",
+          "entity_type": "place",
+          "start": 228,
+          "end": 230,
+          "surface": "䍧柯"
         },
         {
-          "start": 244,
-          "end": 246,
-          "name": "夜郎",
-          "category": "places"
+          "entity_id": "place_017",
+          "entity_name": "牂柯江",
+          "entity_type": "place",
+          "start": 228,
+          "end": 231,
+          "surface": "䍧柯江"
         },
         {
+          "entity_id": "place_013",
+          "entity_name": "巴蜀",
+          "entity_type": "place",
+          "start": 250,
+          "end": 252,
+          "surface": "巴蜀"
+        },
+        {
+          "entity_id": "place_001",
+          "entity_name": "夜郎",
+          "entity_type": "place",
           "start": 256,
-          "end": 257,
-          "name": "刘彻（汉武帝）",
-          "category": "persons"
+          "end": 258,
+          "surface": "夜郎"
         },
         {
-          "start": 279,
-          "end": 281,
-          "name": "巴蜀",
-          "category": "places"
+          "entity_id": "person_004",
+          "entity_name": "唐蒙（番阳令）",
+          "entity_type": "person",
+          "start": 274,
+          "end": 275,
+          "surface": "蒙"
         },
         {
-          "start": 281,
-          "end": 283,
-          "name": "筰关",
-          "category": "places"
+          "entity_id": "place_013",
+          "entity_name": "巴蜀",
+          "entity_type": "place",
+          "start": 294,
+          "end": 296,
+          "surface": "巴蜀"
         },
         {
-          "start": 287,
-          "end": 290,
-          "name": "多同（夜郎侯）",
-          "category": "persons"
+          "entity_id": "place_022",
+          "entity_name": "筰关",
+          "entity_type": "place",
+          "start": 296,
+          "end": 298,
+          "surface": "筰關"
         },
         {
-          "start": 290,
-          "end": 292,
-          "name": "多同（夜郎侯）",
-          "category": "persons"
+          "entity_id": "place_010",
+          "entity_name": "筰都",
+          "entity_type": "place",
+          "start": 296,
+          "end": 297,
+          "surface": "筰"
         },
         {
-          "start": 313,
-          "end": 315,
-          "name": "夜郎",
-          "category": "places"
+          "entity_id": "place_001",
+          "entity_name": "夜郎",
+          "entity_type": "place",
+          "start": 302,
+          "end": 304,
+          "surface": "夜郎"
         },
         {
-          "start": 348,
-          "end": 350,
-          "name": "犍为郡",
-          "category": "places"
+          "entity_id": "person_012",
+          "entity_name": "多同（夜郎侯/夜郎王）",
+          "entity_type": "person",
+          "start": 302,
+          "end": 307,
+          "surface": "夜郎侯多同"
         },
         {
-          "start": 353,
+          "entity_id": "person_004",
+          "entity_name": "唐蒙（番阳令）",
+          "entity_type": "person",
+          "start": 308,
+          "end": 309,
+          "surface": "蒙"
+        },
+        {
+          "entity_id": "place_001",
+          "entity_name": "夜郎",
+          "entity_type": "place",
+          "start": 328,
+          "end": 330,
+          "surface": "夜郎"
+        },
+        {
+          "entity_id": "person_004",
+          "entity_name": "唐蒙（番阳令）",
+          "entity_type": "person",
+          "start": 354,
           "end": 355,
-          "name": "巴蜀",
-          "category": "places"
+          "surface": "蒙"
         },
         {
-          "start": 360,
-          "end": 362,
-          "name": "僰道",
-          "category": "places"
-        },
-        {
+          "entity_id": "place_020",
+          "entity_name": "犍为郡",
+          "entity_type": "place",
           "start": 363,
           "end": 366,
-          "name": "牂柯江",
-          "category": "places"
+          "surface": "犍爲郡"
         },
         {
-          "start": 369,
-          "end": 373,
-          "name": "司马相如",
-          "category": "persons"
+          "entity_id": "place_013",
+          "entity_name": "巴蜀",
+          "entity_type": "place",
+          "start": 368,
+          "end": 370,
+          "surface": "巴蜀"
+        },
+        {
+          "entity_id": "place_021",
+          "entity_name": "僰道",
+          "entity_type": "place",
+          "start": 375,
+          "end": 377,
+          "surface": "僰道"
+        },
+        {
+          "entity_id": "place_017",
+          "entity_name": "牂柯江",
+          "entity_type": "place",
+          "start": 378,
+          "end": 380,
+          "surface": "䍧柯"
+        },
+        {
+          "entity_id": "place_017",
+          "entity_name": "牂柯江",
+          "entity_type": "place",
+          "start": 378,
+          "end": 381,
+          "surface": "䍧柯江"
+        },
+        {
+          "entity_id": "person_005",
+          "entity_name": "司马相如",
+          "entity_type": "person",
+          "start": 387,
+          "end": 391,
+          "surface": "司馬相如"
+        },
+        {
+          "entity_id": "person_005",
+          "entity_name": "司马相如",
+          "entity_type": "person",
+          "start": 389,
+          "end": 391,
+          "surface": "相如"
+        },
+        {
+          "entity_id": "place_004",
+          "entity_name": "邛都",
+          "entity_type": "place",
+          "start": 395,
+          "end": 396,
+          "surface": "卭"
+        },
+        {
+          "entity_id": "place_010",
+          "entity_name": "筰都",
+          "entity_type": "place",
+          "start": 397,
+          "end": 398,
+          "surface": "筰"
+        },
+        {
+          "entity_id": "person_005",
+          "entity_name": "司马相如",
+          "entity_type": "person",
+          "start": 403,
+          "end": 405,
+          "surface": "相如"
         }
       ]
     },
@@ -478,70 +700,148 @@
       "text": "當是時，巴蜀四郡⟦0⟧通西南夷道，戍轉相饟。數歲，道不通，士罷餓離溼死者甚衆；西南夷又數反，發兵興擊，秏費無功。上患之，使公孫弘往視問焉。還對，言其不便。及弘爲御史大夫，是時方築朔方以據河逐胡，弘因數言西南夷害，可且罷，專力事匈奴。上罷西夷，獨置南夷夜郎兩縣一都尉，⟦1⟧稍令犍爲自葆就。⟦2⟧",
       "mentions": [
         {
+          "entity_id": "place_013",
+          "entity_name": "巴蜀",
+          "entity_type": "place",
           "start": 4,
           "end": 6,
-          "name": "巴蜀",
-          "category": "places"
+          "surface": "巴蜀"
         },
         {
-          "start": 9,
-          "end": 12,
-          "name": "西南夷",
-          "category": "places"
+          "entity_id": "event_001",
+          "entity_name": "西南夷族群分布",
+          "entity_type": "event",
+          "start": 12,
+          "end": 15,
+          "surface": "西南夷"
         },
         {
-          "start": 36,
-          "end": 39,
-          "name": "西南夷",
-          "category": "places"
+          "entity_id": "event_006",
+          "entity_name": "公孙弘视问罢西夷",
+          "entity_type": "event",
+          "start": 12,
+          "end": 15,
+          "surface": "西南夷"
         },
         {
-          "start": 53,
-          "end": 54,
-          "name": "刘彻（汉武帝）",
-          "category": "persons"
+          "entity_id": "event_001",
+          "entity_name": "西南夷族群分布",
+          "entity_type": "event",
+          "start": 39,
+          "end": 42,
+          "surface": "西南夷"
         },
         {
-          "start": 58,
-          "end": 61,
-          "name": "公孙弘",
-          "category": "persons"
+          "entity_id": "event_006",
+          "entity_name": "公孙弘视问罢西夷",
+          "entity_type": "event",
+          "start": 39,
+          "end": 42,
+          "surface": "西南夷"
         },
         {
-          "start": 86,
-          "end": 88,
-          "name": "朔方郡",
-          "category": "places"
+          "entity_id": "person_003",
+          "entity_name": "公孙弘",
+          "entity_type": "person",
+          "start": 61,
+          "end": 64,
+          "surface": "公孫弘"
         },
         {
-          "start": 98,
-          "end": 101,
-          "name": "西南夷",
-          "category": "places"
+          "entity_id": "person_003",
+          "entity_name": "公孙弘",
+          "entity_type": "person",
+          "start": 63,
+          "end": 64,
+          "surface": "弘"
         },
         {
-          "start": 110,
-          "end": 112,
-          "name": "匈奴",
-          "category": "places"
+          "entity_id": "person_003",
+          "entity_name": "公孙弘",
+          "entity_type": "person",
+          "start": 78,
+          "end": 79,
+          "surface": "弘"
         },
         {
+          "entity_id": "person_003",
+          "entity_name": "公孙弘",
+          "entity_type": "person",
+          "start": 80,
+          "end": 84,
+          "surface": "御史大夫"
+        },
+        {
+          "entity_id": "place_023",
+          "entity_name": "朔方郡",
+          "entity_type": "place",
+          "start": 89,
+          "end": 91,
+          "surface": "朔方"
+        },
+        {
+          "entity_id": "place_024",
+          "entity_name": "匈奴",
+          "entity_type": "place",
+          "start": 95,
+          "end": 96,
+          "surface": "胡"
+        },
+        {
+          "entity_id": "person_003",
+          "entity_name": "公孙弘",
+          "entity_type": "person",
+          "start": 97,
+          "end": 98,
+          "surface": "弘"
+        },
+        {
+          "entity_id": "event_001",
+          "entity_name": "西南夷族群分布",
+          "entity_type": "event",
+          "start": 101,
+          "end": 104,
+          "surface": "西南夷"
+        },
+        {
+          "entity_id": "event_006",
+          "entity_name": "公孙弘视问罢西夷",
+          "entity_type": "event",
+          "start": 101,
+          "end": 104,
+          "surface": "西南夷"
+        },
+        {
+          "entity_id": "place_024",
+          "entity_name": "匈奴",
+          "entity_type": "place",
           "start": 113,
-          "end": 114,
-          "name": "刘彻（汉武帝）",
-          "category": "persons"
+          "end": 115,
+          "surface": "匈奴"
         },
         {
-          "start": 122,
-          "end": 124,
-          "name": "夜郎",
-          "category": "places"
+          "entity_id": "place_010",
+          "entity_name": "筰都/西夷",
+          "entity_type": "place",
+          "start": 118,
+          "end": 120,
+          "surface": "西夷"
         },
         {
-          "start": 132,
-          "end": 134,
-          "name": "犍为郡",
-          "category": "places"
+          "entity_id": "place_001",
+          "entity_name": "夜郎",
+          "entity_type": "place",
+          "start": 123,
+          "end": 127,
+          "surface": "南夷夜郎"
+        },
+        {
+          "entity_id": "place_020",
+          "entity_name": "犍为郡",
+          "entity_type": "place",
+          "start": 138,
+          "end": 140,
+          "surface": "犍爲"
         }
       ]
     },
@@ -550,118 +850,236 @@
       "text": "及元狩元年，博望侯張騫使大夏來，言居大夏時見蜀布、卭竹、杖，⟦0⟧使問所從來，曰「從東南身毒國，⟦1⟧⟦2⟧可數千里，得蜀賈人市」。或聞卭西可二千里有身毒國。騫因盛言大夏在漢西南，慕中國，患匈奴隔其道，誠通蜀，身毒國道便近，有利無害。於是天子乃令王然于、柏始昌、呂越人等，使間出西夷西，指求身毒國。至滇，滇王嘗羌⟦3⟧乃留，爲求道西十餘輩。歲餘，皆閉昆明，⟦4⟧⟦5⟧莫能通身毒國。",
       "mentions": [
         {
+          "entity_id": "person_002",
+          "entity_name": "张骞（博望侯）",
+          "entity_type": "person",
           "start": 6,
           "end": 9,
-          "name": "张骞（博望侯）",
-          "category": "persons"
+          "surface": "博望侯"
         },
         {
+          "entity_id": "person_002",
+          "entity_name": "张骞（博望侯）",
+          "entity_type": "person",
           "start": 9,
           "end": 11,
-          "name": "张骞（博望侯）",
-          "category": "persons"
+          "surface": "張騫"
         },
         {
+          "entity_id": "person_002",
+          "entity_name": "张骞（博望侯）",
+          "entity_type": "person",
+          "start": 10,
+          "end": 11,
+          "surface": "騫"
+        },
+        {
+          "entity_id": "place_025",
+          "entity_name": "大夏",
+          "entity_type": "place",
           "start": 12,
           "end": 14,
-          "name": "大夏",
-          "category": "places"
+          "surface": "大夏"
         },
         {
+          "entity_id": "place_025",
+          "entity_name": "大夏",
+          "entity_type": "place",
           "start": 18,
           "end": 20,
-          "name": "大夏",
-          "category": "places"
+          "surface": "大夏"
         },
         {
-          "start": 41,
-          "end": 44,
-          "name": "身毒国",
-          "category": "places"
+          "entity_id": "concept_004",
+          "entity_name": "枸酱之路",
+          "entity_type": "concept",
+          "start": 22,
+          "end": 24,
+          "surface": "蜀布"
         },
         {
-          "start": 66,
-          "end": 69,
-          "name": "身毒国",
-          "category": "places"
+          "entity_id": "place_013",
+          "entity_name": "巴蜀",
+          "entity_type": "place",
+          "start": 22,
+          "end": 23,
+          "surface": "蜀"
         },
         {
-          "start": 74,
-          "end": 76,
-          "name": "大夏",
-          "category": "places"
+          "entity_id": "place_004",
+          "entity_name": "邛都",
+          "entity_type": "place",
+          "start": 25,
+          "end": 27,
+          "surface": "卭竹"
         },
         {
-          "start": 86,
-          "end": 88,
-          "name": "匈奴",
-          "category": "places"
+          "entity_id": "place_026",
+          "entity_name": "身毒",
+          "entity_type": "place",
+          "start": 44,
+          "end": 47,
+          "surface": "身毒國"
         },
         {
-          "start": 96,
-          "end": 99,
-          "name": "身毒国",
-          "category": "places"
+          "entity_id": "place_013",
+          "entity_name": "巴蜀",
+          "entity_type": "place",
+          "start": 60,
+          "end": 61,
+          "surface": "蜀"
         },
         {
-          "start": 110,
-          "end": 112,
-          "name": "刘彻（汉武帝）",
-          "category": "persons"
+          "entity_id": "place_004",
+          "entity_name": "邛都",
+          "entity_type": "place",
+          "start": 68,
+          "end": 70,
+          "surface": "卭西"
         },
         {
-          "start": 114,
-          "end": 117,
-          "name": "王然于",
-          "category": "persons"
+          "entity_id": "place_026",
+          "entity_name": "身毒",
+          "entity_type": "place",
+          "start": 75,
+          "end": 78,
+          "surface": "身毒國"
         },
         {
-          "start": 118,
+          "entity_id": "person_002",
+          "entity_name": "张骞（博望侯）",
+          "entity_type": "person",
+          "start": 79,
+          "end": 80,
+          "surface": "騫"
+        },
+        {
+          "entity_id": "place_025",
+          "entity_name": "大夏",
+          "entity_type": "place",
+          "start": 83,
+          "end": 85,
+          "surface": "大夏"
+        },
+        {
+          "entity_id": "place_019",
+          "entity_name": "长安/汉",
+          "entity_type": "place",
+          "start": 91,
+          "end": 93,
+          "surface": "中國"
+        },
+        {
+          "entity_id": "place_024",
+          "entity_name": "匈奴",
+          "entity_type": "place",
+          "start": 95,
+          "end": 97,
+          "surface": "匈奴"
+        },
+        {
+          "entity_id": "place_013",
+          "entity_name": "巴蜀",
+          "entity_type": "place",
+          "start": 103,
+          "end": 104,
+          "surface": "蜀"
+        },
+        {
+          "entity_id": "place_026",
+          "entity_name": "身毒",
+          "entity_type": "place",
+          "start": 105,
+          "end": 108,
+          "surface": "身毒國"
+        },
+        {
+          "entity_id": "person_001",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 119,
           "end": 121,
-          "name": "柏始昌",
-          "category": "persons"
+          "surface": "天子"
         },
         {
-          "start": 122,
-          "end": 125,
-          "name": "吕越人",
-          "category": "persons"
+          "entity_id": "person_006",
+          "entity_name": "王然于",
+          "entity_type": "person",
+          "start": 123,
+          "end": 126,
+          "surface": "王然于"
         },
         {
-          "start": 136,
-          "end": 139,
-          "name": "身毒国",
-          "category": "places"
+          "entity_id": "person_013",
+          "entity_name": "柏始昌",
+          "entity_type": "person",
+          "start": 127,
+          "end": 130,
+          "surface": "柏始昌"
         },
         {
-          "start": 141,
-          "end": 142,
-          "name": "滇",
-          "category": "places"
+          "entity_id": "person_014",
+          "entity_name": "吕越人",
+          "entity_type": "person",
+          "start": 131,
+          "end": 134,
+          "surface": "呂越人"
         },
         {
-          "start": 143,
-          "end": 145,
-          "name": "尝羌（滇王）",
-          "category": "persons"
+          "entity_id": "place_010",
+          "entity_name": "筰都/西夷",
+          "entity_type": "place",
+          "start": 139,
+          "end": 141,
+          "surface": "西夷"
         },
         {
+          "entity_id": "place_026",
+          "entity_name": "身毒",
+          "entity_type": "place",
           "start": 145,
-          "end": 147,
-          "name": "尝羌（滇王）",
-          "category": "persons"
+          "end": 148,
+          "surface": "身毒國"
         },
         {
-          "start": 163,
-          "end": 165,
-          "name": "昆明（夷）",
-          "category": "places"
+          "entity_id": "place_002",
+          "entity_name": "滇",
+          "entity_type": "place",
+          "start": 150,
+          "end": 151,
+          "surface": "滇"
         },
         {
-          "start": 169,
-          "end": 172,
-          "name": "身毒国",
-          "category": "places"
+          "entity_id": "place_002",
+          "entity_name": "滇",
+          "entity_type": "place",
+          "start": 152,
+          "end": 153,
+          "surface": "滇"
+        },
+        {
+          "entity_id": "person_015",
+          "entity_name": "尝羌（滇王）",
+          "entity_type": "person",
+          "start": 152,
+          "end": 156,
+          "surface": "滇王嘗羌"
+        },
+        {
+          "entity_id": "place_008",
+          "entity_name": "昆明",
+          "entity_type": "place",
+          "start": 175,
+          "end": 177,
+          "surface": "昆明"
+        },
+        {
+          "entity_id": "place_026",
+          "entity_name": "身毒",
+          "entity_type": "place",
+          "start": 187,
+          "end": 190,
+          "surface": "身毒國"
         }
       ]
     },
@@ -670,28 +1088,92 @@
       "text": "滇王與漢使者言曰：「漢孰與我大？」及夜郎侯亦然。以道不通故，各自以爲一州主，不知漢廣大。使者還，因盛言滇大國，足事親附。天子注意焉。",
       "mentions": [
         {
+          "entity_id": "person_015",
+          "entity_name": "尝羌（滇王）",
+          "entity_type": "person",
           "start": 0,
           "end": 2,
-          "name": "尝羌（滇王）",
-          "category": "persons"
+          "surface": "滇王"
         },
         {
+          "entity_id": "place_002",
+          "entity_name": "滇",
+          "entity_type": "place",
+          "start": 0,
+          "end": 1,
+          "surface": "滇"
+        },
+        {
+          "entity_id": "person_001",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 3,
+          "end": 4,
+          "surface": "漢"
+        },
+        {
+          "entity_id": "place_019",
+          "entity_name": "长安/汉",
+          "entity_type": "place",
+          "start": 3,
+          "end": 4,
+          "surface": "漢"
+        },
+        {
+          "entity_id": "person_001",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 10,
+          "end": 11,
+          "surface": "漢"
+        },
+        {
+          "entity_id": "concept_003",
+          "entity_name": "夜郎自大",
+          "entity_type": "concept",
+          "start": 10,
+          "end": 15,
+          "surface": "漢孰與我大"
+        },
+        {
+          "entity_id": "place_019",
+          "entity_name": "长安/汉",
+          "entity_type": "place",
+          "start": 10,
+          "end": 11,
+          "surface": "漢"
+        },
+        {
+          "entity_id": "person_012",
+          "entity_name": "多同（夜郎侯/夜郎王）",
+          "entity_type": "person",
           "start": 18,
           "end": 21,
-          "name": "多同（夜郎侯）",
-          "category": "persons"
+          "surface": "夜郎侯"
         },
         {
+          "entity_id": "person_001",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 40,
+          "end": 41,
+          "surface": "漢"
+        },
+        {
+          "entity_id": "place_019",
+          "entity_name": "长安/汉",
+          "entity_type": "place",
+          "start": 40,
+          "end": 41,
+          "surface": "漢"
+        },
+        {
+          "entity_id": "place_002",
+          "entity_name": "滇",
+          "entity_type": "place",
           "start": 51,
           "end": 52,
-          "name": "滇",
-          "category": "places"
-        },
-        {
-          "start": 60,
-          "end": 62,
-          "name": "刘彻（汉武帝）",
-          "category": "persons"
+          "surface": "滇"
         }
       ]
     },
@@ -700,100 +1182,180 @@
       "text": "及至南越反，上使馳義侯因犍爲發南夷兵。且蘭君恐遠行，⟦0⟧旁國虜其老弱，乃與其衆反，殺使者及犍爲太守。漢乃發巴蜀罪人嘗擊南越者八校尉擊破之。會越已破，漢八校尉不下，即引兵還，行誅頭蘭。⟦1⟧頭蘭，常隔滇道者也。已平頭蘭，遂平南夷爲䍧柯郡。夜郎侯始倚南越，南越已滅，會還誅反者，夜郎遂入朝。上以爲夜郎王。",
       "mentions": [
         {
+          "entity_id": "place_034",
+          "entity_name": "南越",
+          "entity_type": "place",
           "start": 2,
           "end": 4,
-          "name": "南越",
-          "category": "places"
+          "surface": "南越"
         },
         {
-          "start": 6,
-          "end": 7,
-          "name": "刘彻（汉武帝）",
-          "category": "persons"
-        },
-        {
+          "entity_id": "person_016",
+          "entity_name": "驰义侯",
+          "entity_type": "person",
           "start": 8,
           "end": 11,
-          "name": "驰义侯",
-          "category": "persons"
+          "surface": "馳義侯"
         },
         {
+          "entity_id": "place_020",
+          "entity_name": "犍为郡",
+          "entity_type": "place",
           "start": 12,
           "end": 14,
-          "name": "犍为郡",
-          "category": "places"
+          "surface": "犍爲"
         },
         {
+          "entity_id": "place_001",
+          "entity_name": "夜郎/南夷",
+          "entity_type": "place",
+          "start": 15,
+          "end": 17,
+          "surface": "南夷"
+        },
+        {
+          "entity_id": "person_017",
+          "entity_name": "且兰君",
+          "entity_type": "person",
           "start": 19,
           "end": 22,
-          "name": "且兰君",
-          "category": "persons"
+          "surface": "且蘭君"
         },
         {
+          "entity_id": "person_001",
+          "entity_name": "刘彻（汉武帝）/汉使",
+          "entity_type": "person",
           "start": 43,
           "end": 45,
-          "name": "犍为郡",
-          "category": "places"
+          "surface": "使者"
         },
         {
-          "start": 51,
-          "end": 53,
-          "name": "巴蜀",
-          "category": "places"
+          "entity_id": "place_020",
+          "entity_name": "犍为郡",
+          "entity_type": "place",
+          "start": 46,
+          "end": 48,
+          "surface": "犍爲"
         },
         {
-          "start": 57,
-          "end": 59,
-          "name": "南越",
-          "category": "places"
+          "entity_id": "place_020",
+          "entity_name": "犍为郡",
+          "entity_type": "place",
+          "start": 46,
+          "end": 50,
+          "surface": "犍爲太守"
         },
         {
-          "start": 94,
-          "end": 95,
-          "name": "滇",
-          "category": "places"
+          "entity_id": "place_013",
+          "entity_name": "巴蜀",
+          "entity_type": "place",
+          "start": 54,
+          "end": 56,
+          "surface": "巴蜀"
         },
         {
-          "start": 109,
-          "end": 112,
-          "name": "牂柯郡",
-          "category": "places"
+          "entity_id": "place_034",
+          "entity_name": "南越",
+          "entity_type": "place",
+          "start": 60,
+          "end": 62,
+          "surface": "南越"
         },
         {
-          "start": 113,
-          "end": 116,
-          "name": "多同（夜郎侯）",
-          "category": "persons"
+          "entity_id": "person_018",
+          "entity_name": "头兰君",
+          "entity_type": "person",
+          "start": 89,
+          "end": 91,
+          "surface": "頭蘭"
         },
         {
-          "start": 118,
-          "end": 120,
-          "name": "南越",
-          "category": "places"
+          "entity_id": "person_018",
+          "entity_name": "头兰君",
+          "entity_type": "person",
+          "start": 95,
+          "end": 97,
+          "surface": "頭蘭"
         },
         {
-          "start": 121,
-          "end": 123,
-          "name": "南越",
-          "category": "places"
+          "entity_id": "person_018",
+          "entity_name": "头兰君",
+          "entity_type": "person",
+          "start": 107,
+          "end": 109,
+          "surface": "頭蘭"
         },
         {
-          "start": 132,
-          "end": 134,
-          "name": "夜郎",
-          "category": "places"
+          "entity_id": "place_001",
+          "entity_name": "夜郎/南夷",
+          "entity_type": "place",
+          "start": 112,
+          "end": 114,
+          "surface": "南夷"
         },
         {
+          "entity_id": "place_027",
+          "entity_name": "牂柯郡",
+          "entity_type": "place",
+          "start": 115,
+          "end": 118,
+          "surface": "䍧柯郡"
+        },
+        {
+          "entity_id": "person_012",
+          "entity_name": "多同（夜郎侯/夜郎王）",
+          "entity_type": "person",
+          "start": 119,
+          "end": 122,
+          "surface": "夜郎侯"
+        },
+        {
+          "entity_id": "person_012",
+          "entity_name": "多同（夜郎侯/夜郎王）",
+          "entity_type": "person",
+          "start": 119,
+          "end": 121,
+          "surface": "夜郎"
+        },
+        {
+          "entity_id": "place_034",
+          "entity_name": "南越",
+          "entity_type": "place",
+          "start": 124,
+          "end": 126,
+          "surface": "南越"
+        },
+        {
+          "entity_id": "place_034",
+          "entity_name": "南越",
+          "entity_type": "place",
+          "start": 127,
+          "end": 129,
+          "surface": "南越"
+        },
+        {
+          "entity_id": "person_012",
+          "entity_name": "多同（夜郎侯/夜郎王）",
+          "entity_type": "person",
           "start": 138,
-          "end": 139,
-          "name": "刘彻（汉武帝）",
-          "category": "persons"
+          "end": 140,
+          "surface": "夜郎"
         },
         {
-          "start": 141,
-          "end": 143,
-          "name": "夜郎",
-          "category": "places"
+          "entity_id": "person_012",
+          "entity_name": "多同（夜郎侯/夜郎王）",
+          "entity_type": "person",
+          "start": 147,
+          "end": 149,
+          "surface": "夜郎"
+        },
+        {
+          "entity_id": "person_012",
+          "entity_name": "多同（夜郎侯/夜郎王）",
+          "entity_type": "person",
+          "start": 147,
+          "end": 150,
+          "surface": "夜郎王"
         }
       ]
     },
@@ -802,82 +1364,132 @@
       "text": "南越破後，及漢誅且蘭、卭君，并殺筰侯，冉駹皆振恐，請臣置吏。乃以卭都爲越嶲郡，筰都爲沈犂郡，冉駹爲汶山郡，⟦0⟧廣漢西白馬爲武都郡。",
       "mentions": [
         {
+          "entity_id": "place_034",
+          "entity_name": "南越",
+          "entity_type": "place",
           "start": 0,
           "end": 2,
-          "name": "南越",
-          "category": "places"
+          "surface": "南越"
         },
         {
+          "entity_id": "person_017",
+          "entity_name": "且兰君",
+          "entity_type": "person",
           "start": 8,
           "end": 10,
-          "name": "且兰",
-          "category": "places"
+          "surface": "且蘭"
         },
         {
+          "entity_id": "person_019",
+          "entity_name": "邛君",
+          "entity_type": "person",
+          "start": 11,
+          "end": 13,
+          "surface": "卭君"
+        },
+        {
+          "entity_id": "person_020",
+          "entity_name": "筰侯",
+          "entity_type": "person",
           "start": 16,
           "end": 18,
-          "name": "筰侯",
-          "category": "persons"
+          "surface": "筰侯"
         },
         {
+          "entity_id": "place_011",
+          "entity_name": "冉駹",
+          "entity_type": "place",
           "start": 19,
           "end": 21,
-          "name": "冉駹",
-          "category": "places"
+          "surface": "冉駹"
         },
         {
+          "entity_id": "place_030",
+          "entity_name": "汶山郡/冉駹",
+          "entity_type": "place",
+          "start": 19,
+          "end": 21,
+          "surface": "冉駹"
+        },
+        {
+          "entity_id": "place_028",
+          "entity_name": "越嶲郡/邛都",
+          "entity_type": "place",
           "start": 32,
           "end": 34,
-          "name": "邛都",
-          "category": "places"
+          "surface": "卭都"
         },
         {
+          "entity_id": "place_028",
+          "entity_name": "越嶲郡",
+          "entity_type": "place",
           "start": 35,
           "end": 38,
-          "name": "越嶲郡",
-          "category": "places"
+          "surface": "越嶲郡"
         },
         {
+          "entity_id": "place_029",
+          "entity_name": "沈犂郡/筰都",
+          "entity_type": "place",
           "start": 39,
           "end": 41,
-          "name": "筰都",
-          "category": "places"
+          "surface": "筰都"
         },
         {
+          "entity_id": "place_029",
+          "entity_name": "沈犂郡",
+          "entity_type": "place",
           "start": 42,
           "end": 45,
-          "name": "沈犁郡",
-          "category": "places"
+          "surface": "沈犂郡"
         },
         {
+          "entity_id": "place_011",
+          "entity_name": "冉駹",
+          "entity_type": "place",
           "start": 46,
           "end": 48,
-          "name": "冉駹",
-          "category": "places"
+          "surface": "冉駹"
         },
         {
+          "entity_id": "place_030",
+          "entity_name": "汶山郡/冉駹",
+          "entity_type": "place",
+          "start": 46,
+          "end": 48,
+          "surface": "冉駹"
+        },
+        {
+          "entity_id": "place_030",
+          "entity_name": "汶山郡",
+          "entity_type": "place",
           "start": 49,
           "end": 52,
-          "name": "汶山郡",
-          "category": "places"
+          "surface": "汶山郡"
         },
         {
-          "start": 53,
-          "end": 55,
-          "name": "广汉郡",
-          "category": "places"
-        },
-        {
+          "entity_id": "place_013",
+          "entity_name": "巴蜀/广汉",
+          "entity_type": "place",
           "start": 56,
           "end": 58,
-          "name": "白马",
-          "category": "places"
+          "surface": "廣漢"
         },
         {
+          "entity_id": "place_031",
+          "entity_name": "武都郡/白马",
+          "entity_type": "place",
           "start": 59,
-          "end": 62,
-          "name": "武都郡",
-          "category": "places"
+          "end": 61,
+          "surface": "白馬"
+        },
+        {
+          "entity_id": "place_031",
+          "entity_name": "武都郡",
+          "entity_type": "place",
+          "start": 62,
+          "end": 65,
+          "surface": "武都郡"
         }
       ]
     },
@@ -886,112 +1498,220 @@
       "text": "上使王然于以越破及誅南夷兵威風喻滇王入朝。滇王者，其衆數萬人，其旁東北有勞𣹰、靡莫，⟦0⟧皆同姓相扶，未肯聽。勞𣹰、靡莫數侵犯使者吏卒。元封二年，天子發巴蜀兵擊滅勞𣹰、靡莫，以兵臨滇。滇王始首善，以故弗誅。滇王離難西南夷，舉國降，請置吏入朝。於是以爲益州郡，賜滇王王印，復長其民。",
       "mentions": [
         {
-          "start": 0,
-          "end": 1,
-          "name": "刘彻（汉武帝）",
-          "category": "persons"
-        },
-        {
+          "entity_id": "person_006",
+          "entity_name": "王然于",
+          "entity_type": "person",
           "start": 2,
           "end": 5,
-          "name": "王然于",
-          "category": "persons"
+          "surface": "王然于"
         },
         {
+          "entity_id": "place_034",
+          "entity_name": "南越",
+          "entity_type": "place",
+          "start": 6,
+          "end": 8,
+          "surface": "越破"
+        },
+        {
+          "entity_id": "place_001",
+          "entity_name": "夜郎/南夷",
+          "entity_type": "place",
+          "start": 10,
+          "end": 12,
+          "surface": "南夷"
+        },
+        {
+          "entity_id": "person_015",
+          "entity_name": "尝羌（滇王）",
+          "entity_type": "person",
           "start": 16,
           "end": 18,
-          "name": "尝羌（滇王）",
-          "category": "persons"
+          "surface": "滇王"
         },
         {
+          "entity_id": "place_002",
+          "entity_name": "滇",
+          "entity_type": "place",
+          "start": 16,
+          "end": 17,
+          "surface": "滇"
+        },
+        {
+          "entity_id": "person_015",
+          "entity_name": "尝羌（滇王）",
+          "entity_type": "person",
           "start": 21,
           "end": 23,
-          "name": "尝羌（滇王）",
-          "category": "persons"
+          "surface": "滇王"
         },
         {
+          "entity_id": "place_002",
+          "entity_name": "滇",
+          "entity_type": "place",
+          "start": 21,
+          "end": 22,
+          "surface": "滇"
+        },
+        {
+          "entity_id": "place_032",
+          "entity_name": "劳𣹰",
+          "entity_type": "place",
           "start": 36,
           "end": 38,
-          "name": "劳𣹰",
-          "category": "places"
+          "surface": "勞𣹰"
         },
         {
+          "entity_id": "place_003",
+          "entity_name": "靡莫",
+          "entity_type": "place",
           "start": 39,
           "end": 41,
-          "name": "靡莫",
-          "category": "places"
+          "surface": "靡莫"
         },
         {
-          "start": 52,
-          "end": 54,
-          "name": "劳𣹰",
-          "category": "places"
-        },
-        {
+          "entity_id": "place_032",
+          "entity_name": "劳𣹰",
+          "entity_type": "place",
           "start": 55,
           "end": 57,
-          "name": "靡莫",
-          "category": "places"
+          "surface": "勞𣹰"
         },
         {
-          "start": 70,
+          "entity_id": "place_003",
+          "entity_name": "靡莫",
+          "entity_type": "place",
+          "start": 58,
+          "end": 60,
+          "surface": "靡莫"
+        },
+        {
+          "entity_id": "event_011",
+          "entity_name": "灭劳𣹰靡莫滇王降置益州郡",
+          "entity_type": "event",
+          "start": 68,
           "end": 72,
-          "name": "刘彻（汉武帝）",
-          "category": "persons"
+          "surface": "元封二年"
         },
         {
+          "entity_id": "person_001",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
           "start": 73,
           "end": 75,
-          "name": "巴蜀",
-          "category": "places"
+          "surface": "天子"
         },
         {
-          "start": 78,
-          "end": 80,
-          "name": "劳𣹰",
-          "category": "places"
+          "entity_id": "place_013",
+          "entity_name": "巴蜀",
+          "entity_type": "place",
+          "start": 76,
+          "end": 78,
+          "surface": "巴蜀"
         },
         {
+          "entity_id": "place_032",
+          "entity_name": "劳𣹰",
+          "entity_type": "place",
           "start": 81,
           "end": 83,
-          "name": "靡莫",
-          "category": "places"
+          "surface": "勞𣹰"
         },
         {
-          "start": 87,
-          "end": 88,
-          "name": "滇",
-          "category": "places"
+          "entity_id": "place_003",
+          "entity_name": "靡莫",
+          "entity_type": "place",
+          "start": 84,
+          "end": 86,
+          "surface": "靡莫"
         },
         {
-          "start": 89,
+          "entity_id": "place_002",
+          "entity_name": "滇",
+          "entity_type": "place",
+          "start": 90,
           "end": 91,
-          "name": "尝羌（滇王）",
-          "category": "persons"
+          "surface": "滇"
         },
         {
-          "start": 100,
-          "end": 102,
-          "name": "尝羌（滇王）",
-          "category": "persons"
+          "entity_id": "person_015",
+          "entity_name": "尝羌（滇王）",
+          "entity_type": "person",
+          "start": 92,
+          "end": 94,
+          "surface": "滇王"
         },
         {
-          "start": 104,
-          "end": 107,
-          "name": "西南夷",
-          "category": "places"
+          "entity_id": "place_002",
+          "entity_name": "滇",
+          "entity_type": "place",
+          "start": 92,
+          "end": 93,
+          "surface": "滇"
         },
         {
-          "start": 122,
-          "end": 125,
-          "name": "益州郡",
-          "category": "places"
+          "entity_id": "person_015",
+          "entity_name": "尝羌（滇王）",
+          "entity_type": "person",
+          "start": 103,
+          "end": 105,
+          "surface": "滇王"
         },
         {
-          "start": 127,
-          "end": 129,
-          "name": "尝羌（滇王）",
-          "category": "persons"
+          "entity_id": "place_002",
+          "entity_name": "滇",
+          "entity_type": "place",
+          "start": 103,
+          "end": 104,
+          "surface": "滇"
+        },
+        {
+          "entity_id": "event_001",
+          "entity_name": "西南夷族群分布",
+          "entity_type": "event",
+          "start": 107,
+          "end": 110,
+          "surface": "西南夷"
+        },
+        {
+          "entity_id": "place_001",
+          "entity_name": "夜郎/南夷",
+          "entity_type": "place",
+          "start": 108,
+          "end": 110,
+          "surface": "南夷"
+        },
+        {
+          "entity_id": "place_033",
+          "entity_name": "益州郡",
+          "entity_type": "place",
+          "start": 125,
+          "end": 128,
+          "surface": "益州郡"
+        },
+        {
+          "entity_id": "person_015",
+          "entity_name": "尝羌（滇王）",
+          "entity_type": "person",
+          "start": 130,
+          "end": 132,
+          "surface": "滇王"
+        },
+        {
+          "entity_id": "place_002",
+          "entity_name": "滇",
+          "entity_type": "place",
+          "start": 130,
+          "end": 131,
+          "surface": "滇"
+        },
+        {
+          "entity_id": "concept_007",
+          "entity_name": "赐王印羁縻",
+          "entity_type": "concept",
+          "start": 130,
+          "end": 134,
+          "surface": "滇王王印"
         }
       ]
     },
@@ -1000,28 +1720,60 @@
       "text": "西南夷君長以百數，獨夜郎、滇受王印。滇小邑，最寵焉。",
       "mentions": [
         {
+          "entity_id": "event_001",
+          "entity_name": "西南夷族群分布",
+          "entity_type": "event",
           "start": 0,
           "end": 3,
-          "name": "西南夷",
-          "category": "places"
+          "surface": "西南夷"
         },
         {
+          "entity_id": "person_012",
+          "entity_name": "多同（夜郎侯/夜郎王）",
+          "entity_type": "person",
           "start": 10,
           "end": 12,
-          "name": "夜郎",
-          "category": "places"
+          "surface": "夜郎"
         },
         {
+          "entity_id": "person_015",
+          "entity_name": "尝羌（滇王）",
+          "entity_type": "person",
           "start": 13,
           "end": 14,
-          "name": "滇",
-          "category": "places"
+          "surface": "滇"
         },
         {
+          "entity_id": "place_002",
+          "entity_name": "滇",
+          "entity_type": "place",
+          "start": 13,
+          "end": 14,
+          "surface": "滇"
+        },
+        {
+          "entity_id": "concept_007",
+          "entity_name": "赐王印羁縻",
+          "entity_type": "concept",
+          "start": 15,
+          "end": 17,
+          "surface": "王印"
+        },
+        {
+          "entity_id": "person_015",
+          "entity_name": "尝羌（滇王）",
+          "entity_type": "person",
           "start": 18,
           "end": 19,
-          "name": "滇",
-          "category": "places"
+          "surface": "滇"
+        },
+        {
+          "entity_id": "place_002",
+          "entity_name": "滇",
+          "entity_type": "place",
+          "start": 18,
+          "end": 19,
+          "surface": "滇"
         }
       ]
     },
@@ -1030,46 +1782,140 @@
       "text": "太史公曰：楚之先豈有天祿哉？在周爲文王師，封楚。及周之衰，地稱五千里。秦滅諸候，唯楚苗裔尚有滇王。漢誅西南夷，國多滅矣，唯滇復爲寵王。然南夷之端，見枸醬番禺，大夏杖、卭竹。西夷後揃，剽分二方，⟦0⟧⟦1⟧卒爲七郡。⟦2⟧",
       "mentions": [
         {
+          "entity_id": "司马迁",
+          "entity_name": "司马迁",
+          "entity_type": "person",
+          "start": 0,
+          "end": 3,
+          "surface": "太史公"
+        },
+        {
+          "entity_id": "place_014",
+          "entity_name": "楚",
+          "entity_type": "place",
+          "start": 5,
+          "end": 6,
+          "surface": "楚"
+        },
+        {
+          "entity_id": "person_009",
+          "entity_name": "楚庄王/楚先",
+          "entity_type": "person",
+          "start": 17,
+          "end": 20,
+          "surface": "文王師"
+        },
+        {
+          "entity_id": "place_014",
+          "entity_name": "楚",
+          "entity_type": "place",
+          "start": 22,
+          "end": 23,
+          "surface": "楚"
+        },
+        {
+          "entity_id": "place_014",
+          "entity_name": "楚",
+          "entity_type": "place",
+          "start": 41,
+          "end": 42,
+          "surface": "楚"
+        },
+        {
+          "entity_id": "person_007",
+          "entity_name": "庄蹻（楚将）",
+          "entity_type": "person",
+          "start": 41,
+          "end": 44,
+          "surface": "楚苗裔"
+        },
+        {
+          "entity_id": "person_015",
+          "entity_name": "尝羌（滇王）",
+          "entity_type": "person",
           "start": 46,
           "end": 48,
-          "name": "尝羌（滇王）",
-          "category": "persons"
+          "surface": "滇王"
         },
         {
+          "entity_id": "person_015",
+          "entity_name": "尝羌（滇王）",
+          "entity_type": "person",
+          "start": 46,
+          "end": 47,
+          "surface": "滇"
+        },
+        {
+          "entity_id": "event_001",
+          "entity_name": "西南夷族群分布",
+          "entity_type": "event",
           "start": 51,
           "end": 54,
-          "name": "西南夷",
-          "category": "places"
+          "surface": "西南夷"
         },
         {
+          "entity_id": "person_015",
+          "entity_name": "尝羌（滇王）",
+          "entity_type": "person",
           "start": 61,
           "end": 62,
-          "name": "滇",
-          "category": "places"
+          "surface": "滇"
         },
         {
+          "entity_id": "concept_004",
+          "entity_name": "枸酱之路",
+          "entity_type": "concept",
           "start": 74,
-          "end": 76,
-          "name": "枸酱",
-          "category": "concepts"
-        },
-        {
-          "start": 76,
           "end": 78,
-          "name": "番禺",
-          "category": "places"
+          "surface": "枸醬番禺"
         },
         {
+          "entity_id": "place_025",
+          "entity_name": "大夏",
+          "entity_type": "place",
           "start": 79,
           "end": 81,
-          "name": "大夏",
-          "category": "places"
+          "surface": "大夏"
         },
         {
-          "start": 98,
-          "end": 100,
-          "name": "西南夷七郡",
-          "category": "concepts"
+          "entity_id": "place_004",
+          "entity_name": "邛都",
+          "entity_type": "place",
+          "start": 83,
+          "end": 85,
+          "surface": "卭竹"
+        },
+        {
+          "entity_id": "place_010",
+          "entity_name": "筰都/西夷",
+          "entity_type": "place",
+          "start": 86,
+          "end": 88,
+          "surface": "西夷"
+        },
+        {
+          "entity_id": "concept_005",
+          "entity_name": "西南夷七郡",
+          "entity_type": "concept",
+          "start": 89,
+          "end": 90,
+          "surface": "揃"
+        },
+        {
+          "entity_id": "concept_005",
+          "entity_name": "西南夷七郡",
+          "entity_type": "concept",
+          "start": 91,
+          "end": 95,
+          "surface": "剽分二方"
+        },
+        {
+          "entity_id": "concept_005",
+          "entity_name": "西南夷七郡",
+          "entity_type": "concept",
+          "start": 104,
+          "end": 106,
+          "surface": "七郡"
         }
       ]
     },
@@ -1078,40 +1924,92 @@
       "text": "索隱述贊曰：西南外徼，莊蹻首通。漢因大夏，乃命唐蒙。勞𣹰、靡莫，異俗殊風。夜郎最大，卭、筰稱雄。及置郡縣，萬代推功。",
       "mentions": [
         {
+          "entity_id": "event_001",
+          "entity_name": "西南夷族群分布",
+          "entity_type": "event",
+          "start": 6,
+          "end": 10,
+          "surface": "西南外徼"
+        },
+        {
+          "entity_id": "person_007",
+          "entity_name": "庄蹻（楚将）",
+          "entity_type": "person",
           "start": 11,
           "end": 13,
-          "name": "庄蹻",
-          "category": "persons"
+          "surface": "莊蹻"
         },
         {
+          "entity_id": "person_001",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 16,
+          "end": 17,
+          "surface": "漢"
+        },
+        {
+          "entity_id": "place_025",
+          "entity_name": "大夏",
+          "entity_type": "place",
           "start": 18,
           "end": 20,
-          "name": "大夏",
-          "category": "places"
+          "surface": "大夏"
         },
         {
+          "entity_id": "person_004",
+          "entity_name": "唐蒙（番阳令）",
+          "entity_type": "person",
           "start": 23,
           "end": 25,
-          "name": "唐蒙",
-          "category": "persons"
+          "surface": "唐蒙"
         },
         {
+          "entity_id": "place_032",
+          "entity_name": "劳𣹰",
+          "entity_type": "place",
           "start": 26,
           "end": 28,
-          "name": "劳𣹰",
-          "category": "places"
+          "surface": "勞𣹰"
         },
         {
+          "entity_id": "place_003",
+          "entity_name": "靡莫",
+          "entity_type": "place",
           "start": 29,
           "end": 31,
-          "name": "靡莫",
-          "category": "places"
+          "surface": "靡莫"
         },
         {
+          "entity_id": "place_001",
+          "entity_name": "夜郎",
+          "entity_type": "place",
           "start": 37,
           "end": 39,
-          "name": "夜郎",
-          "category": "places"
+          "surface": "夜郎"
+        },
+        {
+          "entity_id": "place_004",
+          "entity_name": "邛都",
+          "entity_type": "place",
+          "start": 42,
+          "end": 43,
+          "surface": "卭"
+        },
+        {
+          "entity_id": "place_010",
+          "entity_name": "筰都",
+          "entity_type": "place",
+          "start": 44,
+          "end": 45,
+          "surface": "筰"
+        },
+        {
+          "entity_id": "concept_005",
+          "entity_name": "西南夷七郡",
+          "entity_type": "concept",
+          "start": 50,
+          "end": 52,
+          "surface": "郡縣"
         }
       ]
     }
