@@ -2,7 +2,7 @@
   "book_id": "shiji",
   "chapter_id": "shiji-韓長孺列傳第四十八",
   "chapter_title": "韓長孺列傳第四十八",
-  "version": "final",
+  "version": "1.0",
   "generated_at": "2026-11-02",
   "paragraphs": [
     {
@@ -14,105 +14,112 @@
           "end": 7,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
-        },
-        {
-          "start": 9,
-          "end": 10,
-          "entity_id": "l1",
-          "type": "地理",
-          "name": "梁国"
+          "name": "韩安国（韩长孺）",
+          "surface": "韓安國"
         },
         {
           "start": 10,
           "end": 12,
-          "entity_id": "l2",
+          "entity_id": "pl1",
           "type": "地理",
-          "name": "成安"
+          "name": "成安",
+          "surface": "成安"
         },
         {
           "start": 17,
           "end": 19,
-          "entity_id": "l3",
+          "entity_id": "pl2",
           "type": "地理",
-          "name": "睢阳"
+          "name": "睢阳",
+          "surface": "睢陽"
         },
         {
           "start": 29,
           "end": 32,
-          "entity_id": "p4",
+          "entity_id": "p29",
           "type": "人物",
-          "name": "邹田生"
+          "name": "驺田生",
+          "surface": "騶田生"
         },
         {
           "start": 35,
           "end": 38,
           "entity_id": "p3",
           "type": "人物",
-          "name": "刘武（梁孝王）"
+          "name": "刘武（梁孝王）",
+          "surface": "梁孝王"
         },
         {
           "start": 39,
-          "end": 40,
-          "entity_id": "l7",
-          "type": "地理",
-          "name": "关中"
+          "end": 42,
+          "entity_id": "c2",
+          "type": "概念",
+          "name": "中大夫",
+          "surface": "中大夫"
+        },
+        {
+          "start": 43,
+          "end": 46,
+          "entity_id": "e1",
+          "type": "事件",
+          "name": "吴楚七国之乱",
+          "surface": "吳楚反"
         },
         {
           "start": 48,
           "end": 50,
           "entity_id": "p3",
           "type": "人物",
-          "name": "刘武（梁孝王）"
+          "name": "刘武（梁孝王）",
+          "surface": "孝王"
         },
         {
           "start": 51,
           "end": 53,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
           "start": 54,
           "end": 56,
           "entity_id": "p2",
           "type": "人物",
-          "name": "张羽"
+          "name": "张羽",
+          "surface": "張羽"
         },
         {
           "start": 66,
           "end": 68,
           "entity_id": "p2",
           "type": "人物",
-          "name": "张羽"
+          "name": "张羽",
+          "surface": "張羽"
         },
         {
           "start": 71,
           "end": 73,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
-        },
-        {
-          "start": 82,
-          "end": 83,
-          "entity_id": "l1",
-          "type": "地理",
-          "name": "梁国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
           "start": 89,
           "end": 91,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
           "start": 92,
           "end": 94,
           "entity_id": "p2",
           "type": "人物",
-          "name": "张羽"
+          "name": "张羽",
+          "surface": "張羽"
         }
       ]
     },
@@ -125,308 +132,296 @@
           "end": 3,
           "entity_id": "p3",
           "type": "人物",
-          "name": "刘武（梁孝王）"
+          "name": "刘武（梁孝王）",
+          "surface": "梁孝王"
         },
         {
           "start": 4,
           "end": 6,
-          "entity_id": "p5",
+          "entity_id": "p4",
           "type": "人物",
-          "name": "刘启（汉景帝）"
+          "name": "刘启（汉景帝）",
+          "surface": "景帝"
         },
         {
           "start": 9,
           "end": 12,
-          "entity_id": "p6",
+          "entity_id": "p5",
           "type": "人物",
-          "name": "窦太后（孝文后）"
+          "name": "窦太后（孝文后）",
+          "surface": "竇太后"
+        },
+        {
+          "start": 22,
+          "end": 25,
+          "entity_id": "c1",
+          "type": "概念",
+          "name": "二千石",
+          "surface": "二千石"
         },
         {
           "start": 33,
           "end": 35,
-          "entity_id": "p5",
+          "entity_id": "p4",
           "type": "人物",
-          "name": "刘启（汉景帝）"
+          "name": "刘启（汉景帝）",
+          "surface": "天子"
         },
         {
           "start": 36,
           "end": 38,
-          "entity_id": "p5",
+          "entity_id": "p4",
           "type": "人物",
-          "name": "刘启（汉景帝）"
+          "name": "刘启（汉景帝）",
+          "surface": "天子"
         },
         {
           "start": 46,
           "end": 48,
-          "entity_id": "p6",
+          "entity_id": "p5",
           "type": "人物",
-          "name": "窦太后（孝文后）"
+          "name": "窦太后（孝文后）",
+          "surface": "太后"
         },
         {
           "start": 49,
           "end": 50,
-          "entity_id": "p5",
+          "entity_id": "p4",
           "type": "人物",
-          "name": "刘启（汉景帝）"
-        },
-        {
-          "start": 55,
-          "end": 56,
-          "entity_id": "l1",
-          "type": "地理",
-          "name": "梁国"
+          "name": "刘启（汉景帝）",
+          "surface": "帝"
         },
         {
           "start": 68,
           "end": 71,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
-        },
-        {
-          "start": 72,
-          "end": 73,
-          "entity_id": "l1",
-          "type": "地理",
-          "name": "梁国"
+          "name": "韩安国（韩长孺）",
+          "surface": "韓安國"
         },
         {
           "start": 76,
           "end": 80,
-          "entity_id": "p7",
+          "entity_id": "p6",
           "type": "人物",
-          "name": "刘嫖（大长公主）"
+          "name": "刘嫖（馆陶大长公主）",
+          "surface": "大長公主"
         },
         {
           "start": 86,
           "end": 88,
           "entity_id": "p3",
           "type": "人物",
-          "name": "刘武（梁孝王）"
+          "name": "刘武（梁孝王）",
+          "surface": "梁王"
         },
         {
           "start": 101,
           "end": 103,
-          "entity_id": "p6",
+          "entity_id": "p5",
           "type": "人物",
-          "name": "窦太后（孝文后）"
-        },
-        {
-          "start": 124,
-          "end": 125,
-          "entity_id": "l6",
-          "type": "地理",
-          "name": "函谷关"
-        },
-        {
-          "start": 134,
-          "end": 135,
-          "entity_id": "l1",
-          "type": "地理",
-          "name": "梁国"
+          "name": "窦太后（孝文后）",
+          "surface": "太后"
         },
         {
           "start": 141,
           "end": 143,
           "entity_id": "p3",
           "type": "人物",
-          "name": "刘武（梁孝王）"
+          "name": "刘武（梁孝王）",
+          "surface": "梁王"
         },
         {
           "start": 144,
           "end": 146,
-          "entity_id": "p6",
+          "entity_id": "p5",
           "type": "人物",
-          "name": "窦太后（孝文后）"
+          "name": "窦太后（孝文后）",
+          "surface": "太后"
         },
         {
           "start": 147,
           "end": 148,
-          "entity_id": "p5",
+          "entity_id": "p4",
           "type": "人物",
-          "name": "刘启（汉景帝）"
-        },
-        {
-          "start": 149,
-          "end": 150,
-          "entity_id": "l7",
-          "type": "地理",
-          "name": "关中"
+          "name": "刘启（汉景帝）",
+          "surface": "帝"
         },
         {
           "start": 192,
           "end": 194,
           "entity_id": "p3",
           "type": "人物",
-          "name": "刘武（梁孝王）"
+          "name": "刘武（梁孝王）",
+          "surface": "梁王"
         },
         {
           "start": 199,
           "end": 201,
-          "entity_id": "p6",
+          "entity_id": "p5",
           "type": "人物",
-          "name": "窦太后（孝文后）"
+          "name": "窦太后（孝文后）",
+          "surface": "太后"
         },
         {
           "start": 208,
           "end": 210,
           "entity_id": "p3",
           "type": "人物",
-          "name": "刘武（梁孝王）"
+          "name": "刘武（梁孝王）",
+          "surface": "梁王"
         },
         {
           "start": 211,
           "end": 213,
           "entity_id": "p3",
           "type": "人物",
-          "name": "刘武（梁孝王）"
+          "name": "刘武（梁孝王）",
+          "surface": "梁王"
         },
         {
           "start": 216,
           "end": 217,
-          "entity_id": "p5",
+          "entity_id": "p4",
           "type": "人物",
-          "name": "刘启（汉景帝）"
+          "name": "刘启（汉景帝）",
+          "surface": "帝"
         },
         {
           "start": 236,
           "end": 237,
-          "entity_id": "p5",
+          "entity_id": "p4",
           "type": "人物",
-          "name": "刘启（汉景帝）"
-        },
-        {
-          "start": 251,
-          "end": 252,
-          "entity_id": "l7",
-          "type": "地理",
-          "name": "关中"
+          "name": "刘启（汉景帝）",
+          "surface": "帝"
         },
         {
           "start": 263,
           "end": 265,
-          "entity_id": "p6",
+          "entity_id": "p5",
           "type": "人物",
-          "name": "窦太后（孝文后）"
+          "name": "窦太后（孝文后）",
+          "surface": "太后"
         },
         {
           "start": 266,
           "end": 267,
-          "entity_id": "p5",
+          "entity_id": "p4",
           "type": "人物",
-          "name": "刘启（汉景帝）"
-        },
-        {
-          "start": 272,
-          "end": 273,
-          "entity_id": "l1",
-          "type": "地理",
-          "name": "梁国"
+          "name": "刘启（汉景帝）",
+          "surface": "帝"
         },
         {
           "start": 281,
           "end": 283,
           "entity_id": "p3",
           "type": "人物",
-          "name": "刘武（梁孝王）"
+          "name": "刘武（梁孝王）",
+          "surface": "梁王"
         },
         {
           "start": 298,
           "end": 300,
           "entity_id": "p3",
           "type": "人物",
-          "name": "刘武（梁孝王）"
+          "name": "刘武（梁孝王）",
+          "surface": "梁王"
         },
         {
           "start": 310,
           "end": 312,
-          "entity_id": "p6",
+          "entity_id": "p5",
           "type": "人物",
-          "name": "窦太后（孝文后）"
+          "name": "窦太后（孝文后）",
+          "surface": "太后"
         },
         {
           "start": 317,
           "end": 321,
-          "entity_id": "p7",
+          "entity_id": "p6",
           "type": "人物",
-          "name": "刘嫖（大长公主）"
+          "name": "刘嫖（馆陶大长公主）",
+          "surface": "大長公主"
         },
         {
           "start": 324,
           "end": 326,
-          "entity_id": "p6",
+          "entity_id": "p5",
           "type": "人物",
-          "name": "窦太后（孝文后）"
+          "name": "窦太后（孝文后）",
+          "surface": "太后"
         },
         {
           "start": 327,
           "end": 329,
-          "entity_id": "p6",
+          "entity_id": "p5",
           "type": "人物",
-          "name": "窦太后（孝文后）"
+          "name": "窦太后（孝文后）",
+          "surface": "太后"
         },
         {
           "start": 336,
           "end": 337,
-          "entity_id": "p5",
+          "entity_id": "p4",
           "type": "人物",
-          "name": "刘启（汉景帝）"
+          "name": "刘启（汉景帝）",
+          "surface": "帝"
         },
         {
           "start": 342,
           "end": 343,
-          "entity_id": "p5",
+          "entity_id": "p4",
           "type": "人物",
-          "name": "刘启（汉景帝）"
+          "name": "刘启（汉景帝）",
+          "surface": "帝"
         },
         {
           "start": 351,
           "end": 353,
-          "entity_id": "p6",
+          "entity_id": "p5",
           "type": "人物",
-          "name": "窦太后（孝文后）"
+          "name": "窦太后（孝文后）",
+          "surface": "太后"
         },
         {
           "start": 365,
           "end": 367,
-          "entity_id": "p6",
+          "entity_id": "p5",
           "type": "人物",
-          "name": "窦太后（孝文后）"
-        },
-        {
-          "start": 373,
-          "end": 374,
-          "entity_id": "l1",
-          "type": "地理",
-          "name": "梁国"
+          "name": "窦太后（孝文后）",
+          "surface": "太后"
         },
         {
           "start": 382,
           "end": 384,
           "entity_id": "p3",
           "type": "人物",
-          "name": "刘武（梁孝王）"
+          "name": "刘武（梁孝王）",
+          "surface": "梁王"
         },
         {
           "start": 388,
           "end": 390,
-          "entity_id": "p6",
+          "entity_id": "p5",
           "type": "人物",
-          "name": "窦太后（孝文后）"
+          "name": "窦太后（孝文后）",
+          "surface": "太后"
         },
         {
           "start": 391,
           "end": 394,
-          "entity_id": "p7",
+          "entity_id": "p6",
           "type": "人物",
-          "name": "刘嫖（大长公主）"
+          "name": "刘嫖（馆陶大长公主）",
+          "surface": "長公主"
         },
         {
           "start": 396,
           "end": 398,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         }
       ]
     },
@@ -439,91 +434,104 @@
           "end": 4,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
           "start": 9,
           "end": 10,
-          "entity_id": "l5",
+          "entity_id": "pl6",
           "type": "地理",
-          "name": "蒙"
+          "name": "蒙县",
+          "surface": "蒙"
         },
         {
           "start": 12,
           "end": 14,
-          "entity_id": "p8",
+          "entity_id": "p7",
           "type": "人物",
-          "name": "田甲"
+          "name": "田甲",
+          "surface": "田甲"
         },
         {
           "start": 15,
           "end": 17,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
           "start": 18,
           "end": 20,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
+        },
+        {
+          "start": 23,
+          "end": 30,
+          "entity_id": "c5",
+          "type": "概念",
+          "name": "死灰复燃",
+          "surface": "死灰獨不復然乎"
         },
         {
           "start": 32,
           "end": 34,
-          "entity_id": "p8",
+          "entity_id": "p7",
           "type": "人物",
-          "name": "田甲"
-        },
-        {
-          "start": 47,
-          "end": 50,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "韩安国"
+          "name": "田甲",
+          "surface": "田甲"
         },
         {
           "start": 57,
           "end": 59,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
-          "start": 60,
-          "end": 63,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "韩安国"
-        },
-        {
-          "start": 66,
-          "end": 67,
-          "entity_id": "l7",
-          "type": "地理",
-          "name": "关中"
+          "start": 68,
+          "end": 71,
+          "entity_id": "c1",
+          "type": "概念",
+          "name": "二千石",
+          "surface": "二千石"
         },
         {
           "start": 72,
           "end": 74,
-          "entity_id": "p8",
+          "entity_id": "p7",
           "type": "人物",
-          "name": "田甲"
+          "name": "田甲",
+          "surface": "田甲"
         },
         {
           "start": 77,
           "end": 79,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
+        },
+        {
+          "start": 95,
+          "end": 98,
+          "entity_id": "c11",
+          "type": "概念",
+          "name": "肉袒谢罪",
+          "surface": "肉袒謝"
         },
         {
           "start": 99,
           "end": 101,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         }
       ]
     },
@@ -532,39 +540,36 @@
       "text": "梁內史之缺也，孝王新得齊人公孫詭，說之，欲請以爲內史。竇太后聞，乃詔王以安國爲內史。",
       "mentions": [
         {
-          "start": 0,
-          "end": 3,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "韩安国"
-        },
-        {
           "start": 7,
           "end": 9,
           "entity_id": "p3",
           "type": "人物",
-          "name": "刘武（梁孝王）"
+          "name": "刘武（梁孝王）",
+          "surface": "孝王"
         },
         {
           "start": 13,
           "end": 16,
-          "entity_id": "p9",
+          "entity_id": "p8",
           "type": "人物",
-          "name": "公孙诡"
+          "name": "公孙诡",
+          "surface": "公孫詭"
         },
         {
           "start": 27,
           "end": 30,
-          "entity_id": "p6",
+          "entity_id": "p5",
           "type": "人物",
-          "name": "窦太后（孝文后）"
+          "name": "窦太后（孝文后）",
+          "surface": "竇太后"
         },
         {
           "start": 36,
           "end": 38,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         }
       ]
     },
@@ -575,408 +580,394 @@
         {
           "start": 0,
           "end": 3,
-          "entity_id": "p9",
+          "entity_id": "p8",
           "type": "人物",
-          "name": "公孙诡"
+          "name": "公孙诡",
+          "surface": "公孫詭"
         },
         {
           "start": 4,
           "end": 6,
-          "entity_id": "p10",
+          "entity_id": "p9",
           "type": "人物",
-          "name": "羊胜"
+          "name": "羊胜",
+          "surface": "羊勝"
         },
         {
           "start": 7,
           "end": 9,
           "entity_id": "p3",
           "type": "人物",
-          "name": "刘武（梁孝王）"
+          "name": "刘武（梁孝王）",
+          "surface": "孝王"
         },
         {
           "start": 11,
           "end": 12,
-          "entity_id": "p5",
+          "entity_id": "p4",
           "type": "人物",
-          "name": "刘启（汉景帝）"
+          "name": "刘启（汉景帝）",
+          "surface": "帝"
         },
         {
-          "start": 39,
+          "start": 42,
           "end": 44,
-          "entity_id": "p11",
+          "entity_id": "p10",
           "type": "人物",
-          "name": "袁盎"
+          "name": "袁盎",
+          "surface": "袁盎"
         },
         {
           "start": 45,
           "end": 47,
-          "entity_id": "p5",
+          "entity_id": "p4",
           "type": "人物",
-          "name": "刘启（汉景帝）"
+          "name": "刘启（汉景帝）",
+          "surface": "景帝"
         },
         {
           "start": 49,
           "end": 50,
-          "entity_id": "p9",
+          "entity_id": "p8",
           "type": "人物",
-          "name": "公孙诡"
+          "name": "公孙诡",
+          "surface": "詭"
         },
         {
           "start": 51,
           "end": 52,
-          "entity_id": "p10",
+          "entity_id": "p9",
           "type": "人物",
-          "name": "羊胜"
+          "name": "羊胜",
+          "surface": "勝"
         },
         {
           "start": 60,
           "end": 61,
-          "entity_id": "p9",
+          "entity_id": "p8",
           "type": "人物",
-          "name": "公孙诡"
+          "name": "公孙诡",
+          "surface": "詭"
         },
         {
           "start": 62,
           "end": 63,
-          "entity_id": "p10",
+          "entity_id": "p9",
           "type": "人物",
-          "name": "羊胜"
-        },
-        {
-          "start": 72,
-          "end": 73,
-          "entity_id": "l1",
-          "type": "地理",
-          "name": "梁国"
+          "name": "羊胜",
+          "surface": "勝"
         },
         {
           "start": 89,
           "end": 91,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
           "start": 92,
           "end": 93,
-          "entity_id": "p9",
+          "entity_id": "p8",
           "type": "人物",
-          "name": "公孙诡"
+          "name": "公孙诡",
+          "surface": "詭"
         },
         {
           "start": 94,
           "end": 95,
-          "entity_id": "p10",
+          "entity_id": "p9",
           "type": "人物",
-          "name": "羊胜"
+          "name": "羊胜",
+          "surface": "勝"
         },
         {
           "start": 96,
           "end": 98,
           "entity_id": "p3",
           "type": "人物",
-          "name": "刘武（梁孝王）"
+          "name": "刘武（梁孝王）",
+          "surface": "孝王"
         },
         {
           "start": 100,
           "end": 102,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
-        },
-        {
-          "start": 110,
-          "end": 114,
-          "entity_id": "c8",
-          "type": "概念",
-          "name": "主辱臣死"
-        },
-        {
-          "start": 115,
-          "end": 117,
-          "entity_id": "p3",
-          "type": "人物",
-          "name": "刘武（梁孝王）"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
           "start": 129,
           "end": 130,
-          "entity_id": "p9",
+          "entity_id": "p8",
           "type": "人物",
-          "name": "公孙诡"
+          "name": "公孙诡",
+          "surface": "詭"
         },
         {
           "start": 131,
           "end": 132,
-          "entity_id": "p10",
+          "entity_id": "p9",
           "type": "人物",
-          "name": "羊胜"
+          "name": "羊胜",
+          "surface": "勝"
         },
         {
           "start": 150,
           "end": 152,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
-        },
-        {
-          "start": 160,
-          "end": 162,
-          "entity_id": "p3",
-          "type": "人物",
-          "name": "刘武（梁孝王）"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
           "start": 165,
           "end": 167,
-          "entity_id": "p5",
+          "entity_id": "p4",
           "type": "人物",
-          "name": "刘启（汉景帝）"
+          "name": "刘启（汉景帝）",
+          "surface": "皇帝"
         },
         {
           "start": 170,
           "end": 173,
-          "entity_id": "p14",
+          "entity_id": "p11",
           "type": "人物",
-          "name": "刘太公（太上皇）"
+          "name": "刘太公（太上皇）",
+          "surface": "太上皇"
         },
         {
           "start": 175,
           "end": 178,
-          "entity_id": "p13",
+          "entity_id": "p12",
           "type": "人物",
-          "name": "刘邦（汉高祖）"
+          "name": "刘邦（汉高祖）",
+          "surface": "高皇帝"
         },
         {
           "start": 179,
           "end": 181,
-          "entity_id": "p5",
+          "entity_id": "p4",
           "type": "人物",
-          "name": "刘启（汉景帝）"
+          "name": "刘启（汉景帝）",
+          "surface": "皇帝"
         },
         {
           "start": 183,
           "end": 186,
-          "entity_id": "p12",
+          "entity_id": "p13",
           "type": "人物",
-          "name": "临江王刘荣"
+          "name": "刘荣（临江王）",
+          "surface": "臨江王"
         },
         {
           "start": 189,
           "end": 191,
           "entity_id": "p3",
           "type": "人物",
-          "name": "刘武（梁孝王）"
+          "name": "刘武（梁孝王）",
+          "surface": "孝王"
         },
         {
           "start": 199,
           "end": 201,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
-          "start": 206,
+          "start": 205,
           "end": 207,
-          "entity_id": "p18",
+          "entity_id": "p11",
           "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "name": "刘太公（太上皇）",
+          "surface": "太上"
         },
         {
           "start": 218,
           "end": 220,
-          "entity_id": "p13",
+          "entity_id": "p12",
           "type": "人物",
-          "name": "刘邦（汉高祖）"
+          "name": "刘邦（汉高祖）",
+          "surface": "高帝"
         },
         {
           "start": 235,
           "end": 238,
-          "entity_id": "p14",
+          "entity_id": "p11",
           "type": "人物",
-          "name": "刘太公（太上皇）"
+          "name": "刘太公（太上皇）",
+          "surface": "太上皇"
         },
         {
           "start": 246,
           "end": 248,
-          "entity_id": "l8",
+          "entity_id": "pl7",
           "type": "地理",
-          "name": "栎阳"
+          "name": "栎阳",
+          "surface": "櫟陽"
         },
         {
           "start": 249,
           "end": 252,
-          "entity_id": "p12",
+          "entity_id": "p13",
           "type": "人物",
-          "name": "临江王刘荣"
+          "name": "刘荣（临江王）",
+          "surface": "臨江王"
         },
         {
           "start": 277,
-          "end": 278,
-          "entity_id": "l7",
-          "type": "地理",
-          "name": "关中"
-        },
-        {
-          "start": 324,
-          "end": 326,
-          "entity_id": "p3",
-          "type": "人物",
-          "name": "刘武（梁孝王）"
-        },
-        {
-          "start": 339,
-          "end": 340,
-          "entity_id": "p18",
-          "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "end": 280,
+          "entity_id": "c19",
+          "type": "概念",
+          "name": "中尉府",
+          "surface": "中尉府"
         },
         {
           "start": 346,
           "end": 348,
-          "entity_id": "p5",
+          "entity_id": "p4",
           "type": "人物",
-          "name": "刘启（汉景帝）"
+          "name": "刘启（汉景帝）",
+          "surface": "天子"
         },
         {
           "start": 349,
           "end": 351,
-          "entity_id": "p6",
+          "entity_id": "p5",
           "type": "人物",
-          "name": "窦太后（孝文后）"
+          "name": "窦太后（孝文后）",
+          "surface": "太后"
         },
         {
           "start": 360,
           "end": 362,
-          "entity_id": "p6",
+          "entity_id": "p5",
           "type": "人物",
-          "name": "窦太后（孝文后）"
-        },
-        {
-          "start": 368,
-          "end": 370,
-          "entity_id": "p3",
-          "type": "人物",
-          "name": "刘武（梁孝王）"
-        },
-        {
-          "start": 374,
-          "end": 376,
-          "entity_id": "p3",
-          "type": "人物",
-          "name": "刘武（梁孝王）"
+          "name": "窦太后（孝文后）",
+          "surface": "太后"
         },
         {
           "start": 383,
           "end": 385,
-          "entity_id": "p6",
+          "entity_id": "p5",
           "type": "人物",
-          "name": "窦太后（孝文后）"
+          "name": "窦太后（孝文后）",
+          "surface": "太后"
         },
         {
-          "start": 391,
-          "end": 393,
-          "entity_id": "p3",
-          "type": "人物",
-          "name": "刘武（梁孝王）"
+          "start": 385,
+          "end": 390,
+          "entity_id": "c12",
+          "type": "概念",
+          "name": "宫车晏驾",
+          "surface": "宮車即晏駕"
         },
         {
           "start": 403,
           "end": 405,
           "entity_id": "p3",
           "type": "人物",
-          "name": "刘武（梁孝王）"
+          "name": "刘武（梁孝王）",
+          "surface": "孝王"
         },
         {
           "start": 411,
           "end": 413,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
           "start": 419,
           "end": 420,
-          "entity_id": "p9",
+          "entity_id": "p8",
           "type": "人物",
-          "name": "公孙诡"
+          "name": "公孙诡",
+          "surface": "詭"
         },
         {
           "start": 421,
           "end": 422,
-          "entity_id": "p10",
+          "entity_id": "p9",
           "type": "人物",
-          "name": "羊胜"
+          "name": "羊胜",
+          "surface": "勝"
         },
         {
           "start": 424,
           "end": 425,
-          "entity_id": "p9",
+          "entity_id": "p8",
           "type": "人物",
-          "name": "公孙诡"
+          "name": "公孙诡",
+          "surface": "詭"
         },
         {
           "start": 426,
           "end": 427,
-          "entity_id": "p10",
+          "entity_id": "p9",
           "type": "人物",
-          "name": "羊胜"
-        },
-        {
-          "start": 435,
-          "end": 436,
-          "entity_id": "l1",
-          "type": "地理",
-          "name": "梁国"
+          "name": "羊胜",
+          "surface": "勝"
         },
         {
           "start": 441,
           "end": 443,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
           "start": 449,
           "end": 451,
-          "entity_id": "p5",
+          "entity_id": "p4",
           "type": "人物",
-          "name": "刘启（汉景帝）"
+          "name": "刘启（汉景帝）",
+          "surface": "景帝"
         },
         {
           "start": 452,
           "end": 454,
-          "entity_id": "p6",
+          "entity_id": "p5",
           "type": "人物",
-          "name": "窦太后（孝文后）"
+          "name": "窦太后（孝文后）",
+          "surface": "太后"
         },
         {
           "start": 456,
           "end": 458,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
           "start": 459,
           "end": 461,
           "entity_id": "p3",
           "type": "人物",
-          "name": "刘武（梁孝王）"
+          "name": "刘武（梁孝王）",
+          "surface": "孝王"
         },
         {
           "start": 463,
           "end": 465,
-          "entity_id": "p15",
+          "entity_id": "p14",
           "type": "人物",
-          "name": "梁共王刘买"
+          "name": "刘买（梁共王）",
+          "surface": "共王"
         },
         {
           "start": 468,
           "end": 470,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         }
       ]
     },
@@ -985,123 +976,116 @@
       "text": "建元中，武安侯田蚡爲漢太尉，親貴用事，安國以五百金物遺蚡。蚡言安國太后，天子亦素聞其賢，即召以爲北地都尉，遷爲大司農。閩越、東越相攻，安國及大行王恢將兵，未至越，越殺其王降，漢兵亦罷。建元六年，武安侯爲丞相，安國爲御史大夫。",
       "mentions": [
         {
-          "start": 2,
-          "end": 3,
-          "entity_id": "l7",
-          "type": "地理",
-          "name": "关中"
-        },
-        {
           "start": 4,
-          "end": 7,
-          "entity_id": "p16",
-          "type": "人物",
-          "name": "田蚡（武安侯）"
-        },
-        {
-          "start": 8,
           "end": 9,
-          "entity_id": "p16",
+          "entity_id": "p15",
           "type": "人物",
-          "name": "田蚡（武安侯）"
+          "name": "田蚡（武安侯）",
+          "surface": "武安侯田蚡"
         },
         {
           "start": 19,
           "end": 21,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
           "start": 27,
           "end": 28,
-          "entity_id": "p16",
+          "entity_id": "p15",
           "type": "人物",
-          "name": "田蚡（武安侯）"
+          "name": "田蚡（武安侯）",
+          "surface": "蚡"
         },
         {
           "start": 29,
           "end": 30,
-          "entity_id": "p16",
+          "entity_id": "p15",
           "type": "人物",
-          "name": "田蚡（武安侯）"
+          "name": "田蚡（武安侯）",
+          "surface": "蚡"
         },
         {
           "start": 31,
           "end": 33,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
           "start": 33,
           "end": 35,
-          "entity_id": "p6",
+          "entity_id": "p5",
           "type": "人物",
-          "name": "窦太后（孝文后）"
+          "name": "窦太后（孝文后）",
+          "surface": "太后"
         },
         {
           "start": 36,
           "end": 38,
-          "entity_id": "p5",
+          "entity_id": "p4",
           "type": "人物",
-          "name": "刘启（汉景帝）"
+          "name": "刘启（汉景帝）",
+          "surface": "天子"
         },
         {
           "start": 48,
           "end": 50,
-          "entity_id": "l9",
+          "entity_id": "pl8",
           "type": "地理",
-          "name": "北地"
+          "name": "北地",
+          "surface": "北地"
         },
         {
           "start": 59,
           "end": 61,
-          "entity_id": "l10",
+          "entity_id": "pl9",
           "type": "地理",
-          "name": "闽越"
+          "name": "闽越",
+          "surface": "閩越"
         },
         {
           "start": 62,
           "end": 64,
-          "entity_id": "l11",
+          "entity_id": "pl10",
           "type": "地理",
-          "name": "东越"
+          "name": "东越（东瓯）",
+          "surface": "東越"
         },
         {
           "start": 67,
           "end": 69,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
           "start": 72,
           "end": 74,
-          "entity_id": "p19",
+          "entity_id": "p16",
           "type": "人物",
-          "name": "王恢"
+          "name": "王恢",
+          "surface": "王恢"
         },
         {
           "start": 97,
           "end": 100,
-          "entity_id": "p16",
+          "entity_id": "p15",
           "type": "人物",
-          "name": "田蚡（武安侯）"
-        },
-        {
-          "start": 101,
-          "end": 103,
-          "entity_id": "p16",
-          "type": "人物",
-          "name": "田蚡（武安侯）"
+          "name": "田蚡（武安侯）",
+          "surface": "武安侯"
         },
         {
           "start": 104,
           "end": 106,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         }
       ]
     },
@@ -1110,81 +1094,92 @@
       "text": "匈奴來請和親，天子下議。大行王恢，燕人也，數爲邊吏，習知胡事。議曰：「漢與匈奴和親，率不過數歲即復倍約。不如勿許，興兵擊之。」安國曰：「千里而戰，兵不獲利。今匈奴負戎馬之足，懷禽獸之心，遷徙鳥舉，難得而制也。得其地不足以爲廣，有其衆不足以爲彊，自上古不屬爲人。漢數千里爭利，則人馬罷，虜以全制其敝。且彊弩之極，矢不能穿魯縞；衝風之末，力不能漂鴻毛。非初不勁，末力衰也。擊之不便，不如和親。」羣臣議者多附安國，於是上許和親。",
       "mentions": [
         {
-          "start": 0,
-          "end": 2,
-          "entity_id": "l12",
-          "type": "地理",
-          "name": "匈奴"
+          "start": 4,
+          "end": 6,
+          "entity_id": "c3",
+          "type": "概念",
+          "name": "和亲",
+          "surface": "和親"
         },
         {
           "start": 7,
           "end": 9,
-          "entity_id": "p5",
+          "entity_id": "p4",
           "type": "人物",
-          "name": "刘启（汉景帝）"
+          "name": "刘启（汉景帝）",
+          "surface": "天子"
         },
         {
           "start": 14,
           "end": 16,
-          "entity_id": "p19",
+          "entity_id": "p16",
           "type": "人物",
-          "name": "王恢"
+          "name": "王恢",
+          "surface": "王恢"
         },
         {
-          "start": 28,
-          "end": 29,
-          "entity_id": "l12",
-          "type": "地理",
-          "name": "匈奴"
-        },
-        {
-          "start": 37,
-          "end": 39,
-          "entity_id": "l12",
-          "type": "地理",
-          "name": "匈奴"
+          "start": 39,
+          "end": 41,
+          "entity_id": "c3",
+          "type": "概念",
+          "name": "和亲",
+          "surface": "和親"
         },
         {
           "start": 63,
           "end": 65,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
-        },
-        {
-          "start": 79,
-          "end": 81,
-          "entity_id": "l12",
-          "type": "地理",
-          "name": "匈奴"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
           "start": 123,
           "end": 124,
-          "entity_id": "p18",
+          "entity_id": "p30",
           "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "name": "刘彻（汉武帝）",
+          "surface": "上"
         },
         {
-          "start": 142,
-          "end": 143,
-          "entity_id": "l12",
-          "type": "地理",
-          "name": "匈奴"
+          "start": 150,
+          "end": 161,
+          "entity_id": "c4",
+          "type": "概念",
+          "name": "强弩之末",
+          "surface": "彊弩之極，矢不能穿魯縞"
+        },
+        {
+          "start": 191,
+          "end": 193,
+          "entity_id": "c3",
+          "type": "概念",
+          "name": "和亲",
+          "surface": "和親"
         },
         {
           "start": 201,
           "end": 203,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
           "start": 206,
           "end": 207,
-          "entity_id": "p18",
+          "entity_id": "p30",
           "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "name": "刘彻（汉武帝）",
+          "surface": "上"
+        },
+        {
+          "start": 208,
+          "end": 210,
+          "entity_id": "c3",
+          "type": "概念",
+          "name": "和亲",
+          "surface": "和親"
         }
       ]
     },
@@ -1195,128 +1190,138 @@
         {
           "start": 10,
           "end": 12,
-          "entity_id": "l13",
+          "entity_id": "pl17",
           "type": "地理",
-          "name": "雁门郡"
+          "name": "雁门",
+          "surface": "鴈門"
         },
         {
           "start": 12,
           "end": 14,
-          "entity_id": "l14",
-          "type": "地理",
-          "name": "马邑"
+          "entity_id": "e10",
+          "type": "事件",
+          "name": "马邑之谋",
+          "surface": "馬邑"
         },
         {
           "start": 15,
           "end": 18,
-          "entity_id": "p20",
+          "entity_id": "p17",
           "type": "人物",
-          "name": "聂翁壹"
+          "name": "聂翁壹",
+          "surface": "聶翁壹"
         },
         {
           "start": 21,
           "end": 23,
-          "entity_id": "p19",
+          "entity_id": "p16",
           "type": "人物",
-          "name": "王恢"
+          "name": "王恢",
+          "surface": "王恢"
         },
         {
           "start": 24,
           "end": 25,
-          "entity_id": "p18",
+          "entity_id": "p30",
           "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "name": "刘彻（汉武帝）",
+          "surface": "上"
         },
         {
-          "start": 28,
-          "end": 30,
-          "entity_id": "l12",
-          "type": "地理",
-          "name": "匈奴"
+          "start": 31,
+          "end": 33,
+          "entity_id": "c3",
+          "type": "概念",
+          "name": "和亲",
+          "surface": "和親"
         },
         {
           "start": 46,
           "end": 49,
-          "entity_id": "p20",
+          "entity_id": "p17",
           "type": "人物",
-          "name": "聂翁壹"
-        },
-        {
-          "start": 54,
-          "end": 56,
-          "entity_id": "l12",
-          "type": "地理",
-          "name": "匈奴"
+          "name": "聂翁壹",
+          "surface": "聶翁壹"
         },
         {
           "start": 58,
           "end": 60,
-          "entity_id": "p21",
+          "entity_id": "p18",
           "type": "人物",
-          "name": "军臣单于"
+          "name": "军臣单于",
+          "surface": "單于"
         },
         {
           "start": 66,
           "end": 68,
-          "entity_id": "l14",
-          "type": "地理",
-          "name": "马邑"
+          "entity_id": "e10",
+          "type": "事件",
+          "name": "马邑之谋",
+          "surface": "馬邑"
         },
         {
           "start": 83,
           "end": 85,
-          "entity_id": "p21",
+          "entity_id": "p18",
           "type": "人物",
-          "name": "军臣单于"
+          "name": "军臣单于",
+          "surface": "單于"
         },
         {
           "start": 94,
           "end": 97,
-          "entity_id": "p20",
+          "entity_id": "p17",
           "type": "人物",
-          "name": "聂翁壹"
+          "name": "聂翁壹",
+          "surface": "聶翁壹"
         },
         {
           "start": 98,
           "end": 101,
-          "entity_id": "p20",
+          "entity_id": "p17",
           "type": "人物",
-          "name": "聂翁壹"
+          "name": "聂翁壹",
+          "surface": "聶翁壹"
         },
         {
           "start": 113,
           "end": 115,
-          "entity_id": "l14",
-          "type": "地理",
-          "name": "马邑"
+          "entity_id": "e10",
+          "type": "事件",
+          "name": "马邑之谋",
+          "surface": "馬邑"
         },
         {
           "start": 118,
           "end": 120,
-          "entity_id": "p21",
+          "entity_id": "p18",
           "type": "人物",
-          "name": "军臣单于"
+          "name": "军臣单于",
+          "surface": "單于"
         },
         {
           "start": 128,
           "end": 130,
-          "entity_id": "l14",
-          "type": "地理",
-          "name": "马邑"
+          "entity_id": "e10",
+          "type": "事件",
+          "name": "马邑之谋",
+          "surface": "馬邑"
         },
         {
           "start": 142,
           "end": 144,
-          "entity_id": "p21",
+          "entity_id": "p18",
           "type": "人物",
-          "name": "军臣单于"
+          "name": "军臣单于",
+          "surface": "單于"
         },
         {
           "start": 153,
           "end": 156,
-          "entity_id": "l15",
+          "entity_id": "pl12",
           "type": "地理",
-          "name": "武州塞"
+          "name": "武州塞",
+          "surface": "武州塞"
         }
       ]
     },
@@ -1327,219 +1332,226 @@
         {
           "start": 17,
           "end": 19,
-          "entity_id": "l14",
-          "type": "地理",
-          "name": "马邑"
+          "entity_id": "e10",
+          "type": "事件",
+          "name": "马邑之谋",
+          "surface": "馬邑"
         },
         {
-          "start": 21,
-          "end": 22,
-          "entity_id": "l7",
-          "type": "地理",
-          "name": "关中"
-        },
-        {
-          "start": 23,
+          "start": 25,
           "end": 27,
-          "entity_id": "p22",
+          "entity_id": "p19",
           "type": "人物",
-          "name": "李广"
+          "name": "李广",
+          "surface": "李廣"
         },
         {
           "start": 35,
           "end": 38,
-          "entity_id": "p23",
+          "entity_id": "p20",
           "type": "人物",
-          "name": "公孙贺"
+          "name": "公孙贺",
+          "surface": "公孫賀"
         },
         {
           "start": 46,
           "end": 48,
-          "entity_id": "p19",
+          "entity_id": "p16",
           "type": "人物",
-          "name": "王恢"
+          "name": "王恢",
+          "surface": "王恢"
         },
         {
           "start": 55,
-          "end": 56,
-          "entity_id": "l7",
-          "type": "地理",
-          "name": "关中"
+          "end": 58,
+          "entity_id": "c2",
+          "type": "概念",
+          "name": "中大夫",
+          "surface": "中大夫"
         },
         {
           "start": 58,
           "end": 60,
-          "entity_id": "p24",
+          "entity_id": "p21",
           "type": "人物",
-          "name": "李息"
+          "name": "李息",
+          "surface": "李息"
         },
         {
           "start": 70,
           "end": 73,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
-        },
-        {
-          "start": 74,
-          "end": 78,
-          "entity_id": "p1",
-          "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "韓安國"
         },
         {
           "start": 87,
           "end": 89,
-          "entity_id": "p21",
+          "entity_id": "p18",
           "type": "人物",
-          "name": "军臣单于"
+          "name": "军臣单于",
+          "surface": "單于"
         },
         {
           "start": 90,
           "end": 92,
-          "entity_id": "l14",
-          "type": "地理",
-          "name": "马邑"
+          "entity_id": "e10",
+          "type": "事件",
+          "name": "马邑之谋",
+          "surface": "馬邑"
         },
         {
           "start": 98,
           "end": 100,
-          "entity_id": "p19",
+          "entity_id": "p16",
           "type": "人物",
-          "name": "王恢"
+          "name": "王恢",
+          "surface": "王恢"
         },
         {
           "start": 101,
           "end": 103,
-          "entity_id": "p24",
+          "entity_id": "p21",
           "type": "人物",
-          "name": "李息"
+          "name": "李息",
+          "surface": "李息"
         },
         {
           "start": 104,
           "end": 106,
-          "entity_id": "p22",
+          "entity_id": "p19",
           "type": "人物",
-          "name": "李广"
+          "name": "李广",
+          "surface": "李廣"
         },
         {
           "start": 108,
           "end": 109,
-          "entity_id": "l21",
+          "entity_id": "pl13",
           "type": "地理",
-          "name": "代"
+          "name": "代郡",
+          "surface": "代"
         },
         {
           "start": 117,
           "end": 119,
-          "entity_id": "p21",
+          "entity_id": "p18",
           "type": "人物",
-          "name": "军臣单于"
+          "name": "军臣单于",
+          "surface": "單于"
         },
         {
           "start": 123,
           "end": 126,
-          "entity_id": "l15",
+          "entity_id": "pl12",
           "type": "地理",
-          "name": "武州塞"
+          "name": "武州塞",
+          "surface": "武州塞"
         },
         {
           "start": 129,
           "end": 131,
-          "entity_id": "l14",
-          "type": "地理",
-          "name": "马邑"
+          "entity_id": "e10",
+          "type": "事件",
+          "name": "马邑之谋",
+          "surface": "馬邑"
         },
         {
           "start": 151,
           "end": 153,
-          "entity_id": "p21",
+          "entity_id": "p18",
           "type": "人物",
-          "name": "军臣单于"
-        },
-        {
-          "start": 157,
-          "end": 159,
-          "entity_id": "c19",
-          "type": "概念",
-          "name": "烽燧"
+          "name": "军臣单于",
+          "surface": "單于"
         },
         {
           "start": 163,
           "end": 165,
-          "entity_id": "p25",
+          "entity_id": "p22",
           "type": "人物",
-          "name": "武州尉史"
+          "name": "武州尉史",
+          "surface": "尉史"
         },
         {
           "start": 169,
           "end": 171,
-          "entity_id": "p25",
+          "entity_id": "p22",
           "type": "人物",
-          "name": "武州尉史"
+          "name": "武州尉史",
+          "surface": "尉史"
         },
         {
           "start": 172,
           "end": 174,
-          "entity_id": "p25",
+          "entity_id": "p22",
           "type": "人物",
-          "name": "武州尉史"
+          "name": "武州尉史",
+          "surface": "尉史"
         },
         {
           "start": 183,
           "end": 185,
-          "entity_id": "l14",
-          "type": "地理",
-          "name": "马邑"
+          "entity_id": "e10",
+          "type": "事件",
+          "name": "马邑之谋",
+          "surface": "馬邑"
         },
         {
           "start": 188,
           "end": 190,
-          "entity_id": "p21",
+          "entity_id": "p18",
           "type": "人物",
-          "name": "军臣单于"
+          "name": "军臣单于",
+          "surface": "單于"
         },
         {
           "start": 217,
           "end": 219,
-          "entity_id": "p25",
+          "entity_id": "p22",
           "type": "人物",
-          "name": "武州尉史"
+          "name": "武州尉史",
+          "surface": "尉史"
         },
         {
           "start": 226,
           "end": 228,
-          "entity_id": "p25",
+          "entity_id": "p22",
           "type": "人物",
-          "name": "武州尉史"
+          "name": "武州尉史",
+          "surface": "尉史"
         },
         {
           "start": 238,
           "end": 240,
-          "entity_id": "p21",
+          "entity_id": "p18",
           "type": "人物",
-          "name": "军臣单于"
+          "name": "军臣单于",
+          "surface": "單于"
         },
         {
           "start": 257,
           "end": 259,
-          "entity_id": "p19",
+          "entity_id": "p16",
           "type": "人物",
-          "name": "王恢"
+          "name": "王恢",
+          "surface": "王恢"
         },
         {
           "start": 265,
           "end": 267,
-          "entity_id": "p21",
+          "entity_id": "p18",
           "type": "人物",
-          "name": "军臣单于"
+          "name": "军臣单于",
+          "surface": "單于"
         },
         {
           "start": 280,
           "end": 282,
-          "entity_id": "p21",
+          "entity_id": "p18",
           "type": "人物",
-          "name": "军臣单于"
+          "name": "军臣单于",
+          "surface": "單于"
         }
       ]
     },
@@ -1550,156 +1562,234 @@
         {
           "start": 0,
           "end": 2,
-          "entity_id": "p5",
+          "entity_id": "p4",
           "type": "人物",
-          "name": "刘启（汉景帝）"
+          "name": "刘启（汉景帝）",
+          "surface": "天子"
         },
         {
           "start": 3,
           "end": 5,
-          "entity_id": "p19",
+          "entity_id": "p16",
           "type": "人物",
-          "name": "王恢"
+          "name": "王恢",
+          "surface": "王恢"
         },
         {
           "start": 8,
           "end": 10,
-          "entity_id": "p21",
+          "entity_id": "p18",
           "type": "人物",
-          "name": "军臣单于"
+          "name": "军臣单于",
+          "surface": "單于"
         },
         {
-          "start": 25,
-          "end": 26,
-          "entity_id": "l12",
-          "type": "地理",
-          "name": "匈奴"
+          "start": 19,
+          "end": 20,
+          "entity_id": "p16",
+          "type": "人物",
+          "name": "王恢",
+          "surface": "恢"
         },
         {
           "start": 27,
           "end": 29,
-          "entity_id": "l14",
-          "type": "地理",
-          "name": "马邑"
+          "entity_id": "e10",
+          "type": "事件",
+          "name": "马邑之谋",
+          "surface": "馬邑"
         },
         {
           "start": 33,
           "end": 35,
-          "entity_id": "p21",
+          "entity_id": "p18",
           "type": "人物",
-          "name": "军臣单于"
+          "name": "军臣单于",
+          "surface": "單于"
         },
         {
           "start": 49,
           "end": 51,
-          "entity_id": "p21",
+          "entity_id": "p18",
           "type": "人物",
-          "name": "军臣单于"
+          "name": "军臣单于",
+          "surface": "單于"
         },
         {
-          "start": 112,
-          "end": 115,
+          "start": 93,
+          "end": 94,
           "entity_id": "p16",
           "type": "人物",
-          "name": "田蚡（武安侯）"
+          "name": "王恢",
+          "surface": "恢"
+        },
+        {
+          "start": 100,
+          "end": 101,
+          "entity_id": "p16",
+          "type": "人物",
+          "name": "王恢",
+          "surface": "恢"
+        },
+        {
+          "start": 101,
+          "end": 103,
+          "entity_id": "c14",
+          "type": "概念",
+          "name": "逗桡",
+          "surface": "逗橈"
+        },
+        {
+          "start": 107,
+          "end": 108,
+          "entity_id": "p16",
+          "type": "人物",
+          "name": "王恢",
+          "surface": "恢"
+        },
+        {
+          "start": 114,
+          "end": 115,
+          "entity_id": "p15",
+          "type": "人物",
+          "name": "田蚡（武安侯）",
+          "surface": "蚡"
         },
         {
           "start": 116,
           "end": 117,
-          "entity_id": "p16",
+          "entity_id": "p15",
           "type": "人物",
-          "name": "田蚡（武安侯）"
+          "name": "田蚡（武安侯）",
+          "surface": "蚡"
         },
         {
           "start": 120,
           "end": 121,
-          "entity_id": "p18",
+          "entity_id": "p30",
           "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "name": "刘彻（汉武帝）",
+          "surface": "上"
         },
         {
           "start": 125,
           "end": 127,
-          "entity_id": "p6",
+          "entity_id": "p5",
           "type": "人物",
-          "name": "窦太后（孝文后）"
+          "name": "窦太后（孝文后）",
+          "surface": "太后"
         },
         {
           "start": 130,
           "end": 132,
-          "entity_id": "p19",
+          "entity_id": "p16",
           "type": "人物",
-          "name": "王恢"
+          "name": "王恢",
+          "surface": "王恢"
         },
         {
           "start": 134,
           "end": 136,
-          "entity_id": "l14",
-          "type": "地理",
-          "name": "马邑"
+          "entity_id": "e10",
+          "type": "事件",
+          "name": "马邑之谋",
+          "surface": "馬邑"
         },
         {
-          "start": 147,
-          "end": 149,
-          "entity_id": "l12",
-          "type": "地理",
-          "name": "匈奴"
+          "start": 143,
+          "end": 144,
+          "entity_id": "p16",
+          "type": "人物",
+          "name": "王恢",
+          "surface": "恢"
         },
         {
           "start": 154,
           "end": 155,
-          "entity_id": "p18",
+          "entity_id": "p30",
           "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "name": "刘彻（汉武帝）",
+          "surface": "上"
         },
         {
           "start": 156,
           "end": 158,
-          "entity_id": "p6",
+          "entity_id": "p5",
           "type": "人物",
-          "name": "窦太后（孝文后）"
+          "name": "窦太后（孝文后）",
+          "surface": "太后"
         },
         {
           "start": 159,
           "end": 161,
-          "entity_id": "p6",
+          "entity_id": "p5",
           "type": "人物",
-          "name": "窦太后（孝文后）"
-        },
-        {
-          "start": 162,
-          "end": 164,
-          "entity_id": "p16",
-          "type": "人物",
-          "name": "田蚡（武安侯）"
+          "name": "窦太后（孝文后）",
+          "surface": "太后"
         },
         {
           "start": 166,
           "end": 167,
-          "entity_id": "p18",
+          "entity_id": "p30",
           "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "name": "刘彻（汉武帝）",
+          "surface": "上"
         },
         {
           "start": 168,
           "end": 169,
-          "entity_id": "p18",
+          "entity_id": "p30",
           "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "name": "刘彻（汉武帝）",
+          "surface": "上"
         },
         {
           "start": 174,
           "end": 176,
-          "entity_id": "l14",
-          "type": "地理",
-          "name": "马邑"
+          "entity_id": "e10",
+          "type": "事件",
+          "name": "马邑之谋",
+          "surface": "馬邑"
+        },
+        {
+          "start": 179,
+          "end": 180,
+          "entity_id": "p16",
+          "type": "人物",
+          "name": "王恢",
+          "surface": "恢"
         },
         {
           "start": 200,
           "end": 202,
-          "entity_id": "p21",
+          "entity_id": "p18",
           "type": "人物",
-          "name": "军臣单于"
+          "name": "军臣单于",
+          "surface": "單于"
+        },
+        {
+          "start": 206,
+          "end": 207,
+          "entity_id": "p16",
+          "type": "人物",
+          "name": "王恢",
+          "surface": "恢"
+        },
+        {
+          "start": 229,
+          "end": 230,
+          "entity_id": "p16",
+          "type": "人物",
+          "name": "王恢",
+          "surface": "恢"
+        },
+        {
+          "start": 240,
+          "end": 241,
+          "entity_id": "p16",
+          "type": "人物",
+          "name": "王恢",
+          "surface": "恢"
         }
       ]
     },
@@ -1712,133 +1802,104 @@
           "end": 2,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
-        },
-        {
-          "start": 42,
-          "end": 43,
-          "entity_id": "l1",
-          "type": "地理",
-          "name": "梁国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
           "start": 44,
           "end": 46,
-          "entity_id": "p27",
+          "entity_id": "p24",
           "type": "人物",
-          "name": "壶遂"
+          "name": "壶遂",
+          "surface": "壺遂"
         },
         {
           "start": 47,
           "end": 49,
-          "entity_id": "p28",
+          "entity_id": "p25",
           "type": "人物",
-          "name": "臧固"
+          "name": "臧固",
+          "surface": "臧固"
         },
         {
           "start": 50,
           "end": 52,
-          "entity_id": "p29",
+          "entity_id": "p26",
           "type": "人物",
-          "name": "郅他"
+          "name": "郅他",
+          "surface": "郅他"
         },
         {
           "start": 68,
           "end": 70,
-          "entity_id": "p5",
+          "entity_id": "p4",
           "type": "人物",
-          "name": "刘启（汉景帝）"
+          "name": "刘启（汉景帝）",
+          "surface": "天子"
         },
         {
           "start": 75,
           "end": 77,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
-          "start": 86,
-          "end": 88,
-          "entity_id": "p16",
-          "type": "人物",
-          "name": "田蚡（武安侯）"
-        },
-        {
-          "start": 89,
+          "start": 88,
           "end": 90,
-          "entity_id": "p16",
+          "entity_id": "p15",
           "type": "人物",
-          "name": "田蚡（武安侯）"
+          "name": "田蚡（武安侯）",
+          "surface": "田蚡"
         },
         {
           "start": 92,
           "end": 94,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
-        },
-        {
-          "start": 95,
-          "end": 97,
-          "entity_id": "p16",
-          "type": "人物",
-          "name": "田蚡（武安侯）"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
           "start": 105,
           "end": 107,
-          "entity_id": "p5",
+          "entity_id": "p4",
           "type": "人物",
-          "name": "刘启（汉景帝）"
+          "name": "刘启（汉景帝）",
+          "surface": "天子"
         },
         {
           "start": 113,
           "end": 115,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
-          "start": 127,
+          "start": 130,
           "end": 132,
-          "entity_id": "p26",
+          "entity_id": "p23",
           "type": "人物",
-          "name": "薛泽（平棘侯）"
-        },
-        {
-          "start": 133,
-          "end": 135,
-          "entity_id": "p16",
-          "type": "人物",
-          "name": "田蚡（武安侯）"
+          "name": "薛泽",
+          "surface": "薛澤"
         },
         {
           "start": 136,
           "end": 138,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
-        },
-        {
-          "start": 146,
-          "end": 147,
-          "entity_id": "p18",
-          "type": "人物",
-          "name": "刘彻（汉武帝）"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
           "start": 149,
           "end": 151,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
-        },
-        {
-          "start": 152,
-          "end": 153,
-          "entity_id": "l7",
-          "type": "地理",
-          "name": "关中"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         }
       ]
     },
@@ -1847,228 +1908,164 @@
       "text": "車騎將軍衞青擊匈奴，出上谷，破胡蘢城。將軍李廣爲匈奴所得，復失之；公孫敖大亡卒：皆當斬，贖爲庶人。明年，匈奴大入邊，殺遼西太守，及入鴈門，所殺略數千人。車騎將軍衞青擊之，出鴈門。衞尉安國爲材官將軍，屯於漁陽。安國捕生虜，言匈奴遠去。即上書言方田作時，請且罷軍屯。罷軍屯月餘，匈奴大入上谷、漁陽。安國壁乃有七百餘人，出與戰，不勝，復入壁。匈奴虜略千餘人及畜產而去。天子聞之，怒，使使責讓安國。徒安國益東，屯右北平。是時匈奴虜言當入東方。",
       "mentions": [
         {
-          "start": 0,
+          "start": 4,
           "end": 6,
-          "entity_id": "p30",
+          "entity_id": "p27",
           "type": "人物",
-          "name": "卫青"
-        },
-        {
-          "start": 7,
-          "end": 9,
-          "entity_id": "l12",
-          "type": "地理",
-          "name": "匈奴"
+          "name": "卫青",
+          "surface": "衞青"
         },
         {
           "start": 11,
           "end": 13,
-          "entity_id": "l16",
+          "entity_id": "pl14",
           "type": "地理",
-          "name": "上谷"
-        },
-        {
-          "start": 15,
-          "end": 16,
-          "entity_id": "l12",
-          "type": "地理",
-          "name": "匈奴"
+          "name": "上谷",
+          "surface": "上谷"
         },
         {
           "start": 16,
           "end": 18,
-          "entity_id": "l17",
+          "entity_id": "pl15",
           "type": "地理",
-          "name": "茏城"
+          "name": "茏城",
+          "surface": "蘢城"
         },
         {
           "start": 21,
           "end": 23,
-          "entity_id": "p22",
+          "entity_id": "p19",
           "type": "人物",
-          "name": "李广"
-        },
-        {
-          "start": 24,
-          "end": 26,
-          "entity_id": "l12",
-          "type": "地理",
-          "name": "匈奴"
+          "name": "李广",
+          "surface": "李廣"
         },
         {
           "start": 33,
           "end": 36,
-          "entity_id": "p31",
+          "entity_id": "p28",
           "type": "人物",
-          "name": "公孙敖"
-        },
-        {
-          "start": 52,
-          "end": 54,
-          "entity_id": "l12",
-          "type": "地理",
-          "name": "匈奴"
+          "name": "公孙敖",
+          "surface": "公孫敖"
         },
         {
           "start": 59,
           "end": 61,
-          "entity_id": "l18",
+          "entity_id": "pl16",
           "type": "地理",
-          "name": "辽西"
+          "name": "辽西",
+          "surface": "遼西"
         },
         {
           "start": 66,
           "end": 68,
-          "entity_id": "l13",
+          "entity_id": "pl17",
           "type": "地理",
-          "name": "雁门郡"
+          "name": "雁门",
+          "surface": "鴈門"
         },
         {
-          "start": 76,
+          "start": 80,
           "end": 82,
-          "entity_id": "p30",
+          "entity_id": "p27",
           "type": "人物",
-          "name": "卫青"
+          "name": "卫青",
+          "surface": "衞青"
         },
         {
           "start": 86,
           "end": 88,
-          "entity_id": "l13",
+          "entity_id": "pl17",
           "type": "地理",
-          "name": "雁门郡"
+          "name": "雁门",
+          "surface": "鴈門"
         },
         {
           "start": 91,
           "end": 93,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
           "start": 101,
           "end": 103,
-          "entity_id": "l19",
+          "entity_id": "pl18",
           "type": "地理",
-          "name": "渔阳"
+          "name": "渔阳",
+          "surface": "漁陽"
         },
         {
           "start": 104,
           "end": 106,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
-        },
-        {
-          "start": 108,
-          "end": 109,
-          "entity_id": "l12",
-          "type": "地理",
-          "name": "匈奴"
-        },
-        {
-          "start": 111,
-          "end": 113,
-          "entity_id": "l12",
-          "type": "地理",
-          "name": "匈奴"
-        },
-        {
-          "start": 117,
-          "end": 118,
-          "entity_id": "p18",
-          "type": "人物",
-          "name": "刘彻（汉武帝）"
-        },
-        {
-          "start": 137,
-          "end": 139,
-          "entity_id": "l12",
-          "type": "地理",
-          "name": "匈奴"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
           "start": 141,
           "end": 143,
-          "entity_id": "l16",
+          "entity_id": "pl14",
           "type": "地理",
-          "name": "上谷"
+          "name": "上谷",
+          "surface": "上谷"
         },
         {
           "start": 144,
           "end": 146,
-          "entity_id": "l19",
+          "entity_id": "pl18",
           "type": "地理",
-          "name": "渔阳"
+          "name": "渔阳",
+          "surface": "漁陽"
         },
         {
           "start": 147,
           "end": 149,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
           "start": 162,
           "end": 163,
-          "entity_id": "p10",
+          "entity_id": "p9",
           "type": "人物",
-          "name": "羊胜"
-        },
-        {
-          "start": 168,
-          "end": 170,
-          "entity_id": "l12",
-          "type": "地理",
-          "name": "匈奴"
-        },
-        {
-          "start": 170,
-          "end": 171,
-          "entity_id": "l12",
-          "type": "地理",
-          "name": "匈奴"
+          "name": "羊胜",
+          "surface": "勝"
         },
         {
           "start": 181,
           "end": 183,
-          "entity_id": "p5",
+          "entity_id": "p4",
           "type": "人物",
-          "name": "刘启（汉景帝）"
+          "name": "刘启（汉景帝）",
+          "surface": "天子"
         },
         {
           "start": 192,
           "end": 194,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
           "start": 196,
           "end": 198,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
           "start": 202,
           "end": 205,
-          "entity_id": "l20",
+          "entity_id": "pl19",
           "type": "地理",
-          "name": "右北平"
-        },
-        {
-          "start": 208,
-          "end": 210,
-          "entity_id": "l12",
-          "type": "地理",
-          "name": "匈奴"
-        },
-        {
-          "start": 210,
-          "end": 211,
-          "entity_id": "l12",
-          "type": "地理",
-          "name": "匈奴"
+          "name": "右北平",
+          "surface": "右北平"
         }
       ]
     },
@@ -2081,42 +2078,32 @@
           "end": 2,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
-          "start": 23,
+          "start": 26,
           "end": 28,
-          "entity_id": "p30",
+          "entity_id": "p27",
           "type": "人物",
-          "name": "卫青"
+          "name": "卫青",
+          "surface": "衞青"
         },
         {
           "start": 35,
           "end": 37,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
-        },
-        {
-          "start": 49,
-          "end": 51,
-          "entity_id": "l12",
-          "type": "地理",
-          "name": "匈奴"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         },
         {
           "start": 87,
           "end": 89,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
-        },
-        {
-          "start": 94,
-          "end": 95,
-          "entity_id": "l7",
-          "type": "地理",
-          "name": "关中"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         }
       ]
     },
@@ -2125,81 +2112,60 @@
       "text": "太史公曰：余與壺遂定律歷，觀韓長孺之義，壺遂之深中隱厚。世之言梁多長者，不虛哉！壺遂官至詹事，天子方倚以爲漢相，會遂卒。不然，壺遂之內廉行脩，斯鞠躬君子也。",
       "mentions": [
         {
-          "start": 0,
-          "end": 3,
-          "entity_id": "p32",
-          "type": "人物",
-          "name": "司马迁"
-        },
-        {
-          "start": 5,
-          "end": 6,
-          "entity_id": "p32",
-          "type": "人物",
-          "name": "司马迁"
-        },
-        {
           "start": 7,
           "end": 9,
-          "entity_id": "p27",
+          "entity_id": "p24",
           "type": "人物",
-          "name": "壶遂"
+          "name": "壶遂",
+          "surface": "壺遂"
         },
         {
           "start": 14,
           "end": 17,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
+          "name": "韩安国（韩长孺）",
+          "surface": "韓長孺"
         },
         {
           "start": 20,
           "end": 22,
-          "entity_id": "p27",
+          "entity_id": "p24",
           "type": "人物",
-          "name": "壶遂"
-        },
-        {
-          "start": 24,
-          "end": 25,
-          "entity_id": "l7",
-          "type": "地理",
-          "name": "关中"
-        },
-        {
-          "start": 31,
-          "end": 32,
-          "entity_id": "l1",
-          "type": "地理",
-          "name": "梁国"
+          "name": "壶遂",
+          "surface": "壺遂"
         },
         {
           "start": 40,
           "end": 42,
-          "entity_id": "p27",
+          "entity_id": "p24",
           "type": "人物",
-          "name": "壶遂"
+          "name": "壶遂",
+          "surface": "壺遂"
+        },
+        {
+          "start": 44,
+          "end": 46,
+          "entity_id": "c20",
+          "type": "概念",
+          "name": "詹事",
+          "surface": "詹事"
         },
         {
           "start": 47,
           "end": 49,
-          "entity_id": "p5",
+          "entity_id": "p4",
           "type": "人物",
-          "name": "刘启（汉景帝）"
+          "name": "刘启（汉景帝）",
+          "surface": "天子"
         },
         {
           "start": 63,
           "end": 65,
-          "entity_id": "p27",
+          "entity_id": "p24",
           "type": "人物",
-          "name": "壶遂"
-        },
-        {
-          "start": 72,
-          "end": 76,
-          "entity_id": "c14",
-          "type": "概念",
-          "name": "鞠躬君子"
+          "name": "壶遂",
+          "surface": "壺遂"
         }
       ]
     },
@@ -2212,21 +2178,8 @@
           "end": 8,
           "entity_id": "p1",
           "type": "人物",
-          "name": "韩安国"
-        },
-        {
-          "start": 13,
-          "end": 14,
-          "entity_id": "l1",
-          "type": "地理",
-          "name": "梁国"
-        },
-        {
-          "start": 32,
-          "end": 33,
-          "entity_id": "l12",
-          "type": "地理",
-          "name": "匈奴"
+          "name": "韩安国（韩长孺）",
+          "surface": "安國"
         }
       ]
     }
