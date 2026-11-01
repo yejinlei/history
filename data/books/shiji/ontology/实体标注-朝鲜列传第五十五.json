@@ -1,914 +1,214 @@
 {
   "book_id": "shiji",
-  "chapter_id": "55",
+  "chapter_id": "朝鲜列传第五十五",
   "chapter_title": "朝鲜列传第五十五",
-  "version": "final",
-  "generated_at": "2026-11-01T21:59:37.376682+00:00",
+  "version": "1.0",
+  "generated_at": "2026-11-02",
   "paragraphs": [
     {
       "para_id": "p0",
       "text": "〔集解〕張晏曰：「朝鮮有濕水、洌水、汕水，三水合爲洌水，疑樂浪、朝鮮取名於此也。」〔索隱〕案朝音潮，直驕反。鮮音仙。以有汕水，故名也。汕一音訕。",
       "mentions": [
-        {
-          "start": 9,
-          "end": 11,
-          "name": "朝鲜",
-          "type": "places"
-        },
-        {
-          "start": 32,
-          "end": 34,
-          "name": "朝鲜",
-          "type": "places"
-        }
+        {"entity_name": "张晏", "entity_type": "person", "surface": "張晏"},
+        {"entity_name": "朝鲜", "entity_type": "place", "surface": "朝鮮"},
+        {"entity_name": "湿水", "entity_type": "place", "surface": "濕水"},
+        {"entity_name": "洌水", "entity_type": "place", "surface": "洌水"},
+        {"entity_name": "汕水", "entity_type": "place", "surface": "汕水"},
+        {"entity_name": "乐浪郡", "entity_type": "place", "surface": "樂浪"},
+        {"entity_name": "裴骃", "entity_type": "person", "surface": "〔集解〕"},
+        {"entity_name": "司马贞", "entity_type": "person", "surface": "〔索隱〕"}
       ]
     },
     {
       "para_id": "p1",
       "text": "朝鮮⟦0⟧王滿者，故燕人也。⟦1⟧自始全燕時嘗略屬真番、⟦2⟧⟦3⟧朝鮮，爲置吏，築鄣塞。秦滅燕，屬遼東外徼。漢興，爲其遠難守，復修遼東故塞，至浿水爲界，⟦4⟧⟦5⟧屬燕。燕王盧綰反，入匈奴，滿亡命，⟦6⟧聚黨千餘人，魋結蠻夷服而東走出塞，渡浿水，居秦故空地上下鄣，⟦7⟧稍役屬真番、朝鮮蠻夷及故燕、齊亡命者王之，都王險。⟦8⟧⟦9⟧",
       "mentions": [
-        {
-          "start": 0,
-          "end": 2,
-          "name": "朝鲜",
-          "type": "places"
-        },
-        {
-          "start": 25,
-          "end": 27,
-          "name": "真番",
-          "type": "places"
-        },
-        {
-          "start": 34,
-          "end": 36,
-          "name": "朝鲜",
-          "type": "places"
-        },
-        {
-          "start": 50,
-          "end": 52,
-          "name": "辽东（郡）",
-          "type": "places"
-        },
-        {
-          "start": 66,
-          "end": 68,
-          "name": "辽东（郡）",
-          "type": "places"
-        },
-        {
-          "start": 72,
-          "end": 74,
-          "name": "浿水",
-          "type": "places"
-        },
-        {
-          "start": 86,
-          "end": 90,
-          "name": "卢绾（燕王）",
-          "type": "persons"
-        },
-        {
-          "start": 93,
-          "end": 95,
-          "name": "匈奴",
-          "type": "places"
-        },
-        {
-          "start": 109,
-          "end": 114,
-          "name": "魋结蛮夷服",
-          "type": "concepts"
-        },
-        {
-          "start": 121,
-          "end": 123,
-          "name": "浿水",
-          "type": "places"
-        },
-        {
-          "start": 125,
-          "end": 132,
-          "name": "秦故空地上下鄣",
-          "type": "places"
-        },
-        {
-          "start": 139,
-          "end": 141,
-          "name": "真番",
-          "type": "places"
-        },
-        {
-          "start": 142,
-          "end": 144,
-          "name": "朝鲜",
-          "type": "places"
-        },
-        {
-          "start": 158,
-          "end": 160,
-          "name": "王险（城）",
-          "type": "places"
-        }
+        {"entity_name": "朝鲜", "entity_type": "place", "surface": "朝鮮"},
+        {"entity_name": "卫满（朝鲜王）", "entity_type": "person", "surface": "滿"},
+        {"entity_name": "燕", "entity_type": "place", "surface": "燕"},
+        {"entity_name": "真番", "entity_type": "place", "surface": "真番"},
+        {"entity_name": "鄣塞", "entity_type": "concept", "surface": "鄣塞"},
+        {"entity_name": "辽东", "entity_type": "place", "surface": "遼東"},
+        {"entity_name": "浿水", "entity_type": "place", "surface": "浿水"},
+        {"entity_name": "卢绾（燕王）", "entity_type": "person", "surface": "燕王盧綰"},
+        {"entity_name": "匈奴", "entity_type": "place", "surface": "匈奴"},
+        {"entity_name": "上下鄣", "entity_type": "place", "surface": "上下鄣"},
+        {"entity_name": "齐", "entity_type": "place", "surface": "齊"},
+        {"entity_name": "王险城", "entity_type": "place", "surface": "王險"},
+        {"entity_name": "战国燕略属真番朝鲜", "entity_type": "event", "surface": "嘗略屬真番、朝鮮"},
+        {"entity_name": "卫满亡命王朝鲜", "entity_type": "event", "surface": "滿亡命……東走出塞，渡浿水……王之，都王險"}
       ]
     },
     {
       "para_id": "p2",
       "text": "會孝惠、高后時天下初定，遼東太守即約滿爲外臣，保塞外蠻夷，無使盜邊；諸蠻夷君長欲入見天子，勿得禁止。以聞，上許之，以故滿得兵威財物侵降其旁小邑，真番、臨屯皆來服屬，⟦0⟧方數千里。⟦1⟧",
       "mentions": [
-        {
-          "start": 1,
-          "end": 3,
-          "name": "汉惠帝",
-          "type": "persons"
-        },
-        {
-          "start": 4,
-          "end": 6,
-          "name": "吕后（高后）",
-          "type": "persons"
-        },
-        {
-          "start": 12,
-          "end": 16,
-          "name": "辽东太守",
-          "type": "persons"
-        },
-        {
-          "start": 20,
-          "end": 22,
-          "name": "外臣",
-          "type": "concepts"
-        },
-        {
-          "start": 42,
-          "end": 44,
-          "name": "刘彻（汉武帝）",
-          "type": "persons"
-        },
-        {
-          "start": 72,
-          "end": 74,
-          "name": "真番",
-          "type": "places"
-        },
-        {
-          "start": 75,
-          "end": 77,
-          "name": "临屯",
-          "type": "places"
-        }
+        {"entity_name": "刘盈（汉惠帝）", "entity_type": "person", "surface": "孝惠"},
+        {"entity_name": "吕雉（高后）", "entity_type": "person", "surface": "高后"},
+        {"entity_name": "辽东", "entity_type": "place", "surface": "遼東"},
+        {"entity_name": "卫满（朝鲜王）", "entity_type": "person", "surface": "滿"},
+        {"entity_name": "外臣", "entity_type": "concept", "surface": "外臣"},
+        {"entity_name": "刘彻（汉武帝）", "entity_type": "person", "surface": "上"},
+        {"entity_name": "真番", "entity_type": "place", "surface": "真番"},
+        {"entity_name": "临屯", "entity_type": "place", "surface": "臨屯"},
+        {"entity_name": "卫满约为汉外臣", "entity_type": "event", "surface": "約滿爲外臣……真番、臨屯皆來服屬"}
       ]
     },
     {
       "para_id": "p3",
       "text": "傳子至孫右渠，⟦0⟧所誘漢亡人滋多，又未嘗入見；真番旁衆國欲上書見天子，又擁閼不通。元封二年，漢使涉何誘諭右渠，⟦1⟧終不肯奉詔。何去至界上，臨浿水，使御刺殺送何者⟦2⟧朝鮮裨王長，⟦3⟧即渡，馳入塞，⟦4⟧遂歸報天子曰「殺朝鮮將」。上爲其名美，⟦5⟧即不詰，拜何爲遼東東部都尉。⟦6⟧朝鮮怨何，發兵襲攻殺何。",
       "mentions": [
-        {
-          "start": 4,
-          "end": 6,
-          "name": "卫右渠（朝鲜王右渠）",
-          "type": "persons"
-        },
-        {
-          "start": 24,
-          "end": 26,
-          "name": "真番",
-          "type": "places"
-        },
-        {
-          "start": 33,
-          "end": 35,
-          "name": "刘彻（汉武帝）",
-          "type": "persons"
-        },
-        {
-          "start": 42,
-          "end": 46,
-          "name": "元封二年",
-          "type": "concepts"
-        },
-        {
-          "start": 49,
-          "end": 55,
-          "name": "涉何诱谕右渠",
-          "type": "events"
-        },
-        {
-          "start": 72,
-          "end": 74,
-          "name": "浿水",
-          "type": "places"
-        },
-        {
-          "start": 85,
-          "end": 90,
-          "name": "朝鲜裨王长",
-          "type": "persons"
-        },
-        {
-          "start": 107,
-          "end": 109,
-          "name": "刘彻（汉武帝）",
-          "type": "persons"
-        },
-        {
-          "start": 112,
-          "end": 114,
-          "name": "朝鲜",
-          "type": "places"
-        },
-        {
-          "start": 133,
-          "end": 139,
-          "name": "辽东东部都尉",
-          "type": "places"
-        },
-        {
-          "start": 143,
-          "end": 145,
-          "name": "朝鲜",
-          "type": "places"
-        }
+        {"entity_name": "卫右渠（朝鲜王）", "entity_type": "person", "surface": "右渠"},
+        {"entity_name": "真番", "entity_type": "place", "surface": "真番"},
+        {"entity_name": "刘彻（汉武帝）", "entity_type": "person", "surface": "天子"},
+        {"entity_name": "涉何", "entity_type": "person", "surface": "涉何"},
+        {"entity_name": "浿水", "entity_type": "place", "surface": "浿水"},
+        {"entity_name": "卫长（朝鲜裨王）", "entity_type": "person", "surface": "朝鮮裨王長"},
+        {"entity_name": "辽东东部都尉治", "entity_type": "place", "surface": "遼東東部都尉"},
+        {"entity_name": "裨王", "entity_type": "concept", "surface": "裨王"},
+        {"entity_name": "右渠负固不朝", "entity_type": "event", "surface": "右渠……終不肯奉詔"},
+        {"entity_name": "涉何刺杀裨王", "entity_type": "event", "surface": "使御刺殺……朝鮮裨王長"},
+        {"entity_name": "朝鲜袭杀涉何", "entity_type": "event", "surface": "朝鮮怨何，發兵襲攻殺何"}
       ]
     },
     {
       "para_id": "p4",
       "text": "天子募罪人擊朝鮮。其秋，遣樓船將軍楊僕從齊浮渤海；兵五萬人，左將軍荀彘出遼東：討右渠。右渠發兵距險。左將軍卒正多率遼東兵先縱，敗散，多還走，坐法斬。樓船將軍將齊兵七千人先至王險。右渠城守，窺知樓船軍少，即出城擊樓船，樓船軍敗散走。將軍楊僕失其衆，遁山中十餘日，稍求收散卒，復聚。左將軍擊朝鮮浿水西軍，未能破自前。",
       "mentions": [
-        {
-          "start": 0,
-          "end": 2,
-          "name": "刘彻（汉武帝）",
-          "type": "persons"
-        },
-        {
-          "start": 6,
-          "end": 8,
-          "name": "朝鲜",
-          "type": "places"
-        },
-        {
-          "start": 13,
-          "end": 19,
-          "name": "杨仆（楼船将军）",
-          "type": "persons"
-        },
-        {
-          "start": 22,
-          "end": 24,
-          "name": "渤海",
-          "type": "places"
-        },
-        {
-          "start": 30,
-          "end": 35,
-          "name": "荀彘（左将军）",
-          "type": "persons"
-        },
-        {
-          "start": 36,
-          "end": 38,
-          "name": "辽东（郡）",
-          "type": "places"
-        },
-        {
-          "start": 40,
-          "end": 42,
-          "name": "卫右渠（朝鲜王右渠）",
-          "type": "persons"
-        },
-        {
-          "start": 43,
-          "end": 45,
-          "name": "卫右渠（朝鲜王右渠）",
-          "type": "persons"
-        },
-        {
-          "start": 50,
-          "end": 53,
-          "name": "左将军",
-          "type": "concepts"
-        },
-        {
-          "start": 53,
-          "end": 56,
-          "name": "卒正多",
-          "type": "persons"
-        },
-        {
-          "start": 57,
-          "end": 59,
-          "name": "辽东（郡）",
-          "type": "places"
-        },
-        {
-          "start": 74,
-          "end": 78,
-          "name": "楼船将军",
-          "type": "concepts"
-        },
-        {
-          "start": 86,
-          "end": 88,
-          "name": "王险（城）",
-          "type": "places"
-        },
-        {
-          "start": 89,
-          "end": 91,
-          "name": "卫右渠（朝鲜王右渠）",
-          "type": "persons"
-        },
-        {
-          "start": 108,
-          "end": 113,
-          "name": "楼船军败散",
-          "type": "events"
-        },
-        {
-          "start": 117,
-          "end": 119,
-          "name": "杨仆（楼船将军）",
-          "type": "persons"
-        },
-        {
-          "start": 139,
-          "end": 142,
-          "name": "左将军",
-          "type": "concepts"
-        },
-        {
-          "start": 143,
-          "end": 145,
-          "name": "朝鲜",
-          "type": "places"
-        },
-        {
-          "start": 145,
-          "end": 147,
-          "name": "浿水",
-          "type": "places"
-        }
+        {"entity_name": "刘彻（汉武帝）", "entity_type": "person", "surface": "天子"},
+        {"entity_name": "朝鲜", "entity_type": "place", "surface": "朝鮮"},
+        {"entity_name": "杨仆（楼船将军）", "entity_type": "person", "surface": "樓船將軍楊僕"},
+        {"entity_name": "齐", "entity_type": "place", "surface": "齊"},
+        {"entity_name": "渤海", "entity_type": "place", "surface": "渤海"},
+        {"entity_name": "荀彘（左将军）", "entity_type": "person", "surface": "左將軍荀彘"},
+        {"entity_name": "辽东", "entity_type": "place", "surface": "遼東"},
+        {"entity_name": "卫右渠（朝鲜王）", "entity_type": "person", "surface": "右渠"},
+        {"entity_name": "卒正多", "entity_type": "person", "surface": "卒正多"},
+        {"entity_name": "王险城", "entity_type": "place", "surface": "王險"},
+        {"entity_name": "浿水", "entity_type": "place", "surface": "浿水"},
+        {"entity_name": "楼船将军", "entity_type": "concept", "surface": "樓船將軍"},
+        {"entity_name": "左将军", "entity_type": "concept", "surface": "左將軍"},
+        {"entity_name": "卒正", "entity_type": "concept", "surface": "卒正"},
+        {"entity_name": "募兵制（募罪人）", "entity_type": "concept", "surface": "募罪人"},
+        {"entity_name": "汉募兵两路击朝鲜", "entity_type": "event", "surface": "募罪人擊朝鮮……討右渠"},
+        {"entity_name": "卒正多先纵败亡", "entity_type": "event", "surface": "卒正多率遼東兵先縱，敗散……坐法斬"},
+        {"entity_name": "杨仆兵败王险", "entity_type": "event", "surface": "樓船將軍……至王險……樓船軍敗散走……遁山中十餘日"}
       ]
     },
     {
       "para_id": "p5",
       "text": "天子爲兩將未有利，乃使衞山因兵威徃諭右渠。右渠見使者頓首謝：「願降，恐兩將詐殺臣；今見信節，請服降。」遣太子入謝，獻馬五千匹，及饋軍糧。人衆萬餘，持兵，方渡浿水，使者及左將軍疑其爲變，謂太子已服降，宜命人毋持兵。太子亦疑使者左將軍詐殺之，遂不渡浿水，復引歸。山還報天子，天子誅山。",
       "mentions": [
-        {
-          "start": 0,
-          "end": 2,
-          "name": "刘彻（汉武帝）",
-          "type": "persons"
-        },
-        {
-          "start": 18,
-          "end": 20,
-          "name": "卫右渠（朝鲜王右渠）",
-          "type": "persons"
-        },
-        {
-          "start": 21,
-          "end": 23,
-          "name": "卫右渠（朝鲜王右渠）",
-          "type": "persons"
-        },
-        {
-          "start": 43,
-          "end": 45,
-          "name": "信节（符节）",
-          "type": "concepts"
-        },
-        {
-          "start": 52,
-          "end": 54,
-          "name": "朝鲜太子",
-          "type": "persons"
-        },
-        {
-          "start": 78,
-          "end": 80,
-          "name": "浿水",
-          "type": "places"
-        },
-        {
-          "start": 84,
-          "end": 87,
-          "name": "左将军",
-          "type": "concepts"
-        },
-        {
-          "start": 93,
-          "end": 95,
-          "name": "朝鲜太子",
-          "type": "persons"
-        },
-        {
-          "start": 106,
-          "end": 108,
-          "name": "朝鲜太子",
-          "type": "persons"
-        },
-        {
-          "start": 112,
-          "end": 115,
-          "name": "左将军",
-          "type": "concepts"
-        },
-        {
-          "start": 122,
-          "end": 124,
-          "name": "浿水",
-          "type": "places"
-        },
-        {
-          "start": 132,
-          "end": 134,
-          "name": "刘彻（汉武帝）",
-          "type": "persons"
-        },
-        {
-          "start": 135,
-          "end": 137,
-          "name": "刘彻（汉武帝）",
-          "type": "persons"
-        }
+        {"entity_name": "刘彻（汉武帝）", "entity_type": "person", "surface": "天子"},
+        {"entity_name": "卫山", "entity_type": "person", "surface": "衞山"},
+        {"entity_name": "卫右渠（朝鲜王）", "entity_type": "person", "surface": "右渠"},
+        {"entity_name": "朝鲜太子", "entity_type": "person", "surface": "太子"},
+        {"entity_name": "荀彘（左将军）", "entity_type": "person", "surface": "左將軍"},
+        {"entity_name": "浿水", "entity_type": "place", "surface": "浿水"},
+        {"entity_name": "持节", "entity_type": "concept", "surface": "信節"},
+        {"entity_name": "卫山谕降沮约", "entity_type": "event", "surface": "使衞山……諭右渠……太子……遂不渡浿水，復引歸。天子誅山"}
       ]
     },
     {
       "para_id": "p6",
       "text": "左將軍破浿水上軍，乃前，至城下，圍其西北。樓船亦徃會，居城南。右渠遂堅守城，數月未能下。",
       "mentions": [
-        {
-          "start": 0,
-          "end": 3,
-          "name": "左将军",
-          "type": "concepts"
-        },
-        {
-          "start": 4,
-          "end": 6,
-          "name": "浿水",
-          "type": "places"
-        },
-        {
-          "start": 31,
-          "end": 33,
-          "name": "卫右渠（朝鲜王右渠）",
-          "type": "persons"
-        }
+        {"entity_name": "荀彘（左将军）", "entity_type": "person", "surface": "左將軍"},
+        {"entity_name": "浿水", "entity_type": "place", "surface": "浿水"},
+        {"entity_name": "王险城", "entity_type": "place", "surface": "城下/城"},
+        {"entity_name": "杨仆（楼船将军）", "entity_type": "person", "surface": "樓船"},
+        {"entity_name": "卫右渠（朝鲜王）", "entity_type": "person", "surface": "右渠"},
+        {"entity_name": "两将合围王险", "entity_type": "event", "surface": "左將軍……圍其西北。樓船……居城南。右渠遂堅守城，數月未能下"}
       ]
     },
     {
       "para_id": "p7",
       "text": "左將軍素侍中，幸，將燕代卒，悍，乘勝，軍多驕。樓船將齊卒，入海，固已多敗亡；其先與右渠戰，因辱亡卒，卒皆恐，將心慙，其圍右渠，常持和節。左將軍急擊之，朝鮮大臣乃陰間使人私約降樓船，徃來言，尚未肯決。左將軍數與樓船期戰，樓船欲急就其約，不會；左將軍亦使人求間郤降下朝鮮，朝鮮不肯，心附樓船：以故兩將不相能。左將軍心意樓船前有失軍罪，今與朝鮮私善而又不降，疑其有反計，未敢發。天子曰將率不能，前乃使衞山諭降右渠，右渠遣太子，山使不能剸決，與左將軍計相誤，卒沮約。今兩將圍城，又乖異，以故久不決。使濟南太守公孫遂徃征之，有便宜得以從事。遂至，左將軍曰：「朝鮮當下久矣，不下者有狀。」言樓船數期不會，具以素所意告遂，曰：「今如此不取，恐爲大害，非獨樓船，又且與朝鮮共滅吾軍。」遂亦以爲然，而以節召樓船將軍入左將軍營計事，即命左將軍麾下執捕樓船將軍，并其軍，以報天子。天子誅遂。",
       "mentions": [
-        {
-          "start": 0,
-          "end": 3,
-          "name": "左将军",
-          "type": "concepts"
-        },
-        {
-          "start": 10,
-          "end": 13,
-          "name": "燕代卒",
-          "type": "concepts"
-        },
-        {
-          "start": 26,
-          "end": 28,
-          "name": "齐卒",
-          "type": "concepts"
-        },
-        {
-          "start": 41,
-          "end": 43,
-          "name": "卫右渠（朝鲜王右渠）",
-          "type": "persons"
-        },
-        {
-          "start": 60,
-          "end": 62,
-          "name": "卫右渠（朝鲜王右渠）",
-          "type": "persons"
-        },
-        {
-          "start": 68,
-          "end": 71,
-          "name": "左将军",
-          "type": "concepts"
-        },
-        {
-          "start": 75,
-          "end": 77,
-          "name": "朝鲜",
-          "type": "places"
-        },
-        {
-          "start": 99,
-          "end": 102,
-          "name": "左将军",
-          "type": "concepts"
-        },
-        {
-          "start": 120,
-          "end": 123,
-          "name": "左将军",
-          "type": "concepts"
-        },
-        {
-          "start": 131,
-          "end": 133,
-          "name": "朝鲜",
-          "type": "places"
-        },
-        {
-          "start": 134,
-          "end": 136,
-          "name": "朝鲜",
-          "type": "places"
-        },
-        {
-          "start": 152,
-          "end": 155,
-          "name": "左将军",
-          "type": "concepts"
-        },
-        {
-          "start": 167,
-          "end": 169,
-          "name": "朝鲜",
-          "type": "places"
-        },
-        {
-          "start": 186,
-          "end": 188,
-          "name": "刘彻（汉武帝）",
-          "type": "persons"
-        },
-        {
-          "start": 201,
-          "end": 203,
-          "name": "卫右渠（朝鲜王右渠）",
-          "type": "persons"
-        },
-        {
-          "start": 204,
-          "end": 206,
-          "name": "卫右渠（朝鲜王右渠）",
-          "type": "persons"
-        },
-        {
-          "start": 207,
-          "end": 209,
-          "name": "朝鲜太子",
-          "type": "persons"
-        },
-        {
-          "start": 218,
-          "end": 221,
-          "name": "左将军",
-          "type": "concepts"
-        },
-        {
-          "start": 246,
-          "end": 248,
-          "name": "济南（郡）",
-          "type": "places"
-        },
-        {
-          "start": 250,
-          "end": 253,
-          "name": "公孙遂（济南太守）",
-          "type": "persons"
-        },
-        {
-          "start": 268,
-          "end": 271,
-          "name": "左将军",
-          "type": "concepts"
-        },
-        {
-          "start": 274,
-          "end": 276,
-          "name": "朝鲜",
-          "type": "places"
-        },
-        {
-          "start": 326,
-          "end": 328,
-          "name": "朝鲜",
-          "type": "places"
-        },
-        {
-          "start": 344,
-          "end": 348,
-          "name": "楼船将军",
-          "type": "concepts"
-        },
-        {
-          "start": 349,
-          "end": 352,
-          "name": "左将军",
-          "type": "concepts"
-        },
-        {
-          "start": 358,
-          "end": 361,
-          "name": "左将军",
-          "type": "concepts"
-        },
-        {
-          "start": 365,
-          "end": 369,
-          "name": "楼船将军",
-          "type": "concepts"
-        },
-        {
-          "start": 376,
-          "end": 378,
-          "name": "刘彻（汉武帝）",
-          "type": "persons"
-        },
-        {
-          "start": 379,
-          "end": 381,
-          "name": "刘彻（汉武帝）",
-          "type": "persons"
-        }
+        {"entity_name": "荀彘（左将军）", "entity_type": "person", "surface": "左將軍"},
+        {"entity_name": "燕", "entity_type": "place", "surface": "燕"},
+        {"entity_name": "代", "entity_type": "place", "surface": "代"},
+        {"entity_name": "杨仆（楼船将军）", "entity_type": "person", "surface": "樓船/樓船將軍"},
+        {"entity_name": "齐", "entity_type": "place", "surface": "齊"},
+        {"entity_name": "卫右渠（朝鲜王）", "entity_type": "person", "surface": "右渠"},
+        {"entity_name": "刘彻（汉武帝）", "entity_type": "person", "surface": "天子"},
+        {"entity_name": "卫山", "entity_type": "person", "surface": "衞山"},
+        {"entity_name": "公孙遂", "entity_type": "person", "surface": "公孫遂/濟南太守公孫遂/遂"},
+        {"entity_name": "济南", "entity_type": "place", "surface": "濟南"},
+        {"entity_name": "便宜从事", "entity_type": "concept", "surface": "便宜得以從事"},
+        {"entity_name": "持节", "entity_type": "concept", "surface": "節"},
+        {"entity_name": "两将猜忌不和", "entity_type": "event", "surface": "兩將不相能"},
+        {"entity_name": "公孙遂执杨仆", "entity_type": "event", "surface": "以節召樓船將軍……執捕樓船將軍，并其軍……天子誅遂"}
       ]
     },
     {
       "para_id": "p8",
       "text": "左將軍已并兩軍，即急擊朝鮮。朝鮮相路人、相韓陰、尼谿相參、將軍王唊⟦0⟧⟦1⟧相與謀曰：「始欲降樓船，樓船今執，獨左將軍并將，戰益急，恐不能與戰，王又不肯降。」陰、唊、路人皆亡降漢。路人道死。元封三年夏，尼谿相參乃使人殺朝鮮王右渠來降。王險城未下，故右渠之大臣成巳又反，復攻吏。左將軍使右渠子長降、⟦2⟧相路人之子最⟦3⟧告諭其民，誅成巳，以故遂定朝鮮，爲四郡。⟦4⟧封參爲澅清侯，⟦5⟧⟦6⟧陰爲荻苴侯，⟦7⟧⟦8⟧唊爲平州侯，⟦9⟧長爲幾侯。⟦10⟧⟦11⟧最以父死頗有功，爲溫陽侯。⟦12⟧",
       "mentions": [
-        {
-          "start": 0,
-          "end": 3,
-          "name": "左将军",
-          "type": "concepts"
-        },
-        {
-          "start": 11,
-          "end": 13,
-          "name": "朝鲜",
-          "type": "places"
-        },
-        {
-          "start": 14,
-          "end": 19,
-          "name": "路人（朝鲜相）",
-          "type": "persons"
-        },
-        {
-          "start": 21,
-          "end": 23,
-          "name": "韩阴（朝鲜相）",
-          "type": "persons"
-        },
-        {
-          "start": 24,
-          "end": 28,
-          "name": "参（尼谿相）",
-          "type": "persons"
-        },
-        {
-          "start": 29,
-          "end": 33,
-          "name": "王唊（朝鲜将军）",
-          "type": "persons"
-        },
-        {
-          "start": 57,
-          "end": 60,
-          "name": "左将军",
-          "type": "concepts"
-        },
-        {
-          "start": 84,
-          "end": 86,
-          "name": "路人（朝鲜相）",
-          "type": "persons"
-        },
-        {
-          "start": 91,
-          "end": 93,
-          "name": "路人（朝鲜相）",
-          "type": "persons"
-        },
-        {
-          "start": 96,
-          "end": 100,
-          "name": "元封三年",
-          "type": "concepts"
-        },
-        {
-          "start": 102,
-          "end": 106,
-          "name": "参（尼谿相）",
-          "type": "persons"
-        },
-        {
-          "start": 110,
-          "end": 115,
-          "name": "卫右渠（朝鲜王右渠）",
-          "type": "persons"
-        },
-        {
-          "start": 118,
-          "end": 121,
-          "name": "王险（城）",
-          "type": "places"
-        },
-        {
-          "start": 125,
-          "end": 127,
-          "name": "卫右渠（朝鲜王右渠）",
-          "type": "persons"
-        },
-        {
-          "start": 130,
-          "end": 132,
-          "name": "成巳",
-          "type": "persons"
-        },
-        {
-          "start": 139,
-          "end": 142,
-          "name": "左将军",
-          "type": "concepts"
-        },
-        {
-          "start": 143,
-          "end": 148,
-          "name": "长降（右渠子）",
-          "type": "persons"
-        },
-        {
-          "start": 153,
-          "end": 158,
-          "name": "最（路人子）",
-          "type": "persons"
-        },
-        {
-          "start": 167,
-          "end": 169,
-          "name": "成巳",
-          "type": "persons"
-        },
-        {
-          "start": 174,
-          "end": 176,
-          "name": "朝鲜",
-          "type": "places"
-        },
-        {
-          "start": 178,
-          "end": 180,
-          "name": "四郡（乐浪/临屯/玄菟/真番）",
-          "type": "places"
-        },
-        {
-          "start": 187,
-          "end": 189,
-          "name": "澅清",
-          "type": "places"
-        },
-        {
-          "start": 199,
-          "end": 201,
-          "name": "荻苴",
-          "type": "places"
-        },
-        {
-          "start": 211,
-          "end": 213,
-          "name": "平州",
-          "type": "places"
-        },
-        {
-          "start": 240,
-          "end": 242,
-          "name": "温阳",
-          "type": "places"
-        }
+        {"entity_name": "荀彘（左将军）", "entity_type": "person", "surface": "左將軍"},
+        {"entity_name": "朝鲜", "entity_type": "place", "surface": "朝鮮"},
+        {"entity_name": "路人（朝鲜相）", "entity_type": "person", "surface": "路人/朝鮮相路人/相路人"},
+        {"entity_name": "韩阴（朝鲜相）", "entity_type": "person", "surface": "韓陰/相韓陰/陰"},
+        {"entity_name": "参（尼谿相）", "entity_type": "person", "surface": "參/尼谿相參"},
+        {"entity_name": "王唊（朝鲜将军）", "entity_type": "person", "surface": "王唊/將軍王唊/唊"},
+        {"entity_name": "杨仆（楼船将军）", "entity_type": "person", "surface": "樓船"},
+        {"entity_name": "卫右渠（朝鲜王）", "entity_type": "person", "surface": "右渠/朝鮮王右渠"},
+        {"entity_name": "王险城", "entity_type": "place", "surface": "王險城"},
+        {"entity_name": "成巳", "entity_type": "person", "surface": "成巳"},
+        {"entity_name": "长降（几侯）", "entity_type": "person", "surface": "長降/右渠子長降/長"},
+        {"entity_name": "最（温阳侯）", "entity_type": "person", "surface": "最/相路人之子最"},
+        {"entity_name": "尼谿", "entity_type": "place", "surface": "尼谿"},
+        {"entity_name": "汉四郡", "entity_type": "concept", "surface": "四郡"},
+        {"entity_name": "朝鲜四大臣谋降", "entity_type": "event", "surface": "朝鮮相路人……相與謀……陰、唊、路人皆亡降漢。路人道死"},
+        {"entity_name": "参杀右渠降汉", "entity_type": "event", "surface": "尼谿相參乃使人殺朝鮮王右渠來降"},
+        {"entity_name": "成巳反被诛", "entity_type": "event", "surface": "成巳又反……誅成巳"},
+        {"entity_name": "平定朝鲜置四郡", "entity_type": "event", "surface": "遂定朝鮮，爲四郡"},
+        {"entity_name": "五人封侯", "entity_type": "event", "surface": "封參爲澅清侯……爲溫陽侯"}
       ]
     },
     {
       "para_id": "p9",
-      "text": "左將軍徵至，坐争功相嫉，乖計，弃市。樓船將軍亦坐兵至列口，⟦0⟧當待左將軍，擅先縱，失亡多，當誅，贖爲庶人。",
+      "text": "左將軍徵至，坐爭功相嫉，乖計，弃市。樓船將軍亦坐兵至列口，⟦0⟧當待左將軍，擅先縱，失亡多，當誅，贖爲庶人。",
       "mentions": [
-        {
-          "start": 0,
-          "end": 3,
-          "name": "左将军",
-          "type": "concepts"
-        },
-        {
-          "start": 15,
-          "end": 17,
-          "name": "弃市",
-          "type": "concepts"
-        },
-        {
-          "start": 18,
-          "end": 22,
-          "name": "楼船将军",
-          "type": "concepts"
-        },
-        {
-          "start": 26,
-          "end": 28,
-          "name": "列口",
-          "type": "places"
-        },
-        {
-          "start": 34,
-          "end": 37,
-          "name": "左将军",
-          "type": "concepts"
-        },
-        {
-          "start": 49,
-          "end": 53,
-          "name": "赎为庶人",
-          "type": "concepts"
-        }
+        {"entity_name": "荀彘（左将军）", "entity_type": "person", "surface": "左將軍"},
+        {"entity_name": "杨仆（楼船将军）", "entity_type": "person", "surface": "樓船將軍"},
+        {"entity_name": "列口", "entity_type": "place", "surface": "列口"},
+        {"entity_name": "弃市", "entity_type": "concept", "surface": "弃市"},
+        {"entity_name": "赎为庶人", "entity_type": "concept", "surface": "贖爲庶人"},
+        {"entity_name": "荀彘争功弃市", "entity_type": "event", "surface": "左將軍……坐爭功相嫉，乖計，弃市"},
+        {"entity_name": "杨仆失律赎庶", "entity_type": "event", "surface": "樓船將軍……當誅，贖爲庶人"}
       ]
     },
     {
       "para_id": "p10",
       "text": "太史公曰：右渠負固，國以絕祀。涉何誣功，爲兵發首。樓船將狹，⟦0⟧及難離咎。悔失番禺，乃反見疑。荀彘爭勞，與遂皆誅。兩軍俱辱，將率莫侯矣。",
       "mentions": [
-        {
-          "start": 5,
-          "end": 7,
-          "name": "卫右渠（朝鲜王右渠）",
-          "type": "persons"
-        },
-        {
-          "start": 7,
-          "end": 9,
-          "name": "负固",
-          "type": "concepts"
-        },
-        {
-          "start": 15,
-          "end": 17,
-          "name": "涉何",
-          "type": "persons"
-        },
-        {
-          "start": 40,
-          "end": 42,
-          "name": "番禺",
-          "type": "places"
-        },
-        {
-          "start": 48,
-          "end": 50,
-          "name": "荀彘（左将军）",
-          "type": "persons"
-        }
+        {"entity_name": "司马迁（太史公）", "entity_type": "person", "surface": "太史公"},
+        {"entity_name": "卫右渠（朝鲜王）", "entity_type": "person", "surface": "右渠"},
+        {"entity_name": "涉何", "entity_type": "person", "surface": "涉何"},
+        {"entity_name": "杨仆（楼船将军）", "entity_type": "person", "surface": "樓船"},
+        {"entity_name": "荀彘（左将军）", "entity_type": "person", "surface": "荀彘"},
+        {"entity_name": "公孙遂", "entity_type": "person", "surface": "遂"},
+        {"entity_name": "卫山", "entity_type": "person", "surface": "（山）與遂皆誅"},
+        {"entity_name": "番禺", "entity_type": "place", "surface": "番禺"}
       ]
     },
     {
       "para_id": "p11",
       "text": "索隱述贊曰：衞滿燕人，朝鮮是王。王險置都，路人作相。右渠首羌，涉何誷上。兆禍自斯，狐疑二將。山、遂伏法，紛紜無狀。",
       "mentions": [
-        {
-          "start": 11,
-          "end": 13,
-          "name": "朝鲜",
-          "type": "places"
-        },
-        {
-          "start": 16,
-          "end": 18,
-          "name": "王险（城）",
-          "type": "places"
-        },
-        {
-          "start": 21,
-          "end": 23,
-          "name": "路人（朝鲜相）",
-          "type": "persons"
-        },
-        {
-          "start": 26,
-          "end": 28,
-          "name": "卫右渠（朝鲜王右渠）",
-          "type": "persons"
-        },
-        {
-          "start": 31,
-          "end": 33,
-          "name": "涉何",
-          "type": "persons"
-        }
+        {"entity_name": "司马贞", "entity_type": "person", "surface": "索隱述贊"},
+        {"entity_name": "卫满（朝鲜王）", "entity_type": "person", "surface": "衞滿"},
+        {"entity_name": "朝鲜", "entity_type": "place", "surface": "朝鮮"},
+        {"entity_name": "王险城", "entity_type": "place", "surface": "王險"},
+        {"entity_name": "路人（朝鲜相）", "entity_type": "person", "surface": "路人"},
+        {"entity_name": "卫右渠（朝鲜王）", "entity_type": "person", "surface": "右渠"},
+        {"entity_name": "涉何", "entity_type": "person", "surface": "涉何"},
+        {"entity_name": "杨仆（楼船将军）", "entity_type": "person", "surface": "二將（之一）"},
+        {"entity_name": "荀彘（左将军）", "entity_type": "person", "surface": "二將（之一）"},
+        {"entity_name": "卫山", "entity_type": "person", "surface": "山"},
+        {"entity_name": "公孙遂", "entity_type": "person", "surface": "遂"},
+        {"entity_name": "索隐述赞", "entity_type": "concept", "surface": "索隱述贊"}
       ]
     }
   ]
