@@ -1,0 +1,67 @@
+{
+  "book": "史记",
+  "chapter": "律书第三",
+  "persons": [
+    {"id": "lvshu-p1", "name": "周武王", "alias": ["姬发", "武王"], "dynasty": "西周", "role": "周朝开国君主，伐纣吹律听声", "evidence": [3], "global_same_as": ""},
+    {"id": "lvshu-p2", "name": "商纣王", "alias": ["帝辛", "纣"], "dynasty": "商朝末代君主", "role": "被武王讨伐，商朝灭亡", "evidence": [3], "global_same_as": ""},
+    {"id": "lvshu-p3", "name": "黄帝", "alias": ["轩辕"], "dynasty": "上古", "role": "五帝之一，涿鹿之战胜炎帝", "evidence": [5], "global_same_as": ""},
+    {"id": "lvshu-p4", "name": "炎帝", "alias": ["神农氏"], "dynasty": "上古", "role": "与黄帝战于涿鹿兵败", "evidence": [5], "global_same_as": ""},
+    {"id": "lvshu-p5", "name": "颛顼", "alias": [], "dynasty": "上古", "role": "五帝之一，征共工", "evidence": [5], "global_same_as": ""},
+    {"id": "lvshu-p6", "name": "共工", "alias": [], "dynasty": "上古", "role": "水官，作乱被颛顼平定", "evidence": [5], "global_same_as": ""},
+    {"id": "lvshu-p7", "name": "成汤", "alias": ["商汤", "天乙"], "dynasty": "商朝开国君主", "role": "南巢伐桀灭夏", "evidence": [5], "global_same_as": ""},
+    {"id": "lvshu-p8", "name": "咎犯", "alias": ["狐偃", "子犯"], "dynasty": "春秋", "role": "晋文公谋臣", "evidence": [7], "global_same_as": ""},
+    {"id": "lvshu-p9", "name": "王子成父", "alias": ["王子"], "dynasty": "春秋", "role": "齐国名将", "evidence": [7], "global_same_as": ""},
+    {"id": "lvshu-p10", "name": "孙武", "alias": ["孙子"], "dynasty": "春秋", "role": "吴国名将，著孙子兵法", "evidence": [7], "global_same_as": ""},
+    {"id": "lvshu-p11", "name": "秦始皇", "alias": ["嬴政"], "dynasty": "秦朝", "role": "统一六国，派王翦蒙恬戍边", "evidence": [8], "global_same_as": ""},
+    {"id": "lvshu-p12", "name": "王翦", "alias": [], "dynasty": "战国", "role": "秦国名将", "evidence": [8], "global_same_as": ""},
+    {"id": "lvshu-p13", "name": "蒙恬", "alias": [], "dynasty": "秦朝", "role": "秦将，北击匈奴", "evidence": [8], "global_same_as": ""},
+    {"id": "lvshu-p14", "name": "陈胜", "alias": ["陈涉"], "dynasty": "秦末", "role": "大泽乡起义领袖", "evidence": [8], "global_same_as": ""},
+    {"id": "lvshu-p15", "name": "吴广", "alias": [], "dynasty": "秦末", "role": "大泽乡起义领袖", "evidence": [8], "global_same_as": ""},
+    {"id": "lvshu-p16", "name": "汉高祖", "alias": ["刘邦"], "dynasty": "西汉", "role": "汉朝开国皇帝，定天下", "evidence": [9], "global_same_as": ""},
+    {"id": "lvshu-p17", "name": "汉文帝", "alias": ["刘恒", "孝文帝"], "dynasty": "西汉", "role": "西汉第三代皇帝，偃武修文休养生息", "evidence": [9], "global_same_as": ""},
+    {"id": "lvshu-p18", "name": "陈武", "alias": ["将军武"], "dynasty": "西汉", "role": "西汉将军，建议文帝征伐南越朝鲜", "evidence": [9], "global_same_as": ""}
+  ],
+  "places": [
+    {"id": "lvshu-pl1", "name": "涿鹿", "type": "古战场，黄帝败炎帝处", "evidence": [5], "global_same_as": ""},
+    {"id": "lvshu-pl2", "name": "南巢", "type": "地名，成汤流放夏桀处", "evidence": [5], "global_same_as": ""},
+    {"id": "lvshu-pl3", "name": "晋国", "type": "诸侯国", "evidence": [7], "global_same_as": ""},
+    {"id": "lvshu-pl4", "name": "齐国", "type": "诸侯国", "evidence": [7], "global_same_as": ""},
+    {"id": "lvshu-pl5", "name": "吴国", "type": "诸侯国", "evidence": [7], "global_same_as": ""},
+    {"id": "lvshu-pl6", "name": "匈奴", "type": "北方游牧民族/政权", "evidence": [8,9], "global_same_as": ""},
+    {"id": "lvshu-pl7", "name": "百越", "type": "南方部族/区域", "evidence": [8], "global_same_as": ""},
+    {"id": "lvshu-pl8", "name": "大泽乡", "type": "地名，陈胜吴广起义处", "evidence": [8], "global_same_as": ""},
+    {"id": "lvshu-pl9", "name": "南越", "type": "南方政权/区域", "evidence": [9], "global_same_as": ""},
+    {"id": "lvshu-pl10", "name": "朝鲜", "type": "东北方政权/区域", "evidence": [9], "global_same_as": ""}
+  ],
+  "events": [
+    {"id": "lvshu-e1", "name": "武王伐纣吹律听声", "dynasty": "商末周初", "time": "周武王十一年", "evidence": [3], "description": "武王伐纣出征前吹律管听声候气，预测吉凶，得宫声，遂克商", "global_same_as": ""},
+    {"id": "lvshu-e2", "name": "涿鹿之战", "dynasty": "上古", "evidence": [5], "description": "黄帝与炎帝战于涿鹿之野，平定炎帝之难", "global_same_as": ""},
+    {"id": "lvshu-e3", "name": "颛顼征共工", "dynasty": "上古", "evidence": [5], "description": "颛顼诛共工，平定水患", "global_same_as": ""},
+    {"id": "lvshu-e4", "name": "成汤南巢伐夏", "dynasty": "夏末商初", "evidence": [5], "description": "商汤伐桀于南巢，灭夏建商", "global_same_as": ""},
+    {"id": "lvshu-e5", "name": "秦始皇统一六国", "dynasty": "秦朝", "evidence": [8], "description": "秦王政用王翦等将，灭六国统一天下，南面称帝", "global_same_as": ""},
+    {"id": "lvshu-e6", "name": "蒙恬北击匈奴", "dynasty": "秦朝", "evidence": [8], "description": "秦统一后派蒙恬北筑长城，戍边击匈奴", "global_same_as": ""},
+    {"id": "lvshu-e7", "name": "陈胜吴广大泽乡起义", "dynasty": "秦末", "time": "秦二世元年", "evidence": [8], "description": "陈胜吴广在大泽乡揭竿起义，天下响应，秦朝灭亡", "global_same_as": ""},
+    {"id": "lvshu-e8", "name": "汉文帝偃武修文休养生息", "dynasty": "西汉", "time": "孝文帝时期", "evidence": [9], "description": "文帝即位后不兴兵戈，与匈奴和亲，轻徭薄赋，天下殷富", "global_same_as": ""}
+  ],
+  "institutions": [
+    {"id": "lvshu-i1", "name": "六律", "type": "乐律制度", "description": "黄钟、太簇、姑洗、蕤宾、夷则、无射六阳律，与六吕合为十二律，为万事度量根本", "evidence": [1], "global_same_as": ""},
+    {"id": "lvshu-i2", "name": "三分损益法", "type": "乐律计算方法", "description": "古代生律方法：三分去一（乘2/3）生下方五度，三分益一（乘4/3）生上方四度，依次生出十二律", "evidence": [13], "global_same_as": ""},
+    {"id": "lvshu-i3", "name": "十二律", "type": "乐律体系", "description": "黄钟、大吕、太簇、夹钟、姑洗、仲吕、蕤宾、林钟、夷则、南吕、无射、应钟，对应十二月十二地支", "evidence": [14,19], "global_same_as": ""},
+    {"id": "lvshu-i4", "name": "七正", "alias": ["七政"], "type": "天文概念", "description": "日、月、金、木、水、火、土七星，为判断节令的标准", "evidence": [12], "global_same_as": ""},
+    {"id": "lvshu-i5", "name": "二十八舍", "alias": ["二十八宿"], "type": "天文概念", "description": "古代将黄道附近恒星分为二十八组，作为观测日月五星运行的坐标", "evidence": [12], "global_same_as": ""},
+    {"id": "lvshu-i6", "name": "五度", "type": "度量衡制度", "description": "分、寸、尺、丈、引，基于黄钟长度制定，十进制度量单位", "evidence": [18], "global_same_as": ""}
+  ],
+  "relations": [
+    {"id": "lvshu-r1", "type": "defeated", "subject": "周武王", "object": "商纣王", "description": "武王伐纣，克商于牧野", "evidence": [3]},
+    {"id": "lvshu-r2", "type": "defeated", "subject": "黄帝", "object": "炎帝", "description": "涿鹿之战黄帝胜炎帝", "evidence": [5]},
+    {"id": "lvshu-r3", "type": "defeated", "subject": "颛顼", "object": "共工", "evidence": [5]},
+    {"id": "lvshu-r4", "type": "defeated", "subject": "成汤", "object": "夏桀", "description": "南巢之伐灭夏", "evidence": [5]},
+    {"id": "lvshu-r5", "type": "served_as", "subject": "咎犯", "object": "晋国谋臣", "evidence": [7]},
+    {"id": "lvshu-r6", "type": "served_as", "subject": "孙武", "object": "吴国将军", "evidence": [7]},
+    {"id": "lvshu-r7", "type": "appointed", "subject": "秦始皇", "object": "王翦", "evidence": [8]},
+    {"id": "lvshu-r8", "type": "appointed", "subject": "秦始皇", "object": "蒙恬", "evidence": [8]},
+    {"id": "lvshu-r9", "type": "led_rebellion", "subject": "陈胜", "object": "秦朝", "description": "大泽乡起义，反抗秦朝暴政", "evidence": [8]},
+    {"id": "lvshu-r10", "type": "advised", "subject": "陈武", "object": "汉文帝", "description": "建议文帝出兵征伐南越、朝鲜", "evidence": [9]},
+    {"id": "lvshu-r11", "type": "rejected", "subject": "汉文帝", "object": "陈武征伐建议", "description": "文帝以休养生息为由拒绝用兵，与匈奴和亲", "evidence": [9]}
+  ]
+}
