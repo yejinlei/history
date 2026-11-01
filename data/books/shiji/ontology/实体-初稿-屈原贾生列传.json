@@ -1,0 +1,1263 @@
+{
+  "book": "shiji",
+  "chapter_id": "shiji-屈原賈生列傳第二十四",
+  "chapter_title": "屈原贾生列传第二十四",
+  "version": "1.0",
+  "generated_at": "2026-11-01",
+  "note": "收录本篇主线人物、地理、事件、概念与关系；三篇辞赋以concepts层收录。",
+  "entities": {
+    "persons": [
+      {
+        "name": "屈原",
+        "alias": [
+          "屈平",
+          "三閭大夫"
+        ],
+        "note": "名平字原，楚之同姓（屈瑕之后），楚怀王左徒、三闾大夫。博闻强志，明于治乱，娴于辞令；被谗见疏，作《离骚》；怀王入秦后顷襄王迁之江南；作《怀沙》，怀石投汨罗而死。开创楚辞，《离骚》《天问》《招魂》《哀郢》等传于后世。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p0",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p1",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p2",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p3",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p6",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p8",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p9",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p10",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p11",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p16",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p32",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p33"
+        ]
+      },
+      {
+        "name": "楚怀王",
+        "alias": [
+          "懷王"
+        ],
+        "note": "楚威王之子，名熊槐，前328—前299年在位；信张仪、郑袖、靳尚，疏屈原，被骗入秦扣留，前296年死于秦。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p0",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p1",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p3",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p4",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p5",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p6",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p8"
+        ]
+      },
+      {
+        "name": "上官大夫靳尚",
+        "alias": [
+          "上官大夫",
+          "靳尚"
+        ],
+        "note": "楚大夫，与屈原同列，争宠夺宪令，谗疏屈原；一说上官大夫与靳尚为二人，王逸以为一人。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p1",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p4",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p8",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p9"
+        ]
+      },
+      {
+        "name": "张仪",
+        "alias": [],
+        "note": "魏人，战国连横家，相秦惠王；佯去秦，以商於六百里诳楚绝齐。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p3",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p4"
+        ]
+      },
+      {
+        "name": "郑袖",
+        "alias": [
+          "南后"
+        ],
+        "note": "楚怀王宠姬，封南后；受张仪靳尚之贿说释张仪。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p4",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p8"
+        ]
+      },
+      {
+        "name": "子兰",
+        "alias": [],
+        "note": "楚怀王少子，顷襄王弟；劝怀王入秦；顷襄王时为令尹，使上官大夫短屈原。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p6",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p7",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p8",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p9"
+        ]
+      },
+      {
+        "name": "楚顷襄王",
+        "alias": [
+          "頃襄王"
+        ],
+        "note": "名横，怀王子，前298—前263年在位；弟子兰为令尹；怒迁屈原于江南。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p7",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p8",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p9"
+        ]
+      },
+      {
+        "name": "屈匄",
+        "alias": [],
+        "note": "楚将，丹阳之战被秦虏。匄音gài。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p3"
+        ]
+      },
+      {
+        "name": "唐昧",
+        "alias": [
+          "唐眛",
+          "唐蔑"
+        ],
+        "note": "楚将，垂沙之役（前301）兵败被杀。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p5"
+        ]
+      },
+      {
+        "name": "渔父",
+        "alias": [
+          "漁父"
+        ],
+        "note": "楚辞《渔父》篇中隐者形象，劝屈原与世推移；或以为寓言假托之人。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p10"
+        ]
+      },
+      {
+        "name": "宋玉",
+        "alias": [],
+        "note": "楚大夫，屈原之后最著名楚辞作家，作《九辩》《风赋》《高唐赋》《神女赋》《登徒子好色赋》。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p17"
+        ]
+      },
+      {
+        "name": "唐勒",
+        "alias": [],
+        "note": "楚大夫，与宋玉同时以赋著称，作品多佚。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p17"
+        ]
+      },
+      {
+        "name": "景差",
+        "alias": [
+          "景瑳"
+        ],
+        "note": "楚大夫，与宋玉同列，《楚辞》中《大招》或题景差作。差音cuō。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p17"
+        ]
+      },
+      {
+        "name": "贾谊",
+        "alias": [
+          "賈生",
+          "賈長沙",
+          "賈太傅"
+        ],
+        "note": "西汉洛阳人（前200—前168），政论家、辞赋家；文帝初为博士，超迁太中大夫，主改正朔易服色、削藩；为周勃灌婴等所谗，出为长沙王太傅；渡湘吊屈原，作《吊屈原赋》《𫛳鸟赋》；后为梁怀王太傅；怀王堕马死，谊自伤哭泣岁余亦死，年三十三。有《过秦论》《治安策》《论积贮疏》等名篇。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p18",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p19",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p20",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p21",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p22",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p25",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p29",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p30",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p31",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p32"
+        ]
+      },
+      {
+        "name": "吴公",
+        "alias": [],
+        "note": "汉初河南郡守，上蔡人，与李斯同邑、尝学事李斯；治平天下第一，征为廷尉；荐贾谊。史失其名。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p19"
+        ]
+      },
+      {
+        "name": "汉文帝",
+        "alias": [
+          "孝文帝",
+          "孝文皇帝"
+        ],
+        "note": "汉高祖中子，名刘恒，前180—前157年在位；文景之治。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p19",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p20",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p21",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p29",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p30",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p31"
+        ]
+      },
+      {
+        "name": "李斯",
+        "alias": [],
+        "note": "楚上蔡人，从荀卿学，秦始皇丞相；吴公同乡、吴公之师。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p19"
+        ]
+      },
+      {
+        "name": "周勃",
+        "alias": [
+          "絳侯"
+        ],
+        "note": "汉初功臣，封绛侯，文帝初为右丞相。与灌婴等诋毁贾谊。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p21"
+        ]
+      },
+      {
+        "name": "灌婴",
+        "alias": [
+          "潁陰侯"
+        ],
+        "note": "汉初功臣，封颍阴侯，文帝时为太尉、丞相。与周勃共毁贾谊。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p21"
+        ]
+      },
+      {
+        "name": "张相如",
+        "alias": [
+          "東陽侯"
+        ],
+        "note": "汉初功臣，封东阳侯，曾为大将军。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p21"
+        ]
+      },
+      {
+        "name": "冯敬",
+        "alias": [],
+        "note": "汉初为御史大夫，与绛灌等共毁贾谊。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p21"
+        ]
+      },
+      {
+        "name": "梁怀王刘揖",
+        "alias": [
+          "梁懷王",
+          "懷王"
+        ],
+        "note": "文帝少子，名揖（一作胜），好《诗》《书》；堕马死，无后。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p29",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p31"
+        ]
+      },
+      {
+        "name": "淮南厉王刘长",
+        "alias": [
+          "淮南厲王"
+        ],
+        "note": "文帝弟，名长，封淮南王，以谋反谪死蜀道，谥厉。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p30"
+        ]
+      },
+      {
+        "name": "贾嘉",
+        "alias": [
+          "賈嘉"
+        ],
+        "note": "贾谊之孙，好学承家；武帝时为郡守，昭帝时至九卿，与司马迁通书。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p31"
+        ]
+      },
+      {
+        "name": "司马迁",
+        "alias": [
+          "太史公"
+        ],
+        "note": "本传作者，自称读屈贾诸篇悲其志、适长沙观沉渊垂涕。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p32"
+        ]
+      }
+    ],
+    "places": [
+      {
+        "name": "楚国",
+        "alias": [
+          "楚"
+        ],
+        "note": "战国七雄之一，先秦芈姓大国，战国末都郢（今湖北荆州），后迁陈、寿春；前223年为秦所灭。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p0",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p3",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p6",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p17",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p18"
+        ]
+      },
+      {
+        "name": "汉中",
+        "alias": [],
+        "note": "秦楚间地，今陕南汉中盆地；楚为秦败于丹阳，失汉中。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p3",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p4"
+        ]
+      },
+      {
+        "name": "商於",
+        "alias": [
+          "商、於"
+        ],
+        "note": "秦地，在今陕西商洛至河南内乡一带；张仪诈以商於六百里诳楚。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p3"
+        ]
+      },
+      {
+        "name": "丹阳（丹淅）",
+        "alias": [
+          "丹、淅"
+        ],
+        "note": "丹水、淅水流域，今豫陕鄂交界，前312年秦败楚处。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p3"
+        ]
+      },
+      {
+        "name": "蓝田",
+        "alias": [],
+        "note": "秦地，今陕西蓝田西；楚深入伐秦战于蓝田。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p3"
+        ]
+      },
+      {
+        "name": "邓",
+        "alias": [],
+        "note": "楚邑，在今河南邓州一带；魏袭楚至邓。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p3"
+        ]
+      },
+      {
+        "name": "武关",
+        "alias": [
+          "武關"
+        ],
+        "note": "秦南关，在今陕西丹凤东南；怀王入武关被扣。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p6"
+        ]
+      },
+      {
+        "name": "赵国",
+        "alias": [
+          "趙"
+        ],
+        "note": "七雄之一；怀王逃奔赵、赵不纳。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p6"
+        ]
+      },
+      {
+        "name": "汨罗江",
+        "alias": [
+          "汨羅"
+        ],
+        "note": "水名，在今湖南汨罗入洞庭湖，屈原自沉处；汨音mì。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p16",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p18",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p22",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p32"
+        ]
+      },
+      {
+        "name": "沅湘",
+        "alias": [
+          "沅、湘"
+        ],
+        "note": "沅水、湘水，在今湖南入洞庭湖。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p10",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p15"
+        ]
+      },
+      {
+        "name": "长沙国",
+        "alias": [
+          "長沙"
+        ],
+        "note": "汉初吴氏长沙国（吴芮之后，时为吴差），都临湘（今长沙）；以卑湿闻名。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p18",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p21",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p22",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p25"
+        ]
+      },
+      {
+        "name": "雒阳",
+        "alias": [
+          "洛陽"
+        ],
+        "note": "贾谊故里，今河南洛阳。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p19"
+        ]
+      },
+      {
+        "name": "河南郡",
+        "alias": [
+          "河南"
+        ],
+        "note": "汉郡，治洛阳；吴公为河南守。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p19"
+        ]
+      },
+      {
+        "name": "宣室",
+        "alias": [],
+        "note": "未央宫前殿正室；文帝问鬼神于贾生处。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p29"
+        ]
+      },
+      {
+        "name": "湘水",
+        "alias": [
+          "湘"
+        ],
+        "note": "湘江；贾谊渡湘水吊屈原。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p18",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p22"
+        ]
+      },
+      {
+        "name": "郢都",
+        "alias": [
+          "郢"
+        ],
+        "note": "楚国国都，在今湖北荆州纪南城；前278年白起破郢，屈原沉江约在此时或稍后。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p16"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "name": "屈原任左徒被信任",
+        "alias": [],
+        "note": "屈原为怀王左徒，图议国事、应对诸侯，王甚任之。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p0"
+        ]
+      },
+      {
+        "name": "上官大夫夺稿谗屈原",
+        "alias": [],
+        "note": "上官大夫欲夺宪令草稿不得，谗屈原，王怒而疏屈原。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p1"
+        ]
+      },
+      {
+        "name": "屈原作离骚",
+        "alias": [
+          "憂愁幽思作離騷"
+        ],
+        "note": "屈平疾王听之不聪，忧愁幽思而作《离骚》。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p2"
+        ]
+      },
+      {
+        "name": "张仪诈楚绝齐",
+        "alias": [],
+        "note": "秦使张仪佯去秦，以商於六百里诈楚，楚绝齐后秦负约。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p3"
+        ]
+      },
+      {
+        "name": "丹阳蓝田之战",
+        "alias": [],
+        "note": "秦败楚于丹阳，虏屈匄，取汉中；楚袭秦至蓝田，魏袭楚至邓，楚大困。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p3"
+        ]
+      },
+      {
+        "name": "张仪释归 屈原谏追",
+        "alias": [],
+        "note": "张仪复使楚，郑袖靳尚说怀王释之；屈原使齐归谏，王追不及。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p4"
+        ]
+      },
+      {
+        "name": "诸侯共击楚杀唐昧",
+        "alias": [
+          "垂沙之役"
+        ],
+        "note": "前301年诸侯共击楚，杀唐昧。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p5"
+        ]
+      },
+      {
+        "name": "怀王入秦不反",
+        "alias": [],
+        "note": "前299年秦昭王诱怀王入武关，留之求割地；怀王亡走赵不纳，前296年死于秦。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p6"
+        ]
+      },
+      {
+        "name": "顷襄王立 子兰为令尹",
+        "alias": [],
+        "note": "长子顷襄王立，弟子兰为令尹；楚人咎子兰。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p7"
+        ]
+      },
+      {
+        "name": "屈原迁江南",
+        "alias": [],
+        "note": "子兰使上官大夫短屈原于顷襄王，顷襄王怒迁之于江南。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p9"
+        ]
+      },
+      {
+        "name": "渔父问答",
+        "alias": [],
+        "note": "屈原行吟泽畔，与渔父对答「举世混浊我独清，众人皆醉我独醒」。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p10"
+        ]
+      },
+      {
+        "name": "屈原作怀沙自沉汨罗",
+        "alias": [
+          "懷沙賦",
+          "自沉汨羅"
+        ],
+        "note": "屈原作《怀沙》赋，怀石自投汨罗而死。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p11",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p12",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p13",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p14",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p15",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p16"
+        ]
+      },
+      {
+        "name": "宋玉唐勒景差继起",
+        "alias": [],
+        "note": "屈原死后，楚有宋玉唐勒景差之徒以赋见称，终莫敢直谏；楚日削，数十年为秦所灭。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p17"
+        ]
+      },
+      {
+        "name": "贾谊少以才名",
+        "alias": [],
+        "note": "贾谊年十八以能诵诗属书闻于郡中，吴公召置门下；文帝初立征为博士，一岁中超迁太中大夫。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p19",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p20"
+        ]
+      },
+      {
+        "name": "贾谊议改正朔易服色法制度",
+        "alias": [],
+        "note": "贾生以为汉兴二十余年，当改正朔、易服色、法制度、定官名、兴礼乐，色尚黄、数用五；绛灌等毁之。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p21"
+        ]
+      },
+      {
+        "name": "贾谊谪长沙王太傅",
+        "alias": [],
+        "note": "天子以贾生为长沙王太傅；贾生渡湘水吊屈原，居三年作《𫛳鸟赋》。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p21",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p22",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p25"
+        ]
+      },
+      {
+        "name": "宣室问鬼神",
+        "alias": [],
+        "note": "岁余贾生征见，文帝方受釐坐宣室，问鬼神之本；至夜半前席，叹曰「吾久不见贾生，自以为过之，今不及也」。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p29"
+        ]
+      },
+      {
+        "name": "贾谊为梁怀王太傅 王堕马死 谊自伤而卒",
+        "alias": [],
+        "note": "拜梁怀王太傅；王堕马死无后，谊自伤哭泣岁余亦死，年三十三。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p29",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p31"
+        ]
+      },
+      {
+        "name": "贾谊谏削藩不纳",
+        "alias": [],
+        "note": "文帝封淮南厉王四子为列侯，贾生谏以为患兴于此；数上疏言诸侯或连数郡，可稍削之；文帝不听。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p30"
+        ]
+      },
+      {
+        "name": "贾嘉世其家",
+        "alias": [],
+        "note": "孝武立，举贾生之孙二人至郡守；贾嘉最好学，世其家，与司马迁通书，昭帝时至九卿。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p31"
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "name": "楚辞",
+        "alias": [
+          "楚辭"
+        ],
+        "note": "以屈原《离骚》为代表的楚国韵文体裁，开汉赋先声；西汉刘向辑《楚辞》。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p0"
+        ]
+      },
+      {
+        "name": "离骚",
+        "alias": [
+          "離騷"
+        ],
+        "note": "屈原代表作，中国文学史上最长抒情诗之一，370余句，「路漫漫其修远兮」等千古名句出此；离骚者离忧也。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p2",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p32"
+        ]
+      },
+      {
+        "name": "左徒",
+        "alias": [],
+        "note": "楚官名，位仅次于令尹，入则议国事出则接宾客。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p0"
+        ]
+      },
+      {
+        "name": "三闾大夫",
+        "alias": [
+          "三閭大夫"
+        ],
+        "note": "楚官名，掌王族昭、屈、景三姓谱属、贤良教化。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p10"
+        ]
+      },
+      {
+        "name": "令尹",
+        "alias": [],
+        "note": "楚国最高官职，相当于中原各国丞相。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p7"
+        ]
+      },
+      {
+        "name": "宪令",
+        "alias": [
+          "憲令"
+        ],
+        "note": "国家法令。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p1"
+        ]
+      },
+      {
+        "name": "属草稿",
+        "alias": [
+          "屬草藁"
+        ],
+        "note": "属（zhǔ），撰写；起草未定稿。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p1"
+        ]
+      },
+      {
+        "name": "博闻强志",
+        "alias": [
+          "博聞彊志"
+        ],
+        "note": "志通记，言见闻广博、记忆力强。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p0"
+        ]
+      },
+      {
+        "name": "娴于辞令",
+        "alias": [
+          "嫺於辭令"
+        ],
+        "note": "娴（xián），熟习；擅长外交应对言辞。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p0"
+        ]
+      },
+      {
+        "name": "信而见疑 忠而被谤",
+        "alias": [],
+        "note": "诚信被怀疑、忠心遭诽谤，千古写怨名句。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p2"
+        ]
+      },
+      {
+        "name": "濯淖污泥 蝉蜕浊秽",
+        "alias": [
+          "皭然泥而不滓"
+        ],
+        "note": "出淤泥而不染之意；皭（jiào），白貌；滓（zǐ），污染。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p2"
+        ]
+      },
+      {
+        "name": "与日月争光",
+        "alias": [],
+        "note": "太史公评屈原高洁品格之辞，后为千古称誉。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p2"
+        ]
+      },
+      {
+        "name": "虎狼之国",
+        "alias": [],
+        "note": "时人评秦之语，言秦贪暴无信。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p6"
+        ]
+      },
+      {
+        "name": "举世混浊我独清 众人皆醉我独醒",
+        "alias": [],
+        "note": "屈原对渔父之语，千古名句。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p10"
+        ]
+      },
+      {
+        "name": "怀瑾握瑜",
+        "alias": [],
+        "note": "瑾、瑜皆美玉，喻怀抱美德。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p14"
+        ]
+      },
+      {
+        "name": "随波逐流",
+        "alias": [
+          "與世推移"
+        ],
+        "note": "渔父劝屈原之语。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p10"
+        ]
+      },
+      {
+        "name": "怀沙",
+        "alias": [
+          "懷沙"
+        ],
+        "note": "屈原绝笔，言怀抱沙石自沉；一说沙指长沙楚始封地。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p11"
+        ]
+      },
+      {
+        "name": "乱曰",
+        "alias": [
+          "亂曰"
+        ],
+        "note": "楚辞、汉赋末尾总结段落，总理全文；乱，理也。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p15"
+        ]
+      },
+      {
+        "name": "汨罗沉江",
+        "alias": [
+          "汨羅"
+        ],
+        "note": "屈原自沉汨罗江，后世五月初五端午节（端阳节）即缘此纪念。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p16"
+        ]
+      },
+      {
+        "name": "吊屈原赋",
+        "alias": [
+          "弔屈原賦"
+        ],
+        "note": "贾谊渡湘水所作凭吊屈原赋，借吊屈原以自伤谪居。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p18",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p22",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p23",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p24",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p32"
+        ]
+      },
+      {
+        "name": "𫛳鸟赋",
+        "alias": [
+          "服鳥賦"
+        ],
+        "note": "贾谊在长沙见𫛳（猫头鹰，楚人谓之服）入舍所作，以齐物达生自广，为汉代哲理赋开山。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p25",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p26",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p27",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p28",
+          "text:shiji:shiji-屈原賈生列傳第二十四:p32"
+        ]
+      },
+      {
+        "name": "博士",
+        "alias": [],
+        "note": "秦汉掌通古今备咨询之学官。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p19"
+        ]
+      },
+      {
+        "name": "太中大夫",
+        "alias": [],
+        "note": "郎中令属官，秩比千石，掌议论。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p20"
+        ]
+      },
+      {
+        "name": "超迁",
+        "alias": [],
+        "note": "越级提拔。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p20"
+        ]
+      },
+      {
+        "name": "改正朔易服色",
+        "alias": [
+          "改正朔"
+        ],
+        "note": "正（zhēng）朔：正月初一，即历法；改朝换代时重订历法服色的礼制更新。贾谊主张土德尚黄、数用五。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p21"
+        ]
+      },
+      {
+        "name": "色尚黄数用五",
+        "alias": [],
+        "note": "土德制度；秦水德尚黑数六，汉土德尚黄数五。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p21"
+        ]
+      },
+      {
+        "name": "宣室前席",
+        "alias": [
+          "前席"
+        ],
+        "note": "文帝听贾谊言鬼神，不觉膝之前于席；李商隐诗「可怜夜半虚前席，不问苍生问鬼神」出此。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p29"
+        ]
+      },
+      {
+        "name": "不问苍生问鬼神",
+        "alias": [],
+        "note": "李商隐《贾生》名句，叹文帝不能用贾生治国之才而徒问鬼神。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p29"
+        ]
+      },
+      {
+        "name": "祸兮福所倚福兮祸所伏",
+        "alias": [],
+        "note": "出《老子》五十八章，《𫛳鸟赋》引之。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p27"
+        ]
+      },
+      {
+        "name": "天地为炉造化为工",
+        "alias": [],
+        "note": "《𫛳鸟赋》千古名句，化用《庄子·大宗师》，喻万物消长变化。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p28"
+        ]
+      },
+      {
+        "name": "千变万化",
+        "alias": [],
+        "note": "《𫛳鸟赋》成语。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p28"
+        ]
+      },
+      {
+        "name": "爽然自失",
+        "alias": [],
+        "note": "太史公读《𫛳鸟赋》后心境，茫然自失。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p32"
+        ]
+      },
+      {
+        "name": "屈贾",
+        "alias": [],
+        "note": "屈原、贾谊合传，后世以屈贾并称，代表忠而被谤、怀才不遇的士人典范。",
+        "evidence": [
+          "text:shiji:shiji-屈原賈生列傳第二十四:p33"
+        ]
+      }
+    ]
+  },
+  "relations": [
+    {
+      "from": "屈原",
+      "type": "事",
+      "to": "楚怀王",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p0"
+      ]
+    },
+    {
+      "from": "上官大夫靳尚",
+      "type": "争宠 谗",
+      "to": "屈原",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p1"
+      ]
+    },
+    {
+      "from": "楚怀王",
+      "type": "怒疏",
+      "to": "屈原",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p1"
+      ]
+    },
+    {
+      "from": "屈原",
+      "type": "作",
+      "to": "离骚",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p2"
+      ]
+    },
+    {
+      "from": "张仪",
+      "type": "诈楚绝齐于",
+      "to": "楚国",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p3"
+      ]
+    },
+    {
+      "from": "秦",
+      "type": "败楚虏屈匄于",
+      "to": "丹阳（丹淅）",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p3"
+      ]
+    },
+    {
+      "from": "秦",
+      "type": "取",
+      "to": "汉中",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p3"
+      ]
+    },
+    {
+      "from": "郑袖",
+      "type": "与靳尚说释",
+      "to": "张仪",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p4"
+      ]
+    },
+    {
+      "from": "屈原",
+      "type": "谏追",
+      "to": "张仪",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p4"
+      ]
+    },
+    {
+      "from": "屈原",
+      "type": "谏王毋行入",
+      "to": "秦国",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p6"
+      ]
+    },
+    {
+      "from": "子兰",
+      "type": "劝行入",
+      "to": "秦国",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p6"
+      ]
+    },
+    {
+      "from": "秦",
+      "type": "扣留",
+      "to": "楚怀王",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p6"
+      ]
+    },
+    {
+      "from": "楚怀王",
+      "type": "死 归葬于",
+      "to": "楚国",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p6"
+      ]
+    },
+    {
+      "from": "楚顷襄王",
+      "type": "立 用子兰为",
+      "to": "令尹",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p7"
+      ]
+    },
+    {
+      "from": "子兰",
+      "type": "使上官大夫短",
+      "to": "屈原",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p9"
+      ]
+    },
+    {
+      "from": "楚顷襄王",
+      "type": "怒迁",
+      "to": "屈原",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p9"
+      ]
+    },
+    {
+      "from": "渔父",
+      "type": "劝 与屈原对答于",
+      "to": "汨罗江",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p10"
+      ]
+    },
+    {
+      "from": "屈原",
+      "type": "作 怀石自沉于",
+      "to": "汨罗江",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p11",
+        "text:shiji:shiji-屈原賈生列傳第二十四:p16"
+      ]
+    },
+    {
+      "from": "屈原",
+      "type": "作",
+      "to": "怀沙",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p11"
+      ]
+    },
+    {
+      "from": "宋玉",
+      "type": "祖屈原从容辞令于",
+      "to": "楚国",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p17"
+      ]
+    },
+    {
+      "from": "唐勒",
+      "type": "同以赋称于",
+      "to": "楚国",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p17"
+      ]
+    },
+    {
+      "from": "景差",
+      "type": "同以赋称于",
+      "to": "楚国",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p17"
+      ]
+    },
+    {
+      "from": "秦",
+      "type": "灭",
+      "to": "楚国",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p17"
+      ]
+    },
+    {
+      "from": "贾谊",
+      "type": "过湘水投书吊",
+      "to": "屈原",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p18"
+      ]
+    },
+    {
+      "from": "吴公",
+      "type": "召置门下 荐",
+      "to": "贾谊",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p19"
+      ]
+    },
+    {
+      "from": "吴公",
+      "type": "学于（尝学事）",
+      "to": "李斯",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p19"
+      ]
+    },
+    {
+      "from": "汉文帝",
+      "type": "征为博士 超迁",
+      "to": "贾谊",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p19",
+        "text:shiji:shiji-屈原賈生列傳第二十四:p20"
+      ]
+    },
+    {
+      "from": "贾谊",
+      "type": "议改正朔易服色于",
+      "to": "汉文帝",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p21"
+      ]
+    },
+    {
+      "from": "周勃",
+      "type": "与灌婴 共毁",
+      "to": "贾谊",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p21"
+      ]
+    },
+    {
+      "from": "灌婴",
+      "type": "与绛侯 共毁",
+      "to": "贾谊",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p21"
+      ]
+    },
+    {
+      "from": "汉文帝",
+      "type": "以谊为",
+      "to": "长沙王太傅（官职）",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p21"
+      ]
+    },
+    {
+      "from": "贾谊",
+      "type": "作 吊",
+      "to": "吊屈原赋",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p22"
+      ]
+    },
+    {
+      "from": "贾谊",
+      "type": "作 自广",
+      "to": "𫛳鸟赋",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p25"
+      ]
+    },
+    {
+      "from": "汉文帝",
+      "type": "宣室问鬼神于",
+      "to": "贾谊",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p29"
+      ]
+    },
+    {
+      "from": "贾谊",
+      "type": "为傅于",
+      "to": "梁怀王刘揖",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p29"
+      ]
+    },
+    {
+      "from": "梁怀王刘揖",
+      "type": "堕马死",
+      "to": "梁怀王刘揖",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p31"
+      ]
+    },
+    {
+      "from": "贾谊",
+      "type": "自伤哭泣岁余亦卒",
+      "to": "梁怀王刘揖",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p31"
+      ]
+    },
+    {
+      "from": "贾嘉",
+      "type": "世其家 与司马迁通书",
+      "to": "贾谊",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p31"
+      ]
+    },
+    {
+      "from": "司马迁",
+      "type": "读悲其志 垂涕想其为人",
+      "to": "屈原",
+      "evidence": [
+        "text:shiji:shiji-屈原賈生列傳第二十四:p32"
+      ]
+    }
+  ]
+}
