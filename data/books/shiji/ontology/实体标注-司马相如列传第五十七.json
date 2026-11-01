@@ -1,9 +1,9 @@
 {
   "book_id": "shiji",
-  "chapter_id": "列传第五十七",
-  "chapter_title": "司马相如列传",
-  "version": "1.0",
-  "generated_at": "2026-11-02T07:00:52.540739",
+  "chapter_id": "司马相如列传第五十七",
+  "chapter_title": "司马相如列传第五十七",
+  "version": "final",
+  "generated_at": "2026-11-02",
   "paragraphs": [
     {
       "para_id": "p0",
@@ -15,94 +15,116 @@
       "text": "司馬相如者，蜀郡成都人也，字長卿。少時好讀書，學擊劔，⟦0⟧故其親名之曰犬子。⟦1⟧相如旣學，⟦2⟧慕藺相如之爲人，更名相如。以貲爲郎，事孝景帝，爲武騎常侍，⟦3⟧非其好也。會景帝不好辭賦，是時梁孝王來朝，從游說之士齊人鄒陽、淮陰枚乘、吳莊忌夫子之徒，⟦4⟧⟦5⟧相如見而說之，因病免，客游梁。梁孝王令與諸生同舍，相如得與諸生游士居數歲，乃著子虛之賦。",
       "mentions": [
         {
-          "start": 2,
+          "start": 0,
           "end": 4,
-          "name": "相如"
+          "surface": "司馬相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 6,
-          "end": 8,
-          "name": "蜀郡"
-        },
-        {
-          "start": 8,
           "end": 10,
-          "name": "成都"
+          "surface": "蜀郡成都",
+          "entity": "蜀郡成都",
+          "type": "place"
         },
         {
-          "start": 36,
-          "end": 38,
-          "name": "犬子"
+          "start": 14,
+          "end": 16,
+          "surface": "長卿",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 42,
           "end": 44,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 51,
           "end": 54,
-          "name": "藺相如"
+          "surface": "藺相如",
+          "entity": "蔺相如",
+          "type": "person"
         },
         {
           "start": 60,
           "end": 62,
-          "name": "相如"
-        },
-        {
-          "start": 69,
-          "end": 72,
-          "name": "孝景帝"
-        },
-        {
-          "start": 88,
-          "end": 90,
-          "name": "景帝"
-        },
-        {
-          "start": 92,
-          "end": 94,
-          "name": "辭賦"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 97,
           "end": 100,
-          "name": "梁孝王"
+          "surface": "梁孝王",
+          "entity": "刘武（梁孝王）",
+          "type": "person"
+        },
+        {
+          "start": 104,
+          "end": 108,
+          "surface": "游說之士",
+          "entity": "苏秦/张仪等游士",
+          "type": "person"
         },
         {
           "start": 110,
           "end": 112,
-          "name": "鄒陽"
+          "surface": "鄒陽",
+          "entity": "邹阳",
+          "type": "person"
         },
         {
           "start": 115,
           "end": 117,
-          "name": "枚乘"
+          "surface": "枚乘",
+          "entity": "枚乘",
+          "type": "person"
         },
         {
           "start": 119,
-          "end": 121,
-          "name": "莊忌"
+          "end": 123,
+          "surface": "莊忌夫子",
+          "entity": "庄忌（严忌）",
+          "type": "person"
         },
         {
           "start": 132,
           "end": 134,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
+        },
+        {
+          "start": 145,
+          "end": 146,
+          "surface": "梁",
+          "entity": "梁国",
+          "type": "place"
         },
         {
           "start": 147,
           "end": 150,
-          "name": "梁孝王"
+          "surface": "梁孝王",
+          "entity": "刘武（梁孝王）",
+          "type": "person"
         },
         {
           "start": 157,
           "end": 159,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 171,
           "end": 173,
-          "name": "子虛"
+          "surface": "子虛",
+          "entity": "子虚（虚构）",
+          "type": "person"
         }
       ]
     },
@@ -113,227 +135,373 @@
         {
           "start": 1,
           "end": 4,
-          "name": "梁孝王"
+          "surface": "梁孝王",
+          "entity": "刘武（梁孝王）",
+          "type": "person"
         },
         {
           "start": 6,
           "end": 8,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 21,
           "end": 24,
-          "name": "臨卭令"
+          "surface": "臨卭令",
+          "entity": "王吉（临邛令）",
+          "type": "person"
         },
         {
           "start": 24,
           "end": 26,
-          "name": "王吉"
+          "surface": "王吉",
+          "entity": "王吉（临邛令）",
+          "type": "person"
+        },
+        {
+          "start": 33,
+          "end": 35,
+          "surface": "長卿",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 49,
           "end": 51,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 60,
           "end": 63,
-          "name": "臨卭令"
+          "surface": "臨卭令",
+          "entity": "王吉（临邛令）",
+          "type": "person"
         },
         {
           "start": 71,
           "end": 73,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 74,
           "end": 76,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 97,
           "end": 99,
-          "name": "臨卭"
+          "surface": "臨卭",
+          "entity": "临邛",
+          "type": "place"
         },
         {
           "start": 105,
           "end": 108,
-          "name": "卓王孫"
+          "surface": "卓王孫",
+          "entity": "卓王孙",
+          "type": "person"
         },
         {
           "start": 114,
           "end": 116,
-          "name": "程鄭"
+          "surface": "程鄭",
+          "entity": "程郑",
+          "type": "person"
         },
         {
           "start": 160,
           "end": 164,
-          "name": "司馬長卿"
+          "surface": "司馬長卿",
+          "entity": "司马相如（长卿）",
+          "type": "person"
+        },
+        {
+          "start": 165,
+          "end": 167,
+          "surface": "長卿",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 173,
           "end": 176,
-          "name": "臨卭令"
+          "surface": "臨卭令",
+          "entity": "王吉（临邛令）",
+          "type": "person"
         },
         {
           "start": 184,
           "end": 186,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 187,
           "end": 189,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 204,
           "end": 207,
-          "name": "臨卭令"
+          "surface": "臨卭令",
+          "entity": "王吉（临邛令）",
+          "type": "person"
+        },
+        {
+          "start": 215,
+          "end": 217,
+          "surface": "長卿",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 226,
           "end": 228,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 242,
           "end": 245,
-          "name": "卓王孫"
+          "surface": "卓王孫",
+          "entity": "卓王孙",
+          "type": "person"
         },
         {
           "start": 247,
           "end": 249,
-          "name": "文君"
+          "surface": "文君",
+          "entity": "卓文君",
+          "type": "person"
         },
         {
           "start": 256,
           "end": 258,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 277,
           "end": 279,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 280,
           "end": 282,
-          "name": "臨卭"
+          "surface": "臨卭",
+          "entity": "临邛",
+          "type": "place"
         },
         {
           "start": 305,
           "end": 307,
-          "name": "文君"
+          "surface": "文君",
+          "entity": "卓文君",
+          "type": "person"
         },
         {
           "start": 328,
           "end": 330,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 335,
           "end": 337,
-          "name": "文君"
+          "surface": "文君",
+          "entity": "卓文君",
+          "type": "person"
+        },
+        {
+          "start": 337,
+          "end": 339,
+          "surface": "侍者",
+          "entity": "卓文君侍者",
+          "type": "person"
         },
         {
           "start": 343,
           "end": 345,
-          "name": "文君"
+          "surface": "文君",
+          "entity": "卓文君",
+          "type": "person"
         },
         {
           "start": 348,
           "end": 350,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 354,
           "end": 356,
-          "name": "相如"
-        },
-        {
-          "start": 361,
-          "end": 367,
-          "name": "家居徒四壁立"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 374,
           "end": 377,
-          "name": "卓王孫"
+          "surface": "卓王孫",
+          "entity": "卓王孙",
+          "type": "person"
+        },
+        {
+          "start": 402,
+          "end": 404,
+          "surface": "王孫",
+          "entity": "卓王孙",
+          "type": "person"
+        },
+        {
+          "start": 405,
+          "end": 407,
+          "surface": "王孫",
+          "entity": "卓王孙",
+          "type": "person"
         },
         {
           "start": 411,
           "end": 413,
-          "name": "文君"
+          "surface": "文君",
+          "entity": "卓文君",
+          "type": "person"
+        },
+        {
+          "start": 421,
+          "end": 423,
+          "surface": "長卿",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 426,
           "end": 428,
-          "name": "臨卭"
+          "surface": "臨卭",
+          "entity": "临邛",
+          "type": "place"
         },
         {
           "start": 450,
           "end": 452,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 455,
           "end": 457,
-          "name": "臨卭"
+          "surface": "臨卭",
+          "entity": "临邛",
+          "type": "place"
         },
         {
           "start": 473,
           "end": 475,
-          "name": "文君"
+          "surface": "文君",
+          "entity": "卓文君",
+          "type": "person"
         },
         {
           "start": 481,
           "end": 483,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 514,
           "end": 517,
-          "name": "卓王孫"
+          "surface": "卓王孫",
+          "entity": "卓王孙",
+          "type": "person"
         },
         {
           "start": 528,
           "end": 532,
-          "name": "昆弟諸公"
+          "surface": "昆弟諸公",
+          "entity": "卓氏昆弟诸公",
+          "type": "person"
+        },
+        {
+          "start": 538,
+          "end": 540,
+          "surface": "王孫",
+          "entity": "卓王孙",
+          "type": "person"
         },
         {
           "start": 558,
           "end": 560,
-          "name": "文君"
+          "surface": "文君",
+          "entity": "卓文君",
+          "type": "person"
         },
         {
           "start": 564,
           "end": 568,
-          "name": "司馬長卿"
+          "surface": "司馬長卿",
+          "entity": "司马相如（长卿）",
+          "type": "person"
+        },
+        {
+          "start": 569,
+          "end": 571,
+          "surface": "長卿",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 603,
           "end": 606,
-          "name": "卓王孫"
+          "surface": "卓王孫",
+          "entity": "卓王孙",
+          "type": "person"
         },
         {
           "start": 612,
           "end": 614,
-          "name": "文君"
+          "surface": "文君",
+          "entity": "卓文君",
+          "type": "person"
         },
         {
           "start": 631,
           "end": 633,
-          "name": "文君"
+          "surface": "文君",
+          "entity": "卓文君",
+          "type": "person"
         },
         {
           "start": 635,
           "end": 637,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 638,
           "end": 640,
-          "name": "成都"
+          "surface": "成都",
+          "entity": "蜀郡成都",
+          "type": "place"
         }
       ]
     },
@@ -344,77 +512,128 @@
         {
           "start": 6,
           "end": 9,
-          "name": "楊得意"
+          "surface": "楊得意",
+          "entity": "杨得意",
+          "type": "person"
+        },
+        {
+          "start": 17,
+          "end": 18,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
+        },
+        {
+          "start": 19,
+          "end": 20,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         },
         {
           "start": 21,
           "end": 23,
-          "name": "子虛"
+          "surface": "子虛",
+          "entity": "子虚（虚构）",
+          "type": "person"
         },
         {
-          "start": 53,
+          "start": 51,
           "end": 55,
-          "name": "相如"
+          "surface": "司馬相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
+        },
+        {
+          "start": 62,
+          "end": 63,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         },
         {
           "start": 68,
           "end": 70,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 71,
           "end": 73,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 94,
-          "end": 99,
-          "name": "天子游獵賦"
+          "end": 96,
+          "surface": "天子",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
+        },
+        {
+          "start": 106,
+          "end": 107,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         },
         {
           "start": 116,
           "end": 118,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 120,
           "end": 122,
-          "name": "子虛"
+          "surface": "子虛",
+          "entity": "子虚（虚构）",
+          "type": "person"
         },
         {
           "start": 136,
           "end": 140,
-          "name": "烏有先生"
+          "surface": "烏有先生",
+          "entity": "乌有先生（虚构）",
+          "type": "person"
         },
         {
           "start": 160,
           "end": 163,
-          "name": "無是公"
+          "surface": "無是公",
+          "entity": "无是公（虚构）",
+          "type": "person"
         },
         {
           "start": 172,
           "end": 174,
-          "name": "天子"
+          "surface": "天子",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         },
         {
           "start": 194,
           "end": 196,
-          "name": "天子"
-        },
-        {
-          "start": 213,
-          "end": 215,
-          "name": "風諫"
+          "surface": "天子",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         },
         {
           "start": 218,
           "end": 220,
-          "name": "天子"
+          "surface": "天子",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         },
         {
           "start": 221,
           "end": 223,
-          "name": "天子"
+          "surface": "天子",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         }
       ]
     },
@@ -425,37 +644,51 @@
         {
           "start": 2,
           "end": 4,
-          "name": "子虛"
+          "surface": "子虛",
+          "entity": "子虚（虚构）",
+          "type": "person"
         },
         {
           "start": 32,
           "end": 34,
-          "name": "子虛"
+          "surface": "子虛",
+          "entity": "子虚（虚构）",
+          "type": "person"
         },
         {
           "start": 36,
           "end": 40,
-          "name": "烏有先生"
+          "surface": "烏有先生",
+          "entity": "乌有先生（虚构）",
+          "type": "person"
         },
         {
           "start": 48,
           "end": 51,
-          "name": "無是公"
+          "surface": "無是公",
+          "entity": "无是公（虚构）",
+          "type": "person"
         },
         {
           "start": 57,
           "end": 61,
-          "name": "烏有先生"
+          "surface": "烏有先生",
+          "entity": "乌有先生（虚构）",
+          "type": "person"
         },
         {
           "start": 72,
           "end": 74,
-          "name": "子虛"
+          "surface": "子虛",
+          "entity": "子虚（虚构）",
+          "type": "person"
         },
         {
           "start": 120,
           "end": 122,
-          "name": "雲夢"
+          "surface": "雲夢",
+          "entity": "云梦泽",
+          "type": "place"
         }
       ]
     },
@@ -466,7 +699,9 @@
         {
           "start": 0,
           "end": 2,
-          "name": "子虛"
+          "surface": "子虛",
+          "entity": "子虚（虚构）",
+          "type": "person"
         }
       ]
     },
@@ -477,12 +712,30 @@
         {
           "start": 44,
           "end": 46,
-          "name": "雲夢"
+          "surface": "雲夢",
+          "entity": "云梦泽",
+          "type": "place"
         },
         {
           "start": 50,
           "end": 52,
-          "name": "雲夢"
+          "surface": "雲夢",
+          "entity": "云梦泽",
+          "type": "place"
+        },
+        {
+          "start": 99,
+          "end": 100,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
+        },
+        {
+          "start": 501,
+          "end": 502,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         }
       ]
     },
@@ -493,19 +746,51 @@
         {
           "start": 4,
           "end": 6,
-          "name": "專諸"
+          "surface": "專諸",
+          "entity": "专诸",
+          "type": "person"
+        },
+        {
+          "start": 88,
+          "end": 90,
+          "surface": "陽子",
+          "entity": "阳子（伯乐）",
+          "type": "person"
+        },
+        {
+          "start": 93,
+          "end": 95,
+          "surface": "纖阿",
+          "entity": "纤阿",
+          "type": "person"
         }
       ]
     },
     {
       "para_id": "p8",
       "text": "於是鄭女曼姬，⟦0⟧⟦1⟧被阿錫，⟦2⟧⟦3⟧揄紵縞，⟦4⟧⟦5⟧雜纖羅，垂霧縠；⟦6⟧襞積褰縐，紆徐委曲，鬱橈谿谷；⟦7⟧⟦8⟧衯衯裶裶，⟦9⟧⟦10⟧揚袘卹削，⟦11⟧⟦12⟧蜚纖垂髾；⟦13⟧扶與猗靡，⟦14⟧⟦15⟧噏呷萃蔡，⟦16⟧⟦17⟧⟦18⟧下摩蘭蕙，上拂羽蓋，錯翡翠之威蕤，⟦19⟧繆繞玉綏；⟦20⟧⟦21⟧縹乎忽忽，若神仙之仿佛。⟦22⟧",
-      "mentions": []
+      "mentions": [
+        {
+          "start": 134,
+          "end": 135,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
+        }
+      ]
     },
     {
       "para_id": "p9",
       "text": "於是乃相與獠於蕙圃，⟦0⟧⟦1⟧媻珊勃窣上金隄，⟦2⟧揜翡翠，射鵔鸃，⟦3⟧⟦4⟧微矰出，纖繳施，⟦5⟧弋白鵠，連鴐鵞，⟦6⟧⟦7⟧⟦8⟧雙鶬下，玄鶴加。⟦9⟧⟦10⟧怠而後發，游於清池；浮文鷁，⟦11⟧揚桂枻，⟦12⟧張翠帷，建羽蓋，罔瑇瑁，釣紫貝；⟦13⟧⟦14⟧摐金鼓，吹鳴籟，⟦15⟧榜人歌，⟦16⟧聲流喝，⟦17⟧水蟲駭，波鴻沸，涌泉起，奔揚會，礧石相擊，硠硠礚礚，若靁霆之聲，聞乎數百里之外。",
-      "mentions": []
+      "mentions": [
+        {
+          "start": 20,
+          "end": 21,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
+        }
+      ]
     },
     {
       "para_id": "p10",
@@ -519,62 +804,86 @@
         {
           "start": 0,
           "end": 4,
-          "name": "烏有先生"
-        },
-        {
-          "start": 23,
-          "end": 25,
-          "name": "齊國"
+          "surface": "烏有先生",
+          "entity": "乌有先生（虚构）",
+          "type": "person"
         },
         {
           "start": 104,
           "end": 106,
-          "name": "雲夢"
+          "surface": "雲夢",
+          "entity": "云梦泽",
+          "type": "place"
         },
         {
           "start": 207,
           "end": 209,
-          "name": "琅邪"
+          "surface": "琅邪",
+          "entity": "琅邪",
+          "type": "place"
         },
         {
           "start": 218,
           "end": 220,
-          "name": "成山"
+          "surface": "成山",
+          "entity": "成山",
+          "type": "place"
         },
         {
           "start": 232,
           "end": 234,
-          "name": "之罘"
+          "surface": "之罘",
+          "entity": "之罘",
+          "type": "place"
         },
         {
           "start": 242,
           "end": 244,
-          "name": "勃澥"
+          "surface": "勃澥",
+          "entity": "东海/勃澥",
+          "type": "place"
         },
         {
           "start": 253,
           "end": 255,
-          "name": "孟諸"
+          "surface": "孟諸",
+          "entity": "孟诸",
+          "type": "place"
         },
         {
           "start": 266,
           "end": 268,
-          "name": "肅慎"
+          "surface": "肅慎",
+          "entity": "肃慎",
+          "type": "place"
         },
         {
           "start": 277,
           "end": 279,
-          "name": "湯谷"
+          "surface": "湯谷",
+          "entity": "汤谷",
+          "type": "place"
         },
         {
           "start": 289,
           "end": 291,
-          "name": "青丘"
+          "surface": "青丘",
+          "entity": "青丘",
+          "type": "place"
         },
         {
           "start": 304,
           "end": 306,
-          "name": "雲夢"
+          "surface": "雲夢",
+          "entity": "云梦泽",
+          "type": "place"
+        },
+        {
+          "start": 356,
+          "end": 357,
+          "surface": "禹",
+          "entity": "夏禹",
+          "type": "person"
         }
       ]
     },
@@ -585,22 +894,30 @@
         {
           "start": 0,
           "end": 3,
-          "name": "無是公"
+          "surface": "無是公",
+          "entity": "无是公（虚构）",
+          "type": "person"
         },
         {
           "start": 80,
           "end": 82,
-          "name": "肅慎"
+          "surface": "肅慎",
+          "entity": "肃慎",
+          "type": "place"
         },
         {
           "start": 188,
           "end": 190,
-          "name": "天子"
+          "surface": "天子",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         },
         {
           "start": 191,
           "end": 193,
-          "name": "上林"
+          "surface": "上林",
+          "entity": "上林苑",
+          "type": "place"
         }
       ]
     },
@@ -611,22 +928,107 @@
         {
           "start": 1,
           "end": 3,
-          "name": "蒼梧"
+          "surface": "蒼梧",
+          "entity": "苍梧",
+          "type": "place"
         },
         {
           "start": 5,
           "end": 7,
-          "name": "西極"
+          "surface": "西極",
+          "entity": "西极",
+          "type": "place"
         },
         {
           "start": 14,
           "end": 16,
-          "name": "丹水"
+          "surface": "丹水",
+          "entity": "丹水",
+          "type": "place"
         },
         {
           "start": 23,
           "end": 25,
-          "name": "紫淵"
+          "surface": "紫淵",
+          "entity": "紫渊",
+          "type": "place"
+        },
+        {
+          "start": 37,
+          "end": 38,
+          "surface": "霸",
+          "entity": "八川（霸浐泾渭酆镐潦潏）",
+          "type": "place"
+        },
+        {
+          "start": 38,
+          "end": 39,
+          "surface": "滻",
+          "entity": "八川（霸浐泾渭酆镐潦潏）",
+          "type": "place"
+        },
+        {
+          "start": 42,
+          "end": 43,
+          "surface": "涇",
+          "entity": "八川（霸浐泾渭酆镐潦潏）",
+          "type": "place"
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "surface": "渭",
+          "entity": "八川（霸浐泾渭酆镐潦潏）",
+          "type": "place"
+        },
+        {
+          "start": 48,
+          "end": 49,
+          "surface": "酆",
+          "entity": "八川（霸浐泾渭酆镐潦潏）",
+          "type": "place"
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "surface": "鄗",
+          "entity": "八川（霸浐泾渭酆镐潦潏）",
+          "type": "place"
+        },
+        {
+          "start": 50,
+          "end": 51,
+          "surface": "潦",
+          "entity": "八川（霸浐泾渭酆镐潦潏）",
+          "type": "place"
+        },
+        {
+          "start": 51,
+          "end": 52,
+          "surface": "潏",
+          "entity": "八川（霸浐泾渭酆镐潦潏）",
+          "type": "place"
+        },
+        {
+          "start": 345,
+          "end": 346,
+          "surface": "潏",
+          "entity": "八川（霸浐泾渭酆镐潦潏）",
+          "type": "place"
+        },
+        {
+          "start": 346,
+          "end": 347,
+          "surface": "潏",
+          "entity": "八川（霸浐泾渭酆镐潦潏）",
+          "type": "place"
+        },
+        {
+          "start": 633,
+          "end": 634,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         }
       ]
     },
@@ -637,22 +1039,30 @@
         {
           "start": 3,
           "end": 5,
-          "name": "崇山"
+          "surface": "崇山",
+          "entity": "崇山",
+          "type": "place"
         },
         {
           "start": 29,
           "end": 31,
-          "name": "九嵏"
+          "surface": "九嵏",
+          "entity": "九嵏山",
+          "type": "place"
         },
         {
           "start": 32,
           "end": 34,
-          "name": "巀嶭"
+          "surface": "巀嶭",
+          "entity": "巀嶭山",
+          "type": "place"
         },
         {
           "start": 35,
           "end": 37,
-          "name": "南山"
+          "surface": "南山",
+          "entity": "南山（终南山）",
+          "type": "place"
         }
       ]
     },
@@ -664,22 +1074,68 @@
     {
       "para_id": "p16",
       "text": "於是乎離宮別館，彌山跨谷，⟦0⟧高廊四注，重坐曲閣，⟦1⟧華榱璧璫，⟦2⟧輦道纚屬，步櫩周流，長途中宿。⟦3⟧夷嵏築堂，纍臺增成，巖穾洞房，⟦4⟧⟦5⟧俛杳眇而無見，仰攀橑而捫天，奔星更於閨闥，宛虹拖於楯軒。⟦6⟧⟦7⟧青蚪蚴蟉於東箱，⟦8⟧象輿婉蟬於西清，⟦9⟧⟦10⟧靈圉燕於間觀，⟦11⟧⟦12⟧偓佺之倫暴於南榮，⟦13⟧⟦14⟧醴泉涌於清室，通川過乎中庭。槃石裖崖，⟦15⟧⟦16⟧嶔巖倚傾，嵳峩磼礏，⟦17⟧⟦18⟧刻削崢嶸，⟦19⟧玫瑰碧琳，珊瑚叢生，⟦20⟧瑉玉旁唐，⟦21⟧璸斒文鱗，⟦22⟧赤瑕駁犖，⟦23⟧雜臿其間，⟦24⟧垂綏琬琰，和氏出焉。⟦25⟧",
-      "mentions": []
+      "mentions": [
+        {
+          "start": 151,
+          "end": 153,
+          "surface": "偓佺",
+          "entity": "偓佺",
+          "type": "person"
+        }
+      ]
     },
     {
       "para_id": "p17",
       "text": "於是乎盧橘夏孰，⟦0⟧⟦1⟧黃甘橙楱，⟦2⟧枇杷橪柿，⟦3⟧⟦4⟧楟奈厚朴，⟦5⟧⟦6⟧梬棗楊梅，⟦7⟧⟦8⟧櫻桃蒲陶，⟦9⟧⟦10⟧隱夫鬱棣，榙𣗶荔枝，⟦11⟧⟦12⟧羅乎後宮，列乎北園。貤丘陵，⟦13⟧下平原，揚翠葉，杌紫莖，⟦14⟧發紅華，秀朱榮，煌煌扈扈，照曜鉅野。沙棠櫟櫧，⟦15⟧華汜檘櫨，⟦16⟧⟦17⟧留落胥餘，仁頻并閭，⟦18⟧⟦19⟧欃檀木蘭，豫章女貞，⟦20⟧⟦21⟧長千仞，大連抱，夸條直暢，實葉葰茂，攢立叢倚，連卷累佹，崔錯癹骫，⟦22⟧阬衡閜砢，⟦23⟧⟦24⟧垂條扶於，落英幡纚，⟦25⟧⟦26⟧紛容蕭蔘，旖旎從風，⟦27⟧瀏莅芔吸，⟦28⟧⟦29⟧蓋象金石之聲，⟦30⟧管籥之音。⟦31⟧柴池茈虒，⟦32⟧⟦33⟧旋環後宮，雜遝累輯，⟦34⟧被山緣谷，循阪下隰，視之無端，究之無窮。",
-      "mentions": []
+      "mentions": [
+        {
+          "start": 87,
+          "end": 89,
+          "surface": "後宮",
+          "entity": "北园后宫",
+          "type": "place"
+        },
+        {
+          "start": 92,
+          "end": 94,
+          "surface": "北園",
+          "entity": "北园后宫",
+          "type": "place"
+        },
+        {
+          "start": 325,
+          "end": 327,
+          "surface": "後宮",
+          "entity": "北园后宫",
+          "type": "place"
+        }
+      ]
     },
     {
       "para_id": "p18",
       "text": "於是玄猿素雌，蜼玃飛鸓，⟦0⟧⟦1⟧蛭蜩蠗蝚，⟦2⟧⟦3⟧螹胡豰蛫，⟦4⟧⟦5⟧棲息乎其間；長嘯哀鳴，翩幡互經，⟦6⟧夭蟜枝格，偃蹇杪顛。⟦7⟧於是乎隃絕梁，⟦8⟧騰殊榛，⟦9⟧捷垂條，⟦10⟧踔稀間，⟦11⟧牢落陸離，爛曼遠遷。⟦12⟧",
-      "mentions": []
+      "mentions": [
+        {
+          "start": 77,
+          "end": 78,
+          "surface": "梁",
+          "entity": "梁国",
+          "type": "place"
+        }
+      ]
     },
     {
       "para_id": "p19",
       "text": "若此輩者，數千百處。嬉游往來，宮宿館舍，庖厨不徙，後宮不移，⟦0⟧百官備具。",
-      "mentions": []
+      "mentions": [
+        {
+          "start": 25,
+          "end": 27,
+          "surface": "後宮",
+          "entity": "北园后宫",
+          "type": "place"
+        }
+      ]
     },
     {
       "para_id": "p20",
@@ -689,7 +1145,15 @@
     {
       "para_id": "p21",
       "text": "然後揚節而上浮，陵驚風，歷駭飇，⟦0⟧乘虛無，與神俱，⟦1⟧轔玄鶴，⟦2⟧⟦3⟧亂昆雞。遒孔鸞，促鵔鸃，拂鷖鳥，捎鳳皇，⟦4⟧⟦5⟧捷鴛雛，掩焦明。⟦6⟧⟦7⟧⟦8⟧",
-      "mentions": []
+      "mentions": [
+        {
+          "start": 5,
+          "end": 6,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
+        }
+      ]
     },
     {
       "para_id": "p22",
@@ -698,64 +1162,107 @@
         {
           "start": 22,
           "end": 24,
-          "name": "北紘"
+          "surface": "北紘",
+          "entity": "北纮",
+          "type": "place"
         },
         {
           "start": 39,
           "end": 41,
-          "name": "石闕"
+          "surface": "石闕",
+          "entity": "咸阳/长安宫观",
+          "type": "place"
         },
         {
           "start": 43,
           "end": 45,
-          "name": "封巒"
+          "surface": "封巒",
+          "entity": "咸阳/长安宫观",
+          "type": "place"
         },
         {
           "start": 47,
           "end": 49,
-          "name": "䧴鵲"
+          "surface": "䧴鵲",
+          "entity": "咸阳/长安宫观",
+          "type": "place"
         },
         {
           "start": 51,
           "end": 53,
-          "name": "露寒"
+          "surface": "露寒",
+          "entity": "咸阳/长安宫观",
+          "type": "place"
         },
         {
           "start": 58,
           "end": 60,
-          "name": "棠梨"
+          "surface": "棠梨",
+          "entity": "咸阳/长安宫观",
+          "type": "place"
         },
         {
           "start": 73,
           "end": 75,
-          "name": "宣曲"
-        },
-        {
-          "start": 78,
-          "end": 80,
-          "name": "牛首"
+          "surface": "宣曲",
+          "entity": "咸阳/长安宫观",
+          "type": "place"
         },
         {
           "start": 85,
           "end": 87,
-          "name": "龍臺"
+          "surface": "龍臺",
+          "entity": "咸阳/长安宫观",
+          "type": "place"
         },
         {
           "start": 92,
           "end": 94,
-          "name": "細柳"
+          "surface": "細柳",
+          "entity": "咸阳/长安宫观",
+          "type": "place"
         }
       ]
     },
     {
       "para_id": "p23",
       "text": "於是乎游戲懈怠，置酒乎昊天之臺，⟦0⟧張樂乎轇輵之宇；⟦1⟧⟦2⟧撞千石之鐘，立萬石之鉅；建翠華之旗，樹靈鼉之鼔。⟦3⟧奏陶唐氏之舞，聽葛天氏之歌，⟦4⟧⟦5⟧千人唱，萬人和，山陵爲之震動，⟦6⟧川谷爲之蕩波。巴俞宋蔡，淮南于遮，⟦7⟧⟦8⟧文成顛歌，⟦9⟧⟦10⟧族舉遞奏，⟦11⟧金鼔迭起，鏗鎗鐺䶀，洞心駭耳。⟦12⟧荊吴鄭衞之聲，韶護武象之樂，陰淫案衍之音，鄢郢繽紛，激楚結風，⟦13⟧⟦14⟧俳優侏儒，狄鞮之倡，⟦15⟧所以娛耳目而樂心意者，麗靡爛漫於前，⟦16⟧靡曼美色於後。⟦17⟧",
-      "mentions": []
+      "mentions": [
+        {
+          "start": 11,
+          "end": 15,
+          "surface": "昊天之臺",
+          "entity": "咸阳/长安宫观",
+          "type": "place"
+        },
+        {
+          "start": 205,
+          "end": 207,
+          "surface": "狄鞮",
+          "entity": "狄鞮",
+          "type": "place"
+        }
+      ]
     },
     {
       "para_id": "p24",
       "text": "若夫青琴宓妃之徒，⟦0⟧⟦1⟧絕殊離俗，⟦2⟧姣冶嫺都，⟦3⟧靚莊刻飭，便嬛綽約，⟦4⟧柔橈嬛嬛，⟦5⟧⟦6⟧嫵媚姌嫋；⟦7⟧⟦8⟧抴獨繭之褕袘，⟦9⟧眇閻易以戌削，⟦10⟧編姺徶㣯，⟦11⟧⟦12⟧與世殊服；芬香漚鬱，酷烈淑郁；皓齒粲爛，宜笑旳皪；⟦13⟧長眉連娟，微睇緜藐；⟦14⟧色授魂與，心愉於側。⟦15⟧",
-      "mentions": []
+      "mentions": [
+        {
+          "start": 2,
+          "end": 4,
+          "surface": "青琴",
+          "entity": "青琴（神女）",
+          "type": "person"
+        },
+        {
+          "start": 4,
+          "end": 6,
+          "surface": "宓妃",
+          "entity": "宓妃（神女）",
+          "type": "person"
+        }
+      ]
     },
     {
       "para_id": "p25",
@@ -764,19 +1271,31 @@
         {
           "start": 7,
           "end": 9,
-          "name": "天子"
+          "surface": "天子",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         },
         {
           "start": 43,
           "end": 45,
-          "name": "天子"
+          "surface": "天子",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         }
       ]
     },
     {
       "para_id": "p26",
       "text": "於是歷吉日以齊戒，襲朝衣，乘法駕，建華旗，鳴玉鸞，游乎六藝之囿，⟦0⟧騖乎仁義之塗，覽觀春秋之林，⟦1⟧射貍首，兼騶虞，⟦2⟧弋玄鶴，建干戚，載雲䍐，揜羣雅，⟦3⟧⟦4⟧悲伐檀，⟦5⟧樂樂胥，⟦6⟧修容乎禮園，⟦7⟧翱翔于書圃，⟦8⟧述易道，⟦9⟧放怪獸，⟦10⟧登明堂，坐清廟，⟦11⟧恣羣臣，奏得失，四海之內，靡不受獲。⟦12⟧於斯之時，天下大說，嚮風而聽，隨流而化，喟然興道而遷義，⟦13⟧刑錯而不用，德隆乎三皇，功羨於五帝。⟦14⟧若此，故獵乃可喜也。",
-      "mentions": []
+      "mentions": [
+        {
+          "start": 213,
+          "end": 215,
+          "surface": "五帝",
+          "entity": "陈涉/汤武/三王五帝",
+          "type": "person"
+        }
+      ]
     },
     {
       "para_id": "p27",
@@ -795,32 +1314,44 @@
         {
           "start": 3,
           "end": 5,
-          "name": "天子"
+          "surface": "天子",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         },
         {
           "start": 9,
           "end": 12,
-          "name": "無是公"
+          "surface": "無是公",
+          "entity": "无是公（虚构）",
+          "type": "person"
         },
         {
           "start": 13,
           "end": 15,
-          "name": "天子"
+          "surface": "天子",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         },
         {
           "start": 15,
           "end": 17,
-          "name": "上林"
+          "surface": "上林",
+          "entity": "上林苑",
+          "type": "place"
         },
         {
           "start": 28,
           "end": 30,
-          "name": "子虛"
+          "surface": "子虛",
+          "entity": "子虚（虚构）",
+          "type": "person"
         },
         {
           "start": 32,
           "end": 34,
-          "name": "雲夢"
+          "surface": "雲夢",
+          "entity": "云梦泽",
+          "type": "place"
         }
       ]
     },
@@ -831,32 +1362,79 @@
         {
           "start": 0,
           "end": 2,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 8,
           "end": 10,
-          "name": "唐蒙"
+          "surface": "唐蒙",
+          "entity": "唐蒙",
+          "type": "person"
         },
         {
           "start": 13,
           "end": 15,
-          "name": "夜郎"
+          "surface": "夜郎",
+          "entity": "夜郎",
+          "type": "place"
         },
         {
           "start": 15,
           "end": 18,
-          "name": "西僰中"
+          "surface": "西僰中",
+          "entity": "西僰中",
+          "type": "place"
+        },
+        {
+          "start": 26,
+          "end": 28,
+          "surface": "巴蜀",
+          "entity": "巴蜀",
+          "type": "place"
+        },
+        {
+          "start": 58,
+          "end": 60,
+          "surface": "巴蜀",
+          "entity": "巴蜀",
+          "type": "place"
+        },
+        {
+          "start": 65,
+          "end": 66,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         },
         {
           "start": 71,
           "end": 73,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 74,
           "end": 76,
-          "name": "唐蒙"
+          "surface": "唐蒙",
+          "entity": "唐蒙",
+          "type": "person"
+        },
+        {
+          "start": 80,
+          "end": 82,
+          "surface": "巴蜀",
+          "entity": "巴蜀",
+          "type": "place"
+        },
+        {
+          "start": 85,
+          "end": 86,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         }
       ]
     },
@@ -865,26 +1443,47 @@
       "text": "告巴蜀太守：蠻夷自擅不討之日久矣，時侵犯邊境，勞士大夫。陛下即位，存撫天下，輯安中國。然後興師出兵，北征匈奴，單于怖駭，交臂受事，詘膝請和。康居西域，重譯請朝，稽首來享。移師東指，閩越相誅。右弔番禺，太子入朝。⟦0⟧南夷之君，西僰之長，常效貢職，不敢怠墮，延頸舉踵，喁喁然⟦1⟧皆爭歸義，欲爲臣妾，道里遼遠，山川阻深，不能自致。夫不順者已誅，而爲善者未賞，故遣中郎將往賔之，⟦2⟧發巴蜀士民各五百人，以奉幣帛，衞使者不然，靡有兵革之事，戰鬪之患。今聞其乃發軍興制，驚懼子弟，憂患長老，⟦3⟧郡又擅爲轉粟運輸，皆非陛下之意也。當行者或亡逃自賊殺，亦非人臣之節也。",
       "mentions": [
         {
-          "start": 28,
-          "end": 30,
-          "name": "陛下"
+          "start": 1,
+          "end": 3,
+          "surface": "巴蜀",
+          "entity": "巴蜀",
+          "type": "place"
         },
         {
-          "start": 180,
-          "end": 183,
-          "name": "中郎將"
+          "start": 28,
+          "end": 30,
+          "surface": "陛下",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
+        },
+        {
+          "start": 191,
+          "end": 193,
+          "surface": "巴蜀",
+          "entity": "巴蜀",
+          "type": "place"
         },
         {
           "start": 256,
           "end": 258,
-          "name": "陛下"
+          "surface": "陛下",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         }
       ]
     },
     {
       "para_id": "p32",
       "text": "夫邊郡之士，聞烽舉燧燔，⟦0⟧⟦1⟧皆攝弓而馳，⟦2⟧荷兵而走，流汗相屬，唯恐居後，觸白刃，冒流矢，義不反顧，計不旋踵，人懷怒心，如報私讎。彼豈樂死惡生，非編列之民，而與巴蜀異主哉？計深慮遠，急國家之難，而樂盡人臣之道也。故有剖符之封，析珪而爵，⟦3⟧位爲通侯，居列東第，⟦4⟧終則遺顯號於後世，傳土地於子孫，行事甚忠敬，居位甚安佚，名聲施於無窮，功烈著而不滅。是以賢人君子，肝腦塗中原，膏液潤野草而不辭也。今奉幣役至南夷，即自賊殺，或亡逃抵誅，身死無名，謚爲至愚，耻及父母，爲天下笑。人之度量相越，豈不遠哉！然此非獨行者之罪也，父兄之教不先，子弟之率不謹也；寡廉鮮耻，而俗不長厚也。其被刑戮，不亦宜乎！",
-      "mentions": []
+      "mentions": [
+        {
+          "start": 85,
+          "end": 87,
+          "surface": "巴蜀",
+          "entity": "巴蜀",
+          "type": "place"
+        }
+      ]
     },
     {
       "para_id": "p33",
@@ -893,12 +1492,16 @@
         {
           "start": 0,
           "end": 2,
-          "name": "陛下"
+          "surface": "陛下",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         },
         {
           "start": 106,
           "end": 108,
-          "name": "陛下"
+          "surface": "陛下",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         }
       ]
     },
@@ -909,127 +1512,240 @@
         {
           "start": 0,
           "end": 2,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 5,
           "end": 7,
-          "name": "唐蒙"
+          "surface": "唐蒙",
+          "entity": "唐蒙",
+          "type": "person"
         },
         {
           "start": 10,
           "end": 12,
-          "name": "夜郎"
+          "surface": "夜郎",
+          "entity": "夜郎",
+          "type": "place"
+        },
+        {
+          "start": 14,
+          "end": 19,
+          "surface": "通西南夷道",
+          "entity": "通西南夷道",
+          "type": "event"
+        },
+        {
+          "start": 21,
+          "end": 24,
+          "surface": "巴、蜀",
+          "entity": "巴蜀",
+          "type": "place"
         },
         {
           "start": 25,
           "end": 27,
-          "name": "廣漢"
+          "surface": "廣漢",
+          "entity": "广汉",
+          "type": "place"
+        },
+        {
+          "start": 78,
+          "end": 79,
+          "surface": "筰",
+          "entity": "筰都",
+          "type": "place"
         },
         {
           "start": 115,
           "end": 117,
-          "name": "天子"
+          "surface": "天子",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         },
         {
           "start": 118,
           "end": 120,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 121,
           "end": 123,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
+        },
+        {
+          "start": 128,
+          "end": 129,
+          "surface": "筰",
+          "entity": "筰都",
+          "type": "place"
+        },
+        {
+          "start": 130,
+          "end": 133,
+          "surface": "冉、駹",
+          "entity": "冉駹",
+          "type": "place"
         },
         {
           "start": 175,
           "end": 177,
-          "name": "天子"
+          "surface": "天子",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         },
         {
           "start": 183,
           "end": 185,
-          "name": "相如"
-        },
-        {
-          "start": 186,
-          "end": 189,
-          "name": "中郎將"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 200,
           "end": 203,
-          "name": "王然于"
+          "surface": "王然于",
+          "entity": "王然于",
+          "type": "person"
         },
         {
           "start": 204,
           "end": 207,
-          "name": "壺充國"
+          "surface": "壺充國",
+          "entity": "壶充国",
+          "type": "person"
         },
         {
           "start": 211,
           "end": 214,
-          "name": "呂越人"
+          "surface": "呂越人",
+          "entity": "吕越人",
+          "type": "person"
+        },
+        {
+          "start": 221,
+          "end": 223,
+          "surface": "巴蜀",
+          "entity": "巴蜀",
+          "type": "place"
         },
         {
           "start": 264,
           "end": 267,
-          "name": "卓王孫"
+          "surface": "卓王孫",
+          "entity": "卓王孙",
+          "type": "person"
         },
         {
           "start": 268,
           "end": 270,
-          "name": "臨卭"
+          "surface": "臨卭",
+          "entity": "临邛",
+          "type": "place"
         },
         {
           "start": 283,
           "end": 286,
-          "name": "卓王孫"
+          "surface": "卓王孫",
+          "entity": "卓王孙",
+          "type": "person"
         },
         {
           "start": 297,
           "end": 301,
-          "name": "司馬長卿"
+          "surface": "司馬長卿",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 319,
           "end": 323,
-          "name": "司馬長卿"
+          "surface": "司馬長卿",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 324,
           "end": 328,
-          "name": "略定西夷"
+          "surface": "略定西夷",
+          "entity": "略定西夷",
+          "type": "event"
+        },
+        {
+          "start": 331,
+          "end": 332,
+          "surface": "筰",
+          "entity": "筰都",
+          "type": "place"
+        },
+        {
+          "start": 333,
+          "end": 336,
+          "surface": "冉、駹",
+          "entity": "冉駹",
+          "type": "place"
         },
         {
           "start": 337,
           "end": 339,
-          "name": "斯榆"
+          "surface": "斯榆",
+          "entity": "斯榆",
+          "type": "place"
         },
         {
           "start": 367,
           "end": 369,
-          "name": "若水"
+          "surface": "若水",
+          "entity": "若水",
+          "type": "place"
+        },
+        {
+          "start": 376,
+          "end": 378,
+          "surface": "䍧柯",
+          "entity": "牂柯",
+          "type": "place"
         },
         {
           "start": 386,
           "end": 389,
-          "name": "零關道"
+          "surface": "零關道",
+          "entity": "零关道",
+          "type": "place"
         },
         {
           "start": 395,
           "end": 397,
-          "name": "孫水"
+          "surface": "孫水",
+          "entity": "孙水",
+          "type": "place"
+        },
+        {
+          "start": 403,
+          "end": 405,
+          "surface": "卭都",
+          "entity": "邛都",
+          "type": "place"
         },
         {
           "start": 412,
           "end": 414,
-          "name": "天子"
+          "surface": "天子",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         },
         {
           "start": 415,
           "end": 417,
-          "name": "天子"
+          "surface": "天子",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         }
       ]
     },
@@ -1040,22 +1756,30 @@
         {
           "start": 0,
           "end": 2,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 26,
           "end": 28,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 62,
           "end": 64,
-          "name": "天子"
+          "surface": "天子",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         },
         {
           "start": 76,
           "end": 78,
-          "name": "天子"
+          "surface": "天子",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         }
       ]
     },
@@ -1064,9 +1788,25 @@
       "text": "漢興七十有八載，⟦0⟧德茂存乎六世，⟦1⟧威武紛紜，湛恩汪濊，⟦2⟧羣生澍濡，洋溢乎方外。於是乃命使西征，隨流而攘，⟦3⟧風之所被，罔不披靡。因朝冉從駹，定筰存卭，略斯榆，舉苞滿，⟦4⟧結軌還轅，⟦5⟧東鄉將報，至于蜀都。",
       "mentions": [
         {
+          "start": 78,
+          "end": 79,
+          "surface": "筰",
+          "entity": "筰都",
+          "type": "place"
+        },
+        {
           "start": 83,
           "end": 85,
-          "name": "斯榆"
+          "surface": "斯榆",
+          "entity": "斯榆",
+          "type": "place"
+        },
+        {
+          "start": 108,
+          "end": 110,
+          "surface": "蜀都",
+          "entity": "蜀都",
+          "type": "place"
         }
       ]
     },
@@ -1076,23 +1816,31 @@
       "mentions": [
         {
           "start": 0,
-          "end": 4,
-          "name": "耆老大夫"
+          "end": 8,
+          "surface": "耆老大夫薦紳先生",
+          "entity": "蜀长老/荐绅先生",
+          "type": "person"
         },
         {
           "start": 31,
           "end": 33,
-          "name": "天子"
-        },
-        {
-          "start": 41,
-          "end": 43,
-          "name": "羈縻"
+          "surface": "天子",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         },
         {
           "start": 59,
           "end": 61,
-          "name": "夜郎"
+          "surface": "夜郎",
+          "entity": "夜郎",
+          "type": "place"
+        },
+        {
+          "start": 121,
+          "end": 122,
+          "surface": "筰",
+          "entity": "筰都",
+          "type": "place"
         }
       ]
     },
@@ -1113,7 +1861,9 @@
         {
           "start": 25,
           "end": 28,
-          "name": "夏后氏"
+          "surface": "夏后氏",
+          "entity": "夏禹",
+          "type": "person"
         }
       ]
     },
@@ -1122,9 +1872,39 @@
       "text": "且夫賢君之踐位也。豈特委瑣握𪘏，⟦0⟧拘文牽俗，循誦習傳，當世取說云爾哉！必將崇論閎議，創業垂統，爲萬世規。故馳騖乎兼容并包，而勤思乎參天貳地。⟦1⟧且詩不云乎：『普天之下，莫匪王土；率土之濵，莫非王臣。』⟦2⟧是以六合之內，八方之外，浸潯衍溢，⟦3⟧懷生之物有不浸潤於澤者，賢君耻之。今封疆之內，冠帶之倫，咸獲嘉祉，靡有闕遺矣。而夷狄殊俗之國，遼絕異黨之地，舟輿不通，人迹罕至，政教未加，流風猶微。內之則犯義侵禮於邊境，外之則邪行橫作，放弒其上。君臣易位，尊卑失序，父兄不辜，幼孤爲奴，係纍號泣，內嚮而怨，曰『蓋聞中國有至仁焉，德洋而恩普，物靡不得其所，今獨曷爲遺己』。舉踵思慕，若枯旱之望雨。盭夫爲之垂涕，⟦4⟧⟦5⟧況乎上聖，又惡能已？故北出師以討彊胡，南馳使以誚勁越。四面風德，二方之君鱗集仰流，⟦6⟧願得受號者以億計。故乃關沬、若，⟦7⟧徼䍧柯，鏤零山，梁孫原。創道德之塗，垂仁義之統。將愽恩廣施，遠撫長駕，使疏逖不閉，⟦8⟧阻深闇昧得耀乎光明，⟦9⟧以偃甲兵於此，而息誅伐於彼。遐邇一體，中外提福，⟦10⟧⟦11⟧不亦康乎？夫拯民於沈溺，奉至尊之休德，反衰世之陵遟，繼周氏之絕業，斯乃天子之急務也。百姓雖勞，又惡可以已哉？",
       "mentions": [
         {
+          "start": 222,
+          "end": 223,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
+        },
+        {
+          "start": 313,
+          "end": 314,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
+        },
+        {
+          "start": 375,
+          "end": 377,
+          "surface": "䍧柯",
+          "entity": "牂柯",
+          "type": "place"
+        },
+        {
+          "start": 382,
+          "end": 383,
+          "surface": "梁",
+          "entity": "梁国",
+          "type": "place"
+        },
+        {
           "start": 498,
           "end": 500,
-          "name": "天子"
+          "surface": "天子",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         }
       ]
     },
@@ -1135,12 +1915,23 @@
         {
           "start": 40,
           "end": 42,
-          "name": "泰山"
+          "surface": "泰山",
+          "entity": "泰山",
+          "type": "place"
         },
         {
           "start": 46,
           "end": 48,
-          "name": "梁父"
+          "surface": "梁父",
+          "entity": "梁父山",
+          "type": "place"
+        },
+        {
+          "start": 59,
+          "end": 60,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         }
       ]
     },
@@ -1154,9 +1945,18 @@
       "text": "其後人有上書言相如使時受金，失官。居歲餘，復召爲郎。",
       "mentions": [
         {
+          "start": 4,
+          "end": 5,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
+        },
+        {
           "start": 7,
           "end": 9,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         }
       ]
     },
@@ -1167,27 +1967,51 @@
         {
           "start": 0,
           "end": 2,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 11,
           "end": 14,
-          "name": "消渴疾"
+          "surface": "消渴疾",
+          "entity": "消渴疾",
+          "type": "concept"
+        },
+        {
+          "start": 52,
+          "end": 53,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         },
         {
           "start": 54,
           "end": 56,
-          "name": "長楊"
+          "surface": "長楊",
+          "entity": "长杨宫",
+          "type": "place"
         },
         {
           "start": 63,
           "end": 65,
-          "name": "天子"
+          "surface": "天子",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         },
         {
           "start": 77,
           "end": 79,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
+        },
+        {
+          "start": 79,
+          "end": 80,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         }
       ]
     },
@@ -1198,37 +2022,58 @@
         {
           "start": 14,
           "end": 16,
-          "name": "烏獲"
+          "surface": "烏獲",
+          "entity": "乌获",
+          "type": "person"
         },
         {
           "start": 22,
           "end": 24,
-          "name": "慶忌"
+          "surface": "慶忌",
+          "entity": "庆忌",
+          "type": "person"
         },
         {
           "start": 30,
+          "end": 31,
+          "surface": "賁",
+          "entity": "孟贲",
+          "type": "person"
+        },
+        {
+          "start": 32,
           "end": 33,
-          "name": "賁、育"
+          "surface": "育",
+          "entity": "夏育",
+          "type": "person"
         },
         {
           "start": 55,
           "end": 57,
-          "name": "陛下"
+          "surface": "陛下",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         },
         {
           "start": 110,
           "end": 112,
-          "name": "烏獲"
+          "surface": "烏獲",
+          "entity": "乌获",
+          "type": "person"
         },
         {
           "start": 113,
           "end": 115,
-          "name": "逢蒙"
+          "surface": "逢蒙",
+          "entity": "逢蒙",
+          "type": "person"
         },
         {
           "start": 167,
           "end": 169,
-          "name": "天子"
+          "surface": "天子",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         }
       ]
     },
@@ -1239,7 +2084,9 @@
         {
           "start": 91,
           "end": 93,
-          "name": "陛下"
+          "surface": "陛下",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         }
       ]
     },
@@ -1250,7 +2097,9 @@
         {
           "start": 66,
           "end": 68,
-          "name": "陛下"
+          "surface": "陛下",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         }
       ]
     },
@@ -1259,14 +2108,25 @@
       "text": "上善之。還過宜春宮，⟦0⟧相如奏賦以哀二世行失也。其辭曰：",
       "mentions": [
         {
+          "start": 0,
+          "end": 1,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
+        },
+        {
           "start": 6,
           "end": 9,
-          "name": "宜春宮"
+          "surface": "宜春宮",
+          "entity": "宜春宫",
+          "type": "place"
         },
         {
           "start": 13,
           "end": 15,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         }
       ]
     },
@@ -1275,9 +2135,18 @@
       "text": "登陂阤之長阪兮，⟦0⟧坌入曾宮之嵳峩。⟦1⟧⟦2⟧臨曲江之隑州兮，⟦3⟧⟦4⟧望南山之參差。巖巖深山之谾谾兮，⟦5⟧⟦6⟧通谷豁兮谽𧯋。⟦7⟧汩淢噏習以永逝兮，⟦8⟧注平皐之廣衍。觀衆樹之塕薆兮，覽竹林之榛榛。東馳土山兮，北揭石瀨。⟦9⟧彌節容與兮，⟦10⟧歷弔二世。持身不謹兮，亡國失勢。信讒不寤兮，宗廟滅絕。嗚呼哀哉！操行之不得兮，墳墓蕪穢而不脩兮，魂無歸而不食。敻邈絕而不齊兮，彌久遠而愈佅。精罔閬而飛揚兮，拾九天而永逝。⟦11⟧嗚呼哀哉！",
       "mentions": [
         {
+          "start": 26,
+          "end": 28,
+          "surface": "曲江",
+          "entity": "曲江",
+          "type": "place"
+        },
+        {
           "start": 40,
           "end": 42,
-          "name": "南山"
+          "surface": "南山",
+          "entity": "南山（终南山）",
+          "type": "place"
         }
       ]
     },
@@ -1288,54 +2157,121 @@
         {
           "start": 0,
           "end": 2,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
+        },
+        {
+          "start": 4,
+          "end": 7,
+          "surface": "孝文園",
+          "entity": "孝文园",
+          "type": "place"
         },
         {
           "start": 12,
           "end": 14,
-          "name": "天子"
+          "surface": "天子",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         },
         {
           "start": 16,
           "end": 18,
-          "name": "子虛"
+          "surface": "子虛",
+          "entity": "子虚（虚构）",
+          "type": "person"
         },
         {
           "start": 21,
           "end": 23,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
+        },
+        {
+          "start": 24,
+          "end": 25,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         },
         {
           "start": 33,
           "end": 35,
-          "name": "上林"
-        },
-        {
-          "start": 50,
-          "end": 53,
-          "name": "大人賦"
+          "surface": "上林",
+          "entity": "上林苑",
+          "type": "place"
         },
         {
           "start": 67,
           "end": 69,
-          "name": "相如"
-        },
-        {
-          "start": 106,
-          "end": 109,
-          "name": "大人賦"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         }
       ]
     },
     {
       "para_id": "p52",
       "text": "世有大人兮，在于中州。宅彌萬里兮，曾不足以少留。悲世俗之迫隘兮，朅輕舉而遠遊。⟦0⟧垂絳幡之素蜺兮，載雲氣而上浮。建格澤之長竿兮，緫光耀之采旄。⟦1⟧垂旬始以爲幓兮，抴彗星而爲髾。⟦2⟧掉指橋以偃蹇兮，⟦3⟧⟦4⟧又旖旎以招搖。攬欃槍以爲旌兮，⟦5⟧靡屈虹而爲綢。⟦6⟧⟦7⟧紅杳渺以眩湣兮，⟦8⟧⟦9⟧焱風涌而雲浮。駕應龍象輿之蠖略逶麗兮，驂赤螭青蚪之𧍘蟉蜿蜒。低卬夭蟜据以驕驁兮，⟦10⟧詘折隆窮蠼以連卷⟦11⟧沛艾赳螑仡以佁儗兮，⟦12⟧⟦13⟧放散畔岸驤以孱顏。⟦14⟧跮踱輵轄容以委麗兮，綢繆偃蹇怵𤟽以梁倚。⟦15⟧⟦16⟧紏蓼呌奡蹋以艐路兮，⟦17⟧⟦18⟧蔑蒙踊躍騰而狂趡。⟦19⟧莅颯卉翕熛至電過兮，煥然霧除，霍然雲消。",
-      "mentions": []
+      "mentions": [
+        {
+          "start": 8,
+          "end": 10,
+          "surface": "中州",
+          "entity": "中州",
+          "type": "place"
+        },
+        {
+          "start": 54,
+          "end": 55,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
+        },
+        {
+          "start": 256,
+          "end": 257,
+          "surface": "梁",
+          "entity": "梁国",
+          "type": "place"
+        }
+      ]
     },
     {
       "para_id": "p53",
       "text": "邪絕少陽而登太陰兮，與真人乎相求。⟦0⟧互折窈窕以右轉兮，橫厲飛泉以正東。⟦1⟧悉徵靈圉而選之兮，部乘衆神於瑤光。⟦2⟧使五帝先導兮，⟦3⟧反太一而從陵陽。⟦4⟧⟦5⟧左玄冥而右含靁兮，⟦6⟧前陸離而後潏湟。⟦7⟧厮征北僑⟦8⟧⟦9⟧而役羨門兮，⟦10⟧屬岐伯使尚方。⟦11⟧祝融驚而蹕御兮，⟦12⟧清雰氣而後行。屯余車其萬乘兮，綷雲蓋而樹華旗。⟦13⟧使勾芒其將行兮，⟦14⟧吾欲往乎南嬉。",
-      "mentions": []
+      "mentions": [
+        {
+          "start": 2,
+          "end": 4,
+          "surface": "少陽",
+          "entity": "少阳/太阴",
+          "type": "place"
+        },
+        {
+          "start": 6,
+          "end": 8,
+          "surface": "太陰",
+          "entity": "少阳/太阴",
+          "type": "place"
+        },
+        {
+          "start": 61,
+          "end": 63,
+          "surface": "五帝",
+          "entity": "陈涉/汤武/三王五帝",
+          "type": "person"
+        },
+        {
+          "start": 101,
+          "end": 102,
+          "surface": "潏",
+          "entity": "八川（霸浐泾渭酆镐潦潏）",
+          "type": "place"
+        }
+      ]
     },
     {
       "para_id": "p54",
@@ -1344,37 +2280,58 @@
         {
           "start": 1,
           "end": 3,
-          "name": "唐堯"
+          "surface": "唐堯",
+          "entity": "唐尧",
+          "type": "person"
         },
         {
           "start": 4,
           "end": 6,
-          "name": "崇山"
+          "surface": "崇山",
+          "entity": "崇山",
+          "type": "place"
         },
         {
           "start": 9,
           "end": 11,
-          "name": "虞舜"
+          "surface": "虞舜",
+          "entity": "虞舜",
+          "type": "person"
         },
         {
           "start": 12,
           "end": 14,
-          "name": "九疑"
+          "surface": "九疑",
+          "entity": "九疑山",
+          "type": "place"
+        },
+        {
+          "start": 139,
+          "end": 141,
+          "surface": "弱水",
+          "entity": "弱水",
+          "type": "place"
+        },
+        {
+          "start": 152,
+          "end": 154,
+          "surface": "流沙",
+          "entity": "流沙",
+          "type": "place"
         },
         {
           "start": 241,
           "end": 243,
-          "name": "三危"
+          "surface": "三危",
+          "entity": "三危山",
+          "type": "place"
         },
         {
-          "start": 253,
-          "end": 255,
-          "name": "閶闔"
-        },
-        {
-          "start": 278,
-          "end": 280,
-          "name": "閬風"
+          "start": 319,
+          "end": 322,
+          "surface": "西王母",
+          "entity": "西王母",
+          "type": "person"
         }
       ]
     },
@@ -1383,9 +2340,39 @@
       "text": "回車朅來兮，絕道不周，⟦0⟧會食幽都。呼吸沆瀣飱朝霞兮，噍咀芝英兮嘰瓊華。⟦1⟧嬐侵潯而高縱兮，⟦2⟧⟦3⟧紛鴻涌而上厲。貫列缺之倒景兮，涉豐隆之滂沛。⟦4⟧⟦5⟧馳游道而循降兮，⟦6⟧騖遺霧而遠逝。迫區中之隘陜兮，舒節出乎北垠。遺屯騎於玄闕兮，軼先驅於寒門。⟦7⟧下崢嶸而無地兮，上寥廓而無天。視眩眠而無見兮，聽惝恍而無聞。乘虛無而上假兮，超無友而獨存。⟦8⟧",
       "mentions": [
         {
+          "start": 8,
+          "end": 10,
+          "surface": "不周",
+          "entity": "不周山",
+          "type": "place"
+        },
+        {
           "start": 16,
           "end": 18,
-          "name": "幽都"
+          "surface": "幽都",
+          "entity": "幽都",
+          "type": "place"
+        },
+        {
+          "start": 58,
+          "end": 59,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
+        },
+        {
+          "start": 141,
+          "end": 142,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
+        },
+        {
+          "start": 167,
+          "end": 168,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         }
       ]
     },
@@ -1396,12 +2383,16 @@
         {
           "start": 0,
           "end": 2,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 9,
           "end": 11,
-          "name": "天子"
+          "surface": "天子",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         }
       ]
     },
@@ -1412,103 +2403,154 @@
         {
           "start": 0,
           "end": 2,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 8,
           "end": 10,
-          "name": "茂陵"
+          "surface": "茂陵",
+          "entity": "茂陵",
+          "type": "place"
         },
         {
           "start": 11,
           "end": 13,
-          "name": "天子"
+          "surface": "天子",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         },
         {
-          "start": 18,
+          "start": 16,
           "end": 20,
-          "name": "相如"
+          "surface": "司馬相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 42,
           "end": 44,
-          "name": "所忠"
+          "surface": "所忠",
+          "entity": "所忠",
+          "type": "person"
         },
         {
           "start": 53,
           "end": 55,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
-          "start": 125,
-          "end": 127,
-          "name": "封禪"
+          "start": 70,
+          "end": 72,
+          "surface": "長卿",
+          "entity": "司马相如（长卿）",
+          "type": "person"
+        },
+        {
+          "start": 93,
+          "end": 95,
+          "surface": "長卿",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 130,
           "end": 132,
-          "name": "所忠"
+          "surface": "所忠",
+          "entity": "所忠",
+          "type": "person"
         },
         {
           "start": 138,
           "end": 140,
-          "name": "天子"
+          "surface": "天子",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         }
       ]
     },
     {
       "para_id": "p58",
       "text": "伊上古之初肇，自昊穹兮生民，歷撰列辟，⟦0⟧⟦1⟧以迄于秦。率邇者踵武，⟦2⟧⟦3⟧逖聽者風聲。⟦4⟧⟦5⟧紛綸葳蕤，⟦6⟧堙滅而不稱者，不可勝數也。續昭夏，崇號謚，略可道者七十有二君。⟦7⟧⟦8⟧罔若淑而不昌，疇逆失而能存？⟦9⟧",
-      "mentions": []
+      "mentions": [
+        {
+          "start": 1,
+          "end": 2,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
+        }
+      ]
     },
     {
       "para_id": "p59",
       "text": "軒轅之前，遐哉邈乎，其詳不可得聞也。五三六經載籍之傳，⟦0⟧維見可觀也。書曰「元首明哉，股肱良哉」。因斯以談，君莫盛於唐堯，臣莫賢於后稷。后稷創業於唐，公劉發迹於西戎，文王改制，爰周郅隆，⟦1⟧⟦2⟧大行越成，⟦3⟧⟦4⟧而後陵夷衰微，千載無聲，⟦5⟧豈不善始善終哉。然無異端，慎所由於前，謹遺教於後耳。故軌迹夷易，易遵也；湛恩濛涌，易豐也；憲度著明，易則也；垂統理順，易繼也。是以業隆於繈褓而崇冠于二后。⟦6⟧揆厥所元，終都攸卒，⟦7⟧未有殊尤絕迹可考于今者也。然猶躡梁父，登泰山，建顯號，施尊名。大漢之德，㷭涌原泉，⟦8⟧⟦9⟧沕潏漫衍，旁魄四塞，雲尃霧散，⟦10⟧上暢九垓，下泝八埏。⟦11⟧懷生之類霑濡浸潤，恊氣橫流，武節飄逝，邇陜游原，逈闊泳沫，⟦12⟧首惡湮沒，闇昧昭晢，⟦13⟧昆蟲凱澤，囬首面內。⟦14⟧然後囿騶虞之珍羣，徼麋鹿之怪獸，⟦15⟧䆃一莖六穗於庖，⟦16⟧⟦17⟧犧雙觡共抵之獸，⟦18⟧獲周餘珍收龜于岐，⟦19⟧招翠黃乘龍於沼。⟦20⟧⟦21⟧鬼神接靈圉，賔於間館。⟦22⟧奇物譎詭，俶儻窮變。欽哉，符瑞臻茲，猶以爲薄，不敢道封禪。蓋周躍魚隕杭，休之以燎，⟦23⟧微夫斯之爲符也，以登介丘，不亦恧乎！⟦24⟧進讓之道，其何爽與？⟦25⟧⟦26⟧",
       "mentions": [
         {
-          "start": 0,
-          "end": 2,
-          "name": "軒轅"
-        },
-        {
           "start": 59,
           "end": 61,
-          "name": "唐堯"
+          "surface": "唐堯",
+          "entity": "唐尧",
+          "type": "person"
         },
         {
           "start": 66,
           "end": 68,
-          "name": "后稷"
+          "surface": "后稷",
+          "entity": "后稷",
+          "type": "person"
         },
         {
           "start": 69,
           "end": 71,
-          "name": "后稷"
+          "surface": "后稷",
+          "entity": "后稷",
+          "type": "person"
         },
         {
           "start": 76,
           "end": 78,
-          "name": "公劉"
+          "surface": "公劉",
+          "entity": "公刘",
+          "type": "person"
         },
         {
           "start": 84,
           "end": 86,
-          "name": "文王"
+          "surface": "文王",
+          "entity": "周文王",
+          "type": "person"
         },
         {
           "start": 235,
           "end": 237,
-          "name": "梁父"
+          "surface": "梁父",
+          "entity": "梁父山",
+          "type": "place"
         },
         {
           "start": 239,
           "end": 241,
-          "name": "泰山"
+          "surface": "泰山",
+          "entity": "泰山",
+          "type": "place"
         },
         {
-          "start": 478,
-          "end": 480,
-          "name": "封禪"
+          "start": 267,
+          "end": 268,
+          "surface": "潏",
+          "entity": "八川（霸浐泾渭酆镐潦潏）",
+          "type": "place"
+        },
+        {
+          "start": 285,
+          "end": 286,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         }
       ]
     },
@@ -1517,44 +2559,81 @@
       "text": "於是大司馬進曰：「陛下仁育羣生，義征不憓，⟦0⟧諸夏樂貢，百蠻執贄，德侔往初，功無與二，休烈浹洽，符瑞衆變，期應紹至，不特創見。⟦1⟧⟦2⟧意者泰山、梁父設壇場望幸，蓋號以況榮，⟦3⟧⟦4⟧上帝垂恩儲祉，將以薦成，⟦5⟧⟦6⟧陛下謙讓而弗發也。挈三神之驩，⟦7⟧⟦8⟧缺王道之儀，羣臣恧焉。或謂且天爲質闇，珍符固不可辭；⟦9⟧若然辭之，是泰山靡記而梁父靡幾也。⟦10⟧⟦11⟧亦各並時而榮，咸濟世而屈，⟦12⟧說者尚何稱於後，⟦13⟧而云七十二君乎？⟦14⟧夫修德以錫符，奉符以行事，不爲進越。⟦15⟧故聖王弗替，而修禮地祇，謁欵天神，⟦16⟧勒功中嶽，以彰至尊，舒盛德，發號榮，受厚福，以浸黎民也。皇皇哉斯事！天下之壯觀，王者之丕業，不可貶也。願陛下全之。而後因雜薦紳先生之略術，使獲燿日月之末光絕炎，以展采錯事，⟦17⟧猶兼正列其義，校飭厥文，作春秋一藝，⟦18⟧將襲舊六爲七，⟦19⟧攄之無窮，⟦20⟧⟦21⟧俾萬世得激清流，揚微波，蜚英聲，騰茂實。⟦22⟧前聖之所以永保鴻名而常爲稱首者用此，⟦23⟧宜命掌故悉奏其義而覽焉。」⟦24⟧",
       "mentions": [
         {
+          "start": 2,
+          "end": 5,
+          "surface": "大司馬",
+          "entity": "卫青（大司马）",
+          "type": "person"
+        },
+        {
           "start": 9,
           "end": 11,
-          "name": "陛下"
+          "surface": "陛下",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "surface": "育",
+          "entity": "夏育",
+          "type": "person"
         },
         {
           "start": 72,
           "end": 74,
-          "name": "泰山"
+          "surface": "泰山",
+          "entity": "泰山",
+          "type": "place"
         },
         {
           "start": 75,
           "end": 77,
-          "name": "梁父"
+          "surface": "梁父",
+          "entity": "梁父山",
+          "type": "place"
+        },
+        {
+          "start": 95,
+          "end": 96,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         },
         {
           "start": 113,
           "end": 115,
-          "name": "陛下"
+          "surface": "陛下",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         },
         {
           "start": 169,
           "end": 171,
-          "name": "泰山"
+          "surface": "泰山",
+          "entity": "泰山",
+          "type": "place"
         },
         {
           "start": 174,
           "end": 176,
-          "name": "梁父"
+          "surface": "梁父",
+          "entity": "梁父山",
+          "type": "place"
         },
         {
           "start": 274,
           "end": 276,
-          "name": "中嶽"
+          "surface": "中嶽",
+          "entity": "中岳嵩山",
+          "type": "place"
         },
         {
           "start": 324,
           "end": 326,
-          "name": "陛下"
+          "surface": "陛下",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         }
       ]
     },
@@ -1565,19 +2644,24 @@
         {
           "start": 2,
           "end": 4,
-          "name": "天子"
-        },
-        {
-          "start": 34,
-          "end": 36,
-          "name": "封禪"
+          "surface": "天子",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
         }
       ]
     },
     {
       "para_id": "p62",
       "text": "自我天覆，雲之油油。⟦0⟧甘露時雨，厥壤可游。滋液滲漉，何生不育；⟦1⟧⟦2⟧嘉糓六穗，我穡曷蓄。⟦3⟧",
-      "mentions": []
+      "mentions": [
+        {
+          "start": 31,
+          "end": 32,
+          "surface": "育",
+          "entity": "夏育",
+          "type": "person"
+        }
+      ]
     },
     {
       "para_id": "p63",
@@ -1592,7 +2676,15 @@
     {
       "para_id": "p65",
       "text": "濯濯之麟，游彼靈畤。⟦0⟧⟦1⟧孟冬十月，君徂郊祀。馳我君輿，帝以享祉。三代之前，蓋未嘗有。",
-      "mentions": []
+      "mentions": [
+        {
+          "start": 7,
+          "end": 9,
+          "surface": "靈畤",
+          "entity": "灵畤",
+          "type": "place"
+        }
+      ]
     },
     {
       "para_id": "p66",
@@ -1606,7 +2698,9 @@
         {
           "start": 20,
           "end": 22,
-          "name": "封巒"
+          "surface": "封巒",
+          "entity": "咸阳/长安宫观",
+          "type": "place"
         }
       ]
     },
@@ -1615,9 +2709,18 @@
       "text": "披藝觀之，天人之際已交，上下相發允荅。聖王之德，兢兢翼翼也。故曰「興必慮衰，安必思危」。是以湯武至尊嚴，不失肅祗；舜在假典，⟦0⟧顧省厥遺：此之謂也。",
       "mentions": [
         {
-          "start": 33,
-          "end": 42,
-          "name": "興必慮衰，安必思危"
+          "start": 12,
+          "end": 13,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
+        },
+        {
+          "start": 46,
+          "end": 48,
+          "surface": "湯武",
+          "entity": "陈涉/汤武/三王五帝",
+          "type": "person"
         }
       ]
     },
@@ -1626,29 +2729,53 @@
       "text": "司馬相如旣卒⟦0⟧五歲，天子始祭后土。八年而遂先禮中嶽，⟦1⟧封于太山，⟦2⟧至梁父禪肅然。⟦3⟧",
       "mentions": [
         {
-          "start": 2,
+          "start": 0,
           "end": 4,
-          "name": "相如"
+          "surface": "司馬相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 12,
           "end": 14,
-          "name": "天子"
+          "surface": "天子",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
+        },
+        {
+          "start": 16,
+          "end": 18,
+          "surface": "后土",
+          "entity": "后土祠（汾阴）",
+          "type": "place"
         },
         {
           "start": 25,
           "end": 27,
-          "name": "中嶽"
+          "surface": "中嶽",
+          "entity": "中岳嵩山",
+          "type": "place"
         },
         {
           "start": 33,
           "end": 35,
-          "name": "太山"
+          "surface": "太山",
+          "entity": "泰山",
+          "type": "place"
         },
         {
           "start": 40,
           "end": 42,
-          "name": "梁父"
+          "surface": "梁父",
+          "entity": "梁父山",
+          "type": "place"
+        },
+        {
+          "start": 43,
+          "end": 45,
+          "surface": "肅然",
+          "entity": "肃然山",
+          "type": "place"
         }
       ]
     },
@@ -1659,7 +2786,16 @@
         {
           "start": 0,
           "end": 2,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
+        },
+        {
+          "start": 8,
+          "end": 11,
+          "surface": "平陵侯",
+          "entity": "苏建（平陵侯）",
+          "type": "person"
         }
       ]
     },
@@ -1668,24 +2804,18 @@
       "text": "太史公曰：春秋推見至隱，⟦0⟧⟦1⟧易本隱之以顯，⟦2⟧⟦3⟧大雅言王公大人而德逮黎庶，⟦4⟧⟦5⟧小雅譏小己之得失，其流及上。⟦6⟧⟦7⟧所以言雖外殊，其合德一也。相如雖多虛辭濫說，然其要歸引之節儉，此與詩之風諫何異。楊雄以爲靡麗之賦，勸百風一，猶馳騁鄭衞之聲，曲終而奏雅，不已虧乎？余采其語可論者著于篇。",
       "mentions": [
         {
+          "start": 62,
+          "end": 63,
+          "surface": "上",
+          "entity": "刘彻（汉武帝）",
+          "type": "person"
+        },
+        {
           "start": 83,
           "end": 85,
-          "name": "相如"
-        },
-        {
-          "start": 105,
-          "end": 107,
-          "name": "風諫"
-        },
-        {
-          "start": 110,
-          "end": 112,
-          "name": "楊雄"
-        },
-        {
-          "start": 119,
-          "end": 123,
-          "name": "勸百風一"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         }
       ]
     },
@@ -1696,22 +2826,23 @@
         {
           "start": 6,
           "end": 8,
-          "name": "相如"
+          "surface": "相如",
+          "entity": "司马相如（长卿）",
+          "type": "person"
         },
         {
           "start": 26,
           "end": 28,
-          "name": "子虛"
+          "surface": "子虛",
+          "entity": "子虚（虚构）",
+          "type": "person"
         },
         {
           "start": 31,
           "end": 33,
-          "name": "上林"
-        },
-        {
-          "start": 48,
-          "end": 50,
-          "name": "封禪"
+          "surface": "上林",
+          "entity": "上林苑",
+          "type": "place"
         }
       ]
     }
