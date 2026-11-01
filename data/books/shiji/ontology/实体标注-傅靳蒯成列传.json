@@ -1,0 +1,825 @@
+{
+  "book": "史记",
+  "chapter_id": "shiji-傅靳蒯成列傳第三十八",
+  "chapter_title": "傅靳蒯成列传第三十八",
+  "version": "1.0-final",
+  "annotations": [
+    {
+      "target_para_id": "p0",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 3,
+          "text": "陽陵侯",
+          "type": "person",
+          "entity": "傅宽"
+        },
+        {
+          "start": 3,
+          "end": 5,
+          "text": "傅寬",
+          "type": "person",
+          "entity": "傅宽"
+        },
+        {
+          "start": 20,
+          "end": 22,
+          "text": "橫陽",
+          "type": "place",
+          "entity": "横阳"
+        },
+        {
+          "start": 25,
+          "end": 27,
+          "text": "安陽",
+          "type": "place",
+          "entity": "安阳"
+        },
+        {
+          "start": 28,
+          "end": 30,
+          "text": "杠里",
+          "type": "place",
+          "entity": "杠里"
+        },
+        {
+          "start": 32,
+          "end": 34,
+          "text": "趙賁",
+          "type": "person",
+          "entity": "赵贲"
+        },
+        {
+          "start": 36,
+          "end": 38,
+          "text": "開封",
+          "type": "place",
+          "entity": "开封"
+        },
+        {
+          "start": 41,
+          "end": 43,
+          "text": "楊熊",
+          "type": "person",
+          "entity": "杨熊"
+        },
+        {
+          "start": 43,
+          "end": 45,
+          "text": "曲遇",
+          "type": "place",
+          "entity": "曲遇"
+        },
+        {
+          "start": 46,
+          "end": 48,
+          "text": "陽武",
+          "type": "place",
+          "entity": "阳武"
+        },
+        {
+          "start": 61,
+          "end": 63,
+          "text": "霸上",
+          "type": "place",
+          "entity": "霸上"
+        },
+        {
+          "start": 64,
+          "end": 66,
+          "text": "沛公",
+          "type": "person",
+          "entity": "刘邦"
+        },
+        {
+          "start": 68,
+          "end": 70,
+          "text": "漢王",
+          "type": "person",
+          "entity": "刘邦"
+        },
+        {
+          "start": 71,
+          "end": 73,
+          "text": "漢王",
+          "type": "person",
+          "entity": "刘邦"
+        },
+        {
+          "start": 83,
+          "end": 85,
+          "text": "漢中",
+          "type": "place",
+          "entity": "蜀、汉"
+        },
+        {
+          "start": 100,
+          "end": 102,
+          "text": "雕陰",
+          "type": "place",
+          "entity": "雕阴"
+        },
+        {
+          "start": 105,
+          "end": 107,
+          "text": "項籍",
+          "type": "person",
+          "entity": "项籍"
+        },
+        {
+          "start": 119,
+          "end": 121,
+          "text": "項冠",
+          "type": "person",
+          "entity": "项冠"
+        },
+        {
+          "start": 122,
+          "end": 124,
+          "text": "周蘭",
+          "type": "person",
+          "entity": "周兰"
+        },
+        {
+          "start": 125,
+          "end": 127,
+          "text": "龍且",
+          "type": "person",
+          "entity": "龙且"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p1",
+      "mentions": [
+        {
+          "start": 7,
+          "end": 9,
+          "text": "歷下",
+          "type": "place",
+          "entity": "历下"
+        },
+        {
+          "start": 12,
+          "end": 14,
+          "text": "田解",
+          "type": "person",
+          "entity": "田解"
+        },
+        {
+          "start": 16,
+          "end": 19,
+          "text": "相國參",
+          "type": "person",
+          "entity": "曹参"
+        },
+        {
+          "start": 41,
+          "end": 44,
+          "text": "陽陵侯",
+          "type": "person",
+          "entity": "傅宽"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p2",
+      "mentions": [
+        {
+          "start": 4,
+          "end": 6,
+          "text": "陳豨",
+          "type": "person",
+          "entity": "陈豨"
+        },
+        {
+          "start": 8,
+          "end": 11,
+          "text": "太尉勃",
+          "type": "person",
+          "entity": "周勃"
+        },
+        {
+          "start": 16,
+          "end": 19,
+          "text": "丞相噲",
+          "type": "person",
+          "entity": "樊哙"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p3",
+      "mentions": [
+        {
+          "start": 12,
+          "end": 15,
+          "text": "須侯精",
+          "type": "person",
+          "entity": "傅精"
+        },
+        {
+          "start": 24,
+          "end": 27,
+          "text": "共侯則",
+          "type": "person",
+          "entity": "傅则"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p4",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 3,
+          "text": "信武侯",
+          "type": "person",
+          "entity": "靳歙"
+        },
+        {
+          "start": 3,
+          "end": 5,
+          "text": "靳歙",
+          "type": "person",
+          "entity": "靳歙"
+        },
+        {
+          "start": 12,
+          "end": 14,
+          "text": "宛朐",
+          "type": "place",
+          "entity": "宛朐"
+        },
+        {
+          "start": 16,
+          "end": 18,
+          "text": "濟陽",
+          "type": "place",
+          "entity": "济阳"
+        },
+        {
+          "start": 20,
+          "end": 22,
+          "text": "李由",
+          "type": "person",
+          "entity": "李由"
+        },
+        {
+          "start": 27,
+          "end": 29,
+          "text": "亳南",
+          "type": "place",
+          "entity": "亳南"
+        },
+        {
+          "start": 30,
+          "end": 32,
+          "text": "開封",
+          "type": "place",
+          "entity": "开封"
+        },
+        {
+          "start": 66,
+          "end": 68,
+          "text": "藍田",
+          "type": "place",
+          "entity": "蓝田"
+        },
+        {
+          "start": 96,
+          "end": 98,
+          "text": "霸上",
+          "type": "place",
+          "entity": "霸上"
+        },
+        {
+          "start": 99,
+          "end": 101,
+          "text": "沛公",
+          "type": "person",
+          "entity": "刘邦"
+        },
+        {
+          "start": 103,
+          "end": 105,
+          "text": "漢王",
+          "type": "person",
+          "entity": "刘邦"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p5",
+      "mentions": [
+        {
+          "start": 8,
+          "end": 10,
+          "text": "章平",
+          "type": "person",
+          "entity": "章平"
+        },
+        {
+          "start": 12,
+          "end": 14,
+          "text": "隴西",
+          "type": "place",
+          "entity": "陇西"
+        },
+        {
+          "start": 19,
+          "end": 21,
+          "text": "隴西",
+          "type": "place",
+          "entity": "陇西"
+        },
+        {
+          "start": 49,
+          "end": 51,
+          "text": "彭城",
+          "type": "place",
+          "entity": "彭城"
+        },
+        {
+          "start": 58,
+          "end": 60,
+          "text": "雍丘",
+          "type": "place",
+          "entity": "雍丘"
+        },
+        {
+          "start": 65,
+          "end": 67,
+          "text": "王武",
+          "type": "person",
+          "entity": "王武"
+        },
+        {
+          "start": 76,
+          "end": 78,
+          "text": "邢說",
+          "type": "person",
+          "entity": "邢说"
+        },
+        {
+          "start": 79,
+          "end": 81,
+          "text": "菑南",
+          "type": "place",
+          "entity": "菑南"
+        },
+        {
+          "start": 115,
+          "end": 117,
+          "text": "滎陽",
+          "type": "place",
+          "entity": "荥阳"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p6",
+      "mentions": [
+        {
+          "start": 2,
+          "end": 4,
+          "text": "河內",
+          "type": "place",
+          "entity": "河内"
+        },
+        {
+          "start": 8,
+          "end": 10,
+          "text": "賁郝",
+          "type": "person",
+          "entity": "贲郝"
+        },
+        {
+          "start": 11,
+          "end": 13,
+          "text": "朝歌",
+          "type": "place",
+          "entity": "朝歌"
+        },
+        {
+          "start": 36,
+          "end": 38,
+          "text": "安陽",
+          "type": "place",
+          "entity": "安阳"
+        },
+        {
+          "start": 42,
+          "end": 44,
+          "text": "棘蒲",
+          "type": "place",
+          "entity": "棘蒲"
+        },
+        {
+          "start": 79,
+          "end": 81,
+          "text": "邯鄲",
+          "type": "place",
+          "entity": "邯郸"
+        },
+        {
+          "start": 84,
+          "end": 86,
+          "text": "平陽",
+          "type": "place",
+          "entity": "平阳"
+        },
+        {
+          "start": 110,
+          "end": 112,
+          "text": "朝歌",
+          "type": "place",
+          "entity": "朝歌"
+        },
+        {
+          "start": 113,
+          "end": 115,
+          "text": "邯鄲",
+          "type": "place",
+          "entity": "邯郸"
+        },
+        {
+          "start": 124,
+          "end": 126,
+          "text": "邯鄲",
+          "type": "place",
+          "entity": "邯郸"
+        },
+        {
+          "start": 132,
+          "end": 134,
+          "text": "敖倉",
+          "type": "place",
+          "entity": "敖仓"
+        },
+        {
+          "start": 136,
+          "end": 138,
+          "text": "項籍",
+          "type": "person",
+          "entity": "项籍"
+        },
+        {
+          "start": 139,
+          "end": 141,
+          "text": "成臯",
+          "type": "place",
+          "entity": "成皋"
+        },
+        {
+          "start": 150,
+          "end": 152,
+          "text": "滎陽",
+          "type": "place",
+          "entity": "荥阳"
+        },
+        {
+          "start": 153,
+          "end": 155,
+          "text": "襄邑",
+          "type": "place",
+          "entity": "襄邑"
+        },
+        {
+          "start": 157,
+          "end": 159,
+          "text": "項冠",
+          "type": "person",
+          "entity": "项冠"
+        },
+        {
+          "start": 167,
+          "end": 173,
+          "text": "繒、郯、下邳",
+          "type": "place",
+          "entity": "缯、郯、下邳"
+        },
+        {
+          "start": 176,
+          "end": 180,
+          "text": "蘄、竹邑",
+          "type": "place",
+          "entity": "蕲、竹邑"
+        },
+        {
+          "start": 182,
+          "end": 184,
+          "text": "項悍",
+          "type": "person",
+          "entity": "项悍"
+        },
+        {
+          "start": 184,
+          "end": 186,
+          "text": "濟陽",
+          "type": "place",
+          "entity": "济阳"
+        },
+        {
+          "start": 190,
+          "end": 192,
+          "text": "項籍",
+          "type": "person",
+          "entity": "项籍"
+        },
+        {
+          "start": 200,
+          "end": 202,
+          "text": "江陵",
+          "type": "place",
+          "entity": "江陵"
+        },
+        {
+          "start": 204,
+          "end": 206,
+          "text": "江陵",
+          "type": "place",
+          "entity": "江陵"
+        },
+        {
+          "start": 219,
+          "end": 222,
+          "text": "江陵王",
+          "type": "person",
+          "entity": "江陵王"
+        },
+        {
+          "start": 219,
+          "end": 221,
+          "text": "江陵",
+          "type": "place",
+          "entity": "江陵"
+        },
+        {
+          "start": 226,
+          "end": 228,
+          "text": "雒陽",
+          "type": "place",
+          "entity": "雒阳"
+        },
+        {
+          "start": 231,
+          "end": 233,
+          "text": "南郡",
+          "type": "place",
+          "entity": "南郡"
+        },
+        {
+          "start": 259,
+          "end": 262,
+          "text": "信武侯",
+          "type": "person",
+          "entity": "靳歙"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p7",
+      "mentions": [
+        {
+          "start": 9,
+          "end": 11,
+          "text": "韓信",
+          "type": "person",
+          "entity": "韩信"
+        },
+        {
+          "start": 11,
+          "end": 13,
+          "text": "平城",
+          "type": "place",
+          "entity": "平城"
+        },
+        {
+          "start": 17,
+          "end": 19,
+          "text": "東垣",
+          "type": "place",
+          "entity": "东垣"
+        },
+        {
+          "start": 46,
+          "end": 51,
+          "text": "陳豨丞相敞",
+          "type": "person",
+          "entity": "陈豨丞相敞"
+        },
+        {
+          "start": 46,
+          "end": 48,
+          "text": "陳豨",
+          "type": "person",
+          "entity": "陈豨"
+        },
+        {
+          "start": 57,
+          "end": 59,
+          "text": "曲逆",
+          "type": "place",
+          "entity": "曲逆"
+        },
+        {
+          "start": 62,
+          "end": 64,
+          "text": "黥布",
+          "type": "person",
+          "entity": "黥布"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p8",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 2,
+          "text": "高后",
+          "type": "person",
+          "entity": "吕太后"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p9",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 3,
+          "text": "蒯成侯",
+          "type": "person",
+          "entity": "周緤"
+        },
+        {
+          "start": 16,
+          "end": 18,
+          "text": "高祖",
+          "type": "person",
+          "entity": "刘邦"
+        },
+        {
+          "start": 29,
+          "end": 31,
+          "text": "霸上",
+          "type": "place",
+          "entity": "霸上"
+        },
+        {
+          "start": 34,
+          "end": 37,
+          "text": "蜀、漢",
+          "type": "place",
+          "entity": "蜀、汉"
+        },
+        {
+          "start": 45,
+          "end": 47,
+          "text": "池陽",
+          "type": "place",
+          "entity": "池阳"
+        },
+        {
+          "start": 56,
+          "end": 58,
+          "text": "平陰",
+          "type": "place",
+          "entity": "平阴"
+        },
+        {
+          "start": 60,
+          "end": 63,
+          "text": "淮陰侯",
+          "type": "person",
+          "entity": "韩信"
+        },
+        {
+          "start": 64,
+          "end": 66,
+          "text": "襄國",
+          "type": "place",
+          "entity": "襄国"
+        },
+        {
+          "start": 83,
+          "end": 86,
+          "text": "信武侯",
+          "type": "person",
+          "entity": "靳歙"
+        },
+        {
+          "start": 95,
+          "end": 97,
+          "text": "高祖",
+          "type": "person",
+          "entity": "刘邦"
+        },
+        {
+          "start": 104,
+          "end": 107,
+          "text": "蒯成侯",
+          "type": "person",
+          "entity": "周緤"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p10",
+      "mentions": [
+        {
+          "start": 4,
+          "end": 6,
+          "text": "陳豨",
+          "type": "person",
+          "entity": "陈豨"
+        },
+        {
+          "start": 7,
+          "end": 10,
+          "text": "蒯成侯",
+          "type": "person",
+          "entity": "周緤"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p11",
+      "mentions": []
+    },
+    {
+      "target_para_id": "p12",
+      "mentions": [
+        {
+          "start": 5,
+          "end": 8,
+          "text": "陽陵侯",
+          "type": "person",
+          "entity": "傅宽"
+        },
+        {
+          "start": 8,
+          "end": 10,
+          "text": "傅寬",
+          "type": "person",
+          "entity": "傅宽"
+        },
+        {
+          "start": 11,
+          "end": 14,
+          "text": "信武侯",
+          "type": "person",
+          "entity": "靳歙"
+        },
+        {
+          "start": 14,
+          "end": 16,
+          "text": "靳歙",
+          "type": "person",
+          "entity": "靳歙"
+        },
+        {
+          "start": 21,
+          "end": 23,
+          "text": "高祖",
+          "type": "person",
+          "entity": "刘邦"
+        },
+        {
+          "start": 24,
+          "end": 26,
+          "text": "山東",
+          "type": "place",
+          "entity": "山东"
+        },
+        {
+          "start": 28,
+          "end": 30,
+          "text": "項籍",
+          "type": "person",
+          "entity": "项籍"
+        },
+        {
+          "start": 55,
+          "end": 58,
+          "text": "蒯成侯",
+          "type": "person",
+          "entity": "周緤"
+        },
+        {
+          "start": 58,
+          "end": 60,
+          "text": "周緤",
+          "type": "person",
+          "entity": "周緤"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p13",
+      "mentions": []
+    }
+  ]
+}
