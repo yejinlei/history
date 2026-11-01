@@ -1,0 +1,884 @@
+{
+  "book": "shiji",
+  "chapter_id": "shiji-魏豹彭越列傳第三十",
+  "chapter_title": "魏豹彭越列传第三十",
+  "version": "1.0",
+  "generated_at": "2026-11-01",
+  "note": "魏豹、彭越合传：一魏一梁，皆秦末起于微贱、乘时称王，终以叛汉/见疑而身死国除。魏豹以「人生一世间如白驹过隙」辞汉使、叛汉被虏杀；彭越以游击挠楚、会兵垓下功封梁王，终为吕后所诛、夷三族。太史公论其「智略绝人，独患无身」。本篇实体据底本 13 段重建，凡初稿混入他篇（薄姬许负出《外戚世家》、栾布出《季布栾布列传》、英布出《黥布列传》）及段号错位者，一律厘正。",
+  "entities": {
+    "persons": [
+      {
+        "name": "魏豹",
+        "alias": [
+          "西魏王"
+        ],
+        "note": "故魏诸公子，魏咎从弟。秦末复徇魏地立为魏王，项羽封为西魏王；降汉后以归视亲病为辞叛汉，绝河津畔汉，为韩信所虏，守荥阳时被周苛所杀。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p0",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p2",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p3"
+        ]
+      },
+      {
+        "name": "魏咎",
+        "alias": [
+          "宁陵君"
+        ],
+        "note": "魏豹从兄，故魏时封宁陵君；陈胜时周市立为魏王，章邯围临济，咎为民约降后自烧杀。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p0",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p1"
+        ]
+      },
+      {
+        "name": "彭越",
+        "alias": [
+          "彭仲",
+          "梁王"
+        ],
+        "note": "字仲，昌邑人。初渔钜野泽中为群盗，秦末起兵，楚汉战争中为汉游兵挠楚粮道，会兵垓下破项羽，封梁王都定陶；后以征陈豨称病不往见疑，被囚赦徙蜀，吕后劝高祖诛之，夷三族。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p4",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p5",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p6",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p7",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p8",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p9",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p10"
+        ]
+      },
+      {
+        "name": "周市",
+        "alias": [
+          "周巿"
+        ],
+        "note": "陈胜将，徇魏地，辞不受魏王而立魏王后魏咎；章邯围临济时出请救于齐楚。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p0",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p1"
+        ]
+      },
+      {
+        "name": "陈胜",
+        "alias": [
+          "陈王",
+          "陈涉"
+        ],
+        "note": "秦末首义者，遣周市徇魏地，五反而后遣立魏咎为魏王。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p0"
+        ]
+      },
+      {
+        "name": "章邯",
+        "alias": [],
+        "note": "秦将，破陈胜后进击魏王于临济，破杀周市、围临济迫魏咎自杀；后降项羽。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p1"
+        ]
+      },
+      {
+        "name": "项它",
+        "alias": [
+          "项佗"
+        ],
+        "note": "楚将，楚遣其与田巴将兵随周市救魏。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p1"
+        ]
+      },
+      {
+        "name": "田巴",
+        "alias": [],
+        "note": "齐将，齐遣其与项它将兵随周市救魏。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p1"
+        ]
+      },
+      {
+        "name": "楚怀王",
+        "alias": [
+          "熊心"
+        ],
+        "note": "项梁所立楚怀王，予魏豹数千人使复徇魏地。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p2"
+        ]
+      },
+      {
+        "name": "项羽",
+        "alias": [
+          "项籍",
+          "项王"
+        ],
+        "note": "西楚霸王，破秦入关分封，徙魏豹为西魏王；楚汉战争中为刘邦所破。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p2",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p4",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p7",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p8"
+        ]
+      },
+      {
+        "name": "刘邦",
+        "alias": [
+          "汉王",
+          "沛公",
+          "高帝",
+          "高祖"
+        ],
+        "note": "汉王，定三秦渡临晋，魏豹以国属之；魏豹叛后遣韩信虏之。彭越归汉，拜魏相国，后立为梁王。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p3",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p6",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p7",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p8",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p10"
+        ]
+      },
+      {
+        "name": "郦食其",
+        "alias": [
+          "郦生"
+        ],
+        "note": "汉王说客，往说魏豹不成，汉王遂遣韩信击魏。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p3"
+        ]
+      },
+      {
+        "name": "韩信",
+        "alias": [
+          "齐王信"
+        ],
+        "note": "汉大将军，击虏魏豹于河东；后为齐王，张良画策封地乃会兵垓下。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p3",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p8"
+        ]
+      },
+      {
+        "name": "周苛",
+        "alias": [],
+        "note": "汉守荥阳之将，楚围荥阳急，与枞公杀魏豹。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p3"
+        ]
+      },
+      {
+        "name": "田荣",
+        "alias": [
+          "齐王田荣"
+        ],
+        "note": "齐王田荣，汉元年叛项王，汉赐彭越将军印使下济阴击楚。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p6"
+        ]
+      },
+      {
+        "name": "萧公角",
+        "alias": [],
+        "note": "楚将（萧县县令名角），奉楚命击彭越，为大越所破。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p6"
+        ]
+      },
+      {
+        "name": "张良",
+        "alias": [
+          "留侯"
+        ],
+        "note": "汉高祖谋臣，固陵之败后献策割地许封韩信、彭越，二人乃会兵垓下。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p8"
+        ]
+      },
+      {
+        "name": "曹咎",
+        "alias": [],
+        "note": "楚将，项王东收彭越所下城邑时留守成皋。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p7"
+        ]
+      },
+      {
+        "name": "陈豨",
+        "alias": [],
+        "note": "汉将，汉十年秋反于代地，高祖自往击之，至邯郸征兵于梁，彭越称病不往。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p10"
+        ]
+      },
+      {
+        "name": "扈辄",
+        "alias": [],
+        "note": "彭越部将，劝彭越乘被责之机发兵反，彭越不听。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p10"
+        ]
+      },
+      {
+        "name": "吕后",
+        "alias": [
+          "吕雉"
+        ],
+        "note": "汉高祖后，道遇被赦徙蜀之彭越，许诺为之说情，反劝高祖「不如遂诛之」，令舍人告越复反，遂夷越三族。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p10"
+        ]
+      },
+      {
+        "name": "王恬开",
+        "alias": [
+          "王恬关"
+        ],
+        "note": "汉廷尉，奏请族灭彭越。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p10"
+        ]
+      }
+    ],
+    "places": [
+      {
+        "name": "临济",
+        "alias": [],
+        "note": "在今河南封丘东，章邯围魏王于此，魏咎约降后自烧杀。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p1"
+        ]
+      },
+      {
+        "name": "河东",
+        "alias": [
+          "河东郡"
+        ],
+        "note": "今山西西南部，项羽徙魏豹为西魏王于此，都平阳；韩信虏魏豹亦在河东。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p2",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p3"
+        ]
+      },
+      {
+        "name": "平阳",
+        "alias": [],
+        "note": "今山西临汾西南，西魏王魏豹之都。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p2"
+        ]
+      },
+      {
+        "name": "临晋",
+        "alias": [
+          "临晋关"
+        ],
+        "note": "即蒲津关，黄河重要渡口，汉王由此渡河，魏豹以国属汉。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p3"
+        ]
+      },
+      {
+        "name": "彭城",
+        "alias": [],
+        "note": "楚都，汉王率诸侯攻楚大败于此；彭越亦失其所下城。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p3",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p7"
+        ]
+      },
+      {
+        "name": "荥阳",
+        "alias": [],
+        "note": "今河南荥阳东北，楚汉战争主战场，魏豹被传诣、被杀于此。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p3",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p7"
+        ]
+      },
+      {
+        "name": "昌邑",
+        "alias": [],
+        "note": "今山东巨野南，彭越故里；后为彭越所下，又为其愿归处（故昌邑）。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p4",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p6",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p7",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p10"
+        ]
+      },
+      {
+        "name": "巨野泽",
+        "alias": [
+          "大野泽"
+        ],
+        "note": "在今山东巨野北，彭越渔于此、为群盗、聚兵起事之地。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p4",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p5",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p6"
+        ]
+      },
+      {
+        "name": "砀",
+        "alias": [
+          "砀县"
+        ],
+        "note": "今安徽砀山南，沛公从砀北击昌邑，彭越助之。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p6"
+        ]
+      },
+      {
+        "name": "济阴",
+        "alias": [],
+        "note": "郡名，今山东定陶一带，彭越受汉使将军印下济阴击楚。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p6"
+        ]
+      },
+      {
+        "name": "外黄",
+        "alias": [],
+        "note": "今河南民权西北，彭越将其兵归汉于外黄；后又攻下外黄等城。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p6",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p7"
+        ]
+      },
+      {
+        "name": "梁地",
+        "alias": [],
+        "note": "故魏地（梁地），彭越略定之、绝楚粮道于此，为其功业根本。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p6",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p7"
+        ]
+      },
+      {
+        "name": "睢阳",
+        "alias": [],
+        "note": "今河南商丘南，彭越攻下睢阳、外黄十七城。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p7"
+        ]
+      },
+      {
+        "name": "成皋",
+        "alias": [
+          "虎牢"
+        ],
+        "note": "今河南荥阳汜水镇，项王东收彭越所下城邑时使曹咎守此。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p7"
+        ]
+      },
+      {
+        "name": "谷城",
+        "alias": [
+          "穀城"
+        ],
+        "note": "今山东平阴东阿一带，彭越北走谷城；张良画策许以睢阳以北至谷城王彭越。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p7",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p8"
+        ]
+      },
+      {
+        "name": "阳夏",
+        "alias": [],
+        "note": "今河南太康，汉五年秋项王南走阳夏。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p7"
+        ]
+      },
+      {
+        "name": "固陵",
+        "alias": [],
+        "note": "今河南淮阳西北，汉王追楚为项籍所败处。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p8"
+        ]
+      },
+      {
+        "name": "陈",
+        "alias": [
+          "陈县"
+        ],
+        "note": "今河南淮阳，周市迎魏咎于陈而五反；张良画策「从陈以东傅海」；汉六年彭越朝陈。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p0",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p8",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p9"
+        ]
+      },
+      {
+        "name": "垓下",
+        "alias": [],
+        "note": "今安徽灵璧南，彭越会兵破项羽于此。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p8"
+        ]
+      },
+      {
+        "name": "定陶",
+        "alias": [],
+        "note": "今山东菏泽定陶区，彭越封梁王后建都于此。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p8"
+        ]
+      },
+      {
+        "name": "长安",
+        "alias": [],
+        "note": "西汉都城，今陕西西安西北，彭越九、十年朝于此；吕后从此来。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p9",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p10"
+        ]
+      },
+      {
+        "name": "邯郸",
+        "alias": [],
+        "note": "赵都，今河北邯郸，高祖击陈豨至邯郸，征兵于梁。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p10"
+        ]
+      },
+      {
+        "name": "洛阳",
+        "alias": [
+          "雒阳"
+        ],
+        "note": "今河南洛阳，彭越被囚及东还、议诛之地。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p10"
+        ]
+      },
+      {
+        "name": "郑",
+        "alias": [
+          "郑县"
+        ],
+        "note": "今陕西华县，在长安与洛阳之间，吕后道遇被赦徙蜀之彭越于此。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p10"
+        ]
+      },
+      {
+        "name": "蜀青衣",
+        "alias": [
+          "青衣"
+        ],
+        "note": "蜀郡青衣县，今四川雅安芦山一带，高祖赦彭越为庶人徙处之地。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p10"
+        ]
+      },
+      {
+        "name": "三秦",
+        "alias": [],
+        "note": "项羽三分关中封章邯、司马欣、董翳，汉王还定三秦后渡临晋。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p3"
+        ]
+      },
+      {
+        "name": "代地",
+        "alias": [
+          "代"
+        ],
+        "note": "今河北蔚县及以北一带，陈豨反于此。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p10"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "name": "魏咎被立魏王",
+        "alias": [
+          "周市立魏咎"
+        ],
+        "note": "陈胜使周市徇魏地，众人欲立周市为王，市辞不受，迎魏咎于陈，五反陈王乃遣立咎为魏王。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p0"
+        ]
+      },
+      {
+        "name": "魏咎自烧临济",
+        "alias": [],
+        "note": "章邯破周市军、围临济，魏咎为其民约降，约定自烧杀。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p1"
+        ]
+      },
+      {
+        "name": "魏豹复徇魏地立魏王",
+        "alias": [],
+        "note": "魏豹亡走楚，楚怀王予数千人复徇魏地；项羽破秦降章邯，豹下魏二十余城，立为魏王。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p2"
+        ]
+      },
+      {
+        "name": "项羽封西魏王",
+        "alias": [
+          "徙魏豹于河东"
+        ],
+        "note": "项羽入关分封，欲取梁地，乃徙魏王豹于河东、都平阳，为西魏王。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p2"
+        ]
+      },
+      {
+        "name": "魏豹降汉",
+        "alias": [],
+        "note": "汉王还定三秦、渡临晋，魏豹以国属汉，从击楚于彭城。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p3"
+        ]
+      },
+      {
+        "name": "魏豹叛汉",
+        "alias": [
+          "绝河津畔汉"
+        ],
+        "note": "汉败还至荥阳，魏豹请归视亲病，至国即绝河津畔汉；以「人生一世间如白驹过隙」辞郦生之说。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p3"
+        ]
+      },
+      {
+        "name": "韩信虏魏豹",
+        "alias": [],
+        "note": "汉王遣郦食其说豹不成，遣韩信击、虏魏豹于河东，传诣荥阳，以其国为郡。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p3"
+        ]
+      },
+      {
+        "name": "周苛杀魏豹",
+        "alias": [],
+        "note": "汉王令魏豹守荥阳，楚围之急，周苛遂杀魏豹。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p3"
+        ]
+      },
+      {
+        "name": "彭越泽中起事",
+        "alias": [
+          "斩后期者立威"
+        ],
+        "note": "彭越渔钜野泽中为群盗，泽间少年聚百余人请越为长，越与期旦日日出会、后期者斩，亲斩最后至者设坛祭，徒属皆惊畏莫敢仰视。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p4",
+          "text:shiji:shiji-魏豹彭越列傳第三十:p5"
+        ]
+      },
+      {
+        "name": "彭越助沛公攻昌邑",
+        "alias": [],
+        "note": "沛公从砀北击昌邑，彭越助之；昌邑未下，沛公西去，彭越居钜野收魏散卒。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p6"
+        ]
+      },
+      {
+        "name": "彭越归汉拜魏相国",
+        "alias": [],
+        "note": "汉元年秋田荣叛楚，汉赐彭越将军印使下济阴击楚，越破萧公角；汉二年春彭越将其兵三万余人归汉于外黄，汉王拜为魏相国、擅将其兵略定梁地。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p6"
+        ]
+      },
+      {
+        "name": "彭越挠楚绝粮道",
+        "alias": [
+          "彭越挠楚"
+        ],
+        "note": "汉三、四年间彭越常往来为汉游兵击楚，绝其粮道于梁地；攻下睢阳、外黄十七城；项王东收其城，越北走谷城。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p7"
+        ]
+      },
+      {
+        "name": "固陵之败与张良画策",
+        "alias": [],
+        "note": "汉王追楚败于固陵，用留侯计许诺封彭越为梁王、韩信为楚王（睢阳以北至谷城王彭越、陈以东傅海与韩信）。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p8"
+        ]
+      },
+      {
+        "name": "垓下会兵破楚",
+        "alias": [],
+        "note": "使者至，彭越悉引兵会垓下，遂破楚；项籍已死。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p8"
+        ]
+      },
+      {
+        "name": "彭越封梁王都定陶",
+        "alias": [],
+        "note": "汉五年春立彭越为梁王，都定陶。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p8"
+        ]
+      },
+      {
+        "name": "彭越朝陈朝长安",
+        "alias": [],
+        "note": "汉六年彭越朝陈；九、十年皆来朝长安。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p9"
+        ]
+      },
+      {
+        "name": "陈豨反代地征兵梁不至",
+        "alias": [],
+        "note": "汉十年秋陈豨反代地，高祖自往击之至邯郸，征兵于梁；梁王称病，使将将兵诣邯郸，高祖怒使人让之。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p10"
+        ]
+      },
+      {
+        "name": "彭越被囚赦徙蜀",
+        "alias": [
+          "太仆告变"
+        ],
+        "note": "彭越欲自往谢，扈辄劝其反不听；怒其太仆欲斩之，太仆亡走汉告越与扈辄谋反；上使使掩捕梁王，囚之洛阳，有司治反形已具，赦为庶人传处蜀青衣。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p10"
+        ]
+      },
+      {
+        "name": "吕后诛彭越夷三族",
+        "alias": [],
+        "note": "彭越西至郑逢吕后，泣自言无罪愿处故昌邑，吕后许诺与俱东至洛阳，反劝高祖诛之，令舍人告越复反，廷尉王恬开奏请族之，遂夷越宗族、国除。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p10"
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "name": "白驹过隙",
+        "alias": [
+          "人生如白驹过隙"
+        ],
+        "note": "魏豹辞谢郦生语：「人生一世閒，如白驹过隙耳」，喻人生短促，遂成为千古名句。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p3"
+        ]
+      },
+      {
+        "name": "彭越挠楚",
+        "alias": [
+          "游击战术",
+          "游兵"
+        ],
+        "note": "彭越楚汉战争中首创的战法：往来为汉游兵，袭扰项羽后方、断绝粮道于梁地，是古代游击战的著名范例。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p7"
+        ]
+      },
+      {
+        "name": "期日斩一人祭天立威",
+        "alias": [
+          "立威之法"
+        ],
+        "note": "彭越初起兵时与少年约期、亲斩最后至者设坛祭天，以肃军纪、立威立信。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p5"
+        ]
+      },
+      {
+        "name": "约降",
+        "alias": [],
+        "note": "魏咎临济为民与章邯约降，为保全百姓而牺牲自身，古称仁举。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p1"
+        ]
+      },
+      {
+        "name": "夷三族",
+        "alias": [],
+        "note": "灭父族、母族、妻族之酷刑，彭越被夷三族。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p10"
+        ]
+      },
+      {
+        "name": "反形已具",
+        "alias": [],
+        "note": "司法术语，有司论彭越「反形已具」，即谋反罪状已经构成。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p10"
+        ]
+      },
+      {
+        "name": "南面称孤",
+        "alias": [],
+        "note": "诸侯王坐北朝南、自称孤寡，此指魏豹、彭越乘时称王。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p11"
+        ]
+      },
+      {
+        "name": "云蒸龙变",
+        "alias": [],
+        "note": "太史公喻彭越起于群盗、乘时因势而成王业，如云气蒸腾、龙蛇变化。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p11"
+        ]
+      },
+      {
+        "name": "怀畔逆之意",
+        "alias": [],
+        "note": "太史公论赞语，谓二人怀叛逆之意，败而不死、身被刑戮，唯因「智略绝人，独患无身」故幽囚而不辞。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p11"
+        ]
+      },
+      {
+        "name": "葅醢",
+        "alias": [
+          "醢刑"
+        ],
+        "note": "把人剁成肉酱之酷刑，述赞「徵兵不往，葅醢何伤」指彭越终被醢之祸。",
+        "evidence": [
+          "text:shiji:shiji-魏豹彭越列傳第三十:p12"
+        ]
+      }
+    ]
+  },
+  "relations": [
+    {
+      "from": "魏咎",
+      "type": "为 魏豹之从兄",
+      "to": "魏豹",
+      "evidence": [
+        "text:shiji:shiji-魏豹彭越列傳第三十:p0"
+      ]
+    },
+    {
+      "from": "周市",
+      "type": "立为魏王",
+      "to": "魏咎",
+      "evidence": [
+        "text:shiji:shiji-魏豹彭越列傳第三十:p0"
+      ]
+    },
+    {
+      "from": "章邯",
+      "type": "围临济迫死",
+      "to": "魏咎",
+      "evidence": [
+        "text:shiji:shiji-魏豹彭越列傳第三十:p1"
+      ]
+    },
+    {
+      "from": "楚怀王",
+      "type": "予兵",
+      "to": "魏豹",
+      "evidence": [
+        "text:shiji:shiji-魏豹彭越列傳第三十:p2"
+      ]
+    },
+    {
+      "from": "项羽",
+      "type": "封为西魏王",
+      "to": "魏豹",
+      "evidence": [
+        "text:shiji:shiji-魏豹彭越列傳第三十:p2"
+      ]
+    },
+    {
+      "from": "魏豹",
+      "type": "叛",
+      "to": "刘邦",
+      "evidence": [
+        "text:shiji:shiji-魏豹彭越列傳第三十:p3"
+      ]
+    },
+    {
+      "from": "韩信",
+      "type": "击虏",
+      "to": "魏豹",
+      "evidence": [
+        "text:shiji:shiji-魏豹彭越列傳第三十:p3"
+      ]
+    },
+    {
+      "from": "周苛",
+      "type": "杀",
+      "to": "魏豹",
+      "evidence": [
+        "text:shiji:shiji-魏豹彭越列傳第三十:p3"
+      ]
+    },
+    {
+      "from": "彭越",
+      "type": "归附",
+      "to": "刘邦",
+      "evidence": [
+        "text:shiji:shiji-魏豹彭越列傳第三十:p6"
+      ]
+    },
+    {
+      "from": "刘邦",
+      "type": "拜为魏相国",
+      "to": "彭越",
+      "evidence": [
+        "text:shiji:shiji-魏豹彭越列傳第三十:p6"
+      ]
+    },
+    {
+      "from": "张良",
+      "type": "画策许封促其会兵",
+      "to": "彭越",
+      "evidence": [
+        "text:shiji:shiji-魏豹彭越列傳第三十:p8"
+      ]
+    },
+    {
+      "from": "刘邦",
+      "type": "立为梁王",
+      "to": "彭越",
+      "evidence": [
+        "text:shiji:shiji-魏豹彭越列傳第三十:p8"
+      ]
+    },
+    {
+      "from": "吕后",
+      "type": "劝说高祖诛杀",
+      "to": "彭越",
+      "evidence": [
+        "text:shiji:shiji-魏豹彭越列傳第三十:p10"
+      ]
+    },
+    {
+      "from": "王恬开",
+      "type": "奏请族灭",
+      "to": "彭越",
+      "evidence": [
+        "text:shiji:shiji-魏豹彭越列傳第三十:p10"
+      ]
+    },
+    {
+      "from": "陈豨",
+      "type": "反于",
+      "to": "代地",
+      "evidence": [
+        "text:shiji:shiji-魏豹彭越列傳第三十:p10"
+      ]
+    },
+    {
+      "from": "扈辄",
+      "type": "劝反",
+      "to": "彭越",
+      "evidence": [
+        "text:shiji:shiji-魏豹彭越列傳第三十:p10"
+      ]
+    }
+  ]
+}
