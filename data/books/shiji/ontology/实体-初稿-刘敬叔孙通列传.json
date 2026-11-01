@@ -1,0 +1,1010 @@
+{
+  "book": "shiji",
+  "chapter_id": "shiji-劉敬叔孫通列傳第三十九",
+  "chapter_title": "刘敬叔孙通列传第三十九",
+  "version": "1.0-draft",
+  "generated_at": "2026-11-01",
+  "entities": {
+    "persons": [
+      {
+        "name": "刘敬",
+        "alias": "娄敬、奉春君、建信侯",
+        "note": "齐人，戍陇西过洛阳，脱輓輅说刘邦都关中，赐姓刘氏拜郎中号奉春君；使匈奴识破诱敌之谋谏阻出兵，被械系广武，白登围后获赦封建信侯；献和亲匈奴之策、徙六国强宗豪族以实关中。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p0"
+        ]
+      },
+      {
+        "name": "刘邦",
+        "alias": "高帝、高祖、上、皇帝、汉王",
+        "note": "汉高祖；纳刘敬都关中、和亲、徙豪族之策；骂刘敬械系广武，白登围后赦之；从叔孙通制朝仪、欲易太子而止。本传中称「高帝、高祖、上、汉王」。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p0"
+        ]
+      },
+      {
+        "name": "虞将军",
+        "alias": "虞将军",
+        "note": "齐人，刘敬的同乡；为刘敬入言于上，使其得召见。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p0"
+        ]
+      },
+      {
+        "name": "张良",
+        "alias": "留侯",
+        "note": "汉初功臣；明言入关建都便于汉，且为太子招致商山四皓，使刘邦不复易太子。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p2"
+        ]
+      },
+      {
+        "name": "韩王信",
+        "alias": "韩信（韩王）",
+        "note": "汉初封韩王，都马邑；反汉并与匈奴共击汉，被刘邦亲征击败后亡入匈奴。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p4"
+        ]
+      },
+      {
+        "name": "冒顿",
+        "alias": "单于",
+        "note": "匈奴单于，杀父头曼自立，妻群母、以力为威；设伏围刘邦于白登。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p4"
+        ]
+      },
+      {
+        "name": "吕后",
+        "alias": "吕雉",
+        "note": "刘邦皇后；日夜哭泣阻嫁鲁元长公主于匈奴。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p5"
+        ]
+      },
+      {
+        "name": "叔孙通",
+        "alias": "叔孙生、稷嗣君",
+        "note": "薛人，秦待诏博士，谀秦二世以脱虎口；历事项梁、怀王、项羽而归汉；为汉制朝仪，使高帝知为皇帝之贵；谏阻废太子；定宗庙仪法，为汉家儒宗。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p7"
+        ]
+      },
+      {
+        "name": "秦二世",
+        "alias": "二世",
+        "note": "秦始皇少子胡亥，秦二世皇帝；召博士诸生问陈胜起兵事，怒而案治言反者。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p7"
+        ]
+      },
+      {
+        "name": "陈胜",
+        "alias": "陈涉",
+        "note": "秦末起义首事者，起兵于山东，遣兵攻蕲入陈。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p7"
+        ]
+      },
+      {
+        "name": "项梁",
+        "alias": "项梁",
+        "note": "项羽叔父，起兵反秦，至薛，叔孙通从之；后败死于定陶。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p7"
+        ]
+      },
+      {
+        "name": "怀王",
+        "alias": "义帝",
+        "note": "楚怀王熊心，后尊为义帝，徙长沙；叔孙通曾从之。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p7"
+        ]
+      },
+      {
+        "name": "项王",
+        "alias": "项羽",
+        "note": "西楚霸王；叔孙通曾留事项王，后降汉王。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p7"
+        ]
+      },
+      {
+        "name": "孝惠帝",
+        "alias": "惠帝",
+        "note": "汉惠帝刘盈；即位后任叔孙通为太常定宗庙仪法，作复道而请立原庙，春取樱桃献宗庙。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p16"
+        ]
+      },
+      {
+        "name": "赵王如意",
+        "alias": "如意",
+        "note": "刘邦宠姬戚夫人之子刘如意，封赵王；刘邦欲以之易太子，因叔孙通强谏与四皓之故未果。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p15"
+        ]
+      },
+      {
+        "name": "鲁两生",
+        "alias": "两生",
+        "note": "鲁地儒生二人，不肯随叔孙通起朝仪，讥其面谀历事且礼乐须积德百年乃可兴；被叔孙通讥为「鄙儒不知时变」。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p11"
+        ]
+      },
+      {
+        "name": "晋献公",
+        "alias": "晋献公",
+        "note": "春秋晋国国君，因宠骊姬而废太子申生、立奚齐，致晋国内乱数十年，为天下笑。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p15"
+        ]
+      },
+      {
+        "name": "骊姬",
+        "alias": "骊姬",
+        "note": "晋献公宠姬，谮害太子申生。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p15"
+        ]
+      },
+      {
+        "name": "奚齐",
+        "alias": "奚齐",
+        "note": "晋献公骊姬所生之子，被立为太子。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p15"
+        ]
+      },
+      {
+        "name": "扶苏",
+        "alias": "扶苏",
+        "note": "秦始皇长子；始皇未早定其嗣位，致赵高诈立胡亥，秦亡。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p15"
+        ]
+      },
+      {
+        "name": "赵高",
+        "alias": "赵高",
+        "note": "秦宦官，与李斯诈立胡亥，致秦亡国绝祀。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p15"
+        ]
+      },
+      {
+        "name": "胡亥",
+        "alias": "胡亥",
+        "note": "即秦二世，赵高所诈立。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p15"
+        ]
+      },
+      {
+        "name": "商山四皓",
+        "alias": "四皓、留侯所招客",
+        "note": "张良为太子招致的四位隐士；随太子入见，使刘邦打消易太子之念。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p15"
+        ]
+      },
+      {
+        "name": "后稷",
+        "alias": "弃",
+        "note": "周人始祖，尧封之于邰，积累德行善事十余世。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "尧",
+        "alias": "尧",
+        "note": "传说中的帝尧，封后稷于邰。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "公刘",
+        "alias": "公刘",
+        "note": "周人先祖，避夏桀迁居豳。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "桀",
+        "alias": "夏桀",
+        "note": "夏朝末代君主，公刘避之而居豳。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "太王",
+        "alias": "古公亶父",
+        "note": "周文王祖父，因狄人侵伐离豳，杖马箠迁居岐。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "文王",
+        "alias": "西伯",
+        "note": "周文王，断虞芮之讼而始受命，吕望、伯夷来归。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "吕望",
+        "alias": "太公望、姜尚",
+        "note": "即姜太公，自海滨来归周文王。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "伯夷",
+        "alias": "伯夷",
+        "note": "孤竹君子，自海滨归周文王。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "武王",
+        "alias": "周武王",
+        "note": "周武王发，伐纣灭殷。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "纣",
+        "alias": "殷纣",
+        "note": "商朝末代君主，为周武王所灭。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "成王",
+        "alias": "周成王",
+        "note": "周成王，即位后有周公辅佐，营建洛邑。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "周公",
+        "alias": "周公旦",
+        "note": "周武王之弟，辅相成王，营建成周洛邑。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "成康",
+        "alias": "成康之时",
+        "note": "周成王、康王，史称盛世；刘敬谓汉初不能与成康之时比隆。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "虞芮",
+        "alias": "虞、芮",
+        "note": "虞、芮两国之君，因争田讼于周文王。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      }
+    ],
+    "places": [
+      {
+        "name": "陇西",
+        "alias": "",
+        "note": "郡名，刘敬戍守之地，辖今甘肃东南一带。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p0"
+        ]
+      },
+      {
+        "name": "洛阳",
+        "alias": "雒阳",
+        "note": "周朝东都，汉初刘邦一度都此。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p0"
+        ]
+      },
+      {
+        "name": "齐",
+        "alias": "齐国",
+        "note": "刘敬、虞将军的家乡。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p0"
+        ]
+      },
+      {
+        "name": "邰",
+        "alias": "",
+        "note": "后稷受封之地，在今陕西武功。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "豳",
+        "alias": "",
+        "note": "公刘避桀所迁之地，在今陕西旬邑、彬县一带。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "岐",
+        "alias": "岐山",
+        "note": "太王所迁之地，周原在焉。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "孟津",
+        "alias": "盟津",
+        "note": "黄河渡口，八百诸侯不期而会于此。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "成周洛邑",
+        "alias": "洛邑",
+        "note": "周公所营建的东都。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "丰",
+        "alias": "丰沛",
+        "note": "刘邦起兵之地，在今江苏丰县。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "沛",
+        "alias": "丰沛",
+        "note": "刘邦起兵之地，在今江苏沛县。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "蜀汉",
+        "alias": "蜀、汉中",
+        "note": "今四川、陕西汉中一带，刘邦被封汉王之地。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "三秦",
+        "alias": "",
+        "note": "项羽分关中为雍、塞、翟三王，合称三秦。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "荥阳",
+        "alias": "",
+        "note": "县名，楚汉相争之地，在今河南荥阳。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "成皋",
+        "alias": "",
+        "note": "要隘，在今河南荥阳汜水镇。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "关中",
+        "alias": "秦地",
+        "note": "秦故地，四塞险固、土地肥沃，刘敬劝刘邦都此。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "山东",
+        "alias": "崤山以东",
+        "note": "泛指关东地区。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "晋阳",
+        "alias": "",
+        "note": "今山西太原西南，刘邦击韩王信至此。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p4"
+        ]
+      },
+      {
+        "name": "句注",
+        "alias": "句注山",
+        "note": "山名，在今山西代县西北，为北方要隘。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p4"
+        ]
+      },
+      {
+        "name": "广武",
+        "alias": "",
+        "note": "今山西代县西南，刘敬被械系于此。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p4"
+        ]
+      },
+      {
+        "name": "平城",
+        "alias": "",
+        "note": "今山西大同东北，白登之围发生地。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p4"
+        ]
+      },
+      {
+        "name": "白登",
+        "alias": "白登山",
+        "note": "山名，在平城附近，匈奴围刘邦于此。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p4"
+        ]
+      },
+      {
+        "name": "薛",
+        "alias": "",
+        "note": "今山东滕州南，叔孙通故乡。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p7"
+        ]
+      },
+      {
+        "name": "蕲",
+        "alias": "",
+        "note": "今安徽宿州南，陈胜部攻取之地。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p7"
+        ]
+      },
+      {
+        "name": "陈",
+        "alias": "陈县",
+        "note": "陈胜所攻入之地，今河南淮阳。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p7"
+        ]
+      },
+      {
+        "name": "定陶",
+        "alias": "",
+        "note": "今山东定陶，项梁战死及诸侯尊刘邦为帝之地。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p7"
+        ]
+      },
+      {
+        "name": "长沙",
+        "alias": "",
+        "note": "义帝被迁之地。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p7"
+        ]
+      },
+      {
+        "name": "彭城",
+        "alias": "",
+        "note": "今江苏徐州，汉王率五诸侯攻入之地。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p7"
+        ]
+      },
+      {
+        "name": "长安",
+        "alias": "",
+        "note": "汉都，刘敬言匈奴河南去长安近者七百里。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p6"
+        ]
+      },
+      {
+        "name": "长乐宫",
+        "alias": "",
+        "note": "汉初宫殿，在长安；朝仪行于此。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p13"
+        ]
+      },
+      {
+        "name": "渭北",
+        "alias": "渭水北岸",
+        "note": "渭水之北，叔孙通请立原庙于此。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p17"
+        ]
+      },
+      {
+        "name": "武库",
+        "alias": "",
+        "note": "储藏兵器之处，复道筑于其南。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p17"
+        ]
+      },
+      {
+        "name": "离宫",
+        "alias": "",
+        "note": "帝王正宫之外的别宫，孝惠帝春游之处。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p18"
+        ]
+      },
+      {
+        "name": "匈奴",
+        "alias": "胡",
+        "note": "北方游牧民族，冒顿单于时强盛，数苦北边；刘敬为汉定和亲之策。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p4"
+        ]
+      },
+      {
+        "name": "白羊",
+        "alias": "白羊部",
+        "note": "匈奴南下部族之一，居黄河以南。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p6"
+        ]
+      },
+      {
+        "name": "楼烦",
+        "alias": "楼烦部",
+        "note": "匈奴南下部族之一，居黄河以南。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p6"
+        ]
+      },
+      {
+        "name": "河南",
+        "alias": "河南地",
+        "note": "指黄河以南的白羊、楼烦所居之地。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p6"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "name": "刘敬脱輓輅说都关中",
+        "alias": "",
+        "note": "戍卒娄敬卸下车辕，以羊裘见刘邦，陈说周室与汉取天下不同、秦地形胜天府，劝都关中。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p0"
+        ]
+      },
+      {
+        "name": "群臣争言都洛阳留侯明言入关",
+        "alias": "",
+        "note": "群臣皆山东人争言都周，刘邦疑未决，留侯张良明言入关便，即日西都关中。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p2"
+        ]
+      },
+      {
+        "name": "赐姓刘号奉春君",
+        "alias": "",
+        "note": "刘邦以「娄者乃刘也」赐刘敬姓刘，拜为郎中，号奉春君。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p3"
+        ]
+      },
+      {
+        "name": "韩王信反汉遣使匈奴",
+        "alias": "",
+        "note": "韩王信反，刘邦亲征；至晋阳闻信与匈奴共击汉，遣使匈奴，匈奴匿壮士肥马示弱诱汉。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p4"
+        ]
+      },
+      {
+        "name": "刘敬识破匈奴诱敌谋",
+        "alias": "",
+        "note": "刘敬复使匈奴，识破匈奴「见短伏奇兵」之计，谏言匈奴不可击。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p4"
+        ]
+      },
+      {
+        "name": "械系刘敬广武",
+        "alias": "",
+        "note": "刘邦怒骂刘敬「齐虏」，械系之广武。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p4"
+        ]
+      },
+      {
+        "name": "白登之围",
+        "alias": "",
+        "note": "汉军至平城，匈奴出奇兵围刘邦于白登，七日方解。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p4"
+        ]
+      },
+      {
+        "name": "赦刘敬封建信侯",
+        "alias": "",
+        "note": "刘邦至广武赦刘敬，斩前十批言可击之使者，封刘敬二千户为关内侯，号建信侯。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p4"
+        ]
+      },
+      {
+        "name": "献和亲匈奴策",
+        "alias": "",
+        "note": "刘敬陈以嫡长公主妻单于、厚遗辩士风谕以礼节之长策，欲使外孙为单于而不与大父抗礼。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p5"
+        ]
+      },
+      {
+        "name": "吕后泣阻嫁长公主",
+        "alias": "",
+        "note": "吕后日夜泣，不忍弃唯一之女于匈奴；刘邦终不能遣长公主，取家人子冒名嫁单于，使刘敬往结和亲约。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p5"
+        ]
+      },
+      {
+        "name": "徙六国强宗豪族实关中",
+        "alias": "",
+        "note": "刘敬言秦中新破少民，请徙齐诸田、楚昭屈景、燕赵韩魏之后及豪杰名家于关中，为强本弱末之术。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p6"
+        ]
+      },
+      {
+        "name": "叔孙通谀二世脱虎口",
+        "alias": "",
+        "note": "陈胜起兵，秦二世召博士诸生议，叔孙通独以「鼠窃狗盗」对而免祸获赏，诸生讥其面谀，通自知几不脱虎口而亡去。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p7"
+        ]
+      },
+      {
+        "name": "叔孙通历事诸主归汉",
+        "alias": "",
+        "note": "叔孙通奔薛，从项梁、怀王、项羽，汉二年降汉王，汉王败而西，遂从汉。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p7"
+        ]
+      },
+      {
+        "name": "变服短衣楚制",
+        "alias": "",
+        "note": "叔孙通本儒服，知汉王憎之，乃变服短衣、用楚制，汉王喜。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p8"
+        ]
+      },
+      {
+        "name": "先荐斩将搴旗之士",
+        "alias": "",
+        "note": "叔孙通专荐斩将搴旗之勇士而不荐儒生弟子，弟子窃骂，通以「汉王方蒙矢石争天下」解释，云不忘诸生。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p9"
+        ]
+      },
+      {
+        "name": "议起朝仪",
+        "alias": "",
+        "note": "群臣饮酒争功、醉呼拔剑击柱，刘邦患之；叔孙通请征鲁诸生共起朝仪，采古礼与秦仪杂就之。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p10"
+        ]
+      },
+      {
+        "name": "征鲁诸生两生不肯行",
+        "alias": "",
+        "note": "叔孙通征鲁诸生三十余人，鲁两生不肯行，讥其面谀历事、礼乐须积德百年乃可兴。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p11"
+        ]
+      },
+      {
+        "name": "绵蕞野外习仪",
+        "alias": "",
+        "note": "叔孙通与所征鲁诸生及弟子百余人，为绵蕞野外习朝仪月余，刘邦观而许，令群臣习之。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p12"
+        ]
+      },
+      {
+        "name": "长乐宫成行朝仪",
+        "alias": "",
+        "note": "汉七年长乐宫成，诸侯群臣朝十月，叔孙通所制朝仪井然，自诸侯王以下莫不振恐肃敬，刘邦叹「吾乃今日知为皇帝之贵也」。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p13"
+        ]
+      },
+      {
+        "name": "拜太常赐金五百斤",
+        "alias": "",
+        "note": "朝仪毕，刘邦拜叔孙通为太常，赐金五百斤。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p13"
+        ]
+      },
+      {
+        "name": "尽以五百金赐诸生",
+        "alias": "",
+        "note": "叔孙通进言诸弟子共为仪，刘邦悉以为郎；通尽以五百斤金赐诸生，诸生喜称其为圣人。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p14"
+        ]
+      },
+      {
+        "name": "谏阻废太子",
+        "alias": "",
+        "note": "刘邦欲以赵王如意易太子，叔孙通引晋献公、秦始皇故事以死相谏，谓太子天下本不可戏；会四皓从太子入见，刘邦遂无易太子之志。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p15"
+        ]
+      },
+      {
+        "name": "徙为太常定宗庙仪法",
+        "alias": "",
+        "note": "惠帝以先帝园陵寝庙群臣莫能习，徙叔孙通为太常，定宗庙仪法，汉诸仪法皆通所论著。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p16"
+        ]
+      },
+      {
+        "name": "作复道请立原庙",
+        "alias": "",
+        "note": "惠帝东朝长乐宫作复道，叔孙通谓不当令后世子孙乘宗庙道上行，请立原庙于渭北，以复道之故。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p17"
+        ]
+      },
+      {
+        "name": "春献樱桃于宗庙",
+        "alias": "",
+        "note": "叔孙通请春出取樱桃献宗庙，诸果献之礼由此兴。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p18"
+        ]
+      },
+      {
+        "name": "太史公曰",
+        "alias": "",
+        "note": "太史公赞「千金之裘非一狐之腋」，叹刘敬脱輓輅一说建万世之安，叔孙通希世度务、与时变化卒为汉家儒宗。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p19"
+        ]
+      },
+      {
+        "name": "索隐述赞",
+        "alias": "",
+        "note": "司马贞述赞：厦藉众干、裘非一狐；委辂献说、緜蕝陈书；皇帝始贵、车驾西都；既安太子、又和匈奴；奉春稷嗣其功可图。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p20"
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "name": "脱輓輅",
+        "alias": "",
+        "note": "卸下车辕，戍卒身份的写照；刘敬以此见刘邦。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p0"
+        ]
+      },
+      {
+        "name": "衣帛衣褐",
+        "alias": "",
+        "note": "穿绸帛就穿绸帛见、穿粗布就穿粗布见，喻保持本色、不改装以讨好。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p0"
+        ]
+      },
+      {
+        "name": "搤天下之肮而拊其背",
+        "alias": "",
+        "note": "扼住天下的喉咙、拍击它的后背，喻占据关中可控制天下要害。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "天府",
+        "alias": "",
+        "note": "天造的府库，形容土地肥沃、物产丰饶之地，此指关中。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p1"
+        ]
+      },
+      {
+        "name": "强本弱末之术",
+        "alias": "",
+        "note": "加强中央（本）、削弱地方（末）的策略，刘敬徙六国强宗豪族入关中之论。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p6"
+        ]
+      },
+      {
+        "name": "和亲",
+        "alias": "",
+        "note": "汉匈之间以联姻结好的政策，此为其开端。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p5"
+        ]
+      },
+      {
+        "name": "儒者难与进取可与守成",
+        "alias": "",
+        "note": "儒生不擅打天下，而擅治天下；叔孙通以此说服刘邦起朝仪。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p10"
+        ]
+      },
+      {
+        "name": "因时世人情为之节文",
+        "alias": "",
+        "note": "礼是顺应时世人情而制定的节文规范，叔孙通礼论的核心。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p10"
+        ]
+      },
+      {
+        "name": "五帝异乐三王不同礼",
+        "alias": "",
+        "note": "五帝乐声不同、三王礼制不同，谓礼乐随时而变。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p10"
+        ]
+      },
+      {
+        "name": "绵蕞",
+        "alias": "",
+        "note": "用绳索圈地、竖立茅草以表示尊卑位次，指野外临时布置礼仪场所。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p12"
+        ]
+      },
+      {
+        "name": "朝仪",
+        "alias": "",
+        "note": "朝会礼仪，叔孙通为汉所制，使高帝知为皇帝之贵。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p10"
+        ]
+      },
+      {
+        "name": "为皇帝之贵",
+        "alias": "",
+        "note": "刘邦见朝仪整肃后的感叹：至今日方知做皇帝的尊贵。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p13"
+        ]
+      },
+      {
+        "name": "斩将搴旗",
+        "alias": "",
+        "note": "斩杀敌将、拔取敌旗，指勇武善战之士。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p9"
+        ]
+      },
+      {
+        "name": "人臣无将将即反",
+        "alias": "",
+        "note": "做臣子的不能聚众，聚众就是谋反；秦博士诸生之论。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p7"
+        ]
+      },
+      {
+        "name": "鼠窃狗盗",
+        "alias": "",
+        "note": "叔孙通谀秦二世时，将陈胜之变说成鼠窃狗偷的群盗，以避祸。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p7"
+        ]
+      },
+      {
+        "name": "几不脱于虎口",
+        "alias": "",
+        "note": "几乎逃不出虎口；叔孙通对诸生言险些因直谏获罪。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p7"
+        ]
+      },
+      {
+        "name": "鄙儒不知时变",
+        "alias": "",
+        "note": "叔孙通讥鲁两生为鄙陋拘泥、不懂时势变化之儒。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p11"
+        ]
+      },
+      {
+        "name": "礼乐积德百年而后兴",
+        "alias": "",
+        "note": "鲁两生之论：礼乐须积德百年之后才能兴盛。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p11"
+        ]
+      },
+      {
+        "name": "太子天下本",
+        "alias": "",
+        "note": "太子是天下的根本，根本一动摇天下就震动；叔孙通谏阻废太子之语。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p15"
+        ]
+      },
+      {
+        "name": "以颈血汙地",
+        "alias": "",
+        "note": "用颈上的血污染地面，谓以死相谏。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p15"
+        ]
+      },
+      {
+        "name": "人主无过举",
+        "alias": "",
+        "note": "君主不应有错误举动；叔孙通劝惠帝立原庙之辞。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p17"
+        ]
+      },
+      {
+        "name": "大直若詘道固委蛇",
+        "alias": "",
+        "note": "语出《老子》，最正直的好像弯曲、大道本自曲折；司马迁借以评叔孙通随世俯仰。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p19"
+        ]
+      },
+      {
+        "name": "千金之裘非一狐之腋",
+        "alias": "",
+        "note": "价值千金的狐裘非一只狐狸之腋所能成，喻大业须众人之力。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p19"
+        ]
+      },
+      {
+        "name": "希世度务",
+        "alias": "",
+        "note": "迎合世情、揣度时务；司马迁评叔孙通之语。",
+        "evidence": [
+          "text:shiji:shiji-劉敬叔孫通列傳第三十九:p19"
+        ]
+      }
+    ]
+  },
+  "relations": []
+}

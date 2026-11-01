@@ -1,0 +1,1457 @@
+{
+  "book": "shiji",
+  "chapter_id": "shiji-劉敬叔孫通列傳第三十九",
+  "chapter_title": "刘敬叔孙通列传第三十九",
+  "version": "1.0-final",
+  "annotations": [
+    {
+      "target_para_id": "p0",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 2,
+          "text": "劉敬",
+          "type": "persons",
+          "entity": "刘敬"
+        },
+        {
+          "start": 13,
+          "end": 15,
+          "text": "隴西",
+          "type": "places",
+          "entity": "陇西"
+        },
+        {
+          "start": 17,
+          "end": 19,
+          "text": "洛陽",
+          "type": "places",
+          "entity": "洛阳"
+        },
+        {
+          "start": 20,
+          "end": 22,
+          "text": "高帝",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 25,
+          "end": 27,
+          "text": "婁敬",
+          "type": "persons",
+          "entity": "刘敬"
+        },
+        {
+          "start": 27,
+          "end": 30,
+          "text": "脫輓輅",
+          "type": "concepts",
+          "entity": "脱輓輅"
+        },
+        {
+          "start": 39,
+          "end": 42,
+          "text": "虞將軍",
+          "type": "persons",
+          "entity": "虞将军"
+        },
+        {
+          "start": 54,
+          "end": 57,
+          "text": "虞將軍",
+          "type": "persons",
+          "entity": "虞将军"
+        },
+        {
+          "start": 63,
+          "end": 65,
+          "text": "婁敬",
+          "type": "persons",
+          "entity": "刘敬"
+        },
+        {
+          "start": 92,
+          "end": 95,
+          "text": "虞將軍",
+          "type": "persons",
+          "entity": "虞将军"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p1",
+      "mentions": [
+        {
+          "start": 3,
+          "end": 5,
+          "text": "婁敬",
+          "type": "persons",
+          "entity": "刘敬"
+        },
+        {
+          "start": 6,
+          "end": 8,
+          "text": "婁敬",
+          "type": "persons",
+          "entity": "刘敬"
+        },
+        {
+          "start": 15,
+          "end": 17,
+          "text": "洛陽",
+          "type": "places",
+          "entity": "洛阳"
+        },
+        {
+          "start": 35,
+          "end": 37,
+          "text": "婁敬",
+          "type": "persons",
+          "entity": "刘敬"
+        },
+        {
+          "start": 54,
+          "end": 56,
+          "text": "后稷",
+          "type": "persons",
+          "entity": "后稷"
+        },
+        {
+          "start": 71,
+          "end": 73,
+          "text": "公劉",
+          "type": "persons",
+          "entity": "公刘"
+        },
+        {
+          "start": 78,
+          "end": 80,
+          "text": "太王",
+          "type": "persons",
+          "entity": "太王"
+        },
+        {
+          "start": 101,
+          "end": 103,
+          "text": "文王",
+          "type": "persons",
+          "entity": "文王"
+        },
+        {
+          "start": 104,
+          "end": 106,
+          "text": "西伯",
+          "type": "persons",
+          "entity": "文王"
+        },
+        {
+          "start": 108,
+          "end": 110,
+          "text": "虞芮",
+          "type": "persons",
+          "entity": "虞芮"
+        },
+        {
+          "start": 117,
+          "end": 119,
+          "text": "呂望",
+          "type": "persons",
+          "entity": "吕望"
+        },
+        {
+          "start": 120,
+          "end": 122,
+          "text": "伯夷",
+          "type": "persons",
+          "entity": "伯夷"
+        },
+        {
+          "start": 129,
+          "end": 131,
+          "text": "武王",
+          "type": "persons",
+          "entity": "武王"
+        },
+        {
+          "start": 138,
+          "end": 140,
+          "text": "孟津",
+          "type": "places",
+          "entity": "孟津"
+        },
+        {
+          "start": 158,
+          "end": 160,
+          "text": "成王",
+          "type": "persons",
+          "entity": "成王"
+        },
+        {
+          "start": 163,
+          "end": 165,
+          "text": "周公",
+          "type": "persons",
+          "entity": "周公"
+        },
+        {
+          "start": 173,
+          "end": 177,
+          "text": "成周洛邑",
+          "type": "places",
+          "entity": "成周洛邑"
+        },
+        {
+          "start": 353,
+          "end": 355,
+          "text": "蜀漢",
+          "type": "places",
+          "entity": "蜀汉"
+        },
+        {
+          "start": 357,
+          "end": 359,
+          "text": "三秦",
+          "type": "places",
+          "entity": "三秦"
+        },
+        {
+          "start": 361,
+          "end": 363,
+          "text": "項羽",
+          "type": "persons",
+          "entity": "项王"
+        },
+        {
+          "start": 364,
+          "end": 366,
+          "text": "滎陽",
+          "type": "places",
+          "entity": "荥阳"
+        },
+        {
+          "start": 423,
+          "end": 427,
+          "text": "成康之時",
+          "type": "persons",
+          "entity": "成康"
+        },
+        {
+          "start": 438,
+          "end": 440,
+          "text": "秦地",
+          "type": "places",
+          "entity": "关中"
+        },
+        {
+          "start": 480,
+          "end": 482,
+          "text": "天府",
+          "type": "concepts",
+          "entity": "天府"
+        },
+        {
+          "start": 493,
+          "end": 495,
+          "text": "山東",
+          "type": "places",
+          "entity": "山东"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p2",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 2,
+          "text": "高帝",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 9,
+          "end": 11,
+          "text": "山東",
+          "type": "places",
+          "entity": "山东"
+        },
+        {
+          "start": 21,
+          "end": 24,
+          "text": "秦二世",
+          "type": "persons",
+          "entity": "秦二世"
+        },
+        {
+          "start": 39,
+          "end": 41,
+          "text": "留侯",
+          "type": "persons",
+          "entity": "张良"
+        },
+        {
+          "start": 53,
+          "end": 55,
+          "text": "關中",
+          "type": "places",
+          "entity": "关中"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p3",
+      "mentions": [
+        {
+          "start": 9,
+          "end": 11,
+          "text": "秦地",
+          "type": "places",
+          "entity": "关中"
+        },
+        {
+          "start": 12,
+          "end": 14,
+          "text": "婁敬",
+          "type": "persons",
+          "entity": "刘敬"
+        },
+        {
+          "start": 38,
+          "end": 41,
+          "text": "奉春君",
+          "type": "persons",
+          "entity": "刘敬"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p4",
+      "mentions": [
+        {
+          "start": 4,
+          "end": 7,
+          "text": "韓王信",
+          "type": "persons",
+          "entity": "韩王信"
+        },
+        {
+          "start": 9,
+          "end": 11,
+          "text": "高帝",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 17,
+          "end": 19,
+          "text": "晉陽",
+          "type": "places",
+          "entity": "晋阳"
+        },
+        {
+          "start": 23,
+          "end": 25,
+          "text": "匈奴",
+          "type": "places",
+          "entity": "匈奴"
+        },
+        {
+          "start": 37,
+          "end": 39,
+          "text": "匈奴",
+          "type": "places",
+          "entity": "匈奴"
+        },
+        {
+          "start": 40,
+          "end": 42,
+          "text": "匈奴",
+          "type": "places",
+          "entity": "匈奴"
+        },
+        {
+          "start": 66,
+          "end": 68,
+          "text": "匈奴",
+          "type": "places",
+          "entity": "匈奴"
+        },
+        {
+          "start": 73,
+          "end": 75,
+          "text": "劉敬",
+          "type": "persons",
+          "entity": "刘敬"
+        },
+        {
+          "start": 78,
+          "end": 80,
+          "text": "匈奴",
+          "type": "places",
+          "entity": "匈奴"
+        },
+        {
+          "start": 126,
+          "end": 128,
+          "text": "匈奴",
+          "type": "places",
+          "entity": "匈奴"
+        },
+        {
+          "start": 140,
+          "end": 142,
+          "text": "句注",
+          "type": "places",
+          "entity": "句注"
+        },
+        {
+          "start": 156,
+          "end": 158,
+          "text": "劉敬",
+          "type": "persons",
+          "entity": "刘敬"
+        },
+        {
+          "start": 182,
+          "end": 184,
+          "text": "廣武",
+          "type": "places",
+          "entity": "广武"
+        },
+        {
+          "start": 189,
+          "end": 191,
+          "text": "平城",
+          "type": "places",
+          "entity": "平城"
+        },
+        {
+          "start": 192,
+          "end": 194,
+          "text": "匈奴",
+          "type": "places",
+          "entity": "匈奴"
+        },
+        {
+          "start": 199,
+          "end": 201,
+          "text": "高帝",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 201,
+          "end": 203,
+          "text": "白登",
+          "type": "places",
+          "entity": "白登"
+        },
+        {
+          "start": 211,
+          "end": 213,
+          "text": "高帝",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 214,
+          "end": 216,
+          "text": "廣武",
+          "type": "places",
+          "entity": "广武"
+        },
+        {
+          "start": 231,
+          "end": 233,
+          "text": "平城",
+          "type": "places",
+          "entity": "平城"
+        },
+        {
+          "start": 263,
+          "end": 266,
+          "text": "建信侯",
+          "type": "persons",
+          "entity": "刘敬"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p5",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 2,
+          "text": "高帝",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 3,
+          "end": 5,
+          "text": "平城",
+          "type": "places",
+          "entity": "平城"
+        },
+        {
+          "start": 7,
+          "end": 10,
+          "text": "韓王信",
+          "type": "persons",
+          "entity": "韩王信"
+        },
+        {
+          "start": 21,
+          "end": 23,
+          "text": "單于",
+          "type": "persons",
+          "entity": "冒顿"
+        },
+        {
+          "start": 43,
+          "end": 45,
+          "text": "劉敬",
+          "type": "persons",
+          "entity": "刘敬"
+        },
+        {
+          "start": 46,
+          "end": 48,
+          "text": "劉敬",
+          "type": "persons",
+          "entity": "刘敬"
+        },
+        {
+          "start": 132,
+          "end": 134,
+          "text": "劉敬",
+          "type": "persons",
+          "entity": "刘敬"
+        },
+        {
+          "start": 180,
+          "end": 182,
+          "text": "單于",
+          "type": "persons",
+          "entity": "冒顿"
+        },
+        {
+          "start": 231,
+          "end": 233,
+          "text": "單于",
+          "type": "persons",
+          "entity": "冒顿"
+        },
+        {
+          "start": 293,
+          "end": 295,
+          "text": "高帝",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 307,
+          "end": 309,
+          "text": "呂后",
+          "type": "persons",
+          "entity": "吕后"
+        },
+        {
+          "start": 328,
+          "end": 330,
+          "text": "匈奴",
+          "type": "places",
+          "entity": "匈奴"
+        },
+        {
+          "start": 353,
+          "end": 355,
+          "text": "單于",
+          "type": "persons",
+          "entity": "冒顿"
+        },
+        {
+          "start": 357,
+          "end": 359,
+          "text": "劉敬",
+          "type": "persons",
+          "entity": "刘敬"
+        },
+        {
+          "start": 361,
+          "end": 363,
+          "text": "和親",
+          "type": "concepts",
+          "entity": "和亲"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p6",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 2,
+          "text": "劉敬",
+          "type": "persons",
+          "entity": "刘敬"
+        },
+        {
+          "start": 3,
+          "end": 5,
+          "text": "匈奴",
+          "type": "places",
+          "entity": "匈奴"
+        },
+        {
+          "start": 10,
+          "end": 12,
+          "text": "匈奴",
+          "type": "places",
+          "entity": "匈奴"
+        },
+        {
+          "start": 12,
+          "end": 14,
+          "text": "河南",
+          "type": "places",
+          "entity": "河南"
+        },
+        {
+          "start": 14,
+          "end": 16,
+          "text": "白羊",
+          "type": "places",
+          "entity": "白羊"
+        },
+        {
+          "start": 17,
+          "end": 19,
+          "text": "樓煩",
+          "type": "places",
+          "entity": "楼烦"
+        },
+        {
+          "start": 22,
+          "end": 24,
+          "text": "長安",
+          "type": "places",
+          "entity": "长安"
+        },
+        {
+          "start": 85,
+          "end": 87,
+          "text": "關中",
+          "type": "places",
+          "entity": "关中"
+        },
+        {
+          "start": 154,
+          "end": 156,
+          "text": "關中",
+          "type": "places",
+          "entity": "关中"
+        },
+        {
+          "start": 196,
+          "end": 198,
+          "text": "劉敬",
+          "type": "persons",
+          "entity": "刘敬"
+        },
+        {
+          "start": 201,
+          "end": 203,
+          "text": "關中",
+          "type": "places",
+          "entity": "关中"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p7",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 3,
+          "text": "叔孫通",
+          "type": "persons",
+          "entity": "叔孙通"
+        },
+        {
+          "start": 24,
+          "end": 26,
+          "text": "陳勝",
+          "type": "persons",
+          "entity": "陈胜"
+        },
+        {
+          "start": 27,
+          "end": 29,
+          "text": "山東",
+          "type": "places",
+          "entity": "山东"
+        },
+        {
+          "start": 35,
+          "end": 37,
+          "text": "二世",
+          "type": "persons",
+          "entity": "秦二世"
+        },
+        {
+          "start": 97,
+          "end": 99,
+          "text": "二世",
+          "type": "persons",
+          "entity": "秦二世"
+        },
+        {
+          "start": 104,
+          "end": 107,
+          "text": "叔孫通",
+          "type": "persons",
+          "entity": "叔孙通"
+        },
+        {
+          "start": 176,
+          "end": 180,
+          "text": "鼠竊狗盜",
+          "type": "concepts",
+          "entity": "鼠窃狗盗"
+        },
+        {
+          "start": 202,
+          "end": 204,
+          "text": "二世",
+          "type": "persons",
+          "entity": "秦二世"
+        },
+        {
+          "start": 228,
+          "end": 230,
+          "text": "二世",
+          "type": "persons",
+          "entity": "秦二世"
+        },
+        {
+          "start": 257,
+          "end": 260,
+          "text": "叔孫通",
+          "type": "persons",
+          "entity": "叔孙通"
+        },
+        {
+          "start": 274,
+          "end": 277,
+          "text": "叔孫通",
+          "type": "persons",
+          "entity": "叔孙通"
+        },
+        {
+          "start": 308,
+          "end": 314,
+          "text": "幾不脫於虎口",
+          "type": "concepts",
+          "entity": "几不脱于虎口"
+        },
+        {
+          "start": 330,
+          "end": 332,
+          "text": "項梁",
+          "type": "persons",
+          "entity": "项梁"
+        },
+        {
+          "start": 335,
+          "end": 338,
+          "text": "叔孫通",
+          "type": "persons",
+          "entity": "叔孙通"
+        },
+        {
+          "start": 343,
+          "end": 345,
+          "text": "定陶",
+          "type": "places",
+          "entity": "定陶"
+        },
+        {
+          "start": 347,
+          "end": 349,
+          "text": "懷王",
+          "type": "persons",
+          "entity": "怀王"
+        },
+        {
+          "start": 350,
+          "end": 352,
+          "text": "懷王",
+          "type": "persons",
+          "entity": "怀王"
+        },
+        {
+          "start": 353,
+          "end": 355,
+          "text": "義帝",
+          "type": "persons",
+          "entity": "怀王"
+        },
+        {
+          "start": 357,
+          "end": 359,
+          "text": "長沙",
+          "type": "places",
+          "entity": "长沙"
+        },
+        {
+          "start": 360,
+          "end": 363,
+          "text": "叔孫通",
+          "type": "persons",
+          "entity": "叔孙通"
+        },
+        {
+          "start": 365,
+          "end": 367,
+          "text": "項王",
+          "type": "persons",
+          "entity": "项王"
+        },
+        {
+          "start": 372,
+          "end": 374,
+          "text": "漢王",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 379,
+          "end": 381,
+          "text": "彭城",
+          "type": "places",
+          "entity": "彭城"
+        },
+        {
+          "start": 382,
+          "end": 385,
+          "text": "叔孫通",
+          "type": "persons",
+          "entity": "叔孙通"
+        },
+        {
+          "start": 386,
+          "end": 388,
+          "text": "漢王",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 389,
+          "end": 391,
+          "text": "漢王",
+          "type": "persons",
+          "entity": "刘邦"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p8",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 3,
+          "text": "叔孫通",
+          "type": "persons",
+          "entity": "叔孙通"
+        },
+        {
+          "start": 6,
+          "end": 8,
+          "text": "漢王",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 23,
+          "end": 25,
+          "text": "漢王",
+          "type": "persons",
+          "entity": "刘邦"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p9",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 3,
+          "text": "叔孫通",
+          "type": "persons",
+          "entity": "叔孙通"
+        },
+        {
+          "start": 70,
+          "end": 73,
+          "text": "叔孫通",
+          "type": "persons",
+          "entity": "叔孙通"
+        },
+        {
+          "start": 81,
+          "end": 83,
+          "text": "漢王",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 101,
+          "end": 105,
+          "text": "斬將搴旗",
+          "type": "concepts",
+          "entity": "斩将搴旗"
+        },
+        {
+          "start": 120,
+          "end": 122,
+          "text": "漢王",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 123,
+          "end": 126,
+          "text": "叔孫通",
+          "type": "persons",
+          "entity": "叔孙通"
+        },
+        {
+          "start": 131,
+          "end": 134,
+          "text": "稷嗣君",
+          "type": "persons",
+          "entity": "叔孙通"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p10",
+      "mentions": [
+        {
+          "start": 13,
+          "end": 15,
+          "text": "漢王",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 16,
+          "end": 18,
+          "text": "皇帝",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 19,
+          "end": 21,
+          "text": "定陶",
+          "type": "places",
+          "entity": "定陶"
+        },
+        {
+          "start": 22,
+          "end": 25,
+          "text": "叔孫通",
+          "type": "persons",
+          "entity": "叔孙通"
+        },
+        {
+          "start": 30,
+          "end": 32,
+          "text": "高帝",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 60,
+          "end": 62,
+          "text": "高帝",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 65,
+          "end": 68,
+          "text": "叔孫通",
+          "type": "persons",
+          "entity": "叔孙通"
+        },
+        {
+          "start": 106,
+          "end": 108,
+          "text": "朝儀",
+          "type": "concepts",
+          "entity": "朝仪"
+        },
+        {
+          "start": 110,
+          "end": 112,
+          "text": "高帝",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 121,
+          "end": 124,
+          "text": "叔孫通",
+          "type": "persons",
+          "entity": "叔孙通"
+        },
+        {
+          "start": 141,
+          "end": 150,
+          "text": "因時世人情爲之節文",
+          "type": "concepts",
+          "entity": "因时世人情为之节文"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p11",
+      "mentions": [
+        {
+          "start": 2,
+          "end": 5,
+          "text": "叔孫通",
+          "type": "persons",
+          "entity": "叔孙通"
+        },
+        {
+          "start": 17,
+          "end": 19,
+          "text": "兩生",
+          "type": "persons",
+          "entity": "鲁两生"
+        },
+        {
+          "start": 108,
+          "end": 111,
+          "text": "叔孫通",
+          "type": "persons",
+          "entity": "叔孙通"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p12",
+      "mentions": [
+        {
+          "start": 24,
+          "end": 26,
+          "text": "綿蕞",
+          "type": "concepts",
+          "entity": "绵蕞"
+        },
+        {
+          "start": 34,
+          "end": 37,
+          "text": "叔孫通",
+          "type": "persons",
+          "entity": "叔孙通"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p13",
+      "mentions": [
+        {
+          "start": 4,
+          "end": 7,
+          "text": "長樂宮",
+          "type": "places",
+          "entity": "长乐宫"
+        },
+        {
+          "start": 113,
+          "end": 115,
+          "text": "皇帝",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 222,
+          "end": 224,
+          "text": "高帝",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 232,
+          "end": 237,
+          "text": "爲皇帝之貴",
+          "type": "concepts",
+          "entity": "为皇帝之贵"
+        },
+        {
+          "start": 242,
+          "end": 245,
+          "text": "叔孫通",
+          "type": "persons",
+          "entity": "叔孙通"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p14",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 3,
+          "text": "叔孫通",
+          "type": "persons",
+          "entity": "叔孙通"
+        },
+        {
+          "start": 31,
+          "end": 33,
+          "text": "高帝",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 38,
+          "end": 41,
+          "text": "叔孫通",
+          "type": "persons",
+          "entity": "叔孙通"
+        },
+        {
+          "start": 61,
+          "end": 64,
+          "text": "叔孫生",
+          "type": "persons",
+          "entity": "叔孙通"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p15",
+      "mentions": [
+        {
+          "start": 4,
+          "end": 6,
+          "text": "高帝",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 7,
+          "end": 10,
+          "text": "叔孫通",
+          "type": "persons",
+          "entity": "叔孙通"
+        },
+        {
+          "start": 21,
+          "end": 23,
+          "text": "高祖",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 25,
+          "end": 29,
+          "text": "趙王如意",
+          "type": "persons",
+          "entity": "赵王如意"
+        },
+        {
+          "start": 33,
+          "end": 36,
+          "text": "叔孫通",
+          "type": "persons",
+          "entity": "叔孙通"
+        },
+        {
+          "start": 43,
+          "end": 46,
+          "text": "晉獻公",
+          "type": "persons",
+          "entity": "晋献公"
+        },
+        {
+          "start": 47,
+          "end": 49,
+          "text": "驪姬",
+          "type": "persons",
+          "entity": "骊姬"
+        },
+        {
+          "start": 56,
+          "end": 58,
+          "text": "奚齊",
+          "type": "persons",
+          "entity": "奚齐"
+        },
+        {
+          "start": 77,
+          "end": 79,
+          "text": "扶蘇",
+          "type": "persons",
+          "entity": "扶苏"
+        },
+        {
+          "start": 81,
+          "end": 83,
+          "text": "趙高",
+          "type": "persons",
+          "entity": "赵高"
+        },
+        {
+          "start": 87,
+          "end": 89,
+          "text": "胡亥",
+          "type": "persons",
+          "entity": "胡亥"
+        },
+        {
+          "start": 114,
+          "end": 116,
+          "text": "呂后",
+          "type": "persons",
+          "entity": "吕后"
+        },
+        {
+          "start": 145,
+          "end": 150,
+          "text": "以頸血汙地",
+          "type": "concepts",
+          "entity": "以颈血汙地"
+        },
+        {
+          "start": 152,
+          "end": 154,
+          "text": "高帝",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 167,
+          "end": 170,
+          "text": "叔孫通",
+          "type": "persons",
+          "entity": "叔孙通"
+        },
+        {
+          "start": 173,
+          "end": 178,
+          "text": "太子天下本",
+          "type": "concepts",
+          "entity": "太子天下本"
+        },
+        {
+          "start": 196,
+          "end": 198,
+          "text": "高帝",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 213,
+          "end": 218,
+          "text": "留侯所招客",
+          "type": "persons",
+          "entity": "商山四皓"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p16",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 2,
+          "text": "高帝",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 11,
+          "end": 14,
+          "text": "叔孫生",
+          "type": "persons",
+          "entity": "叔孙通"
+        },
+        {
+          "start": 51,
+          "end": 54,
+          "text": "叔孫生",
+          "type": "persons",
+          "entity": "叔孙通"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p17",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 3,
+          "text": "孝惠帝",
+          "type": "persons",
+          "entity": "孝惠帝"
+        },
+        {
+          "start": 6,
+          "end": 9,
+          "text": "長樂宮",
+          "type": "places",
+          "entity": "长乐宫"
+        },
+        {
+          "start": 26,
+          "end": 28,
+          "text": "武庫",
+          "type": "places",
+          "entity": "武库"
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "text": "叔孫生",
+          "type": "persons",
+          "entity": "叔孙通"
+        },
+        {
+          "start": 83,
+          "end": 86,
+          "text": "孝惠帝",
+          "type": "persons",
+          "entity": "孝惠帝"
+        },
+        {
+          "start": 97,
+          "end": 100,
+          "text": "叔孫生",
+          "type": "persons",
+          "entity": "叔孙通"
+        },
+        {
+          "start": 103,
+          "end": 108,
+          "text": "人主無過舉",
+          "type": "concepts",
+          "entity": "人主无过举"
+        },
+        {
+          "start": 134,
+          "end": 136,
+          "text": "渭北",
+          "type": "places",
+          "entity": "渭北"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p18",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 3,
+          "text": "孝惠帝",
+          "type": "persons",
+          "entity": "孝惠帝"
+        },
+        {
+          "start": 7,
+          "end": 9,
+          "text": "離宮",
+          "type": "places",
+          "entity": "离宫"
+        },
+        {
+          "start": 10,
+          "end": 13,
+          "text": "叔孫生",
+          "type": "persons",
+          "entity": "叔孙通"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p19",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 4,
+          "text": "太史公曰",
+          "type": "events",
+          "entity": "太史公曰"
+        },
+        {
+          "start": 49,
+          "end": 51,
+          "text": "高祖",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 72,
+          "end": 74,
+          "text": "劉敬",
+          "type": "persons",
+          "entity": "刘敬"
+        },
+        {
+          "start": 74,
+          "end": 77,
+          "text": "脫輓輅",
+          "type": "concepts",
+          "entity": "脱輓輅"
+        },
+        {
+          "start": 92,
+          "end": 95,
+          "text": "叔孫通",
+          "type": "persons",
+          "entity": "叔孙通"
+        },
+        {
+          "start": 95,
+          "end": 99,
+          "text": "希世度務",
+          "type": "concepts",
+          "entity": "希世度务"
+        }
+      ]
+    },
+    {
+      "target_para_id": "p20",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 4,
+          "text": "索隱述贊",
+          "type": "events",
+          "entity": "索隐述赞"
+        },
+        {
+          "start": 26,
+          "end": 28,
+          "text": "皇帝",
+          "type": "persons",
+          "entity": "刘邦"
+        },
+        {
+          "start": 43,
+          "end": 45,
+          "text": "匈奴",
+          "type": "places",
+          "entity": "匈奴"
+        }
+      ]
+    }
+  ]
+}
