@@ -3,631 +3,225 @@
   "chapter_id": "60",
   "chapter_title": "汲郑列传第六十",
   "version": "1.0",
-  "generated_at": "2026-11-02 07:38:09",
-  "paragraphs": [
-    {
-      "para_id": "text:shiji:shiji-汲鄭列傳第六十:p0",
-      "text": "汲黯字長孺，濮陽人也。其先有寵於古之衞君。⟦0⟧至黯七世，世爲卿大夫。黯以父任，孝景時爲太子洗馬，以莊見憚。⟦1⟧孝景帝崩，太子即位，黯爲謁者。東越相攻，上使黯往視之。不至，至吴而還，報曰：「越人相攻，固其俗然，不足以辱天子之使。」河內失火，延燒千餘家，上使黯往視之。還報曰：「家人失火，屋比延燒，⟦2⟧不足憂也。臣過河南，河南貧人傷水旱萬餘家，或父子相食，臣謹以便宜，持節發河南倉粟以振貧民。臣請歸節，伏矯制之罪。」上賢而釋之，遷爲滎陽令。黯恥爲令，病歸田里。上聞，乃召拜爲中大夫。以數切諫，不得久留內，遷爲東海太守。黯學黃老之言，治官理民，好清靜，擇丞史而任之。⟦3⟧其治，責大指而已，不苛小。黯多病，卧閨閤內不出。歲餘，東海大治。稱之。上聞，召以爲主爵都尉，列於九卿。治務在無爲而已，弘大體，不拘文法。",
-      "mentions": [
-        {
-          "start": 0,
-          "end": 2,
-          "entity_id": "person_j_000",
-          "text": "汲黯"
-        },
-        {
-          "start": 6,
-          "end": 8,
-          "entity_id": "place_j_000",
-          "text": "濮陽"
-        },
-        {
-          "start": 110,
-          "end": 112,
-          "entity_id": "person_j_002",
-          "text": "天子"
-        },
-        {
-          "start": 116,
-          "end": 118,
-          "entity_id": "place_j_002",
-          "text": "河內"
-        },
-        {
-          "start": 159,
-          "end": 161,
-          "entity_id": "place_j_003",
-          "text": "河南"
-        },
-        {
-          "start": 162,
-          "end": 164,
-          "entity_id": "place_j_003",
-          "text": "河南"
-        },
-        {
-          "start": 188,
-          "end": 190,
-          "entity_id": "place_j_003",
-          "text": "河南"
-        },
-        {
-          "start": 255,
-          "end": 257,
-          "entity_id": "place_j_001",
-          "text": "東海"
-        },
-        {
-          "start": 313,
-          "end": 315,
-          "entity_id": "place_j_001",
-          "text": "東海"
-        }
-      ]
-    },
-    {
-      "para_id": "text:shiji:shiji-汲鄭列傳第六十:p1",
-      "text": "黯爲人性倨，少禮，面折，不能容人之過。合己者善待之，不合己者不能忍見，士亦以此不附焉。然好學，游俠，任氣節，內行脩絜，好直諫，數犯主之顏色，常慕傅柏、袁盎之爲人也。⟦0⟧⟦1⟧善灌夫、鄭當時及宗正劉弃。⟦2⟧⟦3⟧亦以數直諫，不得久居位。",
-      "mentions": [
-        {
-          "start": 89,
-          "end": 91,
-          "entity_id": "person_j_008",
-          "text": "灌夫"
-        },
-        {
-          "start": 92,
-          "end": 95,
-          "entity_id": "person_j_001",
-          "text": "鄭當時"
-        }
-      ]
-    },
-    {
-      "para_id": "text:shiji:shiji-汲鄭列傳第六十:p2",
-      "text": "當是時，太后弟武安侯蚡爲丞相，中二千石來拜謁，蚡不爲禮。然黯見蚡未嘗拜，常揖之。天子方招文學儒者，上曰吾欲云云，⟦0⟧黯對曰：「陛下內多欲而外施仁義，奈何欲效唐虞之治乎！」上默然，怒，變色而罷朝。公卿皆爲黯懼。上退，謂左右曰：「甚矣，汲黯之戇也！」⟦1⟧羣臣或數黯，黯曰：「天子置公卿輔弼之臣，寧令從諛承意，陷主於不義乎？且已在其位，縱愛身，奈辱朝廷何！」",
-      "mentions": [
-        {
-          "start": 7,
-          "end": 11,
-          "entity_id": "person_j_006",
-          "text": "武安侯蚡"
-        },
-        {
-          "start": 40,
-          "end": 42,
-          "entity_id": "person_j_002",
-          "text": "天子"
-        },
-        {
-          "start": 64,
-          "end": 66,
-          "entity_id": "person_j_002",
-          "text": "陛下"
-        },
-        {
-          "start": 117,
-          "end": 119,
-          "entity_id": "person_j_000",
-          "text": "汲黯"
-        },
-        {
-          "start": 137,
-          "end": 139,
-          "entity_id": "person_j_002",
-          "text": "天子"
-        }
-      ]
-    },
-    {
-      "para_id": "text:shiji:shiji-汲鄭列傳第六十:p3",
-      "text": "黯多病，病且滿三月，上常賜告者數，⟦0⟧⟦1⟧終不愈。最後病，莊助爲請告。⟦2⟧上曰：「汲黯何如人哉？」助曰：「使黯任職居官，無以踰人。⟦3⟧然至其輔少主，守城深堅，招之不來，麾之不去，雖自謂賁育亦不能奪之矣。」上曰：「然。古有社稷之臣，至如黯，近之矣。」",
-      "mentions": [
-        {
-          "start": 31,
-          "end": 33,
-          "entity_id": "person_j_007",
-          "text": "莊助"
-        },
-        {
-          "start": 44,
-          "end": 46,
-          "entity_id": "person_j_000",
-          "text": "汲黯"
-        }
-      ]
-    },
-    {
-      "para_id": "text:shiji:shiji-汲鄭列傳第六十:p4",
-      "text": "大將軍青侍中，上踞厠而視之。⟦0⟧丞相弘燕見，上或時不冠。至如黯見，上不冠不見也。上嘗坐武帳中，⟦1⟧黯前奏事，上不冠，望見黯，避帳中，使人可其奏。其見敬禮如此。",
-      "mentions": [
-        {
-          "start": 0,
-          "end": 4,
-          "entity_id": "person_j_003",
-          "text": "大將軍青"
-        },
-        {
-          "start": 17,
-          "end": 20,
-          "entity_id": "person_j_004",
-          "text": "丞相弘"
-        }
-      ]
-    },
-    {
-      "para_id": "text:shiji:shiji-汲鄭列傳第六十:p5",
-      "text": "張湯方以更定律令爲廷尉，黯數質責湯於上前，曰：「公爲正卿，上不能襃先帝之功業，下不能抑天下之邪心，安國富民，使囹圄空虛，二者無一焉。非苦就行，放析就功，何乃取高皇帝約束紛更之爲？⟦0⟧公以此無種矣。」黯時與湯論議，湯辯常在文深小苛，黯伉厲守高不能屈，忿發罵曰：「天下謂刀筆吏不可以爲公卿，果然。必湯也，令天下重足而立，側目而視矣！」",
-      "mentions": [
-        {
-          "start": 0,
-          "end": 2,
-          "entity_id": "person_j_005",
-          "text": "張湯"
-        }
-      ]
-    },
-    {
-      "para_id": "text:shiji:shiji-汲鄭列傳第六十:p6",
-      "text": "是時，漢方征匈奴，招懷四夷。黯務少事，乘上間，常言與胡和親，無起兵。上方向儒術，尊公孫弘。及事益多，吏民巧弄。⟦0⟧上分別文法，湯等數奏決讞以幸。⟦1⟧而黯常毀儒，面觸弘等徒懷詐飾智以阿人主取容，而刀筆吏專深文巧詆，⟦2⟧陷人於罪，使不得反其真，以勝爲功。上愈益貴弘、湯，弘、湯深心疾黯，唯天子亦不說也，欲誅之以事。弘爲丞相，乃言上曰：「右內史界部中多貴人宗室，難治，非素重臣不能任，請徙黯爲右內史。」爲右內史數歲，官事不廢。",
-      "mentions": [
-        {
-          "start": 6,
-          "end": 8,
-          "entity_id": "place_j_008",
-          "text": "匈奴"
-        },
-        {
-          "start": 41,
-          "end": 44,
-          "entity_id": "person_j_004",
-          "text": "公孫弘"
-        },
-        {
-          "start": 145,
-          "end": 147,
-          "entity_id": "person_j_002",
-          "text": "天子"
-        }
-      ]
-    },
-    {
-      "para_id": "text:shiji:shiji-汲鄭列傳第六十:p7",
-      "text": "大將軍青旣益尊，姊爲皇后，然黯與亢禮。人或說黯曰：「自天子欲羣臣下大將軍，大將軍尊重益貴，君不可以不拜。」黯曰：「夫以大將軍有揖客，反不重邪？」大將軍聞，愈賢黯，數請問國家朝廷所疑，遇黯過於平生。",
-      "mentions": [
-        {
-          "start": 0,
-          "end": 4,
-          "entity_id": "person_j_003",
-          "text": "大將軍青"
-        },
-        {
-          "start": 27,
-          "end": 29,
-          "entity_id": "person_j_002",
-          "text": "天子"
-        },
-        {
-          "start": 33,
-          "end": 36,
-          "entity_id": "person_j_003",
-          "text": "大將軍"
-        },
-        {
-          "start": 37,
-          "end": 40,
-          "entity_id": "person_j_003",
-          "text": "大將軍"
-        },
-        {
-          "start": 59,
-          "end": 62,
-          "entity_id": "person_j_003",
-          "text": "大將軍"
-        },
-        {
-          "start": 72,
-          "end": 75,
-          "entity_id": "person_j_003",
-          "text": "大將軍"
-        }
-      ]
-    },
-    {
-      "para_id": "text:shiji:shiji-汲鄭列傳第六十:p8",
-      "text": "淮南王謀反，憚黯，曰：「好直諫，守節死義，難惑以非。至如說丞相弘，如發蒙振落耳。」",
-      "mentions": [
-        {
-          "start": 0,
-          "end": 3,
-          "entity_id": "person_j_009",
-          "text": "淮南王"
-        },
-        {
-          "start": 29,
-          "end": 32,
-          "entity_id": "person_j_004",
-          "text": "丞相弘"
-        }
-      ]
-    },
-    {
-      "para_id": "text:shiji:shiji-汲鄭列傳第六十:p9",
-      "text": "天子旣數征匈奴有功，黯之言益不用。",
-      "mentions": [
-        {
-          "start": 0,
-          "end": 2,
-          "entity_id": "person_j_002",
-          "text": "天子"
-        },
-        {
-          "start": 5,
-          "end": 7,
-          "entity_id": "place_j_008",
-          "text": "匈奴"
-        }
-      ]
-    },
-    {
-      "para_id": "text:shiji:shiji-汲鄭列傳第六十:p10",
-      "text": "始黯列爲九卿，而公孫弘、張湯爲小吏。及弘、湯稍益貴，與黯同位，黯又非毀弘、湯等。已而弘至丞相，封爲侯；湯至御史大夫；故黯時丞相史皆與黯同列，或尊用過之。黯褊心，不能無少望，見上，前言曰：「陛下用羣臣如積薪耳，後來者居上。」上默然。有間黯罷，上曰：「人果不可以無學，觀黯之言也日益甚。」",
-      "mentions": [
-        {
-          "start": 8,
-          "end": 11,
-          "entity_id": "person_j_004",
-          "text": "公孫弘"
-        },
-        {
-          "start": 12,
-          "end": 14,
-          "entity_id": "person_j_005",
-          "text": "張湯"
-        },
-        {
-          "start": 94,
-          "end": 96,
-          "entity_id": "person_j_002",
-          "text": "陛下"
-        }
-      ]
-    },
-    {
-      "para_id": "text:shiji:shiji-汲鄭列傳第六十:p11",
-      "text": "居無何，匈奴渾邪王率衆來降，漢發車二萬乘。縣官無錢，從民貰馬。⟦0⟧民或匿馬，馬不具。上怒，欲斬長安令。黯曰：「長安令無罪，獨斬黯，民乃肯出馬。且匈奴畔其主而降漢，漢徐以縣次傳之，何至令天下騷動，罷弊中國而以事夷狄之人乎！」上默然。及渾邪至，賈人與市者，坐當死者五百餘人。黯請間，見高門，⟦1⟧曰：「夫匈奴攻當路塞，絕和親，中國興兵誅之，死傷者不可勝計，而費以巨萬百數。臣愚以爲陛下得胡人，皆以爲奴婢以賜從軍死事者家；所鹵獲，因予之，以謝天下之苦，塞百姓之心。今縱不能，渾邪率數萬之衆來降，虛府庫賞賜，發良民侍養，譬若奉驕子。愚民安知市買長安中物而文吏繩以爲闌出財物于邊關乎？⟦2⟧陛下縱不能得匈奴之資以謝天下，又以微文殺無知者五百餘人，是所謂『庇其葉而傷其枝』者也，臣竊爲陛下不取也。」上默然，不許，曰：「吾久不聞汲黯之言，今又復妄發矣。」後數月，黯坐小法，會赦免官。於是黯隱於田園。",
-      "mentions": [
-        {
-          "start": 4,
-          "end": 6,
-          "entity_id": "place_j_008",
-          "text": "匈奴"
-        },
-        {
-          "start": 6,
-          "end": 9,
-          "entity_id": "person_j_011",
-          "text": "渾邪王"
-        },
-        {
-          "start": 73,
-          "end": 75,
-          "entity_id": "place_j_008",
-          "text": "匈奴"
-        },
-        {
-          "start": 151,
-          "end": 153,
-          "entity_id": "place_j_008",
-          "text": "匈奴"
-        },
-        {
-          "start": 189,
-          "end": 191,
-          "entity_id": "person_j_002",
-          "text": "陛下"
-        },
-        {
-          "start": 291,
-          "end": 293,
-          "entity_id": "person_j_002",
-          "text": "陛下"
-        },
-        {
-          "start": 297,
-          "end": 299,
-          "entity_id": "place_j_008",
-          "text": "匈奴"
-        },
-        {
-          "start": 337,
-          "end": 339,
-          "entity_id": "person_j_002",
-          "text": "陛下"
-        },
-        {
-          "start": 358,
-          "end": 360,
-          "entity_id": "person_j_000",
-          "text": "汲黯"
-        }
-      ]
-    },
-    {
-      "para_id": "text:shiji:shiji-汲鄭列傳第六十:p12",
-      "text": "居數年，會更五銖錢，⟦0⟧民多盜鑄錢，楚地尤甚。上以爲淮陽，楚地之郊，乃召拜黯爲淮陽太守。黯伏謝不受印，詔數彊予，然後奉詔。詔召見黯，黯爲上泣曰：「臣自以爲填溝壑，不復見陛下，不意陛下復收用之。臣常有狗馬病，力不能任郡事，臣願爲中郎，出入禁闥，補過拾遺，臣之願也。」上曰：「君薄淮陽邪？吾今召君矣。⟦1⟧顧淮陽吏民不相得，吾徒得君之重，卧而治之。」黯旣辭行，過大行李息，曰：「黯弃居郡，不得與朝廷議也。然御史大夫張湯智足以拒諫，詐足以飾非，務巧佞之語，辯數之辭，非肯正爲天下言，專阿主意。主意所不欲，因而毀之；主意所欲，因而譽之。好興事，舞文法，⟦2⟧內懷詐以御主心，外挾賊吏以爲威重。公列九卿，不早言之，公與之俱受其僇矣。」息畏湯，終不敢言。黯居郡如故治，淮陽政清。後張湯果敗，上聞黯與息言，抵息罪。令黯以諸侯相秩居淮陽。⟦3⟧七歲而卒。⟦4⟧",
-      "mentions": [
-        {
-          "start": 27,
-          "end": 29,
-          "entity_id": "place_j_004",
-          "text": "淮陽"
-        },
-        {
-          "start": 40,
-          "end": 42,
-          "entity_id": "place_j_004",
-          "text": "淮陽"
-        },
-        {
-          "start": 85,
-          "end": 87,
-          "entity_id": "person_j_002",
-          "text": "陛下"
-        },
-        {
-          "start": 90,
-          "end": 92,
-          "entity_id": "person_j_002",
-          "text": "陛下"
-        },
-        {
-          "start": 139,
-          "end": 141,
-          "entity_id": "place_j_004",
-          "text": "淮陽"
-        },
-        {
-          "start": 153,
-          "end": 155,
-          "entity_id": "place_j_004",
-          "text": "淮陽"
-        },
-        {
-          "start": 180,
-          "end": 184,
-          "entity_id": "person_j_010",
-          "text": "大行李息"
-        },
-        {
-          "start": 206,
-          "end": 208,
-          "entity_id": "person_j_005",
-          "text": "張湯"
-        },
-        {
-          "start": 329,
-          "end": 331,
-          "entity_id": "place_j_004",
-          "text": "淮陽"
-        },
-        {
-          "start": 335,
-          "end": 337,
-          "entity_id": "person_j_005",
-          "text": "張湯"
-        },
-        {
-          "start": 359,
-          "end": 361,
-          "entity_id": "place_j_004",
-          "text": "淮陽"
-        }
-      ]
-    },
-    {
-      "para_id": "text:shiji:shiji-汲鄭列傳第六十:p13",
-      "text": "卒後，上以黯故，官其弟汲仁至九卿，子汲偃至諸侯相。黯姑姊子司馬安亦少與黯爲太子洗馬。安文深巧善宦，官四至九卿，以河南太守卒。昆弟以安故，同時至二千石者十人。濮陽段宏⟦0⟧始事蓋侯信，⟦1⟧信任宏，宏亦再至九卿。然衞人仕者皆嚴憚汲黯，出其下。",
-      "mentions": [
-        {
-          "start": 29,
-          "end": 32,
-          "entity_id": "person_j_012",
-          "text": "司馬安"
-        },
-        {
-          "start": 56,
-          "end": 58,
-          "entity_id": "place_j_003",
-          "text": "河南"
-        },
-        {
-          "start": 78,
-          "end": 80,
-          "entity_id": "place_j_000",
-          "text": "濮陽"
-        },
-        {
-          "start": 113,
-          "end": 115,
-          "entity_id": "person_j_000",
-          "text": "汲黯"
-        }
-      ]
-    },
-    {
-      "para_id": "text:shiji:shiji-汲鄭列傳第六十:p14",
-      "text": "鄭當時者，字莊，陳人也。其先鄭君⟦0⟧嘗爲項籍將；籍死，已而屬漢。高祖令諸故項籍臣名籍，鄭君獨不奉詔。詔盡拜名籍者爲大夫，而逐鄭君。鄭君死孝文時。",
-      "mentions": [
-        {
-          "start": 0,
-          "end": 3,
-          "entity_id": "person_j_001",
-          "text": "鄭當時"
-        }
-      ]
-    },
-    {
-      "para_id": "text:shiji:shiji-汲鄭列傳第六十:p15",
-      "text": "鄭莊以任俠自喜，脫張羽於戹，⟦0⟧聲聞梁楚之間。孝景時，爲太子舍人。每五日洗沐，常置驛馬安諸郊，⟦1⟧⟦2⟧存諸故人，請謝賔客，夜以繼日，至其明旦，常恐不徧。莊好黃老之言，其慕長者如恐不見。年少官薄，然其游知交皆其大父行，天下有名之士也。武帝立，莊稍遷爲魯中尉、濟南太守、江都相，至九卿爲右內史。以武安侯魏其時議，貶秩爲詹事，遷爲大農令。",
-      "mentions": [
-        {
-          "start": 0,
-          "end": 2,
-          "entity_id": "person_j_001",
-          "text": "鄭莊"
-        },
-        {
-          "start": 149,
-          "end": 152,
-          "entity_id": "person_j_006",
-          "text": "武安侯"
-        }
-      ]
-    },
-    {
-      "para_id": "text:shiji:shiji-汲鄭列傳第六十:p16",
-      "text": "莊爲太史，誡門下：「客至，無貴賤無留門者。」執賔主之禮，以其貴下人。莊廉，又不治其產業，仰奉賜以給諸公。然其餽遺人，不過算器食。⟦0⟧⟦1⟧每朝，候上之間，說未嘗不言天下之長者。其推轂士及官屬丞史，誠有味其言之也，常引以爲賢於己。未嘗名吏，與官屬言，若恐傷之。聞人之善言，進之上，唯恐後。山東士諸公以此翕然稱鄭莊。",
-      "mentions": [
-        {
-          "start": 154,
-          "end": 156,
-          "entity_id": "person_j_001",
-          "text": "鄭莊"
-        }
-      ]
-    },
-    {
-      "para_id": "text:shiji:shiji-汲鄭列傳第六十:p17",
-      "text": "鄭莊使視決河，自請治行五日。⟦0⟧上曰：「吾聞『鄭莊行，千里不齎糧』，請治行者何也？」然鄭莊在朝，常趨和承意，不敢甚引當否。及晚節，漢征匈奴，招四夷，天下費多，財用益匱。莊任人賔客爲大農僦人，⟦1⟧⟦2⟧多逋負。司馬安爲淮陽太守，發其事，莊以此陷罪，贖爲庶人。頃之，守長史。⟦3⟧上以爲老，以莊爲汝南太守。數歲，以官卒。",
-      "mentions": [
-        {
-          "start": 0,
-          "end": 2,
-          "entity_id": "person_j_001",
-          "text": "鄭莊"
-        },
-        {
-          "start": 24,
-          "end": 26,
-          "entity_id": "person_j_001",
-          "text": "鄭莊"
-        },
-        {
-          "start": 44,
-          "end": 46,
-          "entity_id": "person_j_001",
-          "text": "鄭莊"
-        },
-        {
-          "start": 68,
-          "end": 70,
-          "entity_id": "place_j_008",
-          "text": "匈奴"
-        },
-        {
-          "start": 106,
-          "end": 109,
-          "entity_id": "person_j_012",
-          "text": "司馬安"
-        },
-        {
-          "start": 110,
-          "end": 112,
-          "entity_id": "place_j_004",
-          "text": "淮陽"
-        },
-        {
-          "start": 148,
-          "end": 150,
-          "entity_id": "place_j_005",
-          "text": "汝南"
-        }
-      ]
-    },
-    {
-      "para_id": "text:shiji:shiji-汲鄭列傳第六十:p18",
-      "text": "鄭莊、汲黯始列爲九卿，廉，內行脩絜。此兩人中廢，家貧，賔客益落。⟦0⟧及居郡，卒後家無餘貲財。莊兄弟子孫以莊故，至二千石六七人焉。",
-      "mentions": [
-        {
-          "start": 0,
-          "end": 2,
-          "entity_id": "person_j_001",
-          "text": "鄭莊"
-        },
-        {
-          "start": 3,
-          "end": 5,
-          "entity_id": "person_j_000",
-          "text": "汲黯"
-        }
-      ]
-    },
-    {
-      "para_id": "text:shiji:shiji-汲鄭列傳第六十:p19",
-      "text": "太史公曰：夫以汲、鄭之賢，有勢則賔客十倍，無勢則否，況衆人乎！下邽翟公有言，⟦0⟧⟦1⟧始翟公爲廷尉，賔客闐門；及廢，門外可設雀羅。翟公復爲廷尉，賔客欲往，翟公乃大署其門曰：「一死一生，乃知交情。一貧一富，乃知交態。一貴一賤，交情乃見。」汲、鄭亦云，悲夫！",
-      "mentions": [
-        {
-          "start": 0,
-          "end": 3,
-          "entity_id": "person_j_014",
-          "text": "太史公"
-        },
-        {
-          "start": 31,
-          "end": 35,
-          "entity_id": "person_j_013",
-          "text": "下邽翟公"
-        },
-        {
-          "start": 45,
-          "end": 47,
-          "entity_id": "person_j_013",
-          "text": "翟公"
-        },
-        {
-          "start": 66,
-          "end": 68,
-          "entity_id": "person_j_013",
-          "text": "翟公"
-        },
-        {
-          "start": 78,
-          "end": 80,
-          "entity_id": "person_j_013",
-          "text": "翟公"
-        }
-      ]
-    },
-    {
-      "para_id": "text:shiji:shiji-汲鄭列傳第六十:p20",
-      "text": "索隱述贊曰：河南矯制，自古稱賢。淮南卧理，天子伏焉。積薪興歎，伉直愈堅。鄭莊推士，天下翕然。交道勢利，翟公愴旃。",
-      "mentions": [
-        {
-          "start": 6,
-          "end": 8,
-          "entity_id": "place_j_003",
-          "text": "河南"
-        },
-        {
-          "start": 21,
-          "end": 23,
-          "entity_id": "person_j_002",
-          "text": "天子"
-        },
-        {
-          "start": 36,
-          "end": 38,
-          "entity_id": "person_j_001",
-          "text": "鄭莊"
-        },
-        {
-          "start": 51,
-          "end": 53,
-          "entity_id": "person_j_013",
-          "text": "翟公"
-        }
-      ]
-    }
-  ]
+  "generated_at": "2026-11-02 08:00:00",
+  "mentions": {
+    "p0": [
+      {"start":0,"end":2,"text":"汲黯","type":"person","ref":"person_000"},
+      {"start":5,"end":7,"text":"長孺","type":"person","ref":"person_000","note":"字"},
+      {"start":9,"end":11,"text":"濮陽","type":"place","ref":"place_000"},
+      {"start":18,"end":19,"text":"衞","type":"place","ref":"place_001"},
+      {"start":38,"end":40,"text":"孝景","type":"person","ref":"person_001"},
+      {"start":48,"end":51,"text":"太子洗馬","type":"unknown","note":"官职"},
+      {"start":65,"end":66,"text":"上","type":"person","ref":"person_002","note":"汉景帝/武帝，此指景帝"},
+      {"start":77,"end":81,"text":"孝景帝","type":"person","ref":"person_001"},
+      {"start":84,"end":86,"text":"太子","type":"person","ref":"person_002"},
+      {"start":93,"end":94,"text":"黯","type":"person","ref":"person_000"},
+      {"start":100,"end":102,"text":"謁者","type":"unknown","note":"官职"},
+      {"start":108,"end":110,"text":"東越","type":"place","ref":"place_002"},
+      {"start":122,"end":123,"text":"黯","type":"person","ref":"person_000"},
+      {"start":133,"end":134,"text":"吴","type":"place","ref":"place_003"},
+      {"start":163,"end":165,"text":"河內","type":"place","ref":"place_004"},
+      {"start":181,"end":182,"text":"黯","type":"person","ref":"person_000"},
+      {"start":197,"end":199,"text":"河南","type":"place","ref":"place_005"},
+      {"start":225,"end":226,"text":"節","type":"unknown","note":"符节"},
+      {"start":229,"end":231,"text":"河南","type":"place","ref":"place_005"},
+      {"start":258,"end":259,"text":"上","type":"person","ref":"person_002","note":"汉武帝"},
+      {"start":270,"end":272,"text":"滎陽","type":"place","ref":"place_006"},
+      {"start":287,"end":288,"text":"黯","type":"person","ref":"person_000"},
+      {"start":303,"end":306,"text":"中大夫","type":"unknown","note":"官职"},
+      {"start":326,"end":328,"text":"東海","type":"place","ref":"place_007","note":"东海太守"},
+      {"start":338,"end":340,"text":"黃老","type":"concept","ref":"concept_000"},
+      {"start":385,"end":387,"text":"東海","type":"place","ref":"place_007"},
+      {"start":403,"end":407,"text":"主爵都尉","type":"unknown","note":"九卿官职"},
+      {"start":416,"end":418,"text":"九卿","type":"unknown","note":"高级官职"}
+    ],
+    "p1": [
+      {"start":0,"end":1,"text":"黯","type":"person","ref":"person_000"},
+      {"start":116,"end":118,"text":"傅柏","type":"person","ref":"person_003"},
+      {"start":121,"end":123,"text":"袁盎","type":"person","ref":"person_004"},
+      {"start":132,"end":134,"text":"灌夫","type":"person","ref":"person_005"},
+      {"start":137,"end":140,"text":"鄭當時","type":"person","ref":"person_006"},
+      {"start":145,"end":148,"text":"宗正劉弃","type":"person","ref":"person_007"}
+    ],
+    "p2": [
+      {"start":12,"end":15,"text":"武安侯蚡","type":"person","ref":"person_008"},
+      {"start":22,"end":23,"text":"蚡","type":"person","ref":"person_008"},
+      {"start":50,"end":51,"text":"黯","type":"person","ref":"person_000"},
+      {"start":54,"end":55,"text":"蚡","type":"person","ref":"person_008"},
+      {"start":76,"end":77,"text":"上","type":"person","ref":"person_002"},
+      {"start":101,"end":102,"text":"黯","type":"person","ref":"person_000"},
+      {"start":106,"end":108,"text":"陛下","type":"person","ref":"person_002"},
+      {"start":151,"end":152,"text":"上","type":"person","ref":"person_002"},
+      {"start":175,"end":176,"text":"上","type":"person","ref":"person_002"},
+      {"start":195,"end":196,"text":"黯","type":"person","ref":"person_000"}
+    ],
+    "p3": [
+      {"start":0,"end":1,"text":"黯","type":"person","ref":"person_000"},
+      {"start":29,"end":31,"text":"莊助","type":"person","ref":"person_009"},
+      {"start":52,"end":53,"text":"上","type":"person","ref":"person_002"},
+      {"start":69,"end":70,"text":"黯","type":"person","ref":"person_000"},
+      {"start":75,"end":76,"text":"助","type":"person","ref":"person_009"},
+      {"start":158,"end":159,"text":"上","type":"person","ref":"person_002"},
+      {"start":182,"end":183,"text":"黯","type":"person","ref":"person_000"}
+    ],
+    "p4": [
+      {"start":0,"end":4,"text":"大將軍青","type":"person","ref":"person_010"},
+      {"start":11,"end":12,"text":"上","type":"person","ref":"person_002"},
+      {"start":25,"end":28,"text":"丞相弘","type":"person","ref":"person_011"},
+      {"start":49,"end":50,"text":"黯","type":"person","ref":"person_000"},
+      {"start":53,"end":54,"text":"上","type":"person","ref":"person_002"},
+      {"start":70,"end":71,"text":"黯","type":"person","ref":"person_000"},
+      {"start":80,"end":81,"text":"上","type":"person","ref":"person_002"},
+      {"start":116,"end":117,"text":"上","type":"person","ref":"person_002"}
+    ],
+    "p5": [
+      {"start":0,"end":2,"text":"張湯","type":"person","ref":"person_012"},
+      {"start":16,"end":17,"text":"黯","type":"person","ref":"person_000"},
+      {"start":47,"end":48,"text":"湯","type":"person","ref":"person_012"},
+      {"start":136,"end":139,"text":"高皇帝","type":"person","ref":"person_013"},
+      {"start":205,"end":206,"text":"黯","type":"person","ref":"person_000"},
+      {"start":215,"end":216,"text":"湯","type":"person","ref":"person_012"}
+    ],
+    "p6": [
+      {"start":38,"end":39,"text":"黯","type":"person","ref":"person_000"},
+      {"start":72,"end":73,"text":"上","type":"person","ref":"person_002"},
+      {"start":82,"end":85,"text":"公孫弘","type":"person","ref":"person_011"},
+      {"start":115,"end":116,"text":"湯","type":"person","ref":"person_012"},
+      {"start":136,"end":137,"text":"黯","type":"person","ref":"person_000"},
+      {"start":152,"end":153,"text":"弘","type":"person","ref":"person_011"},
+      {"start":185,"end":187,"text":"弘、湯","type":"unknown","note":"公孙弘、张汤"},
+      {"start":204,"end":205,"text":"上","type":"person","ref":"person_002"},
+      {"start":225,"end":226,"text":"弘","type":"person","ref":"person_011"},
+      {"start":274,"end":275,"text":"黯","type":"person","ref":"person_000"}
+    ],
+    "p7": [
+      {"start":0,"end":4,"text":"大將軍青","type":"person","ref":"person_010"},
+      {"start":25,"end":26,"text":"黯","type":"person","ref":"person_000"},
+      {"start":80,"end":81,"text":"黯","type":"person","ref":"person_000"},
+      {"start":100,"end":102,"text":"大將軍","type":"person","ref":"person_010"},
+      {"start":118,"end":120,"text":"大將軍","type":"person","ref":"person_010"}
+    ],
+    "p8": [
+      {"start":0,"end":3,"text":"淮南王","type":"person","ref":"person_014"},
+      {"start":9,"end":10,"text":"黯","type":"person","ref":"person_000"},
+      {"start":49,"end":50,"text":"弘","type":"person","ref":"person_011"}
+    ],
+    "p9": [
+      {"start":6,"end":7,"text":"黯","type":"person","ref":"person_000"}
+    ],
+    "p10": [
+      {"start":4,"end":5,"text":"黯","type":"person","ref":"person_000"},
+      {"start":21,"end":24,"text":"公孫弘","type":"person","ref":"person_011"},
+      {"start":27,"end":29,"text":"張湯","type":"person","ref":"person_012"},
+      {"start":51,"end":52,"text":"黯","type":"person","ref":"person_000"},
+      {"start":71,"end":72,"text":"弘","type":"person","ref":"person_011"},
+      {"start":88,"end":89,"text":"湯","type":"person","ref":"person_012"},
+      {"start":125,"end":126,"text":"黯","type":"person","ref":"person_000"},
+      {"start":146,"end":147,"text":"上","type":"person","ref":"person_002"},
+      {"start":184,"end":185,"text":"上","type":"person","ref":"person_002"}
+    ],
+    "p11": [
+      {"start":7,"end":10,"text":"渾邪王","type":"person","ref":"person_015"},
+      {"start":66,"end":67,"text":"上","type":"person","ref":"person_002"},
+      {"start":81,"end":82,"text":"黯","type":"person","ref":"person_000"},
+      {"start":115,"end":116,"text":"黯","type":"person","ref":"person_000"},
+      {"start":120,"end":122,"text":"長安","type":"place","ref":"place_008"},
+      {"start":183,"end":184,"text":"上","type":"person","ref":"person_002"},
+      {"start":223,"end":225,"text":"渾邪","type":"person","ref":"person_015"},
+      {"start":280,"end":281,"text":"黯","type":"person","ref":"person_000"},
+      {"start":290,"end":292,"text":"高門","type":"place","ref":"place_019"},
+      {"start":463,"end":464,"text":"上","type":"person","ref":"person_002"},
+      {"start":501,"end":502,"text":"黯","type":"person","ref":"person_000"}
+    ],
+    "p12": [
+      {"start":57,"end":58,"text":"上","type":"person","ref":"person_002"},
+      {"start":68,"end":69,"text":"黯","type":"person","ref":"person_000"},
+      {"start":104,"end":105,"text":"上","type":"person","ref":"person_002"},
+      {"start":109,"end":110,"text":"黯","type":"person","ref":"person_000"},
+      {"start":196,"end":197,"text":"上","type":"person","ref":"person_002"},
+      {"start":220,"end":221,"text":"黯","type":"person","ref":"person_000"},
+      {"start":251,"end":254,"text":"大行李息","type":"person","ref":"person_016"},
+      {"start":267,"end":268,"text":"黯","type":"person","ref":"person_000"},
+      {"start":294,"end":295,"text":"湯","type":"person","ref":"person_012"},
+      {"start":398,"end":399,"text":"息","type":"person","ref":"person_016"},
+      {"start":409,"end":410,"text":"湯","type":"person","ref":"person_012"},
+      {"start":417,"end":418,"text":"黯","type":"person","ref":"person_000"},
+      {"start":432,"end":434,"text":"淮陽","type":"place","ref":"place_011"},
+      {"start":454,"end":455,"text":"湯","type":"person","ref":"person_012"},
+      {"start":472,"end":473,"text":"上","type":"person","ref":"person_002"},
+      {"start":498,"end":499,"text":"息","type":"person","ref":"person_016"}
+    ],
+    "p13": [
+      {"start":6,"end":7,"text":"上","type":"person","ref":"person_002"},
+      {"start":15,"end":17,"text":"汲仁","type":"person","ref":"person_017"},
+      {"start":29,"end":31,"text":"汲偃","type":"person","ref":"person_018"},
+      {"start":41,"end":44,"text":"司馬安","type":"person","ref":"person_019"},
+      {"start":72,"end":73,"text":"安","type":"person","ref":"person_019"},
+      {"start":98,"end":100,"text":"濮陽","type":"place","ref":"place_000"},
+      {"start":103,"end":105,"text":"段宏","type":"person","ref":"person_020"},
+      {"start":118,"end":121,"text":"蓋侯信","type":"person","ref":"person_021"},
+      {"start":130,"end":131,"text":"宏","type":"person","ref":"person_020"}
+    ],
+    "p14": [
+      {"start":0,"end":3,"text":"鄭當時","type":"person","ref":"person_006"},
+      {"start":10,"end":11,"text":"莊","type":"person","ref":"person_006"},
+      {"start":16,"end":17,"text":"陳","type":"place","ref":"place_012"},
+      {"start":25,"end":27,"text":"鄭君","type":"person","ref":"person_022"},
+      {"start":35,"end":37,"text":"項籍","type":"person","ref":"person_023"},
+      {"start":47,"end":48,"text":"籍","type":"person","ref":"person_023"},
+      {"start":63,"end":65,"text":"高祖","type":"person","ref":"person_013"},
+      {"start":90,"end":92,"text":"鄭君","type":"person","ref":"person_022"},
+      {"start":110,"end":112,"text":"鄭君","type":"person","ref":"person_022"},
+      {"start":122,"end":124,"text":"孝文","type":"person","ref":"person_024"}
+    ],
+    "p15": [
+      {"start":0,"end":2,"text":"鄭莊","type":"person","ref":"person_006"},
+      {"start":17,"end":19,"text":"張羽","type":"person","ref":"person_025"},
+      {"start":27,"end":29,"text":"梁楚","type":"place","ref":"place_013"},
+      {"start":38,"end":40,"text":"孝景","type":"person","ref":"person_001"},
+      {"start":95,"end":96,"text":"莊","type":"person","ref":"person_006"},
+      {"start":150,"end":152,"text":"武帝","type":"person","ref":"person_002"},
+      {"start":159,"end":160,"text":"莊","type":"person","ref":"person_006"},
+      {"start":169,"end":170,"text":"魯","type":"place","ref":"place_014"},
+      {"start":178,"end":180,"text":"濟南","type":"place","ref":"place_015"},
+      {"start":187,"end":189,"text":"江都","type":"place","ref":"place_016"},
+      {"start":212,"end":214,"text":"武安侯","type":"person","ref":"person_008"},
+      {"start":217,"end":219,"text":"魏其","type":"person","ref":"person_026"}
+    ],
+    "p16": [
+      {"start":0,"end":1,"text":"莊","type":"person","ref":"person_006"},
+      {"start":175,"end":176,"text":"莊","type":"person","ref":"person_006"},
+      {"start":265,"end":267,"text":"鄭莊","type":"person","ref":"person_006"}
+    ],
+    "p17": [
+      {"start":0,"end":2,"text":"鄭莊","type":"person","ref":"person_006"},
+      {"start":48,"end":49,"text":"上","type":"person","ref":"person_002"},
+      {"start":95,"end":96,"text":"莊","type":"person","ref":"person_006"},
+      {"start":181,"end":183,"text":"司馬安","type":"person","ref":"person_019"},
+      {"start":213,"end":214,"text":"莊","type":"person","ref":"person_006"},
+      {"start":252,"end":254,"text":"汝南","type":"place","ref":"place_017"}
+    ],
+    "p18": [
+      {"start":0,"end":2,"text":"鄭莊","type":"person","ref":"person_006"},
+      {"start":5,"end":6,"text":"汲","type":"person","ref":"person_000","note":"汲黯"},
+      {"start":106,"end":107,"text":"莊","type":"person","ref":"person_006"}
+    ],
+    "p19": [
+      {"start":0,"end":4,"text":"太史公","type":"person","ref":"person_000","note":"司马迁","note2":"此为司马迁自称"},
+      {"start":12,"end":13,"text":"汲","type":"person","ref":"person_000"},
+      {"start":16,"end":17,"text":"鄭","type":"person","ref":"person_006"},
+      {"start":57,"end":59,"text":"下邽","type":"place","ref":"place_018"},
+      {"start":62,"end":64,"text":"翟公","type":"person","ref":"person_027"},
+      {"start":79,"end":81,"text":"翟公","type":"person","ref":"person_027"},
+      {"start":111,"end":113,"text":"翟公","type":"person","ref":"person_027"},
+      {"start":138,"end":140,"text":"翟公","type":"person","ref":"person_027"},
+      {"start":188,"end":189,"text":"汲","type":"person","ref":"person_000"},
+      {"start":193,"end":194,"text":"鄭","type":"person","ref":"person_006"}
+    ],
+    "p20": [
+      {"start":29,"end":31,"text":"淮南","type":"place","ref":"place_011"},
+      {"start":53,"end":55,"text":"鄭莊","type":"person","ref":"person_006"},
+      {"start":82,"end":84,"text":"翟公","type":"person","ref":"person_027"}
+    ]
+  }
 }
