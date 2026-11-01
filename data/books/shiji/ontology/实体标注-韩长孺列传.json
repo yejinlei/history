@@ -1,0 +1,2234 @@
+{
+  "book_id": "shiji",
+  "chapter_id": "shiji-韓長孺列傳第四十八",
+  "chapter_title": "韓長孺列傳第四十八",
+  "version": "final",
+  "generated_at": "2026-11-02",
+  "paragraphs": [
+    {
+      "para_id": "p0",
+      "text": "御史大夫韓安國者，梁成安人也，後徙睢陽。嘗受韓子、雜家說於騶田生所。事梁孝王爲中大夫。吳楚反時，孝王使安國及張羽爲將，扞吳兵於東界。張羽力戰，安國持重，以故吳不能過梁。吳楚已破，安國、張羽名由此顯。",
+      "mentions": [
+        {
+          "start": 4,
+          "end": 7,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 9,
+          "end": 10,
+          "entity_id": "l1",
+          "type": "地理",
+          "name": "梁国"
+        },
+        {
+          "start": 10,
+          "end": 12,
+          "entity_id": "l2",
+          "type": "地理",
+          "name": "成安"
+        },
+        {
+          "start": 17,
+          "end": 19,
+          "entity_id": "l3",
+          "type": "地理",
+          "name": "睢阳"
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "entity_id": "p4",
+          "type": "人物",
+          "name": "邹田生"
+        },
+        {
+          "start": 35,
+          "end": 38,
+          "entity_id": "p3",
+          "type": "人物",
+          "name": "刘武（梁孝王）"
+        },
+        {
+          "start": 39,
+          "end": 40,
+          "entity_id": "l7",
+          "type": "地理",
+          "name": "关中"
+        },
+        {
+          "start": 48,
+          "end": 50,
+          "entity_id": "p3",
+          "type": "人物",
+          "name": "刘武（梁孝王）"
+        },
+        {
+          "start": 51,
+          "end": 53,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 54,
+          "end": 56,
+          "entity_id": "p2",
+          "type": "人物",
+          "name": "张羽"
+        },
+        {
+          "start": 66,
+          "end": 68,
+          "entity_id": "p2",
+          "type": "人物",
+          "name": "张羽"
+        },
+        {
+          "start": 71,
+          "end": 73,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 82,
+          "end": 83,
+          "entity_id": "l1",
+          "type": "地理",
+          "name": "梁国"
+        },
+        {
+          "start": 89,
+          "end": 91,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 92,
+          "end": 94,
+          "entity_id": "p2",
+          "type": "人物",
+          "name": "张羽"
+        }
+      ]
+    },
+    {
+      "para_id": "p1",
+      "text": "梁孝王，景帝母弟，竇太后愛之，令得自請置相、二千石，出入游戲，僭於天子。天子聞之，心弗善也。太后知帝不善，乃怒梁使者，弗見，案責王所爲。韓安國爲梁使，見大長公主而泣曰：「何梁王爲人子之孝，爲人臣之忠，而太后曾弗省也？夫前日吳、楚、齊、趙七國反時，自關以東皆合從西鄉，惟梁最親爲艱難。梁王念太后、帝在中，而諸侯擾亂，一言泣數行下，跪送臣等六人，將兵擊郤吳楚，吳楚以故兵不敢西，而卒破亡，梁王之力也。今太后以小節苛禮責望梁王。梁王父兄皆帝王，所見者大，故出稱蹕，入言警，車旗皆帝所賜也，即欲以侘鄙縣，驅馳國中，以夸諸侯，令天下盡知太后、帝愛之也。今梁使來，輒案責之。梁王恐，日夜涕泣思慕，不知所爲。何梁王之爲子孝，爲臣忠，而太后弗恤也？」大長公主具以告太后，太后喜曰：「爲言之帝。」言之，帝心乃解，而免冠謝太后曰：「兄弟不能相教，乃爲太后遺憂。」悉見梁使，厚賜之。其後梁王益親驩。太后、長公主更賜安國可直千餘金。名由此顯，結於漢。",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 3,
+          "entity_id": "p3",
+          "type": "人物",
+          "name": "刘武（梁孝王）"
+        },
+        {
+          "start": 4,
+          "end": 6,
+          "entity_id": "p5",
+          "type": "人物",
+          "name": "刘启（汉景帝）"
+        },
+        {
+          "start": 9,
+          "end": 12,
+          "entity_id": "p6",
+          "type": "人物",
+          "name": "窦太后（孝文后）"
+        },
+        {
+          "start": 33,
+          "end": 35,
+          "entity_id": "p5",
+          "type": "人物",
+          "name": "刘启（汉景帝）"
+        },
+        {
+          "start": 36,
+          "end": 38,
+          "entity_id": "p5",
+          "type": "人物",
+          "name": "刘启（汉景帝）"
+        },
+        {
+          "start": 46,
+          "end": 48,
+          "entity_id": "p6",
+          "type": "人物",
+          "name": "窦太后（孝文后）"
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "entity_id": "p5",
+          "type": "人物",
+          "name": "刘启（汉景帝）"
+        },
+        {
+          "start": 55,
+          "end": 56,
+          "entity_id": "l1",
+          "type": "地理",
+          "name": "梁国"
+        },
+        {
+          "start": 68,
+          "end": 71,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 72,
+          "end": 73,
+          "entity_id": "l1",
+          "type": "地理",
+          "name": "梁国"
+        },
+        {
+          "start": 76,
+          "end": 80,
+          "entity_id": "p7",
+          "type": "人物",
+          "name": "刘嫖（大长公主）"
+        },
+        {
+          "start": 86,
+          "end": 88,
+          "entity_id": "p3",
+          "type": "人物",
+          "name": "刘武（梁孝王）"
+        },
+        {
+          "start": 101,
+          "end": 103,
+          "entity_id": "p6",
+          "type": "人物",
+          "name": "窦太后（孝文后）"
+        },
+        {
+          "start": 124,
+          "end": 125,
+          "entity_id": "l6",
+          "type": "地理",
+          "name": "函谷关"
+        },
+        {
+          "start": 134,
+          "end": 135,
+          "entity_id": "l1",
+          "type": "地理",
+          "name": "梁国"
+        },
+        {
+          "start": 141,
+          "end": 143,
+          "entity_id": "p3",
+          "type": "人物",
+          "name": "刘武（梁孝王）"
+        },
+        {
+          "start": 144,
+          "end": 146,
+          "entity_id": "p6",
+          "type": "人物",
+          "name": "窦太后（孝文后）"
+        },
+        {
+          "start": 147,
+          "end": 148,
+          "entity_id": "p5",
+          "type": "人物",
+          "name": "刘启（汉景帝）"
+        },
+        {
+          "start": 149,
+          "end": 150,
+          "entity_id": "l7",
+          "type": "地理",
+          "name": "关中"
+        },
+        {
+          "start": 192,
+          "end": 194,
+          "entity_id": "p3",
+          "type": "人物",
+          "name": "刘武（梁孝王）"
+        },
+        {
+          "start": 199,
+          "end": 201,
+          "entity_id": "p6",
+          "type": "人物",
+          "name": "窦太后（孝文后）"
+        },
+        {
+          "start": 208,
+          "end": 210,
+          "entity_id": "p3",
+          "type": "人物",
+          "name": "刘武（梁孝王）"
+        },
+        {
+          "start": 211,
+          "end": 213,
+          "entity_id": "p3",
+          "type": "人物",
+          "name": "刘武（梁孝王）"
+        },
+        {
+          "start": 216,
+          "end": 217,
+          "entity_id": "p5",
+          "type": "人物",
+          "name": "刘启（汉景帝）"
+        },
+        {
+          "start": 236,
+          "end": 237,
+          "entity_id": "p5",
+          "type": "人物",
+          "name": "刘启（汉景帝）"
+        },
+        {
+          "start": 251,
+          "end": 252,
+          "entity_id": "l7",
+          "type": "地理",
+          "name": "关中"
+        },
+        {
+          "start": 263,
+          "end": 265,
+          "entity_id": "p6",
+          "type": "人物",
+          "name": "窦太后（孝文后）"
+        },
+        {
+          "start": 266,
+          "end": 267,
+          "entity_id": "p5",
+          "type": "人物",
+          "name": "刘启（汉景帝）"
+        },
+        {
+          "start": 272,
+          "end": 273,
+          "entity_id": "l1",
+          "type": "地理",
+          "name": "梁国"
+        },
+        {
+          "start": 281,
+          "end": 283,
+          "entity_id": "p3",
+          "type": "人物",
+          "name": "刘武（梁孝王）"
+        },
+        {
+          "start": 298,
+          "end": 300,
+          "entity_id": "p3",
+          "type": "人物",
+          "name": "刘武（梁孝王）"
+        },
+        {
+          "start": 310,
+          "end": 312,
+          "entity_id": "p6",
+          "type": "人物",
+          "name": "窦太后（孝文后）"
+        },
+        {
+          "start": 317,
+          "end": 321,
+          "entity_id": "p7",
+          "type": "人物",
+          "name": "刘嫖（大长公主）"
+        },
+        {
+          "start": 324,
+          "end": 326,
+          "entity_id": "p6",
+          "type": "人物",
+          "name": "窦太后（孝文后）"
+        },
+        {
+          "start": 327,
+          "end": 329,
+          "entity_id": "p6",
+          "type": "人物",
+          "name": "窦太后（孝文后）"
+        },
+        {
+          "start": 336,
+          "end": 337,
+          "entity_id": "p5",
+          "type": "人物",
+          "name": "刘启（汉景帝）"
+        },
+        {
+          "start": 342,
+          "end": 343,
+          "entity_id": "p5",
+          "type": "人物",
+          "name": "刘启（汉景帝）"
+        },
+        {
+          "start": 351,
+          "end": 353,
+          "entity_id": "p6",
+          "type": "人物",
+          "name": "窦太后（孝文后）"
+        },
+        {
+          "start": 365,
+          "end": 367,
+          "entity_id": "p6",
+          "type": "人物",
+          "name": "窦太后（孝文后）"
+        },
+        {
+          "start": 373,
+          "end": 374,
+          "entity_id": "l1",
+          "type": "地理",
+          "name": "梁国"
+        },
+        {
+          "start": 382,
+          "end": 384,
+          "entity_id": "p3",
+          "type": "人物",
+          "name": "刘武（梁孝王）"
+        },
+        {
+          "start": 388,
+          "end": 390,
+          "entity_id": "p6",
+          "type": "人物",
+          "name": "窦太后（孝文后）"
+        },
+        {
+          "start": 391,
+          "end": 394,
+          "entity_id": "p7",
+          "type": "人物",
+          "name": "刘嫖（大长公主）"
+        },
+        {
+          "start": 396,
+          "end": 398,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        }
+      ]
+    },
+    {
+      "para_id": "p2",
+      "text": "其後安國坐法抵罪，蒙獄吏田甲辱安國。安國曰：「死灰獨不復然乎？」田甲曰：「然即溺之。」居無何，梁內史缺，漢使使者拜安國爲梁內史，起徒中爲二千石。田甲亡走。安國曰：「甲不就官，我滅而宗。」甲因肉袒謝。安國笑曰：「可溺矣！公等足與治乎？」卒善遇之。",
+      "mentions": [
+        {
+          "start": 2,
+          "end": 4,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 9,
+          "end": 10,
+          "entity_id": "l5",
+          "type": "地理",
+          "name": "蒙"
+        },
+        {
+          "start": 12,
+          "end": 14,
+          "entity_id": "p8",
+          "type": "人物",
+          "name": "田甲"
+        },
+        {
+          "start": 15,
+          "end": 17,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 18,
+          "end": 20,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 32,
+          "end": 34,
+          "entity_id": "p8",
+          "type": "人物",
+          "name": "田甲"
+        },
+        {
+          "start": 47,
+          "end": 50,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 57,
+          "end": 59,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 60,
+          "end": 63,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 66,
+          "end": 67,
+          "entity_id": "l7",
+          "type": "地理",
+          "name": "关中"
+        },
+        {
+          "start": 72,
+          "end": 74,
+          "entity_id": "p8",
+          "type": "人物",
+          "name": "田甲"
+        },
+        {
+          "start": 77,
+          "end": 79,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 99,
+          "end": 101,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        }
+      ]
+    },
+    {
+      "para_id": "p3",
+      "text": "梁內史之缺也，孝王新得齊人公孫詭，說之，欲請以爲內史。竇太后聞，乃詔王以安國爲內史。",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 3,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 7,
+          "end": 9,
+          "entity_id": "p3",
+          "type": "人物",
+          "name": "刘武（梁孝王）"
+        },
+        {
+          "start": 13,
+          "end": 16,
+          "entity_id": "p9",
+          "type": "人物",
+          "name": "公孙诡"
+        },
+        {
+          "start": 27,
+          "end": 30,
+          "entity_id": "p6",
+          "type": "人物",
+          "name": "窦太后（孝文后）"
+        },
+        {
+          "start": 36,
+          "end": 38,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        }
+      ]
+    },
+    {
+      "para_id": "p4",
+      "text": "公孫詭、羊勝說孝王求爲帝太子及益地事，恐漢大臣不聽，乃陰使人刺漢用事謀臣。及殺故吳相袁盎，景帝遂聞詭、勝等計畫，乃遣使捕詭、勝，必得。漢使十輩至梁，相以下舉國大索，月餘不得。內史安國聞詭、勝匿孝王所，安國入見王而泣曰：「主辱臣死。大王無良臣，故事紛紛至此。今詭、勝不得，請辭賜死。」王曰：「何至此？」安國泣數行下，曰：「大王自度於皇帝，孰與太上皇之與高皇帝及皇帝之與臨江王親？」孝王曰：「弗如也。」安國曰：「夫太上、臨江親父子之間，然而高帝曰『提三尺劔取天下者朕也』，故太上皇終不得制事，居于櫟陽。臨江王，適長太子也，以一言過，廢王臨江；用宮垣事，卒自殺中尉府。何者？治天下終不以私亂公。語曰：『雖有親父，安知其不爲虎？雖有親兄，安知其不爲狼？』今大王列在諸侯，悅一邪臣浮說，犯上禁，橈明法。天子以太后故，不忍致法於王。太后日夜涕泣，幸大王自改，而大王終不覺寤。有如太后宮車即晏駕，大王尚誰攀乎？」語未卒，孝王泣數行下，謝安國曰：「吾今出詭、勝。」詭、勝自殺。漢使還報，梁事皆得釋，安國之力也。於是景帝、太后益重安國。孝王卒，共王即位，安國坐法失官，居家。",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 3,
+          "entity_id": "p9",
+          "type": "人物",
+          "name": "公孙诡"
+        },
+        {
+          "start": 4,
+          "end": 6,
+          "entity_id": "p10",
+          "type": "人物",
+          "name": "羊胜"
+        },
+        {
+          "start": 7,
+          "end": 9,
+          "entity_id": "p3",
+          "type": "人物",
+          "name": "刘武（梁孝王）"
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "entity_id": "p5",
+          "type": "人物",
+          "name": "刘启（汉景帝）"
+        },
+        {
+          "start": 39,
+          "end": 44,
+          "entity_id": "p11",
+          "type": "人物",
+          "name": "袁盎"
+        },
+        {
+          "start": 45,
+          "end": 47,
+          "entity_id": "p5",
+          "type": "人物",
+          "name": "刘启（汉景帝）"
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "entity_id": "p9",
+          "type": "人物",
+          "name": "公孙诡"
+        },
+        {
+          "start": 51,
+          "end": 52,
+          "entity_id": "p10",
+          "type": "人物",
+          "name": "羊胜"
+        },
+        {
+          "start": 60,
+          "end": 61,
+          "entity_id": "p9",
+          "type": "人物",
+          "name": "公孙诡"
+        },
+        {
+          "start": 62,
+          "end": 63,
+          "entity_id": "p10",
+          "type": "人物",
+          "name": "羊胜"
+        },
+        {
+          "start": 72,
+          "end": 73,
+          "entity_id": "l1",
+          "type": "地理",
+          "name": "梁国"
+        },
+        {
+          "start": 89,
+          "end": 91,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 92,
+          "end": 93,
+          "entity_id": "p9",
+          "type": "人物",
+          "name": "公孙诡"
+        },
+        {
+          "start": 94,
+          "end": 95,
+          "entity_id": "p10",
+          "type": "人物",
+          "name": "羊胜"
+        },
+        {
+          "start": 96,
+          "end": 98,
+          "entity_id": "p3",
+          "type": "人物",
+          "name": "刘武（梁孝王）"
+        },
+        {
+          "start": 100,
+          "end": 102,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 110,
+          "end": 114,
+          "entity_id": "c8",
+          "type": "概念",
+          "name": "主辱臣死"
+        },
+        {
+          "start": 115,
+          "end": 117,
+          "entity_id": "p3",
+          "type": "人物",
+          "name": "刘武（梁孝王）"
+        },
+        {
+          "start": 129,
+          "end": 130,
+          "entity_id": "p9",
+          "type": "人物",
+          "name": "公孙诡"
+        },
+        {
+          "start": 131,
+          "end": 132,
+          "entity_id": "p10",
+          "type": "人物",
+          "name": "羊胜"
+        },
+        {
+          "start": 150,
+          "end": 152,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 160,
+          "end": 162,
+          "entity_id": "p3",
+          "type": "人物",
+          "name": "刘武（梁孝王）"
+        },
+        {
+          "start": 165,
+          "end": 167,
+          "entity_id": "p5",
+          "type": "人物",
+          "name": "刘启（汉景帝）"
+        },
+        {
+          "start": 170,
+          "end": 173,
+          "entity_id": "p14",
+          "type": "人物",
+          "name": "刘太公（太上皇）"
+        },
+        {
+          "start": 175,
+          "end": 178,
+          "entity_id": "p13",
+          "type": "人物",
+          "name": "刘邦（汉高祖）"
+        },
+        {
+          "start": 179,
+          "end": 181,
+          "entity_id": "p5",
+          "type": "人物",
+          "name": "刘启（汉景帝）"
+        },
+        {
+          "start": 183,
+          "end": 186,
+          "entity_id": "p12",
+          "type": "人物",
+          "name": "临江王刘荣"
+        },
+        {
+          "start": 189,
+          "end": 191,
+          "entity_id": "p3",
+          "type": "人物",
+          "name": "刘武（梁孝王）"
+        },
+        {
+          "start": 199,
+          "end": 201,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 206,
+          "end": 207,
+          "entity_id": "p18",
+          "type": "人物",
+          "name": "刘彻（汉武帝）"
+        },
+        {
+          "start": 218,
+          "end": 220,
+          "entity_id": "p13",
+          "type": "人物",
+          "name": "刘邦（汉高祖）"
+        },
+        {
+          "start": 235,
+          "end": 238,
+          "entity_id": "p14",
+          "type": "人物",
+          "name": "刘太公（太上皇）"
+        },
+        {
+          "start": 246,
+          "end": 248,
+          "entity_id": "l8",
+          "type": "地理",
+          "name": "栎阳"
+        },
+        {
+          "start": 249,
+          "end": 252,
+          "entity_id": "p12",
+          "type": "人物",
+          "name": "临江王刘荣"
+        },
+        {
+          "start": 277,
+          "end": 278,
+          "entity_id": "l7",
+          "type": "地理",
+          "name": "关中"
+        },
+        {
+          "start": 324,
+          "end": 326,
+          "entity_id": "p3",
+          "type": "人物",
+          "name": "刘武（梁孝王）"
+        },
+        {
+          "start": 339,
+          "end": 340,
+          "entity_id": "p18",
+          "type": "人物",
+          "name": "刘彻（汉武帝）"
+        },
+        {
+          "start": 346,
+          "end": 348,
+          "entity_id": "p5",
+          "type": "人物",
+          "name": "刘启（汉景帝）"
+        },
+        {
+          "start": 349,
+          "end": 351,
+          "entity_id": "p6",
+          "type": "人物",
+          "name": "窦太后（孝文后）"
+        },
+        {
+          "start": 360,
+          "end": 362,
+          "entity_id": "p6",
+          "type": "人物",
+          "name": "窦太后（孝文后）"
+        },
+        {
+          "start": 368,
+          "end": 370,
+          "entity_id": "p3",
+          "type": "人物",
+          "name": "刘武（梁孝王）"
+        },
+        {
+          "start": 374,
+          "end": 376,
+          "entity_id": "p3",
+          "type": "人物",
+          "name": "刘武（梁孝王）"
+        },
+        {
+          "start": 383,
+          "end": 385,
+          "entity_id": "p6",
+          "type": "人物",
+          "name": "窦太后（孝文后）"
+        },
+        {
+          "start": 391,
+          "end": 393,
+          "entity_id": "p3",
+          "type": "人物",
+          "name": "刘武（梁孝王）"
+        },
+        {
+          "start": 403,
+          "end": 405,
+          "entity_id": "p3",
+          "type": "人物",
+          "name": "刘武（梁孝王）"
+        },
+        {
+          "start": 411,
+          "end": 413,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 419,
+          "end": 420,
+          "entity_id": "p9",
+          "type": "人物",
+          "name": "公孙诡"
+        },
+        {
+          "start": 421,
+          "end": 422,
+          "entity_id": "p10",
+          "type": "人物",
+          "name": "羊胜"
+        },
+        {
+          "start": 424,
+          "end": 425,
+          "entity_id": "p9",
+          "type": "人物",
+          "name": "公孙诡"
+        },
+        {
+          "start": 426,
+          "end": 427,
+          "entity_id": "p10",
+          "type": "人物",
+          "name": "羊胜"
+        },
+        {
+          "start": 435,
+          "end": 436,
+          "entity_id": "l1",
+          "type": "地理",
+          "name": "梁国"
+        },
+        {
+          "start": 441,
+          "end": 443,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 449,
+          "end": 451,
+          "entity_id": "p5",
+          "type": "人物",
+          "name": "刘启（汉景帝）"
+        },
+        {
+          "start": 452,
+          "end": 454,
+          "entity_id": "p6",
+          "type": "人物",
+          "name": "窦太后（孝文后）"
+        },
+        {
+          "start": 456,
+          "end": 458,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 459,
+          "end": 461,
+          "entity_id": "p3",
+          "type": "人物",
+          "name": "刘武（梁孝王）"
+        },
+        {
+          "start": 463,
+          "end": 465,
+          "entity_id": "p15",
+          "type": "人物",
+          "name": "梁共王刘买"
+        },
+        {
+          "start": 468,
+          "end": 470,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        }
+      ]
+    },
+    {
+      "para_id": "p5",
+      "text": "建元中，武安侯田蚡爲漢太尉，親貴用事，安國以五百金物遺蚡。蚡言安國太后，天子亦素聞其賢，即召以爲北地都尉，遷爲大司農。閩越、東越相攻，安國及大行王恢將兵，未至越，越殺其王降，漢兵亦罷。建元六年，武安侯爲丞相，安國爲御史大夫。",
+      "mentions": [
+        {
+          "start": 2,
+          "end": 3,
+          "entity_id": "l7",
+          "type": "地理",
+          "name": "关中"
+        },
+        {
+          "start": 4,
+          "end": 7,
+          "entity_id": "p16",
+          "type": "人物",
+          "name": "田蚡（武安侯）"
+        },
+        {
+          "start": 8,
+          "end": 9,
+          "entity_id": "p16",
+          "type": "人物",
+          "name": "田蚡（武安侯）"
+        },
+        {
+          "start": 19,
+          "end": 21,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 27,
+          "end": 28,
+          "entity_id": "p16",
+          "type": "人物",
+          "name": "田蚡（武安侯）"
+        },
+        {
+          "start": 29,
+          "end": 30,
+          "entity_id": "p16",
+          "type": "人物",
+          "name": "田蚡（武安侯）"
+        },
+        {
+          "start": 31,
+          "end": 33,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 33,
+          "end": 35,
+          "entity_id": "p6",
+          "type": "人物",
+          "name": "窦太后（孝文后）"
+        },
+        {
+          "start": 36,
+          "end": 38,
+          "entity_id": "p5",
+          "type": "人物",
+          "name": "刘启（汉景帝）"
+        },
+        {
+          "start": 48,
+          "end": 50,
+          "entity_id": "l9",
+          "type": "地理",
+          "name": "北地"
+        },
+        {
+          "start": 59,
+          "end": 61,
+          "entity_id": "l10",
+          "type": "地理",
+          "name": "闽越"
+        },
+        {
+          "start": 62,
+          "end": 64,
+          "entity_id": "l11",
+          "type": "地理",
+          "name": "东越"
+        },
+        {
+          "start": 67,
+          "end": 69,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 72,
+          "end": 74,
+          "entity_id": "p19",
+          "type": "人物",
+          "name": "王恢"
+        },
+        {
+          "start": 97,
+          "end": 100,
+          "entity_id": "p16",
+          "type": "人物",
+          "name": "田蚡（武安侯）"
+        },
+        {
+          "start": 101,
+          "end": 103,
+          "entity_id": "p16",
+          "type": "人物",
+          "name": "田蚡（武安侯）"
+        },
+        {
+          "start": 104,
+          "end": 106,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        }
+      ]
+    },
+    {
+      "para_id": "p6",
+      "text": "匈奴來請和親，天子下議。大行王恢，燕人也，數爲邊吏，習知胡事。議曰：「漢與匈奴和親，率不過數歲即復倍約。不如勿許，興兵擊之。」安國曰：「千里而戰，兵不獲利。今匈奴負戎馬之足，懷禽獸之心，遷徙鳥舉，難得而制也。得其地不足以爲廣，有其衆不足以爲彊，自上古不屬爲人。漢數千里爭利，則人馬罷，虜以全制其敝。且彊弩之極，矢不能穿魯縞；衝風之末，力不能漂鴻毛。非初不勁，末力衰也。擊之不便，不如和親。」羣臣議者多附安國，於是上許和親。",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 2,
+          "entity_id": "l12",
+          "type": "地理",
+          "name": "匈奴"
+        },
+        {
+          "start": 7,
+          "end": 9,
+          "entity_id": "p5",
+          "type": "人物",
+          "name": "刘启（汉景帝）"
+        },
+        {
+          "start": 14,
+          "end": 16,
+          "entity_id": "p19",
+          "type": "人物",
+          "name": "王恢"
+        },
+        {
+          "start": 28,
+          "end": 29,
+          "entity_id": "l12",
+          "type": "地理",
+          "name": "匈奴"
+        },
+        {
+          "start": 37,
+          "end": 39,
+          "entity_id": "l12",
+          "type": "地理",
+          "name": "匈奴"
+        },
+        {
+          "start": 63,
+          "end": 65,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 79,
+          "end": 81,
+          "entity_id": "l12",
+          "type": "地理",
+          "name": "匈奴"
+        },
+        {
+          "start": 123,
+          "end": 124,
+          "entity_id": "p18",
+          "type": "人物",
+          "name": "刘彻（汉武帝）"
+        },
+        {
+          "start": 142,
+          "end": 143,
+          "entity_id": "l12",
+          "type": "地理",
+          "name": "匈奴"
+        },
+        {
+          "start": 201,
+          "end": 203,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 206,
+          "end": 207,
+          "entity_id": "p18",
+          "type": "人物",
+          "name": "刘彻（汉武帝）"
+        }
+      ]
+    },
+    {
+      "para_id": "p7",
+      "text": "其明年，則元光元年，鴈門馬邑豪聶翁壹因大行王恢言上曰：「匈奴初和親，親信邊，可誘以利。」陰使聶翁壹爲間，亡入匈奴，謂單于曰：「吾能斬馬邑令丞吏，以城降，財物可盡得。」單于愛信之，以爲然，許聶翁壹。聶翁壹乃還，詐斬死罪囚，縣其頭馬邑城，示單于使者爲信。曰：「馬邑長吏已死，可急來。」於是單于穿塞將十餘萬騎，入武州塞。",
+      "mentions": [
+        {
+          "start": 10,
+          "end": 12,
+          "entity_id": "l13",
+          "type": "地理",
+          "name": "雁门郡"
+        },
+        {
+          "start": 12,
+          "end": 14,
+          "entity_id": "l14",
+          "type": "地理",
+          "name": "马邑"
+        },
+        {
+          "start": 15,
+          "end": 18,
+          "entity_id": "p20",
+          "type": "人物",
+          "name": "聂翁壹"
+        },
+        {
+          "start": 21,
+          "end": 23,
+          "entity_id": "p19",
+          "type": "人物",
+          "name": "王恢"
+        },
+        {
+          "start": 24,
+          "end": 25,
+          "entity_id": "p18",
+          "type": "人物",
+          "name": "刘彻（汉武帝）"
+        },
+        {
+          "start": 28,
+          "end": 30,
+          "entity_id": "l12",
+          "type": "地理",
+          "name": "匈奴"
+        },
+        {
+          "start": 46,
+          "end": 49,
+          "entity_id": "p20",
+          "type": "人物",
+          "name": "聂翁壹"
+        },
+        {
+          "start": 54,
+          "end": 56,
+          "entity_id": "l12",
+          "type": "地理",
+          "name": "匈奴"
+        },
+        {
+          "start": 58,
+          "end": 60,
+          "entity_id": "p21",
+          "type": "人物",
+          "name": "军臣单于"
+        },
+        {
+          "start": 66,
+          "end": 68,
+          "entity_id": "l14",
+          "type": "地理",
+          "name": "马邑"
+        },
+        {
+          "start": 83,
+          "end": 85,
+          "entity_id": "p21",
+          "type": "人物",
+          "name": "军臣单于"
+        },
+        {
+          "start": 94,
+          "end": 97,
+          "entity_id": "p20",
+          "type": "人物",
+          "name": "聂翁壹"
+        },
+        {
+          "start": 98,
+          "end": 101,
+          "entity_id": "p20",
+          "type": "人物",
+          "name": "聂翁壹"
+        },
+        {
+          "start": 113,
+          "end": 115,
+          "entity_id": "l14",
+          "type": "地理",
+          "name": "马邑"
+        },
+        {
+          "start": 118,
+          "end": 120,
+          "entity_id": "p21",
+          "type": "人物",
+          "name": "军臣单于"
+        },
+        {
+          "start": 128,
+          "end": 130,
+          "entity_id": "l14",
+          "type": "地理",
+          "name": "马邑"
+        },
+        {
+          "start": 142,
+          "end": 144,
+          "entity_id": "p21",
+          "type": "人物",
+          "name": "军臣单于"
+        },
+        {
+          "start": 153,
+          "end": 156,
+          "entity_id": "l15",
+          "type": "地理",
+          "name": "武州塞"
+        }
+      ]
+    },
+    {
+      "para_id": "p8",
+      "text": "當是時，漢伏兵車騎材官二十餘萬，匿馬邑旁谷中。衞尉李廣爲驍騎將軍，太僕公孫賀爲輕車將軍，大行王恢爲將屯將軍，太中大夫李息爲材官將軍。御史大夫韓安國爲護軍將軍，諸將皆屬護軍。約單于入馬邑而漢兵縱發。王恢、李息、李廣別從代主擊其輜重。於是單于入漢長城武州塞。未至馬邑百餘里，行掠鹵，徒見畜牧於野，不見一人。單于怪之，攻烽燧，得武州尉史。欲刺問尉史。尉史曰：「漢兵數十萬伏馬邑下。」單于顧謂左右曰：「幾爲漢所賣！」乃引兵還。出塞，曰：「吾得尉史，乃天也。」命尉史爲「天王」。塞下傳言單于已引去。漢兵追至塞，度弗及，即罷。王恢等兵三萬，聞單于不與漢合，度徃擊輜重，必與單于精兵戰，漢兵勢必敗，則以便宜罷兵，皆無功。",
+      "mentions": [
+        {
+          "start": 17,
+          "end": 19,
+          "entity_id": "l14",
+          "type": "地理",
+          "name": "马邑"
+        },
+        {
+          "start": 21,
+          "end": 22,
+          "entity_id": "l7",
+          "type": "地理",
+          "name": "关中"
+        },
+        {
+          "start": 23,
+          "end": 27,
+          "entity_id": "p22",
+          "type": "人物",
+          "name": "李广"
+        },
+        {
+          "start": 35,
+          "end": 38,
+          "entity_id": "p23",
+          "type": "人物",
+          "name": "公孙贺"
+        },
+        {
+          "start": 46,
+          "end": 48,
+          "entity_id": "p19",
+          "type": "人物",
+          "name": "王恢"
+        },
+        {
+          "start": 55,
+          "end": 56,
+          "entity_id": "l7",
+          "type": "地理",
+          "name": "关中"
+        },
+        {
+          "start": 58,
+          "end": 60,
+          "entity_id": "p24",
+          "type": "人物",
+          "name": "李息"
+        },
+        {
+          "start": 70,
+          "end": 73,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 74,
+          "end": 78,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 87,
+          "end": 89,
+          "entity_id": "p21",
+          "type": "人物",
+          "name": "军臣单于"
+        },
+        {
+          "start": 90,
+          "end": 92,
+          "entity_id": "l14",
+          "type": "地理",
+          "name": "马邑"
+        },
+        {
+          "start": 98,
+          "end": 100,
+          "entity_id": "p19",
+          "type": "人物",
+          "name": "王恢"
+        },
+        {
+          "start": 101,
+          "end": 103,
+          "entity_id": "p24",
+          "type": "人物",
+          "name": "李息"
+        },
+        {
+          "start": 104,
+          "end": 106,
+          "entity_id": "p22",
+          "type": "人物",
+          "name": "李广"
+        },
+        {
+          "start": 108,
+          "end": 109,
+          "entity_id": "l21",
+          "type": "地理",
+          "name": "代"
+        },
+        {
+          "start": 117,
+          "end": 119,
+          "entity_id": "p21",
+          "type": "人物",
+          "name": "军臣单于"
+        },
+        {
+          "start": 123,
+          "end": 126,
+          "entity_id": "l15",
+          "type": "地理",
+          "name": "武州塞"
+        },
+        {
+          "start": 129,
+          "end": 131,
+          "entity_id": "l14",
+          "type": "地理",
+          "name": "马邑"
+        },
+        {
+          "start": 151,
+          "end": 153,
+          "entity_id": "p21",
+          "type": "人物",
+          "name": "军臣单于"
+        },
+        {
+          "start": 157,
+          "end": 159,
+          "entity_id": "c19",
+          "type": "概念",
+          "name": "烽燧"
+        },
+        {
+          "start": 163,
+          "end": 165,
+          "entity_id": "p25",
+          "type": "人物",
+          "name": "武州尉史"
+        },
+        {
+          "start": 169,
+          "end": 171,
+          "entity_id": "p25",
+          "type": "人物",
+          "name": "武州尉史"
+        },
+        {
+          "start": 172,
+          "end": 174,
+          "entity_id": "p25",
+          "type": "人物",
+          "name": "武州尉史"
+        },
+        {
+          "start": 183,
+          "end": 185,
+          "entity_id": "l14",
+          "type": "地理",
+          "name": "马邑"
+        },
+        {
+          "start": 188,
+          "end": 190,
+          "entity_id": "p21",
+          "type": "人物",
+          "name": "军臣单于"
+        },
+        {
+          "start": 217,
+          "end": 219,
+          "entity_id": "p25",
+          "type": "人物",
+          "name": "武州尉史"
+        },
+        {
+          "start": 226,
+          "end": 228,
+          "entity_id": "p25",
+          "type": "人物",
+          "name": "武州尉史"
+        },
+        {
+          "start": 238,
+          "end": 240,
+          "entity_id": "p21",
+          "type": "人物",
+          "name": "军臣单于"
+        },
+        {
+          "start": 257,
+          "end": 259,
+          "entity_id": "p19",
+          "type": "人物",
+          "name": "王恢"
+        },
+        {
+          "start": 265,
+          "end": 267,
+          "entity_id": "p21",
+          "type": "人物",
+          "name": "军臣单于"
+        },
+        {
+          "start": 280,
+          "end": 282,
+          "entity_id": "p21",
+          "type": "人物",
+          "name": "军臣单于"
+        }
+      ]
+    },
+    {
+      "para_id": "p9",
+      "text": "天子怒王恢不出擊單于輜重，擅引兵罷也。恢曰：「始約虜入馬邑城，兵與單于接，而臣擊其輜重，可得利。今單于聞，不至而還，臣以三萬人衆不敵，禔取辱耳。臣固知還而斬，然得完陛下士三萬人。」於是下恢廷尉。廷尉當恢逗橈，當斬。恢私行千金丞相蚡。蚡不敢言上，而言於太后曰：「王恢首造馬邑事，今不成而誅恢，是爲匈奴報仇也。」上朝太后，太后以丞相言告上。上曰：「首爲馬邑事者，恢也，故發天下兵數十萬，從其言，爲此。且縱單于不可得，恢所部擊其輜重，猶頗可得，以慰士大夫心。今不誅恢，無以謝天下。」於是恢聞之，乃自殺。",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 2,
+          "entity_id": "p5",
+          "type": "人物",
+          "name": "刘启（汉景帝）"
+        },
+        {
+          "start": 3,
+          "end": 5,
+          "entity_id": "p19",
+          "type": "人物",
+          "name": "王恢"
+        },
+        {
+          "start": 8,
+          "end": 10,
+          "entity_id": "p21",
+          "type": "人物",
+          "name": "军臣单于"
+        },
+        {
+          "start": 25,
+          "end": 26,
+          "entity_id": "l12",
+          "type": "地理",
+          "name": "匈奴"
+        },
+        {
+          "start": 27,
+          "end": 29,
+          "entity_id": "l14",
+          "type": "地理",
+          "name": "马邑"
+        },
+        {
+          "start": 33,
+          "end": 35,
+          "entity_id": "p21",
+          "type": "人物",
+          "name": "军臣单于"
+        },
+        {
+          "start": 49,
+          "end": 51,
+          "entity_id": "p21",
+          "type": "人物",
+          "name": "军臣单于"
+        },
+        {
+          "start": 112,
+          "end": 115,
+          "entity_id": "p16",
+          "type": "人物",
+          "name": "田蚡（武安侯）"
+        },
+        {
+          "start": 116,
+          "end": 117,
+          "entity_id": "p16",
+          "type": "人物",
+          "name": "田蚡（武安侯）"
+        },
+        {
+          "start": 120,
+          "end": 121,
+          "entity_id": "p18",
+          "type": "人物",
+          "name": "刘彻（汉武帝）"
+        },
+        {
+          "start": 125,
+          "end": 127,
+          "entity_id": "p6",
+          "type": "人物",
+          "name": "窦太后（孝文后）"
+        },
+        {
+          "start": 130,
+          "end": 132,
+          "entity_id": "p19",
+          "type": "人物",
+          "name": "王恢"
+        },
+        {
+          "start": 134,
+          "end": 136,
+          "entity_id": "l14",
+          "type": "地理",
+          "name": "马邑"
+        },
+        {
+          "start": 147,
+          "end": 149,
+          "entity_id": "l12",
+          "type": "地理",
+          "name": "匈奴"
+        },
+        {
+          "start": 154,
+          "end": 155,
+          "entity_id": "p18",
+          "type": "人物",
+          "name": "刘彻（汉武帝）"
+        },
+        {
+          "start": 156,
+          "end": 158,
+          "entity_id": "p6",
+          "type": "人物",
+          "name": "窦太后（孝文后）"
+        },
+        {
+          "start": 159,
+          "end": 161,
+          "entity_id": "p6",
+          "type": "人物",
+          "name": "窦太后（孝文后）"
+        },
+        {
+          "start": 162,
+          "end": 164,
+          "entity_id": "p16",
+          "type": "人物",
+          "name": "田蚡（武安侯）"
+        },
+        {
+          "start": 166,
+          "end": 167,
+          "entity_id": "p18",
+          "type": "人物",
+          "name": "刘彻（汉武帝）"
+        },
+        {
+          "start": 168,
+          "end": 169,
+          "entity_id": "p18",
+          "type": "人物",
+          "name": "刘彻（汉武帝）"
+        },
+        {
+          "start": 174,
+          "end": 176,
+          "entity_id": "l14",
+          "type": "地理",
+          "name": "马邑"
+        },
+        {
+          "start": 200,
+          "end": 202,
+          "entity_id": "p21",
+          "type": "人物",
+          "name": "军臣单于"
+        }
+      ]
+    },
+    {
+      "para_id": "p10",
+      "text": "安國爲人多大略，智足以當世取舍，而出於忠厚焉。貪嗜於財。所推舉皆廉士，賢於己者也。於梁舉壺遂、臧固、郅他，皆天下名士，士亦以此稱慕之，唯天子以爲國器。安國爲御史大夫四歲餘，丞相田蚡死，安國行丞相事，奉引墮車蹇。天子議置相，欲用安國，使使視之，蹇甚，乃更以平棘侯薛澤爲丞相。安國病免數月，蹇愈，上復以安國爲中尉。歲餘，徙爲衞尉。",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 2,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 42,
+          "end": 43,
+          "entity_id": "l1",
+          "type": "地理",
+          "name": "梁国"
+        },
+        {
+          "start": 44,
+          "end": 46,
+          "entity_id": "p27",
+          "type": "人物",
+          "name": "壶遂"
+        },
+        {
+          "start": 47,
+          "end": 49,
+          "entity_id": "p28",
+          "type": "人物",
+          "name": "臧固"
+        },
+        {
+          "start": 50,
+          "end": 52,
+          "entity_id": "p29",
+          "type": "人物",
+          "name": "郅他"
+        },
+        {
+          "start": 68,
+          "end": 70,
+          "entity_id": "p5",
+          "type": "人物",
+          "name": "刘启（汉景帝）"
+        },
+        {
+          "start": 75,
+          "end": 77,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 86,
+          "end": 88,
+          "entity_id": "p16",
+          "type": "人物",
+          "name": "田蚡（武安侯）"
+        },
+        {
+          "start": 89,
+          "end": 90,
+          "entity_id": "p16",
+          "type": "人物",
+          "name": "田蚡（武安侯）"
+        },
+        {
+          "start": 92,
+          "end": 94,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 95,
+          "end": 97,
+          "entity_id": "p16",
+          "type": "人物",
+          "name": "田蚡（武安侯）"
+        },
+        {
+          "start": 105,
+          "end": 107,
+          "entity_id": "p5",
+          "type": "人物",
+          "name": "刘启（汉景帝）"
+        },
+        {
+          "start": 113,
+          "end": 115,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 127,
+          "end": 132,
+          "entity_id": "p26",
+          "type": "人物",
+          "name": "薛泽（平棘侯）"
+        },
+        {
+          "start": 133,
+          "end": 135,
+          "entity_id": "p16",
+          "type": "人物",
+          "name": "田蚡（武安侯）"
+        },
+        {
+          "start": 136,
+          "end": 138,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 146,
+          "end": 147,
+          "entity_id": "p18",
+          "type": "人物",
+          "name": "刘彻（汉武帝）"
+        },
+        {
+          "start": 149,
+          "end": 151,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 152,
+          "end": 153,
+          "entity_id": "l7",
+          "type": "地理",
+          "name": "关中"
+        }
+      ]
+    },
+    {
+      "para_id": "p11",
+      "text": "車騎將軍衞青擊匈奴，出上谷，破胡蘢城。將軍李廣爲匈奴所得，復失之；公孫敖大亡卒：皆當斬，贖爲庶人。明年，匈奴大入邊，殺遼西太守，及入鴈門，所殺略數千人。車騎將軍衞青擊之，出鴈門。衞尉安國爲材官將軍，屯於漁陽。安國捕生虜，言匈奴遠去。即上書言方田作時，請且罷軍屯。罷軍屯月餘，匈奴大入上谷、漁陽。安國壁乃有七百餘人，出與戰，不勝，復入壁。匈奴虜略千餘人及畜產而去。天子聞之，怒，使使責讓安國。徒安國益東，屯右北平。是時匈奴虜言當入東方。",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 6,
+          "entity_id": "p30",
+          "type": "人物",
+          "name": "卫青"
+        },
+        {
+          "start": 7,
+          "end": 9,
+          "entity_id": "l12",
+          "type": "地理",
+          "name": "匈奴"
+        },
+        {
+          "start": 11,
+          "end": 13,
+          "entity_id": "l16",
+          "type": "地理",
+          "name": "上谷"
+        },
+        {
+          "start": 15,
+          "end": 16,
+          "entity_id": "l12",
+          "type": "地理",
+          "name": "匈奴"
+        },
+        {
+          "start": 16,
+          "end": 18,
+          "entity_id": "l17",
+          "type": "地理",
+          "name": "茏城"
+        },
+        {
+          "start": 21,
+          "end": 23,
+          "entity_id": "p22",
+          "type": "人物",
+          "name": "李广"
+        },
+        {
+          "start": 24,
+          "end": 26,
+          "entity_id": "l12",
+          "type": "地理",
+          "name": "匈奴"
+        },
+        {
+          "start": 33,
+          "end": 36,
+          "entity_id": "p31",
+          "type": "人物",
+          "name": "公孙敖"
+        },
+        {
+          "start": 52,
+          "end": 54,
+          "entity_id": "l12",
+          "type": "地理",
+          "name": "匈奴"
+        },
+        {
+          "start": 59,
+          "end": 61,
+          "entity_id": "l18",
+          "type": "地理",
+          "name": "辽西"
+        },
+        {
+          "start": 66,
+          "end": 68,
+          "entity_id": "l13",
+          "type": "地理",
+          "name": "雁门郡"
+        },
+        {
+          "start": 76,
+          "end": 82,
+          "entity_id": "p30",
+          "type": "人物",
+          "name": "卫青"
+        },
+        {
+          "start": 86,
+          "end": 88,
+          "entity_id": "l13",
+          "type": "地理",
+          "name": "雁门郡"
+        },
+        {
+          "start": 91,
+          "end": 93,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 101,
+          "end": 103,
+          "entity_id": "l19",
+          "type": "地理",
+          "name": "渔阳"
+        },
+        {
+          "start": 104,
+          "end": 106,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 108,
+          "end": 109,
+          "entity_id": "l12",
+          "type": "地理",
+          "name": "匈奴"
+        },
+        {
+          "start": 111,
+          "end": 113,
+          "entity_id": "l12",
+          "type": "地理",
+          "name": "匈奴"
+        },
+        {
+          "start": 117,
+          "end": 118,
+          "entity_id": "p18",
+          "type": "人物",
+          "name": "刘彻（汉武帝）"
+        },
+        {
+          "start": 137,
+          "end": 139,
+          "entity_id": "l12",
+          "type": "地理",
+          "name": "匈奴"
+        },
+        {
+          "start": 141,
+          "end": 143,
+          "entity_id": "l16",
+          "type": "地理",
+          "name": "上谷"
+        },
+        {
+          "start": 144,
+          "end": 146,
+          "entity_id": "l19",
+          "type": "地理",
+          "name": "渔阳"
+        },
+        {
+          "start": 147,
+          "end": 149,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 162,
+          "end": 163,
+          "entity_id": "p10",
+          "type": "人物",
+          "name": "羊胜"
+        },
+        {
+          "start": 168,
+          "end": 170,
+          "entity_id": "l12",
+          "type": "地理",
+          "name": "匈奴"
+        },
+        {
+          "start": 170,
+          "end": 171,
+          "entity_id": "l12",
+          "type": "地理",
+          "name": "匈奴"
+        },
+        {
+          "start": 181,
+          "end": 183,
+          "entity_id": "p5",
+          "type": "人物",
+          "name": "刘启（汉景帝）"
+        },
+        {
+          "start": 192,
+          "end": 194,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 196,
+          "end": 198,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 202,
+          "end": 205,
+          "entity_id": "l20",
+          "type": "地理",
+          "name": "右北平"
+        },
+        {
+          "start": 208,
+          "end": 210,
+          "entity_id": "l12",
+          "type": "地理",
+          "name": "匈奴"
+        },
+        {
+          "start": 210,
+          "end": 211,
+          "entity_id": "l12",
+          "type": "地理",
+          "name": "匈奴"
+        }
+      ]
+    },
+    {
+      "para_id": "p12",
+      "text": "安國始爲御史大夫及護軍，後稍斥疏，下遷；而新幸壯將軍衞青等有功，益貴。安國旣疏遠，默默也；將屯又爲匈奴所欺，失亡多，甚自愧。幸得罷歸，乃益東徙屯，意忽忽不樂。數月，病歐血死。安國以元朔二年中卒。",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 2,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 23,
+          "end": 28,
+          "entity_id": "p30",
+          "type": "人物",
+          "name": "卫青"
+        },
+        {
+          "start": 35,
+          "end": 37,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 49,
+          "end": 51,
+          "entity_id": "l12",
+          "type": "地理",
+          "name": "匈奴"
+        },
+        {
+          "start": 87,
+          "end": 89,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 94,
+          "end": 95,
+          "entity_id": "l7",
+          "type": "地理",
+          "name": "关中"
+        }
+      ]
+    },
+    {
+      "para_id": "p13",
+      "text": "太史公曰：余與壺遂定律歷，觀韓長孺之義，壺遂之深中隱厚。世之言梁多長者，不虛哉！壺遂官至詹事，天子方倚以爲漢相，會遂卒。不然，壺遂之內廉行脩，斯鞠躬君子也。",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 3,
+          "entity_id": "p32",
+          "type": "人物",
+          "name": "司马迁"
+        },
+        {
+          "start": 5,
+          "end": 6,
+          "entity_id": "p32",
+          "type": "人物",
+          "name": "司马迁"
+        },
+        {
+          "start": 7,
+          "end": 9,
+          "entity_id": "p27",
+          "type": "人物",
+          "name": "壶遂"
+        },
+        {
+          "start": 14,
+          "end": 17,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 20,
+          "end": 22,
+          "entity_id": "p27",
+          "type": "人物",
+          "name": "壶遂"
+        },
+        {
+          "start": 24,
+          "end": 25,
+          "entity_id": "l7",
+          "type": "地理",
+          "name": "关中"
+        },
+        {
+          "start": 31,
+          "end": 32,
+          "entity_id": "l1",
+          "type": "地理",
+          "name": "梁国"
+        },
+        {
+          "start": 40,
+          "end": 42,
+          "entity_id": "p27",
+          "type": "人物",
+          "name": "壶遂"
+        },
+        {
+          "start": 47,
+          "end": 49,
+          "entity_id": "p5",
+          "type": "人物",
+          "name": "刘启（汉景帝）"
+        },
+        {
+          "start": 63,
+          "end": 65,
+          "entity_id": "p27",
+          "type": "人物",
+          "name": "壶遂"
+        },
+        {
+          "start": 72,
+          "end": 76,
+          "entity_id": "c14",
+          "type": "概念",
+          "name": "鞠躬君子"
+        }
+      ]
+    },
+    {
+      "para_id": "p14",
+      "text": "索隱述贊曰：安國忠厚，初爲梁將。因事坐法，免徒起相。死灰更然，生虜失防。推賢見重，賄金貽謗。雪泣悟主，臣節可亮。",
+      "mentions": [
+        {
+          "start": 6,
+          "end": 8,
+          "entity_id": "p1",
+          "type": "人物",
+          "name": "韩安国"
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "entity_id": "l1",
+          "type": "地理",
+          "name": "梁国"
+        },
+        {
+          "start": 32,
+          "end": 33,
+          "entity_id": "l12",
+          "type": "地理",
+          "name": "匈奴"
+        }
+      ]
+    }
+  ]
+}
