@@ -1,0 +1,1374 @@
+{
+  "book": "shiji",
+  "chapter_id": "shiji-刺客列傳第二十六",
+  "chapter_title": "刺客列传第二十六",
+  "version": "1.0",
+  "generated_at": "2026-11-01",
+  "note": "五刺客完整收录：曹沫、专诸、豫让、聂政、荆轲。",
+  "entities": {
+    "persons": [
+      {
+        "name": "曹沫",
+        "alias": [
+          "曹沬",
+          "曹刿（存疑）"
+        ],
+        "note": "鲁人，以勇力事鲁庄公；与齐战三败北；柯之盟执匕首劫齐桓公返鲁侵地。是否即长勺论战之曹刿，学界存疑。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p0",
+          "text:shiji:shiji-刺客列傳第二十六:p1"
+        ]
+      },
+      {
+        "name": "鲁庄公",
+        "alias": [
+          "魯莊公"
+        ],
+        "note": "春秋鲁国国君，前693—前662年在位，好力，用曹沫。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p0"
+        ]
+      },
+      {
+        "name": "齐桓公",
+        "alias": [
+          "齊桓公"
+        ],
+        "note": "春秋五霸之首，姜姓，名小白；柯之盟被曹沫劫，许返鲁侵地。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p1"
+        ]
+      },
+      {
+        "name": "管仲",
+        "alias": [
+          "夷吾"
+        ],
+        "note": "齐相，名夷吾，辅齐桓公成霸业；劝桓公信守柯盟归鲁地。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p1"
+        ]
+      },
+      {
+        "name": "专诸",
+        "alias": [
+          "鱄設諸"
+        ],
+        "note": "吴堂邑勇士；伍子胥荐于公子光；置匕首鱼腹中刺吴王僚，死之；阖闾封其子为上卿。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p3",
+          "text:shiji:shiji-刺客列傳第二十六:p4",
+          "text:shiji:shiji-刺客列傳第二十六:p5",
+          "text:shiji:shiji-刺客列傳第二十六:p6"
+        ]
+      },
+      {
+        "name": "伍子胥",
+        "alias": [
+          "伍員",
+          "子胥"
+        ],
+        "note": "楚人，名员（yún），父兄被楚平王所杀，奔吴；知专诸之能，荐于公子光。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p3"
+        ]
+      },
+      {
+        "name": "吴王僚",
+        "alias": [
+          "王僚"
+        ],
+        "note": "吴王夷眛之子名僚；为公子光阴谋所忌，专诸刺之于宴席。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p3",
+          "text:shiji:shiji-刺客列傳第二十六:p4",
+          "text:shiji:shiji-刺客列傳第二十六:p5",
+          "text:shiji:shiji-刺客列傳第二十六:p6"
+        ]
+      },
+      {
+        "name": "公子光（吴王阖闾）",
+        "alias": [
+          "公子光",
+          "闔閭"
+        ],
+        "note": "吴王诸樊之子，名光；遣专诸刺王僚自立，即吴王阖闾（前514—前496年在位）。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p3",
+          "text:shiji:shiji-刺客列傳第二十六:p4",
+          "text:shiji:shiji-刺客列傳第二十六:p5",
+          "text:shiji:shiji-刺客列傳第二十六:p6"
+        ]
+      },
+      {
+        "name": "诸樊",
+        "alias": [
+          "諸樊"
+        ],
+        "note": "吴王，公子光之父；不传子而传弟欲终致国于季子札。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p4"
+        ]
+      },
+      {
+        "name": "余祭",
+        "alias": [
+          "餘祭"
+        ],
+        "note": "诸樊大弟，继诸樊为吴王。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p4"
+        ]
+      },
+      {
+        "name": "夷眛",
+        "alias": [
+          "夷眜",
+          "餘眛"
+        ],
+        "note": "诸樊二弟，继余祭为吴王；其子即王僚。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p4"
+        ]
+      },
+      {
+        "name": "季子札",
+        "alias": [
+          "季札",
+          "延陵季子"
+        ],
+        "note": "诸樊三弟，封延陵季子；贤而让位，有挂剑典故。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p4",
+          "text:shiji:shiji-刺客列傳第二十六:p5"
+        ]
+      },
+      {
+        "name": "楚平王",
+        "alias": [
+          "平王"
+        ],
+        "note": "楚王名弃疾后改名居，杀伍子胥父兄；王僚九年死。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p5"
+        ]
+      },
+      {
+        "name": "盖余属庸",
+        "alias": [
+          "蓋餘",
+          "屬庸"
+        ],
+        "note": "王僚二弟，将兵围楚灊为楚绝后路。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p5"
+        ]
+      },
+      {
+        "name": "豫让",
+        "alias": [],
+        "note": "晋人；尝事范、中行氏，后事智伯，智伯甚尊宠之；赵襄子灭智伯漆其头为饮器，豫让遁逃山中，变名刑人涂厕、漆身吞炭，两次刺赵襄子；伏剑自杀前斩衣三跃报仇。留「士为知己者死，女为悦己者容」「国士遇我，国士报之」千古名句。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p8",
+          "text:shiji:shiji-刺客列傳第二十六:p9",
+          "text:shiji:shiji-刺客列傳第二十六:p10"
+        ]
+      },
+      {
+        "name": "智伯",
+        "alias": [
+          "智瑶",
+          "知伯"
+        ],
+        "note": "晋六卿最强者，名瑶；伐赵襄子为韩赵魏三家所灭。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p8"
+        ]
+      },
+      {
+        "name": "赵襄子",
+        "alias": [
+          "襄子",
+          "趙襄子"
+        ],
+        "note": "赵简子之子名毋恤；与韩魏共灭智伯，漆智伯头为饮器；两释豫让，终与之衣以成其义。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p8",
+          "text:shiji:shiji-刺客列傳第二十六:p9",
+          "text:shiji:shiji-刺客列傳第二十六:p10"
+        ]
+      },
+      {
+        "name": "范氏",
+        "alias": [],
+        "note": "晋六卿之一（士会后）。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p8"
+        ]
+      },
+      {
+        "name": "中行氏",
+        "alias": [],
+        "note": "晋六卿之一（荀林父后，中行háng）。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p8"
+        ]
+      },
+      {
+        "name": "聂政",
+        "alias": [
+          "聶政"
+        ],
+        "note": "轵深井里人，以屠为事；为严仲子刺韩相侠累于府，皮面决眼自屠出肠死。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p12",
+          "text:shiji:shiji-刺客列傳第二十六:p13",
+          "text:shiji:shiji-刺客列傳第二十六:p14",
+          "text:shiji:shiji-刺客列傳第二十六:p15",
+          "text:shiji:shiji-刺客列傳第二十六:p16"
+        ]
+      },
+      {
+        "name": "聂荣",
+        "alias": [
+          "聶榮",
+          "聂嫈"
+        ],
+        "note": "聂政之姊；闻弟刺韩相伏尸市上，赴韩哭尸认弟，为扬弟名于韩市，自尽于弟旁。《战国策》作聂嫈。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p17",
+          "text:shiji:shiji-刺客列傳第二十六:p18"
+        ]
+      },
+      {
+        "name": "严仲子",
+        "alias": [
+          "嚴遂",
+          "嚴仲子"
+        ],
+        "note": "韩大夫名遂，事韩哀侯，与韩相侠累有郄，访聂政刺之。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p13",
+          "text:shiji:shiji-刺客列傳第二十六:p14"
+        ]
+      },
+      {
+        "name": "侠累",
+        "alias": [
+          "俠累",
+          "韩傀",
+          "韩廆"
+        ],
+        "note": "韩相名傀（《战国策》作韩傀、《韩非子》作韩廆），韩哀侯之叔父；为聂政刺死于府上。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p13",
+          "text:shiji:shiji-刺客列傳第二十六:p15",
+          "text:shiji:shiji-刺客列傳第二十六:p16",
+          "text:shiji:shiji-刺客列傳第二十六:p17"
+        ]
+      },
+      {
+        "name": "荆轲",
+        "alias": [
+          "荊軻",
+          "庆卿",
+          "荆卿",
+          "慶卿"
+        ],
+        "note": "卫人，其先齐人，卫谓之庆卿、燕谓之荆卿，好读书击剑；游榆次、邯郸，之燕与狗屠、高渐离饮于燕市；田光荐于燕太子丹，为丹刺秦王；献樊於期头与督亢地图，图穷匕见刺秦王不中，被诛。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p20",
+          "text:shiji:shiji-刺客列傳第二十六:p21",
+          "text:shiji:shiji-刺客列傳第二十六:p22",
+          "text:shiji:shiji-刺客列傳第二十六:p23",
+          "text:shiji:shiji-刺客列傳第二十六:p24",
+          "text:shiji:shiji-刺客列傳第二十六:p27",
+          "text:shiji:shiji-刺客列傳第二十六:p28",
+          "text:shiji:shiji-刺客列傳第二十六:p29",
+          "text:shiji:shiji-刺客列傳第二十六:p30",
+          "text:shiji:shiji-刺客列傳第二十六:p31",
+          "text:shiji:shiji-刺客列傳第二十六:p32",
+          "text:shiji:shiji-刺客列傳第二十六:p33"
+        ]
+      },
+      {
+        "name": "高渐离",
+        "alias": [
+          "高漸離"
+        ],
+        "note": "燕人，善击筑，荆轲友；轲死，变姓名为庸保匿宋子；秦皇帝得之，矐其目使击筑，以铅置筑中扑秦皇帝，不中被杀。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p24",
+          "text:shiji:shiji-刺客列傳第二十六:p32",
+          "text:shiji:shiji-刺客列傳第二十六:p35"
+        ]
+      },
+      {
+        "name": "燕太子丹",
+        "alias": [
+          "太子丹",
+          "丹"
+        ],
+        "note": "燕王喜太子，名丹，曾质赵与秦王政少相欢；后质秦秦王遇之不善，亡归燕；患秦逼燕，求刺客刺秦王；秦拔蓟走辽东，被燕王喜斩献秦。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p25",
+          "text:shiji:shiji-刺客列傳第二十六:p26",
+          "text:shiji:shiji-刺客列傳第二十六:p27",
+          "text:shiji:shiji-刺客列傳第二十六:p28",
+          "text:shiji:shiji-刺客列傳第二十六:p29",
+          "text:shiji:shiji-刺客列傳第二十六:p31",
+          "text:shiji:shiji-刺客列傳第二十六:p32",
+          "text:shiji:shiji-刺客列傳第二十六:p34"
+        ]
+      },
+      {
+        "name": "鞠武",
+        "alias": [
+          "鞠武"
+        ],
+        "note": "燕太子丹太傅。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p25",
+          "text:shiji:shiji-刺客列傳第二十六:p26"
+        ]
+      },
+      {
+        "name": "樊於期",
+        "alias": [
+          "樊於期"
+        ],
+        "note": "秦将，得罪秦王，亡燕依太子丹；荆轲说其自刎献首于秦以作刺秦信物。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p26",
+          "text:shiji:shiji-刺客列傳第二十六:p29",
+          "text:shiji:shiji-刺客列傳第二十六:p30"
+        ]
+      },
+      {
+        "name": "田光",
+        "alias": [
+          "田光"
+        ],
+        "note": "燕之处士，智深勇沉，太子丹向其问计，荐荆轲于丹；为激荆轲并明不泄谋自刎。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p26",
+          "text:shiji:shiji-刺客列傳第二十六:p27",
+          "text:shiji:shiji-刺客列傳第二十六:p28"
+        ]
+      },
+      {
+        "name": "秦舞阳",
+        "alias": [
+          "秦舞陽"
+        ],
+        "note": "燕勇士，燕贤将秦开之孙，年十三杀人；为荆轲副使，入咸阳宫见秦王色变振恐。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p31"
+        ]
+      },
+      {
+        "name": "秦始皇嬴政",
+        "alias": [
+          "秦王",
+          "秦王政"
+        ],
+        "note": "即秦始皇；柯之刺中被荆轲逐绕柱走，拔剑断轲左股；后并天下。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p25",
+          "text:shiji:shiji-刺客列傳第二十六:p33",
+          "text:shiji:shiji-刺客列傳第二十六:p34",
+          "text:shiji:shiji-刺客列傳第二十六:p35"
+        ]
+      },
+      {
+        "name": "王翦",
+        "alias": [],
+        "note": "秦名将，破赵攻燕拔蓟。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p29",
+          "text:shiji:shiji-刺客列傳第二十六:p34"
+        ]
+      },
+      {
+        "name": "李信",
+        "alias": [],
+        "note": "秦将，追燕王喜、太子丹至辽东。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p34"
+        ]
+      },
+      {
+        "name": "蒙嘉",
+        "alias": [],
+        "note": "秦王宠臣中庶子；受荆轲千金之币为先言于秦王。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p33"
+        ]
+      },
+      {
+        "name": "夏无且",
+        "alias": [
+          "夏無且"
+        ],
+        "note": "秦王侍医；荆轲刺秦时以药囊提荆轲，秦王赏黄金二百镒。且音jū。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p33",
+          "text:shiji:shiji-刺客列傳第二十六:p37"
+        ]
+      },
+      {
+        "name": "燕王喜",
+        "alias": [
+          "燕王喜"
+        ],
+        "note": "燕国末代国君，太子丹父；走辽东斩丹献秦，秦终灭燕虏喜。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p34"
+        ]
+      },
+      {
+        "name": "代王嘉",
+        "alias": [],
+        "note": "赵公子嘉，赵亡后自立代王；遗书燕王喜令斩太子丹。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p34"
+        ]
+      },
+      {
+        "name": "鲁句践",
+        "alias": [
+          "魯句踐"
+        ],
+        "note": "荆轲游邯郸时与之博争道者；荆轲刺秦后叹惜其不讲于刺剑之术。句音gōu。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p23",
+          "text:shiji:shiji-刺客列傳第二十六:p36"
+        ]
+      },
+      {
+        "name": "盖聂",
+        "alias": [
+          "蓋聶"
+        ],
+        "note": "榆次剑客，与荆轲论剑怒而目之。盖音gě。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p22"
+        ]
+      }
+    ],
+    "places": [
+      {
+        "name": "鲁",
+        "alias": [
+          "魯",
+          "魯國",
+          "鲁国"
+        ],
+        "note": "鲁国，今山东曲阜一带。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p0"
+        ]
+      },
+      {
+        "name": "齐",
+        "alias": [
+          "齊",
+          "齊國",
+          "齐国"
+        ],
+        "note": "齐国，今山东北部。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p0",
+          "text:shiji:shiji-刺客列傳第二十六:p1"
+        ]
+      },
+      {
+        "name": "柯",
+        "alias": [],
+        "note": "齐邑，在今山东阳谷东北；前681年齐鲁柯之盟。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p1"
+        ]
+      },
+      {
+        "name": "遂邑",
+        "alias": [
+          "遂"
+        ],
+        "note": "鲁邑，在今山东宁阳北；献于齐求和。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p0"
+        ]
+      },
+      {
+        "name": "吴",
+        "alias": [
+          "吳",
+          "吳國",
+          "吴国"
+        ],
+        "note": "吴国，今江苏南部。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p3"
+        ]
+      },
+      {
+        "name": "堂邑",
+        "alias": [],
+        "note": "吴邑，在今江苏六合北，专诸故里。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p3"
+        ]
+      },
+      {
+        "name": "楚",
+        "alias": [
+          "楚國",
+          "楚国"
+        ],
+        "note": "楚国。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p3",
+          "text:shiji:shiji-刺客列傳第二十六:p5"
+        ]
+      },
+      {
+        "name": "灊（潜）",
+        "alias": [
+          "潛"
+        ],
+        "note": "楚邑，今安徽霍山东北；吴使盖余属庸围之。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p5"
+        ]
+      },
+      {
+        "name": "晋",
+        "alias": [
+          "晉國",
+          "晋国"
+        ],
+        "note": "晋国（后分为韩赵魏）。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p8"
+        ]
+      },
+      {
+        "name": "轵",
+        "alias": [
+          "軹"
+        ],
+        "note": "魏（韩）邑，今河南济源南，聂政故里深井里所在。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p12"
+        ]
+      },
+      {
+        "name": "深井里",
+        "alias": [],
+        "note": "轵县里名，聂政故里。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p12"
+        ]
+      },
+      {
+        "name": "濮阳",
+        "alias": [
+          "濮陽"
+        ],
+        "note": "卫都，今河南濮阳南；严仲子游此。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p13"
+        ]
+      },
+      {
+        "name": "韩",
+        "alias": [
+          "韓",
+          "韓國",
+          "韩国"
+        ],
+        "note": "韩国。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p13",
+          "text:shiji:shiji-刺客列傳第二十六:p15",
+          "text:shiji:shiji-刺客列傳第二十六:p16",
+          "text:shiji:shiji-刺客列傳第二十六:p17"
+        ]
+      },
+      {
+        "name": "卫",
+        "alias": [
+          "衞",
+          "衞國",
+          "卫国"
+        ],
+        "note": "卫国，荆轲曾游；后卫元君支属迁野王。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p20",
+          "text:shiji:shiji-刺客列傳第二十六:p21"
+        ]
+      },
+      {
+        "name": "榆次",
+        "alias": [],
+        "note": "赵邑，今山西榆次；荆轲与盖聂论剑处。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p22"
+        ]
+      },
+      {
+        "name": "邯郸",
+        "alias": [
+          "邯鄲"
+        ],
+        "note": "赵都，今河北邯郸；荆轲游此与鲁句践博。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p23"
+        ]
+      },
+      {
+        "name": "燕",
+        "alias": [
+          "燕國",
+          "燕国"
+        ],
+        "note": "燕国，都蓟（今北京西南）。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p20",
+          "text:shiji:shiji-刺客列傳第二十六:p24"
+        ]
+      },
+      {
+        "name": "东郡",
+        "alias": [
+          "東郡"
+        ],
+        "note": "秦郡，治濮阳；秦徙卫元君支属于野王。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p21"
+        ]
+      },
+      {
+        "name": "野王",
+        "alias": [],
+        "note": "今河南沁阳。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p21"
+        ]
+      },
+      {
+        "name": "匈奴",
+        "alias": [],
+        "note": "北方游牧民族；鞠武议北结单于。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p26"
+        ]
+      },
+      {
+        "name": "易水",
+        "alias": [],
+        "note": "燕南界水，在今河北易县；荆轲别燕于易水之上。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p29",
+          "text:shiji:shiji-刺客列傳第二十六:p32"
+        ]
+      },
+      {
+        "name": "督亢",
+        "alias": [],
+        "note": "燕国南境肥沃之地，在今河北涿州、固安、新城一带。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p29",
+          "text:shiji:shiji-刺客列傳第二十六:p33"
+        ]
+      },
+      {
+        "name": "咸阳宫",
+        "alias": [
+          "咸陽"
+        ],
+        "note": "秦都宫，在今陕西咸阳东北；荆轲刺秦处。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p33"
+        ]
+      },
+      {
+        "name": "蓟城",
+        "alias": [
+          "薊"
+        ],
+        "note": "燕国都，今北京西南。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p34"
+        ]
+      },
+      {
+        "name": "辽东",
+        "alias": [
+          "遼東"
+        ],
+        "note": "燕东境，今辽宁一带；燕王喜、太子丹东保于此。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p34"
+        ]
+      },
+      {
+        "name": "衍水",
+        "alias": [],
+        "note": "今辽宁太子河；太子丹匿衍水中。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p34"
+        ]
+      },
+      {
+        "name": "宋子",
+        "alias": [],
+        "note": "赵邑，今河北赵县北；高渐离匿作于此。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p35"
+        ]
+      },
+      {
+        "name": "秦国",
+        "alias": [
+          "秦"
+        ],
+        "note": "战国强秦，后统一天下。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p19",
+          "text:shiji:shiji-刺客列傳第二十六:p21",
+          "text:shiji:shiji-刺客列傳第二十六:p25",
+          "text:shiji:shiji-刺客列傳第二十六:p26",
+          "text:shiji:shiji-刺客列傳第二十六:p28",
+          "text:shiji:shiji-刺客列傳第二十六:p29",
+          "text:shiji:shiji-刺客列傳第二十六:p33",
+          "text:shiji:shiji-刺客列傳第二十六:p34"
+        ]
+      },
+      {
+        "name": "赵国",
+        "alias": [
+          "趙",
+          "趙國"
+        ],
+        "note": "战国七雄之一。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p22",
+          "text:shiji:shiji-刺客列傳第二十六:p23",
+          "text:shiji:shiji-刺客列傳第二十六:p29"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "name": "曹沫柯盟劫齐桓公返鲁地",
+        "alias": [
+          "柯之盟"
+        ],
+        "note": "前681年齐鲁柯之盟，曹沫执匕首劫桓公求返侵地，管仲劝桓公守信。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p1"
+        ]
+      },
+      {
+        "name": "专诸刺王僚",
+        "alias": [
+          "魚腸刺僚"
+        ],
+        "note": "前515年四月丙子，公子光伏甲窟室宴请王僚；专诸置匕首鱼炙腹中进，刺王僚死；专诸为左右所杀。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p6"
+        ]
+      },
+      {
+        "name": "吴王阖闾立",
+        "alias": [],
+        "note": "公子光自立为吴王阖闾，封专诸子为上卿。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p6"
+        ]
+      },
+      {
+        "name": "豫让漆身吞炭刺赵襄子",
+        "alias": [
+          "漆身吞炭"
+        ],
+        "note": "豫让变姓名为刑人涂厕；又漆身为厉、吞炭为哑；伏桥下刺襄子不果。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p8",
+          "text:shiji:shiji-刺客列傳第二十六:p9",
+          "text:shiji:shiji-刺客列傳第二十六:p10"
+        ]
+      },
+      {
+        "name": "豫让斩衣三跃伏剑",
+        "alias": [
+          "斬衣三躍"
+        ],
+        "note": "豫让求襄子衣，拔剑三跃击之，曰「可以下报智伯矣」，伏剑自杀。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p10"
+        ]
+      },
+      {
+        "name": "聂政刺侠累",
+        "alias": [],
+        "note": "聂政仗剑至韩，直入相府刺侠累于阶上，杀数十人，皮面决眼屠肠以死。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p15"
+        ]
+      },
+      {
+        "name": "聂荣哭市显弟名",
+        "alias": [],
+        "note": "韩暴聂政尸于市购问；聂荣赴韩哭尸认弟，自尽于尸旁，晋楚齐卫闻之皆烈其姊。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p17",
+          "text:shiji:shiji-刺客列傳第二十六:p18"
+        ]
+      },
+      {
+        "name": "燕太子丹亡归求刺秦",
+        "alias": [],
+        "note": "燕太子丹质秦亡归；师鞠武谏不听；田光以死荐荆轲。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p25",
+          "text:shiji:shiji-刺客列傳第二十六:p26",
+          "text:shiji:shiji-刺客列傳第二十六:p27",
+          "text:shiji:shiji-刺客列傳第二十六:p28"
+        ]
+      },
+      {
+        "name": "樊於期自刎献首",
+        "alias": [],
+        "note": "樊於期亡燕，荆轲私见说其自刎献首为刺秦信物。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p30"
+        ]
+      },
+      {
+        "name": "易水送别",
+        "alias": [
+          "風蕭蕭兮易水寒"
+        ],
+        "note": "白衣冠送至易水，高渐离击筑，荆轲歌「风萧萧兮易水寒，壮士一去兮不复还」，登车不顾。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p32"
+        ]
+      },
+      {
+        "name": "荆轲刺秦 图穷匕见",
+        "alias": [
+          "咸陽宮刺秦"
+        ],
+        "note": "轲献樊於期首与督亢地图，图穷匕见，左手把秦王袖、右手揕其胸；秦王环柱走；夏无且以药囊提轲；秦王负剑断轲左股；轲以匕首掷秦王中铜柱，被八创被杀。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p33"
+        ]
+      },
+      {
+        "name": "王翦破燕拔蓟",
+        "alias": [],
+        "note": "秦益兵诣赵，王翦军伐燕十月拔蓟；燕王走辽东，李信追击。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p34"
+        ]
+      },
+      {
+        "name": "燕王喜斩太子丹献秦",
+        "alias": [],
+        "note": "代王嘉遗书燕王喜令斩丹；丹匿衍水，燕王斩丹献秦。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p34"
+        ]
+      },
+      {
+        "name": "秦灭燕虏燕王喜",
+        "alias": [],
+        "note": "刺秦后五年（前222年）秦灭燕，虏燕王喜。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p34"
+        ]
+      },
+      {
+        "name": "高渐离以筑扑秦",
+        "alias": [],
+        "note": "秦并天下，高渐离变名庸保匿宋子；秦皇帝得之，矐其目使击筑；渐离以铅置筑中扑秦，不中被杀。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p35"
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "name": "匕首",
+        "alias": [],
+        "note": "短剑，长尺八寸，挟持行刺所用。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p1"
+        ]
+      },
+      {
+        "name": "鱼肠剑",
+        "alias": [
+          "魚腸劍"
+        ],
+        "note": "专诸置匕首鱼腹中刺王僚，后世称鱼肠剑（越欧冶子所铸名剑之一）。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p6"
+        ]
+      },
+      {
+        "name": "士为知己者死",
+        "alias": [
+          "士為知己者死 女為悅己者容"
+        ],
+        "note": "豫让名言，千古任侠精神之魂。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p8"
+        ]
+      },
+      {
+        "name": "国士遇我国士报之",
+        "alias": [],
+        "note": "豫让答赵襄子语，谓知遇之恩当以国士之节报之。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p10"
+        ]
+      },
+      {
+        "name": "漆身为厉 吞炭为哑",
+        "alias": [
+          "漆身吞炭"
+        ],
+        "note": "豫让漆身为癞、吞炭使哑以毁容变声。厉通癞（lài）。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p9"
+        ]
+      },
+      {
+        "name": "斩衣三跃",
+        "alias": [
+          "斬衣三躍"
+        ],
+        "note": "豫让象征性刺衣报仇后伏剑。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p10"
+        ]
+      },
+      {
+        "name": "皮面决眼",
+        "alias": [
+          "皮面決眼"
+        ],
+        "note": "聂政毁面剜眼自屠以护姊。决通抉（jué）。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p15"
+        ]
+      },
+      {
+        "name": "屠狗为业",
+        "alias": [
+          "屠狗"
+        ],
+        "note": "聂政、荆轲友（狗屠）皆隐于屠。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p12",
+          "text:shiji:shiji-刺客列傳第二十六:p24"
+        ]
+      },
+      {
+        "name": "白衣冠送",
+        "alias": [],
+        "note": "穿丧服送行，示必死。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p32"
+        ]
+      },
+      {
+        "name": "变徵之声",
+        "alias": [
+          "變徵之聲"
+        ],
+        "note": "徵音变调苍凉悲壮，易水送荆轲所歌。徵音zhǐ。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p32"
+        ]
+      },
+      {
+        "name": "风萧萧兮易水寒 壮士一去兮不复还",
+        "alias": [
+          "易水歌"
+        ],
+        "note": "千古绝唱，荆轲易水别歌。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p32"
+        ]
+      },
+      {
+        "name": "徐夫人匕首",
+        "alias": [],
+        "note": "赵人徐夫人（男子名）藏匕首，太子丹百金购得，药焠之见血立死。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p31"
+        ]
+      },
+      {
+        "name": "图穷匕见",
+        "alias": [
+          "圖窮匕首見"
+        ],
+        "note": "地图展尽匕首现，成语喻事情发展到最后、真相或本意毕露。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p33"
+        ]
+      },
+      {
+        "name": "九宾之礼",
+        "alias": [
+          "九賓"
+        ],
+        "note": "外交最隆重礼仪，九位傧相依次传呼接引。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p33"
+        ]
+      },
+      {
+        "name": "负剑",
+        "alias": [
+          "負劍"
+        ],
+        "note": "把剑推到背上以便拔出，因秦时剑长腰前难拔。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p33"
+        ]
+      },
+      {
+        "name": "箕踞",
+        "alias": [],
+        "note": "张开两腿如簸箕而坐，傲慢不敬之态。荆轲倚柱箕踞骂。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p33"
+        ]
+      },
+      {
+        "name": "筑",
+        "alias": [],
+        "note": "古弦乐器，以竹尺击之；高渐离善击筑。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p24"
+        ]
+      },
+      {
+        "name": "中庶子",
+        "alias": [],
+        "note": "秦太子属官，掌王族事务。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p33"
+        ]
+      },
+      {
+        "name": "天雨粟马生角",
+        "alias": [
+          "天雨粟 馬生角"
+        ],
+        "note": "汉人附会燕丹感天瑞应，太史公明斥其太过。雨yù下也。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p37"
+        ]
+      },
+      {
+        "name": "饮器",
+        "alias": [
+          "飲器"
+        ],
+        "note": "赵襄子漆智伯头为饮器（酒器或溺器有争论）。",
+        "evidence": [
+          "text:shiji:shiji-刺客列傳第二十六:p8"
+        ]
+      }
+    ]
+  },
+  "relations": [
+    {
+      "from": "曹沫",
+      "type": "将 三败于",
+      "to": "齐国",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p0"
+      ]
+    },
+    {
+      "from": "曹沫",
+      "type": "执匕首劫",
+      "to": "齐桓公",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p1"
+      ]
+    },
+    {
+      "from": "管仲",
+      "type": "劝 守信返地",
+      "to": "齐桓公",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p1"
+      ]
+    },
+    {
+      "from": "齐桓公",
+      "type": "许归 侵地于",
+      "to": "鲁",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p1"
+      ]
+    },
+    {
+      "from": "伍子胥",
+      "type": "荐专诸于",
+      "to": "公子光（吴王阖闾）",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p3"
+      ]
+    },
+    {
+      "from": "公子光（吴王阖闾）",
+      "type": "遣 刺",
+      "to": "吴王僚",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p5",
+        "text:shiji:shiji-刺客列傳第二十六:p6"
+      ]
+    },
+    {
+      "from": "专诸",
+      "type": "置匕首鱼腹刺",
+      "to": "吴王僚",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p6"
+      ]
+    },
+    {
+      "from": "专诸",
+      "type": "为左右杀于",
+      "to": "吴",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p6"
+      ]
+    },
+    {
+      "from": "豫让",
+      "type": "事 忠",
+      "to": "智伯",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p8"
+      ]
+    },
+    {
+      "from": "赵襄子",
+      "type": "与韩魏灭 漆头为饮器",
+      "to": "智伯",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p8"
+      ]
+    },
+    {
+      "from": "豫让",
+      "type": "涂厕 漆身吞炭刺",
+      "to": "赵襄子",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p8",
+        "text:shiji:shiji-刺客列傳第二十六:p9",
+        "text:shiji:shiji-刺客列傳第二十六:p10"
+      ]
+    },
+    {
+      "from": "赵襄子",
+      "type": "两释 与之衣成其义",
+      "to": "豫让",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p8",
+        "text:shiji:shiji-刺客列傳第二十六:p10"
+      ]
+    },
+    {
+      "from": "豫让",
+      "type": "斩衣三跃伏剑 报",
+      "to": "智伯",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p10"
+      ]
+    },
+    {
+      "from": "严仲子",
+      "type": "访请 聂政刺",
+      "to": "侠累",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p13",
+        "text:shiji:shiji-刺客列傳第二十六:p14",
+        "text:shiji:shiji-刺客列傳第二十六:p15"
+      ]
+    },
+    {
+      "from": "聂政",
+      "type": "直入刺 皮面决眼自杀于",
+      "to": "侠累",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p15"
+      ]
+    },
+    {
+      "from": "聂荣",
+      "type": "赴韩哭尸 殉名于",
+      "to": "韩",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p17"
+      ]
+    },
+    {
+      "from": "田光",
+      "type": "荐 自刎激",
+      "to": "荆轲",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p27"
+      ]
+    },
+    {
+      "from": "燕太子丹",
+      "type": "求 刺秦于",
+      "to": "荆轲",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p28"
+      ]
+    },
+    {
+      "from": "荆轲",
+      "type": "私见说 自刎献首",
+      "to": "樊於期",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p30"
+      ]
+    },
+    {
+      "from": "荆轲",
+      "type": "易水别 赴",
+      "to": "秦",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p32"
+      ]
+    },
+    {
+      "from": "高渐离",
+      "type": "击筑送别 易水歌和",
+      "to": "荆轲",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p32"
+      ]
+    },
+    {
+      "from": "蒙嘉",
+      "type": "受币为言于",
+      "to": "秦始皇嬴政",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p33"
+      ]
+    },
+    {
+      "from": "荆轲",
+      "type": "献图 匕首刺",
+      "to": "秦始皇嬴政",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p33"
+      ]
+    },
+    {
+      "from": "夏无且",
+      "type": "以药囊提",
+      "to": "荆轲",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p33"
+      ]
+    },
+    {
+      "from": "秦始皇嬴政",
+      "type": "负剑击断股 杀",
+      "to": "荆轲",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p33"
+      ]
+    },
+    {
+      "from": "王翦",
+      "type": "破赵拔",
+      "to": "蓟城",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p29",
+        "text:shiji:shiji-刺客列傳第二十六:p34"
+      ]
+    },
+    {
+      "from": "李信",
+      "type": "追",
+      "to": "燕太子丹",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p34"
+      ]
+    },
+    {
+      "from": "代王嘉",
+      "type": "遗书令斩",
+      "to": "燕太子丹",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p34"
+      ]
+    },
+    {
+      "from": "燕王喜",
+      "type": "斩丹献于",
+      "to": "秦",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p34"
+      ]
+    },
+    {
+      "from": "秦",
+      "type": "灭 虏",
+      "to": "燕",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p34"
+      ]
+    },
+    {
+      "from": "高渐离",
+      "type": "变名庸保 以铅置筑扑",
+      "to": "秦始皇嬴政",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p35"
+      ]
+    },
+    {
+      "from": "秦始皇嬴政",
+      "type": "矐其目 终杀",
+      "to": "高渐离",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p35"
+      ]
+    },
+    {
+      "from": "鲁句践",
+      "type": "叹惜 不早知",
+      "to": "荆轲",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p36"
+      ]
+    },
+    {
+      "from": "荆轲",
+      "type": "与盖聂论剑 为目慑去",
+      "to": "盖聂",
+      "evidence": [
+        "text:shiji:shiji-刺客列傳第二十六:p22"
+      ]
+    }
+  ]
+}
