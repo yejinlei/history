@@ -1,0 +1,314 @@
+{
+ "book": "shiji",
+ "chapter_id": "shiji-李斯列傳第二十七",
+ "chapter_title": "李斯列传第二十七",
+ "version": "1.0",
+ "generated_at": "2026-11-01",
+ "enhancements": {
+  "themes": [
+   {
+    "name": "仓鼠之叹与择地而处",
+    "note": "李斯观厕鼠、仓鼠之别而叹“人之贤不肖譬如鼠矣，在所自处耳”，奠定其一生重势位、择主而事的人生观，与临终“牵黄犬出上蔡东门”之叹首尾呼应。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p0",
+     "text:shiji:shiji-李斯列傳第二十七:p32"
+    ]
+   },
+   {
+    "name": "法家术治与绝对君权",
+    "note": "李斯承荀卿而任法术，上《行督责书》主张“独断”“审督责”“必深罚”，把申不害、韩非的术势之说推向君主独裁极端，成为秦二世暴政的理论依据。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p21",
+     "text:shiji:shiji-李斯列傳第二十七:p22",
+     "text:shiji:shiji-李斯列傳第二十七:p23",
+     "text:shiji:shiji-李斯列傳第二十七:p24"
+    ]
+   },
+   {
+    "name": "忠而见诛与人格悲剧",
+    "note": "李斯由布衣至丞相，终因持禄阿顺、听赵高邪说、废嫡立庶而腰斩咸阳、夷三族；太史公以“不务明政以补主上之缺，持爵禄之重，阿顺苟合”定其罪，揭示“极忠被戮”背后的咎由自取。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p32",
+     "text:shiji:shiji-李斯列傳第二十七:p37"
+    ]
+   },
+   {
+    "name": "沙丘之谋与秦祚倾覆",
+    "note": "始皇崩于沙丘，李斯与赵高合谋秘不发丧、矫诏赐死扶苏蒙恬、立胡亥为二世，秦帝国由此迅速崩解；沙丘之谋是秦亡的关键转折。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p12",
+     "text:shiji:shiji-李斯列傳第二十七:p13",
+     "text:shiji:shiji-李斯列傳第二十七:p14",
+     "text:shiji:shiji-李斯列傳第二十七:p15",
+     "text:shiji:shiji-李斯列傳第二十七:p16"
+    ]
+   }
+  ],
+  "allusions": [
+   {
+    "name": "鼠在所居（仓鼠厕鼠）",
+    "note": "“人之贤不肖譬如鼠矣，在所自处耳”，成语“仓鼠之叹”“李斯叹鼠”出此，喻环境决定人的处境。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p0"
+    ]
+   },
+   {
+    "name": "泰山不让土壤，河海不择细流",
+    "note": "《谏逐客书》名句“太山不让土壤，故能成其大；河海不择细流，故能就其深”，喻兼容并蓄、广纳贤才，化用《管子》。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p6"
+    ]
+   },
+   {
+    "name": "藉寇兵而赍盗粮",
+    "note": "“使天下之士退而不敢西向…此所谓藉寇兵而赍盗粮者也”，喻资助敌人、自伤之举，后为成语。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p6"
+    ]
+   },
+   {
+    "name": "牵黄犬出上蔡东门",
+    "note": "李斯临刑谓其子曰“吾欲与若复牵黄犬俱出上蔡东门逐狡兔，岂可得乎”，成为功成身死、富贵成空、故乡难归的千古悲语。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p32"
+    ]
+   },
+   {
+    "name": "白驹过隙（六骥过隙）",
+    "note": "《督责书》前二世自谓“人生居世间也，譬犹骋六骥过决隙也”，即“白驹过隙”之意，喻人生短促。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p18"
+    ]
+   },
+   {
+    "name": "指鹿为马",
+    "note": "赵高献鹿谓马以试群臣，后世成语“指鹿为马”出此，喻颠倒黑白、混淆是非。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p33"
+    ]
+   },
+   {
+    "name": "慈母有败子而严家无格虏",
+    "note": "《督责书》引《韩非子》语，并引商君刑弃灰、楼季难五丈之限等，为严刑峻法张目。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p23"
+    ]
+   }
+  ],
+  "timeline": [
+   {
+    "year": "约前284年—前247年",
+    "event": "李斯自楚上蔡入荀卿门下学帝王之术，学成辞荀卿西入秦，为吕不韦舍人、任郎，说秦王乘时并天下。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p1",
+     "text:shiji:shiji-李斯列傳第二十七:p2"
+    ]
+   },
+   {
+    "year": "前237年（始皇十年）",
+    "event": "韩人郑国间秦事发，秦下逐客令，李斯上《谏逐客书》，秦王除令、复李斯官，官至廷尉。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p3",
+     "text:shiji:shiji-李斯列傳第二十七:p4",
+     "text:shiji:shiji-李斯列傳第二十七:p7",
+     "text:shiji:shiji-李斯列傳第二十七:p8"
+    ]
+   },
+   {
+    "year": "前221年",
+    "event": "秦并天下，尊主为皇帝，以李斯为丞相；夷郡县城、销兵刃，废分封行郡县。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p8"
+    ]
+   },
+   {
+    "year": "前213年（始皇三十四年）",
+    "event": "始皇置酒咸阳宫，淳于越谏行分封，李斯驳之，议焚诗书百家语、以吏为师。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p9"
+    ]
+   },
+   {
+    "year": "前210年（始皇三十七年）",
+    "event": "始皇东巡崩于沙丘，李斯与赵高秘不发丧，矫诏赐死扶苏、蒙恬，立胡亥为二世。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p11",
+     "text:shiji:shiji-李斯列傳第二十七:p12",
+     "text:shiji:shiji-李斯列傳第二十七:p13",
+     "text:shiji:shiji-李斯列傳第二十七:p14",
+     "text:shiji:shiji-李斯列傳第二十七:p15",
+     "text:shiji:shiji-李斯列傳第二十七:p16",
+     "text:shiji:shiji-李斯列傳第二十七:p17"
+    ]
+   },
+   {
+    "year": "前209年（二世元年）",
+    "event": "二世严法刻刑，诛杀諸公子、大臣；陈胜吴广起义于山东，天下大乱。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p18",
+     "text:shiji:shiji-李斯列傳第二十七:p19",
+     "text:shiji:shiji-李斯列傳第二十七:p20"
+    ]
+   },
+   {
+    "year": "前208年（二世二年）",
+    "event": "李斯阿二世意上《行督责书》；赵高构陷李斯，李斯下狱，具五刑、腰斩咸阳市，夷三族。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p21",
+     "text:shiji:shiji-李斯列傳第二十七:p29",
+     "text:shiji:shiji-李斯列傳第二十七:p30",
+     "text:shiji:shiji-李斯列傳第二十七:p31",
+     "text:shiji:shiji-李斯列傳第二十七:p32"
+    ]
+   },
+   {
+    "year": "前208—前207年",
+    "event": "二世拜赵高为中丞相，指鹿为马；赵高弑二世，子婴立而诛赵高；刘邦入武关，子婴降轵道，秦亡。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p33",
+     "text:shiji:shiji-李斯列傳第二十七:p34",
+     "text:shiji:shiji-李斯列傳第二十七:p35",
+     "text:shiji:shiji-李斯列傳第二十七:p36"
+    ]
+   }
+  ],
+  "genealogy": [
+   {
+    "line": "李斯家世",
+    "members": [
+     {
+      "name": "李斯",
+      "note": "楚上蔡人，秦丞相，通侯"
+     },
+     {
+      "name": "李由",
+      "note": "李斯长子，三川郡守，为项梁所击杀"
+     },
+     {
+      "name": "李斯中子",
+      "note": "与李斯俱被执、同赴腰斩，临刑牵犬东门之叹所语者"
+     }
+    ],
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p10",
+     "text:shiji:shiji-李斯列傳第二十七:p32"
+    ]
+   }
+  ],
+  "appreciations": [
+   {
+    "author": "司马迁",
+    "quote": "李斯以闾阎历诸侯，入事秦，因以瑕衅，以辅始皇，卒成帝业，斯为三公，可谓尊用矣。斯知六蓺之归，不务明政以补主上之缺，持爵禄之重，阿顺苟合，严威酷刑，听高邪说，废適立庶。诸侯已畔，斯乃欲谏争，不亦末乎！",
+    "note": "太史公称李斯辅秦成帝业、位至三公，然讥其知六经之旨而不务补主缺，持禄阿顺、废嫡立庶，至天下已叛方欲谏争，为时已晚。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p37"
+    ]
+   },
+   {
+    "author": "司马贞",
+    "quote": "鼠在所居，人固择地。斯效智力，功立名遂。置酒咸阳，人臣极位。一夫诳惑，变易神器。国丧身诛，本同末异。",
+    "note": "《索隐述赞》以二十字概括李斯一生，首尾呼应仓鼠之叹与沙丘之谋，叹其始与贤相同心而终以国丧身诛。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p38"
+    ]
+   }
+  ],
+  "references": [
+   {
+    "book": "史记·秦始皇本纪",
+    "note": "沙丘之谋、二世之立、诛杀公子及赵高弑君、子婴降汉等事，本纪与李斯传互见，可参看细节与异文（如子婴身份）。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p13",
+     "text:shiji:shiji-李斯列傳第二十七:p34",
+     "text:shiji:shiji-李斯列傳第二十七:p36"
+    ]
+   },
+   {
+    "book": "史记·蒙恬列传",
+    "note": "蒙恬、蒙毅之死与李斯、赵高构陷相关，二传互见。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p15",
+     "text:shiji:shiji-李斯列傳第二十七:p18"
+    ]
+   },
+   {
+    "book": "史记·吕不韦列传",
+    "note": "李斯初为吕不韦舍人，可参看其入秦之始。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p2"
+    ]
+   },
+   {
+    "book": "韩非子",
+    "note": "《督责书》多引《韩非子》语（慈母败子、布帛寻常鑠金百镒、王道约而易操等）。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p22",
+     "text:shiji:shiji-李斯列傳第二十七:p23"
+    ]
+   }
+  ],
+  "evaluations": [
+   {
+    "aspect": "政治功业",
+    "content": "佐始皇并六国、行郡县、废分封、同文书与度量衡、销兵器，奠定中国大一统中央集权体制的框架，李斯实为首功之臣。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p2",
+     "text:shiji:shiji-李斯列傳第二十七:p8"
+    ]
+   },
+   {
+    "aspect": "学术与文章",
+    "content": "从荀卿学帝王之术，通六经之旨；《谏逐客书》排比宏肆，被刘勰《文心雕龙》誉为“上书之善说”，为秦代散文代表作。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p1",
+     "text:shiji:shiji-李斯列傳第二十七:p4",
+     "text:shiji:shiji-李斯列傳第二十七:p5",
+     "text:shiji:shiji-李斯列傳第二十七:p6",
+     "text:shiji:shiji-李斯列傳第二十七:p7"
+    ]
+   },
+   {
+    "aspect": "人格与过失",
+    "content": "持爵禄之重、阿顺苟合，听赵高邪说、废嫡立庶，又上《督责书》迎合二世，助长严刑峻法，终致身死国亡，功过参半而过度在阿顺。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p21",
+     "text:shiji:shiji-李斯列傳第二十七:p24",
+     "text:shiji:shiji-李斯列傳第二十七:p37"
+    ]
+   }
+  ],
+  "influences": [
+   {
+    "name": "郡县制与中央集权",
+    "note": "李斯力主废封建、行郡县，不立子弟功臣为王，确立的中央集权官僚体制为后世两千余年帝制所沿袭。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p8"
+    ]
+   },
+   {
+    "name": "书同文与统一度量衡",
+    "note": "李斯主持统一文字（同文书）、统一斗斛度量衡与车轨，深远影响中华文化的整合与延续。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p9",
+     "text:shiji:shiji-李斯列傳第二十七:p30"
+    ]
+   },
+   {
+    "name": "焚书与文化专制",
+    "note": "李斯议焚诗书百家语、禁私学、以吏为师，开中国古代思想文化专制的先例，历来为后世所诟病。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p9"
+    ]
+   },
+   {
+    "name": "法家政治的极端化",
+    "note": "《行督责书》把法家术势之学推向君主绝对独裁，成为秦二世暴政与速亡的直接思想依据。",
+    "evidence": [
+     "text:shiji:shiji-李斯列傳第二十七:p21",
+     "text:shiji:shiji-李斯列傳第二十七:p24",
+     "text:shiji:shiji-李斯列傳第二十七:p25"
+    ]
+   }
+  ]
+ }
+}
