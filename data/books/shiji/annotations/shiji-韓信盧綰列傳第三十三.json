@@ -1,602 +1,1426 @@
-[
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a0",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p0",
-    "annotator": "集解",
-    "text": "徐廣曰：「一云『信都』。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a1",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p0",
-    "annotator": "索隱",
-    "text": "楚漢春秋云韓王信都，恐謬也。諸書不言有韓信都。案：韓王信初爲韓司徒，後訛云「申徒」，因誤以爲韓王名耳。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a2",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p0",
-    "annotator": "集解",
-    "text": "張晏曰：「孺子爲孽。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a3",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p0",
-    "annotator": "索隱",
-    "text": "何休注公羊以爲「孽，賤子，猶之伐木有孽生也」。漢書晁錯云「孽子悼惠王」是也。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a4",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p0",
-    "annotator": "正義",
-    "text": "故橫城在宋州宋城縣西南三十里。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a5",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p0",
-    "annotator": "集解",
-    "text": "徐廣曰：「二年六月也。都陽翟。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a6",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p0",
-    "annotator": "正義",
-    "text": "河南縣也。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a7",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p0",
-    "annotator": "集解",
-    "text": "徐廣曰：「他本多作『申徒』，申與司聲相近，字由此錯亂耳。今有申徒，云是司徒之後，言司聲轉爲申。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a8",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p1",
-    "annotator": "集解",
-    "text": "文穎曰：「鋒銳欲東向。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a9",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p1",
-    "annotator": "索隱",
-    "text": "跂音企，起踵也。鄭氏云「鋒，軍中將士氣鋒」。韋昭曰「其氣鋒銳欲東也」。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a10",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p1",
-    "annotator": "正義",
-    "text": "跂音岐。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a11",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p2",
-    "annotator": "集解",
-    "text": "徐廣曰：「元年十一月，誅成。」駰案：漢書曰「封爲穰侯」。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a12",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p2",
-    "annotator": "索隱",
-    "text": "地理志穰縣屬南陽。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a13",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p2",
-    "annotator": "正義",
-    "text": "項籍在吳時，昌爲吳縣令。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a14",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p2",
-    "annotator": "集解",
-    "text": "徐廣曰：「二年十一月。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a15",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p3",
-    "annotator": "集解",
-    "text": "徐廣曰：「即五年之二月。」駰案：漢書曰「六年春」。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a16",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p3",
-    "annotator": "集解",
-    "text": "李奇曰：「被音『被馬』之『被』也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a17",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p3",
-    "annotator": "正義",
-    "text": "并州。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a18",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p3",
-    "annotator": "正義",
-    "text": "朔州。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a19",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p3",
-    "annotator": "索隱",
-    "text": "冒音墨，又音莫報反。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a20",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p4",
-    "annotator": "正義",
-    "text": "潞州縣。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a21",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p4",
-    "annotator": "集解",
-    "text": "張晏曰：「白土，縣名，屬上郡。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a22",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p4",
-    "annotator": "正義",
-    "text": "廣武故城在代州鴈門縣界也。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a23",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p4",
-    "annotator": "正義",
-    "text": "石州縣。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a24",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p4",
-    "annotator": "正義",
-    "text": "鴈門郡樓煩縣。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a25",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p4",
-    "annotator": "正義",
-    "text": "今媯州。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a26",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p4",
-    "annotator": "正義",
-    "text": "朔州定襄縣是也。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a27",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p4",
-    "annotator": "集解",
-    "text": "服虔曰：「白登，臺名，去平城七里。」如淳曰：「平城旁之高地，若丘陵也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a28",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p4",
-    "annotator": "索隱",
-    "text": "姚氏案北疆記「桑乾河北有白登山，冒頓圍漢高之所，今猶有壘壁。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a29",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p4",
-    "annotator": "正義",
-    "text": "閼，於連反，又音燕。氏音支。單于嫡妻號，若皇后。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a30",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p4",
-    "annotator": "集解",
-    "text": "漢書音義曰：「言唯弓矛，無雜仗也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a31",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p4",
-    "annotator": "索隱",
-    "text": "傳音附。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a32",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p5",
-    "annotator": "集解",
-    "text": "蘇林曰：「代地也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a33",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p5",
-    "annotator": "正義",
-    "text": "故城在朔州定襄縣北。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a34",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p5",
-    "annotator": "集解",
-    "text": "鄧展曰：「柴奇也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a35",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p5",
-    "annotator": "索隱",
-    "text": "應劭云柴武，鄧展云柴奇；晉灼云奇，武之子。應劭說爲得，此時奇未爲將。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a36",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p5",
-    "annotator": "集解",
-    "text": "文穎曰：「大夫種、范蠡也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a37",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p5",
-    "annotator": "索隱",
-    "text": "蘇林曰：「僨音奮。」張晏曰：「僨，僵仆也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a38",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p5",
-    "annotator": "正義",
-    "text": "信知歸漢必死，故引子胥以爲辭。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a39",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p5",
-    "annotator": "索隱",
-    "text": "痿，耳誰反。舊音耳睡反，於義爲疏。張揖云「痿不能起」，哀帝紀云「帝即位痿痺」是也。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a40",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p6",
-    "annotator": "集解",
-    "text": "漢書音義曰：「縣名。」韋昭曰：「在匈奴地。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a41",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p6",
-    "annotator": "集解",
-    "text": "地理志河閒有弓高縣也。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a42",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p6",
-    "annotator": "索隱",
-    "text": "漢書功臣表屬營陵。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a43",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p6",
-    "annotator": "正義",
-    "text": "滄州縣。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a44",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p6",
-    "annotator": "索隱",
-    "text": "案服虔云「縣名。功臣表屬魏郡」。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a45",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p6",
-    "annotator": "集解",
-    "text": "徐廣曰：「謚曰壯。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a46",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p6",
-    "annotator": "集解",
-    "text": "徐廣曰：「表云嬰子澤之，元朔四年不敬國除。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a47",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p6",
-    "annotator": "集解",
-    "text": "漢書音義曰：「音『鄢陵』之『鄢』。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a48",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p6",
-    "annotator": "索隱",
-    "text": "音偃，又一言反，又休延反，並通。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a49",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p6",
-    "annotator": "集解",
-    "text": "徐廣曰：「名長君。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a50",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p6",
-    "annotator": "集解",
-    "text": "徐廣曰：「長君之子也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a51",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p6",
-    "annotator": "索隱",
-    "text": "案博物志，字季君也。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a52",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p6",
-    "annotator": "索隱",
-    "text": "頟，五格反。作雒，音洛。龍頟，縣名。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a53",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p6",
-    "annotator": "正義",
-    "text": "史記表、衞青傳及漢書表云韓說，元朔五年，從大將軍有功，封龍頟侯，以酎金坐免。元封元年，擊東越有功，封桉道侯。征和二年，孫子曾復封爲龍頟侯。漢書功臣表云武後元年，說孫曾紹封龍頟侯。漢表是也。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a54",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p7",
-    "annotator": "集解",
-    "text": "如淳曰：「親謂父也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a55",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p7",
-    "annotator": "正義",
-    "text": "秦咸陽在渭北，長安在渭南，蕭何起未央宮處也。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a56",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p8",
-    "annotator": "集解",
-    "text": "李奇曰：「共敖子。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a57",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p8",
-    "annotator": "集解",
-    "text": "如淳曰：「觖音『決別』之『決』。望猶怨也。」瓚曰：「觖謂相觖而怨望也。」韋昭曰：「觖猶冀也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a58",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p8",
-    "annotator": "索隱",
-    "text": "觖望猶怨望也。又音企。韋昭音冀。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a59",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p9",
-    "annotator": "集解",
-    "text": "晉灼曰：「使陳豨久亡畔。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a60",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p12",
-    "annotator": "正義",
-    "text": "他，徒何反。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a61",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p12",
-    "annotator": "集解",
-    "text": "如淳曰：「爲東胡王來降也。漢紀東胡，烏丸也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a62",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p12",
-    "annotator": "集解",
-    "text": "徐廣曰：「亞，一作『惡』。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a63",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p12",
-    "annotator": "正義",
-    "text": "漢表在河內。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a64",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p13",
-    "annotator": "索隱",
-    "text": "地理志屬濟陰。下又云「梁人」，是褚先生之說異也。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a65",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p13",
-    "annotator": "正義",
-    "text": "宛朐，曹州縣也。太史公云「陳豨，梁人」。按：宛朐，六國時屬梁。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a66",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p13",
-    "annotator": "集解",
-    "text": "徐廣曰：「功臣表曰陳豨以特將將卒五百人，前元年從起宛朐，至霸上，爲侯，以游擊將軍別定代，已破臧荼，封豨爲陽夏侯。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a67",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p14",
-    "annotator": "正義",
-    "text": "言屈己禮之，不用富貴自尊大。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a68",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p14",
-    "annotator": "正義",
-    "text": "二人韓王信將。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a69",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p15",
-    "annotator": "集解",
-    "text": "魏武帝奏事曰：「今邊有小警，輙露檄插羽，飛羽檄之意也。」駰案：推其言，則以鳥羽插檄書，謂之羽檄，取其急速若飛鳥也。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a70",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p16",
-    "annotator": "正義",
-    "text": "定州北平縣東南十五里蒲陰故城是也。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a71",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p16",
-    "annotator": "正義",
-    "text": "博州縣。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a72",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p17",
-    "annotator": "集解",
-    "text": "徐廣曰：「十一年正月。」"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a73",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p17",
-    "annotator": "正義",
-    "text": "中都故城在汾州平遙縣西南十二里。"
-  },
-  {
-    "id": "anno:shiji:shiji-韓信盧綰列傳第三十三:a74",
-    "book": "shiji",
-    "chapter_id": "shiji-韓信盧綰列傳第三十三",
-    "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p18",
-    "annotator": "正義",
-    "text": "蔚州是。"
-  }
-]
+{
+  "book": "shiji",
+  "chapter_id": "shiji-韓信盧綰列傳第三十三",
+  "annotations": [
+    {
+      "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p0",
+      "positions": [
+        {
+          "start": 0,
+          "end": 3,
+          "type": "person",
+          "name": "韩王信",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p0"
+        },
+        {
+          "start": 12,
+          "end": 15,
+          "type": "person",
+          "name": "韩襄王",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p0"
+        },
+        {
+          "start": 32,
+          "end": 34,
+          "type": "person",
+          "name": "项梁",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p0"
+        },
+        {
+          "start": 88,
+          "end": 90,
+          "type": "person",
+          "name": "项梁",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p0"
+        },
+        {
+          "start": 100,
+          "end": 102,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p0"
+        },
+        {
+          "start": 112,
+          "end": 114,
+          "type": "person",
+          "name": "张良",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p0"
+        },
+        {
+          "start": 139,
+          "end": 141,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p0"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p1",
+      "positions": [
+        {
+          "start": 0,
+          "end": 2,
+          "type": "person",
+          "name": "刘邦",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p1"
+        },
+        {
+          "start": 7,
+          "end": 9,
+          "type": "person",
+          "name": "韩信(韩王信)",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p1"
+        },
+        {
+          "start": 11,
+          "end": 13,
+          "type": "place",
+          "name": "汉中",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p1"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p2",
+      "positions": [
+        {
+          "start": 40,
+          "end": 42,
+          "type": "person",
+          "name": "韩信(韩王信)",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p2"
+        },
+        {
+          "start": 56,
+          "end": 58,
+          "type": "person",
+          "name": "郑昌",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p2"
+        },
+        {
+          "start": 72,
+          "end": 74,
+          "type": "person",
+          "name": "韩信(韩王信)",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p2"
+        },
+        {
+          "start": 87,
+          "end": 89,
+          "type": "person",
+          "name": "韩信(韩王信)",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p2"
+        },
+        {
+          "start": 104,
+          "end": 106,
+          "type": "person",
+          "name": "韩信(韩王信)",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p2"
+        },
+        {
+          "start": 128,
+          "end": 131,
+          "type": "person",
+          "name": "韩王信",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p2"
+        },
+        {
+          "start": 132,
+          "end": 134,
+          "type": "person",
+          "name": "周苛",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p2"
+        },
+        {
+          "start": 190,
+          "end": 192,
+          "type": "place",
+          "name": "颍川",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p2"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p3",
+      "positions": [
+        {
+          "start": 9,
+          "end": 11,
+          "type": "person",
+          "name": "韩信(韩王信)",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p3"
+        },
+        {
+          "start": 43,
+          "end": 46,
+          "type": "person",
+          "name": "韩王信",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p3"
+        },
+        {
+          "start": 47,
+          "end": 49,
+          "type": "place",
+          "name": "太原",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p3"
+        },
+        {
+          "start": 54,
+          "end": 55,
+          "type": "place",
+          "name": "胡",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p3"
+        },
+        {
+          "start": 57,
+          "end": 59,
+          "type": "place",
+          "name": "晋阳",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p3"
+        },
+        {
+          "start": 73,
+          "end": 75,
+          "type": "place",
+          "name": "匈奴",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p3"
+        },
+        {
+          "start": 78,
+          "end": 80,
+          "type": "place",
+          "name": "晋阳",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p3"
+        },
+        {
+          "start": 89,
+          "end": 91,
+          "type": "place",
+          "name": "马邑",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p3"
+        },
+        {
+          "start": 104,
+          "end": 106,
+          "type": "place",
+          "name": "马邑",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p3"
+        },
+        {
+          "start": 109,
+          "end": 111,
+          "type": "place",
+          "name": "匈奴",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p3"
+        },
+        {
+          "start": 111,
+          "end": 113,
+          "type": "person",
+          "name": "冒顿单于",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p3"
+        },
+        {
+          "start": 124,
+          "end": 125,
+          "type": "place",
+          "name": "胡",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p3"
+        },
+        {
+          "start": 157,
+          "end": 159,
+          "type": "place",
+          "name": "匈奴",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p3"
+        },
+        {
+          "start": 167,
+          "end": 169,
+          "type": "place",
+          "name": "马邑",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p3"
+        },
+        {
+          "start": 170,
+          "end": 171,
+          "type": "place",
+          "name": "胡",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p3"
+        },
+        {
+          "start": 173,
+          "end": 175,
+          "type": "place",
+          "name": "太原",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p3"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p4",
+      "positions": [
+        {
+          "start": 12,
+          "end": 14,
+          "type": "place",
+          "name": "铜鞮",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 27,
+          "end": 29,
+          "type": "place",
+          "name": "匈奴",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 39,
+          "end": 42,
+          "type": "person",
+          "name": "曼丘臣",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 43,
+          "end": 45,
+          "type": "person",
+          "name": "王黄",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 66,
+          "end": 68,
+          "type": "person",
+          "name": "冒顿单于",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 72,
+          "end": 74,
+          "type": "place",
+          "name": "匈奴",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 84,
+          "end": 86,
+          "type": "person",
+          "name": "王黄",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 88,
+          "end": 90,
+          "type": "place",
+          "name": "广武",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 97,
+          "end": 99,
+          "type": "place",
+          "name": "晋阳",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 113,
+          "end": 115,
+          "type": "place",
+          "name": "离石",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 124,
+          "end": 126,
+          "type": "place",
+          "name": "匈奴",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 129,
+          "end": 131,
+          "type": "place",
+          "name": "楼烦",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 143,
+          "end": 145,
+          "type": "place",
+          "name": "匈奴",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 146,
+          "end": 148,
+          "type": "place",
+          "name": "匈奴",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 159,
+          "end": 161,
+          "type": "person",
+          "name": "冒顿单于",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 173,
+          "end": 175,
+          "type": "place",
+          "name": "晋阳",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 179,
+          "end": 181,
+          "type": "person",
+          "name": "冒顿单于",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 193,
+          "end": 195,
+          "type": "place",
+          "name": "平城",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 201,
+          "end": 203,
+          "type": "place",
+          "name": "白登",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 210,
+          "end": 212,
+          "type": "place",
+          "name": "匈奴",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 232,
+          "end": 234,
+          "type": "person",
+          "name": "冒顿单于",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 259,
+          "end": 260,
+          "type": "place",
+          "name": "胡",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 276,
+          "end": 277,
+          "type": "place",
+          "name": "胡",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 284,
+          "end": 286,
+          "type": "person",
+          "name": "陈平",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 291,
+          "end": 292,
+          "type": "place",
+          "name": "胡",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 321,
+          "end": 323,
+          "type": "place",
+          "name": "平城",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 330,
+          "end": 331,
+          "type": "place",
+          "name": "胡",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 342,
+          "end": 344,
+          "type": "person",
+          "name": "韩信(韩王信)",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        },
+        {
+          "start": 345,
+          "end": 347,
+          "type": "place",
+          "name": "匈奴",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p4"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p5",
+      "positions": [
+        {
+          "start": 6,
+          "end": 8,
+          "type": "person",
+          "name": "王黄",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p5"
+        },
+        {
+          "start": 11,
+          "end": 13,
+          "type": "person",
+          "name": "陈豨",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p5"
+        },
+        {
+          "start": 20,
+          "end": 23,
+          "type": "person",
+          "name": "韩王信",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p5"
+        },
+        {
+          "start": 25,
+          "end": 26,
+          "type": "place",
+          "name": "胡",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p5"
+        },
+        {
+          "start": 29,
+          "end": 31,
+          "type": "place",
+          "name": "参合",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p5"
+        },
+        {
+          "start": 98,
+          "end": 99,
+          "type": "place",
+          "name": "胡",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p5"
+        },
+        {
+          "start": 110,
+          "end": 113,
+          "type": "person",
+          "name": "韩王信",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p5"
+        },
+        {
+          "start": 159,
+          "end": 161,
+          "type": "place",
+          "name": "马邑",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p5"
+        },
+        {
+          "start": 268,
+          "end": 273,
+          "type": "concept",
+          "name": "痿人不忘起",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p5"
+        },
+        {
+          "start": 277,
+          "end": 282,
+          "type": "concept",
+          "name": "盲者不忘視",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p5"
+        },
+        {
+          "start": 297,
+          "end": 299,
+          "type": "place",
+          "name": "参合",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p5"
+        },
+        {
+          "start": 301,
+          "end": 304,
+          "type": "person",
+          "name": "韩王信",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p5"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p6",
+      "positions": [
+        {
+          "start": 3,
+          "end": 5,
+          "type": "place",
+          "name": "匈奴",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p6"
+        },
+        {
+          "start": 127,
+          "end": 129,
+          "type": "person",
+          "name": "韩嫣",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p6"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p7",
+      "positions": [
+        {
+          "start": 0,
+          "end": 2,
+          "type": "person",
+          "name": "卢绾",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p7"
+        },
+        {
+          "start": 4,
+          "end": 5,
+          "type": "place",
+          "name": "丰邑",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p7"
+        },
+        {
+          "start": 14,
+          "end": 16,
+          "type": "person",
+          "name": "卢绾",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p7"
+        },
+        {
+          "start": 20,
+          "end": 23,
+          "type": "person",
+          "name": "太上皇",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p7"
+        },
+        {
+          "start": 36,
+          "end": 38,
+          "type": "person",
+          "name": "卢绾",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p7"
+        },
+        {
+          "start": 55,
+          "end": 57,
+          "type": "person",
+          "name": "卢绾",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p7"
+        },
+        {
+          "start": 107,
+          "end": 109,
+          "type": "person",
+          "name": "卢绾",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p7"
+        },
+        {
+          "start": 123,
+          "end": 125,
+          "type": "person",
+          "name": "卢绾",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p7"
+        },
+        {
+          "start": 130,
+          "end": 132,
+          "type": "place",
+          "name": "汉中",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p7"
+        },
+        {
+          "start": 188,
+          "end": 190,
+          "type": "person",
+          "name": "卢绾",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p7"
+        },
+        {
+          "start": 194,
+          "end": 196,
+          "type": "place",
+          "name": "长安",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p7"
+        },
+        {
+          "start": 198,
+          "end": 200,
+          "type": "place",
+          "name": "长安",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p7"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p8",
+      "positions": [
+        {
+          "start": 12,
+          "end": 14,
+          "type": "person",
+          "name": "卢绾",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p8"
+        },
+        {
+          "start": 18,
+          "end": 20,
+          "type": "person",
+          "name": "刘贾",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p8"
+        },
+        {
+          "start": 24,
+          "end": 26,
+          "type": "person",
+          "name": "共尉",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p8"
+        },
+        {
+          "start": 41,
+          "end": 43,
+          "type": "person",
+          "name": "臧荼",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p8"
+        },
+        {
+          "start": 44,
+          "end": 46,
+          "type": "person",
+          "name": "臧荼",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p8"
+        },
+        {
+          "start": 68,
+          "end": 70,
+          "type": "person",
+          "name": "卢绾",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p8"
+        },
+        {
+          "start": 85,
+          "end": 87,
+          "type": "person",
+          "name": "臧荼",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p8"
+        },
+        {
+          "start": 114,
+          "end": 116,
+          "type": "person",
+          "name": "卢绾",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p8"
+        },
+        {
+          "start": 124,
+          "end": 126,
+          "type": "place",
+          "name": "长安",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p8"
+        },
+        {
+          "start": 127,
+          "end": 129,
+          "type": "person",
+          "name": "卢绾",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p8"
+        },
+        {
+          "start": 157,
+          "end": 159,
+          "type": "person",
+          "name": "卢绾",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p8"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p9",
+      "positions": [
+        {
+          "start": 6,
+          "end": 8,
+          "type": "person",
+          "name": "陈豨",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p9"
+        },
+        {
+          "start": 15,
+          "end": 17,
+          "type": "place",
+          "name": "邯郸",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p9"
+        },
+        {
+          "start": 34,
+          "end": 36,
+          "type": "person",
+          "name": "陈豨",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p9"
+        },
+        {
+          "start": 37,
+          "end": 39,
+          "type": "person",
+          "name": "王黄",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p9"
+        },
+        {
+          "start": 41,
+          "end": 43,
+          "type": "place",
+          "name": "匈奴",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p9"
+        },
+        {
+          "start": 51,
+          "end": 53,
+          "type": "person",
+          "name": "张胜",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p9"
+        },
+        {
+          "start": 54,
+          "end": 56,
+          "type": "place",
+          "name": "匈奴",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p9"
+        },
+        {
+          "start": 63,
+          "end": 65,
+          "type": "person",
+          "name": "张胜",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p9"
+        },
+        {
+          "start": 66,
+          "end": 67,
+          "type": "place",
+          "name": "胡",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p9"
+        },
+        {
+          "start": 78,
+          "end": 79,
+          "type": "place",
+          "name": "胡",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p9"
+        },
+        {
+          "start": 81,
+          "end": 83,
+          "type": "person",
+          "name": "张胜",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p9"
+        },
+        {
+          "start": 96,
+          "end": 97,
+          "type": "place",
+          "name": "胡",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p9"
+        },
+        {
+          "start": 152,
+          "end": 154,
+          "type": "person",
+          "name": "陈豨",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p9"
+        },
+        {
+          "start": 156,
+          "end": 157,
+          "type": "place",
+          "name": "胡",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p9"
+        },
+        {
+          "start": 178,
+          "end": 180,
+          "type": "person",
+          "name": "张胜",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p9"
+        },
+        {
+          "start": 187,
+          "end": 189,
+          "type": "place",
+          "name": "匈奴",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p9"
+        },
+        {
+          "start": 199,
+          "end": 201,
+          "type": "person",
+          "name": "张胜",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p9"
+        },
+        {
+          "start": 202,
+          "end": 203,
+          "type": "place",
+          "name": "胡",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p9"
+        },
+        {
+          "start": 209,
+          "end": 211,
+          "type": "person",
+          "name": "张胜",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p9"
+        },
+        {
+          "start": 240,
+          "end": 242,
+          "type": "place",
+          "name": "匈奴",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p9"
+        },
+        {
+          "start": 247,
+          "end": 249,
+          "type": "person",
+          "name": "范齐",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p9"
+        },
+        {
+          "start": 250,
+          "end": 252,
+          "type": "person",
+          "name": "陈豨",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p9"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p10",
+      "positions": [
+        {
+          "start": 19,
+          "end": 21,
+          "type": "person",
+          "name": "樊哙",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p10"
+        },
+        {
+          "start": 35,
+          "end": 37,
+          "type": "person",
+          "name": "范齐",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p10"
+        },
+        {
+          "start": 49,
+          "end": 51,
+          "type": "person",
+          "name": "卢绾",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p10"
+        },
+        {
+          "start": 62,
+          "end": 65,
+          "type": "person",
+          "name": "审食其",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p10"
+        },
+        {
+          "start": 70,
+          "end": 72,
+          "type": "person",
+          "name": "赵尧",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p10"
+        },
+        {
+          "start": 194,
+          "end": 196,
+          "type": "place",
+          "name": "匈奴",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p10"
+        },
+        {
+          "start": 202,
+          "end": 204,
+          "type": "person",
+          "name": "张胜",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p10"
+        },
+        {
+          "start": 206,
+          "end": 208,
+          "type": "place",
+          "name": "匈奴",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p10"
+        },
+        {
+          "start": 219,
+          "end": 221,
+          "type": "person",
+          "name": "卢绾",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p10"
+        },
+        {
+          "start": 227,
+          "end": 229,
+          "type": "person",
+          "name": "樊哙",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p10"
+        },
+        {
+          "start": 269,
+          "end": 271,
+          "type": "person",
+          "name": "卢绾",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p10"
+        },
+        {
+          "start": 277,
+          "end": 279,
+          "type": "place",
+          "name": "匈奴",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p10"
+        },
+        {
+          "start": 280,
+          "end": 282,
+          "type": "place",
+          "name": "匈奴",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p10"
+        },
+        {
+          "start": 285,
+          "end": 286,
+          "type": "place",
+          "name": "胡",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p10"
+        },
+        {
+          "start": 307,
+          "end": 308,
+          "type": "place",
+          "name": "胡",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p10"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p11",
+      "positions": [
+        {
+          "start": 4,
+          "end": 6,
+          "type": "person",
+          "name": "卢绾",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p11"
+        },
+        {
+          "start": 41,
+          "end": 43,
+          "type": "person",
+          "name": "卢绾",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p11"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p12",
+      "positions": [
+        {
+          "start": 6,
+          "end": 8,
+          "type": "person",
+          "name": "卢绾",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p12"
+        },
+        {
+          "start": 17,
+          "end": 18,
+          "type": "place",
+          "name": "胡",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p12"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p13",
+      "positions": [
+        {
+          "start": 0,
+          "end": 2,
+          "type": "person",
+          "name": "陈豨",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p13"
+        },
+        {
+          "start": 4,
+          "end": 6,
+          "type": "place",
+          "name": "宛朐",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p13"
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "type": "person",
+          "name": "韩王信",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p13"
+        },
+        {
+          "start": 36,
+          "end": 38,
+          "type": "place",
+          "name": "匈奴",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p13"
+        },
+        {
+          "start": 41,
+          "end": 43,
+          "type": "place",
+          "name": "平城",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p13"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p14",
+      "positions": [
+        {
+          "start": 9,
+          "end": 11,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p14"
+        },
+        {
+          "start": 22,
+          "end": 24,
+          "type": "place",
+          "name": "邯郸",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p14"
+        },
+        {
+          "start": 53,
+          "end": 55,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p14"
+        },
+        {
+          "start": 113,
+          "end": 115,
+          "type": "person",
+          "name": "王黄",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p14"
+        },
+        {
+          "start": 116,
+          "end": 119,
+          "type": "person",
+          "name": "曼丘臣",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p14"
+        },
+        {
+          "start": 132,
+          "end": 135,
+          "type": "person",
+          "name": "太上皇",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p14"
+        },
+        {
+          "start": 152,
+          "end": 154,
+          "type": "person",
+          "name": "王黄",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p14"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p15",
+      "positions": [
+        {
+          "start": 28,
+          "end": 30,
+          "type": "place",
+          "name": "邯郸",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p15"
+        },
+        {
+          "start": 44,
+          "end": 46,
+          "type": "place",
+          "name": "邯郸",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p15"
+        },
+        {
+          "start": 130,
+          "end": 132,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p15"
+        },
+        {
+          "start": 227,
+          "end": 229,
+          "type": "person",
+          "name": "陈豨",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p15"
+        },
+        {
+          "start": 231,
+          "end": 233,
+          "type": "place",
+          "name": "邯郸",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p15"
+        },
+        {
+          "start": 259,
+          "end": 261,
+          "type": "place",
+          "name": "邯郸",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p15"
+        },
+        {
+          "start": 266,
+          "end": 267,
+          "type": "place",
+          "name": "胡",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p15"
+        },
+        {
+          "start": 294,
+          "end": 296,
+          "type": "person",
+          "name": "陈豨",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p15"
+        },
+        {
+          "start": 303,
+          "end": 305,
+          "type": "person",
+          "name": "王黄",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p15"
+        },
+        {
+          "start": 306,
+          "end": 309,
+          "type": "person",
+          "name": "曼丘臣",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p15"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p16",
+      "positions": [
+        {
+          "start": 9,
+          "end": 11,
+          "type": "person",
+          "name": "陈豨",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p16"
+        },
+        {
+          "start": 12,
+          "end": 14,
+          "type": "person",
+          "name": "侯敞",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p16"
+        },
+        {
+          "start": 15,
+          "end": 17,
+          "type": "person",
+          "name": "王黄",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p16"
+        },
+        {
+          "start": 18,
+          "end": 20,
+          "type": "place",
+          "name": "曲逆",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p16"
+        },
+        {
+          "start": 28,
+          "end": 30,
+          "type": "person",
+          "name": "张春",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p16"
+        },
+        {
+          "start": 31,
+          "end": 33,
+          "type": "place",
+          "name": "聊城",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p16"
+        },
+        {
+          "start": 47,
+          "end": 49,
+          "type": "place",
+          "name": "太原",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p16"
+        },
+        {
+          "start": 60,
+          "end": 62,
+          "type": "place",
+          "name": "东垣",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p16"
+        },
+        {
+          "start": 63,
+          "end": 65,
+          "type": "place",
+          "name": "东垣",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p16"
+        },
+        {
+          "start": 72,
+          "end": 74,
+          "type": "place",
+          "name": "东垣",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p16"
+        },
+        {
+          "start": 90,
+          "end": 92,
+          "type": "place",
+          "name": "东垣",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p16"
+        },
+        {
+          "start": 93,
+          "end": 95,
+          "type": "place",
+          "name": "真定",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p16"
+        },
+        {
+          "start": 96,
+          "end": 98,
+          "type": "person",
+          "name": "王黄",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p16"
+        },
+        {
+          "start": 99,
+          "end": 102,
+          "type": "person",
+          "name": "曼丘臣",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p16"
+        },
+        {
+          "start": 116,
+          "end": 118,
+          "type": "person",
+          "name": "陈豨",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p16"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p17",
+      "positions": []
+    },
+    {
+      "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p18",
+      "positions": [
+        {
+          "start": 7,
+          "end": 9,
+          "type": "person",
+          "name": "樊哙",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p18"
+        },
+        {
+          "start": 15,
+          "end": 17,
+          "type": "place",
+          "name": "灵丘",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p18"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p19",
+      "positions": [
+        {
+          "start": 5,
+          "end": 7,
+          "type": "person",
+          "name": "韩信(韩王信)",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p19"
+        },
+        {
+          "start": 8,
+          "end": 10,
+          "type": "person",
+          "name": "卢绾",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p19"
+        },
+        {
+          "start": 74,
+          "end": 76,
+          "type": "place",
+          "name": "匈奴",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p19"
+        },
+        {
+          "start": 82,
+          "end": 84,
+          "type": "person",
+          "name": "陈豨",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p19"
+        },
+        {
+          "start": 117,
+          "end": 119,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p19"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-韓信盧綰列傳第三十三:p20",
+      "positions": [
+        {
+          "start": 13,
+          "end": 15,
+          "type": "place",
+          "name": "汉中",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p20"
+        },
+        {
+          "start": 36,
+          "end": 38,
+          "type": "person",
+          "name": "卢绾",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p20"
+        },
+        {
+          "start": 52,
+          "end": 53,
+          "type": "place",
+          "name": "胡",
+          "evidence": "text:shiji:text:shiji:shiji-韓信盧綰列傳第三十三:p20"
+        }
+      ]
+    }
+  ]
+}
