@@ -1,0 +1,2692 @@
+{
+  "book": "shiji",
+  "chapter_id": "shiji-扁鵲倉公列傳第四十五",
+  "chapter_title": "扁鹊仓公列传第四十五",
+  "version": "定稿",
+  "generated_at": "2026-11-01",
+  "annotations": [
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p0",
+      "mentions": [
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 55,
+          "end": 58,
+          "surface": "淳于意"
+        },
+        {
+          "entity_id": "p21",
+          "entity_type": "persons",
+          "start": 59,
+          "end": 61,
+          "surface": "文帝"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 85,
+          "end": 87,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 105,
+          "end": 108,
+          "surface": "太倉公"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p1",
+      "mentions": [
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 0,
+          "end": 2,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "pl1",
+          "entity_type": "places",
+          "start": 4,
+          "end": 7,
+          "surface": "勃海郡"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 16,
+          "end": 18,
+          "surface": "越人"
+        },
+        {
+          "entity_id": "p2",
+          "entity_type": "persons",
+          "start": 28,
+          "end": 31,
+          "surface": "長桑君"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 33,
+          "end": 35,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p2",
+          "entity_type": "persons",
+          "start": 44,
+          "end": 47,
+          "surface": "長桑君"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 49,
+          "end": 51,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 64,
+          "end": 66,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "c1",
+          "entity_type": "concepts",
+          "start": 77,
+          "end": 79,
+          "surface": "禁方"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 93,
+          "end": 95,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 109,
+          "end": 111,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "c10",
+          "entity_type": "concepts",
+          "start": 116,
+          "end": 120,
+          "surface": "上池之水"
+        },
+        {
+          "entity_id": "c1",
+          "entity_type": "concepts",
+          "start": 134,
+          "end": 136,
+          "surface": "禁方"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 139,
+          "end": 141,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 152,
+          "end": 154,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 204,
+          "end": 206,
+          "surface": "扁鵲"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p2",
+      "mentions": [
+        {
+          "entity_id": "p8",
+          "entity_type": "persons",
+          "start": 1,
+          "end": 4,
+          "surface": "晉昭公"
+        },
+        {
+          "entity_id": "p3",
+          "entity_type": "persons",
+          "start": 15,
+          "end": 18,
+          "surface": "趙簡子"
+        },
+        {
+          "entity_id": "p3",
+          "entity_type": "persons",
+          "start": 26,
+          "end": 28,
+          "surface": "簡子"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 44,
+          "end": 46,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 47,
+          "end": 49,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 59,
+          "end": 61,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 62,
+          "end": 64,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p5",
+          "entity_type": "persons",
+          "start": 77,
+          "end": 80,
+          "surface": "秦穆公"
+        },
+        {
+          "entity_id": "p6",
+          "entity_type": "persons",
+          "start": 94,
+          "end": 97,
+          "surface": "公孫支"
+        },
+        {
+          "entity_id": "p7",
+          "entity_type": "persons",
+          "start": 98,
+          "end": 100,
+          "surface": "子輿"
+        },
+        {
+          "entity_id": "p6",
+          "entity_type": "persons",
+          "start": 163,
+          "end": 166,
+          "surface": "公孫支"
+        },
+        {
+          "entity_id": "p3",
+          "entity_type": "persons",
+          "start": 208,
+          "end": 210,
+          "surface": "主君"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p3",
+      "mentions": [
+        {
+          "entity_id": "p3",
+          "entity_type": "persons",
+          "start": 5,
+          "end": 7,
+          "surface": "簡子"
+        },
+        {
+          "entity_id": "pl30",
+          "entity_type": "places",
+          "start": 28,
+          "end": 30,
+          "surface": "鈞天"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 175,
+          "end": 177,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p3",
+          "entity_type": "persons",
+          "start": 179,
+          "end": 181,
+          "surface": "簡子"
+        },
+        {
+          "entity_id": "p3",
+          "entity_type": "persons",
+          "start": 182,
+          "end": 184,
+          "surface": "簡子"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 185,
+          "end": 187,
+          "surface": "扁鵲"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p4",
+      "mentions": [
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 2,
+          "end": 4,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p9",
+          "entity_type": "persons",
+          "start": 7,
+          "end": 10,
+          "surface": "虢太子"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 12,
+          "end": 14,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p10",
+          "entity_type": "persons",
+          "start": 21,
+          "end": 24,
+          "surface": "中庶子"
+        },
+        {
+          "entity_id": "p9",
+          "entity_type": "persons",
+          "start": 30,
+          "end": 32,
+          "surface": "太子"
+        },
+        {
+          "entity_id": "p10",
+          "entity_type": "persons",
+          "start": 45,
+          "end": 48,
+          "surface": "中庶子"
+        },
+        {
+          "entity_id": "p9",
+          "entity_type": "persons",
+          "start": 51,
+          "end": 53,
+          "surface": "太子"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 108,
+          "end": 110,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 157,
+          "end": 160,
+          "surface": "秦越人"
+        },
+        {
+          "entity_id": "p9",
+          "entity_type": "persons",
+          "start": 180,
+          "end": 182,
+          "surface": "太子"
+        },
+        {
+          "entity_id": "p10",
+          "entity_type": "persons",
+          "start": 193,
+          "end": 196,
+          "surface": "中庶子"
+        },
+        {
+          "entity_id": "p9",
+          "entity_type": "persons",
+          "start": 210,
+          "end": 212,
+          "surface": "太子"
+        },
+        {
+          "entity_id": "p14",
+          "entity_type": "persons",
+          "start": 225,
+          "end": 227,
+          "surface": "俞跗"
+        },
+        {
+          "entity_id": "p9",
+          "entity_type": "persons",
+          "start": 304,
+          "end": 306,
+          "surface": "太子"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 333,
+          "end": 335,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 359,
+          "end": 361,
+          "surface": "越人"
+        },
+        {
+          "entity_id": "p9",
+          "entity_type": "persons",
+          "start": 437,
+          "end": 439,
+          "surface": "太子"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p5",
+      "mentions": [
+        {
+          "entity_id": "p10",
+          "entity_type": "persons",
+          "start": 0,
+          "end": 3,
+          "surface": "中庶子"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 4,
+          "end": 6,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 24,
+          "end": 26,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p11",
+          "entity_type": "persons",
+          "start": 29,
+          "end": 31,
+          "surface": "虢君"
+        },
+        {
+          "entity_id": "p11",
+          "entity_type": "persons",
+          "start": 32,
+          "end": 34,
+          "surface": "虢君"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 41,
+          "end": 43,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "pl29",
+          "entity_type": "places",
+          "start": 44,
+          "end": 46,
+          "surface": "中闕"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 147,
+          "end": 149,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p9",
+          "entity_type": "persons",
+          "start": 153,
+          "end": 155,
+          "surface": "太子"
+        },
+        {
+          "entity_id": "p9",
+          "entity_type": "persons",
+          "start": 266,
+          "end": 268,
+          "surface": "太子"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p6",
+      "mentions": [
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 0,
+          "end": 2,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p12",
+          "entity_type": "persons",
+          "start": 6,
+          "end": 8,
+          "surface": "子陽"
+        },
+        {
+          "entity_id": "p9",
+          "entity_type": "persons",
+          "start": 24,
+          "end": 26,
+          "surface": "太子"
+        },
+        {
+          "entity_id": "p13",
+          "entity_type": "persons",
+          "start": 30,
+          "end": 32,
+          "surface": "子豹"
+        },
+        {
+          "entity_id": "p9",
+          "entity_type": "persons",
+          "start": 54,
+          "end": 56,
+          "surface": "太子"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 78,
+          "end": 80,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 86,
+          "end": 88,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 91,
+          "end": 93,
+          "surface": "越人"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 106,
+          "end": 108,
+          "surface": "越人"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p7",
+      "mentions": [
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 0,
+          "end": 2,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p15",
+          "entity_type": "persons",
+          "start": 5,
+          "end": 8,
+          "surface": "齊桓侯"
+        },
+        {
+          "entity_id": "p15",
+          "entity_type": "persons",
+          "start": 31,
+          "end": 33,
+          "surface": "桓侯"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 42,
+          "end": 44,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p15",
+          "entity_type": "persons",
+          "start": 46,
+          "end": 48,
+          "surface": "桓侯"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 73,
+          "end": 75,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p15",
+          "entity_type": "persons",
+          "start": 94,
+          "end": 96,
+          "surface": "桓侯"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 105,
+          "end": 107,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p15",
+          "entity_type": "persons",
+          "start": 109,
+          "end": 111,
+          "surface": "桓侯"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 118,
+          "end": 120,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p15",
+          "entity_type": "persons",
+          "start": 140,
+          "end": 142,
+          "surface": "桓侯"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 145,
+          "end": 147,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p15",
+          "entity_type": "persons",
+          "start": 149,
+          "end": 151,
+          "surface": "桓侯"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 158,
+          "end": 160,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p15",
+          "entity_type": "persons",
+          "start": 165,
+          "end": 167,
+          "surface": "桓侯"
+        },
+        {
+          "entity_id": "p15",
+          "entity_type": "persons",
+          "start": 171,
+          "end": 173,
+          "surface": "桓侯"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 179,
+          "end": 181,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p15",
+          "entity_type": "persons",
+          "start": 251,
+          "end": 253,
+          "surface": "桓侯"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 259,
+          "end": 261,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 262,
+          "end": 264,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p15",
+          "entity_type": "persons",
+          "start": 268,
+          "end": 270,
+          "surface": "桓侯"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p8",
+      "mentions": [
+        {
+          "entity_id": "c6",
+          "entity_type": "concepts",
+          "start": 48,
+          "end": 51,
+          "surface": "六不治"
+        },
+        {
+          "entity_id": "c6",
+          "entity_type": "concepts",
+          "start": 117,
+          "end": 120,
+          "surface": "六不治"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p9",
+      "mentions": [
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 0,
+          "end": 2,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "pl10",
+          "entity_type": "places",
+          "start": 8,
+          "end": 10,
+          "surface": "邯鄲"
+        },
+        {
+          "entity_id": "c13",
+          "entity_type": "concepts",
+          "start": 18,
+          "end": 21,
+          "surface": "帶下醫"
+        },
+        {
+          "entity_id": "pl11",
+          "entity_type": "places",
+          "start": 23,
+          "end": 25,
+          "surface": "雒陽"
+        },
+        {
+          "entity_id": "pl12",
+          "entity_type": "places",
+          "start": 42,
+          "end": 44,
+          "surface": "咸陽"
+        },
+        {
+          "entity_id": "p16",
+          "entity_type": "persons",
+          "start": 67,
+          "end": 69,
+          "surface": "李醯"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 74,
+          "end": 76,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 93,
+          "end": 95,
+          "surface": "扁鵲"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p10",
+      "mentions": [
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 0,
+          "end": 3,
+          "surface": "太倉公"
+        },
+        {
+          "entity_id": "pl14",
+          "entity_type": "places",
+          "start": 10,
+          "end": 12,
+          "surface": "臨菑"
+        },
+        {
+          "entity_id": "p18",
+          "entity_type": "persons",
+          "start": 44,
+          "end": 46,
+          "surface": "陽慶"
+        },
+        {
+          "entity_id": "c1",
+          "entity_type": "concepts",
+          "start": 67,
+          "end": 69,
+          "surface": "禁方"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 76,
+          "end": 78,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "c3",
+          "entity_type": "concepts",
+          "start": 82,
+          "end": 86,
+          "surface": "五色診病"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p11",
+      "mentions": [
+        {
+          "entity_id": "p21",
+          "entity_type": "persons",
+          "start": 0,
+          "end": 2,
+          "surface": "文帝"
+        },
+        {
+          "entity_id": "pl13",
+          "entity_type": "places",
+          "start": 19,
+          "end": 21,
+          "surface": "長安"
+        },
+        {
+          "entity_id": "p20",
+          "entity_type": "persons",
+          "start": 56,
+          "end": 58,
+          "surface": "緹縈"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p12",
+      "mentions": []
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p13",
+      "mentions": [
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 6,
+          "end": 8,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 71,
+          "end": 73,
+          "surface": "臣意"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p14",
+      "mentions": [
+        {
+          "entity_id": "pl14",
+          "entity_type": "places",
+          "start": 28,
+          "end": 30,
+          "surface": "臨菑"
+        },
+        {
+          "entity_id": "p18",
+          "entity_type": "persons",
+          "start": 34,
+          "end": 36,
+          "surface": "陽慶"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 74,
+          "end": 76,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "c3",
+          "entity_type": "concepts",
+          "start": 80,
+          "end": 84,
+          "surface": "五色診病"
+        },
+        {
+          "entity_id": "c1",
+          "entity_type": "concepts",
+          "start": 119,
+          "end": 121,
+          "surface": "禁方"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 127,
+          "end": 129,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 145,
+          "end": 147,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "c11",
+          "entity_type": "concepts",
+          "start": 166,
+          "end": 169,
+          "surface": "奇咳術"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 249,
+          "end": 251,
+          "surface": "臣意"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p15",
+      "mentions": [
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 11,
+          "end": 13,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 95,
+          "end": 97,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "c7",
+          "entity_type": "concepts",
+          "start": 112,
+          "end": 114,
+          "surface": "內關"
+        },
+        {
+          "entity_id": "c2",
+          "entity_type": "concepts",
+          "start": 118,
+          "end": 120,
+          "surface": "脈法"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p16",
+      "mentions": [
+        {
+          "entity_id": "p23",
+          "entity_type": "persons",
+          "start": 0,
+          "end": 2,
+          "surface": "齊王"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 12,
+          "end": 14,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 52,
+          "end": 54,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "c2",
+          "entity_type": "concepts",
+          "start": 110,
+          "end": 112,
+          "surface": "脈法"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p17",
+      "mentions": [
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 19,
+          "end": 21,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 54,
+          "end": 56,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "c8",
+          "entity_type": "concepts",
+          "start": 58,
+          "end": 61,
+          "surface": "火齊湯"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p18",
+      "mentions": [
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 8,
+          "end": 10,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "pl17",
+          "entity_type": "places",
+          "start": 77,
+          "end": 80,
+          "surface": "陽周水"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 148,
+          "end": 150,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "c2",
+          "entity_type": "concepts",
+          "start": 207,
+          "end": 209,
+          "surface": "脈法"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p19",
+      "mentions": [
+        {
+          "entity_id": "p27",
+          "entity_type": "persons",
+          "start": 0,
+          "end": 4,
+          "surface": "齊王太后"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 7,
+          "end": 9,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 31,
+          "end": 33,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "c8",
+          "entity_type": "concepts",
+          "start": 35,
+          "end": 38,
+          "surface": "火齊湯"
+        },
+        {
+          "entity_id": "p27",
+          "entity_type": "persons",
+          "start": 76,
+          "end": 80,
+          "surface": "齊王太后"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 83,
+          "end": 85,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "c2",
+          "entity_type": "concepts",
+          "start": 102,
+          "end": 104,
+          "surface": "脈法"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p20",
+      "mentions": [
+        {
+          "entity_id": "p30",
+          "entity_type": "persons",
+          "start": 4,
+          "end": 7,
+          "surface": "曹山跗"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 9,
+          "end": 11,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p30",
+          "entity_type": "persons",
+          "start": 81,
+          "end": 83,
+          "surface": "山跗"
+        },
+        {
+          "entity_id": "p30",
+          "entity_type": "persons",
+          "start": 96,
+          "end": 98,
+          "surface": "山跗"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 102,
+          "end": 104,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "c2",
+          "entity_type": "concepts",
+          "start": 113,
+          "end": 115,
+          "surface": "脈法"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 219,
+          "end": 221,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p30",
+          "entity_type": "persons",
+          "start": 231,
+          "end": 233,
+          "surface": "山跗"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p21",
+      "mentions": [
+        {
+          "entity_id": "p31",
+          "entity_type": "persons",
+          "start": 3,
+          "end": 6,
+          "surface": "潘滿如"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 11,
+          "end": 13,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 26,
+          "end": 28,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p31",
+          "entity_type": "persons",
+          "start": 79,
+          "end": 82,
+          "surface": "潘滿如"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 85,
+          "end": 87,
+          "surface": "臣意"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p22",
+      "mentions": [
+        {
+          "entity_id": "p23",
+          "entity_type": "persons",
+          "start": 0,
+          "end": 3,
+          "surface": "陽虛侯"
+        },
+        {
+          "entity_id": "p34",
+          "entity_type": "persons",
+          "start": 4,
+          "end": 6,
+          "surface": "趙章"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 9,
+          "end": 11,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 20,
+          "end": 22,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p34",
+          "entity_type": "persons",
+          "start": 69,
+          "end": 71,
+          "surface": "趙章"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 75,
+          "end": 77,
+          "surface": "臣意"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p23",
+      "mentions": [
+        {
+          "entity_id": "p35",
+          "entity_type": "persons",
+          "start": 0,
+          "end": 3,
+          "surface": "濟北王"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 6,
+          "end": 8,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p35",
+          "entity_type": "persons",
+          "start": 43,
+          "end": 46,
+          "surface": "濟北王"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 49,
+          "end": 51,
+          "surface": "臣意"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p24",
+      "mentions": [
+        {
+          "entity_id": "p36",
+          "entity_type": "persons",
+          "start": 7,
+          "end": 9,
+          "surface": "出於"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 32,
+          "end": 34,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p36",
+          "entity_type": "persons",
+          "start": 74,
+          "end": 76,
+          "surface": "出於"
+        },
+        {
+          "entity_id": "p36",
+          "entity_type": "persons",
+          "start": 92,
+          "end": 94,
+          "surface": "出於"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 160,
+          "end": 162,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "c8",
+          "entity_type": "concepts",
+          "start": 193,
+          "end": 196,
+          "surface": "火齊湯"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p25",
+      "mentions": [
+        {
+          "entity_id": "p55",
+          "entity_type": "persons",
+          "start": 1,
+          "end": 6,
+          "surface": "濟北王阿母"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 13,
+          "end": 15,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p35",
+          "entity_type": "persons",
+          "start": 51,
+          "end": 54,
+          "surface": "濟北王"
+        },
+        {
+          "entity_id": "p45",
+          "entity_type": "persons",
+          "start": 65,
+          "end": 68,
+          "surface": "女子豎"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 73,
+          "end": 75,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "pl28",
+          "entity_type": "places",
+          "start": 76,
+          "end": 78,
+          "surface": "永巷"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 98,
+          "end": 100,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p45",
+          "entity_type": "persons",
+          "start": 107,
+          "end": 110,
+          "surface": "女子豎"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 164,
+          "end": 166,
+          "surface": "臣意"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p26",
+      "mentions": [
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 8,
+          "end": 10,
+          "surface": "臣意"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p27",
+      "mentions": [
+        {
+          "entity_id": "p56",
+          "entity_type": "persons",
+          "start": 0,
+          "end": 3,
+          "surface": "菑川王"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 13,
+          "end": 15,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 16,
+          "end": 18,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 36,
+          "end": 38,
+          "surface": "臣意"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p28",
+      "mentions": [
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 11,
+          "end": 13,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 27,
+          "end": 29,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 41,
+          "end": 43,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 45,
+          "end": 47,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 148,
+          "end": 150,
+          "surface": "倉公"
+        },
+        {
+          "entity_id": "c2",
+          "entity_type": "concepts",
+          "start": 301,
+          "end": 303,
+          "surface": "脈法"
+        },
+        {
+          "entity_id": "c7",
+          "entity_type": "concepts",
+          "start": 313,
+          "end": 315,
+          "surface": "內關"
+        },
+        {
+          "entity_id": "c7",
+          "entity_type": "concepts",
+          "start": 317,
+          "end": 319,
+          "surface": "內關"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p29",
+      "mentions": [
+        {
+          "entity_id": "p56",
+          "entity_type": "persons",
+          "start": 0,
+          "end": 3,
+          "surface": "菑川王"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 6,
+          "end": 8,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 30,
+          "end": 32,
+          "surface": "臣意"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p30",
+      "mentions": [
+        {
+          "entity_id": "p23",
+          "entity_type": "persons",
+          "start": 0,
+          "end": 2,
+          "surface": "齊王"
+        },
+        {
+          "entity_id": "p24",
+          "entity_type": "persons",
+          "start": 2,
+          "end": 4,
+          "surface": "黃姬"
+        },
+        {
+          "entity_id": "p25",
+          "entity_type": "persons",
+          "start": 5,
+          "end": 8,
+          "surface": "黃長卿"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 15,
+          "end": 17,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 26,
+          "end": 28,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p26",
+          "entity_type": "persons",
+          "start": 33,
+          "end": 35,
+          "surface": "宋建"
+        },
+        {
+          "entity_id": "p26",
+          "entity_type": "persons",
+          "start": 102,
+          "end": 104,
+          "surface": "宋建"
+        },
+        {
+          "entity_id": "p25",
+          "entity_type": "persons",
+          "start": 124,
+          "end": 126,
+          "surface": "黃氏"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 188,
+          "end": 190,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 224,
+          "end": 226,
+          "surface": "臣意"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p31",
+      "mentions": [
+        {
+          "entity_id": "p35",
+          "entity_type": "persons",
+          "start": 0,
+          "end": 3,
+          "surface": "濟北王"
+        },
+        {
+          "entity_id": "p44",
+          "entity_type": "persons",
+          "start": 5,
+          "end": 7,
+          "surface": "韓女"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 24,
+          "end": 26,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p44",
+          "entity_type": "persons",
+          "start": 68,
+          "end": 70,
+          "surface": "韓女"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p32",
+      "mentions": [
+        {
+          "entity_id": "pl14",
+          "entity_type": "places",
+          "start": 0,
+          "end": 2,
+          "surface": "臨菑"
+        },
+        {
+          "entity_id": "p43",
+          "entity_type": "persons",
+          "start": 6,
+          "end": 8,
+          "surface": "薄吾"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 26,
+          "end": 28,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 58,
+          "end": 60,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 103,
+          "end": 105,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p43",
+          "entity_type": "persons",
+          "start": 109,
+          "end": 111,
+          "surface": "薄吾"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p33",
+      "mentions": [
+        {
+          "entity_id": "p39",
+          "entity_type": "persons",
+          "start": 1,
+          "end": 5,
+          "surface": "淳于司馬"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 7,
+          "end": 9,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p39",
+          "entity_type": "persons",
+          "start": 45,
+          "end": 49,
+          "surface": "淳于司馬"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 84,
+          "end": 86,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p38",
+          "entity_type": "persons",
+          "start": 108,
+          "end": 110,
+          "surface": "秦信"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 113,
+          "end": 115,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p39",
+          "entity_type": "persons",
+          "start": 129,
+          "end": 133,
+          "surface": "淳于司馬"
+        },
+        {
+          "entity_id": "p39",
+          "entity_type": "persons",
+          "start": 161,
+          "end": 165,
+          "surface": "淳于司馬"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 186,
+          "end": 188,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 189,
+          "end": 191,
+          "surface": "臣意"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p34",
+      "mentions": [
+        {
+          "entity_id": "p40",
+          "entity_type": "persons",
+          "start": 3,
+          "end": 5,
+          "surface": "破石"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 7,
+          "end": 9,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p40",
+          "entity_type": "persons",
+          "start": 45,
+          "end": 47,
+          "surface": "破石"
+        },
+        {
+          "entity_id": "p40",
+          "entity_type": "persons",
+          "start": 61,
+          "end": 63,
+          "surface": "破石"
+        },
+        {
+          "entity_id": "c2",
+          "entity_type": "concepts",
+          "start": 181,
+          "end": 183,
+          "surface": "脈法"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p35",
+      "mentions": [
+        {
+          "entity_id": "p23",
+          "entity_type": "persons",
+          "start": 0,
+          "end": 2,
+          "surface": "齊王"
+        },
+        {
+          "entity_id": "c9",
+          "entity_type": "concepts",
+          "start": 9,
+          "end": 11,
+          "surface": "五石"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 14,
+          "end": 16,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 37,
+          "end": 39,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "c9",
+          "entity_type": "concepts",
+          "start": 64,
+          "end": 66,
+          "surface": "五石"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 97,
+          "end": 99,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 154,
+          "end": 156,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 165,
+          "end": 167,
+          "surface": "扁鵲"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p36",
+      "mentions": [
+        {
+          "entity_id": "p23",
+          "entity_type": "persons",
+          "start": 0,
+          "end": 2,
+          "surface": "齊王"
+        },
+        {
+          "entity_id": "p23",
+          "entity_type": "persons",
+          "start": 4,
+          "end": 7,
+          "surface": "陽虛侯"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 19,
+          "end": 21,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 49,
+          "end": 51,
+          "surface": "臣意"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p37",
+      "mentions": [
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 0,
+          "end": 2,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p42",
+          "entity_type": "persons",
+          "start": 9,
+          "end": 12,
+          "surface": "成開方"
+        },
+        {
+          "entity_id": "p42",
+          "entity_type": "persons",
+          "start": 13,
+          "end": 15,
+          "surface": "開方"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 22,
+          "end": 24,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p42",
+          "entity_type": "persons",
+          "start": 78,
+          "end": 81,
+          "surface": "成開方"
+        },
+        {
+          "entity_id": "c2",
+          "entity_type": "concepts",
+          "start": 88,
+          "end": 90,
+          "surface": "脈法"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p38",
+      "mentions": [
+        {
+          "entity_id": "p41",
+          "entity_type": "persons",
+          "start": 6,
+          "end": 8,
+          "surface": "項處"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 10,
+          "end": 12,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 37,
+          "end": 39,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 78,
+          "end": 80,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p41",
+          "entity_type": "persons",
+          "start": 106,
+          "end": 108,
+          "surface": "項處"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p39",
+      "mentions": [
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 0,
+          "end": 2,
+          "surface": "臣意"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p40",
+      "mentions": [
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 1,
+          "end": 3,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "c2",
+          "entity_type": "concepts",
+          "start": 48,
+          "end": 50,
+          "surface": "脈法"
+        },
+        {
+          "entity_id": "c2",
+          "entity_type": "concepts",
+          "start": 114,
+          "end": 116,
+          "surface": "脈法"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 143,
+          "end": 145,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "c4",
+          "entity_type": "concepts",
+          "start": 151,
+          "end": 153,
+          "surface": "診籍"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 160,
+          "end": 162,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "c2",
+          "entity_type": "concepts",
+          "start": 191,
+          "end": 193,
+          "surface": "脈法"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p41",
+      "mentions": [
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 1,
+          "end": 3,
+          "surface": "臣意"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p42",
+      "mentions": [
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 1,
+          "end": 3,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p22",
+          "entity_type": "persons",
+          "start": 32,
+          "end": 34,
+          "surface": "文王"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 69,
+          "end": 71,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 72,
+          "end": 74,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p22",
+          "entity_type": "persons",
+          "start": 78,
+          "end": 80,
+          "surface": "文王"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 83,
+          "end": 85,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 100,
+          "end": 102,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p23",
+          "entity_type": "persons",
+          "start": 157,
+          "end": 160,
+          "surface": "陽虛侯"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 170,
+          "end": 172,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "pl13",
+          "entity_type": "places",
+          "start": 174,
+          "end": 176,
+          "surface": "長安"
+        },
+        {
+          "entity_id": "p41",
+          "entity_type": "persons",
+          "start": 183,
+          "end": 185,
+          "surface": "項處"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p43",
+      "mentions": [
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 1,
+          "end": 3,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p22",
+          "entity_type": "persons",
+          "start": 6,
+          "end": 8,
+          "surface": "文王"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 18,
+          "end": 20,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p22",
+          "entity_type": "persons",
+          "start": 26,
+          "end": 28,
+          "surface": "文王"
+        },
+        {
+          "entity_id": "p22",
+          "entity_type": "persons",
+          "start": 33,
+          "end": 35,
+          "surface": "文王"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 45,
+          "end": 47,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "c2",
+          "entity_type": "concepts",
+          "start": 84,
+          "end": 86,
+          "surface": "脈法"
+        },
+        {
+          "entity_id": "p22",
+          "entity_type": "persons",
+          "start": 128,
+          "end": 130,
+          "surface": "文王"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 168,
+          "end": 170,
+          "surface": "臣意"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p44",
+      "mentions": [
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 1,
+          "end": 3,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p18",
+          "entity_type": "persons",
+          "start": 5,
+          "end": 7,
+          "surface": "師慶"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 55,
+          "end": 57,
+          "surface": "臣意"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p45",
+      "mentions": [
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 1,
+          "end": 3,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p18",
+          "entity_type": "persons",
+          "start": 5,
+          "end": 7,
+          "surface": "師慶"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 26,
+          "end": 28,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p18",
+          "entity_type": "persons",
+          "start": 30,
+          "end": 32,
+          "surface": "師慶"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 52,
+          "end": 54,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 65,
+          "end": 67,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "pl25",
+          "entity_type": "places",
+          "start": 68,
+          "end": 70,
+          "surface": "菑川"
+        },
+        {
+          "entity_id": "p19",
+          "entity_type": "persons",
+          "start": 72,
+          "end": 75,
+          "surface": "公孫光"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 81,
+          "end": 83,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 103,
+          "end": 105,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 110,
+          "end": 112,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p19",
+          "entity_type": "persons",
+          "start": 119,
+          "end": 122,
+          "surface": "公孫光"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 167,
+          "end": 169,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "c1",
+          "entity_type": "concepts",
+          "start": 181,
+          "end": 183,
+          "surface": "禁方"
+        },
+        {
+          "entity_id": "p19",
+          "entity_type": "persons",
+          "start": 200,
+          "end": 203,
+          "surface": "公孫光"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 206,
+          "end": 208,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p19",
+          "entity_type": "persons",
+          "start": 221,
+          "end": 223,
+          "surface": "師光"
+        },
+        {
+          "entity_id": "pl14",
+          "entity_type": "places",
+          "start": 244,
+          "end": 246,
+          "surface": "臨菑"
+        },
+        {
+          "entity_id": "p18",
+          "entity_type": "persons",
+          "start": 278,
+          "end": 281,
+          "surface": "楊中倩"
+        },
+        {
+          "entity_id": "p19",
+          "entity_type": "persons",
+          "start": 334,
+          "end": 336,
+          "surface": "師光"
+        },
+        {
+          "entity_id": "p18",
+          "entity_type": "persons",
+          "start": 380,
+          "end": 382,
+          "surface": "楊慶"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 388,
+          "end": 390,
+          "surface": "臣意"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p46",
+      "mentions": [
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 1,
+          "end": 3,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "pl14",
+          "entity_type": "places",
+          "start": 33,
+          "end": 35,
+          "surface": "臨菑"
+        },
+        {
+          "entity_id": "p53",
+          "entity_type": "persons",
+          "start": 36,
+          "end": 38,
+          "surface": "宋邑"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 42,
+          "end": 44,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "c12",
+          "entity_type": "concepts",
+          "start": 46,
+          "end": 48,
+          "surface": "五診"
+        },
+        {
+          "entity_id": "p35",
+          "entity_type": "persons",
+          "start": 52,
+          "end": 55,
+          "surface": "濟北王"
+        },
+        {
+          "entity_id": "p49",
+          "entity_type": "persons",
+          "start": 58,
+          "end": 60,
+          "surface": "高期"
+        },
+        {
+          "entity_id": "p50",
+          "entity_type": "persons",
+          "start": 61,
+          "end": 63,
+          "surface": "王禹"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 65,
+          "end": 67,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p56",
+          "entity_type": "persons",
+          "start": 108,
+          "end": 111,
+          "surface": "菑川王"
+        },
+        {
+          "entity_id": "p48",
+          "entity_type": "persons",
+          "start": 117,
+          "end": 119,
+          "surface": "馮信"
+        },
+        {
+          "entity_id": "p48",
+          "entity_type": "persons",
+          "start": 119,
+          "end": 121,
+          "surface": "正方"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 122,
+          "end": 124,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "pl27",
+          "entity_type": "places",
+          "start": 144,
+          "end": 147,
+          "surface": "高永侯"
+        },
+        {
+          "entity_id": "p51",
+          "entity_type": "persons",
+          "start": 149,
+          "end": 151,
+          "surface": "杜信"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 158,
+          "end": 160,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "c12",
+          "entity_type": "concepts",
+          "start": 166,
+          "end": 168,
+          "surface": "五診"
+        },
+        {
+          "entity_id": "pl14",
+          "entity_type": "places",
+          "start": 173,
+          "end": 175,
+          "surface": "臨菑"
+        },
+        {
+          "entity_id": "p52",
+          "entity_type": "persons",
+          "start": 177,
+          "end": 179,
+          "surface": "唐安"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 182,
+          "end": 184,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "c12",
+          "entity_type": "concepts",
+          "start": 186,
+          "end": 188,
+          "surface": "五診"
+        },
+        {
+          "entity_id": "p23",
+          "entity_type": "persons",
+          "start": 208,
+          "end": 210,
+          "surface": "齊王"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p47",
+      "mentions": [
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 1,
+          "end": 3,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 18,
+          "end": 20,
+          "surface": "臣意"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 71,
+          "end": 73,
+          "surface": "臣意"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p48",
+      "mentions": [
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 27,
+          "end": 29,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 35,
+          "end": 37,
+          "surface": "倉公"
+        },
+        {
+          "entity_id": "p20",
+          "entity_type": "persons",
+          "start": 46,
+          "end": 48,
+          "surface": "緹縈"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 74,
+          "end": 76,
+          "surface": "扁鵲"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 80,
+          "end": 82,
+          "surface": "倉公"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p49",
+      "mentions": [
+        {
+          "entity_id": "pl30",
+          "entity_type": "places",
+          "start": 23,
+          "end": 25,
+          "surface": "鈞天"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 36,
+          "end": 38,
+          "surface": "倉公"
+        },
+        {
+          "entity_id": "p18",
+          "entity_type": "persons",
+          "start": 41,
+          "end": 43,
+          "surface": "陽慶"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p50",
+      "mentions": []
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p51",
+      "mentions": []
+    },
+    {
+      "target_para_id": "text:shiji:shiji-扁鵲倉公列傳第四十五:p52",
+      "mentions": []
+    }
+  ]
+}
