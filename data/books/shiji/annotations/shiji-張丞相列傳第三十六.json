@@ -1,586 +1,1534 @@
-[
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a0",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p0",
-    "annotator": "索隱",
-    "text": "案縣名，屬陳留。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a1",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p0",
-    "annotator": "正義",
-    "text": "鄭州陽武縣也。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a2",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p0",
-    "annotator": "集解",
-    "text": "如淳曰：「方，版也，謂書事在版上者也。秦以上置柱下史，蒼爲御史，主其事。或曰四方文書。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a3",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p0",
-    "annotator": "索隱",
-    "text": "周秦皆有柱下史，謂御史也。所掌及侍立恆在殿柱之下，故老子爲周柱下史。今蒼在秦代亦居斯職。方書者，如淳以爲方板，謂小事書之於方也，或曰主四方文書也。姚氏以爲下云「明習天下圖書計籍，主郡上計」，則方爲四方文書是也。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a4",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p0",
-    "annotator": "索隱",
-    "text": "小顏云：「質，椹也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a5",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p1",
-    "annotator": "集解",
-    "text": "文穎曰：「能計，故號曰計相。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a6",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p1",
-    "annotator": "集解",
-    "text": "張晏曰：「以列侯典校郡國簿書。」如淳曰：「以其所主，因以爲官號，與計相同。時所卒立，非久施也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a7",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p1",
-    "annotator": "索隱",
-    "text": "謂改計相之名，更名主計也。此蓋權時立號也。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a8",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p2",
-    "annotator": "集解",
-    "text": "徐廣曰：「主旗幟之屬。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a9",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p2",
-    "annotator": "索隱",
-    "text": "官名也。職，主也。志，旗幟也，謂掌旗幟之官也。音昌志反。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a10",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p2",
-    "annotator": "集解",
-    "text": "張晏曰：「爲帳下賔客，不掌官。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a11",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p3",
-    "annotator": "集解",
-    "text": "徐廣曰：「四年三月也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a12",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p3",
-    "annotator": "集解",
-    "text": "徐廣曰：「九年封，封三十九年，文帝後元四年謀反死，國除。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a13",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p4",
-    "annotator": "集解",
-    "text": "漢書音義曰：「以上燕時入奏事。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a14",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p4",
-    "annotator": "正義",
-    "text": "昌以口吃，每語故重言期期也。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a15",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p4",
-    "annotator": "集解",
-    "text": "韋昭曰：「殿東堂也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a16",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p4",
-    "annotator": "索隱",
-    "text": "小顏云：「正寢之東西室，皆號曰箱，言似箱篋之形。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a17",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p4",
-    "annotator": "索隱",
-    "text": "幾。鉅依反。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a18",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p5",
-    "annotator": "集解",
-    "text": "孟康曰：「方與，縣名；公，其號。」瓚曰：「方與縣令也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a19",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p5",
-    "annotator": "正義",
-    "text": "古用簡牘，書有錯謬，以刀削之，故號曰「刀筆吏」。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a20",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p5",
-    "annotator": "索隱",
-    "text": "謂不知其計所出也。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a21",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p5",
-    "annotator": "正義",
-    "text": "桓譚新論云：「使周相趙，不如使取呂后家女爲妃，令戚夫人善事呂后，則如意無斃也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a22",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p5",
-    "annotator": "索隱",
-    "text": "諸侯王表有左官之律。韋昭以爲「左猶下也，禁不得下仕於諸侯王也」。然地道尊右，右貴左賤，故謂貶秩爲「左遷」。他皆類此。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a23",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p6",
-    "annotator": "集解",
-    "text": "徐廣曰：「十年也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a24",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p6",
-    "annotator": "集解",
-    "text": "徐廣曰：「十一年。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a25",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p7",
-    "annotator": "集解",
-    "text": "徐廣曰：「謚悼也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a26",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p7",
-    "annotator": "索隱",
-    "text": "漢書列傳及表咸言周昌謚悼，韋昭云「或謚惠」，非也。漢書又曰「傳子至孫意，有罪，國除。景帝復封昌孫左車爲安陽侯，有罪，國除。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a27",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p8",
-    "annotator": "正義",
-    "text": "高后之年。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a28",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p8",
-    "annotator": "集解",
-    "text": "徐廣曰：「呂后元年，國除。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a29",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p9",
-    "annotator": "正義",
-    "text": "辟音避。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a30",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p9",
-    "annotator": "集解",
-    "text": "徐廣曰：「文帝二年，任敖卒，謚懿侯。曾孫越人，元鼎二年爲太常，坐酒酸，國除。」駰案：漢書任敖孝文元年薨，徐誤也。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a31",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p9",
-    "annotator": "索隱",
-    "text": "此徐氏據漢書爲說，而誤云「二年」，裴駰又引任安書證，爲得其實。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a32",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p9",
-    "annotator": "正義",
-    "text": "按：史記書表云孝文二年卒，漢表又云封十九年卒，計高祖十一年封，到文帝二年則十九年矣。而漢書誤，裴氏不考，乃云徐誤，何其貳過也！"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a33",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p11",
-    "annotator": "集解",
-    "text": "文穎曰：「緒，尋也。或曰緒，業也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a34",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p11",
-    "annotator": "正義",
-    "text": "姚察云：「蒼是秦人，猶用推五勝之法，以周赤烏爲火，漢勝火以水也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a35",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p11",
-    "annotator": "集解",
-    "text": "如淳曰：「比謂五音清濁各有所比也。以定十二月律之法令於樂官，使長行之。」瓚曰：「謂以比故取類，以定法律與條令也。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a36",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p11",
-    "annotator": "正義",
-    "text": "比音鼻，或音必履反，謂比方也。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a37",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p11",
-    "annotator": "集解",
-    "text": "如淳曰：「若，順也。百工爲器物皆有尺寸斤兩，皆使得宜，此之謂順。」晉灼曰：「若，預及之辭。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a38",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p11",
-    "annotator": "索隱",
-    "text": "晉灼說爲得。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a39",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p11",
-    "annotator": "集解",
-    "text": "漢書曰：「著書十八篇，言陰陽律曆事。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a40",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p13",
-    "annotator": "集解",
-    "text": "張晏曰：「所選保任者也。」瓚曰：「中候，官名。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a41",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p13",
-    "annotator": "集解",
-    "text": "徐廣曰：「一作『𩕕』，音瞶。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a42",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p13",
-    "annotator": "索隱",
-    "text": "案漢書云傳子至孫毅有罪，國除，今此云康侯代，八年卒，子類代侯，則類即毅也，與漢書略同。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a43",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p14",
-    "annotator": "集解",
-    "text": "漢書云長八尺。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a44",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p15",
-    "annotator": "集解",
-    "text": "徐廣曰：「勇健有材力開張。」駰案：如淳曰「材官之多力，能腳蹋強弩張之，故曰蹶張。律有蹶張士」。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a45",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p15",
-    "annotator": "索隱",
-    "text": "孟康云：「主張強弩。」蹶音其月反。漢令有蹶張士百人是也。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a46",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p15",
-    "annotator": "索隱",
-    "text": "所類反。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a47",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p15",
-    "annotator": "集解",
-    "text": "徐廣曰：「後二年八月。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a48",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p15",
-    "annotator": "正義",
-    "text": "今易州界武陽城中東南隅故城是也。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a49",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p16",
-    "annotator": "集解",
-    "text": "如淳曰：「嘉語其吏曰：『今便行斬之。』」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a50",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p17",
-    "annotator": "集解",
-    "text": "服虔曰：「宮外垣也。」如淳曰：「堧音『畏愞』之『愞』。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a51",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p17",
-    "annotator": "索隱",
-    "text": "愞音乃喚反。韋昭音而緣反。又音軟。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a52",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p17",
-    "annotator": "正義",
-    "text": "自歸帝首露。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a53",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p17",
-    "annotator": "索隱",
-    "text": "漢書作「冗官」，謂散官也。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a54",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p17",
-    "annotator": "集解",
-    "text": "徐廣曰：「一本無侯去病，而云共侯蔑三十三年，子臾改封靖安侯。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a55",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p18",
-    "annotator": "集解",
-    "text": "徐廣曰：「陶青，高祖功臣陶舍之子也，謚夷。劉舍，本項氏親也，賜姓劉氏。父襄佐高祖有功。舍謚哀侯。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a56",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p18",
-    "annotator": "集解",
-    "text": "徐廣曰：「高祖功臣許溫之孫，謚哀侯。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a57",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p18",
-    "annotator": "集解",
-    "text": "徐廣曰：「高祖功臣廣平侯薛歐之孫平棘節侯薛澤。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a58",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p18",
-    "annotator": "集解",
-    "text": "徐廣曰：「高祖功臣莊不識之孫。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a59",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p18",
-    "annotator": "集解",
-    "text": "徐廣曰：「周父夷吾爲楚王戊太傅，諫爭而死。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a60",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p18",
-    "annotator": "集解",
-    "text": "徐廣曰：「娖音七角反。一作『斷』，一作『𪘏』。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a61",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p18",
-    "annotator": "索隱",
-    "text": "娖音側角反。小顏云「持整之貌」。漢書作「𪘏」，𪘏音初角反。斷音都亂反。義如尚書「斷斷猗無他技」。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a62",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p19",
-    "annotator": "集解",
-    "text": "張晏曰：「不考經典，專用顓頊曆，何哉？」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a63",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p19",
-    "annotator": "正義",
-    "text": "言其質直掘強如木石焉。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a64",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p19",
-    "annotator": "集解",
-    "text": "張晏曰：「謂傷辱呂后吏。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a65",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p21",
-    "annotator": "集解",
-    "text": "名千秋。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a66",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p21",
-    "annotator": "索隱",
-    "text": "自車千秋已下，皆褚先生等所記，然丞相傳都省略，漢書則備。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a67",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p22",
-    "annotator": "集解",
-    "text": "名廣漢。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a68",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p22",
-    "annotator": "索隱",
-    "text": "繁，姓也，音婆。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a69",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p26",
-    "annotator": "集解",
-    "text": "名廣德也。"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a70",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p28",
-    "annotator": "集解",
-    "text": "徐廣曰：「微，一作『徵』。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a71",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p28",
-    "annotator": "集解",
-    "text": "高堂隆答魏朝訪曰：「物，無也。故，事也。言無復所能於事。」"
-  },
-  {
-    "id": "anno:shiji:shiji-張丞相列傳第三十六:a72",
-    "book": "shiji",
-    "chapter_id": "shiji-張丞相列傳第三十六",
-    "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p28",
-    "annotator": "索隱",
-    "text": "案此論匡衡已來事，則後人所述也，或亦稱「太史公」，其序述淺陋，一何誣也！"
-  }
-]
+{
+  "book": "shiji",
+  "chapter_id": "shiji-張丞相列傳第三十六",
+  "annotations": [
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p0",
+      "positions": [
+        {
+          "start": 6,
+          "end": 8,
+          "type": "place",
+          "name": "陽武",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p0"
+        },
+        {
+          "start": 52,
+          "end": 54,
+          "type": "place",
+          "name": "陽武",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p0"
+        },
+        {
+          "start": 60,
+          "end": 62,
+          "type": "place",
+          "name": "南陽",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p0"
+        },
+        {
+          "start": 81,
+          "end": 85,
+          "type": "concept",
+          "name": "肥白如瓠",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p0"
+        },
+        {
+          "start": 87,
+          "end": 89,
+          "type": "person",
+          "name": "王陵",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p0"
+        },
+        {
+          "start": 109,
+          "end": 111,
+          "type": "place",
+          "name": "武關",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p0"
+        },
+        {
+          "start": 113,
+          "end": 115,
+          "type": "place",
+          "name": "咸陽",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p0"
+        },
+        {
+          "start": 124,
+          "end": 126,
+          "type": "place",
+          "name": "漢中",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p0"
+        },
+        {
+          "start": 136,
+          "end": 138,
+          "type": "place",
+          "name": "常山",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p0"
+        },
+        {
+          "start": 149,
+          "end": 151,
+          "type": "person",
+          "name": "张苍",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p0"
+        },
+        {
+          "start": 152,
+          "end": 154,
+          "type": "place",
+          "name": "常山",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p0"
+        },
+        {
+          "start": 161,
+          "end": 162,
+          "type": "place",
+          "name": "趙",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p0"
+        },
+        {
+          "start": 168,
+          "end": 169,
+          "type": "place",
+          "name": "趙",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p0"
+        },
+        {
+          "start": 178,
+          "end": 179,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p0"
+        },
+        {
+          "start": 189,
+          "end": 190,
+          "type": "place",
+          "name": "趙",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p0"
+        },
+        {
+          "start": 193,
+          "end": 194,
+          "type": "place",
+          "name": "趙",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p0"
+        },
+        {
+          "start": 201,
+          "end": 202,
+          "type": "place",
+          "name": "趙",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p0"
+        },
+        {
+          "start": 208,
+          "end": 209,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p0"
+        },
+        {
+          "start": 225,
+          "end": 226,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p0"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p1",
+      "positions": [
+        {
+          "start": 29,
+          "end": 31,
+          "type": "person",
+          "name": "萧何",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p1"
+        },
+        {
+          "start": 36,
+          "end": 38,
+          "type": "person",
+          "name": "张苍",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p1"
+        },
+        {
+          "start": 82,
+          "end": 84,
+          "type": "person",
+          "name": "黥布",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p1"
+        },
+        {
+          "start": 93,
+          "end": 95,
+          "type": "place",
+          "name": "淮南",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p1"
+        },
+        {
+          "start": 98,
+          "end": 100,
+          "type": "person",
+          "name": "张苍",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p1"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p2",
+      "positions": [
+        {
+          "start": 0,
+          "end": 2,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p2"
+        },
+        {
+          "start": 12,
+          "end": 14,
+          "type": "person",
+          "name": "周苛",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p2"
+        },
+        {
+          "start": 39,
+          "end": 41,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p2"
+        },
+        {
+          "start": 42,
+          "end": 44,
+          "type": "person",
+          "name": "周苛",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p2"
+        },
+        {
+          "start": 54,
+          "end": 56,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p2"
+        },
+        {
+          "start": 66,
+          "end": 68,
+          "type": "person",
+          "name": "周苛",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p2"
+        },
+        {
+          "start": 89,
+          "end": 91,
+          "type": "person",
+          "name": "周苛",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p2"
+        },
+        {
+          "start": 97,
+          "end": 99,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p2"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p3",
+      "positions": [
+        {
+          "start": 9,
+          "end": 11,
+          "type": "place",
+          "name": "滎陽",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p3"
+        },
+        {
+          "start": 21,
+          "end": 23,
+          "type": "person",
+          "name": "周苛",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p3"
+        },
+        {
+          "start": 24,
+          "end": 26,
+          "type": "place",
+          "name": "滎陽",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p3"
+        },
+        {
+          "start": 30,
+          "end": 32,
+          "type": "place",
+          "name": "滎陽",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p3"
+        },
+        {
+          "start": 36,
+          "end": 38,
+          "type": "person",
+          "name": "周苛",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p3"
+        },
+        {
+          "start": 65,
+          "end": 67,
+          "type": "person",
+          "name": "周苛",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p3"
+        },
+        {
+          "start": 75,
+          "end": 77,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p3"
+        },
+        {
+          "start": 103,
+          "end": 105,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p3"
+        },
+        {
+          "start": 110,
+          "end": 112,
+          "type": "person",
+          "name": "周苛",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p3"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p4",
+      "positions": [
+        {
+          "start": 35,
+          "end": 37,
+          "type": "person",
+          "name": "戚夫人",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p4"
+        },
+        {
+          "start": 48,
+          "end": 50,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p4"
+        },
+        {
+          "start": 71,
+          "end": 73,
+          "type": "concept",
+          "name": "桀紂",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p4"
+        },
+        {
+          "start": 87,
+          "end": 89,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p4"
+        },
+        {
+          "start": 99,
+          "end": 101,
+          "type": "person",
+          "name": "戚夫人",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p4"
+        },
+        {
+          "start": 127,
+          "end": 129,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p4"
+        },
+        {
+          "start": 159,
+          "end": 161,
+          "type": "concept",
+          "name": "期期",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p4"
+        },
+        {
+          "start": 178,
+          "end": 180,
+          "type": "concept",
+          "name": "期期",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p4"
+        },
+        {
+          "start": 194,
+          "end": 196,
+          "type": "person",
+          "name": "吕后",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p4"
+        },
+        {
+          "start": 210,
+          "end": 212,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p4"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p5",
+      "positions": [
+        {
+          "start": 2,
+          "end": 4,
+          "type": "person",
+          "name": "戚夫人",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p5"
+        },
+        {
+          "start": 8,
+          "end": 9,
+          "type": "place",
+          "name": "趙",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p5"
+        },
+        {
+          "start": 27,
+          "end": 29,
+          "type": "person",
+          "name": "赵尧",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p5"
+        },
+        {
+          "start": 38,
+          "end": 39,
+          "type": "place",
+          "name": "趙",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p5"
+        },
+        {
+          "start": 51,
+          "end": 53,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p5"
+        },
+        {
+          "start": 59,
+          "end": 61,
+          "type": "person",
+          "name": "赵尧",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p5"
+        },
+        {
+          "start": 78,
+          "end": 79,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p5"
+        },
+        {
+          "start": 84,
+          "end": 86,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p5"
+        },
+        {
+          "start": 113,
+          "end": 115,
+          "type": "person",
+          "name": "赵尧",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p5"
+        },
+        {
+          "start": 139,
+          "end": 141,
+          "type": "person",
+          "name": "赵尧",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p5"
+        },
+        {
+          "start": 156,
+          "end": 157,
+          "type": "place",
+          "name": "趙",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p5"
+        },
+        {
+          "start": 161,
+          "end": 164,
+          "type": "person",
+          "name": "戚夫人",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p5"
+        },
+        {
+          "start": 165,
+          "end": 167,
+          "type": "person",
+          "name": "吕后",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p5"
+        },
+        {
+          "start": 177,
+          "end": 178,
+          "type": "place",
+          "name": "趙",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p5"
+        },
+        {
+          "start": 216,
+          "end": 217,
+          "type": "place",
+          "name": "趙",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p5"
+        },
+        {
+          "start": 224,
+          "end": 226,
+          "type": "person",
+          "name": "吕后",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p5"
+        },
+        {
+          "start": 270,
+          "end": 272,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p5"
+        },
+        {
+          "start": 283,
+          "end": 285,
+          "type": "person",
+          "name": "吕后",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p5"
+        },
+        {
+          "start": 314,
+          "end": 316,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p5"
+        },
+        {
+          "start": 332,
+          "end": 333,
+          "type": "place",
+          "name": "趙",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p5"
+        },
+        {
+          "start": 339,
+          "end": 341,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p5"
+        },
+        {
+          "start": 387,
+          "end": 388,
+          "type": "place",
+          "name": "趙",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p5"
+        },
+        {
+          "start": 412,
+          "end": 414,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p5"
+        },
+        {
+          "start": 415,
+          "end": 416,
+          "type": "place",
+          "name": "趙",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p5"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p6",
+      "positions": [
+        {
+          "start": 32,
+          "end": 34,
+          "type": "person",
+          "name": "赵尧",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p6"
+        },
+        {
+          "start": 46,
+          "end": 48,
+          "type": "person",
+          "name": "赵尧",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p6"
+        },
+        {
+          "start": 74,
+          "end": 76,
+          "type": "person",
+          "name": "陈豨",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p6"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p7",
+      "positions": [
+        {
+          "start": 10,
+          "end": 11,
+          "type": "place",
+          "name": "趙",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p7"
+        },
+        {
+          "start": 15,
+          "end": 17,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p7"
+        },
+        {
+          "start": 29,
+          "end": 31,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p7"
+        },
+        {
+          "start": 35,
+          "end": 36,
+          "type": "place",
+          "name": "趙",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p7"
+        },
+        {
+          "start": 49,
+          "end": 51,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p7"
+        },
+        {
+          "start": 52,
+          "end": 54,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p7"
+        },
+        {
+          "start": 65,
+          "end": 67,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p7"
+        },
+        {
+          "start": 83,
+          "end": 84,
+          "type": "place",
+          "name": "趙",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p7"
+        },
+        {
+          "start": 98,
+          "end": 99,
+          "type": "place",
+          "name": "趙",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p7"
+        },
+        {
+          "start": 101,
+          "end": 102,
+          "type": "place",
+          "name": "趙",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p7"
+        },
+        {
+          "start": 107,
+          "end": 109,
+          "type": "place",
+          "name": "長安",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p7"
+        },
+        {
+          "start": 117,
+          "end": 119,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p7"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p8",
+      "positions": [
+        {
+          "start": 17,
+          "end": 19,
+          "type": "person",
+          "name": "赵尧",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p8"
+        },
+        {
+          "start": 23,
+          "end": 27,
+          "type": "person",
+          "name": "赵王如意",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p8"
+        },
+        {
+          "start": 42,
+          "end": 44,
+          "type": "person",
+          "name": "任敖",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p8"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p9",
+      "positions": [
+        {
+          "start": 0,
+          "end": 2,
+          "type": "person",
+          "name": "任敖",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p9"
+        },
+        {
+          "start": 20,
+          "end": 22,
+          "type": "person",
+          "name": "吕后",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p9"
+        },
+        {
+          "start": 28,
+          "end": 30,
+          "type": "person",
+          "name": "任敖",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p9"
+        },
+        {
+          "start": 40,
+          "end": 42,
+          "type": "person",
+          "name": "吕后",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p9"
+        },
+        {
+          "start": 78,
+          "end": 80,
+          "type": "place",
+          "name": "上黨",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p9"
+        },
+        {
+          "start": 82,
+          "end": 84,
+          "type": "person",
+          "name": "陈豨",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p9"
+        },
+        {
+          "start": 126,
+          "end": 128,
+          "type": "place",
+          "name": "平陽",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p9"
+        },
+        {
+          "start": 129,
+          "end": 131,
+          "type": "person",
+          "name": "曹窋",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p9"
+        },
+        {
+          "start": 154,
+          "end": 156,
+          "type": "place",
+          "name": "淮南",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p9"
+        },
+        {
+          "start": 157,
+          "end": 159,
+          "type": "person",
+          "name": "张苍",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p9"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p10",
+      "positions": [
+        {
+          "start": 7,
+          "end": 8,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p10"
+        },
+        {
+          "start": 24,
+          "end": 26,
+          "type": "person",
+          "name": "张苍",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p10"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p11",
+      "positions": [
+        {
+          "start": 25,
+          "end": 27,
+          "type": "person",
+          "name": "张苍",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p11"
+        },
+        {
+          "start": 147,
+          "end": 149,
+          "type": "person",
+          "name": "张苍",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p11"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p12",
+      "positions": [
+        {
+          "start": 0,
+          "end": 2,
+          "type": "person",
+          "name": "张苍",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p12"
+        },
+        {
+          "start": 3,
+          "end": 5,
+          "type": "person",
+          "name": "王陵",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p12"
+        },
+        {
+          "start": 6,
+          "end": 8,
+          "type": "person",
+          "name": "王陵",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p12"
+        },
+        {
+          "start": 22,
+          "end": 24,
+          "type": "person",
+          "name": "王陵",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p12"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p13",
+      "positions": [
+        {
+          "start": 8,
+          "end": 9,
+          "type": "place",
+          "name": "魯",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p13"
+        },
+        {
+          "start": 10,
+          "end": 13,
+          "type": "person",
+          "name": "公孙臣",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p13"
+        },
+        {
+          "start": 33,
+          "end": 35,
+          "type": "person",
+          "name": "张苍",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p13"
+        },
+        {
+          "start": 36,
+          "end": 38,
+          "type": "person",
+          "name": "张苍",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p13"
+        },
+        {
+          "start": 51,
+          "end": 53,
+          "type": "place",
+          "name": "成紀",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p13"
+        },
+        {
+          "start": 56,
+          "end": 58,
+          "type": "person",
+          "name": "汉文帝",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p13"
+        },
+        {
+          "start": 59,
+          "end": 62,
+          "type": "person",
+          "name": "公孙臣",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p13"
+        },
+        {
+          "start": 143,
+          "end": 144,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p13"
+        },
+        {
+          "start": 155,
+          "end": 156,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p13"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p14",
+      "positions": [
+        {
+          "start": 2,
+          "end": 4,
+          "type": "person",
+          "name": "张苍",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p14"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p15",
+      "positions": [
+        {
+          "start": 38,
+          "end": 40,
+          "type": "person",
+          "name": "黥布",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p15"
+        },
+        {
+          "start": 51,
+          "end": 53,
+          "type": "place",
+          "name": "淮陽",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p15"
+        },
+        {
+          "start": 56,
+          "end": 58,
+          "type": "person",
+          "name": "汉文帝",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p15"
+        },
+        {
+          "start": 89,
+          "end": 92,
+          "type": "person",
+          "name": "申屠嘉",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p15"
+        },
+        {
+          "start": 98,
+          "end": 100,
+          "type": "person",
+          "name": "张苍",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p15"
+        },
+        {
+          "start": 113,
+          "end": 115,
+          "type": "person",
+          "name": "张苍",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p15"
+        },
+        {
+          "start": 122,
+          "end": 124,
+          "type": "person",
+          "name": "汉文帝",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p15"
+        },
+        {
+          "start": 129,
+          "end": 132,
+          "type": "person",
+          "name": "窦广国",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p15"
+        },
+        {
+          "start": 199,
+          "end": 201,
+          "type": "place",
+          "name": "故安",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p15"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p16",
+      "positions": [
+        {
+          "start": 18,
+          "end": 20,
+          "type": "person",
+          "name": "邓通",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p16"
+        },
+        {
+          "start": 31,
+          "end": 33,
+          "type": "person",
+          "name": "汉文帝",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p16"
+        },
+        {
+          "start": 122,
+          "end": 124,
+          "type": "person",
+          "name": "邓通",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p16"
+        },
+        {
+          "start": 141,
+          "end": 143,
+          "type": "person",
+          "name": "汉文帝",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p16"
+        },
+        {
+          "start": 144,
+          "end": 146,
+          "type": "person",
+          "name": "汉文帝",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p16"
+        },
+        {
+          "start": 241,
+          "end": 243,
+          "type": "person",
+          "name": "汉文帝",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p16"
+        },
+        {
+          "start": 275,
+          "end": 277,
+          "type": "person",
+          "name": "邓通",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p16"
+        },
+        {
+          "start": 281,
+          "end": 283,
+          "type": "person",
+          "name": "汉文帝",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p16"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p17",
+      "positions": [
+        {
+          "start": 8,
+          "end": 10,
+          "type": "person",
+          "name": "汉文帝",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p17"
+        },
+        {
+          "start": 13,
+          "end": 15,
+          "type": "person",
+          "name": "汉景帝",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p17"
+        },
+        {
+          "start": 21,
+          "end": 23,
+          "type": "person",
+          "name": "晁错",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p17"
+        },
+        {
+          "start": 91,
+          "end": 93,
+          "type": "concept",
+          "name": "堧垣",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p17"
+        },
+        {
+          "start": 140,
+          "end": 142,
+          "type": "person",
+          "name": "汉景帝",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p17"
+        },
+        {
+          "start": 158,
+          "end": 160,
+          "type": "person",
+          "name": "汉景帝",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p17"
+        },
+        {
+          "start": 173,
+          "end": 175,
+          "type": "concept",
+          "name": "堧垣",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p17"
+        },
+        {
+          "start": 230,
+          "end": 232,
+          "type": "concept",
+          "name": "歐血",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p17"
+        },
+        {
+          "start": 244,
+          "end": 245,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p17"
+        },
+        {
+          "start": 254,
+          "end": 255,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p17"
+        },
+        {
+          "start": 268,
+          "end": 269,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p17"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p18",
+      "positions": [
+        {
+          "start": 1,
+          "end": 4,
+          "type": "person",
+          "name": "申屠嘉",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p18"
+        },
+        {
+          "start": 8,
+          "end": 10,
+          "type": "person",
+          "name": "汉景帝",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p18"
+        },
+        {
+          "start": 11,
+          "end": 13,
+          "type": "place",
+          "name": "開封",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p18"
+        },
+        {
+          "start": 14,
+          "end": 16,
+          "type": "person",
+          "name": "陶青",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p18"
+        },
+        {
+          "start": 19,
+          "end": 21,
+          "type": "person",
+          "name": "刘舍",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p18"
+        },
+        {
+          "start": 36,
+          "end": 38,
+          "type": "person",
+          "name": "许昌",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p18"
+        },
+        {
+          "start": 45,
+          "end": 47,
+          "type": "person",
+          "name": "薛泽",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p18"
+        },
+        {
+          "start": 54,
+          "end": 57,
+          "type": "person",
+          "name": "庄青翟",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p18"
+        },
+        {
+          "start": 64,
+          "end": 66,
+          "type": "person",
+          "name": "赵周",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p18"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p19",
+      "positions": [
+        {
+          "start": 6,
+          "end": 8,
+          "type": "person",
+          "name": "张苍",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p19"
+        },
+        {
+          "start": 23,
+          "end": 26,
+          "type": "person",
+          "name": "公孙臣",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p19"
+        },
+        {
+          "start": 51,
+          "end": 53,
+          "type": "person",
+          "name": "周昌",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p19"
+        },
+        {
+          "start": 62,
+          "end": 64,
+          "type": "person",
+          "name": "任敖",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p19"
+        },
+        {
+          "start": 72,
+          "end": 75,
+          "type": "person",
+          "name": "申屠嘉",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p19"
+        },
+        {
+          "start": 94,
+          "end": 96,
+          "type": "person",
+          "name": "陈平",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p19"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p20",
+      "positions": []
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p21",
+      "positions": [
+        {
+          "start": 5,
+          "end": 7,
+          "type": "place",
+          "name": "長陵",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p21"
+        },
+        {
+          "start": 19,
+          "end": 20,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p21"
+        },
+        {
+          "start": 30,
+          "end": 31,
+          "type": "place",
+          "name": "魯",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p21"
+        },
+        {
+          "start": 201,
+          "end": 202,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p21"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p22",
+      "positions": [
+        {
+          "start": 6,
+          "end": 8,
+          "type": "place",
+          "name": "濟陰",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p22"
+        },
+        {
+          "start": 63,
+          "end": 64,
+          "type": "place",
+          "name": "趙",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p22"
+        },
+        {
+          "start": 154,
+          "end": 155,
+          "type": "place",
+          "name": "趙",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p22"
+        },
+        {
+          "start": 189,
+          "end": 190,
+          "type": "place",
+          "name": "趙",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p22"
+        },
+        {
+          "start": 200,
+          "end": 202,
+          "type": "person",
+          "name": "陈平",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p22"
+        },
+        {
+          "start": 291,
+          "end": 293,
+          "type": "person",
+          "name": "邴吉",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p22"
+        },
+        {
+          "start": 293,
+          "end": 294,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p22"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p23",
+      "positions": [
+        {
+          "start": 6,
+          "end": 7,
+          "type": "place",
+          "name": "魯",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p23"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p24",
+      "positions": [
+        {
+          "start": 8,
+          "end": 9,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p24"
+        },
+        {
+          "start": 10,
+          "end": 12,
+          "type": "place",
+          "name": "長安",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p24"
+        },
+        {
+          "start": 66,
+          "end": 67,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p24"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p25",
+      "positions": [
+        {
+          "start": 6,
+          "end": 8,
+          "type": "place",
+          "name": "淮陽",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p25"
+        },
+        {
+          "start": 18,
+          "end": 20,
+          "type": "place",
+          "name": "潁川",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p25"
+        },
+        {
+          "start": 24,
+          "end": 26,
+          "type": "place",
+          "name": "潁川",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p25"
+        },
+        {
+          "start": 63,
+          "end": 65,
+          "type": "place",
+          "name": "潁川",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p25"
+        },
+        {
+          "start": 149,
+          "end": 150,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p25"
+        },
+        {
+          "start": 176,
+          "end": 179,
+          "type": "person",
+          "name": "韦玄成",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p25"
+        },
+        {
+          "start": 179,
+          "end": 180,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p25"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p26",
+      "positions": [
+        {
+          "start": 15,
+          "end": 16,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p26"
+        },
+        {
+          "start": 137,
+          "end": 138,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p26"
+        },
+        {
+          "start": 189,
+          "end": 191,
+          "type": "person",
+          "name": "匡衡",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p26"
+        },
+        {
+          "start": 191,
+          "end": 192,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p26"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p27",
+      "positions": [
+        {
+          "start": 2,
+          "end": 4,
+          "type": "person",
+          "name": "匡衡",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p27"
+        },
+        {
+          "start": 6,
+          "end": 8,
+          "type": "place",
+          "name": "東海",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p27"
+        },
+        {
+          "start": 176,
+          "end": 177,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p27"
+        },
+        {
+          "start": 194,
+          "end": 196,
+          "type": "place",
+          "name": "長安",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p27"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p28",
+      "positions": [
+        {
+          "start": 62,
+          "end": 63,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p28"
+        },
+        {
+          "start": 120,
+          "end": 121,
+          "type": "place",
+          "name": "代",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p28"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-張丞相列傳第三十六:p29",
+      "positions": [
+        {
+          "start": 6,
+          "end": 8,
+          "type": "person",
+          "name": "张苍",
+          "evidence": "text:shiji:text:shiji:shiji-張丞相列傳第三十六:p29"
+        }
+      ]
+    }
+  ]
+}
