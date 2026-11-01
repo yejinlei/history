@@ -3,203 +3,200 @@
   "chapter_id": "54",
   "chapter_title": "东越列传第五十四",
   "version": "final",
-  "generated_at": "2026-11-02T05:47:28.651344",
+  "generated_at": "2026-11-02T06:01:02.087732",
   "paragraphs": [
     {
       "para_id": "p0",
       "text": "閩越王無諸⟦0⟧⟦1⟧及越東海王搖者，其先皆越王句踐之後也，姓騶氏。⟦2⟧⟦3⟧秦已并天下，皆廢爲君長，以其地爲閩中郡。⟦4⟧⟦5⟧⟦6⟧及諸侯畔秦，無諸、搖率越歸鄱陽令吳芮，所謂鄱君者也，從諸侯滅秦。當是之時，項籍主命，弗王，⟦7⟧以故不附楚。漢擊項籍，無諸、搖率越人佐漢。漢五年，復立無諸爲閩越王，王閩中故地，都東冶。孝惠三年，舉高帝時越功，曰閩君搖功多，其民便附，乃立搖爲東海王，⟦8⟧都東甌，⟦9⟧⟦10⟧世俗號爲東甌王。",
       "mentions": [
         {
+          "start": 0,
+          "end": 2,
+          "entity_id": "place_017",
+          "entity_name": "闽越",
+          "text": "閩越"
+        },
+        {
+          "start": 3,
+          "end": 5,
           "entity_id": "person_000",
           "entity_name": "无诸（闽越王）",
-          "entity_type": "person",
-          "start": 0,
-          "end": 5,
-          "surface": "閩越王無諸"
+          "text": "無諸"
         },
         {
+          "start": 16,
+          "end": 17,
           "entity_id": "person_001",
           "entity_name": "摇（东海王）",
-          "entity_type": "person",
-          "start": 13,
-          "end": 17,
-          "surface": "東海王搖"
+          "text": "搖"
         },
         {
-          "entity_id": "person_002",
-          "entity_name": "勾践",
-          "entity_type": "person",
           "start": 24,
           "end": 26,
-          "surface": "句踐"
+          "entity_id": "person_002",
+          "entity_name": "勾践",
+          "text": "句踐"
         },
         {
+          "start": 56,
+          "end": 59,
           "entity_id": "place_000",
           "entity_name": "闽中郡",
-          "entity_type": "place",
-          "start": 56,
-          "end": 58,
-          "surface": "閩中"
+          "text": "閩中郡"
         },
         {
-          "entity_id": "person_000",
-          "entity_name": "无诸（闽越王）",
-          "entity_type": "person",
           "start": 75,
           "end": 77,
-          "surface": "無諸"
-        },
-        {
-          "entity_id": "person_001",
-          "entity_name": "摇（东海王）",
-          "entity_type": "person",
-          "start": 78,
-          "end": 79,
-          "surface": "搖"
-        },
-        {
-          "entity_id": "person_003",
-          "entity_name": "吴芮（鄱君）",
-          "entity_type": "person",
-          "start": 82,
-          "end": 87,
-          "surface": "鄱陽令吳芮"
-        },
-        {
-          "entity_id": "person_003",
-          "entity_name": "吴芮（鄱君）",
-          "entity_type": "person",
-          "start": 90,
-          "end": 92,
-          "surface": "鄱君"
-        },
-        {
-          "entity_id": "person_004",
-          "entity_name": "项羽",
-          "entity_type": "person",
-          "start": 106,
-          "end": 108,
-          "surface": "項籍"
-        },
-        {
-          "entity_id": "person_005",
-          "entity_name": "刘邦（汉高祖）",
-          "entity_type": "person",
-          "start": 123,
-          "end": 124,
-          "surface": "漢"
-        },
-        {
-          "entity_id": "person_004",
-          "entity_name": "项羽",
-          "entity_type": "person",
-          "start": 125,
-          "end": 127,
-          "surface": "項籍"
-        },
-        {
           "entity_id": "person_000",
           "entity_name": "无诸（闽越王）",
-          "entity_type": "person",
+          "text": "無諸"
+        },
+        {
+          "start": 78,
+          "end": 79,
+          "entity_id": "person_001",
+          "entity_name": "摇（东海王）",
+          "text": "搖"
+        },
+        {
+          "start": 82,
+          "end": 84,
+          "entity_id": "place_003",
+          "entity_name": "鄱阳",
+          "text": "鄱陽"
+        },
+        {
+          "start": 85,
+          "end": 87,
+          "entity_id": "person_003",
+          "entity_name": "吴芮（鄱君）",
+          "text": "吳芮"
+        },
+        {
+          "start": 90,
+          "end": 92,
+          "entity_id": "person_003",
+          "entity_name": "吴芮（鄱君）",
+          "text": "鄱君"
+        },
+        {
+          "start": 106,
+          "end": 108,
+          "entity_id": "person_004",
+          "entity_name": "项羽",
+          "text": "項籍"
+        },
+        {
+          "start": 123,
+          "end": 124,
+          "entity_id": "person_005",
+          "entity_name": "刘邦（汉高祖）",
+          "text": "漢"
+        },
+        {
+          "start": 125,
+          "end": 127,
+          "entity_id": "person_004",
+          "entity_name": "项羽",
+          "text": "項籍"
+        },
+        {
           "start": 128,
           "end": 130,
-          "surface": "無諸"
+          "entity_id": "person_000",
+          "entity_name": "无诸（闽越王）",
+          "text": "無諸"
         },
         {
-          "entity_id": "person_001",
-          "entity_name": "摇（东海王）",
-          "entity_type": "person",
           "start": 131,
           "end": 132,
-          "surface": "搖"
+          "entity_id": "person_001",
+          "entity_name": "摇（东海王）",
+          "text": "搖"
         },
         {
-          "entity_id": "place_020",
-          "entity_name": "越（部族）",
-          "entity_type": "place",
           "start": 133,
           "end": 135,
-          "surface": "越人"
+          "entity_id": "place_020",
+          "entity_name": "越（部族）",
+          "text": "越人"
         },
         {
-          "entity_id": "person_005",
-          "entity_name": "刘邦（汉高祖）",
-          "entity_type": "person",
           "start": 136,
           "end": 137,
-          "surface": "漢"
-        },
-        {
           "entity_id": "person_005",
           "entity_name": "刘邦（汉高祖）",
-          "entity_type": "person",
+          "text": "漢"
+        },
+        {
           "start": 138,
           "end": 139,
-          "surface": "漢"
-        },
-        {
-          "entity_id": "event_002",
-          "entity_name": "刘邦立无诸为闽越王",
-          "entity_type": "event",
-          "start": 142,
-          "end": 150,
-          "surface": "復立無諸爲閩越王"
-        },
-        {
-          "entity_id": "place_000",
-          "entity_name": "闽中郡",
-          "entity_type": "place",
-          "start": 152,
-          "end": 154,
-          "surface": "閩中"
-        },
-        {
-          "entity_id": "place_001",
-          "entity_name": "东冶",
-          "entity_type": "place",
-          "start": 158,
-          "end": 160,
-          "surface": "東冶"
-        },
-        {
           "entity_id": "person_005",
           "entity_name": "刘邦（汉高祖）",
-          "entity_type": "person",
+          "text": "漢"
+        },
+        {
+          "start": 142,
+          "end": 150,
+          "entity_id": "event_002",
+          "entity_name": "刘邦立无诸为闽越王",
+          "text": "復立無諸爲閩越王"
+        },
+        {
+          "start": 152,
+          "end": 154,
+          "entity_id": "place_000",
+          "entity_name": "闽中郡",
+          "text": "閩中"
+        },
+        {
+          "start": 158,
+          "end": 160,
+          "entity_id": "place_001",
+          "entity_name": "东冶",
+          "text": "東冶"
+        },
+        {
           "start": 167,
           "end": 169,
-          "surface": "高帝"
+          "entity_id": "person_005",
+          "entity_name": "刘邦（汉高祖）",
+          "text": "高帝"
         },
         {
-          "entity_id": "person_001",
-          "entity_name": "摇（东海王）",
-          "entity_type": "person",
           "start": 174,
-          "end": 177,
-          "surface": "閩君搖"
+          "end": 176,
+          "entity_id": "person_000",
+          "entity_name": "无诸（闽越王）",
+          "text": "閩君"
         },
         {
+          "start": 176,
+          "end": 177,
           "entity_id": "person_001",
           "entity_name": "摇（东海王）",
-          "entity_type": "person",
+          "text": "搖"
+        },
+        {
           "start": 187,
           "end": 188,
-          "surface": "搖"
-        },
-        {
-          "entity_id": "place_002",
-          "entity_name": "东瓯",
-          "entity_type": "place",
-          "start": 197,
-          "end": 199,
-          "surface": "東甌"
-        },
-        {
           "entity_id": "person_001",
           "entity_name": "摇（东海王）",
-          "entity_type": "person",
+          "text": "搖"
+        },
+        {
+          "start": 197,
+          "end": 199,
+          "entity_id": "place_018",
+          "entity_name": "东瓯（国）",
+          "text": "東甌"
+        },
+        {
           "start": 211,
           "end": 214,
-          "surface": "東甌王"
+          "entity_id": "person_001",
+          "entity_name": "摇（东海王）",
+          "text": "東甌王"
         }
       ]
     },
@@ -208,84 +205,74 @@
       "text": "後數世，至孝景三年，吳王濞反，欲從閩越，閩越未肯行，獨東甌從吳。及吳破，東甌受漢購，殺吳王丹徒，以故皆得不誅，歸國。",
       "mentions": [
         {
-          "entity_id": "person_006",
-          "entity_name": "刘启（汉景帝）",
-          "entity_type": "person",
           "start": 5,
           "end": 7,
-          "surface": "孝景"
+          "entity_id": "person_006",
+          "entity_name": "刘启（汉景帝）",
+          "text": "孝景"
         },
         {
-          "entity_id": "person_007",
-          "entity_name": "刘濞（吴王）",
-          "entity_type": "person",
           "start": 10,
           "end": 13,
-          "surface": "吳王濞"
-        },
-        {
-          "entity_id": "place_017",
-          "entity_name": "闽越",
-          "entity_type": "place",
-          "start": 17,
-          "end": 19,
-          "surface": "閩越"
-        },
-        {
-          "entity_id": "place_017",
-          "entity_name": "闽越",
-          "entity_type": "place",
-          "start": 20,
-          "end": 22,
-          "surface": "閩越"
-        },
-        {
-          "entity_id": "place_002",
-          "entity_name": "东瓯",
-          "entity_type": "place",
-          "start": 27,
-          "end": 29,
-          "surface": "東甌"
-        },
-        {
-          "entity_id": "place_002",
-          "entity_name": "东瓯",
-          "entity_type": "place",
-          "start": 36,
-          "end": 38,
-          "surface": "東甌"
-        },
-        {
-          "entity_id": "person_005",
-          "entity_name": "刘邦（汉高祖）",
-          "entity_type": "person",
-          "start": 39,
-          "end": 40,
-          "surface": "漢"
-        },
-        {
-          "entity_id": "concept_000",
-          "entity_name": "购赏",
-          "entity_type": "concept",
-          "start": 40,
-          "end": 41,
-          "surface": "購"
-        },
-        {
           "entity_id": "person_007",
           "entity_name": "刘濞（吴王）",
-          "entity_type": "person",
-          "start": 43,
-          "end": 45,
-          "surface": "吳王"
+          "text": "吳王濞"
         },
         {
-          "entity_id": "place_004",
-          "entity_name": "丹徒",
-          "entity_type": "place",
+          "start": 17,
+          "end": 19,
+          "entity_id": "place_017",
+          "entity_name": "闽越",
+          "text": "閩越"
+        },
+        {
+          "start": 20,
+          "end": 22,
+          "entity_id": "place_017",
+          "entity_name": "闽越",
+          "text": "閩越"
+        },
+        {
+          "start": 27,
+          "end": 29,
+          "entity_id": "place_018",
+          "entity_name": "东瓯（国）",
+          "text": "東甌"
+        },
+        {
+          "start": 36,
+          "end": 38,
+          "entity_id": "place_018",
+          "entity_name": "东瓯（国）",
+          "text": "東甌"
+        },
+        {
+          "start": 39,
+          "end": 40,
+          "entity_id": "person_005",
+          "entity_name": "刘邦（汉高祖）",
+          "text": "漢"
+        },
+        {
+          "start": 40,
+          "end": 41,
+          "entity_id": "concept_000",
+          "entity_name": "购赏",
+          "text": "購"
+        },
+        {
+          "start": 43,
+          "end": 45,
+          "entity_id": "person_007",
+          "entity_name": "刘濞（吴王）",
+          "text": "吳王"
+        },
+        {
           "start": 45,
           "end": 47,
-          "surface": "丹徒"
+          "entity_id": "place_004",
+          "entity_name": "丹徒",
+          "text": "丹徒"
         }
       ]
     },
@@ -294,204 +281,186 @@
       "text": "吳王子子駒亡走閩越，怨東甌殺其父，常勸閩越擊東甌。至建元三年，閩越發兵圍東甌。東甌食盡，困，且降，乃使人告急天子。天子問太尉田蚡，蚡對曰：「越人相攻擊，固其常，又數反覆，不足以煩中國徃救也。自秦時弃弗屬。」於是中大夫莊助詰蚡曰：「特患力弗能救，德弗能覆；誠能，何故弃之？且秦舉咸陽而弃之，何乃越也！今小國以窮困來告急天子，天子弗振，當安所告愬？又何以子萬國乎？」上曰：「太尉未足與計。吾初即位，不欲出虎符發兵郡國。」乃遣莊助以節發兵會稽。會稽太守欲距不爲發兵，助乃斬一司馬，諭意指，遂發兵浮海救東甌。未至，閩越引兵而去。東甌請舉國徙中國，乃悉舉衆來，處江淮之間。⟦0⟧⟦1⟧",
       "mentions": [
         {
+          "start": 0,
+          "end": 2,
+          "entity_id": "person_007",
+          "entity_name": "刘濞（吴王）",
+          "text": "吳王"
+        },
+        {
+          "start": 3,
+          "end": 5,
           "entity_id": "person_008",
           "entity_name": "刘子驹",
-          "entity_type": "person",
-          "start": 0,
-          "end": 5,
-          "surface": "吳王子子駒"
+          "text": "子駒"
         },
         {
-          "entity_id": "place_017",
-          "entity_name": "闽越",
-          "entity_type": "place",
           "start": 7,
           "end": 9,
-          "surface": "閩越"
+          "entity_id": "place_017",
+          "entity_name": "闽越",
+          "text": "閩越"
         },
         {
-          "entity_id": "place_002",
-          "entity_name": "东瓯",
-          "entity_type": "place",
           "start": 11,
           "end": 13,
-          "surface": "東甌"
+          "entity_id": "place_018",
+          "entity_name": "东瓯（国）",
+          "text": "東甌"
         },
         {
-          "entity_id": "place_017",
-          "entity_name": "闽越",
-          "entity_type": "place",
           "start": 19,
           "end": 21,
-          "surface": "閩越"
-        },
-        {
-          "entity_id": "place_002",
-          "entity_name": "东瓯",
-          "entity_type": "place",
-          "start": 22,
-          "end": 24,
-          "surface": "東甌"
-        },
-        {
-          "entity_id": "event_005",
-          "entity_name": "闽越围东瓯",
-          "entity_type": "event",
-          "start": 31,
-          "end": 38,
-          "surface": "閩越發兵圍東甌"
-        },
-        {
-          "entity_id": "place_002",
-          "entity_name": "东瓯",
-          "entity_type": "place",
-          "start": 39,
-          "end": 41,
-          "surface": "東甌"
-        },
-        {
-          "entity_id": "person_010",
-          "entity_name": "刘彻（汉武帝）",
-          "entity_type": "person",
-          "start": 54,
-          "end": 56,
-          "surface": "天子"
-        },
-        {
-          "entity_id": "person_010",
-          "entity_name": "刘彻（汉武帝）",
-          "entity_type": "person",
-          "start": 57,
-          "end": 59,
-          "surface": "天子"
-        },
-        {
-          "entity_id": "person_009",
-          "entity_name": "田蚡",
-          "entity_type": "person",
-          "start": 60,
-          "end": 64,
-          "surface": "太尉田蚡"
-        },
-        {
-          "entity_id": "person_009",
-          "entity_name": "田蚡",
-          "entity_type": "person",
-          "start": 65,
-          "end": 66,
-          "surface": "蚡"
-        },
-        {
-          "entity_id": "place_020",
-          "entity_name": "越（部族）",
-          "entity_type": "place",
-          "start": 70,
-          "end": 72,
-          "surface": "越人"
-        },
-        {
-          "entity_id": "person_011",
-          "entity_name": "庄助",
-          "entity_type": "person",
-          "start": 105,
-          "end": 110,
-          "surface": "中大夫莊助"
-        },
-        {
-          "entity_id": "person_009",
-          "entity_name": "田蚡",
-          "entity_type": "person",
-          "start": 111,
-          "end": 112,
-          "surface": "蚡"
-        },
-        {
-          "entity_id": "person_010",
-          "entity_name": "刘彻（汉武帝）",
-          "entity_type": "person",
-          "start": 158,
-          "end": 160,
-          "surface": "天子"
-        },
-        {
-          "entity_id": "person_010",
-          "entity_name": "刘彻（汉武帝）",
-          "entity_type": "person",
-          "start": 161,
-          "end": 163,
-          "surface": "天子"
-        },
-        {
-          "entity_id": "person_010",
-          "entity_name": "刘彻（汉武帝）",
-          "entity_type": "person",
-          "start": 181,
-          "end": 182,
-          "surface": "上"
-        },
-        {
-          "entity_id": "concept_001",
-          "entity_name": "虎符发兵",
-          "entity_type": "concept",
-          "start": 200,
-          "end": 204,
-          "surface": "虎符發兵"
-        },
-        {
-          "entity_id": "person_011",
-          "entity_name": "庄助",
-          "entity_type": "person",
-          "start": 210,
-          "end": 212,
-          "surface": "莊助"
-        },
-        {
-          "entity_id": "place_005",
-          "entity_name": "会稽",
-          "entity_type": "place",
-          "start": 216,
-          "end": 218,
-          "surface": "會稽"
-        },
-        {
-          "entity_id": "place_005",
-          "entity_name": "会稽",
-          "entity_type": "place",
-          "start": 219,
-          "end": 221,
-          "surface": "會稽"
-        },
-        {
-          "entity_id": "event_007",
-          "entity_name": "庄助浮海救东瓯",
-          "entity_type": "event",
-          "start": 242,
-          "end": 249,
-          "surface": "發兵浮海救東甌"
-        },
-        {
           "entity_id": "place_017",
           "entity_name": "闽越",
-          "entity_type": "place",
+          "text": "閩越"
+        },
+        {
+          "start": 22,
+          "end": 24,
+          "entity_id": "place_018",
+          "entity_name": "东瓯（国）",
+          "text": "東甌"
+        },
+        {
+          "start": 31,
+          "end": 33,
+          "entity_id": "place_017",
+          "entity_name": "闽越",
+          "text": "閩越"
+        },
+        {
+          "start": 36,
+          "end": 38,
+          "entity_id": "place_018",
+          "entity_name": "东瓯（国）",
+          "text": "東甌"
+        },
+        {
+          "start": 39,
+          "end": 41,
+          "entity_id": "place_018",
+          "entity_name": "东瓯（国）",
+          "text": "東甌"
+        },
+        {
+          "start": 54,
+          "end": 56,
+          "entity_id": "person_010",
+          "entity_name": "刘彻（汉武帝）",
+          "text": "天子"
+        },
+        {
+          "start": 57,
+          "end": 59,
+          "entity_id": "person_010",
+          "entity_name": "刘彻（汉武帝）",
+          "text": "天子"
+        },
+        {
+          "start": 62,
+          "end": 64,
+          "entity_id": "person_009",
+          "entity_name": "田蚡",
+          "text": "田蚡"
+        },
+        {
+          "start": 65,
+          "end": 66,
+          "entity_id": "person_009",
+          "entity_name": "田蚡",
+          "text": "蚡"
+        },
+        {
+          "start": 70,
+          "end": 72,
+          "entity_id": "place_020",
+          "entity_name": "越（部族）",
+          "text": "越人"
+        },
+        {
+          "start": 108,
+          "end": 112,
+          "entity_id": "event_006",
+          "entity_name": "庄助诘田蚡",
+          "text": "莊助詰蚡"
+        },
+        {
+          "start": 158,
+          "end": 160,
+          "entity_id": "person_010",
+          "entity_name": "刘彻（汉武帝）",
+          "text": "天子"
+        },
+        {
+          "start": 161,
+          "end": 163,
+          "entity_id": "person_010",
+          "entity_name": "刘彻（汉武帝）",
+          "text": "天子"
+        },
+        {
+          "start": 181,
+          "end": 182,
+          "entity_id": "person_010",
+          "entity_name": "刘彻（汉武帝）",
+          "text": "上"
+        },
+        {
+          "start": 200,
+          "end": 204,
+          "entity_id": "concept_001",
+          "entity_name": "虎符发兵",
+          "text": "虎符發兵"
+        },
+        {
+          "start": 210,
+          "end": 212,
+          "entity_id": "person_011",
+          "entity_name": "庄助",
+          "text": "莊助"
+        },
+        {
+          "start": 216,
+          "end": 218,
+          "entity_id": "place_005",
+          "entity_name": "会稽",
+          "text": "會稽"
+        },
+        {
+          "start": 219,
+          "end": 221,
+          "entity_id": "place_005",
+          "entity_name": "会稽",
+          "text": "會稽"
+        },
+        {
+          "start": 242,
+          "end": 249,
+          "entity_id": "event_007",
+          "entity_name": "庄助浮海救东瓯",
+          "text": "發兵浮海救東甌"
+        },
+        {
           "start": 253,
           "end": 255,
-          "surface": "閩越"
+          "entity_id": "place_017",
+          "entity_name": "闽越",
+          "text": "閩越"
         },
         {
-          "entity_id": "place_002",
-          "entity_name": "东瓯",
-          "entity_type": "place",
           "start": 260,
           "end": 262,
-          "surface": "東甌"
+          "entity_id": "place_018",
+          "entity_name": "东瓯（国）",
+          "text": "東甌"
         },
         {
-          "entity_id": "place_006",
-          "entity_name": "江淮之间",
-          "entity_type": "place",
           "start": 276,
           "end": 280,
-          "surface": "江淮之間"
+          "entity_id": "place_006",
+          "entity_name": "江淮之间",
+          "text": "江淮之間"
         }
       ]
     },
@@ -500,172 +469,151 @@
       "text": "至建元六年，閩越擊南越。南越守天子約，不敢擅發兵擊而以聞。上遣大行王恢出豫章，大農韓安國出會稽，皆爲將軍。兵未踰嶺，閩越王郢發兵距險。其弟餘善乃與相、宗族謀曰：「王以擅發兵擊南越，不請，故天子兵來誅。今漢兵衆彊，今即幸勝之，後來益多，終滅國而止。今殺王以謝天子。天子聽，罷兵，固一國完；不聽，乃力戰；不勝，即亡入海。」皆曰「善」。即鏦殺王，⟦0⟧使使奉其頭致大行。大行曰：「所爲來者誅王。今王頭至，謝罪，不戰而耘，⟦1⟧利莫大焉。」乃以便宜案兵告大農軍，而使使奉王頭馳報天子。詔罷兩將兵，曰：「郢等首惡，獨無諸孫繇君丑不與謀焉。」⟦2⟧乃使郎中將立丑爲越繇王，奉閩越先祭祀。",
       "mentions": [
         {
-          "entity_id": "event_009",
-          "entity_name": "建元六年闽越击南越",
-          "entity_type": "event",
           "start": 6,
           "end": 11,
-          "surface": "閩越擊南越"
+          "entity_id": "event_009",
+          "entity_name": "建元六年闽越击南越",
+          "text": "閩越擊南越"
         },
         {
-          "entity_id": "place_019",
-          "entity_name": "南越国",
-          "entity_type": "place",
           "start": 12,
           "end": 14,
-          "surface": "南越"
-        },
-        {
-          "entity_id": "person_010",
-          "entity_name": "刘彻（汉武帝）",
-          "entity_type": "person",
-          "start": 15,
-          "end": 17,
-          "surface": "天子"
-        },
-        {
-          "entity_id": "person_010",
-          "entity_name": "刘彻（汉武帝）",
-          "entity_type": "person",
-          "start": 29,
-          "end": 30,
-          "surface": "上"
-        },
-        {
-          "entity_id": "person_013",
-          "entity_name": "王恢",
-          "entity_type": "person",
-          "start": 31,
-          "end": 35,
-          "surface": "大行王恢"
-        },
-        {
-          "entity_id": "place_007",
-          "entity_name": "豫章",
-          "entity_type": "place",
-          "start": 36,
-          "end": 38,
-          "surface": "豫章"
-        },
-        {
-          "entity_id": "person_014",
-          "entity_name": "韩安国",
-          "entity_type": "person",
-          "start": 39,
-          "end": 44,
-          "surface": "大農韓安國"
-        },
-        {
-          "entity_id": "place_005",
-          "entity_name": "会稽",
-          "entity_type": "place",
-          "start": 45,
-          "end": 47,
-          "surface": "會稽"
-        },
-        {
-          "entity_id": "person_012",
-          "entity_name": "郢（闽越王）",
-          "entity_type": "person",
-          "start": 58,
-          "end": 62,
-          "surface": "閩越王郢"
-        },
-        {
-          "entity_id": "person_015",
-          "entity_name": "余善（东越王）",
-          "entity_type": "person",
-          "start": 69,
-          "end": 71,
-          "surface": "餘善"
-        },
-        {
           "entity_id": "place_019",
           "entity_name": "南越国",
-          "entity_type": "place",
-          "start": 87,
-          "end": 89,
-          "surface": "南越"
+          "text": "南越"
         },
         {
+          "start": 15,
+          "end": 17,
           "entity_id": "person_010",
           "entity_name": "刘彻（汉武帝）",
-          "entity_type": "person",
-          "start": 94,
-          "end": 96,
-          "surface": "天子"
+          "text": "天子"
         },
         {
-          "entity_id": "person_005",
-          "entity_name": "刘邦（汉高祖）",
-          "entity_type": "person",
-          "start": 101,
-          "end": 102,
-          "surface": "漢"
-        },
-        {
+          "start": 29,
+          "end": 30,
           "entity_id": "person_010",
           "entity_name": "刘彻（汉武帝）",
-          "entity_type": "person",
-          "start": 128,
-          "end": 130,
-          "surface": "天子"
+          "text": "上"
         },
         {
-          "entity_id": "person_010",
-          "entity_name": "刘彻（汉武帝）",
-          "entity_type": "person",
-          "start": 131,
-          "end": 133,
-          "surface": "天子"
+          "start": 33,
+          "end": 35,
+          "entity_id": "person_013",
+          "entity_name": "王恢",
+          "text": "王恢"
         },
         {
-          "entity_id": "person_010",
-          "entity_name": "刘彻（汉武帝）",
-          "entity_type": "person",
-          "start": 235,
-          "end": 237,
-          "surface": "天子"
+          "start": 36,
+          "end": 38,
+          "entity_id": "place_007",
+          "entity_name": "豫章",
+          "text": "豫章"
         },
         {
+          "start": 41,
+          "end": 44,
+          "entity_id": "person_014",
+          "entity_name": "韩安国",
+          "text": "韓安國"
+        },
+        {
+          "start": 45,
+          "end": 47,
+          "entity_id": "place_005",
+          "entity_name": "会稽",
+          "text": "會稽"
+        },
+        {
+          "start": 58,
+          "end": 62,
           "entity_id": "person_012",
           "entity_name": "郢（闽越王）",
-          "entity_type": "person",
+          "text": "閩越王郢"
+        },
+        {
+          "start": 69,
+          "end": 71,
+          "entity_id": "person_015",
+          "entity_name": "余善（东越王）",
+          "text": "餘善"
+        },
+        {
+          "start": 87,
+          "end": 89,
+          "entity_id": "place_019",
+          "entity_name": "南越国",
+          "text": "南越"
+        },
+        {
+          "start": 94,
+          "end": 96,
+          "entity_id": "person_010",
+          "entity_name": "刘彻（汉武帝）",
+          "text": "天子"
+        },
+        {
+          "start": 101,
+          "end": 102,
+          "entity_id": "person_005",
+          "entity_name": "刘邦（汉高祖）",
+          "text": "漢"
+        },
+        {
+          "start": 128,
+          "end": 130,
+          "entity_id": "person_010",
+          "entity_name": "刘彻（汉武帝）",
+          "text": "天子"
+        },
+        {
+          "start": 131,
+          "end": 133,
+          "entity_id": "person_010",
+          "entity_name": "刘彻（汉武帝）",
+          "text": "天子"
+        },
+        {
+          "start": 235,
+          "end": 237,
+          "entity_id": "person_010",
+          "entity_name": "刘彻（汉武帝）",
+          "text": "天子"
+        },
+        {
           "start": 247,
           "end": 248,
-          "surface": "郢"
+          "entity_id": "person_012",
+          "entity_name": "郢（闽越王）",
+          "text": "郢"
         },
         {
-          "entity_id": "person_000",
-          "entity_name": "无诸（闽越王）",
-          "entity_type": "person",
           "start": 253,
           "end": 255,
-          "surface": "無諸"
+          "entity_id": "person_000",
+          "entity_name": "无诸（闽越王）",
+          "text": "無諸"
         },
         {
-          "entity_id": "person_016",
-          "entity_name": "繇君丑",
-          "entity_type": "person",
           "start": 256,
           "end": 259,
-          "surface": "繇君丑"
+          "entity_id": "person_016",
+          "entity_name": "繇君丑",
+          "text": "繇君丑"
         },
         {
-          "entity_id": "event_012",
-          "entity_name": "立丑为越繇王",
-          "entity_type": "event",
           "start": 273,
           "end": 279,
-          "surface": "立丑爲越繇王"
+          "entity_id": "event_012",
+          "entity_name": "立丑为越繇王",
+          "text": "立丑爲越繇王"
         },
         {
-          "entity_id": "place_017",
-          "entity_name": "闽越",
-          "entity_type": "place",
           "start": 281,
           "end": 283,
-          "surface": "閩越"
+          "entity_id": "place_017",
+          "entity_name": "闽越",
+          "text": "閩越"
         }
       ]
     },
@@ -674,76 +622,67 @@
       "text": "餘善已殺郢，威行於國，國民多屬，竊自立爲王。繇王不能矯其衆持正。天子聞之，爲餘善不足復興師，曰：「餘善數與郢謀亂，而後首誅郢，師得不勞。」因立餘善爲東越王，與繇王並處。",
       "mentions": [
         {
-          "entity_id": "person_015",
-          "entity_name": "余善（东越王）",
-          "entity_type": "person",
           "start": 0,
           "end": 2,
-          "surface": "餘善"
+          "entity_id": "person_015",
+          "entity_name": "余善（东越王）",
+          "text": "餘善"
         },
         {
-          "entity_id": "person_012",
-          "entity_name": "郢（闽越王）",
-          "entity_type": "person",
           "start": 4,
           "end": 5,
-          "surface": "郢"
+          "entity_id": "person_012",
+          "entity_name": "郢（闽越王）",
+          "text": "郢"
         },
         {
-          "entity_id": "person_010",
-          "entity_name": "刘彻（汉武帝）",
-          "entity_type": "person",
           "start": 32,
           "end": 34,
-          "surface": "天子"
+          "entity_id": "person_010",
+          "entity_name": "刘彻（汉武帝）",
+          "text": "天子"
         },
         {
-          "entity_id": "person_015",
-          "entity_name": "余善（东越王）",
-          "entity_type": "person",
           "start": 38,
           "end": 40,
-          "surface": "餘善"
-        },
-        {
           "entity_id": "person_015",
           "entity_name": "余善（东越王）",
-          "entity_type": "person",
+          "text": "餘善"
+        },
+        {
           "start": 49,
           "end": 51,
-          "surface": "餘善"
-        },
-        {
-          "entity_id": "person_012",
-          "entity_name": "郢（闽越王）",
-          "entity_type": "person",
-          "start": 53,
-          "end": 54,
-          "surface": "郢"
-        },
-        {
-          "entity_id": "person_012",
-          "entity_name": "郢（闽越王）",
-          "entity_type": "person",
-          "start": 61,
-          "end": 62,
-          "surface": "郢"
-        },
-        {
           "entity_id": "person_015",
           "entity_name": "余善（东越王）",
-          "entity_type": "person",
-          "start": 71,
-          "end": 73,
-          "surface": "餘善"
+          "text": "餘善"
         },
         {
-          "entity_id": "place_021",
-          "entity_name": "东越",
-          "entity_type": "place",
+          "start": 53,
+          "end": 54,
+          "entity_id": "person_012",
+          "entity_name": "郢（闽越王）",
+          "text": "郢"
+        },
+        {
+          "start": 61,
+          "end": 62,
+          "entity_id": "person_012",
+          "entity_name": "郢（闽越王）",
+          "text": "郢"
+        },
+        {
+          "start": 71,
+          "end": 73,
+          "entity_id": "person_015",
+          "entity_name": "余善（东越王）",
+          "text": "餘善"
+        },
+        {
           "start": 74,
           "end": 76,
-          "surface": "東越"
+          "entity_id": "place_022",
+          "entity_name": "东越国",
+          "text": "東越"
         }
       ]
     },
@@ -752,132 +691,116 @@
       "text": "至元鼎五年，南越反，東越王餘善上書，請以卒八千人從樓船將軍擊呂嘉等。兵至揭揚，以海風波爲解，不行，持兩端，陰使南越。及漢破番禺，不至。是時樓船將軍楊僕使使上書，願便引兵擊東越。上曰士卒勞倦，不許，罷兵，令諸校屯豫章梅領待命。⟦0⟧⟦1⟧⟦2⟧",
       "mentions": [
         {
-          "entity_id": "place_019",
-          "entity_name": "南越国",
-          "entity_type": "place",
           "start": 6,
           "end": 8,
-          "surface": "南越"
-        },
-        {
-          "entity_id": "place_021",
-          "entity_name": "东越",
-          "entity_type": "place",
-          "start": 10,
-          "end": 12,
-          "surface": "東越"
-        },
-        {
-          "entity_id": "person_015",
-          "entity_name": "余善（东越王）",
-          "entity_type": "person",
-          "start": 13,
-          "end": 15,
-          "surface": "餘善"
-        },
-        {
-          "entity_id": "person_010",
-          "entity_name": "刘彻（汉武帝）",
-          "entity_type": "person",
-          "start": 15,
-          "end": 16,
-          "surface": "上"
-        },
-        {
-          "entity_id": "person_017",
-          "entity_name": "杨仆（楼船将军）",
-          "entity_type": "person",
-          "start": 25,
-          "end": 29,
-          "surface": "樓船將軍"
-        },
-        {
-          "entity_id": "place_009",
-          "entity_name": "揭阳",
-          "entity_type": "place",
-          "start": 36,
-          "end": 38,
-          "surface": "揭揚"
-        },
-        {
-          "entity_id": "concept_002",
-          "entity_name": "持两端",
-          "entity_type": "concept",
-          "start": 49,
-          "end": 52,
-          "surface": "持兩端"
-        },
-        {
           "entity_id": "place_019",
           "entity_name": "南越国",
-          "entity_type": "place",
+          "text": "南越"
+        },
+        {
+          "start": 10,
+          "end": 12,
+          "entity_id": "place_022",
+          "entity_name": "东越国",
+          "text": "東越"
+        },
+        {
+          "start": 13,
+          "end": 15,
+          "entity_id": "person_015",
+          "entity_name": "余善（东越王）",
+          "text": "餘善"
+        },
+        {
+          "start": 15,
+          "end": 16,
+          "entity_id": "person_010",
+          "entity_name": "刘彻（汉武帝）",
+          "text": "上"
+        },
+        {
+          "start": 25,
+          "end": 29,
+          "entity_id": "person_017",
+          "entity_name": "杨仆（楼船将军）",
+          "text": "樓船將軍"
+        },
+        {
+          "start": 36,
+          "end": 38,
+          "entity_id": "place_009",
+          "entity_name": "揭阳",
+          "text": "揭揚"
+        },
+        {
+          "start": 49,
+          "end": 52,
+          "entity_id": "concept_002",
+          "entity_name": "持两端",
+          "text": "持兩端"
+        },
+        {
           "start": 55,
           "end": 57,
-          "surface": "南越"
+          "entity_id": "place_019",
+          "entity_name": "南越国",
+          "text": "南越"
         },
         {
-          "entity_id": "person_005",
-          "entity_name": "刘邦（汉高祖）",
-          "entity_type": "person",
           "start": 59,
           "end": 60,
-          "surface": "漢"
+          "entity_id": "person_005",
+          "entity_name": "刘邦（汉高祖）",
+          "text": "漢"
         },
         {
-          "entity_id": "person_017",
-          "entity_name": "杨仆（楼船将军）",
-          "entity_type": "person",
           "start": 69,
           "end": 73,
-          "surface": "樓船將軍"
-        },
-        {
           "entity_id": "person_017",
           "entity_name": "杨仆（楼船将军）",
-          "entity_type": "person",
+          "text": "樓船將軍"
+        },
+        {
           "start": 73,
           "end": 75,
-          "surface": "楊僕"
+          "entity_id": "person_017",
+          "entity_name": "杨仆（楼船将军）",
+          "text": "楊僕"
         },
         {
-          "entity_id": "person_010",
-          "entity_name": "刘彻（汉武帝）",
-          "entity_type": "person",
           "start": 77,
           "end": 78,
-          "surface": "上"
-        },
-        {
-          "entity_id": "place_021",
-          "entity_name": "东越",
-          "entity_type": "place",
-          "start": 85,
-          "end": 87,
-          "surface": "東越"
-        },
-        {
           "entity_id": "person_010",
           "entity_name": "刘彻（汉武帝）",
-          "entity_type": "person",
+          "text": "上"
+        },
+        {
+          "start": 85,
+          "end": 87,
+          "entity_id": "place_022",
+          "entity_name": "东越国",
+          "text": "東越"
+        },
+        {
           "start": 88,
           "end": 89,
-          "surface": "上"
+          "entity_id": "person_010",
+          "entity_name": "刘彻（汉武帝）",
+          "text": "上"
         },
         {
-          "entity_id": "place_007",
-          "entity_name": "豫章",
-          "entity_type": "place",
           "start": 105,
           "end": 107,
-          "surface": "豫章"
+          "entity_id": "place_007",
+          "entity_name": "豫章",
+          "text": "豫章"
         },
         {
-          "entity_id": "place_008",
-          "entity_name": "梅岭",
-          "entity_type": "place",
           "start": 107,
           "end": 109,
-          "surface": "梅領"
+          "entity_id": "place_008",
+          "entity_name": "梅岭",
+          "text": "梅領"
         }
       ]
     },
@@ -886,116 +809,102 @@
       "text": "元鼎六年秋，餘善聞樓船請誅之，漢兵臨境，且往，乃遂反，發兵距漢道。號將軍騶力等爲「吞漢將軍」，入白沙、武林、⟦0⟧⟦1⟧梅嶺，殺漢三校尉。是時漢使大農張成、故山州侯齒⟦2⟧將屯，弗敢擊，却就便處，皆坐畏懦誅。",
       "mentions": [
         {
-          "entity_id": "person_015",
-          "entity_name": "余善（东越王）",
-          "entity_type": "person",
           "start": 6,
           "end": 8,
-          "surface": "餘善"
+          "entity_id": "person_015",
+          "entity_name": "余善（东越王）",
+          "text": "餘善"
         },
         {
-          "entity_id": "concept_004",
-          "entity_name": "楼船",
-          "entity_type": "concept",
           "start": 9,
           "end": 11,
-          "surface": "樓船"
+          "entity_id": "concept_004",
+          "entity_name": "楼船",
+          "text": "樓船"
         },
         {
-          "entity_id": "person_005",
-          "entity_name": "刘邦（汉高祖）",
-          "entity_type": "person",
           "start": 15,
           "end": 16,
-          "surface": "漢"
-        },
-        {
           "entity_id": "person_005",
           "entity_name": "刘邦（汉高祖）",
-          "entity_type": "person",
+          "text": "漢"
+        },
+        {
           "start": 30,
           "end": 31,
-          "surface": "漢"
+          "entity_id": "person_005",
+          "entity_name": "刘邦（汉高祖）",
+          "text": "漢"
         },
         {
-          "entity_id": "person_018",
-          "entity_name": "驺力（吞汉将军）",
-          "entity_type": "person",
           "start": 34,
           "end": 38,
-          "surface": "將軍騶力"
-        },
-        {
           "entity_id": "person_018",
           "entity_name": "驺力（吞汉将军）",
-          "entity_type": "person",
+          "text": "將軍騶力"
+        },
+        {
           "start": 41,
           "end": 45,
-          "surface": "吞漢將軍"
+          "entity_id": "person_018",
+          "entity_name": "驺力（吞汉将军）",
+          "text": "吞漢將軍"
         },
         {
-          "entity_id": "place_010",
-          "entity_name": "白沙",
-          "entity_type": "place",
           "start": 48,
           "end": 50,
-          "surface": "白沙"
+          "entity_id": "place_010",
+          "entity_name": "白沙",
+          "text": "白沙"
         },
         {
-          "entity_id": "place_011",
-          "entity_name": "武林",
-          "entity_type": "place",
           "start": 51,
           "end": 53,
-          "surface": "武林"
+          "entity_id": "place_011",
+          "entity_name": "武林",
+          "text": "武林"
         },
         {
-          "entity_id": "place_008",
-          "entity_name": "梅岭",
-          "entity_type": "place",
           "start": 60,
           "end": 62,
-          "surface": "梅嶺"
+          "entity_id": "place_008",
+          "entity_name": "梅岭",
+          "text": "梅嶺"
         },
         {
-          "entity_id": "person_005",
-          "entity_name": "刘邦（汉高祖）",
-          "entity_type": "person",
           "start": 64,
           "end": 65,
-          "surface": "漢"
-        },
-        {
           "entity_id": "person_005",
           "entity_name": "刘邦（汉高祖）",
-          "entity_type": "person",
+          "text": "漢"
+        },
+        {
           "start": 71,
           "end": 72,
-          "surface": "漢"
+          "entity_id": "person_005",
+          "entity_name": "刘邦（汉高祖）",
+          "text": "漢"
         },
         {
-          "entity_id": "person_019",
-          "entity_name": "张成",
-          "entity_type": "person",
           "start": 73,
           "end": 77,
-          "surface": "大農張成"
+          "entity_id": "person_019",
+          "entity_name": "张成",
+          "text": "大農張成"
         },
         {
-          "entity_id": "person_020",
-          "entity_name": "刘齿（山州侯）",
-          "entity_type": "person",
           "start": 78,
           "end": 83,
-          "surface": "故山州侯齒"
+          "entity_id": "person_020",
+          "entity_name": "刘齿（山州侯）",
+          "text": "故山州侯齒"
         },
         {
-          "entity_id": "concept_003",
-          "entity_name": "坐畏懦诛",
-          "entity_type": "concept",
           "start": 99,
           "end": 103,
-          "surface": "坐畏懦誅"
+          "entity_id": "concept_003",
+          "entity_name": "坐畏懦诛",
+          "text": "坐畏懦誅"
         }
       ]
     },
@@ -1004,204 +913,193 @@
       "text": "餘善刻「武帝」璽自立，詐其民，爲妄言。天子遣橫海將軍韓說出句章，⟦0⟧⟦1⟧浮海從東方往；樓船將軍楊僕出武林；中尉王溫舒出梅嶺；越侯爲戈船、下瀨將軍，出若邪、白沙。⟦2⟧⟦3⟧元封元年冬，咸入東越。東越素發兵距險，使徇北將軍守武林，敗樓船軍數校尉，殺長吏。樓船將軍率錢唐轅終古⟦4⟧斬徇北將軍，爲禦兒侯。⟦5⟧⟦6⟧自兵未往。",
       "mentions": [
         {
-          "entity_id": "person_015",
-          "entity_name": "余善（东越王）",
-          "entity_type": "person",
           "start": 0,
           "end": 2,
-          "surface": "餘善"
+          "entity_id": "person_015",
+          "entity_name": "余善（东越王）",
+          "text": "餘善"
         },
         {
-          "entity_id": "person_010",
-          "entity_name": "刘彻（汉武帝）",
-          "entity_type": "person",
           "start": 4,
           "end": 6,
-          "surface": "武帝"
-        },
-        {
           "entity_id": "person_010",
           "entity_name": "刘彻（汉武帝）",
-          "entity_type": "person",
+          "text": "武帝"
+        },
+        {
           "start": 19,
           "end": 21,
-          "surface": "天子"
+          "entity_id": "person_010",
+          "entity_name": "刘彻（汉武帝）",
+          "text": "天子"
         },
         {
+          "start": 22,
+          "end": 26,
           "entity_id": "person_021",
           "entity_name": "韩说（横海将军）",
-          "entity_type": "person",
-          "start": 22,
-          "end": 28,
-          "surface": "橫海將軍韓說"
+          "text": "橫海將軍"
         },
         {
-          "entity_id": "place_012",
-          "entity_name": "句章",
-          "entity_type": "place",
+          "start": 26,
+          "end": 28,
+          "entity_id": "person_021",
+          "entity_name": "韩说（横海将军）",
+          "text": "韓說"
+        },
+        {
           "start": 29,
           "end": 31,
-          "surface": "句章"
+          "entity_id": "place_012",
+          "entity_name": "句章",
+          "text": "句章"
         },
         {
-          "entity_id": "concept_007",
-          "entity_name": "浮海",
-          "entity_type": "concept",
           "start": 38,
           "end": 40,
-          "surface": "浮海"
+          "entity_id": "concept_007",
+          "entity_name": "浮海",
+          "text": "浮海"
         },
         {
-          "entity_id": "person_017",
-          "entity_name": "杨仆（楼船将军）",
-          "entity_type": "person",
           "start": 45,
           "end": 49,
-          "surface": "樓船將軍"
-        },
-        {
           "entity_id": "person_017",
           "entity_name": "杨仆（楼船将军）",
-          "entity_type": "person",
+          "text": "樓船將軍"
+        },
+        {
           "start": 49,
           "end": 51,
-          "surface": "楊僕"
-        },
-        {
-          "entity_id": "place_011",
-          "entity_name": "武林",
-          "entity_type": "place",
-          "start": 52,
-          "end": 54,
-          "surface": "武林"
-        },
-        {
-          "entity_id": "person_022",
-          "entity_name": "王温舒",
-          "entity_type": "person",
-          "start": 55,
-          "end": 60,
-          "surface": "中尉王溫舒"
-        },
-        {
-          "entity_id": "place_008",
-          "entity_name": "梅岭",
-          "entity_type": "place",
-          "start": 61,
-          "end": 63,
-          "surface": "梅嶺"
-        },
-        {
-          "entity_id": "person_023",
-          "entity_name": "戈船/下濑将军",
-          "entity_type": "person",
-          "start": 64,
-          "end": 66,
-          "surface": "越侯"
-        },
-        {
-          "entity_id": "person_023",
-          "entity_name": "戈船/下濑将军",
-          "entity_type": "person",
-          "start": 67,
-          "end": 69,
-          "surface": "戈船"
-        },
-        {
-          "entity_id": "person_023",
-          "entity_name": "戈船/下濑将军",
-          "entity_type": "person",
-          "start": 70,
-          "end": 74,
-          "surface": "下瀨將軍"
-        },
-        {
-          "entity_id": "place_013",
-          "entity_name": "若邪",
-          "entity_type": "place",
-          "start": 76,
-          "end": 78,
-          "surface": "若邪"
-        },
-        {
-          "entity_id": "place_010",
-          "entity_name": "白沙",
-          "entity_type": "place",
-          "start": 79,
-          "end": 81,
-          "surface": "白沙"
-        },
-        {
-          "entity_id": "place_021",
-          "entity_name": "东越",
-          "entity_type": "place",
-          "start": 96,
-          "end": 98,
-          "surface": "東越"
-        },
-        {
-          "entity_id": "place_021",
-          "entity_name": "东越",
-          "entity_type": "place",
-          "start": 99,
-          "end": 101,
-          "surface": "東越"
-        },
-        {
-          "entity_id": "person_024",
-          "entity_name": "徇北将军",
-          "entity_type": "person",
-          "start": 108,
-          "end": 112,
-          "surface": "徇北將軍"
-        },
-        {
-          "entity_id": "place_011",
-          "entity_name": "武林",
-          "entity_type": "place",
-          "start": 113,
-          "end": 115,
-          "surface": "武林"
-        },
-        {
-          "entity_id": "concept_004",
-          "entity_name": "楼船",
-          "entity_type": "concept",
-          "start": 117,
-          "end": 119,
-          "surface": "樓船"
-        },
-        {
           "entity_id": "person_017",
           "entity_name": "杨仆（楼船将军）",
-          "entity_type": "person",
-          "start": 128,
-          "end": 132,
-          "surface": "樓船將軍"
+          "text": "楊僕"
         },
         {
-          "entity_id": "person_025",
-          "entity_name": "辕终古",
-          "entity_type": "person",
-          "start": 133,
-          "end": 138,
-          "surface": "錢唐轅終古"
+          "start": 52,
+          "end": 54,
+          "entity_id": "place_011",
+          "entity_name": "武林",
+          "text": "武林"
         },
         {
+          "start": 57,
+          "end": 60,
+          "entity_id": "person_022",
+          "entity_name": "王温舒",
+          "text": "王溫舒"
+        },
+        {
+          "start": 61,
+          "end": 63,
+          "entity_id": "place_008",
+          "entity_name": "梅岭",
+          "text": "梅嶺"
+        },
+        {
+          "start": 64,
+          "end": 66,
+          "entity_id": "person_023",
+          "entity_name": "戈船/下濑将军",
+          "text": "越侯"
+        },
+        {
+          "start": 67,
+          "end": 69,
+          "entity_id": "person_023",
+          "entity_name": "戈船/下濑将军",
+          "text": "戈船"
+        },
+        {
+          "start": 70,
+          "end": 74,
+          "entity_id": "person_023",
+          "entity_name": "戈船/下濑将军",
+          "text": "下瀨將軍"
+        },
+        {
+          "start": 76,
+          "end": 78,
+          "entity_id": "place_013",
+          "entity_name": "若邪",
+          "text": "若邪"
+        },
+        {
+          "start": 79,
+          "end": 81,
+          "entity_id": "place_010",
+          "entity_name": "白沙",
+          "text": "白沙"
+        },
+        {
+          "start": 96,
+          "end": 98,
+          "entity_id": "place_022",
+          "entity_name": "东越国",
+          "text": "東越"
+        },
+        {
+          "start": 99,
+          "end": 101,
+          "entity_id": "place_022",
+          "entity_name": "东越国",
+          "text": "東越"
+        },
+        {
+          "start": 108,
+          "end": 112,
           "entity_id": "person_024",
           "entity_name": "徇北将军",
-          "entity_type": "person",
-          "start": 142,
-          "end": 146,
-          "surface": "徇北將軍"
+          "text": "徇北將軍"
         },
         {
-          "entity_id": "place_015",
-          "entity_name": "御儿",
-          "entity_type": "place",
+          "start": 113,
+          "end": 115,
+          "entity_id": "place_011",
+          "entity_name": "武林",
+          "text": "武林"
+        },
+        {
+          "start": 117,
+          "end": 119,
+          "entity_id": "concept_004",
+          "entity_name": "楼船",
+          "text": "樓船"
+        },
+        {
+          "start": 128,
+          "end": 132,
+          "entity_id": "person_017",
+          "entity_name": "杨仆（楼船将军）",
+          "text": "樓船將軍"
+        },
+        {
+          "start": 133,
+          "end": 135,
+          "entity_id": "place_014",
+          "entity_name": "钱唐",
+          "text": "錢唐"
+        },
+        {
+          "start": 135,
+          "end": 138,
+          "entity_id": "person_025",
+          "entity_name": "辕终古",
+          "text": "轅終古"
+        },
+        {
+          "start": 142,
+          "end": 146,
+          "entity_id": "person_024",
+          "entity_name": "徇北将军",
+          "text": "徇北將軍"
+        },
+        {
           "start": 148,
           "end": 150,
-          "surface": "禦兒"
+          "entity_id": "place_015",
+          "entity_name": "御儿",
+          "text": "禦兒"
         }
       ]
     },
@@ -1210,188 +1108,165 @@
       "text": "故越衍侯吳陽前在漢，漢使歸諭餘善，餘善弗聽。及橫海將軍先至，越衍侯吳陽以其邑七百人反，攻越軍於漢陽。從建成侯敖，⟦0⟧與其率，從繇王居股謀曰：「餘善首惡，劫守吾屬。今漢兵至，衆彊，計殺餘善，自歸諸將，儻幸得脫。」乃遂俱殺餘善，以其衆降橫海將軍，故封繇王居股爲東成侯，⟦1⟧萬戶；封建成侯敖爲開陵侯；⟦2⟧封越衍侯吳陽爲北石侯；封橫海將軍說爲按道侯；封橫海校尉福爲繚嫈侯。⟦3⟧⟦4⟧福者，成陽共王子，故爲海常侯，坐法失侯。舊從軍無功，以宗室故侯。諸將皆無成功，莫封。東越將多軍，⟦5⟧⟦6⟧漢兵至，弃其軍降，封爲無錫侯。",
       "mentions": [
         {
+          "start": 4,
+          "end": 6,
           "entity_id": "person_026",
           "entity_name": "吴阳",
-          "entity_type": "person",
-          "start": 1,
-          "end": 6,
-          "surface": "越衍侯吳陽"
+          "text": "吳陽"
         },
         {
-          "entity_id": "person_005",
-          "entity_name": "刘邦（汉高祖）",
-          "entity_type": "person",
           "start": 8,
           "end": 9,
-          "surface": "漢"
-        },
-        {
           "entity_id": "person_005",
           "entity_name": "刘邦（汉高祖）",
-          "entity_type": "person",
+          "text": "漢"
+        },
+        {
           "start": 10,
           "end": 11,
-          "surface": "漢"
+          "entity_id": "person_005",
+          "entity_name": "刘邦（汉高祖）",
+          "text": "漢"
         },
         {
-          "entity_id": "person_015",
-          "entity_name": "余善（东越王）",
-          "entity_type": "person",
           "start": 14,
           "end": 16,
-          "surface": "餘善"
-        },
-        {
           "entity_id": "person_015",
           "entity_name": "余善（东越王）",
-          "entity_type": "person",
+          "text": "餘善"
+        },
+        {
           "start": 17,
           "end": 19,
-          "surface": "餘善"
+          "entity_id": "person_015",
+          "entity_name": "余善（东越王）",
+          "text": "餘善"
         },
         {
-          "entity_id": "person_021",
-          "entity_name": "韩说（横海将军）",
-          "entity_type": "person",
           "start": 23,
           "end": 27,
-          "surface": "橫海將軍"
+          "entity_id": "person_021",
+          "entity_name": "韩说（横海将军）",
+          "text": "橫海將軍"
         },
         {
+          "start": 33,
+          "end": 35,
           "entity_id": "person_026",
           "entity_name": "吴阳",
-          "entity_type": "person",
-          "start": 30,
-          "end": 35,
-          "surface": "越衍侯吳陽"
+          "text": "吳陽"
         },
         {
-          "entity_id": "place_016",
-          "entity_name": "汉阳",
-          "entity_type": "place",
           "start": 47,
-          "end": 49,
-          "surface": "漢陽"
+          "end": 48,
+          "entity_id": "person_005",
+          "entity_name": "刘邦（汉高祖）",
+          "text": "漢"
         },
         {
-          "entity_id": "person_027",
-          "entity_name": "建成侯敖",
-          "entity_type": "person",
           "start": 51,
           "end": 55,
-          "surface": "建成侯敖"
-        },
-        {
-          "entity_id": "person_028",
-          "entity_name": "居股（繇王）",
-          "entity_type": "person",
-          "start": 64,
-          "end": 68,
-          "surface": "繇王居股"
-        },
-        {
-          "entity_id": "person_015",
-          "entity_name": "余善（东越王）",
-          "entity_type": "person",
-          "start": 72,
-          "end": 74,
-          "surface": "餘善"
-        },
-        {
-          "entity_id": "person_005",
-          "entity_name": "刘邦（汉高祖）",
-          "entity_type": "person",
-          "start": 83,
-          "end": 84,
-          "surface": "漢"
-        },
-        {
-          "entity_id": "person_015",
-          "entity_name": "余善（东越王）",
-          "entity_type": "person",
-          "start": 92,
-          "end": 94,
-          "surface": "餘善"
-        },
-        {
-          "entity_id": "person_015",
-          "entity_name": "余善（东越王）",
-          "entity_type": "person",
-          "start": 110,
-          "end": 112,
-          "surface": "餘善"
-        },
-        {
-          "entity_id": "person_021",
-          "entity_name": "韩说（横海将军）",
-          "entity_type": "person",
-          "start": 117,
-          "end": 121,
-          "surface": "橫海將軍"
-        },
-        {
-          "entity_id": "person_028",
-          "entity_name": "居股（繇王）",
-          "entity_type": "person",
-          "start": 124,
-          "end": 128,
-          "surface": "繇王居股"
-        },
-        {
           "entity_id": "person_027",
           "entity_name": "建成侯敖",
-          "entity_type": "person",
-          "start": 140,
-          "end": 144,
-          "surface": "建成侯敖"
+          "text": "建成侯敖"
         },
         {
-          "entity_id": "person_026",
-          "entity_name": "吴阳",
-          "entity_type": "person",
-          "start": 153,
-          "end": 158,
-          "surface": "越衍侯吳陽"
+          "start": 64,
+          "end": 68,
+          "entity_id": "person_028",
+          "entity_name": "居股（繇王）",
+          "text": "繇王居股"
         },
         {
-          "entity_id": "person_021",
-          "entity_name": "韩说（横海将军）",
-          "entity_type": "person",
-          "start": 164,
-          "end": 168,
-          "surface": "橫海將軍"
+          "start": 72,
+          "end": 74,
+          "entity_id": "person_015",
+          "entity_name": "余善（东越王）",
+          "text": "餘善"
         },
         {
-          "entity_id": "person_029",
-          "entity_name": "刘福（缭嫈侯）",
-          "entity_type": "person",
-          "start": 175,
-          "end": 180,
-          "surface": "橫海校尉福"
-        },
-        {
-          "entity_id": "person_029",
-          "entity_name": "刘福（缭嫈侯）",
-          "entity_type": "person",
-          "start": 191,
-          "end": 192,
-          "surface": "福"
-        },
-        {
-          "entity_id": "person_030",
-          "entity_name": "多军（无锡侯）",
-          "entity_type": "person",
-          "start": 233,
-          "end": 238,
-          "surface": "東越將多軍"
-        },
-        {
+          "start": 83,
+          "end": 84,
           "entity_id": "person_005",
           "entity_name": "刘邦（汉高祖）",
-          "entity_type": "person",
+          "text": "漢"
+        },
+        {
+          "start": 92,
+          "end": 94,
+          "entity_id": "person_015",
+          "entity_name": "余善（东越王）",
+          "text": "餘善"
+        },
+        {
+          "start": 110,
+          "end": 112,
+          "entity_id": "person_015",
+          "entity_name": "余善（东越王）",
+          "text": "餘善"
+        },
+        {
+          "start": 117,
+          "end": 121,
+          "entity_id": "person_021",
+          "entity_name": "韩说（横海将军）",
+          "text": "橫海將軍"
+        },
+        {
+          "start": 124,
+          "end": 128,
+          "entity_id": "person_028",
+          "entity_name": "居股（繇王）",
+          "text": "繇王居股"
+        },
+        {
+          "start": 140,
+          "end": 144,
+          "entity_id": "person_027",
+          "entity_name": "建成侯敖",
+          "text": "建成侯敖"
+        },
+        {
+          "start": 156,
+          "end": 158,
+          "entity_id": "person_026",
+          "entity_name": "吴阳",
+          "text": "吳陽"
+        },
+        {
+          "start": 164,
+          "end": 168,
+          "entity_id": "person_021",
+          "entity_name": "韩说（横海将军）",
+          "text": "橫海將軍"
+        },
+        {
+          "start": 175,
+          "end": 180,
+          "entity_id": "person_029",
+          "entity_name": "刘福（缭嫈侯）",
+          "text": "橫海校尉福"
+        },
+        {
+          "start": 191,
+          "end": 192,
+          "entity_id": "person_029",
+          "entity_name": "刘福（缭嫈侯）",
+          "text": "福"
+        },
+        {
+          "start": 233,
+          "end": 238,
+          "entity_id": "person_030",
+          "entity_name": "多军（无锡侯）",
+          "text": "東越將多軍"
+        },
+        {
           "start": 245,
           "end": 246,
-          "surface": "漢"
+          "entity_id": "person_005",
+          "entity_name": "刘邦（汉高祖）",
+          "text": "漢"
         }
       ]
     },
@@ -1400,36 +1275,32 @@
       "text": "於是天子曰東越狹多阻，閩越悍，數反覆，詔軍吏皆將其民徙處江淮間。東越地遂虛。",
       "mentions": [
         {
-          "entity_id": "person_010",
-          "entity_name": "刘彻（汉武帝）",
-          "entity_type": "person",
           "start": 2,
           "end": 4,
-          "surface": "天子"
+          "entity_id": "person_010",
+          "entity_name": "刘彻（汉武帝）",
+          "text": "天子"
         },
         {
-          "entity_id": "place_021",
-          "entity_name": "东越",
-          "entity_type": "place",
           "start": 5,
           "end": 7,
-          "surface": "東越"
+          "entity_id": "place_022",
+          "entity_name": "东越国",
+          "text": "東越"
         },
         {
-          "entity_id": "place_017",
-          "entity_name": "闽越",
-          "entity_type": "place",
           "start": 11,
           "end": 13,
-          "surface": "閩越"
+          "entity_id": "place_017",
+          "entity_name": "闽越",
+          "text": "閩越"
         },
         {
-          "entity_id": "place_021",
-          "entity_name": "东越",
-          "entity_type": "place",
           "start": 32,
           "end": 34,
-          "surface": "東越"
+          "entity_id": "place_022",
+          "entity_name": "东越国",
+          "text": "東越"
         }
       ]
     },
@@ -1438,36 +1309,32 @@
       "text": "太史公曰：越雖蠻夷，其先豈嘗有大功德於民哉，何其久也！歷數代常爲君王，句踐一稱伯。然餘善至大逆，滅國遷衆，其先苗裔繇王居股等猶尚封爲萬戶侯，由此知越世世爲公侯矣。蓋禹之餘烈也。",
       "mentions": [
         {
-          "entity_id": "person_002",
-          "entity_name": "勾践",
-          "entity_type": "person",
           "start": 35,
           "end": 37,
-          "surface": "句踐"
+          "entity_id": "person_002",
+          "entity_name": "勾践",
+          "text": "句踐"
         },
         {
-          "entity_id": "person_015",
-          "entity_name": "余善（东越王）",
-          "entity_type": "person",
           "start": 42,
           "end": 44,
-          "surface": "餘善"
+          "entity_id": "person_015",
+          "entity_name": "余善（东越王）",
+          "text": "餘善"
         },
         {
-          "entity_id": "person_028",
-          "entity_name": "居股（繇王）",
-          "entity_type": "person",
           "start": 57,
           "end": 61,
-          "surface": "繇王居股"
+          "entity_id": "person_028",
+          "entity_name": "居股（繇王）",
+          "text": "繇王居股"
         },
         {
-          "entity_id": "concept_008",
-          "entity_name": "禹之余烈",
-          "entity_type": "concept",
           "start": 82,
           "end": 86,
-          "surface": "禹之餘烈"
+          "entity_id": "concept_008",
+          "entity_name": "禹之余烈",
+          "text": "禹之餘烈"
         }
       ]
     },
@@ -1476,44 +1343,39 @@
       "text": "索隱述贊曰：句踐之裔，是曰無諸。旣席漢寵，寔因秦餘。騶、駱爲姓，閩中是居。王搖之立，爰處東隅。後嗣不道，自相誅鋤。",
       "mentions": [
         {
-          "entity_id": "person_002",
-          "entity_name": "勾践",
-          "entity_type": "person",
           "start": 6,
           "end": 8,
-          "surface": "句踐"
+          "entity_id": "person_002",
+          "entity_name": "勾践",
+          "text": "句踐"
         },
         {
-          "entity_id": "person_000",
-          "entity_name": "无诸（闽越王）",
-          "entity_type": "person",
           "start": 13,
           "end": 15,
-          "surface": "無諸"
+          "entity_id": "person_000",
+          "entity_name": "无诸（闽越王）",
+          "text": "無諸"
         },
         {
-          "entity_id": "person_005",
-          "entity_name": "刘邦（汉高祖）",
-          "entity_type": "person",
           "start": 18,
           "end": 19,
-          "surface": "漢"
+          "entity_id": "person_005",
+          "entity_name": "刘邦（汉高祖）",
+          "text": "漢"
         },
         {
-          "entity_id": "place_000",
-          "entity_name": "闽中郡",
-          "entity_type": "place",
           "start": 32,
           "end": 34,
-          "surface": "閩中"
+          "entity_id": "place_000",
+          "entity_name": "闽中郡",
+          "text": "閩中"
         },
         {
-          "entity_id": "person_001",
-          "entity_name": "摇（东海王）",
-          "entity_type": "person",
           "start": 38,
           "end": 39,
-          "surface": "搖"
+          "entity_id": "person_001",
+          "entity_name": "摇（东海王）",
+          "text": "搖"
         }
       ]
     }

@@ -1,0 +1,1137 @@
+{
+  "book_id": "shiji",
+  "chapter_id": "56",
+  "chapter_title": "西南夷列传第五十六",
+  "version": "final",
+  "generated_at": "2026-11-01T21:59:37.423386+00:00",
+  "paragraphs": [
+    {
+      "para_id": "p0",
+      "text": "西南夷君長⟦0⟧以什數，⟦1⟧夜郎最大；⟦2⟧⟦3⟧其西靡莫之屬⟦4⟧⟦5⟧以什數，滇最大；⟦6⟧⟦7⟧⟦8⟧自滇以北君長以什數，卭都最大：此皆魋結，⟦9⟧耕田，有邑聚。其外西自同師以東，⟦10⟧⟦11⟧北至楪榆，⟦12⟧⟦13⟧名爲嶲、昆明，⟦14⟧⟦15⟧⟦16⟧皆編髮，隨畜遷徙，⟦17⟧毋常處，毋君長，地方可數千里。自嶲以東北，君長以什數，徙、筰都最大；⟦18⟧⟦19⟧⟦20⟧自筰以東北，君長以什數，冉駹最大。⟦21⟧⟦22⟧其俗或士箸，或移徙，在蜀之西。自冉駹以東北，君長以什數，白馬最大，⟦23⟧⟦24⟧皆氐類也。此皆巴蜀西南外蠻夷也。",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 3,
+          "name": "西南夷",
+          "type": "concepts"
+        },
+        {
+          "start": 15,
+          "end": 17,
+          "name": "夜郎",
+          "type": "places"
+        },
+        {
+          "start": 28,
+          "end": 30,
+          "name": "靡莫",
+          "type": "places"
+        },
+        {
+          "start": 42,
+          "end": 43,
+          "name": "滇",
+          "type": "places"
+        },
+        {
+          "start": 56,
+          "end": 57,
+          "name": "滇",
+          "type": "places"
+        },
+        {
+          "start": 65,
+          "end": 67,
+          "name": "邛都",
+          "type": "places"
+        },
+        {
+          "start": 82,
+          "end": 84,
+          "name": "邑聚",
+          "type": "concepts"
+        },
+        {
+          "start": 89,
+          "end": 91,
+          "name": "同师",
+          "type": "places"
+        },
+        {
+          "start": 104,
+          "end": 106,
+          "name": "楪榆",
+          "type": "places"
+        },
+        {
+          "start": 117,
+          "end": 118,
+          "name": "嶲",
+          "type": "places"
+        },
+        {
+          "start": 119,
+          "end": 121,
+          "name": "昆明（夷）",
+          "type": "places"
+        },
+        {
+          "start": 135,
+          "end": 137,
+          "name": "编发",
+          "type": "concepts"
+        },
+        {
+          "start": 141,
+          "end": 142,
+          "name": "徙",
+          "type": "places"
+        },
+        {
+          "start": 163,
+          "end": 164,
+          "name": "嶲",
+          "type": "places"
+        },
+        {
+          "start": 174,
+          "end": 175,
+          "name": "徙",
+          "type": "places"
+        },
+        {
+          "start": 176,
+          "end": 178,
+          "name": "筰都",
+          "type": "places"
+        },
+        {
+          "start": 205,
+          "end": 207,
+          "name": "冉駹",
+          "type": "places"
+        },
+        {
+          "start": 221,
+          "end": 223,
+          "name": "土著",
+          "type": "concepts"
+        },
+        {
+          "start": 226,
+          "end": 227,
+          "name": "徙",
+          "type": "places"
+        },
+        {
+          "start": 234,
+          "end": 236,
+          "name": "冉駹",
+          "type": "places"
+        },
+        {
+          "start": 246,
+          "end": 248,
+          "name": "白马（氐）",
+          "type": "places"
+        }
+      ]
+    },
+    {
+      "para_id": "p1",
+      "text": "始楚威王時，使將軍莊蹻⟦0⟧將兵循江上，略巴蜀黔中以西。莊蹻者，故楚莊王苗裔也。⟦1⟧蹻至滇池，地方三百里，⟦2⟧⟦3⟧旁平地，肥饒數千里，以兵威定屬楚。欲歸報，會秦擊奪楚巴、黔中郡，道塞不通，因還，以其衆王滇，變服，從其俗，以長之。秦時常頞⟦4⟧略通五尺道，⟦5⟧⟦6⟧諸此國頗置吏焉。十餘歲，秦滅。及漢興，皆弃此國而開蜀故徼。巴蜀民或竊出商賈，取其筰馬、僰僮、⟦7⟧⟦8⟧髦牛，以此巴蜀殷富。",
+      "mentions": [
+        {
+          "start": 1,
+          "end": 4,
+          "name": "楚威王",
+          "type": "persons"
+        },
+        {
+          "start": 9,
+          "end": 11,
+          "name": "庄蹻",
+          "type": "persons"
+        },
+        {
+          "start": 23,
+          "end": 25,
+          "name": "黔中郡",
+          "type": "places"
+        },
+        {
+          "start": 28,
+          "end": 30,
+          "name": "庄蹻",
+          "type": "persons"
+        },
+        {
+          "start": 33,
+          "end": 36,
+          "name": "楚庄王",
+          "type": "persons"
+        },
+        {
+          "start": 45,
+          "end": 47,
+          "name": "滇池",
+          "type": "places"
+        },
+        {
+          "start": 75,
+          "end": 76,
+          "name": "楚",
+          "type": "places"
+        },
+        {
+          "start": 85,
+          "end": 86,
+          "name": "楚",
+          "type": "places"
+        },
+        {
+          "start": 88,
+          "end": 91,
+          "name": "黔中郡",
+          "type": "places"
+        },
+        {
+          "start": 104,
+          "end": 105,
+          "name": "滇",
+          "type": "places"
+        },
+        {
+          "start": 119,
+          "end": 121,
+          "name": "常頞",
+          "type": "persons"
+        },
+        {
+          "start": 126,
+          "end": 129,
+          "name": "五尺道",
+          "type": "places"
+        }
+      ]
+    },
+    {
+      "para_id": "p2",
+      "text": "建元六年，大行王恢擊東越，東越殺王郢以報。恢因兵威使番陽令⟦0⟧唐蒙風指曉南越。南越食蒙蜀枸醬，⟦1⟧⟦2⟧蒙問所從來，曰「道西北䍧柯，䍧柯江⟦3⟧廣數里，出番禺城下」。蒙歸至長安，問蜀賈人，賈人曰：「獨蜀出枸醬，多持竊出市夜郎。夜郎者，臨䍧柯江，江廣百餘步，足以行船。南越以財物役屬夜郎，西至同師，然亦不能臣使也。」蒙乃上書說上曰：「南越王黃屋左纛，地東西萬餘里，名爲外臣，實一州主也。今以長沙、豫章徃，水道多絕，難行。竊聞夜郎所有精兵，可得十餘萬，浮船䍧柯江，出其不意，此制越一奇也。誠以漢之彊，巴蜀之饒，通夜郎道，爲置吏，易甚。」上許之。乃拜蒙爲郎中將，將千人，食重萬餘人，⟦4⟧從巴蜀筰關入，遂見夜郎侯多同。蒙厚賜，喻以威德，約爲置吏，使其子爲令。夜郎旁小邑皆貪漢繒帛，以爲漢道險，終不能有也，乃且聽蒙約。還報，乃以爲犍爲郡。發巴蜀卒治道，自僰道指䍧柯江。⟦5⟧蜀人司馬相如亦言西夷卭、筰可置郡。使相如以郎中將往喻，皆如南夷，爲置一都尉，十餘縣，屬蜀。",
+      "mentions": [
+        {
+          "start": 5,
+          "end": 9,
+          "name": "王恢（大行）",
+          "type": "persons"
+        },
+        {
+          "start": 10,
+          "end": 12,
+          "name": "东越",
+          "type": "concepts"
+        },
+        {
+          "start": 13,
+          "end": 15,
+          "name": "东越",
+          "type": "concepts"
+        },
+        {
+          "start": 26,
+          "end": 28,
+          "name": "番阳",
+          "type": "places"
+        },
+        {
+          "start": 32,
+          "end": 34,
+          "name": "唐蒙",
+          "type": "persons"
+        },
+        {
+          "start": 34,
+          "end": 36,
+          "name": "风喻（讽喻）",
+          "type": "concepts"
+        },
+        {
+          "start": 37,
+          "end": 39,
+          "name": "南越",
+          "type": "places"
+        },
+        {
+          "start": 40,
+          "end": 42,
+          "name": "南越",
+          "type": "places"
+        },
+        {
+          "start": 45,
+          "end": 47,
+          "name": "枸酱",
+          "type": "concepts"
+        },
+        {
+          "start": 68,
+          "end": 71,
+          "name": "䍧柯江",
+          "type": "places"
+        },
+        {
+          "start": 79,
+          "end": 81,
+          "name": "番禺",
+          "type": "places"
+        },
+        {
+          "start": 88,
+          "end": 90,
+          "name": "长安",
+          "type": "places"
+        },
+        {
+          "start": 104,
+          "end": 106,
+          "name": "枸酱",
+          "type": "concepts"
+        },
+        {
+          "start": 112,
+          "end": 114,
+          "name": "夜郎",
+          "type": "places"
+        },
+        {
+          "start": 115,
+          "end": 117,
+          "name": "夜郎",
+          "type": "places"
+        },
+        {
+          "start": 120,
+          "end": 123,
+          "name": "䍧柯江",
+          "type": "places"
+        },
+        {
+          "start": 135,
+          "end": 137,
+          "name": "南越",
+          "type": "places"
+        },
+        {
+          "start": 142,
+          "end": 144,
+          "name": "夜郎",
+          "type": "places"
+        },
+        {
+          "start": 147,
+          "end": 149,
+          "name": "同师",
+          "type": "places"
+        },
+        {
+          "start": 168,
+          "end": 170,
+          "name": "南越",
+          "type": "places"
+        },
+        {
+          "start": 171,
+          "end": 175,
+          "name": "黄屋左纛",
+          "type": "concepts"
+        },
+        {
+          "start": 185,
+          "end": 187,
+          "name": "外臣",
+          "type": "concepts"
+        },
+        {
+          "start": 196,
+          "end": 198,
+          "name": "长沙（国）",
+          "type": "places"
+        },
+        {
+          "start": 199,
+          "end": 201,
+          "name": "豫章郡",
+          "type": "places"
+        },
+        {
+          "start": 213,
+          "end": 215,
+          "name": "夜郎",
+          "type": "places"
+        },
+        {
+          "start": 228,
+          "end": 231,
+          "name": "䍧柯江",
+          "type": "places"
+        },
+        {
+          "start": 256,
+          "end": 258,
+          "name": "夜郎",
+          "type": "places"
+        },
+        {
+          "start": 284,
+          "end": 286,
+          "name": "食重",
+          "type": "concepts"
+        },
+        {
+          "start": 296,
+          "end": 298,
+          "name": "筰关",
+          "type": "places"
+        },
+        {
+          "start": 302,
+          "end": 307,
+          "name": "多同（夜郎侯）",
+          "type": "persons"
+        },
+        {
+          "start": 317,
+          "end": 321,
+          "name": "便宜置吏",
+          "type": "concepts"
+        },
+        {
+          "start": 328,
+          "end": 330,
+          "name": "夜郎",
+          "type": "places"
+        },
+        {
+          "start": 363,
+          "end": 366,
+          "name": "犍为郡",
+          "type": "places"
+        },
+        {
+          "start": 375,
+          "end": 377,
+          "name": "僰道",
+          "type": "places"
+        },
+        {
+          "start": 378,
+          "end": 381,
+          "name": "䍧柯江",
+          "type": "places"
+        },
+        {
+          "start": 385,
+          "end": 391,
+          "name": "司马相如",
+          "type": "persons"
+        },
+        {
+          "start": 393,
+          "end": 395,
+          "name": "西夷",
+          "type": "places"
+        },
+        {
+          "start": 414,
+          "end": 416,
+          "name": "南夷",
+          "type": "places"
+        }
+      ]
+    },
+    {
+      "para_id": "p3",
+      "text": "當是時，巴蜀四郡⟦0⟧通西南夷道，戍轉相饟。數歲，道不通，士罷餓離溼死者甚衆；西南夷又數反，發兵興擊，秏費無功。上患之，使公孫弘往視問焉。還對，言其不便。及弘爲御史大夫，是時方築朔方以據河逐胡，弘因數言西南夷害，可且罷，專力事匈奴。上罷西夷，獨置南夷夜郎兩縣一都尉，⟦1⟧稍令犍爲自葆就。⟦2⟧",
+      "mentions": [
+        {
+          "start": 12,
+          "end": 15,
+          "name": "西南夷",
+          "type": "concepts"
+        },
+        {
+          "start": 17,
+          "end": 21,
+          "name": "戍转相饟",
+          "type": "concepts"
+        },
+        {
+          "start": 39,
+          "end": 42,
+          "name": "西南夷",
+          "type": "concepts"
+        },
+        {
+          "start": 61,
+          "end": 64,
+          "name": "公孙弘",
+          "type": "persons"
+        },
+        {
+          "start": 89,
+          "end": 91,
+          "name": "朔方（郡）",
+          "type": "places"
+        },
+        {
+          "start": 101,
+          "end": 104,
+          "name": "西南夷",
+          "type": "concepts"
+        },
+        {
+          "start": 113,
+          "end": 115,
+          "name": "匈奴",
+          "type": "places"
+        },
+        {
+          "start": 118,
+          "end": 120,
+          "name": "西夷",
+          "type": "places"
+        },
+        {
+          "start": 123,
+          "end": 125,
+          "name": "南夷",
+          "type": "places"
+        },
+        {
+          "start": 125,
+          "end": 127,
+          "name": "夜郎",
+          "type": "places"
+        }
+      ]
+    },
+    {
+      "para_id": "p4",
+      "text": "及元狩元年，博望侯張騫使大夏來，言居大夏時見蜀布、卭竹、杖，⟦0⟧使問所從來，曰「從東南身毒國，⟦1⟧⟦2⟧可數千里，得蜀賈人市」。或聞卭西可二千里有身毒國。騫因盛言大夏在漢西南，慕中國，患匈奴隔其道，誠通蜀，身毒國道便近，有利無害。於是天子乃令王然于、柏始昌、呂越人等，使間出西夷西，指求身毒國。至滇，滇王嘗羌⟦3⟧乃留，爲求道西十餘輩。歲餘，皆閉昆明，⟦4⟧⟦5⟧莫能通身毒國。",
+      "mentions": [
+        {
+          "start": 6,
+          "end": 11,
+          "name": "张骞（博望侯）",
+          "type": "persons"
+        },
+        {
+          "start": 12,
+          "end": 14,
+          "name": "大夏",
+          "type": "places"
+        },
+        {
+          "start": 18,
+          "end": 20,
+          "name": "大夏",
+          "type": "places"
+        },
+        {
+          "start": 44,
+          "end": 47,
+          "name": "身毒国",
+          "type": "places"
+        },
+        {
+          "start": 75,
+          "end": 78,
+          "name": "身毒国",
+          "type": "places"
+        },
+        {
+          "start": 83,
+          "end": 85,
+          "name": "大夏",
+          "type": "places"
+        },
+        {
+          "start": 95,
+          "end": 97,
+          "name": "匈奴",
+          "type": "places"
+        },
+        {
+          "start": 105,
+          "end": 108,
+          "name": "身毒国",
+          "type": "places"
+        },
+        {
+          "start": 119,
+          "end": 121,
+          "name": "汉武帝（刘彻）",
+          "type": "persons"
+        },
+        {
+          "start": 123,
+          "end": 126,
+          "name": "王然于",
+          "type": "persons"
+        },
+        {
+          "start": 127,
+          "end": 130,
+          "name": "柏始昌",
+          "type": "persons"
+        },
+        {
+          "start": 131,
+          "end": 134,
+          "name": "吕越人",
+          "type": "persons"
+        },
+        {
+          "start": 139,
+          "end": 141,
+          "name": "西夷",
+          "type": "places"
+        },
+        {
+          "start": 145,
+          "end": 148,
+          "name": "身毒国",
+          "type": "places"
+        },
+        {
+          "start": 150,
+          "end": 151,
+          "name": "滇",
+          "type": "places"
+        },
+        {
+          "start": 152,
+          "end": 156,
+          "name": "尝羌（滇王）",
+          "type": "persons"
+        },
+        {
+          "start": 175,
+          "end": 177,
+          "name": "昆明（夷）",
+          "type": "places"
+        },
+        {
+          "start": 187,
+          "end": 190,
+          "name": "身毒国",
+          "type": "places"
+        }
+      ]
+    },
+    {
+      "para_id": "p5",
+      "text": "滇王與漢使者言曰：「漢孰與我大？」及夜郎侯亦然。以道不通故，各自以爲一州主，不知漢廣大。使者還，因盛言滇大國，足事親附。天子注意焉。",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 2,
+          "name": "尝羌（滇王）",
+          "type": "persons"
+        },
+        {
+          "start": 3,
+          "end": 5,
+          "name": "汉使",
+          "type": "concepts"
+        },
+        {
+          "start": 10,
+          "end": 15,
+          "name": "滇夜郎自大问",
+          "type": "events"
+        },
+        {
+          "start": 18,
+          "end": 21,
+          "name": "多同（夜郎侯）",
+          "type": "persons"
+        },
+        {
+          "start": 44,
+          "end": 46,
+          "name": "汉使犍为太守",
+          "type": "persons"
+        },
+        {
+          "start": 51,
+          "end": 52,
+          "name": "滇",
+          "type": "places"
+        },
+        {
+          "start": 60,
+          "end": 62,
+          "name": "汉武帝（刘彻）",
+          "type": "persons"
+        }
+      ]
+    },
+    {
+      "para_id": "p6",
+      "text": "及至南越反，上使馳義侯因犍爲發南夷兵。且蘭君恐遠行，⟦0⟧旁國虜其老弱，乃與其衆反，殺使者及犍爲太守。漢乃發巴蜀罪人嘗擊南越者八校尉擊破之。會越已破，漢八校尉不下，即引兵還，行誅頭蘭。⟦1⟧頭蘭，常隔滇道者也。已平頭蘭，遂平南夷爲䍧柯郡。夜郎侯始倚南越，南越已滅，會還誅反者，夜郎遂入朝。上以爲夜郎王。",
+      "mentions": [
+        {
+          "start": 2,
+          "end": 4,
+          "name": "南越",
+          "type": "places"
+        },
+        {
+          "start": 8,
+          "end": 11,
+          "name": "驰义侯",
+          "type": "persons"
+        },
+        {
+          "start": 15,
+          "end": 17,
+          "name": "南夷",
+          "type": "places"
+        },
+        {
+          "start": 19,
+          "end": 22,
+          "name": "且兰君",
+          "type": "persons"
+        },
+        {
+          "start": 43,
+          "end": 45,
+          "name": "汉使犍为太守",
+          "type": "persons"
+        },
+        {
+          "start": 46,
+          "end": 50,
+          "name": "汉使犍为太守",
+          "type": "persons"
+        },
+        {
+          "start": 60,
+          "end": 62,
+          "name": "南越",
+          "type": "places"
+        },
+        {
+          "start": 89,
+          "end": 91,
+          "name": "头兰君",
+          "type": "persons"
+        },
+        {
+          "start": 95,
+          "end": 97,
+          "name": "头兰君",
+          "type": "persons"
+        },
+        {
+          "start": 100,
+          "end": 101,
+          "name": "滇",
+          "type": "places"
+        },
+        {
+          "start": 107,
+          "end": 109,
+          "name": "头兰君",
+          "type": "persons"
+        },
+        {
+          "start": 112,
+          "end": 114,
+          "name": "南夷",
+          "type": "places"
+        },
+        {
+          "start": 115,
+          "end": 118,
+          "name": "䍧柯郡",
+          "type": "places"
+        },
+        {
+          "start": 119,
+          "end": 122,
+          "name": "多同（夜郎侯）",
+          "type": "persons"
+        },
+        {
+          "start": 124,
+          "end": 126,
+          "name": "南越",
+          "type": "places"
+        },
+        {
+          "start": 127,
+          "end": 129,
+          "name": "南越",
+          "type": "places"
+        },
+        {
+          "start": 138,
+          "end": 140,
+          "name": "夜郎",
+          "type": "places"
+        },
+        {
+          "start": 147,
+          "end": 149,
+          "name": "夜郎",
+          "type": "places"
+        }
+      ]
+    },
+    {
+      "para_id": "p7",
+      "text": "南越破後，及漢誅且蘭、卭君，并殺筰侯，冉駹皆振恐，請臣置吏。乃以卭都爲越嶲郡，筰都爲沈犂郡，冉駹爲汶山郡，⟦0⟧廣漢西白馬爲武都郡。",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 2,
+          "name": "南越",
+          "type": "places"
+        },
+        {
+          "start": 19,
+          "end": 21,
+          "name": "冉駹",
+          "type": "places"
+        },
+        {
+          "start": 32,
+          "end": 34,
+          "name": "邛都",
+          "type": "places"
+        },
+        {
+          "start": 35,
+          "end": 38,
+          "name": "越嶲郡",
+          "type": "places"
+        },
+        {
+          "start": 39,
+          "end": 41,
+          "name": "筰都",
+          "type": "places"
+        },
+        {
+          "start": 42,
+          "end": 44,
+          "name": "沈犁郡",
+          "type": "places"
+        },
+        {
+          "start": 46,
+          "end": 48,
+          "name": "冉駹",
+          "type": "places"
+        },
+        {
+          "start": 49,
+          "end": 52,
+          "name": "汶山郡",
+          "type": "places"
+        },
+        {
+          "start": 56,
+          "end": 58,
+          "name": "广汉（郡）",
+          "type": "places"
+        },
+        {
+          "start": 59,
+          "end": 61,
+          "name": "白马（氐）",
+          "type": "places"
+        },
+        {
+          "start": 62,
+          "end": 65,
+          "name": "武都郡",
+          "type": "places"
+        }
+      ]
+    },
+    {
+      "para_id": "p8",
+      "text": "上使王然于以越破及誅南夷兵威風喻滇王入朝。滇王者，其衆數萬人，其旁東北有勞𣹰、靡莫，⟦0⟧皆同姓相扶，未肯聽。勞𣹰、靡莫數侵犯使者吏卒。元封二年，天子發巴蜀兵擊滅勞𣹰、靡莫，以兵臨滇。滇王始首善，以故弗誅。滇王離難西南夷，舉國降，請置吏入朝。於是以爲益州郡，賜滇王王印，復長其民。",
+      "mentions": [
+        {
+          "start": 2,
+          "end": 5,
+          "name": "王然于",
+          "type": "persons"
+        },
+        {
+          "start": 10,
+          "end": 12,
+          "name": "南夷",
+          "type": "places"
+        },
+        {
+          "start": 16,
+          "end": 18,
+          "name": "尝羌（滇王）",
+          "type": "persons"
+        },
+        {
+          "start": 21,
+          "end": 23,
+          "name": "尝羌（滇王）",
+          "type": "persons"
+        },
+        {
+          "start": 36,
+          "end": 38,
+          "name": "劳𣹰",
+          "type": "places"
+        },
+        {
+          "start": 39,
+          "end": 41,
+          "name": "靡莫",
+          "type": "places"
+        },
+        {
+          "start": 55,
+          "end": 57,
+          "name": "劳𣹰",
+          "type": "places"
+        },
+        {
+          "start": 58,
+          "end": 60,
+          "name": "靡莫",
+          "type": "places"
+        },
+        {
+          "start": 63,
+          "end": 65,
+          "name": "汉使犍为太守",
+          "type": "persons"
+        },
+        {
+          "start": 73,
+          "end": 75,
+          "name": "汉武帝（刘彻）",
+          "type": "persons"
+        },
+        {
+          "start": 81,
+          "end": 83,
+          "name": "劳𣹰",
+          "type": "places"
+        },
+        {
+          "start": 84,
+          "end": 86,
+          "name": "靡莫",
+          "type": "places"
+        },
+        {
+          "start": 90,
+          "end": 91,
+          "name": "滇",
+          "type": "places"
+        },
+        {
+          "start": 92,
+          "end": 94,
+          "name": "尝羌（滇王）",
+          "type": "persons"
+        },
+        {
+          "start": 103,
+          "end": 105,
+          "name": "尝羌（滇王）",
+          "type": "persons"
+        },
+        {
+          "start": 107,
+          "end": 110,
+          "name": "西南夷",
+          "type": "concepts"
+        },
+        {
+          "start": 125,
+          "end": 128,
+          "name": "益州郡",
+          "type": "places"
+        },
+        {
+          "start": 130,
+          "end": 134,
+          "name": "滇王王印",
+          "type": "concepts"
+        }
+      ]
+    },
+    {
+      "para_id": "p9",
+      "text": "西南夷君長以百數，獨夜郎、滇受王印。滇小邑，最寵焉。",
+      "mentions": [
+        {
+          "start": 0,
+          "end": 3,
+          "name": "西南夷",
+          "type": "concepts"
+        },
+        {
+          "start": 10,
+          "end": 12,
+          "name": "夜郎",
+          "type": "places"
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "name": "滇",
+          "type": "places"
+        },
+        {
+          "start": 18,
+          "end": 19,
+          "name": "滇",
+          "type": "places"
+        }
+      ]
+    },
+    {
+      "para_id": "p10",
+      "text": "太史公曰：楚之先豈有天祿哉？在周爲文王師，封楚。及周之衰，地稱五千里。秦滅諸候，唯楚苗裔尚有滇王。漢誅西南夷，國多滅矣，唯滇復爲寵王。然南夷之端，見枸醬番禺，大夏杖、卭竹。西夷後揃，剽分二方，⟦0⟧⟦1⟧卒爲七郡。⟦2⟧",
+      "mentions": [
+        {
+          "start": 5,
+          "end": 6,
+          "name": "楚",
+          "type": "places"
+        },
+        {
+          "start": 10,
+          "end": 12,
+          "name": "天禄",
+          "type": "concepts"
+        },
+        {
+          "start": 22,
+          "end": 23,
+          "name": "楚",
+          "type": "places"
+        },
+        {
+          "start": 41,
+          "end": 42,
+          "name": "楚",
+          "type": "places"
+        },
+        {
+          "start": 46,
+          "end": 48,
+          "name": "尝羌（滇王）",
+          "type": "persons"
+        },
+        {
+          "start": 51,
+          "end": 54,
+          "name": "西南夷",
+          "type": "concepts"
+        },
+        {
+          "start": 61,
+          "end": 62,
+          "name": "滇",
+          "type": "places"
+        },
+        {
+          "start": 68,
+          "end": 70,
+          "name": "南夷",
+          "type": "places"
+        },
+        {
+          "start": 74,
+          "end": 76,
+          "name": "枸酱",
+          "type": "concepts"
+        },
+        {
+          "start": 76,
+          "end": 78,
+          "name": "番禺",
+          "type": "places"
+        },
+        {
+          "start": 79,
+          "end": 81,
+          "name": "大夏",
+          "type": "places"
+        },
+        {
+          "start": 86,
+          "end": 88,
+          "name": "西夷",
+          "type": "places"
+        },
+        {
+          "start": 104,
+          "end": 106,
+          "name": "七郡",
+          "type": "concepts"
+        }
+      ]
+    },
+    {
+      "para_id": "p11",
+      "text": "索隱述贊曰：西南外徼，莊蹻首通。漢因大夏，乃命唐蒙。勞𣹰、靡莫，異俗殊風。夜郎最大，卭、筰稱雄。及置郡縣，萬代推功。",
+      "mentions": [
+        {
+          "start": 11,
+          "end": 13,
+          "name": "庄蹻",
+          "type": "persons"
+        },
+        {
+          "start": 18,
+          "end": 20,
+          "name": "大夏",
+          "type": "places"
+        },
+        {
+          "start": 23,
+          "end": 25,
+          "name": "唐蒙",
+          "type": "persons"
+        },
+        {
+          "start": 26,
+          "end": 28,
+          "name": "劳𣹰",
+          "type": "places"
+        },
+        {
+          "start": 29,
+          "end": 31,
+          "name": "靡莫",
+          "type": "places"
+        },
+        {
+          "start": 37,
+          "end": 39,
+          "name": "夜郎",
+          "type": "places"
+        }
+      ]
+    }
+  ]
+}
