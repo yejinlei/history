@@ -1,0 +1,732 @@
+{
+  "book": "shiji",
+  "chapter_id": "shiji-張釋之馮唐列傳第四十二",
+  "chapter_title": "張釋之馮唐列傳第四十二",
+  "version": "1.0",
+  "generated_at": "2026-11-01",
+  "paragraphs": [
+    {
+      "para_id": "text:shiji:shiji-張釋之馮唐列傳第四十二:p0",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "张释之",
+          "surface": "張廷尉釋之"
+        },
+        {
+          "entity_id": "p002",
+          "entity_type": "person",
+          "name": "张仲",
+          "surface": "仲"
+        },
+        {
+          "entity_id": "p003",
+          "entity_type": "person",
+          "name": "袁盎",
+          "surface": "袁盎"
+        },
+        {
+          "entity_id": "p004",
+          "entity_type": "person",
+          "name": "汉文帝",
+          "surface": "文帝"
+        },
+        {
+          "entity_id": "pl01",
+          "entity_type": "place",
+          "name": "堵阳",
+          "surface": "堵陽"
+        },
+        {
+          "entity_id": "pl22",
+          "entity_type": "place",
+          "name": "秦",
+          "surface": "秦"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-張釋之馮唐列傳第四十二:p1",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "张释之",
+          "surface": "釋之"
+        },
+        {
+          "entity_id": "p004",
+          "entity_type": "person",
+          "name": "汉文帝",
+          "surface": "文帝"
+        },
+        {
+          "entity_id": "p008",
+          "entity_type": "person",
+          "name": "上林尉",
+          "surface": "上林尉"
+        },
+        {
+          "entity_id": "p007",
+          "entity_type": "person",
+          "name": "虎圈啬夫",
+          "surface": "嗇夫"
+        },
+        {
+          "entity_id": "p005",
+          "entity_type": "person",
+          "name": "周勃",
+          "surface": "絳侯周勃"
+        },
+        {
+          "entity_id": "p006",
+          "entity_type": "person",
+          "name": "张相如",
+          "surface": "東陽侯張相如"
+        },
+        {
+          "entity_id": "pl02",
+          "entity_type": "place",
+          "name": "虎圈",
+          "surface": "虎圈"
+        },
+        {
+          "entity_id": "pl03",
+          "entity_type": "place",
+          "name": "上林",
+          "surface": "上林"
+        },
+        {
+          "entity_id": "c01",
+          "entity_type": "concept",
+          "name": "长者",
+          "surface": "長者"
+        },
+        {
+          "entity_id": "c02",
+          "entity_type": "concept",
+          "name": "刀笔之吏",
+          "surface": "刀筆之吏"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-張釋之馮唐列傳第四十二:p2",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "张释之",
+          "surface": "釋之"
+        },
+        {
+          "entity_id": "p004",
+          "entity_type": "person",
+          "name": "汉文帝",
+          "surface": "上"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-張釋之馮唐列傳第四十二:p3",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "张释之",
+          "surface": "釋之"
+        },
+        {
+          "entity_id": "p009",
+          "entity_type": "person",
+          "name": "汉景帝",
+          "surface": "太子"
+        },
+        {
+          "entity_id": "p010",
+          "entity_type": "person",
+          "name": "梁王",
+          "surface": "梁王"
+        },
+        {
+          "entity_id": "p011",
+          "entity_type": "person",
+          "name": "薄太后",
+          "surface": "薄太后"
+        },
+        {
+          "entity_id": "p004",
+          "entity_type": "person",
+          "name": "汉文帝",
+          "surface": "文帝"
+        },
+        {
+          "entity_id": "pl13",
+          "entity_type": "place",
+          "name": "司马门",
+          "surface": "司馬門"
+        },
+        {
+          "entity_id": "c12",
+          "entity_type": "concept",
+          "name": "大不敬",
+          "surface": "不敬"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-張釋之馮唐列傳第四十二:p4",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "张释之",
+          "surface": "釋之"
+        },
+        {
+          "entity_id": "p004",
+          "entity_type": "person",
+          "name": "汉文帝",
+          "surface": "上"
+        },
+        {
+          "entity_id": "p012",
+          "entity_type": "person",
+          "name": "慎夫人",
+          "surface": "慎夫人"
+        },
+        {
+          "entity_id": "pl04",
+          "entity_type": "place",
+          "name": "霸陵",
+          "surface": "霸陵"
+        },
+        {
+          "entity_id": "pl05",
+          "entity_type": "place",
+          "name": "北山",
+          "surface": "北山"
+        },
+        {
+          "entity_id": "pl06",
+          "entity_type": "place",
+          "name": "新丰",
+          "surface": "新豐"
+        },
+        {
+          "entity_id": "pl07",
+          "entity_type": "place",
+          "name": "邯郸",
+          "surface": "邯鄲"
+        },
+        {
+          "entity_id": "pl12",
+          "entity_type": "place",
+          "name": "南山",
+          "surface": "南山"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-張釋之馮唐列傳第四十二:p5",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "张释之",
+          "surface": "釋之"
+        },
+        {
+          "entity_id": "p004",
+          "entity_type": "person",
+          "name": "汉文帝",
+          "surface": "上"
+        },
+        {
+          "entity_id": "pl08",
+          "entity_type": "place",
+          "name": "中渭桥",
+          "surface": "中渭橋"
+        },
+        {
+          "entity_id": "pl09",
+          "entity_type": "place",
+          "name": "长安",
+          "surface": "縣人"
+        },
+        {
+          "entity_id": "c05",
+          "entity_type": "concept",
+          "name": "犯跸",
+          "surface": "犯蹕"
+        },
+        {
+          "entity_id": "c04",
+          "entity_type": "concept",
+          "name": "廷尉天下之平",
+          "surface": "廷尉，天下之平也"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-張釋之馮唐列傳第四十二:p6",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "张释之",
+          "surface": "釋之"
+        },
+        {
+          "entity_id": "p004",
+          "entity_type": "person",
+          "name": "汉文帝",
+          "surface": "上"
+        },
+        {
+          "entity_id": "p011",
+          "entity_type": "person",
+          "name": "薄太后",
+          "surface": "太后"
+        },
+        {
+          "entity_id": "p013",
+          "entity_type": "person",
+          "name": "周亚夫",
+          "surface": "條侯周亞夫"
+        },
+        {
+          "entity_id": "p014",
+          "entity_type": "person",
+          "name": "王恬开",
+          "surface": "山都侯王恬開"
+        },
+        {
+          "entity_id": "pl11",
+          "entity_type": "place",
+          "name": "高庙",
+          "surface": "高廟"
+        },
+        {
+          "entity_id": "pl10",
+          "entity_type": "place",
+          "name": "长陵",
+          "surface": "長陵"
+        },
+        {
+          "entity_id": "c06",
+          "entity_type": "concept",
+          "name": "弃市",
+          "surface": "弃市"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-張釋之馮唐列傳第四十二:p7",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "张释之",
+          "surface": "釋之"
+        },
+        {
+          "entity_id": "p004",
+          "entity_type": "person",
+          "name": "汉文帝",
+          "surface": "文帝"
+        },
+        {
+          "entity_id": "p009",
+          "entity_type": "person",
+          "name": "汉景帝",
+          "surface": "景帝"
+        },
+        {
+          "entity_id": "p015",
+          "entity_type": "person",
+          "name": "王生",
+          "surface": "王生"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-張釋之馮唐列傳第四十二:p8",
+      "mentions": [
+        {
+          "entity_id": "p015",
+          "entity_type": "person",
+          "name": "王生",
+          "surface": "王生"
+        },
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "张释之",
+          "surface": "張廷尉"
+        },
+        {
+          "entity_id": "c07",
+          "entity_type": "concept",
+          "name": "黄老言",
+          "surface": "黃老言"
+        },
+        {
+          "entity_id": "c08",
+          "entity_type": "concept",
+          "name": "处士",
+          "surface": "處士"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-張釋之馮唐列傳第四十二:p9",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "张释之",
+          "surface": "張廷尉"
+        },
+        {
+          "entity_id": "p009",
+          "entity_type": "person",
+          "name": "汉景帝",
+          "surface": "景帝"
+        },
+        {
+          "entity_id": "p016",
+          "entity_type": "person",
+          "name": "张挚",
+          "surface": "張摯"
+        },
+        {
+          "entity_id": "pl14",
+          "entity_type": "place",
+          "name": "淮南",
+          "surface": "淮南王"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-張釋之馮唐列傳第四十二:p10",
+      "mentions": [
+        {
+          "entity_id": "p017",
+          "entity_type": "person",
+          "name": "冯唐",
+          "surface": "馮唐"
+        },
+        {
+          "entity_id": "p004",
+          "entity_type": "person",
+          "name": "汉文帝",
+          "surface": "文帝"
+        },
+        {
+          "entity_id": "p021",
+          "entity_type": "person",
+          "name": "高袪",
+          "surface": "高袪"
+        },
+        {
+          "entity_id": "p020",
+          "entity_type": "person",
+          "name": "李齐",
+          "surface": "李齊"
+        },
+        {
+          "entity_id": "p018",
+          "entity_type": "person",
+          "name": "廉颇",
+          "surface": "廉頗"
+        },
+        {
+          "entity_id": "p019",
+          "entity_type": "person",
+          "name": "李牧",
+          "surface": "李牧"
+        },
+        {
+          "entity_id": "p030",
+          "entity_type": "person",
+          "name": "冯唐祖父",
+          "surface": "大父"
+        },
+        {
+          "entity_id": "p031",
+          "entity_type": "person",
+          "name": "冯唐父",
+          "surface": "臣父"
+        },
+        {
+          "entity_id": "pl15",
+          "entity_type": "place",
+          "name": "赵",
+          "surface": "趙"
+        },
+        {
+          "entity_id": "pl16",
+          "entity_type": "place",
+          "name": "代",
+          "surface": "代"
+        },
+        {
+          "entity_id": "pl17",
+          "entity_type": "place",
+          "name": "安陵",
+          "surface": "安陵"
+        },
+        {
+          "entity_id": "pl18",
+          "entity_type": "place",
+          "name": "钜鹿",
+          "surface": "鉅鹿"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-張釋之馮唐列傳第四十二:p11",
+      "mentions": [
+        {
+          "entity_id": "p017",
+          "entity_type": "person",
+          "name": "冯唐",
+          "surface": "唐"
+        },
+        {
+          "entity_id": "p004",
+          "entity_type": "person",
+          "name": "汉文帝",
+          "surface": "上"
+        },
+        {
+          "entity_id": "p019",
+          "entity_type": "person",
+          "name": "李牧",
+          "surface": "李牧"
+        },
+        {
+          "entity_id": "p018",
+          "entity_type": "person",
+          "name": "廉颇",
+          "surface": "廉頗"
+        },
+        {
+          "entity_id": "p022",
+          "entity_type": "person",
+          "name": "赵王迁",
+          "surface": "趙王遷"
+        },
+        {
+          "entity_id": "p023",
+          "entity_type": "person",
+          "name": "郭开",
+          "surface": "郭開"
+        },
+        {
+          "entity_id": "p024",
+          "entity_type": "person",
+          "name": "颜聚",
+          "surface": "顏聚"
+        },
+        {
+          "entity_id": "p025",
+          "entity_type": "person",
+          "name": "魏尚",
+          "surface": "魏尚"
+        },
+        {
+          "entity_id": "p026",
+          "entity_type": "person",
+          "name": "孙卬",
+          "surface": "都尉昂"
+        },
+        {
+          "entity_id": "p030",
+          "entity_type": "person",
+          "name": "冯唐祖父",
+          "surface": "臣大父"
+        },
+        {
+          "entity_id": "p029",
+          "entity_type": "person",
+          "name": "单于",
+          "surface": "單于"
+        },
+        {
+          "entity_id": "pl19",
+          "entity_type": "place",
+          "name": "朝那",
+          "surface": "朝那"
+        },
+        {
+          "entity_id": "pl20",
+          "entity_type": "place",
+          "name": "北地",
+          "surface": "北地"
+        },
+        {
+          "entity_id": "pl21",
+          "entity_type": "place",
+          "name": "云中",
+          "surface": "雲中"
+        },
+        {
+          "entity_id": "pl15",
+          "entity_type": "place",
+          "name": "赵",
+          "surface": "趙"
+        },
+        {
+          "entity_id": "pl22",
+          "entity_type": "place",
+          "name": "秦",
+          "surface": "秦"
+        },
+        {
+          "entity_id": "pl23",
+          "entity_type": "place",
+          "name": "韩",
+          "surface": "韓"
+        },
+        {
+          "entity_id": "pl24",
+          "entity_type": "place",
+          "name": "魏",
+          "surface": "魏"
+        },
+        {
+          "entity_id": "pl26",
+          "entity_type": "place",
+          "name": "东胡",
+          "surface": "東胡"
+        },
+        {
+          "entity_id": "pl27",
+          "entity_type": "place",
+          "name": "澹林",
+          "surface": "澹林"
+        },
+        {
+          "entity_id": "c09",
+          "entity_type": "concept",
+          "name": "推毂遣将",
+          "surface": "推轂"
+        },
+        {
+          "entity_id": "c10",
+          "entity_type": "concept",
+          "name": "尺籍五符",
+          "surface": "尺籍五符"
+        },
+        {
+          "entity_id": "c11",
+          "entity_type": "concept",
+          "name": "罚作",
+          "surface": "罰作"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-張釋之馮唐列傳第四十二:p12",
+      "mentions": [
+        {
+          "entity_id": "p017",
+          "entity_type": "person",
+          "name": "冯唐",
+          "surface": "馮唐"
+        },
+        {
+          "entity_id": "p009",
+          "entity_type": "person",
+          "name": "汉景帝",
+          "surface": "景帝"
+        },
+        {
+          "entity_id": "p027",
+          "entity_type": "person",
+          "name": "冯遂",
+          "surface": "馮遂"
+        },
+        {
+          "entity_id": "pl25",
+          "entity_type": "place",
+          "name": "楚",
+          "surface": "楚相"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-張釋之馮唐列傳第四十二:p13",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "张释之",
+          "surface": "張季"
+        },
+        {
+          "entity_id": "p017",
+          "entity_type": "person",
+          "name": "冯唐",
+          "surface": "馮公"
+        },
+        {
+          "entity_id": "p028",
+          "entity_type": "person",
+          "name": "司马迁",
+          "surface": "太史公"
+        },
+        {
+          "entity_id": "c13",
+          "entity_type": "concept",
+          "name": "守法不阿意",
+          "surface": "守法不阿意"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-張釋之馮唐列傳第四十二:p14",
+      "mentions": [
+        {
+          "entity_id": "p032",
+          "entity_type": "person",
+          "name": "司马贞",
+          "surface": "索隱述贊"
+        },
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "张释之",
+          "surface": "張季"
+        },
+        {
+          "entity_id": "p003",
+          "entity_type": "person",
+          "name": "袁盎",
+          "surface": "袁盎"
+        },
+        {
+          "entity_id": "p009",
+          "entity_type": "person",
+          "name": "汉景帝",
+          "surface": "太子"
+        },
+        {
+          "entity_id": "p007",
+          "entity_type": "person",
+          "name": "虎圈啬夫",
+          "surface": "嗇夫"
+        },
+        {
+          "entity_id": "p017",
+          "entity_type": "person",
+          "name": "冯唐",
+          "surface": "馮公"
+        }
+      ]
+    }
+  ]
+}
