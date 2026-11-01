@@ -1,0 +1,960 @@
+{
+  "book": "shiji",
+  "chapter_id": "shiji-萬石張叔列傳第四十三",
+  "chapter_title": "萬石張叔列傳第四十三",
+  "version": "1.0",
+  "generated_at": "2026-11-01",
+  "paragraphs": [
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p0",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "石奋",
+          "surface": "萬石君"
+        },
+        {
+          "entity_id": "p002",
+          "entity_type": "person",
+          "name": "石奋父",
+          "surface": "其父"
+        },
+        {
+          "entity_id": "p003",
+          "entity_type": "person",
+          "name": "石奋姊",
+          "surface": "其姊"
+        },
+        {
+          "entity_id": "p008",
+          "entity_type": "person",
+          "name": "汉高祖",
+          "surface": "高祖"
+        },
+        {
+          "entity_id": "pl01",
+          "entity_type": "place",
+          "name": "赵",
+          "surface": "趙"
+        },
+        {
+          "entity_id": "pl02",
+          "entity_type": "place",
+          "name": "温",
+          "surface": "溫"
+        },
+        {
+          "entity_id": "pl03",
+          "entity_type": "place",
+          "name": "河内",
+          "surface": "河內"
+        },
+        {
+          "entity_id": "pl04",
+          "entity_type": "place",
+          "name": "长安",
+          "surface": "長安"
+        },
+        {
+          "entity_id": "pl05",
+          "entity_type": "place",
+          "name": "戚里",
+          "surface": "戚里"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p1",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "石奋",
+          "surface": "奮"
+        },
+        {
+          "entity_id": "p010",
+          "entity_type": "person",
+          "name": "汉文帝",
+          "surface": "文帝"
+        },
+        {
+          "entity_id": "p009",
+          "entity_type": "person",
+          "name": "张相如",
+          "surface": "東陽侯張相如"
+        },
+        {
+          "entity_id": "p011",
+          "entity_type": "person",
+          "name": "汉景帝",
+          "surface": "孝景"
+        },
+        {
+          "entity_id": "p004",
+          "entity_type": "person",
+          "name": "石建",
+          "surface": "長子建"
+        },
+        {
+          "entity_id": "p005",
+          "entity_type": "person",
+          "name": "石甲",
+          "surface": "次子甲"
+        },
+        {
+          "entity_id": "p006",
+          "entity_type": "person",
+          "name": "石乙",
+          "surface": "次子乙"
+        },
+        {
+          "entity_id": "p007",
+          "entity_type": "person",
+          "name": "石庆",
+          "surface": "次子慶"
+        },
+        {
+          "entity_id": "c02",
+          "entity_type": "concept",
+          "name": "驯行孝谨",
+          "surface": "馴行孝謹"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p2",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "石奋",
+          "surface": "萬石君"
+        },
+        {
+          "entity_id": "pl07",
+          "entity_type": "place",
+          "name": "齐",
+          "surface": "齊魯"
+        },
+        {
+          "entity_id": "c01",
+          "entity_type": "concept",
+          "name": "孝谨",
+          "surface": "孝謹"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p3",
+      "mentions": [
+        {
+          "entity_id": "p013",
+          "entity_type": "person",
+          "name": "王臧",
+          "surface": "郎中令王臧"
+        },
+        {
+          "entity_id": "p012",
+          "entity_type": "person",
+          "name": "窦太后",
+          "surface": "皇太后"
+        },
+        {
+          "entity_id": "p004",
+          "entity_type": "person",
+          "name": "石建",
+          "surface": "長子建"
+        },
+        {
+          "entity_id": "p007",
+          "entity_type": "person",
+          "name": "石庆",
+          "surface": "少子慶"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p4",
+      "mentions": [
+        {
+          "entity_id": "p004",
+          "entity_type": "person",
+          "name": "石建",
+          "surface": "建"
+        },
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "石奋",
+          "surface": "萬石君"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p5",
+      "mentions": [
+        {
+          "entity_id": "p007",
+          "entity_type": "person",
+          "name": "石庆",
+          "surface": "內史慶"
+        },
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "石奋",
+          "surface": "萬石君"
+        },
+        {
+          "entity_id": "p004",
+          "entity_type": "person",
+          "name": "石建",
+          "surface": "兄建"
+        },
+        {
+          "entity_id": "pl06",
+          "entity_type": "place",
+          "name": "陵里",
+          "surface": "陵里"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p6",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "石奋",
+          "surface": "萬石君"
+        },
+        {
+          "entity_id": "p004",
+          "entity_type": "person",
+          "name": "石建",
+          "surface": "郎中令建"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p7",
+      "mentions": [
+        {
+          "entity_id": "p004",
+          "entity_type": "person",
+          "name": "石建",
+          "surface": "建"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p8",
+      "mentions": [
+        {
+          "entity_id": "p007",
+          "entity_type": "person",
+          "name": "石庆",
+          "surface": "慶"
+        },
+        {
+          "entity_id": "pl07",
+          "entity_type": "place",
+          "name": "齐",
+          "surface": "齊國"
+        },
+        {
+          "entity_id": "pl24",
+          "entity_type": "place",
+          "name": "石相祠",
+          "surface": "石相祠"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p9",
+      "mentions": [
+        {
+          "entity_id": "p007",
+          "entity_type": "person",
+          "name": "石庆",
+          "surface": "慶"
+        },
+        {
+          "entity_id": "pl08",
+          "entity_type": "place",
+          "name": "沛",
+          "surface": "沛"
+        },
+        {
+          "entity_id": "p026",
+          "entity_type": "person",
+          "name": "汉武帝",
+          "surface": "上"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p10",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "石奋",
+          "surface": "萬石君"
+        },
+        {
+          "entity_id": "p007",
+          "entity_type": "person",
+          "name": "石庆",
+          "surface": "慶"
+        },
+        {
+          "entity_id": "p026",
+          "entity_type": "person",
+          "name": "汉武帝",
+          "surface": "天子"
+        },
+        {
+          "entity_id": "pl09",
+          "entity_type": "place",
+          "name": "两越",
+          "surface": "兩越"
+        },
+        {
+          "entity_id": "pl10",
+          "entity_type": "place",
+          "name": "朝鲜",
+          "surface": "朝鮮"
+        },
+        {
+          "entity_id": "pl11",
+          "entity_type": "place",
+          "name": "匈奴",
+          "surface": "匈奴"
+        },
+        {
+          "entity_id": "pl12",
+          "entity_type": "place",
+          "name": "大宛",
+          "surface": "大宛"
+        },
+        {
+          "entity_id": "p016",
+          "entity_type": "person",
+          "name": "桑弘羊",
+          "surface": "桑弘羊"
+        },
+        {
+          "entity_id": "p017",
+          "entity_type": "person",
+          "name": "王温舒",
+          "surface": "王溫舒"
+        },
+        {
+          "entity_id": "p018",
+          "entity_type": "person",
+          "name": "兒宽",
+          "surface": "兒寬"
+        },
+        {
+          "entity_id": "p014",
+          "entity_type": "person",
+          "name": "所忠",
+          "surface": "所忠"
+        },
+        {
+          "entity_id": "p015",
+          "entity_type": "person",
+          "name": "减宣",
+          "surface": "减宣"
+        },
+        {
+          "entity_id": "c09",
+          "entity_type": "concept",
+          "name": "封禅",
+          "surface": "封禪"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p11",
+      "mentions": [
+        {
+          "entity_id": "p007",
+          "entity_type": "person",
+          "name": "石庆",
+          "surface": "丞相慶"
+        },
+        {
+          "entity_id": "p026",
+          "entity_type": "person",
+          "name": "汉武帝",
+          "surface": "天子"
+        },
+        {
+          "entity_id": "pl13",
+          "entity_type": "place",
+          "name": "关东",
+          "surface": "關東"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p12",
+      "mentions": [
+        {
+          "entity_id": "p007",
+          "entity_type": "person",
+          "name": "石庆",
+          "surface": "丞相慶"
+        },
+        {
+          "entity_id": "p019",
+          "entity_type": "person",
+          "name": "石德",
+          "surface": "德"
+        },
+        {
+          "entity_id": "p026",
+          "entity_type": "person",
+          "name": "汉武帝",
+          "surface": "上"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p13",
+      "mentions": [
+        {
+          "entity_id": "p020",
+          "entity_type": "person",
+          "name": "卫绾",
+          "surface": "綰"
+        },
+        {
+          "entity_id": "p010",
+          "entity_type": "person",
+          "name": "汉文帝",
+          "surface": "文帝"
+        },
+        {
+          "entity_id": "p011",
+          "entity_type": "person",
+          "name": "汉景帝",
+          "surface": "孝景"
+        },
+        {
+          "entity_id": "pl15",
+          "entity_type": "place",
+          "name": "代",
+          "surface": "代"
+        },
+        {
+          "entity_id": "pl16",
+          "entity_type": "place",
+          "name": "大陵",
+          "surface": "大陵"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p14",
+      "mentions": [
+        {
+          "entity_id": "p020",
+          "entity_type": "person",
+          "name": "卫绾",
+          "surface": "綰"
+        },
+        {
+          "entity_id": "p011",
+          "entity_type": "person",
+          "name": "汉景帝",
+          "surface": "上"
+        },
+        {
+          "entity_id": "pl17",
+          "entity_type": "place",
+          "name": "上林",
+          "surface": "上林"
+        },
+        {
+          "entity_id": "p022",
+          "entity_type": "person",
+          "name": "河间王",
+          "surface": "河閒王"
+        },
+        {
+          "entity_id": "pl18",
+          "entity_type": "place",
+          "name": "河间",
+          "surface": "河閒"
+        },
+        {
+          "entity_id": "pl19",
+          "entity_type": "place",
+          "name": "吴楚",
+          "surface": "吳楚"
+        },
+        {
+          "entity_id": "c14",
+          "entity_type": "concept",
+          "name": "无他肠",
+          "surface": "無他腸"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p15",
+      "mentions": [
+        {
+          "entity_id": "p020",
+          "entity_type": "person",
+          "name": "卫绾",
+          "surface": "綰"
+        },
+        {
+          "entity_id": "p011",
+          "entity_type": "person",
+          "name": "汉景帝",
+          "surface": "上"
+        },
+        {
+          "entity_id": "p023",
+          "entity_type": "person",
+          "name": "郅都",
+          "surface": "郅都"
+        },
+        {
+          "entity_id": "p024",
+          "entity_type": "person",
+          "name": "栗太子",
+          "surface": "太子"
+        },
+        {
+          "entity_id": "p025",
+          "entity_type": "person",
+          "name": "栗卿",
+          "surface": "栗卿"
+        },
+        {
+          "entity_id": "p026",
+          "entity_type": "person",
+          "name": "汉武帝",
+          "surface": "膠東王"
+        },
+        {
+          "entity_id": "p027",
+          "entity_type": "person",
+          "name": "桃侯刘舍",
+          "surface": "桃侯舍"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p16",
+      "mentions": [
+        {
+          "entity_id": "p020",
+          "entity_type": "person",
+          "name": "卫绾",
+          "surface": "綰"
+        },
+        {
+          "entity_id": "p011",
+          "entity_type": "person",
+          "name": "汉景帝",
+          "surface": "景帝"
+        },
+        {
+          "entity_id": "p026",
+          "entity_type": "person",
+          "name": "汉武帝",
+          "surface": "武帝"
+        },
+        {
+          "entity_id": "p021",
+          "entity_type": "person",
+          "name": "卫信",
+          "surface": "信"
+        },
+        {
+          "entity_id": "c08",
+          "entity_type": "concept",
+          "name": "酎金失侯",
+          "surface": "酎金"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p17",
+      "mentions": [
+        {
+          "entity_id": "p028",
+          "entity_type": "person",
+          "name": "直不疑",
+          "surface": "不疑"
+        },
+        {
+          "entity_id": "p010",
+          "entity_type": "person",
+          "name": "汉文帝",
+          "surface": "文帝"
+        },
+        {
+          "entity_id": "pl20",
+          "entity_type": "place",
+          "name": "南阳",
+          "surface": "南陽"
+        },
+        {
+          "entity_id": "c04",
+          "entity_type": "concept",
+          "name": "长者",
+          "surface": "長者"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p18",
+      "mentions": [
+        {
+          "entity_id": "p028",
+          "entity_type": "person",
+          "name": "直不疑",
+          "surface": "不疑"
+        },
+        {
+          "entity_id": "pl19",
+          "entity_type": "place",
+          "name": "吴楚",
+          "surface": "吳楚"
+        },
+        {
+          "entity_id": "p011",
+          "entity_type": "person",
+          "name": "汉景帝",
+          "surface": "景帝"
+        },
+        {
+          "entity_id": "p026",
+          "entity_type": "person",
+          "name": "汉武帝",
+          "surface": "武帝"
+        },
+        {
+          "entity_id": "p020",
+          "entity_type": "person",
+          "name": "卫绾",
+          "surface": "丞相綰"
+        },
+        {
+          "entity_id": "pl23",
+          "entity_type": "place",
+          "name": "塞",
+          "surface": "塞侯"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p19",
+      "mentions": [
+        {
+          "entity_id": "p028",
+          "entity_type": "person",
+          "name": "直不疑",
+          "surface": "不疑"
+        },
+        {
+          "entity_id": "p029",
+          "entity_type": "person",
+          "name": "直相如",
+          "surface": "相如"
+        },
+        {
+          "entity_id": "p030",
+          "entity_type": "person",
+          "name": "直望",
+          "surface": "望"
+        },
+        {
+          "entity_id": "c11",
+          "entity_type": "concept",
+          "name": "老子言",
+          "surface": "老子言"
+        },
+        {
+          "entity_id": "c08",
+          "entity_type": "concept",
+          "name": "酎金失侯",
+          "surface": "酎金"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p20",
+      "mentions": [
+        {
+          "entity_id": "p031",
+          "entity_type": "person",
+          "name": "周仁",
+          "surface": "周文"
+        },
+        {
+          "entity_id": "p011",
+          "entity_type": "person",
+          "name": "汉景帝",
+          "surface": "景帝"
+        },
+        {
+          "entity_id": "p010",
+          "entity_type": "person",
+          "name": "汉文帝",
+          "surface": "孝文帝"
+        },
+        {
+          "entity_id": "pl21",
+          "entity_type": "place",
+          "name": "任城",
+          "surface": "任城"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p21",
+      "mentions": [
+        {
+          "entity_id": "p031",
+          "entity_type": "person",
+          "name": "周仁",
+          "surface": "仁"
+        },
+        {
+          "entity_id": "p011",
+          "entity_type": "person",
+          "name": "汉景帝",
+          "surface": "景帝"
+        },
+        {
+          "entity_id": "pl14",
+          "entity_type": "place",
+          "name": "阳陵",
+          "surface": "陽陵"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p22",
+      "mentions": [
+        {
+          "entity_id": "p031",
+          "entity_type": "person",
+          "name": "周仁",
+          "surface": "仁"
+        },
+        {
+          "entity_id": "p026",
+          "entity_type": "person",
+          "name": "汉武帝",
+          "surface": "武帝"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p23",
+      "mentions": [
+        {
+          "entity_id": "p032",
+          "entity_type": "person",
+          "name": "张欧",
+          "surface": "張叔"
+        },
+        {
+          "entity_id": "p033",
+          "entity_type": "person",
+          "name": "张说",
+          "surface": "安丘侯說"
+        },
+        {
+          "entity_id": "p010",
+          "entity_type": "person",
+          "name": "汉文帝",
+          "surface": "孝文"
+        },
+        {
+          "entity_id": "p011",
+          "entity_type": "person",
+          "name": "汉景帝",
+          "surface": "景帝"
+        },
+        {
+          "entity_id": "p026",
+          "entity_type": "person",
+          "name": "汉武帝",
+          "surface": "武帝"
+        },
+        {
+          "entity_id": "p034",
+          "entity_type": "person",
+          "name": "韩安国",
+          "surface": "韓安國"
+        },
+        {
+          "entity_id": "pl22",
+          "entity_type": "place",
+          "name": "安丘",
+          "surface": "安丘"
+        },
+        {
+          "entity_id": "c10",
+          "entity_type": "concept",
+          "name": "刑名",
+          "surface": "刑名"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p24",
+      "mentions": [
+        {
+          "entity_id": "p032",
+          "entity_type": "person",
+          "name": "张欧",
+          "surface": "歐"
+        },
+        {
+          "entity_id": "p026",
+          "entity_type": "person",
+          "name": "汉武帝",
+          "surface": "天子"
+        },
+        {
+          "entity_id": "pl14",
+          "entity_type": "place",
+          "name": "阳陵",
+          "surface": "陽陵"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p25",
+      "mentions": [
+        {
+          "entity_id": "p035",
+          "entity_type": "person",
+          "name": "司马迁",
+          "surface": "太史公"
+        },
+        {
+          "entity_id": "p037",
+          "entity_type": "person",
+          "name": "孔子",
+          "surface": "仲尼"
+        },
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "石奋",
+          "surface": "萬石"
+        },
+        {
+          "entity_id": "p020",
+          "entity_type": "person",
+          "name": "卫绾",
+          "surface": "建陵"
+        },
+        {
+          "entity_id": "p032",
+          "entity_type": "person",
+          "name": "张欧",
+          "surface": "張叔"
+        },
+        {
+          "entity_id": "p028",
+          "entity_type": "person",
+          "name": "直不疑",
+          "surface": "塞侯"
+        },
+        {
+          "entity_id": "p031",
+          "entity_type": "person",
+          "name": "周仁",
+          "surface": "周文"
+        },
+        {
+          "entity_id": "c05",
+          "entity_type": "concept",
+          "name": "讷言敏行",
+          "surface": "訥於言而敏於行"
+        },
+        {
+          "entity_id": "c06",
+          "entity_type": "concept",
+          "name": "不肃而成不严而治",
+          "surface": "不肅而成"
+        },
+        {
+          "entity_id": "c07",
+          "entity_type": "concept",
+          "name": "笃行君子",
+          "surface": "篤行君子"
+        },
+        {
+          "entity_id": "c12",
+          "entity_type": "concept",
+          "name": "微巧",
+          "surface": "微巧"
+        },
+        {
+          "entity_id": "c13",
+          "entity_type": "concept",
+          "name": "处谄",
+          "surface": "處讇"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-萬石張叔列傳第四十三:p26",
+      "mentions": [
+        {
+          "entity_id": "p036",
+          "entity_type": "person",
+          "name": "司马贞",
+          "surface": "索隱述贊"
+        },
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "石奋",
+          "surface": "萬石"
+        },
+        {
+          "entity_id": "p007",
+          "entity_type": "person",
+          "name": "石庆",
+          "surface": "郎中"
+        },
+        {
+          "entity_id": "p020",
+          "entity_type": "person",
+          "name": "卫绾",
+          "surface": "綰"
+        },
+        {
+          "entity_id": "p028",
+          "entity_type": "person",
+          "name": "直不疑",
+          "surface": "塞"
+        },
+        {
+          "entity_id": "p032",
+          "entity_type": "person",
+          "name": "张欧",
+          "surface": "張歐"
+        }
+      ]
+    }
+  ]
+}
