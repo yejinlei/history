@@ -1,0 +1,1470 @@
+{
+  "book": "shiji",
+  "chapter_id": "shiji-田叔列傳第四十四",
+  "chapter_title": "田叔列传第四十四",
+  "version": "final",
+  "generated_at": "2026-11-01",
+  "annotations": [
+    {
+      "target_para_id": "text:shiji:shiji-田叔列傳第四十四:p0",
+      "mentions": [
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 0,
+          "end": 2,
+          "surface": "田叔"
+        },
+        {
+          "entity_id": "pl1",
+          "entity_type": "places",
+          "start": 5,
+          "end": 7,
+          "surface": "陘城"
+        },
+        {
+          "entity_id": "c1",
+          "entity_type": "concepts",
+          "start": 25,
+          "end": 28,
+          "surface": "黃老術"
+        },
+        {
+          "entity_id": "c2",
+          "entity_type": "concepts",
+          "start": 37,
+          "end": 41,
+          "surface": "刻廉自喜"
+        },
+        {
+          "entity_id": "p3",
+          "entity_type": "persons",
+          "start": 53,
+          "end": 55,
+          "surface": "趙午"
+        },
+        {
+          "entity_id": "p4",
+          "entity_type": "persons",
+          "start": 59,
+          "end": 61,
+          "surface": "趙王"
+        },
+        {
+          "entity_id": "p4",
+          "entity_type": "persons",
+          "start": 61,
+          "end": 63,
+          "surface": "張敖"
+        },
+        {
+          "entity_id": "p4",
+          "entity_type": "persons",
+          "start": 65,
+          "end": 67,
+          "surface": "趙王"
+        },
+        {
+          "entity_id": "p4",
+          "entity_type": "persons",
+          "start": 80,
+          "end": 82,
+          "surface": "趙王"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-田叔列傳第四十四:p1",
+      "mentions": [
+        {
+          "entity_id": "p5",
+          "entity_type": "persons",
+          "start": 1,
+          "end": 3,
+          "surface": "陳豨"
+        },
+        {
+          "entity_id": "pl4",
+          "entity_type": "places",
+          "start": 4,
+          "end": 5,
+          "surface": "代"
+        },
+        {
+          "entity_id": "p6",
+          "entity_type": "persons",
+          "start": 10,
+          "end": 12,
+          "surface": "高祖"
+        },
+        {
+          "entity_id": "p4",
+          "entity_type": "persons",
+          "start": 19,
+          "end": 21,
+          "surface": "趙王"
+        },
+        {
+          "entity_id": "p4",
+          "entity_type": "persons",
+          "start": 21,
+          "end": 23,
+          "surface": "張敖"
+        },
+        {
+          "entity_id": "p6",
+          "entity_type": "persons",
+          "start": 33,
+          "end": 35,
+          "surface": "高祖"
+        },
+        {
+          "entity_id": "p3",
+          "entity_type": "persons",
+          "start": 44,
+          "end": 46,
+          "surface": "趙午"
+        },
+        {
+          "entity_id": "p4",
+          "entity_type": "persons",
+          "start": 54,
+          "end": 56,
+          "surface": "張王"
+        },
+        {
+          "entity_id": "p4",
+          "entity_type": "persons",
+          "start": 79,
+          "end": 81,
+          "surface": "趙王"
+        },
+        {
+          "entity_id": "p7",
+          "entity_type": "persons",
+          "start": 121,
+          "end": 123,
+          "surface": "貫高"
+        },
+        {
+          "entity_id": "c3",
+          "entity_type": "concepts",
+          "start": 128,
+          "end": 130,
+          "surface": "長者"
+        },
+        {
+          "entity_id": "p4",
+          "entity_type": "persons",
+          "start": 153,
+          "end": 155,
+          "surface": "趙王"
+        },
+        {
+          "entity_id": "p3",
+          "entity_type": "persons",
+          "start": 163,
+          "end": 165,
+          "surface": "趙午"
+        },
+        {
+          "entity_id": "p7",
+          "entity_type": "persons",
+          "start": 171,
+          "end": 173,
+          "surface": "貫高"
+        },
+        {
+          "entity_id": "p8",
+          "entity_type": "persons",
+          "start": 196,
+          "end": 198,
+          "surface": "孟舒"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 199,
+          "end": 201,
+          "surface": "田叔"
+        },
+        {
+          "entity_id": "p4",
+          "entity_type": "persons",
+          "start": 217,
+          "end": 220,
+          "surface": "趙王敖"
+        },
+        {
+          "entity_id": "pl5",
+          "entity_type": "places",
+          "start": 221,
+          "end": 223,
+          "surface": "長安"
+        },
+        {
+          "entity_id": "p7",
+          "entity_type": "persons",
+          "start": 224,
+          "end": 226,
+          "surface": "貫高"
+        },
+        {
+          "entity_id": "p4",
+          "entity_type": "persons",
+          "start": 230,
+          "end": 233,
+          "surface": "趙王敖"
+        },
+        {
+          "entity_id": "p4",
+          "entity_type": "persons",
+          "start": 238,
+          "end": 241,
+          "surface": "宣平侯"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 245,
+          "end": 247,
+          "surface": "田叔"
+        },
+        {
+          "entity_id": "pl6",
+          "entity_type": "places",
+          "start": 285,
+          "end": 287,
+          "surface": "漢中"
+        },
+        {
+          "entity_id": "p10",
+          "entity_type": "persons",
+          "start": 293,
+          "end": 295,
+          "surface": "高后"
+        },
+        {
+          "entity_id": "p9",
+          "entity_type": "persons",
+          "start": 297,
+          "end": 299,
+          "surface": "諸呂"
+        },
+        {
+          "entity_id": "p11",
+          "entity_type": "persons",
+          "start": 308,
+          "end": 311,
+          "surface": "孝文帝"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-田叔列傳第四十四:p2",
+      "mentions": [
+        {
+          "entity_id": "p11",
+          "entity_type": "persons",
+          "start": 0,
+          "end": 3,
+          "surface": "孝文帝"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 7,
+          "end": 9,
+          "surface": "田叔"
+        },
+        {
+          "entity_id": "c3",
+          "entity_type": "concepts",
+          "start": 18,
+          "end": 20,
+          "surface": "長者"
+        },
+        {
+          "entity_id": "c3",
+          "entity_type": "concepts",
+          "start": 41,
+          "end": 43,
+          "surface": "長者"
+        },
+        {
+          "entity_id": "pl7",
+          "entity_type": "places",
+          "start": 57,
+          "end": 59,
+          "surface": "雲中"
+        },
+        {
+          "entity_id": "p8",
+          "entity_type": "persons",
+          "start": 60,
+          "end": 62,
+          "surface": "孟舒"
+        },
+        {
+          "entity_id": "c3",
+          "entity_type": "concepts",
+          "start": 63,
+          "end": 65,
+          "surface": "長者"
+        },
+        {
+          "entity_id": "p8",
+          "entity_type": "persons",
+          "start": 70,
+          "end": 72,
+          "surface": "孟舒"
+        },
+        {
+          "entity_id": "pl7",
+          "entity_type": "places",
+          "start": 80,
+          "end": 82,
+          "surface": "雲中"
+        },
+        {
+          "entity_id": "p8",
+          "entity_type": "persons",
+          "start": 94,
+          "end": 96,
+          "surface": "孟舒"
+        },
+        {
+          "entity_id": "pl7",
+          "entity_type": "places",
+          "start": 96,
+          "end": 98,
+          "surface": "雲中"
+        },
+        {
+          "entity_id": "p8",
+          "entity_type": "persons",
+          "start": 108,
+          "end": 110,
+          "surface": "孟舒"
+        },
+        {
+          "entity_id": "c3",
+          "entity_type": "concepts",
+          "start": 126,
+          "end": 128,
+          "surface": "長者"
+        },
+        {
+          "entity_id": "p8",
+          "entity_type": "persons",
+          "start": 137,
+          "end": 139,
+          "surface": "孟舒"
+        },
+        {
+          "entity_id": "c3",
+          "entity_type": "concepts",
+          "start": 140,
+          "end": 142,
+          "surface": "長者"
+        },
+        {
+          "entity_id": "p8",
+          "entity_type": "persons",
+          "start": 154,
+          "end": 156,
+          "surface": "孟舒"
+        },
+        {
+          "entity_id": "c3",
+          "entity_type": "concepts",
+          "start": 159,
+          "end": 161,
+          "surface": "長者"
+        },
+        {
+          "entity_id": "p7",
+          "entity_type": "persons",
+          "start": 164,
+          "end": 166,
+          "surface": "貫高"
+        },
+        {
+          "entity_id": "p4",
+          "entity_type": "persons",
+          "start": 179,
+          "end": 181,
+          "surface": "張王"
+        },
+        {
+          "entity_id": "p8",
+          "entity_type": "persons",
+          "start": 187,
+          "end": 189,
+          "surface": "孟舒"
+        },
+        {
+          "entity_id": "p4",
+          "entity_type": "persons",
+          "start": 194,
+          "end": 196,
+          "surface": "張王"
+        },
+        {
+          "entity_id": "pl7",
+          "entity_type": "places",
+          "start": 211,
+          "end": 213,
+          "surface": "雲中"
+        },
+        {
+          "entity_id": "p12",
+          "entity_type": "persons",
+          "start": 227,
+          "end": 231,
+          "surface": "匈奴冐頓"
+        },
+        {
+          "entity_id": "p8",
+          "entity_type": "persons",
+          "start": 241,
+          "end": 243,
+          "surface": "孟舒"
+        },
+        {
+          "entity_id": "p8",
+          "entity_type": "persons",
+          "start": 278,
+          "end": 280,
+          "surface": "孟舒"
+        },
+        {
+          "entity_id": "p8",
+          "entity_type": "persons",
+          "start": 289,
+          "end": 291,
+          "surface": "孟舒"
+        },
+        {
+          "entity_id": "c3",
+          "entity_type": "concepts",
+          "start": 294,
+          "end": 296,
+          "surface": "長者"
+        },
+        {
+          "entity_id": "p8",
+          "entity_type": "persons",
+          "start": 307,
+          "end": 309,
+          "surface": "孟舒"
+        },
+        {
+          "entity_id": "p8",
+          "entity_type": "persons",
+          "start": 313,
+          "end": 315,
+          "surface": "孟舒"
+        },
+        {
+          "entity_id": "pl7",
+          "entity_type": "places",
+          "start": 317,
+          "end": 319,
+          "surface": "雲中"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-田叔列傳第四十四:p3",
+      "mentions": [
+        {
+          "entity_id": "p13",
+          "entity_type": "persons",
+          "start": 10,
+          "end": 13,
+          "surface": "梁孝王"
+        },
+        {
+          "entity_id": "p14",
+          "entity_type": "persons",
+          "start": 16,
+          "end": 19,
+          "surface": "故吳相"
+        },
+        {
+          "entity_id": "p14",
+          "entity_type": "persons",
+          "start": 19,
+          "end": 21,
+          "surface": "袁盎"
+        },
+        {
+          "entity_id": "p15",
+          "entity_type": "persons",
+          "start": 22,
+          "end": 24,
+          "surface": "景帝"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 25,
+          "end": 27,
+          "surface": "田叔"
+        },
+        {
+          "entity_id": "pl8",
+          "entity_type": "places",
+          "start": 28,
+          "end": 29,
+          "surface": "梁"
+        },
+        {
+          "entity_id": "p15",
+          "entity_type": "persons",
+          "start": 38,
+          "end": 40,
+          "surface": "景帝"
+        },
+        {
+          "entity_id": "pl8",
+          "entity_type": "places",
+          "start": 43,
+          "end": 44,
+          "surface": "梁"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 71,
+          "end": 73,
+          "surface": "田叔"
+        },
+        {
+          "entity_id": "pl8",
+          "entity_type": "places",
+          "start": 79,
+          "end": 80,
+          "surface": "梁"
+        },
+        {
+          "entity_id": "p13",
+          "entity_type": "persons",
+          "start": 97,
+          "end": 99,
+          "surface": "梁王"
+        },
+        {
+          "entity_id": "p16",
+          "entity_type": "persons",
+          "start": 116,
+          "end": 118,
+          "surface": "太后"
+        },
+        {
+          "entity_id": "p15",
+          "entity_type": "persons",
+          "start": 136,
+          "end": 138,
+          "surface": "景帝"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-田叔列傳第四十四:p4",
+      "mentions": [
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 20,
+          "end": 22,
+          "surface": "田叔"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 60,
+          "end": 62,
+          "surface": "魯王"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-田叔列傳第四十四:p5",
+      "mentions": [
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 0,
+          "end": 2,
+          "surface": "魯王"
+        },
+        {
+          "entity_id": "p17",
+          "entity_type": "persons",
+          "start": 61,
+          "end": 63,
+          "surface": "魯王"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-田叔列傳第四十四:p6",
+      "mentions": []
+    },
+    {
+      "target_para_id": "text:shiji:shiji-田叔列傳第四十四:p7",
+      "mentions": [
+        {
+          "entity_id": "p27",
+          "entity_type": "persons",
+          "start": 35,
+          "end": 38,
+          "surface": "石丞相"
+        },
+        {
+          "entity_id": "c8",
+          "entity_type": "concepts",
+          "start": 47,
+          "end": 49,
+          "surface": "刺舉"
+        },
+        {
+          "entity_id": "pl21",
+          "entity_type": "places",
+          "start": 49,
+          "end": 51,
+          "surface": "三河"
+        },
+        {
+          "entity_id": "c14",
+          "entity_type": "concepts",
+          "start": 67,
+          "end": 71,
+          "surface": "京輔都尉"
+        },
+        {
+          "entity_id": "p18",
+          "entity_type": "persons",
+          "start": 79,
+          "end": 81,
+          "surface": "司直"
+        },
+        {
+          "entity_id": "p22",
+          "entity_type": "persons",
+          "start": 86,
+          "end": 88,
+          "surface": "太子"
+        },
+        {
+          "entity_id": "p20",
+          "entity_type": "persons",
+          "start": 91,
+          "end": 94,
+          "surface": "左丞相"
+        },
+        {
+          "entity_id": "p18",
+          "entity_type": "persons",
+          "start": 99,
+          "end": 101,
+          "surface": "司直"
+        },
+        {
+          "entity_id": "p18",
+          "entity_type": "persons",
+          "start": 101,
+          "end": 103,
+          "surface": "田仁"
+        },
+        {
+          "entity_id": "p22",
+          "entity_type": "persons",
+          "start": 111,
+          "end": 113,
+          "surface": "太子"
+        },
+        {
+          "entity_id": "pl23",
+          "entity_type": "places",
+          "start": 123,
+          "end": 125,
+          "surface": "長陵"
+        },
+        {
+          "entity_id": "p21",
+          "entity_type": "persons",
+          "start": 126,
+          "end": 129,
+          "surface": "車千秋"
+        },
+        {
+          "entity_id": "pl1",
+          "entity_type": "places",
+          "start": 137,
+          "end": 139,
+          "surface": "陘城"
+        },
+        {
+          "entity_id": "pl24",
+          "entity_type": "places",
+          "start": 141,
+          "end": 144,
+          "surface": "中山國"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-田叔列傳第四十四:p8",
+      "mentions": [
+        {
+          "entity_id": "p31",
+          "entity_type": "persons",
+          "start": 5,
+          "end": 7,
+          "surface": "孔子"
+        },
+        {
+          "entity_id": "c7",
+          "entity_type": "concepts",
+          "start": 10,
+          "end": 17,
+          "surface": "居是國必聞其政"
+        },
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 19,
+          "end": 21,
+          "surface": "田叔"
+        },
+        {
+          "entity_id": "c5",
+          "entity_type": "concepts",
+          "start": 25,
+          "end": 29,
+          "surface": "義不忘賢"
+        },
+        {
+          "entity_id": "c6",
+          "entity_type": "concepts",
+          "start": 30,
+          "end": 37,
+          "surface": "明主之美以救過"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-田叔列傳第四十四:p9",
+      "mentions": [
+        {
+          "entity_id": "p1",
+          "entity_type": "persons",
+          "start": 6,
+          "end": 8,
+          "surface": "田叔"
+        },
+        {
+          "entity_id": "c3",
+          "entity_type": "concepts",
+          "start": 8,
+          "end": 10,
+          "surface": "長者"
+        },
+        {
+          "entity_id": "p4",
+          "entity_type": "persons",
+          "start": 16,
+          "end": 18,
+          "surface": "張王"
+        },
+        {
+          "entity_id": "pl6",
+          "entity_type": "places",
+          "start": 21,
+          "end": 23,
+          "surface": "漢中"
+        },
+        {
+          "entity_id": "p8",
+          "entity_type": "persons",
+          "start": 26,
+          "end": 28,
+          "surface": "孟舒"
+        },
+        {
+          "entity_id": "pl8",
+          "entity_type": "places",
+          "start": 37,
+          "end": 38,
+          "surface": "梁"
+        },
+        {
+          "entity_id": "c8",
+          "entity_type": "concepts",
+          "start": 51,
+          "end": 53,
+          "surface": "刺舉"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-田叔列傳第四十四:p10",
+      "mentions": [
+        {
+          "entity_id": "p32",
+          "entity_type": "persons",
+          "start": 0,
+          "end": 3,
+          "surface": "褚先生"
+        },
+        {
+          "entity_id": "p18",
+          "entity_type": "persons",
+          "start": 13,
+          "end": 15,
+          "surface": "田仁"
+        },
+        {
+          "entity_id": "p23",
+          "entity_type": "persons",
+          "start": 17,
+          "end": 19,
+          "surface": "任安"
+        },
+        {
+          "entity_id": "p23",
+          "entity_type": "persons",
+          "start": 22,
+          "end": 24,
+          "surface": "任安"
+        },
+        {
+          "entity_id": "pl10",
+          "entity_type": "places",
+          "start": 25,
+          "end": 27,
+          "surface": "滎陽"
+        },
+        {
+          "entity_id": "pl5",
+          "entity_type": "places",
+          "start": 40,
+          "end": 42,
+          "surface": "長安"
+        },
+        {
+          "entity_id": "pl11",
+          "entity_type": "places",
+          "start": 65,
+          "end": 67,
+          "surface": "武功"
+        },
+        {
+          "entity_id": "pl11",
+          "entity_type": "places",
+          "start": 68,
+          "end": 70,
+          "surface": "武功"
+        },
+        {
+          "entity_id": "pl12",
+          "entity_type": "places",
+          "start": 71,
+          "end": 73,
+          "surface": "扶風"
+        },
+        {
+          "entity_id": "pl13",
+          "entity_type": "places",
+          "start": 79,
+          "end": 81,
+          "surface": "谷口"
+        },
+        {
+          "entity_id": "pl14",
+          "entity_type": "places",
+          "start": 81,
+          "end": 82,
+          "surface": "蜀"
+        },
+        {
+          "entity_id": "pl11",
+          "entity_type": "places",
+          "start": 90,
+          "end": 92,
+          "surface": "武功"
+        },
+        {
+          "entity_id": "pl4",
+          "entity_type": "places",
+          "start": 105,
+          "end": 106,
+          "surface": "代"
+        },
+        {
+          "entity_id": "c15",
+          "entity_type": "concepts",
+          "start": 108,
+          "end": 112,
+          "surface": "求盜亭父"
+        },
+        {
+          "entity_id": "p23",
+          "entity_type": "persons",
+          "start": 126,
+          "end": 128,
+          "surface": "任安"
+        },
+        {
+          "entity_id": "p23",
+          "entity_type": "persons",
+          "start": 159,
+          "end": 162,
+          "surface": "任少卿"
+        },
+        {
+          "entity_id": "p23",
+          "entity_type": "persons",
+          "start": 183,
+          "end": 186,
+          "surface": "任少卿"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-田叔列傳第四十四:p11",
+      "mentions": [
+        {
+          "entity_id": "p18",
+          "entity_type": "persons",
+          "start": 9,
+          "end": 11,
+          "surface": "田仁"
+        },
+        {
+          "entity_id": "p23",
+          "entity_type": "persons",
+          "start": 72,
+          "end": 74,
+          "surface": "任安"
+        },
+        {
+          "entity_id": "p24",
+          "entity_type": "persons",
+          "start": 99,
+          "end": 102,
+          "surface": "平陽主"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-田叔列傳第四十四:p12",
+      "mentions": [
+        {
+          "entity_id": "p25",
+          "entity_type": "persons",
+          "start": 44,
+          "end": 48,
+          "surface": "少府趙禹"
+        },
+        {
+          "entity_id": "p25",
+          "entity_type": "persons",
+          "start": 63,
+          "end": 65,
+          "surface": "趙禹"
+        },
+        {
+          "entity_id": "p25",
+          "entity_type": "persons",
+          "start": 66,
+          "end": 68,
+          "surface": "趙禹"
+        },
+        {
+          "entity_id": "p25",
+          "entity_type": "persons",
+          "start": 86,
+          "end": 88,
+          "surface": "趙禹"
+        },
+        {
+          "entity_id": "c11",
+          "entity_type": "concepts",
+          "start": 95,
+          "end": 103,
+          "surface": "將門之下必有將類"
+        },
+        {
+          "entity_id": "p25",
+          "entity_type": "persons",
+          "start": 184,
+          "end": 186,
+          "surface": "趙禹"
+        },
+        {
+          "entity_id": "p18",
+          "entity_type": "persons",
+          "start": 203,
+          "end": 205,
+          "surface": "田仁"
+        },
+        {
+          "entity_id": "p23",
+          "entity_type": "persons",
+          "start": 206,
+          "end": 208,
+          "surface": "任安"
+        },
+        {
+          "entity_id": "p25",
+          "entity_type": "persons",
+          "start": 239,
+          "end": 241,
+          "surface": "趙禹"
+        },
+        {
+          "entity_id": "p18",
+          "entity_type": "persons",
+          "start": 343,
+          "end": 345,
+          "surface": "田仁"
+        },
+        {
+          "entity_id": "p23",
+          "entity_type": "persons",
+          "start": 368,
+          "end": 370,
+          "surface": "任安"
+        },
+        {
+          "entity_id": "p23",
+          "entity_type": "persons",
+          "start": 372,
+          "end": 374,
+          "surface": "任安"
+        },
+        {
+          "entity_id": "p29",
+          "entity_type": "persons",
+          "start": 405,
+          "end": 407,
+          "surface": "武帝"
+        },
+        {
+          "entity_id": "p23",
+          "entity_type": "persons",
+          "start": 416,
+          "end": 418,
+          "surface": "任安"
+        },
+        {
+          "entity_id": "pl15",
+          "entity_type": "places",
+          "start": 419,
+          "end": 421,
+          "surface": "北軍"
+        },
+        {
+          "entity_id": "p18",
+          "entity_type": "persons",
+          "start": 423,
+          "end": 425,
+          "surface": "田仁"
+        },
+        {
+          "entity_id": "pl16",
+          "entity_type": "places",
+          "start": 430,
+          "end": 432,
+          "surface": "河上"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-田叔列傳第四十四:p13",
+      "mentions": [
+        {
+          "entity_id": "p23",
+          "entity_type": "persons",
+          "start": 3,
+          "end": 5,
+          "surface": "任安"
+        },
+        {
+          "entity_id": "pl17",
+          "entity_type": "places",
+          "start": 6,
+          "end": 8,
+          "surface": "益州"
+        },
+        {
+          "entity_id": "p18",
+          "entity_type": "persons",
+          "start": 12,
+          "end": 14,
+          "surface": "田仁"
+        },
+        {
+          "entity_id": "p20",
+          "entity_type": "persons",
+          "start": 15,
+          "end": 17,
+          "surface": "丞相"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-田叔列傳第四十四:p14",
+      "mentions": [
+        {
+          "entity_id": "p18",
+          "entity_type": "persons",
+          "start": 0,
+          "end": 2,
+          "surface": "田仁"
+        },
+        {
+          "entity_id": "pl21",
+          "entity_type": "places",
+          "start": 17,
+          "end": 19,
+          "surface": "三河"
+        },
+        {
+          "entity_id": "c8",
+          "entity_type": "concepts",
+          "start": 25,
+          "end": 27,
+          "surface": "刺舉"
+        },
+        {
+          "entity_id": "pl21",
+          "entity_type": "places",
+          "start": 27,
+          "end": 29,
+          "surface": "三河"
+        },
+        {
+          "entity_id": "pl21",
+          "entity_type": "places",
+          "start": 30,
+          "end": 32,
+          "surface": "三河"
+        },
+        {
+          "entity_id": "pl21",
+          "entity_type": "places",
+          "start": 56,
+          "end": 58,
+          "surface": "三河"
+        },
+        {
+          "entity_id": "pl18",
+          "entity_type": "places",
+          "start": 68,
+          "end": 70,
+          "surface": "河南"
+        },
+        {
+          "entity_id": "pl19",
+          "entity_type": "places",
+          "start": 71,
+          "end": 73,
+          "surface": "河內"
+        },
+        {
+          "entity_id": "p26",
+          "entity_type": "persons",
+          "start": 76,
+          "end": 81,
+          "surface": "御史大夫杜"
+        },
+        {
+          "entity_id": "pl20",
+          "entity_type": "places",
+          "start": 87,
+          "end": 89,
+          "surface": "河東"
+        },
+        {
+          "entity_id": "p27",
+          "entity_type": "persons",
+          "start": 91,
+          "end": 94,
+          "surface": "石丞相"
+        },
+        {
+          "entity_id": "p18",
+          "entity_type": "persons",
+          "start": 113,
+          "end": 115,
+          "surface": "田仁"
+        },
+        {
+          "entity_id": "p26",
+          "entity_type": "persons",
+          "start": 121,
+          "end": 124,
+          "surface": "杜大夫"
+        },
+        {
+          "entity_id": "p18",
+          "entity_type": "persons",
+          "start": 132,
+          "end": 135,
+          "surface": "田少卿"
+        },
+        {
+          "entity_id": "pl21",
+          "entity_type": "places",
+          "start": 159,
+          "end": 161,
+          "surface": "三河"
+        },
+        {
+          "entity_id": "pl21",
+          "entity_type": "places",
+          "start": 162,
+          "end": 164,
+          "surface": "三河"
+        },
+        {
+          "entity_id": "p29",
+          "entity_type": "persons",
+          "start": 177,
+          "end": 179,
+          "surface": "武帝"
+        },
+        {
+          "entity_id": "c9",
+          "entity_type": "concepts",
+          "start": 193,
+          "end": 197,
+          "surface": "丞相司直"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-田叔列傳第四十四:p15",
+      "mentions": [
+        {
+          "entity_id": "p22",
+          "entity_type": "persons",
+          "start": 3,
+          "end": 5,
+          "surface": "太子"
+        },
+        {
+          "entity_id": "p20",
+          "entity_type": "persons",
+          "start": 9,
+          "end": 11,
+          "surface": "丞相"
+        },
+        {
+          "entity_id": "p18",
+          "entity_type": "persons",
+          "start": 16,
+          "end": 18,
+          "surface": "司直"
+        },
+        {
+          "entity_id": "p18",
+          "entity_type": "persons",
+          "start": 22,
+          "end": 24,
+          "surface": "司直"
+        },
+        {
+          "entity_id": "p22",
+          "entity_type": "persons",
+          "start": 26,
+          "end": 28,
+          "surface": "太子"
+        },
+        {
+          "entity_id": "pl25",
+          "entity_type": "places",
+          "start": 44,
+          "end": 46,
+          "surface": "諸陵"
+        },
+        {
+          "entity_id": "p29",
+          "entity_type": "persons",
+          "start": 50,
+          "end": 52,
+          "surface": "武帝"
+        },
+        {
+          "entity_id": "pl22",
+          "entity_type": "places",
+          "start": 53,
+          "end": 55,
+          "surface": "甘泉"
+        },
+        {
+          "entity_id": "p28",
+          "entity_type": "persons",
+          "start": 57,
+          "end": 63,
+          "surface": "御史大夫暴君"
+        },
+        {
+          "entity_id": "p20",
+          "entity_type": "persons",
+          "start": 65,
+          "end": 67,
+          "surface": "丞相"
+        },
+        {
+          "entity_id": "p22",
+          "entity_type": "persons",
+          "start": 71,
+          "end": 73,
+          "surface": "太子"
+        },
+        {
+          "entity_id": "p20",
+          "entity_type": "persons",
+          "start": 75,
+          "end": 77,
+          "surface": "丞相"
+        },
+        {
+          "entity_id": "p18",
+          "entity_type": "persons",
+          "start": 81,
+          "end": 83,
+          "surface": "司直"
+        },
+        {
+          "entity_id": "p22",
+          "entity_type": "persons",
+          "start": 89,
+          "end": 91,
+          "surface": "太子"
+        },
+        {
+          "entity_id": "p18",
+          "entity_type": "persons",
+          "start": 101,
+          "end": 103,
+          "surface": "司直"
+        },
+        {
+          "entity_id": "p18",
+          "entity_type": "persons",
+          "start": 104,
+          "end": 106,
+          "surface": "司直"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-田叔列傳第四十四:p16",
+      "mentions": [
+        {
+          "entity_id": "p23",
+          "entity_type": "persons",
+          "start": 2,
+          "end": 4,
+          "surface": "任安"
+        },
+        {
+          "entity_id": "c13",
+          "entity_type": "concepts",
+          "start": 5,
+          "end": 11,
+          "surface": "北軍使者護軍"
+        },
+        {
+          "entity_id": "p22",
+          "entity_type": "persons",
+          "start": 12,
+          "end": 14,
+          "surface": "太子"
+        },
+        {
+          "entity_id": "pl15",
+          "entity_type": "places",
+          "start": 16,
+          "end": 18,
+          "surface": "北軍"
+        },
+        {
+          "entity_id": "p23",
+          "entity_type": "persons",
+          "start": 23,
+          "end": 25,
+          "surface": "任安"
+        },
+        {
+          "entity_id": "p29",
+          "entity_type": "persons",
+          "start": 44,
+          "end": 46,
+          "surface": "武帝"
+        },
+        {
+          "entity_id": "p23",
+          "entity_type": "persons",
+          "start": 51,
+          "end": 53,
+          "surface": "任安"
+        },
+        {
+          "entity_id": "p23",
+          "entity_type": "persons",
+          "start": 64,
+          "end": 66,
+          "surface": "任安"
+        },
+        {
+          "entity_id": "pl15",
+          "entity_type": "places",
+          "start": 68,
+          "end": 70,
+          "surface": "北軍"
+        },
+        {
+          "entity_id": "p22",
+          "entity_type": "persons",
+          "start": 85,
+          "end": 87,
+          "surface": "太子"
+        },
+        {
+          "entity_id": "p29",
+          "entity_type": "persons",
+          "start": 104,
+          "end": 106,
+          "surface": "武帝"
+        }
+      ]
+    },
+    {
+      "target_para_id": "text:shiji:shiji-田叔列傳第四十四:p17",
+      "mentions": [
+        {
+          "entity_id": "p30",
+          "entity_type": "persons",
+          "start": 35,
+          "end": 37,
+          "surface": "范蠡"
+        },
+        {
+          "entity_id": "pl26",
+          "entity_type": "places",
+          "start": 39,
+          "end": 40,
+          "surface": "越"
+        }
+      ]
+    }
+  ]
+}
