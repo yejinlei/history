@@ -1,0 +1,800 @@
+{
+  "book": "shiji",
+  "chapter_id": "shiji-呂不韋列傳第二十五",
+  "chapter_title": "吕不韦列传第二十五",
+  "version": "1.0",
+  "generated_at": "2026-11-01",
+  "note": "收录本篇主线人物、地理、事件、概念、关系；嬴政生父说存疑处已在译文中注明。",
+  "entities": {
+    "persons": [
+      {
+        "name": "吕不韦",
+        "alias": [
+          "呂不韋",
+          "文信侯",
+          "吕子",
+          "呂子"
+        ],
+        "note": "阳翟大贾人，家累千金；以「奇货可居」扶立子楚，献邯郸姬；庄襄王时为丞相、封文信侯，食河南雒阳十万户；始皇时尊相国号仲父；招致食客三千人，集著《吕氏春秋》八览六论十二纪；进嫪毐于太后；嫪毐反，不韦免相就国河南；岁余诸侯宾客相望于道，请之；始皇赐书责之，迁蜀，饮酖自杀。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p0",
+          "text:shiji:shiji-呂不韋列傳第二十五:p1",
+          "text:shiji:shiji-呂不韋列傳第二十五:p2",
+          "text:shiji:shiji-呂不韋列傳第二十五:p3",
+          "text:shiji:shiji-呂不韋列傳第二十五:p4",
+          "text:shiji:shiji-呂不韋列傳第二十五:p5",
+          "text:shiji:shiji-呂不韋列傳第二十五:p6",
+          "text:shiji:shiji-呂不韋列傳第二十五:p7",
+          "text:shiji:shiji-呂不韋列傳第二十五:p8",
+          "text:shiji:shiji-呂不韋列傳第二十五:p9",
+          "text:shiji:shiji-呂不韋列傳第二十五:p10",
+          "text:shiji:shiji-呂不韋列傳第二十五:p11",
+          "text:shiji:shiji-呂不韋列傳第二十五:p12",
+          "text:shiji:shiji-呂不韋列傳第二十五:p13",
+          "text:shiji:shiji-呂不韋列傳第二十五:p15",
+          "text:shiji:shiji-呂不韋列傳第二十五:p16"
+        ]
+      },
+      {
+        "name": "子楚（秦庄襄王）",
+        "alias": [
+          "子楚",
+          "異人",
+          "莊襄王",
+          "秦莊襄王"
+        ],
+        "note": "秦昭王庶孽孙，初名异人，安国君（孝文王）中子，母夏姬；质于赵，车乘进用不饶；因吕不韦之谋，华阳夫人立以为嫡嗣，更名子楚；孝文王薨后立为庄襄王，在位三年薨。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p1",
+          "text:shiji:shiji-呂不韋列傳第二十五:p2",
+          "text:shiji:shiji-呂不韋列傳第二十五:p3",
+          "text:shiji:shiji-呂不韋列傳第二十五:p5",
+          "text:shiji:shiji-呂不韋列傳第二十五:p6",
+          "text:shiji:shiji-呂不韋列傳第二十五:p7",
+          "text:shiji:shiji-呂不韋列傳第二十五:p10",
+          "text:shiji:shiji-呂不韋列傳第二十五:p14"
+        ]
+      },
+      {
+        "name": "华阳夫人",
+        "alias": [
+          "華陽夫人",
+          "華陽后",
+          "華陽太后"
+        ],
+        "note": "安国君（孝文王）宠姬，楚女芈姓，与华阳君芈戎同族；无子，听吕不韦、其姊之说立子楚为嫡嗣；孝文王立为后，庄襄王时尊华阳太后；与孝文王合葬寿陵。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p1",
+          "text:shiji:shiji-呂不韋列傳第二十五:p3",
+          "text:shiji:shiji-呂不韋列傳第二十五:p6",
+          "text:shiji:shiji-呂不韋列傳第二十五:p10"
+        ]
+      },
+      {
+        "name": "夏姬",
+        "alias": [
+          "夏太后"
+        ],
+        "note": "子楚生母，安国君姬，无宠；庄襄王立尊为夏太后；始皇七年薨，别葬杜东，东望吾子、西望吾夫。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p1",
+          "text:shiji:shiji-呂不韋列傳第二十五:p6",
+          "text:shiji:shiji-呂不韋列傳第二十五:p10"
+        ]
+      },
+      {
+        "name": "安国君（秦孝文王）",
+        "alias": [
+          "安國君",
+          "孝文王",
+          "秦孝文王"
+        ],
+        "note": "秦昭王次子，昭王四十二年立为太子；立一年薨，谥孝文王；名柱。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p1",
+          "text:shiji:shiji-呂不韋列傳第二十五:p3",
+          "text:shiji:shiji-呂不韋列傳第二十五:p5",
+          "text:shiji:shiji-呂不韋列傳第二十五:p6",
+          "text:shiji:shiji-呂不韋列傳第二十五:p10"
+        ]
+      },
+      {
+        "name": "秦昭王",
+        "alias": [
+          "昭襄王"
+        ],
+        "note": "名稷，秦惠王子、武王弟，前306—前251年在位，用白起范雎，奠定统一基础。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p1",
+          "text:shiji:shiji-呂不韋列傳第二十五:p5"
+        ]
+      },
+      {
+        "name": "赵姬（帝太后）",
+        "alias": [
+          "子楚夫人",
+          "太后",
+          "帝太后"
+        ],
+        "note": "邯郸诸姬绝好善舞者，吕不韦姬，有身献子楚，生嬴政；子楚为夫人；始皇立为太后；与吕不韦私通，后通嫪毐生二子；始皇九年嫪毐反，迁之雍，后茅焦谏迎归咸阳；始皇十九年薨，谥帝太后，合葬芷阳。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p4",
+          "text:shiji:shiji-呂不韋列傳第二十五:p5",
+          "text:shiji:shiji-呂不韋列傳第二十五:p7",
+          "text:shiji:shiji-呂不韋列傳第二十五:p9",
+          "text:shiji:shiji-呂不韋列傳第二十五:p11",
+          "text:shiji:shiji-呂不韋列傳第二十五:p12",
+          "text:shiji:shiji-呂不韋列傳第二十五:p14"
+        ]
+      },
+      {
+        "name": "秦始皇嬴政",
+        "alias": [
+          "秦王政",
+          "始皇帝",
+          "太子政"
+        ],
+        "note": "子楚子，或传吕不韦子（争议）；前246年十三岁即位，尊不韦为相国号仲父；九年平嫪毐，十年免不韦相，十二年逼不韦自杀；十九年太后薨；二十六年统一六国称始皇帝。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p4",
+          "text:shiji:shiji-呂不韋列傳第二十五:p5",
+          "text:shiji:shiji-呂不韋列傳第二十五:p7",
+          "text:shiji:shiji-呂不韋列傳第二十五:p9",
+          "text:shiji:shiji-呂不韋列傳第二十五:p11",
+          "text:shiji:shiji-呂不韋列傳第二十五:p12",
+          "text:shiji:shiji-呂不韋列傳第二十五:p13",
+          "text:shiji:shiji-呂不韋列傳第二十五:p14",
+          "text:shiji:shiji-呂不韋列傳第二十五:p15"
+        ]
+      },
+      {
+        "name": "嫪毐",
+        "alias": [
+          "嫪毐",
+          "长信侯"
+        ],
+        "note": "秦大阴人，吕不韦进为舍人，诈腐为宦者侍太后，与太后私生二子，封长信侯，事无大小皆决于毐；始皇九年矫太后玺反蕲年宫，败走，被擒于好畤，夷三族，党羽迁蜀。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p9",
+          "text:shiji:shiji-呂不韋列傳第二十五:p11",
+          "text:shiji:shiji-呂不韋列傳第二十五:p13",
+          "text:shiji:shiji-呂不韋列傳第二十五:p15"
+        ]
+      },
+      {
+        "name": "茅焦",
+        "alias": [],
+        "note": "齐人客于秦，以「迁母不孝」谏秦王；秦王迎太后归咸阳。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p12"
+        ]
+      },
+      {
+        "name": "王齮",
+        "alias": [],
+        "note": "秦将，昭王五十年围邯郸。齮音yǐ。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p5"
+        ]
+      }
+    ],
+    "places": [
+      {
+        "name": "阳翟",
+        "alias": [
+          "陽翟"
+        ],
+        "note": "韩邑，今河南禹州，吕不韦故里；一说《战国策》作濮阳。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p0"
+        ]
+      },
+      {
+        "name": "邯郸",
+        "alias": [
+          "邯鄲"
+        ],
+        "note": "赵国都，今河北邯郸；吕不韦贾邯郸遇子楚。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p2",
+          "text:shiji:shiji-呂不韋列傳第二十五:p3",
+          "text:shiji:shiji-呂不韋列傳第二十五:p4",
+          "text:shiji:shiji-呂不韋列傳第二十五:p5"
+        ]
+      },
+      {
+        "name": "咸阳",
+        "alias": [
+          "咸陽"
+        ],
+        "note": "秦国都，今陕西咸阳东北。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p3",
+          "text:shiji:shiji-呂不韋列傳第二十五:p8",
+          "text:shiji:shiji-呂不韋列傳第二十五:p12"
+        ]
+      },
+      {
+        "name": "河南雒阳",
+        "alias": [
+          "河南",
+          "洛阳",
+          "雒陽"
+        ],
+        "note": "吕不韦封邑，食河南雒阳十万户，今河南洛阳一带；被免相就国于此。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p6",
+          "text:shiji:shiji-呂不韋列傳第二十五:p12",
+          "text:shiji:shiji-呂不韋列傳第二十五:p13"
+        ]
+      },
+      {
+        "name": "雍",
+        "alias": [],
+        "note": "秦旧都离宫，今陕西凤翔南；太后迁居雍地蕲年宫；嫪毐反于蕲年宫。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p9",
+          "text:shiji:shiji-呂不韋列傳第二十五:p12",
+          "text:shiji:shiji-呂不韋列傳第二十五:p15"
+        ]
+      },
+      {
+        "name": "寿陵",
+        "alias": [],
+        "note": "秦孝文王与华阳太后合葬陵。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p10"
+        ]
+      },
+      {
+        "name": "芷阳（茝阳）",
+        "alias": [
+          "茝陽",
+          "芷陽"
+        ],
+        "note": "秦县名，在今陕西西安东；庄襄王与帝太后合葬芷阳。茝、芷通。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p10",
+          "text:shiji:shiji-呂不韋列傳第二十五:p14"
+        ]
+      },
+      {
+        "name": "杜东",
+        "alias": [],
+        "note": "杜原之东，在今陕西西安东南，夏太后独葬于此。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p10"
+        ]
+      },
+      {
+        "name": "蜀",
+        "alias": [
+          "蜀郡"
+        ],
+        "note": "秦蜀郡，今四川；嫪毐党羽迁蜀，后吕不韦被诏迁蜀，未迁而饮鸩死。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p11",
+          "text:shiji:shiji-呂不韋列傳第二十五:p13"
+        ]
+      },
+      {
+        "name": "好畤",
+        "alias": [
+          "好畤"
+        ],
+        "note": "秦县名，今陕西乾县东；嫪毐败走被斩于此。畤音zhì。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p15"
+        ]
+      },
+      {
+        "name": "秦国",
+        "alias": [
+          "秦"
+        ],
+        "note": "战国七雄之一，嬴政时统一六国。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p1",
+          "text:shiji:shiji-呂不韋列傳第二十五:p2",
+          "text:shiji:shiji-呂不韋列傳第二十五:p3",
+          "text:shiji:shiji-呂不韋列傳第二十五:p5",
+          "text:shiji:shiji-呂不韋列傳第二十五:p6",
+          "text:shiji:shiji-呂不韋列傳第二十五:p7",
+          "text:shiji:shiji-呂不韋列傳第二十五:p8"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "name": "吕不韦为阳翟大贾 家累千金",
+        "alias": [],
+        "note": "不韦阳翟大贾，往来贩贱卖贵，家累千金。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p0"
+        ]
+      },
+      {
+        "name": "奇货可居",
+        "alias": [],
+        "note": "不韦贾邯郸见子楚，曰「此奇货可居」，往说子楚。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p2"
+        ]
+      },
+      {
+        "name": "吕不韦西游秦 华阳夫人立子楚为嫡嗣",
+        "alias": [],
+        "note": "不韦以金西游秦，因华阳夫人姊说夫人立子楚为嫡嗣，安国君许之。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p3"
+        ]
+      },
+      {
+        "name": "吕不韦献邯郸姬",
+        "alias": [],
+        "note": "不韦取邯郸诸姬善舞者与居，知有身，献子楚，姬生子政。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p4"
+        ]
+      },
+      {
+        "name": "子楚与不韦归秦",
+        "alias": [],
+        "note": "昭王五十年王齮围邯郸急，子楚与不韦行金六百斤予守者，得脱赴秦军归秦。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p5"
+        ]
+      },
+      {
+        "name": "庄襄王立 不韦为丞相封文信侯",
+        "alias": [],
+        "note": "孝文王薨，子楚代立为庄襄王；以不韦为丞相，封文信侯，食河南雒阳十万户。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p6"
+        ]
+      },
+      {
+        "name": "秦王政立 不韦为相国号仲父",
+        "alias": [],
+        "note": "庄襄王薨，太子政立，尊不韦相国，号仲父；太后时时窃私通不韦。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p7"
+        ]
+      },
+      {
+        "name": "吕不韦招致宾客 著吕氏春秋",
+        "alias": [
+          "懸金咸陽市門"
+        ],
+        "note": "不韦羞不如四公子之养士，招致士至食客三千，使著《吕氏春秋》二十余万言，悬咸阳市门千金，能增损一字者予千金。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p8"
+        ]
+      },
+      {
+        "name": "不韦进嫪毐于太后",
+        "alias": [],
+        "note": "太后淫不止，不韦恐祸及己，私求大阴人嫪毐诈腐进太后；太后绝爱之，生二子，事皆决于嫪毐。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p9"
+        ]
+      },
+      {
+        "name": "夏太后薨别葬杜东",
+        "alias": [],
+        "note": "始皇七年夏太后薨，别葬杜东，东望吾子、西望吾夫。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p10"
+        ]
+      },
+      {
+        "name": "始皇九年嫪毐反 夷三族",
+        "alias": [
+          "蘄年宮之亂"
+        ],
+        "note": "始皇九年有告嫪毐实非宦者，与太后私生二子；王下吏治，毐矫太后玺反蕲年宫，败于好畤被夷三族；杀太后所生二子，迁太后雍；事连相国不韦。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p11",
+          "text:shiji:shiji-呂不韋列傳第二十五:p15"
+        ]
+      },
+      {
+        "name": "始皇十年免不韦相 出就国河南",
+        "alias": [],
+        "note": "始皇十年十月免相国不韦；茅焦说王迎太后归咸阳，出不韦就国河南。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p12"
+        ]
+      },
+      {
+        "name": "不韦迁蜀 饮酖自杀",
+        "alias": [],
+        "note": "岁余诸侯宾客相望于道请文信侯；王恐其变赐书谴之，令与家属迁蜀；不韦恐诛饮鸩死；始皇十二年（前235年）事。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p13"
+        ]
+      },
+      {
+        "name": "始皇十九年太后薨 合葬芷阳",
+        "alias": [],
+        "note": "始皇十九年太后薨，谥帝太后，与庄襄王合葬茝阳。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p14"
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "name": "大贾",
+        "alias": [
+          "大賈"
+        ],
+        "note": "大商人；贾音gǔ。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p0"
+        ]
+      },
+      {
+        "name": "贩贱卖贵",
+        "alias": [
+          "販賤賣貴"
+        ],
+        "note": "低买高卖，成语「囤积居奇」「奇货可居」近义。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p0"
+        ]
+      },
+      {
+        "name": "奇货可居",
+        "alias": [
+          "奇貨可居"
+        ],
+        "note": "把珍奇货物囤积起来等待高价卖出，后为成语，亦喻把某种专长或人作为资本以博取名利。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p2"
+        ]
+      },
+      {
+        "name": "庶孽孫",
+        "alias": [],
+        "note": "庶出旁支子孙；非嫡长正宗。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p2"
+        ]
+      },
+      {
+        "name": "质子",
+        "alias": [
+          "質子"
+        ],
+        "note": "两国结盟互派王室子弟为质。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p2"
+        ]
+      },
+      {
+        "name": "钓奇",
+        "alias": [
+          "釣奇"
+        ],
+        "note": "以诱饵取奇货，不韦谋国之喻。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p2",
+          "text:shiji:shiji-呂不韋列傳第二十五:p4"
+        ]
+      },
+      {
+        "name": "嫡嗣",
+        "alias": [],
+        "note": "正妻所生、继承家业者。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p3"
+        ]
+      },
+      {
+        "name": "五百金",
+        "alias": [],
+        "note": "一金为一镒，二十两或二十四两；此为秦代大宗交易货币单位。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p3"
+        ]
+      },
+      {
+        "name": "玉符",
+        "alias": [],
+        "note": "以玉为符契，剖分两半为信。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p3"
+        ]
+      },
+      {
+        "name": "大期",
+        "alias": [
+          "大期"
+        ],
+        "note": "期（jī）为一整周期，十月或十二月；「至大期时生子政」是史公对嬴政生父的关键暗示。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p4"
+        ]
+      },
+      {
+        "name": "仲父",
+        "alias": [],
+        "note": "叔父之尊称；齐桓公称管仲为仲父；始皇尊吕不韦为仲父。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p7",
+          "text:shiji:shiji-呂不韋列傳第二十五:p13",
+          "text:shiji:shiji-呂不韋列傳第二十五:p16"
+        ]
+      },
+      {
+        "name": "食客三千",
+        "alias": [
+          "食客",
+          "門下食客"
+        ],
+        "note": "战国四公子各养士三千，吕不韦亦致食客三千。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p8"
+        ]
+      },
+      {
+        "name": "吕氏春秋",
+        "alias": [
+          "呂氏春秋",
+          "吕览",
+          "呂覽"
+        ],
+        "note": "吕不韦集门客所著，八览、六论、十二纪，二十余万言；杂家代表作，集先秦诸子之学。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p8",
+          "text:shiji:shiji-呂不韋列傳第二十五:p16"
+        ]
+      },
+      {
+        "name": "一字千金",
+        "alias": [
+          "一字千金"
+        ],
+        "note": "不韦悬《吕氏春秋》咸阳市门，千金赏能增损一字者，后以成语喻文辞精审、不可改易。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p8",
+          "text:shiji:shiji-呂不韋列傳第二十五:p16"
+        ]
+      },
+      {
+        "name": "嫪毐",
+        "alias": [
+          "lao ai"
+        ],
+        "note": "音lào ǎi，秦太后男宠，封长信侯；以大阴人伪为宦者进。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p9"
+        ]
+      },
+      {
+        "name": "桐轮",
+        "alias": [],
+        "note": "桐木车轮，《史记》夸张描述嫪毐阴关桐轮而行。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p9"
+        ]
+      },
+      {
+        "name": "宫刑",
+        "alias": [
+          "腐刑"
+        ],
+        "note": "阉割之刑，司马迁亦受此刑。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p9"
+        ]
+      },
+      {
+        "name": "夷三族",
+        "alias": [],
+        "note": "父族、母族、妻族全部诛杀，秦最重刑罚之一。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p11"
+        ]
+      },
+      {
+        "name": "蕲年宫之变",
+        "alias": [
+          "蘄年宮"
+        ],
+        "note": "嫪毐矫太后玺反于雍蕲年宫，秦王平定之乱。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p15"
+        ]
+      },
+      {
+        "name": "饮酖",
+        "alias": [
+          "飲酖",
+          "饮鸩"
+        ],
+        "note": "酖同鸩（zhèn），毒酒；饮毒酒自杀。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p13"
+        ]
+      },
+      {
+        "name": "闻者",
+        "alias": [
+          "聞者"
+        ],
+        "note": "孔子所谓「闻」：《论语·颜渊》「夫闻也者，色取仁而行违，居之不疑」，指外有虚名、内无实德之人。司马迁以此评吕不韦。",
+        "evidence": [
+          "text:shiji:shiji-呂不韋列傳第二十五:p15"
+        ]
+      }
+    ]
+  },
+  "relations": [
+    {
+      "from": "吕不韦",
+      "type": "以奇货扶立",
+      "to": "子楚（秦庄襄王）",
+      "evidence": [
+        "text:shiji:shiji-呂不韋列傳第二十五:p2",
+        "text:shiji:shiji-呂不韋列傳第二十五:p3"
+      ]
+    },
+    {
+      "from": "吕不韦",
+      "type": "西入秦说",
+      "to": "华阳夫人",
+      "evidence": [
+        "text:shiji:shiji-呂不韋列傳第二十五:p3"
+      ]
+    },
+    {
+      "from": "华阳夫人",
+      "type": "立嫡嗣",
+      "to": "子楚（秦庄襄王）",
+      "evidence": [
+        "text:shiji:shiji-呂不韋列傳第二十五:p3"
+      ]
+    },
+    {
+      "from": "吕不韦",
+      "type": "献 邯郸姬于",
+      "to": "子楚（秦庄襄王）",
+      "evidence": [
+        "text:shiji:shiji-呂不韋列傳第二十五:p4"
+      ]
+    },
+    {
+      "from": "赵姬（帝太后）",
+      "type": "生",
+      "to": "秦始皇嬴政",
+      "evidence": [
+        "text:shiji:shiji-呂不韋列傳第二十五:p4"
+      ]
+    },
+    {
+      "from": "子楚（秦庄襄王）",
+      "type": "与吕不韦 行金归",
+      "to": "秦国",
+      "evidence": [
+        "text:shiji:shiji-呂不韋列傳第二十五:p5"
+      ]
+    },
+    {
+      "from": "安国君（秦孝文王）",
+      "type": "薨 传位",
+      "to": "子楚（秦庄襄王）",
+      "evidence": [
+        "text:shiji:shiji-呂不韋列傳第二十五:p6"
+      ]
+    },
+    {
+      "from": "子楚（秦庄襄王）",
+      "type": "以不韦为丞相封",
+      "to": "吕不韦",
+      "evidence": [
+        "text:shiji:shiji-呂不韋列傳第二十五:p6"
+      ]
+    },
+    {
+      "from": "秦始皇嬴政",
+      "type": "立 尊不韦为相国号",
+      "to": "仲父",
+      "evidence": [
+        "text:shiji:shiji-呂不韋列傳第二十五:p7"
+      ]
+    },
+    {
+      "from": "赵姬（帝太后）",
+      "type": "与吕不韦私通于",
+      "to": "咸阳",
+      "evidence": [
+        "text:shiji:shiji-呂不韋列傳第二十五:p7"
+      ]
+    },
+    {
+      "from": "吕不韦",
+      "type": "招致宾客 著",
+      "to": "吕氏春秋",
+      "evidence": [
+        "text:shiji:shiji-呂不韋列傳第二十五:p8"
+      ]
+    },
+    {
+      "from": "吕不韦",
+      "type": "进 嫪毐于",
+      "to": "赵姬（帝太后）",
+      "evidence": [
+        "text:shiji:shiji-呂不韋列傳第二十五:p9"
+      ]
+    },
+    {
+      "from": "嫪毐",
+      "type": "私通 生二子于",
+      "to": "赵姬（帝太后）",
+      "evidence": [
+        "text:shiji:shiji-呂不韋列傳第二十五:p9",
+        "text:shiji:shiji-呂不韋列傳第二十五:p11"
+      ]
+    },
+    {
+      "from": "嫪毐",
+      "type": "矫玺反于",
+      "to": "雍",
+      "evidence": [
+        "text:shiji:shiji-呂不韋列傳第二十五:p11",
+        "text:shiji:shiji-呂不韋列傳第二十五:p15"
+      ]
+    },
+    {
+      "from": "秦始皇嬴政",
+      "type": "平定夷三族于",
+      "to": "嫪毐",
+      "evidence": [
+        "text:shiji:shiji-呂不韋列傳第二十五:p11",
+        "text:shiji:shiji-呂不韋列傳第二十五:p15"
+      ]
+    },
+    {
+      "from": "秦始皇嬴政",
+      "type": "免相 迁就国",
+      "to": "吕不韦",
+      "evidence": [
+        "text:shiji:shiji-呂不韋列傳第二十五:p12"
+      ]
+    },
+    {
+      "from": "茅焦",
+      "type": "谏 迎太后归",
+      "to": "咸阳",
+      "evidence": [
+        "text:shiji:shiji-呂不韋列傳第二十五:p12"
+      ]
+    },
+    {
+      "from": "秦始皇嬴政",
+      "type": "赐书迁 逼饮酖",
+      "to": "吕不韦",
+      "evidence": [
+        "text:shiji:shiji-呂不韋列傳第二十五:p13"
+      ]
+    },
+    {
+      "from": "吕不韦",
+      "type": "饮酖自杀于迁",
+      "to": "蜀",
+      "evidence": [
+        "text:shiji:shiji-呂不韋列傳第二十五:p13"
+      ]
+    },
+    {
+      "from": "赵姬（帝太后）",
+      "type": "薨 合葬",
+      "to": "芷阳（茝阳）",
+      "evidence": [
+        "text:shiji:shiji-呂不韋列傳第二十五:p14"
+      ]
+    }
+  ]
+}
