@@ -1,0 +1,775 @@
+{
+  "book": "史记",
+  "chapter_id": "shiji-季布欒布列傳第四十",
+  "chapter_title": "季布欒布列傳第四十",
+  "paragraphs": [
+    {
+      "para_id": "text:shiji:shiji-季布欒布列傳第四十:p0",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "季布",
+          "surface": "季布"
+        },
+        {
+          "entity_id": "p002",
+          "entity_type": "person",
+          "name": "项羽",
+          "surface": "项羽"
+        },
+        {
+          "entity_id": "p003",
+          "entity_type": "person",
+          "name": "汉高祖刘邦",
+          "surface": "汉高祖刘邦"
+        },
+        {
+          "entity_id": "p004",
+          "entity_type": "person",
+          "name": "周氏",
+          "surface": "周氏"
+        },
+        {
+          "entity_id": "p005",
+          "entity_type": "person",
+          "name": "朱家",
+          "surface": "朱家"
+        },
+        {
+          "entity_id": "p006",
+          "entity_type": "person",
+          "name": "夏侯婴",
+          "surface": "夏侯婴"
+        },
+        {
+          "entity_id": "p007",
+          "entity_type": "person",
+          "name": "伍子胥",
+          "surface": "伍子胥"
+        },
+        {
+          "entity_id": "p008",
+          "entity_type": "person",
+          "name": "楚平王",
+          "surface": "楚平王"
+        },
+        {
+          "entity_id": "pl02",
+          "entity_type": "place",
+          "name": "濮阳",
+          "surface": "濮阳"
+        },
+        {
+          "entity_id": "pl03",
+          "entity_type": "place",
+          "name": "鲁",
+          "surface": "鲁"
+        },
+        {
+          "entity_id": "pl04",
+          "entity_type": "place",
+          "name": "洛阳",
+          "surface": "洛阳"
+        },
+        {
+          "entity_id": "pl06",
+          "entity_type": "place",
+          "name": "匈奴",
+          "surface": "匈奴"
+        },
+        {
+          "entity_id": "pl07",
+          "entity_type": "place",
+          "name": "南越",
+          "surface": "南越"
+        },
+        {
+          "entity_id": "pl01",
+          "entity_type": "place",
+          "name": "楚",
+          "surface": "楚"
+        },
+        {
+          "entity_id": "e01",
+          "entity_type": "event",
+          "name": "季布数窘汉王",
+          "surface": "季布数窘汉王"
+        },
+        {
+          "entity_id": "e02",
+          "entity_type": "event",
+          "name": "周氏髡钳季布广柳车卖朱家",
+          "surface": "周氏髡钳季布广柳车卖朱家"
+        },
+        {
+          "entity_id": "e03",
+          "entity_type": "event",
+          "name": "朱家义救季布说滕公进言",
+          "surface": "朱家义救季布说滕公进言"
+        },
+        {
+          "entity_id": "e04",
+          "entity_type": "event",
+          "name": "季布为召拜郎中",
+          "surface": "季布为召拜郎中"
+        },
+        {
+          "entity_id": "e18",
+          "entity_type": "event",
+          "name": "伍子胥鞭荆平王墓",
+          "surface": "伍子胥鞭荆平王墓"
+        },
+        {
+          "entity_id": "c01",
+          "entity_type": "concept",
+          "name": "任侠",
+          "surface": "任侠"
+        },
+        {
+          "entity_id": "c03",
+          "entity_type": "concept",
+          "name": "摧刚为柔",
+          "surface": "摧刚为柔"
+        },
+        {
+          "entity_id": "c04",
+          "entity_type": "concept",
+          "name": "臣各为其主",
+          "surface": "臣各为其主"
+        },
+        {
+          "entity_id": "c05",
+          "entity_type": "concept",
+          "name": "忌壮士以资敌国",
+          "surface": "忌壮士以资敌国"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-季布欒布列傳第四十:p1",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "季布",
+          "surface": "季布"
+        },
+        {
+          "entity_id": "p010",
+          "entity_type": "person",
+          "name": "樊哙",
+          "surface": "樊哙"
+        },
+        {
+          "entity_id": "p009",
+          "entity_type": "person",
+          "name": "吕后",
+          "surface": "吕后"
+        },
+        {
+          "entity_id": "p011",
+          "entity_type": "person",
+          "name": "匈奴单于",
+          "surface": "匈奴单于"
+        },
+        {
+          "entity_id": "p013",
+          "entity_type": "person",
+          "name": "孝惠帝",
+          "surface": "孝惠帝"
+        },
+        {
+          "entity_id": "p012",
+          "entity_type": "person",
+          "name": "陈胜",
+          "surface": "陈胜"
+        },
+        {
+          "entity_id": "p003",
+          "entity_type": "person",
+          "name": "汉高祖刘邦",
+          "surface": "汉高祖刘邦"
+        },
+        {
+          "entity_id": "pl05",
+          "entity_type": "place",
+          "name": "平城",
+          "surface": "平城"
+        },
+        {
+          "entity_id": "pl06",
+          "entity_type": "place",
+          "name": "匈奴",
+          "surface": "匈奴"
+        },
+        {
+          "entity_id": "e05",
+          "entity_type": "event",
+          "name": "樊哙请十万众横行匈奴季布廷折之",
+          "surface": "樊哙请十万众横行匈奴季布廷折之"
+        },
+        {
+          "entity_id": "e17",
+          "entity_type": "event",
+          "name": "白登之围",
+          "surface": "白登之围"
+        },
+        {
+          "entity_id": "c06",
+          "entity_type": "concept",
+          "name": "面欺面谀",
+          "surface": "面欺面谀"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-季布欒布列傳第四十:p2",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "季布",
+          "surface": "季布"
+        },
+        {
+          "entity_id": "p014",
+          "entity_type": "person",
+          "name": "孝文帝",
+          "surface": "孝文帝"
+        },
+        {
+          "entity_id": "pl08",
+          "entity_type": "place",
+          "name": "河东郡",
+          "surface": "河东郡"
+        },
+        {
+          "entity_id": "e06",
+          "entity_type": "event",
+          "name": "季布河东召对文帝",
+          "surface": "季布河东召对文帝"
+        },
+        {
+          "entity_id": "c07",
+          "entity_type": "concept",
+          "name": "股肱郡",
+          "surface": "股肱郡"
+        },
+        {
+          "entity_id": "c08",
+          "entity_type": "concept",
+          "name": "一人之誉召臣一人之毁去臣",
+          "surface": "一人之誉召臣一人之毁去臣"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-季布欒布列傳第四十:p3",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "季布",
+          "surface": "季布"
+        },
+        {
+          "entity_id": "p015",
+          "entity_type": "person",
+          "name": "曹丘生",
+          "surface": "曹丘生"
+        },
+        {
+          "entity_id": "p017",
+          "entity_type": "person",
+          "name": "窦长君",
+          "surface": "窦长君"
+        },
+        {
+          "entity_id": "p016",
+          "entity_type": "person",
+          "name": "赵同",
+          "surface": "赵同"
+        },
+        {
+          "entity_id": "pl09",
+          "entity_type": "place",
+          "name": "梁",
+          "surface": "梁"
+        },
+        {
+          "entity_id": "pl01",
+          "entity_type": "place",
+          "name": "楚",
+          "surface": "楚"
+        },
+        {
+          "entity_id": "e07",
+          "entity_type": "event",
+          "name": "曹丘生为季布游扬扬名一诺千金",
+          "surface": "曹丘生为季布游扬扬名一诺千金"
+        },
+        {
+          "entity_id": "c02",
+          "entity_type": "concept",
+          "name": "一诺千金",
+          "surface": "一诺千金"
+        },
+        {
+          "entity_id": "c01",
+          "entity_type": "concept",
+          "name": "任侠",
+          "surface": "任侠"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-季布欒布列傳第四十:p4",
+      "mentions": [
+        {
+          "entity_id": "p018",
+          "entity_type": "person",
+          "name": "季心",
+          "surface": "季心"
+        },
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "季布",
+          "surface": "季布"
+        },
+        {
+          "entity_id": "p019",
+          "entity_type": "person",
+          "name": "袁丝",
+          "surface": "袁丝"
+        },
+        {
+          "entity_id": "p020",
+          "entity_type": "person",
+          "name": "灌夫",
+          "surface": "灌夫"
+        },
+        {
+          "entity_id": "p021",
+          "entity_type": "person",
+          "name": "籍福",
+          "surface": "籍福"
+        },
+        {
+          "entity_id": "p022",
+          "entity_type": "person",
+          "name": "郅都",
+          "surface": "郅都"
+        },
+        {
+          "entity_id": "pl10",
+          "entity_type": "place",
+          "name": "关中",
+          "surface": "关中"
+        },
+        {
+          "entity_id": "pl11",
+          "entity_type": "place",
+          "name": "吴",
+          "surface": "吴"
+        },
+        {
+          "entity_id": "e08",
+          "entity_type": "event",
+          "name": "季心气盖关中",
+          "surface": "季心气盖关中"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-季布欒布列傳第四十:p5",
+      "mentions": [
+        {
+          "entity_id": "p023",
+          "entity_type": "person",
+          "name": "丁公",
+          "surface": "丁公"
+        },
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "季布",
+          "surface": "季布"
+        },
+        {
+          "entity_id": "p002",
+          "entity_type": "person",
+          "name": "项羽",
+          "surface": "项羽"
+        },
+        {
+          "entity_id": "p003",
+          "entity_type": "person",
+          "name": "汉高祖刘邦",
+          "surface": "汉高祖刘邦"
+        },
+        {
+          "entity_id": "pl12",
+          "entity_type": "place",
+          "name": "彭城",
+          "surface": "彭城"
+        },
+        {
+          "entity_id": "e09",
+          "entity_type": "event",
+          "name": "丁公彭城逐窘高祖短兵私放",
+          "surface": "丁公彭城逐窘高祖短兵私放"
+        },
+        {
+          "entity_id": "e10",
+          "entity_type": "event",
+          "name": "高祖斩丁公以戒人臣不忠",
+          "surface": "高祖斩丁公以戒人臣不忠"
+        },
+        {
+          "entity_id": "c09",
+          "entity_type": "concept",
+          "name": "两贤岂相厄哉",
+          "surface": "两贤岂相厄哉"
+        },
+        {
+          "entity_id": "c10",
+          "entity_type": "concept",
+          "name": "使后世为人臣者无效丁公",
+          "surface": "使后世为人臣者无效丁公"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-季布欒布列傳第四十:p6",
+      "mentions": [
+        {
+          "entity_id": "p024",
+          "entity_type": "person",
+          "name": "栾布",
+          "surface": "栾布"
+        },
+        {
+          "entity_id": "p025",
+          "entity_type": "person",
+          "name": "彭越",
+          "surface": "彭越"
+        },
+        {
+          "entity_id": "p026",
+          "entity_type": "person",
+          "name": "臧荼",
+          "surface": "臧荼"
+        },
+        {
+          "entity_id": "pl09",
+          "entity_type": "place",
+          "name": "梁",
+          "surface": "梁"
+        },
+        {
+          "entity_id": "pl13",
+          "entity_type": "place",
+          "name": "齐",
+          "surface": "齐"
+        },
+        {
+          "entity_id": "pl14",
+          "entity_type": "place",
+          "name": "巨野",
+          "surface": "巨野"
+        },
+        {
+          "entity_id": "pl15",
+          "entity_type": "place",
+          "name": "燕",
+          "surface": "燕"
+        },
+        {
+          "entity_id": "e11",
+          "entity_type": "event",
+          "name": "栾布穷困赁佣于齐为奴于燕",
+          "surface": "栾布穷困赁佣于齐为奴于燕"
+        },
+        {
+          "entity_id": "e12",
+          "entity_type": "event",
+          "name": "彭越赎栾布为梁大夫",
+          "surface": "彭越赎栾布为梁大夫"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-季布欒布列傳第四十:p7",
+      "mentions": [
+        {
+          "entity_id": "p024",
+          "entity_type": "person",
+          "name": "栾布",
+          "surface": "栾布"
+        },
+        {
+          "entity_id": "p025",
+          "entity_type": "person",
+          "name": "彭越",
+          "surface": "彭越"
+        },
+        {
+          "entity_id": "p003",
+          "entity_type": "person",
+          "name": "汉高祖刘邦",
+          "surface": "汉高祖刘邦"
+        },
+        {
+          "entity_id": "pl04",
+          "entity_type": "place",
+          "name": "洛阳",
+          "surface": "洛阳"
+        },
+        {
+          "entity_id": "pl13",
+          "entity_type": "place",
+          "name": "齐",
+          "surface": "齐"
+        },
+        {
+          "entity_id": "pl12",
+          "entity_type": "place",
+          "name": "彭城",
+          "surface": "彭城"
+        },
+        {
+          "entity_id": "pl16",
+          "entity_type": "place",
+          "name": "荥阳",
+          "surface": "荥阳"
+        },
+        {
+          "entity_id": "pl17",
+          "entity_type": "place",
+          "name": "成皋",
+          "surface": "成皋"
+        },
+        {
+          "entity_id": "pl18",
+          "entity_type": "place",
+          "name": "垓下",
+          "surface": "垓下"
+        },
+        {
+          "entity_id": "pl09",
+          "entity_type": "place",
+          "name": "梁",
+          "surface": "梁"
+        },
+        {
+          "entity_id": "e13",
+          "entity_type": "event",
+          "name": "栾布哭祭彭越头下赴汤如归",
+          "surface": "栾布哭祭彭越头下赴汤如归"
+        },
+        {
+          "entity_id": "c12",
+          "entity_type": "concept",
+          "name": "趣汤如归赴鼎非冤",
+          "surface": "趣汤如归赴鼎非冤"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-季布欒布列傳第四十:p8",
+      "mentions": [
+        {
+          "entity_id": "p024",
+          "entity_type": "person",
+          "name": "栾布",
+          "surface": "栾布"
+        },
+        {
+          "entity_id": "p014",
+          "entity_type": "person",
+          "name": "孝文帝",
+          "surface": "孝文帝"
+        },
+        {
+          "entity_id": "pl15",
+          "entity_type": "place",
+          "name": "燕",
+          "surface": "燕"
+        },
+        {
+          "entity_id": "pl13",
+          "entity_type": "place",
+          "name": "齐",
+          "surface": "齐"
+        },
+        {
+          "entity_id": "e14",
+          "entity_type": "event",
+          "name": "栾布为燕相快意恩仇封俞侯",
+          "surface": "栾布为燕相快意恩仇封俞侯"
+        },
+        {
+          "entity_id": "e15",
+          "entity_type": "event",
+          "name": "吴楚七国之乱",
+          "surface": "吴楚七国之乱"
+        },
+        {
+          "entity_id": "c15",
+          "entity_type": "concept",
+          "name": "栾公社",
+          "surface": "栾公社"
+        },
+        {
+          "entity_id": "c11",
+          "entity_type": "concept",
+          "name": "快意恩仇",
+          "surface": "快意恩仇"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-季布欒布列傳第四十:p9",
+      "mentions": [
+        {
+          "entity_id": "p024",
+          "entity_type": "person",
+          "name": "栾布",
+          "surface": "栾布"
+        },
+        {
+          "entity_id": "p027",
+          "entity_type": "person",
+          "name": "栾贲",
+          "surface": "栾贲"
+        },
+        {
+          "entity_id": "c16",
+          "entity_type": "concept",
+          "name": "太常",
+          "surface": "太常"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-季布欒布列傳第四十:p10",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "季布",
+          "surface": "季布"
+        },
+        {
+          "entity_id": "p024",
+          "entity_type": "person",
+          "name": "栾布",
+          "surface": "栾布"
+        },
+        {
+          "entity_id": "p002",
+          "entity_type": "person",
+          "name": "项羽",
+          "surface": "项羽"
+        },
+        {
+          "entity_id": "c13",
+          "entity_type": "concept",
+          "name": "贤者重其死",
+          "surface": "贤者重其死"
+        },
+        {
+          "entity_id": "c14",
+          "entity_type": "concept",
+          "name": "诚知所处",
+          "surface": "诚知所处"
+        },
+        {
+          "entity_id": "c03",
+          "entity_type": "concept",
+          "name": "摧刚为柔",
+          "surface": "摧刚为柔"
+        },
+        {
+          "entity_id": "c12",
+          "entity_type": "concept",
+          "name": "趣汤如归赴鼎非冤",
+          "surface": "趣汤如归赴鼎非冤"
+        }
+      ]
+    },
+    {
+      "para_id": "text:shiji:shiji-季布欒布列傳第四十:p11",
+      "mentions": [
+        {
+          "entity_id": "p001",
+          "entity_type": "person",
+          "name": "季布",
+          "surface": "季布"
+        },
+        {
+          "entity_id": "p018",
+          "entity_type": "person",
+          "name": "季心",
+          "surface": "季心"
+        },
+        {
+          "entity_id": "p024",
+          "entity_type": "person",
+          "name": "栾布",
+          "surface": "栾布"
+        },
+        {
+          "entity_id": "p025",
+          "entity_type": "person",
+          "name": "彭越",
+          "surface": "彭越"
+        },
+        {
+          "entity_id": "pl09",
+          "entity_type": "place",
+          "name": "梁",
+          "surface": "梁"
+        },
+        {
+          "entity_id": "pl01",
+          "entity_type": "place",
+          "name": "楚",
+          "surface": "楚"
+        },
+        {
+          "entity_id": "pl08",
+          "entity_type": "place",
+          "name": "河东郡",
+          "surface": "河东郡"
+        },
+        {
+          "entity_id": "c02",
+          "entity_type": "concept",
+          "name": "一诺千金",
+          "surface": "一诺千金"
+        },
+        {
+          "entity_id": "c15",
+          "entity_type": "concept",
+          "name": "栾公社",
+          "surface": "栾公社"
+        },
+        {
+          "entity_id": "c14",
+          "entity_type": "concept",
+          "name": "诚知所处",
+          "surface": "诚知所处"
+        },
+        {
+          "entity_id": "c12",
+          "entity_type": "concept",
+          "name": "趣汤如归赴鼎非冤",
+          "surface": "趣汤如归赴鼎非冤"
+        }
+      ]
+    }
+  ]
+}
