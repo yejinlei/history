@@ -1,0 +1,1504 @@
+{
+  "book_id": "shiji",
+  "chapter_id": "benji1",
+  "chapter_title": "五帝本纪第一",
+  "version": "1.0-final",
+  "generated_at": "2026-11-02",
+  "entities": {
+    "persons": [
+      {
+        "name": "黄帝（姬轩辕）",
+        "aliases": [
+          "軒轅",
+          "軒轅氏",
+          "有熊氏",
+          "公孫軒轅"
+        ],
+        "role": "五帝之首",
+        "dynasty": "上古",
+        "evidence": [
+          "p2",
+          "p3",
+          "p4",
+          "p5",
+          "p6",
+          "p28"
+        ]
+      },
+      {
+        "name": "炎帝（神农氏）",
+        "aliases": [
+          "神農氏",
+          "神農",
+          "炎"
+        ],
+        "role": "部落联盟首领",
+        "dynasty": "上古",
+        "evidence": [
+          "p3"
+        ]
+      },
+      {
+        "name": "蚩尤",
+        "aliases": [],
+        "role": "九黎部落首领",
+        "dynasty": "上古",
+        "evidence": [
+          "p3"
+        ]
+      },
+      {
+        "name": "嫘祖",
+        "aliases": [
+          "西陵之女",
+          "雷祖"
+        ],
+        "role": "黄帝正妃",
+        "dynasty": "上古",
+        "evidence": [
+          "p6"
+        ]
+      },
+      {
+        "name": "昌意",
+        "aliases": [],
+        "role": "黄帝之子",
+        "dynasty": "上古",
+        "evidence": [
+          "p6",
+          "p7",
+          "p19",
+          "p28"
+        ]
+      },
+      {
+        "name": "玄嚣",
+        "aliases": [
+          "青陽"
+        ],
+        "role": "黄帝之子",
+        "dynasty": "上古",
+        "evidence": [
+          "p6",
+          "p8",
+          "p9"
+        ]
+      },
+      {
+        "name": "青阳",
+        "aliases": [
+          "玄囂"
+        ],
+        "role": "黄帝之子封号",
+        "dynasty": "上古",
+        "evidence": [
+          "p6"
+        ]
+      },
+      {
+        "name": "颛顼（高阳）",
+        "aliases": [
+          "高陽",
+          "帝顓頊",
+          "顓頊氏",
+          "高陽氏"
+        ],
+        "role": "五帝之二",
+        "dynasty": "上古",
+        "evidence": [
+          "p6",
+          "p7",
+          "p8",
+          "p9",
+          "p19",
+          "p28"
+        ]
+      },
+      {
+        "name": "穷蝉",
+        "aliases": [
+          "窮蟬"
+        ],
+        "role": "颛顼之子",
+        "dynasty": "上古",
+        "evidence": [
+          "p8",
+          "p19"
+        ]
+      },
+      {
+        "name": "蟜极",
+        "aliases": [
+          "蟜極"
+        ],
+        "role": "玄嚣之子",
+        "dynasty": "上古",
+        "evidence": [
+          "p9"
+        ]
+      },
+      {
+        "name": "帝喾（高辛）",
+        "aliases": [
+          "高辛",
+          "帝嚳",
+          "高辛氏"
+        ],
+        "role": "五帝之三",
+        "dynasty": "上古",
+        "evidence": [
+          "p9",
+          "p10",
+          "p11",
+          "p28"
+        ]
+      },
+      {
+        "name": "挚",
+        "aliases": [
+          "帝摯"
+        ],
+        "role": "帝喾之子",
+        "dynasty": "上古",
+        "evidence": [
+          "p11"
+        ]
+      },
+      {
+        "name": "尧（伊祁放勋/唐尧）",
+        "aliases": [
+          "放勳",
+          "帝堯",
+          "唐堯",
+          "陶唐"
+        ],
+        "role": "五帝之四",
+        "dynasty": "上古",
+        "evidence": [
+          "p11",
+          "p12",
+          "p13",
+          "p14",
+          "p15",
+          "p16",
+          "p17",
+          "p18",
+          "p28"
+        ]
+      },
+      {
+        "name": "放齐",
+        "aliases": [
+          "放齊"
+        ],
+        "role": "尧臣",
+        "dynasty": "上古",
+        "evidence": [
+          "p14"
+        ]
+      },
+      {
+        "name": "驩兜",
+        "aliases": [
+          "讙兠",
+          "讙兜"
+        ],
+        "role": "尧臣·四罪之一",
+        "dynasty": "上古",
+        "evidence": [
+          "p14",
+          "p17"
+        ]
+      },
+      {
+        "name": "共工",
+        "aliases": [],
+        "role": "尧臣·四罪之一",
+        "dynasty": "上古",
+        "evidence": [
+          "p14",
+          "p17",
+          "p25"
+        ]
+      },
+      {
+        "name": "四岳",
+        "aliases": [
+          "四嶽"
+        ],
+        "role": "四方诸侯之长",
+        "dynasty": "上古",
+        "evidence": [
+          "p14",
+          "p15",
+          "p16",
+          "p25"
+        ]
+      },
+      {
+        "name": "鲧",
+        "aliases": [
+          "鯀"
+        ],
+        "role": "禹父·四罪之一",
+        "dynasty": "上古",
+        "evidence": [
+          "p14",
+          "p17"
+        ]
+      },
+      {
+        "name": "丹朱",
+        "aliases": [],
+        "role": "尧之子",
+        "dynasty": "上古",
+        "evidence": [
+          "p14",
+          "p18",
+          "p27"
+        ]
+      },
+      {
+        "name": "舜（姚重华/虞舜）",
+        "aliases": [
+          "重華",
+          "虞舜",
+          "帝舜",
+          "虞帝"
+        ],
+        "role": "五帝之五",
+        "dynasty": "上古",
+        "evidence": [
+          "p15",
+          "p16",
+          "p17",
+          "p18",
+          "p19",
+          "p20",
+          "p21",
+          "p22",
+          "p23",
+          "p24",
+          "p25",
+          "p26",
+          "p27",
+          "p28"
+        ]
+      },
+      {
+        "name": "羲和",
+        "aliases": [
+          "羲氏",
+          "和氏"
+        ],
+        "role": "尧时天文官",
+        "dynasty": "上古",
+        "evidence": [
+          "p13"
+        ]
+      },
+      {
+        "name": "羲仲",
+        "aliases": [],
+        "role": "尧时东方天文官",
+        "dynasty": "上古",
+        "evidence": [
+          "p13"
+        ]
+      },
+      {
+        "name": "羲叔",
+        "aliases": [],
+        "role": "尧时南方天文官",
+        "dynasty": "上古",
+        "evidence": [
+          "p13"
+        ]
+      },
+      {
+        "name": "和仲",
+        "aliases": [],
+        "role": "尧时西方天文官",
+        "dynasty": "上古",
+        "evidence": [
+          "p13"
+        ]
+      },
+      {
+        "name": "和叔",
+        "aliases": [],
+        "role": "尧时北方天文官",
+        "dynasty": "上古",
+        "evidence": [
+          "p13"
+        ]
+      },
+      {
+        "name": "瞽叟",
+        "aliases": [
+          "瞽叟"
+        ],
+        "role": "舜之父",
+        "dynasty": "上古",
+        "evidence": [
+          "p19",
+          "p20",
+          "p21",
+          "p22",
+          "p27"
+        ]
+      },
+      {
+        "name": "象",
+        "aliases": [],
+        "role": "舜之弟",
+        "dynasty": "上古",
+        "evidence": [
+          "p20",
+          "p21",
+          "p22",
+          "p27"
+        ]
+      },
+      {
+        "name": "桥牛",
+        "aliases": [
+          "橋牛"
+        ],
+        "role": "舜之曾祖",
+        "dynasty": "上古",
+        "evidence": [
+          "p19"
+        ]
+      },
+      {
+        "name": "句望",
+        "aliases": [
+          "句望"
+        ],
+        "role": "舜之高祖",
+        "dynasty": "上古",
+        "evidence": [
+          "p19"
+        ]
+      },
+      {
+        "name": "敬康",
+        "aliases": [],
+        "role": "舜之天祖",
+        "dynasty": "上古",
+        "evidence": [
+          "p19"
+        ]
+      },
+      {
+        "name": "八恺",
+        "aliases": [
+          "八愷"
+        ],
+        "role": "高阳氏八才子",
+        "dynasty": "上古",
+        "evidence": [
+          "p23"
+        ]
+      },
+      {
+        "name": "八元",
+        "aliases": [],
+        "role": "高辛氏八才子",
+        "dynasty": "上古",
+        "evidence": [
+          "p23"
+        ]
+      },
+      {
+        "name": "三苗",
+        "aliases": [],
+        "role": "南方部族·四罪之一",
+        "dynasty": "上古",
+        "evidence": [
+          "p17",
+          "p25"
+        ]
+      },
+      {
+        "name": "浑沌",
+        "aliases": [
+          "渾沌"
+        ],
+        "role": "四凶之一·帝鸿氏不才子",
+        "dynasty": "上古",
+        "evidence": [
+          "p24"
+        ]
+      },
+      {
+        "name": "穷奇",
+        "aliases": [
+          "窮奇"
+        ],
+        "role": "四凶之一·少皞氏不才子",
+        "dynasty": "上古",
+        "evidence": [
+          "p24"
+        ]
+      },
+      {
+        "name": "梼杌",
+        "aliases": [
+          "檮杌"
+        ],
+        "role": "四凶之一·颛顼氏不才子",
+        "dynasty": "上古",
+        "evidence": [
+          "p24"
+        ]
+      },
+      {
+        "name": "饕餮",
+        "aliases": [
+          "饕餮"
+        ],
+        "role": "四凶之一·缙云氏不才子",
+        "dynasty": "上古",
+        "evidence": [
+          "p24"
+        ]
+      },
+      {
+        "name": "禹（大禹/夏禹）",
+        "aliases": [
+          "伯禹",
+          "夏后"
+        ],
+        "role": "司空·夏朝开国之君",
+        "dynasty": "上古·夏",
+        "evidence": [
+          "p25",
+          "p26",
+          "p27",
+          "p28"
+        ]
+      },
+      {
+        "name": "皋陶",
+        "aliases": [
+          "臯陶"
+        ],
+        "role": "士（司法官）",
+        "dynasty": "上古",
+        "evidence": [
+          "p25",
+          "p26"
+        ]
+      },
+      {
+        "name": "契",
+        "aliases": [],
+        "role": "司徒·商朝始祖",
+        "dynasty": "上古·商",
+        "evidence": [
+          "p25",
+          "p26",
+          "p28"
+        ]
+      },
+      {
+        "name": "后稷",
+        "aliases": [
+          "弃"
+        ],
+        "role": "农官·周朝始祖",
+        "dynasty": "上古·周",
+        "evidence": [
+          "p25",
+          "p26",
+          "p28"
+        ]
+      },
+      {
+        "name": "伯夷",
+        "aliases": [],
+        "role": "秩宗（礼官）",
+        "dynasty": "上古",
+        "evidence": [
+          "p25",
+          "p26"
+        ]
+      },
+      {
+        "name": "夔",
+        "aliases": [],
+        "role": "典乐官",
+        "dynasty": "上古",
+        "evidence": [
+          "p25",
+          "p26"
+        ]
+      },
+      {
+        "name": "龙",
+        "aliases": [],
+        "role": "纳言官",
+        "dynasty": "上古",
+        "evidence": [
+          "p25",
+          "p26"
+        ]
+      },
+      {
+        "name": "倕",
+        "aliases": [
+          "垂"
+        ],
+        "role": "共工（工官）",
+        "dynasty": "上古",
+        "evidence": [
+          "p25",
+          "p26"
+        ]
+      },
+      {
+        "name": "益",
+        "aliases": [],
+        "role": "朕虞（山泽官）",
+        "dynasty": "上古",
+        "evidence": [
+          "p25",
+          "p26"
+        ]
+      },
+      {
+        "name": "彭祖",
+        "aliases": [],
+        "role": "舜臣",
+        "dynasty": "上古",
+        "evidence": [
+          "p25"
+        ]
+      },
+      {
+        "name": "朱虎",
+        "aliases": [],
+        "role": "益之副手",
+        "dynasty": "上古",
+        "evidence": [
+          "p25"
+        ]
+      },
+      {
+        "name": "熊罴",
+        "aliases": [
+          "熊羆"
+        ],
+        "role": "益之副手",
+        "dynasty": "上古",
+        "evidence": [
+          "p25"
+        ]
+      },
+      {
+        "name": "商均",
+        "aliases": [],
+        "role": "舜之子",
+        "dynasty": "上古",
+        "evidence": [
+          "p27"
+        ]
+      },
+      {
+        "name": "风后",
+        "aliases": [
+          "風后"
+        ],
+        "role": "黄帝之臣",
+        "dynasty": "上古",
+        "evidence": [
+          "p4"
+        ]
+      },
+      {
+        "name": "力牧",
+        "aliases": [],
+        "role": "黄帝之臣",
+        "dynasty": "上古",
+        "evidence": [
+          "p4"
+        ]
+      },
+      {
+        "name": "常先",
+        "aliases": [],
+        "role": "黄帝之臣",
+        "dynasty": "上古",
+        "evidence": [
+          "p4"
+        ]
+      },
+      {
+        "name": "大鸿",
+        "aliases": [
+          "大鴻"
+        ],
+        "role": "黄帝之臣",
+        "dynasty": "上古",
+        "evidence": [
+          "p4"
+        ]
+      },
+      {
+        "name": "昌仆",
+        "aliases": [
+          "昌僕"
+        ],
+        "role": "昌意之妻",
+        "dynasty": "上古",
+        "evidence": [
+          "p6"
+        ]
+      },
+      {
+        "name": "司马迁（太史公）",
+        "aliases": [
+          "太史公",
+          "司馬遷"
+        ],
+        "role": "《史记》作者",
+        "dynasty": "西汉",
+        "evidence": [
+          "p29"
+        ]
+      },
+      {
+        "name": "司马贞",
+        "aliases": [
+          "司馬貞"
+        ],
+        "role": "《索隐》作者",
+        "dynasty": "唐",
+        "evidence": [
+          "p0",
+          "p30"
+        ]
+      },
+      {
+        "name": "裴骃",
+        "aliases": [
+          "裴駰"
+        ],
+        "role": "《集解》作者",
+        "dynasty": "刘宋",
+        "evidence": [
+          "p0"
+        ]
+      },
+      {
+        "name": "张守节",
+        "aliases": [],
+        "role": "《正义》作者",
+        "dynasty": "唐",
+        "evidence": [
+          "p0"
+        ]
+      }
+    ],
+    "places": [
+      {
+        "name": "轩辕之丘",
+        "aliases": [
+          "軒轅之丘",
+          "軒丘"
+        ],
+        "type": "都邑",
+        "evidence": [
+          "p6"
+        ]
+      },
+      {
+        "name": "阪泉",
+        "aliases": [
+          "阪泉之野"
+        ],
+        "type": "古战场",
+        "evidence": [
+          "p3"
+        ]
+      },
+      {
+        "name": "涿鹿",
+        "aliases": [
+          "涿鹿之野",
+          "涿鹿之阿"
+        ],
+        "type": "古战场·都邑",
+        "evidence": [
+          "p3",
+          "p4"
+        ]
+      },
+      {
+        "name": "釜山",
+        "aliases": [],
+        "type": "山名·会盟地",
+        "evidence": [
+          "p4"
+        ]
+      },
+      {
+        "name": "丸山",
+        "aliases": [],
+        "type": "山名",
+        "evidence": [
+          "p4"
+        ]
+      },
+      {
+        "name": "岱宗（泰山）",
+        "aliases": [
+          "岱宗"
+        ],
+        "type": "山名",
+        "evidence": [
+          "p4",
+          "p16"
+        ]
+      },
+      {
+        "name": "空桐",
+        "aliases": [
+          "空桐"
+        ],
+        "type": "山名",
+        "evidence": [
+          "p4",
+          "p29"
+        ]
+      },
+      {
+        "name": "鸡头山",
+        "aliases": [
+          "雞頭"
+        ],
+        "type": "山名",
+        "evidence": [
+          "p4"
+        ]
+      },
+      {
+        "name": "熊山",
+        "aliases": [
+          "熊"
+        ],
+        "type": "山名",
+        "evidence": [
+          "p4"
+        ]
+      },
+      {
+        "name": "湘山",
+        "aliases": [
+          "湘"
+        ],
+        "type": "山名",
+        "evidence": [
+          "p4"
+        ]
+      },
+      {
+        "name": "桥山",
+        "aliases": [
+          "橋山"
+        ],
+        "type": "山名·黄帝陵",
+        "evidence": [
+          "p6"
+        ]
+      },
+      {
+        "name": "江水",
+        "aliases": [],
+        "type": "水名",
+        "evidence": [
+          "p6"
+        ]
+      },
+      {
+        "name": "若水",
+        "aliases": [],
+        "type": "水名",
+        "evidence": [
+          "p6"
+        ]
+      },
+      {
+        "name": "幽陵",
+        "aliases": [],
+        "type": "北方地名",
+        "evidence": [
+          "p7",
+          "p17"
+        ]
+      },
+      {
+        "name": "交阯",
+        "aliases": [
+          "交趾"
+        ],
+        "type": "南方地名",
+        "evidence": [
+          "p7",
+          "p26"
+        ]
+      },
+      {
+        "name": "流沙",
+        "aliases": [],
+        "type": "西方地名",
+        "evidence": [
+          "p7"
+        ]
+      },
+      {
+        "name": "蟠木",
+        "aliases": [],
+        "type": "东方地名",
+        "evidence": [
+          "p7"
+        ]
+      },
+      {
+        "name": "郁夷",
+        "aliases": [],
+        "type": "东方日出之地",
+        "evidence": [
+          "p13"
+        ]
+      },
+      {
+        "name": "旸谷",
+        "aliases": [
+          "暘谷"
+        ],
+        "type": "日出之地",
+        "evidence": [
+          "p13"
+        ]
+      },
+      {
+        "name": "南交",
+        "aliases": [],
+        "type": "南方地名",
+        "evidence": [
+          "p13"
+        ]
+      },
+      {
+        "name": "昧谷",
+        "aliases": [],
+        "type": "西方日入之地",
+        "evidence": [
+          "p13"
+        ]
+      },
+      {
+        "name": "幽都",
+        "aliases": [],
+        "type": "北方地名",
+        "evidence": [
+          "p13"
+        ]
+      },
+      {
+        "name": "妫汭",
+        "aliases": [
+          "媯汭"
+        ],
+        "type": "水名·舜所居",
+        "evidence": [
+          "p15",
+          "p22"
+        ]
+      },
+      {
+        "name": "崇山",
+        "aliases": [],
+        "type": "山名·驩兜流放地",
+        "evidence": [
+          "p17"
+        ]
+      },
+      {
+        "name": "三危",
+        "aliases": [],
+        "type": "西方山名·三苗流放地",
+        "evidence": [
+          "p17"
+        ]
+      },
+      {
+        "name": "羽山",
+        "aliases": [],
+        "type": "山名·鲧流放地",
+        "evidence": [
+          "p17"
+        ]
+      },
+      {
+        "name": "江淮",
+        "aliases": [
+          "江、淮"
+        ],
+        "type": "流域",
+        "evidence": [
+          "p17",
+          "p29"
+        ]
+      },
+      {
+        "name": "荆州",
+        "aliases": [
+          "荊州"
+        ],
+        "type": "古九州之一",
+        "evidence": [
+          "p17"
+        ]
+      },
+      {
+        "name": "南河",
+        "aliases": [
+          "南河之南"
+        ],
+        "type": "水名",
+        "evidence": [
+          "p18"
+        ]
+      },
+      {
+        "name": "历山",
+        "aliases": [
+          "歷山"
+        ],
+        "type": "山名·舜耕处",
+        "evidence": [
+          "p21",
+          "p22"
+        ]
+      },
+      {
+        "name": "雷泽",
+        "aliases": [
+          "雷澤"
+        ],
+        "type": "泽名·舜渔处",
+        "evidence": [
+          "p21",
+          "p22"
+        ]
+      },
+      {
+        "name": "河滨",
+        "aliases": [
+          "河濵"
+        ],
+        "type": "黄河边·舜陶处",
+        "evidence": [
+          "p21",
+          "p22"
+        ]
+      },
+      {
+        "name": "寿丘",
+        "aliases": [
+          "壽丘"
+        ],
+        "type": "地名·舜作器处",
+        "evidence": [
+          "p21"
+        ]
+      },
+      {
+        "name": "负夏",
+        "aliases": [
+          "負夏"
+        ],
+        "type": "地名·舜就时处",
+        "evidence": [
+          "p21"
+        ]
+      },
+      {
+        "name": "九嶷山",
+        "aliases": [
+          "九疑",
+          "江南九疑"
+        ],
+        "type": "山名·舜葬地",
+        "evidence": [
+          "p27"
+        ]
+      },
+      {
+        "name": "苍梧之野",
+        "aliases": [
+          "蒼梧之野"
+        ],
+        "type": "地名·舜崩处",
+        "evidence": [
+          "p27"
+        ]
+      },
+      {
+        "name": "零陵",
+        "aliases": [],
+        "type": "舜陵所在",
+        "evidence": [
+          "p27"
+        ]
+      },
+      {
+        "name": "文祖庙",
+        "aliases": [
+          "文祖"
+        ],
+        "type": "宗庙",
+        "evidence": [
+          "p15",
+          "p25"
+        ]
+      },
+      {
+        "name": "中国",
+        "aliases": [
+          "中國"
+        ],
+        "type": "京师·中原",
+        "evidence": [
+          "p18"
+        ]
+      },
+      {
+        "name": "冀州",
+        "aliases": [],
+        "type": "古九州之一",
+        "evidence": [
+          "p21"
+        ]
+      },
+      {
+        "name": "九州",
+        "aliases": [],
+        "type": "古行政区划",
+        "evidence": [
+          "p26"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "name": "黄帝战炎帝于阪泉",
+        "description": "轩辕率诸侯与炎帝战于阪泉之野，三战得志",
+        "evidence": [
+          "p3"
+        ]
+      },
+      {
+        "name": "黄帝战蚩尤于涿鹿",
+        "description": "黄帝征师诸侯，与蚩尤战于涿鹿之野，擒杀蚩尤",
+        "evidence": [
+          "p3"
+        ]
+      },
+      {
+        "name": "黄帝合符釜山",
+        "description": "黄帝北逐荤粥后，于釜山与诸侯合验符契",
+        "evidence": [
+          "p4"
+        ]
+      },
+      {
+        "name": "黄帝设置云师",
+        "description": "黄帝以云名官，置左右大监监于万国",
+        "evidence": [
+          "p4"
+        ]
+      },
+      {
+        "name": "尧舜禅让",
+        "description": "尧知子丹朱不肖，权授舜以天下；舜避让后归之",
+        "evidence": [
+          "p15",
+          "p18"
+        ]
+      },
+      {
+        "name": "羲和授时",
+        "description": "尧命羲、和及四子居四方观天象定历法、置闰月正四时",
+        "evidence": [
+          "p13"
+        ]
+      },
+      {
+        "name": "舜举八元八恺",
+        "description": "舜举高阳氏八恺主后土、高辛氏八元布五教",
+        "evidence": [
+          "p23"
+        ]
+      },
+      {
+        "name": "流四凶",
+        "description": "舜流放浑沌、穷奇、梼杌、饕餮四凶族于四裔",
+        "evidence": [
+          "p24"
+        ]
+      },
+      {
+        "name": "舜流四罪",
+        "description": "舜请流共工于幽陵、放驩兜于崇山、迁三苗于三危、殛鲧于羽山",
+        "evidence": [
+          "p17"
+        ]
+      },
+      {
+        "name": "舜命二十二官",
+        "description": "舜命禹、弃、契、皋陶等二十二人分职治事",
+        "evidence": [
+          "p25"
+        ]
+      },
+      {
+        "name": "大禹治水",
+        "description": "禹平水土，披九山、通九泽、决九河、定九州",
+        "evidence": [
+          "p26"
+        ]
+      },
+      {
+        "name": "舜南巡崩于苍梧",
+        "description": "舜践位三十九年南巡狩，崩于苍梧之野，葬九嶷山",
+        "evidence": [
+          "p27"
+        ]
+      },
+      {
+        "name": "舜禹禅让",
+        "description": "舜子商均不肖，舜预荐禹于天，禹立为天子",
+        "evidence": [
+          "p27"
+        ]
+      },
+      {
+        "name": "尧试舜",
+        "description": "尧以二女妻舜、使九男与处以观其德，又使舜入大麓",
+        "evidence": [
+          "p15",
+          "p22"
+        ]
+      }
+    ],
+    "concepts": [
+      {
+        "name": "禅让制",
+        "description": "传贤不传子的君位传承制度，尧舜禹禅让为其典范",
+        "evidence": [
+          "p18",
+          "p27"
+        ]
+      },
+      {
+        "name": "五德终始",
+        "description": "以五行（木火土金水）相生相克解释王朝更替，黄帝为土德",
+        "evidence": [
+          "p4"
+        ]
+      },
+      {
+        "name": "九州",
+        "description": "上古行政区划：冀、兖、青、徐、扬、荆、豫、梁、雍",
+        "evidence": [
+          "p26"
+        ]
+      },
+      {
+        "name": "命官治民",
+        "description": "设官分职以治理百姓的政治制度，舜时尤备",
+        "evidence": [
+          "p4",
+          "p25"
+        ]
+      },
+      {
+        "name": "五典（五教）",
+        "description": "父义、母慈、兄友、弟恭、子孝五种伦理教化",
+        "evidence": [
+          "p15",
+          "p23",
+          "p25"
+        ]
+      },
+      {
+        "name": "五刑",
+        "description": "墨、劓、剕、宫、大辟五种刑罚",
+        "evidence": [
+          "p16",
+          "p25"
+        ]
+      },
+      {
+        "name": "封禅",
+        "description": "帝王祭天祭地的最高典礼，登泰山筑坛祭天为封、除地祭地为禅",
+        "evidence": [
+          "p4"
+        ]
+      },
+      {
+        "name": "巡狩",
+        "description": "天子巡视四方诸侯，考察政绩、统一制度",
+        "evidence": [
+          "p16",
+          "p27"
+        ]
+      },
+      {
+        "name": "九族",
+        "description": "同姓亲族（或含异姓亲）的宗法概念",
+        "evidence": [
+          "p12"
+        ]
+      },
+      {
+        "name": "十二州",
+        "description": "舜时行政区划，在九州基础上增至十二州",
+        "evidence": [
+          "p16",
+          "p25"
+        ]
+      },
+      {
+        "name": "历法授时",
+        "description": "通过观测天象制定历法、指导农时的制度",
+        "evidence": [
+          "p13"
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "type": "战于阪泉",
+        "from": "黄帝（姬轩辕）",
+        "to": "炎帝（神农氏）",
+        "evidence": "p3"
+      },
+      {
+        "type": "战于涿鹿",
+        "from": "黄帝（姬轩辕）",
+        "to": "蚩尤",
+        "evidence": "p3"
+      },
+      {
+        "type": "擒杀蚩尤",
+        "from": "黄帝（姬轩辕）",
+        "to": "蚩尤",
+        "evidence": "p3"
+      },
+      {
+        "type": "娶嫘祖为妻",
+        "from": "黄帝（姬轩辕）",
+        "to": "嫘祖",
+        "evidence": "p6"
+      },
+      {
+        "type": "生玄嚣",
+        "from": "嫘祖",
+        "to": "玄嚣",
+        "evidence": "p6"
+      },
+      {
+        "type": "生昌意",
+        "from": "嫘祖",
+        "to": "昌意",
+        "evidence": "p6"
+      },
+      {
+        "type": "生颛顼",
+        "from": "昌意",
+        "to": "颛顼（高阳）",
+        "evidence": "p6"
+      },
+      {
+        "type": "传位颛顼",
+        "from": "黄帝（姬轩辕）",
+        "to": "颛顼（高阳）",
+        "evidence": "p6"
+      },
+      {
+        "type": "生穷蝉",
+        "from": "颛顼（高阳）",
+        "to": "穷蝉",
+        "evidence": "p8"
+      },
+      {
+        "type": "传位帝喾",
+        "from": "颛顼（高阳）",
+        "to": "帝喾（高辛）",
+        "evidence": "p8"
+      },
+      {
+        "type": "生蟜极",
+        "from": "玄嚣",
+        "to": "蟜极",
+        "evidence": "p9"
+      },
+      {
+        "type": "生帝喾",
+        "from": "蟜极",
+        "to": "帝喾（高辛）",
+        "evidence": "p9"
+      },
+      {
+        "type": "生放勋",
+        "from": "帝喾（高辛）",
+        "to": "尧（伊祁放勋/唐尧）",
+        "evidence": "p11"
+      },
+      {
+        "type": "生挚",
+        "from": "帝喾（高辛）",
+        "to": "挚",
+        "evidence": "p11"
+      },
+      {
+        "type": "禅位与舜",
+        "from": "尧（伊祁放勋/唐尧）",
+        "to": "舜（姚重华/虞舜）",
+        "evidence": "p18"
+      },
+      {
+        "type": "举荐鲧",
+        "from": "四岳",
+        "to": "鲧",
+        "evidence": "p14"
+      },
+      {
+        "type": "举荐舜",
+        "from": "四岳",
+        "to": "舜（姚重华/虞舜）",
+        "evidence": "p15"
+      },
+      {
+        "type": "嫁女与舜",
+        "from": "尧（伊祁放勋/唐尧）",
+        "to": "舜（姚重华/虞舜）",
+        "evidence": "p15"
+      },
+      {
+        "type": "流放共工",
+        "from": "舜（姚重华/虞舜）",
+        "to": "共工",
+        "evidence": "p17"
+      },
+      {
+        "type": "流放驩兜",
+        "from": "舜（姚重华/虞舜）",
+        "to": "驩兜",
+        "evidence": "p17"
+      },
+      {
+        "type": "迁徙三苗",
+        "from": "舜（姚重华/虞舜）",
+        "to": "三苗",
+        "evidence": "p17"
+      },
+      {
+        "type": "殛鲧于羽山",
+        "from": "舜（姚重华/虞舜）",
+        "to": "鲧",
+        "evidence": "p17"
+      },
+      {
+        "type": "举用八恺",
+        "from": "舜（姚重华/虞舜）",
+        "to": "八恺",
+        "evidence": "p23"
+      },
+      {
+        "type": "举用八元",
+        "from": "舜（姚重华/虞舜）",
+        "to": "八元",
+        "evidence": "p23"
+      },
+      {
+        "type": "流放四凶",
+        "from": "舜（姚重华/虞舜）",
+        "to": "浑沌",
+        "evidence": "p24"
+      },
+      {
+        "type": "任用禹治水",
+        "from": "舜（姚重华/虞舜）",
+        "to": "禹（大禹/夏禹）",
+        "evidence": "p25"
+      },
+      {
+        "type": "任用后稷",
+        "from": "舜（姚重华/虞舜）",
+        "to": "后稷",
+        "evidence": "p25"
+      },
+      {
+        "type": "任用契",
+        "from": "舜（姚重华/虞舜）",
+        "to": "契",
+        "evidence": "p25"
+      },
+      {
+        "type": "任用皋陶",
+        "from": "舜（姚重华/虞舜）",
+        "to": "皋陶",
+        "evidence": "p25"
+      },
+      {
+        "type": "平定九州",
+        "from": "禹（大禹/夏禹）",
+        "to": "九州",
+        "evidence": "p26"
+      },
+      {
+        "type": "禅位与禹",
+        "from": "舜（姚重华/虞舜）",
+        "to": "禹（大禹/夏禹）",
+        "evidence": "p27"
+      },
+      {
+        "type": "葬于桥山",
+        "from": "黄帝（姬轩辕）",
+        "to": "桥山",
+        "evidence": "p6"
+      },
+      {
+        "type": "崩于苍梧",
+        "from": "舜（姚重华/虞舜）",
+        "to": "苍梧之野",
+        "evidence": "p27"
+      },
+      {
+        "type": "合符于釜山",
+        "from": "黄帝（姬轩辕）",
+        "to": "釜山",
+        "evidence": "p4"
+      },
+      {
+        "type": "居于妫汭",
+        "from": "舜（姚重华/虞舜）",
+        "to": "妫汭",
+        "evidence": "p15"
+      },
+      {
+        "type": "撰五帝本纪",
+        "from": "司马迁（太史公）",
+        "to": "舜（姚重华/虞舜）",
+        "evidence": "p29"
+      }
+    ]
+  }
+}
