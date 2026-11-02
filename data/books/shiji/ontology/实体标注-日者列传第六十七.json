@@ -3,7 +3,7 @@
   "chapter_id": "shiji-日者列傳第六十七",
   "chapter_title": "日者列传第六十七",
   "version": "1.0",
-  "generated_at": "2026-11-02T11:40:00",
+  "generated_at": "2026-11-02T12:10:00",
   "paragraphs": [
     {
       "para_id": "p0",
@@ -12,23 +12,16 @@
         {
           "start": 4,
           "end": 6,
-          "entity_id": "person_rz_004",
+          "entity_id": "person_rz_018",
           "entity_name": "墨子",
           "text": "墨子"
         },
         {
           "start": 9,
           "end": 11,
-          "entity_id": "person_rz_004",
+          "entity_id": "person_rz_018",
           "entity_name": "墨子",
           "text": "墨子"
-        },
-        {
-          "start": 13,
-          "end": 14,
-          "entity_id": "place_rz_003",
-          "entity_name": "齊",
-          "text": "齊"
         },
         {
           "start": 16,
@@ -47,7 +40,7 @@
         {
           "start": 48,
           "end": 50,
-          "entity_id": "person_rz_004",
+          "entity_id": "person_rz_018",
           "entity_name": "墨子",
           "text": "墨子"
         },
@@ -61,7 +54,7 @@
         {
           "start": 60,
           "end": 62,
-          "entity_id": "person_rz_004",
+          "entity_id": "person_rz_018",
           "entity_name": "墨子",
           "text": "墨子"
         },
@@ -73,13 +66,6 @@
           "text": "日者"
         },
         {
-          "start": 90,
-          "end": 92,
-          "entity_id": "concept_rz_002",
-          "entity_name": "卜筮",
-          "text": "卜筮"
-        },
-        {
           "start": 97,
           "end": 99,
           "entity_id": "concept_rz_001",
@@ -89,16 +75,9 @@
         {
           "start": 101,
           "end": 103,
-          "entity_id": "person_rz_004",
+          "entity_id": "person_rz_018",
           "entity_name": "墨子",
           "text": "墨子"
-        },
-        {
-          "start": 118,
-          "end": 120,
-          "entity_id": "concept_rz_002",
-          "entity_name": "卜筮",
-          "text": "卜筮"
         },
         {
           "start": 122,
@@ -106,13 +85,6 @@
           "entity_id": "concept_rz_001",
           "entity_name": "日者",
           "text": "日者"
-        },
-        {
-          "start": 130,
-          "end": 132,
-          "entity_id": "concept_rz_002",
-          "entity_name": "卜筮",
-          "text": "卜筮"
         },
         {
           "start": 139,
@@ -128,38 +100,10 @@
       "text": "自古受命而王，王者之興何嘗不以卜筮決于天命哉！其於周尤甚，及秦可見。代王之入，任於卜者。太卜之起，由漢興而有。⟦0⟧",
       "mentions": [
         {
-          "start": 15,
-          "end": 17,
-          "entity_id": "concept_rz_002",
-          "entity_name": "卜筮",
-          "text": "卜筮"
-        },
-        {
-          "start": 19,
-          "end": 21,
-          "entity_id": "concept_rz_006",
-          "entity_name": "天命",
-          "text": "天命"
-        },
-        {
-          "start": 25,
-          "end": 26,
-          "entity_id": "place_rz_006",
-          "entity_name": "周",
-          "text": "周"
-        },
-        {
-          "start": 30,
-          "end": 31,
-          "entity_id": "place_rz_005",
-          "entity_name": "秦",
-          "text": "秦"
-        },
-        {
           "start": 34,
           "end": 36,
-          "entity_id": "person_rz_015",
-          "entity_name": "代王",
+          "entity_id": "person_rz_006",
+          "entity_name": "漢文帝",
           "text": "代王"
         }
       ]
@@ -176,25 +120,11 @@
           "text": "司馬季主"
         },
         {
-          "start": 6,
-          "end": 7,
-          "entity_id": "place_rz_002",
-          "entity_name": "楚",
-          "text": "楚"
-        },
-        {
           "start": 15,
-          "end": 17,
-          "entity_id": "place_rz_001",
-          "entity_name": "長安",
-          "text": "長安"
-        },
-        {
-          "start": 17,
           "end": 19,
           "entity_id": "place_rz_001",
           "entity_name": "長安",
-          "text": "東市"
+          "text": "長安東市"
         }
       ]
     },
@@ -217,20 +147,6 @@
           "text": "賈誼"
         },
         {
-          "start": 29,
-          "end": 30,
-          "entity_id": "concept_rz_004",
-          "entity_name": "易",
-          "text": "易"
-        },
-        {
-          "start": 35,
-          "end": 37,
-          "entity_id": "concept_rz_007",
-          "entity_name": "道術",
-          "text": "道術"
-        },
-        {
           "start": 48,
           "end": 50,
           "entity_id": "person_rz_003",
@@ -243,13 +159,6 @@
           "entity_id": "person_rz_001",
           "entity_name": "司馬季主",
           "text": "司馬季主"
-        },
-        {
-          "start": 152,
-          "end": 154,
-          "entity_id": "concept_rz_005",
-          "entity_name": "陰陽",
-          "text": "陰陽"
         },
         {
           "start": 166,
@@ -297,35 +206,13 @@
           "entity_id": "person_rz_001",
           "entity_name": "司馬季主",
           "text": "司馬季主"
-        },
-        {
-          "start": 16,
-          "end": 18,
-          "entity_id": "concept_rz_007",
-          "entity_name": "道術",
-          "text": "道術"
         }
       ]
     },
     {
       "para_id": "p6",
       "text": "二君曰：「尊官厚祿，世之所高也，賢才處之。今所處非其地，故謂之卑。言不信，行不驗，取不當，故謂之汙。夫卜筮者，世俗之所賤簡也。世皆言曰：『夫卜者多言誇嚴以得人情，⟦0⟧虛高人祿命以說人志，擅言禍災以傷人心，矯言鬼神以盡人財，厚求拜謝以私於己。』此吾之所耻，故謂之卑汙也。」",
-      "mentions": [
-        {
-          "start": 51,
-          "end": 53,
-          "entity_id": "concept_rz_002",
-          "entity_name": "卜筮",
-          "text": "卜筮"
-        },
-        {
-          "start": 87,
-          "end": 89,
-          "entity_id": "concept_rz_008",
-          "entity_name": "祿命",
-          "text": "祿命"
-        }
-      ]
+      "mentions": []
     },
     {
       "para_id": "p7",
@@ -353,15 +240,7 @@
     {
       "para_id": "p10",
       "text": "今公所謂賢者，皆可爲羞矣。卑疵而前，⟦0⟧孅趨而言；⟦1⟧相引以勢，相導以利；比周賔正，⟦2⟧以求尊譽，以受公奉；事私利，枉主法，獵農民；以官爲威，以法爲機，求利逆暴：譬無異於操白刃劫人者也。初試官時，倍力爲巧詐，飾虛功執空文以誷主上，用居上爲右；試官不讓賢陳功，見偽增實，以無爲有，以少爲多，以求便勢尊位；食飲驅馳，從姬歌兒，不顧於親，犯法害民，虛公家：此夫爲盜不操矛弧者也，攻而不用弦刃者也，欺父母未有罪而弒君未伐者也。何以爲高賢才乎？",
-      "mentions": [
-        {
-          "start": 40,
-          "end": 41,
-          "entity_id": "place_rz_006",
-          "entity_name": "周",
-          "text": "周"
-        }
-      ]
+      "mentions": []
     },
     {
       "para_id": "p11",
@@ -373,46 +252,32 @@
       "text": "述而不作，君子義也。今夫卜者，必法天地，象四時，順於仁義，分策定卦，按式正棊，⟦0⟧⟦1⟧〔三校案：据此處「索隱」似應做 〔旋式正棊〕〕然後言天地之利害，事之成敗。昔先王之定國家，必先龜策日月，而後乃敢代；正時日，乃後入家；產子必先占吉凶，後乃有之。⟦2⟧自伏羲作八卦，周文王演三百八十四爻而天下治。越王勾踐倣文王八卦以破敵國，⟦3⟧霸天下。由是言之，卜筮有何負哉！",
       "mentions": [
         {
-          "start": 92,
-          "end": 94,
-          "entity_id": "concept_rz_003",
-          "entity_name": "龜策",
-          "text": "龜策"
-        },
-        {
           "start": 129,
           "end": 131,
-          "entity_id": "person_rz_005",
+          "entity_id": "person_rz_007",
           "entity_name": "伏羲",
           "text": "伏羲"
         },
         {
           "start": 135,
           "end": 138,
-          "entity_id": "person_rz_006",
+          "entity_id": "person_rz_008",
           "entity_name": "周文王",
           "text": "周文王"
         },
         {
           "start": 150,
           "end": 154,
-          "entity_id": "person_rz_007",
+          "entity_id": "person_rz_009",
           "entity_name": "越王勾踐",
           "text": "越王勾踐"
         },
         {
           "start": 155,
           "end": 157,
-          "entity_id": "person_rz_006",
+          "entity_id": "person_rz_008",
           "entity_name": "周文王",
           "text": "文王"
-        },
-        {
-          "start": 176,
-          "end": 178,
-          "entity_id": "concept_rz_002",
-          "entity_name": "卜筮",
-          "text": "卜筮"
         }
       ]
     },
@@ -421,68 +286,18 @@
       "text": "且夫卜筮者，掃除設坐，正其冠帶，然後乃言事，此有禮也。言而鬼神或以饗，忠臣以事其上，孝子以養其親，慈父以畜其子，此有德者也。而以義置數十百錢，病者或以愈，且死或以生，患或以免，事或以成，嫁子娶婦或以養生：此之爲德，豈直數十百錢哉！此夫老子所謂「上德不德，是以有德」。今夫卜筮者利大而謝少，老子之云豈異於是乎？",
       "mentions": [
         {
-          "start": 2,
-          "end": 4,
-          "entity_id": "concept_rz_002",
-          "entity_name": "卜筮",
-          "text": "卜筮"
-        },
-        {
-          "start": 117,
-          "end": 119,
-          "entity_id": "person_rz_008",
-          "entity_name": "老子",
-          "text": "老子"
-        },
-        {
           "start": 122,
           "end": 126,
-          "entity_id": "concept_rz_009",
+          "entity_id": "concept_rz_006",
           "entity_name": "上德不德",
           "text": "上德不德"
-        },
-        {
-          "start": 135,
-          "end": 137,
-          "entity_id": "concept_rz_002",
-          "entity_name": "卜筮",
-          "text": "卜筮"
-        },
-        {
-          "start": 144,
-          "end": 146,
-          "entity_id": "person_rz_008",
-          "entity_name": "老子",
-          "text": "老子"
         }
       ]
     },
     {
       "para_id": "p14",
       "text": "莊子曰：「君子內無飢寒之患，外無劫奪之憂，居上而敬，居下不爲害，君子之道也。」今夫卜筮者之爲業也，積之無委聚，藏之不用府庫，徙之不用輜車，負裝之不重，止而用之無盡索之時。持不盡索之物，游於無窮之世，雖莊氏之行未能增於是也，子何故而云不可卜哉？天不足西北，星辰西北移；地不足東南，以海爲池；日中必移，月滿必虧；先王之道，乍存乍亡。公責卜者言必信，不亦惑乎！",
-      "mentions": [
-        {
-          "start": 0,
-          "end": 2,
-          "entity_id": "person_rz_009",
-          "entity_name": "莊子",
-          "text": "莊子"
-        },
-        {
-          "start": 41,
-          "end": 43,
-          "entity_id": "concept_rz_002",
-          "entity_name": "卜筮",
-          "text": "卜筮"
-        },
-        {
-          "start": 100,
-          "end": 102,
-          "entity_id": "person_rz_009",
-          "entity_name": "莊子",
-          "text": "莊氏"
-        }
-      ]
+      "mentions": []
     },
     {
       "para_id": "p15",
@@ -492,7 +307,15 @@
     {
       "para_id": "p16",
       "text": "故騏驥不能與罷驢爲駟，而鳳皇不與燕雀爲羣，而賢者亦不與不肖者同列。故君子處卑隱以辟衆，自匿以辟倫，微見德順以除羣害，以明天性，助上養下，多其功利，不求尊譽。公之等喁喁者也，何知長者之道乎！",
-      "mentions": []
+      "mentions": [
+        {
+          "start": 36,
+          "end": 42,
+          "entity_id": "concept_rz_009",
+          "entity_name": "處卑隱以辟衆",
+          "text": "處卑隱以辟衆"
+        }
+      ]
     },
     {
       "para_id": "p17",
@@ -533,25 +356,11 @@
           "text": "賈誼"
         },
         {
-          "start": 97,
-          "end": 99,
-          "entity_id": "person_rz_008",
-          "entity_name": "老子",
-          "text": "老子"
-        },
-        {
-          "start": 103,
-          "end": 110,
-          "entity_id": "concept_rz_010",
-          "entity_name": "無名者萬物之始",
-          "text": "無名者萬物之始"
-        },
-        {
-          "start": 150,
-          "end": 152,
-          "entity_id": "person_rz_012",
-          "entity_name": "曾參",
-          "text": "曾氏"
+          "start": 90,
+          "end": 94,
+          "entity_id": "concept_rz_007",
+          "entity_name": "天冠地屨",
+          "text": "天冠地屨"
         }
       ]
     },
@@ -569,7 +378,7 @@
         {
           "start": 6,
           "end": 8,
-          "entity_id": "place_rz_007",
+          "entity_id": "place_rz_005",
           "entity_name": "匈奴",
           "text": "匈奴"
         },
@@ -583,16 +392,16 @@
         {
           "start": 21,
           "end": 24,
-          "entity_id": "person_rz_011",
+          "entity_id": "person_rz_010",
           "entity_name": "梁懷王",
           "text": "梁懷王"
         },
         {
-          "start": 21,
-          "end": 22,
-          "entity_id": "place_rz_009",
-          "entity_name": "梁",
-          "text": "梁"
+          "start": 41,
+          "end": 45,
+          "entity_id": "concept_rz_008",
+          "entity_name": "務華絕根",
+          "text": "務華絕根"
         }
       ]
     },
@@ -603,8 +412,8 @@
         {
           "start": 0,
           "end": 3,
-          "entity_id": "person_rz_016",
-          "entity_name": "太史公",
+          "entity_id": "person_rz_004",
+          "entity_name": "司馬遷",
           "text": "太史公"
         },
         {
@@ -623,7 +432,7 @@
         {
           "start": 0,
           "end": 3,
-          "entity_id": "person_rz_013",
+          "entity_id": "person_rz_005",
           "entity_name": "褚少孫",
           "text": "褚先生"
         },
@@ -635,32 +444,11 @@
           "text": "長安"
         },
         {
-          "start": 17,
-          "end": 19,
-          "entity_id": "concept_rz_002",
-          "entity_name": "卜筮",
-          "text": "卜筮"
-        },
-        {
-          "start": 105,
-          "end": 107,
-          "entity_id": "concept_rz_002",
-          "entity_name": "卜筮",
-          "text": "卜筮"
-        },
-        {
           "start": 114,
           "end": 118,
           "entity_id": "person_rz_001",
           "entity_name": "司馬季主",
           "text": "司馬季主"
-        },
-        {
-          "start": 120,
-          "end": 121,
-          "entity_id": "place_rz_002",
-          "entity_name": "楚",
-          "text": "楚"
         },
         {
           "start": 127,
@@ -670,88 +458,53 @@
           "text": "長安"
         },
         {
-          "start": 131,
-          "end": 132,
-          "entity_id": "concept_rz_004",
-          "entity_name": "易",
-          "text": "易"
-        },
-        {
-          "start": 135,
-          "end": 137,
-          "entity_id": "person_rz_010",
-          "entity_name": "黃帝",
-          "text": "黃帝"
-        },
-        {
-          "start": 138,
-          "end": 140,
-          "entity_id": "person_rz_008",
-          "entity_name": "老子",
-          "text": "老子"
-        },
-        {
-          "start": 177,
-          "end": 179,
-          "entity_id": "concept_rz_002",
-          "entity_name": "卜筮",
-          "text": "卜筮"
-        },
-        {
           "start": 217,
           "end": 219,
-          "entity_id": "person_rz_017",
+          "entity_id": "person_rz_012",
           "entity_name": "黃直",
           "text": "黃直"
         },
         {
           "start": 224,
           "end": 227,
-          "entity_id": "person_rz_018",
+          "entity_id": "person_rz_013",
           "entity_name": "陳君夫",
           "text": "陳君夫"
         },
         {
-          "start": 240,
-          "end": 241,
-          "entity_id": "place_rz_003",
-          "entity_name": "齊",
-          "text": "齊"
-        },
-        {
           "start": 241,
           "end": 243,
-          "entity_id": "person_rz_019",
+          "entity_id": "person_rz_014",
           "entity_name": "張仲",
           "text": "張仲"
         },
         {
           "start": 244,
           "end": 247,
-          "entity_id": "person_rz_020",
+          "entity_id": "person_rz_015",
           "entity_name": "曲成侯",
           "text": "曲成侯"
         },
         {
           "start": 260,
           "end": 263,
-          "entity_id": "person_rz_021",
+          "entity_id": "person_rz_016",
           "entity_name": "留長孺",
           "text": "留長孺"
         },
         {
           "start": 269,
           "end": 273,
-          "entity_id": "person_rz_022",
+          "entity_id": "person_rz_017",
           "entity_name": "滎陽褚氏",
           "text": "滎陽褚氏"
         },
         {
-          "start": 269,
-          "end": 271,
-          "entity_id": "place_rz_008",
-          "entity_name": "滎陽",
-          "text": "滎陽"
+          "start": 281,
+          "end": 285,
+          "entity_id": "concept_rz_010",
+          "entity_name": "伎能立名",
+          "text": "伎能立名"
         }
       ]
     },
@@ -762,65 +515,16 @@
         {
           "start": 20,
           "end": 23,
-          "entity_id": "person_rz_014",
-          "entity_name": "孝武帝",
+          "entity_id": "person_rz_011",
+          "entity_name": "漢武帝",
           "text": "孝武帝"
         },
         {
-          "start": 39,
-          "end": 41,
+          "start": 104,
+          "end": 109,
           "entity_id": "concept_rz_011",
-          "entity_name": "五行",
-          "text": "五行"
-        },
-        {
-          "start": 45,
-          "end": 47,
-          "entity_id": "concept_rz_012",
-          "entity_name": "堪輿",
-          "text": "堪輿"
-        },
-        {
-          "start": 52,
-          "end": 54,
-          "entity_id": "concept_rz_013",
-          "entity_name": "建除",
-          "text": "建除"
-        },
-        {
-          "start": 59,
-          "end": 61,
-          "entity_id": "concept_rz_014",
-          "entity_name": "叢辰",
-          "text": "叢辰"
-        },
-        {
-          "start": 72,
-          "end": 74,
-          "entity_id": "concept_rz_015",
-          "entity_name": "天人",
-          "text": "天人"
-        },
-        {
-          "start": 79,
-          "end": 81,
-          "entity_id": "concept_rz_016",
-          "entity_name": "太一",
-          "text": "太一"
-        },
-        {
-          "start": 105,
-          "end": 107,
-          "entity_id": "concept_rz_011",
-          "entity_name": "五行",
-          "text": "五行"
-        },
-        {
-          "start": 115,
-          "end": 117,
-          "entity_id": "concept_rz_011",
-          "entity_name": "五行",
-          "text": "五行"
+          "entity_name": "以五行爲主",
+          "text": "以五行爲主"
         }
       ]
     },
@@ -838,23 +542,9 @@
         {
           "start": 23,
           "end": 25,
-          "entity_id": "person_rz_004",
+          "entity_id": "person_rz_018",
           "entity_name": "墨子",
           "text": "墨子"
-        },
-        {
-          "start": 26,
-          "end": 27,
-          "entity_id": "place_rz_003",
-          "entity_name": "齊",
-          "text": "齊"
-        },
-        {
-          "start": 27,
-          "end": 28,
-          "entity_id": "place_rz_002",
-          "entity_name": "楚",
-          "text": "楚"
         },
         {
           "start": 41,
@@ -862,13 +552,6 @@
           "entity_id": "person_rz_001",
           "entity_name": "司馬季主",
           "text": "季主"
-        },
-        {
-          "start": 49,
-          "end": 50,
-          "entity_id": "place_rz_005",
-          "entity_name": "秦",
-          "text": "秦"
         }
       ]
     }
