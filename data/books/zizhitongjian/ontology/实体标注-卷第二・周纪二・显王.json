@@ -1,0 +1,6781 @@
+{
+ "book_id": "zizhitongjian",
+ "chapter_id": "0003",
+ "chapter_title": "卷第二・周纪二・显王",
+ "version": "1.0",
+ "paragraphs": [
+  {
+   "para_id": "p0",
+   "mentions": []
+  },
+  {
+   "para_id": "p1",
+   "mentions": []
+  },
+  {
+   "para_id": "p2",
+   "mentions": []
+  },
+  {
+   "para_id": "p3",
+   "mentions": [
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L015",
+     "entity_name": "观津",
+     "entity_type": "place",
+     "start": 6,
+     "end": 8,
+     "surface": "觀津"
+    }
+   ]
+  },
+  {
+   "para_id": "p4",
+   "mentions": [
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L016",
+     "entity_name": "长城",
+     "entity_type": "place",
+     "start": 6,
+     "end": 8,
+     "surface": "長城"
+    }
+   ]
+  },
+  {
+   "para_id": "p5",
+   "mentions": []
+  },
+  {
+   "para_id": "p6",
+   "mentions": [
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L017",
+     "entity_name": "宅阳",
+     "entity_type": "place",
+     "start": 6,
+     "end": 8,
+     "surface": "宅陽"
+    }
+   ]
+  },
+  {
+   "para_id": "p7",
+   "mentions": [
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 6,
+     "end": 7,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L014",
+     "entity_name": "洛阳",
+     "entity_type": "place",
+     "start": 9,
+     "end": 11,
+     "surface": "洛陽"
+    }
+   ]
+  },
+  {
+   "para_id": "p8",
+   "mentions": []
+  },
+  {
+   "para_id": "p9",
+   "mentions": [
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L012",
+     "entity_name": "宋",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "宋"
+    }
+   ]
+  },
+  {
+   "para_id": "p10",
+   "mentions": []
+  },
+  {
+   "para_id": "p11",
+   "mentions": [
+    {
+     "entity_id": "P003",
+     "entity_name": "秦献公",
+     "entity_type": "person",
+     "start": 1,
+     "end": 4,
+     "surface": "秦獻公"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "晋",
+     "entity_type": "place",
+     "start": 5,
+     "end": 7,
+     "surface": "三晉"
+    },
+    {
+     "entity_id": "L018",
+     "entity_name": "石门",
+     "entity_type": "place",
+     "start": 10,
+     "end": 12,
+     "surface": "石門"
+    }
+   ]
+  },
+  {
+   "para_id": "p12",
+   "mentions": []
+  },
+  {
+   "para_id": "p13",
+   "mentions": [
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 6,
+     "end": 7,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L019",
+     "entity_name": "浍",
+     "entity_type": "place",
+     "start": 9,
+     "end": 10,
+     "surface": "澮"
+    }
+   ]
+  },
+  {
+   "para_id": "p14",
+   "mentions": [
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L020",
+     "entity_name": "少梁",
+     "entity_type": "place",
+     "start": 6,
+     "end": 8,
+     "surface": "少梁"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 9,
+     "end": 10,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 15,
+     "end": 16,
+     "surface": "魏"
+    }
+   ]
+  },
+  {
+   "para_id": "p15",
+   "mentions": [
+    {
+     "entity_id": "P051",
+     "entity_name": "卫声公",
+     "entity_type": "person",
+     "start": 2,
+     "end": 4,
+     "surface": "聲公"
+    },
+    {
+     "entity_id": "P052",
+     "entity_name": "卫成侯",
+     "entity_type": "person",
+     "start": 9,
+     "end": 10,
+     "surface": "速"
+    }
+   ]
+  },
+  {
+   "para_id": "p16",
+   "mentions": [
+    {
+     "entity_id": "P041",
+     "entity_name": "燕桓公",
+     "entity_type": "person",
+     "start": 1,
+     "end": 4,
+     "surface": "燕桓公"
+    }
+   ]
+  },
+  {
+   "para_id": "p17",
+   "mentions": [
+    {
+     "entity_id": "P003",
+     "entity_name": "秦献公",
+     "entity_type": "person",
+     "start": 1,
+     "end": 4,
+     "surface": "秦獻公"
+    },
+    {
+     "entity_id": "P004",
+     "entity_name": "秦孝公",
+     "entity_type": "person",
+     "start": 7,
+     "end": 9,
+     "surface": "孝公"
+    },
+    {
+     "entity_id": "P004",
+     "entity_name": "秦孝公",
+     "entity_type": "person",
+     "start": 11,
+     "end": 13,
+     "surface": "孝公"
+    },
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 41,
+     "end": 42,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 43,
+     "end": 44,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 45,
+     "end": 46,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 49,
+     "end": 50,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L016",
+     "entity_name": "长城",
+     "entity_type": "place",
+     "start": 51,
+     "end": 53,
+     "surface": "長城"
+    },
+    {
+     "entity_id": "L049",
+     "entity_name": "上郡",
+     "entity_type": "place",
+     "start": 61,
+     "end": 63,
+     "surface": "上郡"
+    },
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 64,
+     "end": 65,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L072",
+     "entity_name": "汉中",
+     "entity_type": "place",
+     "start": 66,
+     "end": 68,
+     "surface": "漢中"
+    },
+    {
+     "entity_id": "L073",
+     "entity_name": "巴",
+     "entity_type": "place",
+     "start": 71,
+     "end": 72,
+     "surface": "巴"
+    },
+    {
+     "entity_id": "L074",
+     "entity_name": "黔中",
+     "entity_type": "place",
+     "start": 73,
+     "end": 75,
+     "surface": "黔中"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 81,
+     "end": 82,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P004",
+     "entity_name": "秦孝公",
+     "entity_type": "person",
+     "start": 98,
+     "end": 100,
+     "surface": "孝公"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 111,
+     "end": 112,
+     "surface": "秦"
+    }
+   ]
+  },
+  {
+   "para_id": "p18",
+   "mentions": [
+    {
+     "entity_id": "P014",
+     "entity_name": "太子申",
+     "entity_type": "person",
+     "start": 4,
+     "end": 5,
+     "surface": "申"
+    }
+   ]
+  },
+  {
+   "para_id": "p19",
+   "mentions": [
+    {
+     "entity_id": "P004",
+     "entity_name": "秦孝公",
+     "entity_type": "person",
+     "start": 1,
+     "end": 3,
+     "surface": "孝公"
+    },
+    {
+     "entity_id": "L038",
+     "entity_name": "岐",
+     "entity_type": "place",
+     "start": 16,
+     "end": 17,
+     "surface": "岐"
+    },
+    {
+     "entity_id": "P039",
+     "entity_name": "赵武灵王",
+     "entity_type": "person",
+     "start": 18,
+     "end": 19,
+     "surface": "雍"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "晋",
+     "entity_type": "place",
+     "start": 28,
+     "end": 29,
+     "surface": "晉"
+    },
+    {
+     "entity_id": "C011",
+     "entity_name": "致伯",
+     "entity_type": "concept",
+     "start": 48,
+     "end": 50,
+     "surface": "致伯"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "晋",
+     "entity_type": "place",
+     "start": 91,
+     "end": 93,
+     "surface": "三晉"
+    },
+    {
+     "entity_id": "L048",
+     "entity_name": "河西",
+     "entity_type": "place",
+     "start": 98,
+     "end": 100,
+     "surface": "河西"
+    },
+    {
+     "entity_id": "P003",
+     "entity_name": "秦献公",
+     "entity_type": "person",
+     "start": 107,
+     "end": 109,
+     "surface": "獻公"
+    },
+    {
+     "entity_id": "L037",
+     "entity_name": "栎阳",
+     "entity_type": "place",
+     "start": 119,
+     "end": 121,
+     "surface": "櫟陽"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 165,
+     "end": 166,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P005",
+     "entity_name": "商鞅",
+     "entity_type": "person",
+     "start": 182,
+     "end": 185,
+     "surface": "公孫鞅"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 193,
+     "end": 194,
+     "surface": "秦"
+    }
+   ]
+  },
+  {
+   "para_id": "p20",
+   "mentions": [
+    {
+     "entity_id": "P005",
+     "entity_name": "商鞅",
+     "entity_type": "person",
+     "start": 0,
+     "end": 3,
+     "surface": "公孫鞅"
+    },
+    {
+     "entity_id": "C001",
+     "entity_name": "刑名之学",
+     "entity_type": "concept",
+     "start": 12,
+     "end": 16,
+     "surface": "刑名之學"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 18,
+     "end": 19,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P012",
+     "entity_name": "公叔痤",
+     "entity_type": "person",
+     "start": 20,
+     "end": 23,
+     "surface": "公叔痤"
+    },
+    {
+     "entity_id": "P011",
+     "entity_name": "魏惠王",
+     "entity_type": "person",
+     "start": 36,
+     "end": 39,
+     "surface": "魏惠王"
+    },
+    {
+     "entity_id": "P052",
+     "entity_name": "卫成侯",
+     "entity_type": "person",
+     "start": 175,
+     "end": 176,
+     "surface": "速"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 256,
+     "end": 257,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P009",
+     "entity_name": "景监",
+     "entity_type": "person",
+     "start": 261,
+     "end": 263,
+     "surface": "景監"
+    },
+    {
+     "entity_id": "P004",
+     "entity_name": "秦孝公",
+     "entity_type": "person",
+     "start": 266,
+     "end": 268,
+     "surface": "孝公"
+    }
+   ]
+  },
+  {
+   "para_id": "p21",
+   "mentions": []
+  },
+  {
+   "para_id": "p22",
+   "mentions": [
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 7,
+     "end": 8,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P004",
+     "entity_name": "秦孝公",
+     "entity_type": "person",
+     "start": 16,
+     "end": 19,
+     "surface": "秦孝公"
+    },
+    {
+     "entity_id": "P008",
+     "entity_name": "甘龙",
+     "entity_type": "person",
+     "start": 70,
+     "end": 72,
+     "surface": "甘龍"
+    },
+    {
+     "entity_id": "P002",
+     "entity_name": "周慎靓王",
+     "entity_type": "person",
+     "start": 171,
+     "end": 172,
+     "surface": "定"
+    },
+    {
+     "entity_id": "P072",
+     "entity_name": "公子华",
+     "entity_type": "person",
+     "start": 318,
+     "end": 319,
+     "surface": "華"
+    }
+   ]
+  },
+  {
+   "para_id": "p23",
+   "mentions": []
+  },
+  {
+   "para_id": "p24",
+   "mentions": [
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 5,
+     "end": 6,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "E012",
+     "entity_name": "太子犯法",
+     "entity_type": "event",
+     "start": 23,
+     "end": 27,
+     "surface": "太子犯法"
+    },
+    {
+     "entity_id": "P006",
+     "entity_name": "公子虔",
+     "entity_type": "person",
+     "start": 59,
+     "end": 62,
+     "surface": "公子虔"
+    },
+    {
+     "entity_id": "P007",
+     "entity_name": "公孙贾",
+     "entity_type": "person",
+     "start": 66,
+     "end": 69,
+     "surface": "公孫賈"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 73,
+     "end": 74,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 84,
+     "end": 86,
+     "surface": "秦國"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 112,
+     "end": 113,
+     "surface": "秦"
+    }
+   ]
+  },
+  {
+   "para_id": "p25",
+   "mentions": [
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 147,
+     "end": 148,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "晋",
+     "entity_type": "place",
+     "start": 157,
+     "end": 158,
+     "surface": "晉"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 167,
+     "end": 168,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P004",
+     "entity_name": "秦孝公",
+     "entity_type": "person",
+     "start": 177,
+     "end": 180,
+     "surface": "秦孝公"
+    },
+    {
+     "entity_id": "P005",
+     "entity_name": "商鞅",
+     "entity_type": "person",
+     "start": 197,
+     "end": 199,
+     "surface": "商君"
+    }
+   ]
+  },
+  {
+   "para_id": "p26",
+   "mentions": [
+    {
+     "entity_id": "P029",
+     "entity_name": "韩懿侯",
+     "entity_type": "person",
+     "start": 1,
+     "end": 4,
+     "surface": "韓懿侯"
+    },
+    {
+     "entity_id": "P027",
+     "entity_name": "韩昭侯",
+     "entity_type": "person",
+     "start": 7,
+     "end": 9,
+     "surface": "昭侯"
+    }
+   ]
+  },
+  {
+   "para_id": "p27",
+   "mentions": []
+  },
+  {
+   "para_id": "p28",
+   "mentions": [
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L027",
+     "entity_name": "西山",
+     "entity_type": "place",
+     "start": 6,
+     "end": 8,
+     "surface": "西山"
+    }
+   ]
+  },
+  {
+   "para_id": "p29",
+   "mentions": []
+  },
+  {
+   "para_id": "p30",
+   "mentions": [
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 12,
+     "end": 13,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 16,
+     "end": 17,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L028",
+     "entity_name": "鄗",
+     "entity_type": "place",
+     "start": 37,
+     "end": 38,
+     "surface": "鄗"
+    }
+   ]
+  },
+  {
+   "para_id": "p31",
+   "mentions": []
+  },
+  {
+   "para_id": "p32",
+   "mentions": [
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L008",
+     "entity_name": "燕",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "燕"
+    },
+    {
+     "entity_id": "L029",
+     "entity_name": "阿",
+     "entity_type": "place",
+     "start": 6,
+     "end": 7,
+     "surface": "阿"
+    }
+   ]
+  },
+  {
+   "para_id": "p33",
+   "mentions": [
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L012",
+     "entity_name": "宋",
+     "entity_type": "place",
+     "start": 5,
+     "end": 6,
+     "surface": "宋"
+    },
+    {
+     "entity_id": "L030",
+     "entity_name": "平陆",
+     "entity_type": "place",
+     "start": 8,
+     "end": 10,
+     "surface": "平陸"
+    }
+   ]
+  },
+  {
+   "para_id": "p34",
+   "mentions": []
+  },
+  {
+   "para_id": "p35",
+   "mentions": [
+    {
+     "entity_id": "P017",
+     "entity_name": "齐威王",
+     "entity_type": "person",
+     "start": 1,
+     "end": 4,
+     "surface": "齊威王"
+    },
+    {
+     "entity_id": "P011",
+     "entity_name": "魏惠王",
+     "entity_type": "person",
+     "start": 5,
+     "end": 8,
+     "surface": "魏惠王"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 18,
+     "end": 19,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 66,
+     "end": 67,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P024",
+     "entity_name": "檀子",
+     "entity_type": "person",
+     "start": 95,
+     "end": 97,
+     "surface": "檀子"
+    },
+    {
+     "entity_id": "L032",
+     "entity_name": "南城",
+     "entity_type": "place",
+     "start": 101,
+     "end": 103,
+     "surface": "南城"
+    },
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 105,
+     "end": 106,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P022",
+     "entity_name": "田盼",
+     "entity_type": "person",
+     "start": 125,
+     "end": 127,
+     "surface": "盼子"
+    },
+    {
+     "entity_id": "L031",
+     "entity_name": "高唐",
+     "entity_type": "place",
+     "start": 131,
+     "end": 133,
+     "surface": "高唐"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 135,
+     "end": 136,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P025",
+     "entity_name": "黔夫",
+     "entity_type": "person",
+     "start": 147,
+     "end": 149,
+     "surface": "黔夫"
+    },
+    {
+     "entity_id": "L033",
+     "entity_name": "徐州",
+     "entity_type": "place",
+     "start": 153,
+     "end": 155,
+     "surface": "徐州"
+    },
+    {
+     "entity_id": "L008",
+     "entity_name": "燕",
+     "entity_type": "place",
+     "start": 157,
+     "end": 158,
+     "surface": "燕"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 163,
+     "end": 164,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P026",
+     "entity_name": "种首",
+     "entity_type": "person",
+     "start": 181,
+     "end": 183,
+     "surface": "種首"
+    }
+   ]
+  },
+  {
+   "para_id": "p36",
+   "mentions": [
+    {
+     "entity_id": "P004",
+     "entity_name": "秦孝公",
+     "entity_type": "person",
+     "start": 1,
+     "end": 4,
+     "surface": "秦孝公"
+    },
+    {
+     "entity_id": "P011",
+     "entity_name": "魏惠王",
+     "entity_type": "person",
+     "start": 5,
+     "end": 8,
+     "surface": "魏惠王"
+    },
+    {
+     "entity_id": "L021",
+     "entity_name": "杜平",
+     "entity_type": "place",
+     "start": 10,
+     "end": 12,
+     "surface": "杜平"
+    }
+   ]
+  },
+  {
+   "para_id": "p37",
+   "mentions": [
+    {
+     "entity_id": "P055",
+     "entity_name": "鲁共公",
+     "entity_type": "person",
+     "start": 1,
+     "end": 4,
+     "surface": "魯共公"
+    },
+    {
+     "entity_id": "P056",
+     "entity_name": "鲁康公",
+     "entity_type": "person",
+     "start": 7,
+     "end": 9,
+     "surface": "康公"
+    },
+    {
+     "entity_id": "P056",
+     "entity_name": "鲁康公",
+     "entity_type": "person",
+     "start": 9,
+     "end": 10,
+     "surface": "毛"
+    }
+   ]
+  },
+  {
+   "para_id": "p38",
+   "mentions": []
+  },
+  {
+   "para_id": "p39",
+   "mentions": [
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L020",
+     "entity_name": "少梁",
+     "entity_type": "place",
+     "start": 16,
+     "end": 18,
+     "surface": "少梁"
+    }
+   ]
+  },
+  {
+   "para_id": "p40",
+   "mentions": [
+    {
+     "entity_id": "P011",
+     "entity_name": "魏惠王",
+     "entity_type": "person",
+     "start": 1,
+     "end": 4,
+     "surface": "魏惠王"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 5,
+     "end": 6,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L023",
+     "entity_name": "邯郸",
+     "entity_type": "place",
+     "start": 8,
+     "end": 10,
+     "surface": "邯鄲"
+    },
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 11,
+     "end": 12,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P048",
+     "entity_name": "景舍",
+     "entity_type": "person",
+     "start": 14,
+     "end": 16,
+     "surface": "景舍"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 17,
+     "end": 18,
+     "surface": "趙"
+    }
+   ]
+  },
+  {
+   "para_id": "p41",
+   "mentions": []
+  },
+  {
+   "para_id": "p42",
+   "mentions": [
+    {
+     "entity_id": "P017",
+     "entity_name": "齐威王",
+     "entity_type": "person",
+     "start": 1,
+     "end": 4,
+     "surface": "齊威王"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "田忌",
+     "entity_type": "person",
+     "start": 5,
+     "end": 7,
+     "surface": "田忌"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 8,
+     "end": 9,
+     "surface": "趙"
+    }
+   ]
+  },
+  {
+   "para_id": "p43",
+   "mentions": [
+    {
+     "entity_id": "P019",
+     "entity_name": "孙膑",
+     "entity_type": "person",
+     "start": 2,
+     "end": 4,
+     "surface": "孫臏"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "庞涓",
+     "entity_type": "person",
+     "start": 5,
+     "end": 7,
+     "surface": "龐涓"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "庞涓",
+     "entity_type": "person",
+     "start": 12,
+     "end": 14,
+     "surface": "龐涓"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 15,
+     "end": 16,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P019",
+     "entity_name": "孙膑",
+     "entity_type": "person",
+     "start": 25,
+     "end": 27,
+     "surface": "孫臏"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 52,
+     "end": 53,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 56,
+     "end": 57,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P019",
+     "entity_name": "孙膑",
+     "entity_type": "person",
+     "start": 58,
+     "end": 60,
+     "surface": "孫臏"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 67,
+     "end": 68,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 71,
+     "end": 72,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 78,
+     "end": 79,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "田忌",
+     "entity_type": "person",
+     "start": 80,
+     "end": 82,
+     "surface": "田忌"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 110,
+     "end": 111,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P019",
+     "entity_name": "孙膑",
+     "entity_type": "person",
+     "start": 113,
+     "end": 115,
+     "surface": "孫臏"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "田忌",
+     "entity_type": "person",
+     "start": 129,
+     "end": 131,
+     "surface": "田忌"
+    },
+    {
+     "entity_id": "P019",
+     "entity_name": "孙膑",
+     "entity_type": "person",
+     "start": 134,
+     "end": 136,
+     "surface": "孫子"
+    }
+   ]
+  },
+  {
+   "para_id": "p44",
+   "mentions": [
+    {
+     "entity_id": "P018",
+     "entity_name": "田忌",
+     "entity_type": "person",
+     "start": 0,
+     "end": 2,
+     "surface": "田忌"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 6,
+     "end": 7,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P019",
+     "entity_name": "孙膑",
+     "entity_type": "person",
+     "start": 8,
+     "end": 10,
+     "surface": "孫子"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 48,
+     "end": 49,
+     "surface": "梁"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 50,
+     "end": 51,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 76,
+     "end": 77,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 92,
+     "end": 93,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 102,
+     "end": 103,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 109,
+     "end": 110,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "田忌",
+     "entity_type": "person",
+     "start": 113,
+     "end": 115,
+     "surface": "田忌"
+    },
+    {
+     "entity_id": "L023",
+     "entity_name": "邯郸",
+     "entity_type": "place",
+     "start": 121,
+     "end": 123,
+     "surface": "邯鄲"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 124,
+     "end": 125,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 126,
+     "end": 127,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 131,
+     "end": 132,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L024",
+     "entity_name": "桂陵",
+     "entity_type": "place",
+     "start": 134,
+     "end": 136,
+     "surface": "桂陵"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 137,
+     "end": 138,
+     "surface": "魏"
+    }
+   ]
+  },
+  {
+   "para_id": "p45",
+   "mentions": [
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "周",
+     "entity_type": "place",
+     "start": 4,
+     "end": 5,
+     "surface": "周"
+    },
+    {
+     "entity_id": "L025",
+     "entity_name": "陵观",
+     "entity_type": "place",
+     "start": 7,
+     "end": 9,
+     "surface": "陵觀"
+    },
+    {
+     "entity_id": "L026",
+     "entity_name": "廩丘",
+     "entity_type": "place",
+     "start": 10,
+     "end": 12,
+     "surface": "廩丘"
+    }
+   ]
+  },
+  {
+   "para_id": "p46",
+   "mentions": [
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P049",
+     "entity_name": "昭奚恤",
+     "entity_type": "person",
+     "start": 2,
+     "end": 5,
+     "surface": "昭奚恤"
+    },
+    {
+     "entity_id": "P050",
+     "entity_name": "江乙",
+     "entity_type": "person",
+     "start": 8,
+     "end": 10,
+     "surface": "江乙"
+    },
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 12,
+     "end": 13,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P049",
+     "entity_name": "昭奚恤",
+     "entity_type": "person",
+     "start": 47,
+     "end": 50,
+     "surface": "昭奚恤"
+    }
+   ]
+  },
+  {
+   "para_id": "p47",
+   "mentions": []
+  },
+  {
+   "para_id": "p48",
+   "mentions": [
+    {
+     "entity_id": "E025",
+     "entity_name": "秦大良造伐魏",
+     "entity_type": "event",
+     "start": 1,
+     "end": 7,
+     "surface": "秦大良造伐魏"
+    }
+   ]
+  },
+  {
+   "para_id": "p49",
+   "mentions": [
+    {
+     "entity_id": "E026",
+     "entity_name": "诸侯围魏襄陵",
+     "entity_type": "event",
+     "start": 1,
+     "end": 7,
+     "surface": "諸侯圍魏襄陵"
+    }
+   ]
+  },
+  {
+   "para_id": "p50",
+   "mentions": []
+  },
+  {
+   "para_id": "p51",
+   "mentions": [
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 5,
+     "end": 6,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L034",
+     "entity_name": "固阳",
+     "entity_type": "place",
+     "start": 6,
+     "end": 8,
+     "surface": "固陽"
+    }
+   ]
+  },
+  {
+   "para_id": "p52",
+   "mentions": [
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 4,
+     "end": 5,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L023",
+     "entity_name": "邯郸",
+     "entity_type": "place",
+     "start": 5,
+     "end": 7,
+     "surface": "邯鄲"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 9,
+     "end": 10,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L035",
+     "entity_name": "漳水",
+     "entity_type": "place",
+     "start": 11,
+     "end": 13,
+     "surface": "漳水"
+    }
+   ]
+  },
+  {
+   "para_id": "p53",
+   "mentions": [
+    {
+     "entity_id": "P027",
+     "entity_name": "韩昭侯",
+     "entity_type": "person",
+     "start": 1,
+     "end": 4,
+     "surface": "韓昭侯"
+    },
+    {
+     "entity_id": "P028",
+     "entity_name": "申不害",
+     "entity_type": "person",
+     "start": 5,
+     "end": 8,
+     "surface": "申不害"
+    }
+   ]
+  },
+  {
+   "para_id": "p54",
+   "mentions": [
+    {
+     "entity_id": "P028",
+     "entity_name": "申不害",
+     "entity_type": "person",
+     "start": 0,
+     "end": 3,
+     "surface": "申不害"
+    },
+    {
+     "entity_id": "P027",
+     "entity_name": "韩昭侯",
+     "entity_type": "person",
+     "start": 21,
+     "end": 23,
+     "surface": "昭侯"
+    },
+    {
+     "entity_id": "P027",
+     "entity_name": "韩昭侯",
+     "entity_type": "person",
+     "start": 24,
+     "end": 26,
+     "surface": "昭侯"
+    },
+    {
+     "entity_id": "P028",
+     "entity_name": "申不害",
+     "entity_type": "person",
+     "start": 45,
+     "end": 47,
+     "surface": "申子"
+    }
+   ]
+  },
+  {
+   "para_id": "p55",
+   "mentions": [
+    {
+     "entity_id": "P028",
+     "entity_name": "申不害",
+     "entity_type": "person",
+     "start": 0,
+     "end": 2,
+     "surface": "申子"
+    },
+    {
+     "entity_id": "P027",
+     "entity_name": "韩昭侯",
+     "entity_type": "person",
+     "start": 9,
+     "end": 11,
+     "surface": "昭侯"
+    },
+    {
+     "entity_id": "P028",
+     "entity_name": "申不害",
+     "entity_type": "person",
+     "start": 14,
+     "end": 16,
+     "surface": "申子"
+    },
+    {
+     "entity_id": "P027",
+     "entity_name": "韩昭侯",
+     "entity_type": "person",
+     "start": 20,
+     "end": 22,
+     "surface": "昭侯"
+    },
+    {
+     "entity_id": "P028",
+     "entity_name": "申不害",
+     "entity_type": "person",
+     "start": 90,
+     "end": 92,
+     "surface": "申子"
+    }
+   ]
+  },
+  {
+   "para_id": "p56",
+   "mentions": [
+    {
+     "entity_id": "P027",
+     "entity_name": "韩昭侯",
+     "entity_type": "person",
+     "start": 0,
+     "end": 2,
+     "surface": "昭侯"
+    },
+    {
+     "entity_id": "P027",
+     "entity_name": "韩昭侯",
+     "entity_type": "person",
+     "start": 31,
+     "end": 33,
+     "surface": "昭侯"
+    }
+   ]
+  },
+  {
+   "para_id": "p57",
+   "mentions": []
+  },
+  {
+   "para_id": "p58",
+   "mentions": [
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P005",
+     "entity_name": "商鞅",
+     "entity_type": "person",
+     "start": 2,
+     "end": 4,
+     "surface": "商鞅"
+    },
+    {
+     "entity_id": "L036",
+     "entity_name": "咸阳",
+     "entity_type": "place",
+     "start": 10,
+     "end": 12,
+     "surface": "咸陽"
+    }
+   ]
+  },
+  {
+   "para_id": "p59",
+   "mentions": [
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L040",
+     "entity_name": "彤",
+     "entity_type": "place",
+     "start": 6,
+     "end": 7,
+     "surface": "彤"
+    }
+   ]
+  },
+  {
+   "para_id": "p60",
+   "mentions": [
+    {
+     "entity_id": "P035",
+     "entity_name": "赵成侯",
+     "entity_type": "person",
+     "start": 1,
+     "end": 4,
+     "surface": "趙成侯"
+    },
+    {
+     "entity_id": "P036",
+     "entity_name": "公子緤",
+     "entity_type": "person",
+     "start": 6,
+     "end": 9,
+     "surface": "公子緤"
+    },
+    {
+     "entity_id": "P036",
+     "entity_name": "公子緤",
+     "entity_type": "person",
+     "start": 15,
+     "end": 16,
+     "surface": "緤"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 19,
+     "end": 20,
+     "surface": "韓"
+    }
+   ]
+  },
+  {
+   "para_id": "p61",
+   "mentions": []
+  },
+  {
+   "para_id": "p62",
+   "mentions": [
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P005",
+     "entity_name": "商鞅",
+     "entity_type": "person",
+     "start": 2,
+     "end": 4,
+     "surface": "商鞅"
+    }
+   ]
+  },
+  {
+   "para_id": "p63",
+   "mentions": []
+  },
+  {
+   "para_id": "p64",
+   "mentions": [
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L023",
+     "entity_name": "邯郸",
+     "entity_type": "place",
+     "start": 6,
+     "end": 8,
+     "surface": "邯鄲"
+    }
+   ]
+  },
+  {
+   "para_id": "p65",
+   "mentions": []
+  },
+  {
+   "para_id": "p66",
+   "mentions": [
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "齊"
+    }
+   ]
+  },
+  {
+   "para_id": "p67",
+   "mentions": [
+    {
+     "entity_id": "P056",
+     "entity_name": "鲁康公",
+     "entity_type": "person",
+     "start": 1,
+     "end": 4,
+     "surface": "魯康公"
+    },
+    {
+     "entity_id": "P057",
+     "entity_name": "鲁景公",
+     "entity_type": "person",
+     "start": 7,
+     "end": 9,
+     "surface": "景公"
+    }
+   ]
+  },
+  {
+   "para_id": "p68",
+   "mentions": [
+    {
+     "entity_id": "L002",
+     "entity_name": "晋",
+     "entity_type": "place",
+     "start": 10,
+     "end": 12,
+     "surface": "三晉"
+    }
+   ]
+  },
+  {
+   "para_id": "p69",
+   "mentions": []
+  },
+  {
+   "para_id": "p70",
+   "mentions": [
+    {
+     "entity_id": "L014",
+     "entity_name": "洛阳",
+     "entity_type": "place",
+     "start": 5,
+     "end": 7,
+     "surface": "京師"
+    }
+   ]
+  },
+  {
+   "para_id": "p71",
+   "mentions": []
+  },
+  {
+   "para_id": "p72",
+   "mentions": [
+    {
+     "entity_id": "C011",
+     "entity_name": "致伯",
+     "entity_type": "concept",
+     "start": 2,
+     "end": 4,
+     "surface": "致伯"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 5,
+     "end": 6,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 11,
+     "end": 12,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P004",
+     "entity_name": "秦孝公",
+     "entity_type": "person",
+     "start": 13,
+     "end": 16,
+     "surface": "秦孝公"
+    },
+    {
+     "entity_id": "P070",
+     "entity_name": "公子少官",
+     "entity_type": "person",
+     "start": 17,
+     "end": 21,
+     "surface": "公子少官"
+    },
+    {
+     "entity_id": "L041",
+     "entity_name": "逢泽",
+     "entity_type": "place",
+     "start": 27,
+     "end": 29,
+     "surface": "逢澤"
+    }
+   ]
+  },
+  {
+   "para_id": "p73",
+   "mentions": []
+  },
+  {
+   "para_id": "p74",
+   "mentions": [
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "庞涓",
+     "entity_type": "person",
+     "start": 2,
+     "end": 4,
+     "surface": "龐涓"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 5,
+     "end": 6,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 7,
+     "end": 8,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 11,
+     "end": 12,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P017",
+     "entity_name": "齐威王",
+     "entity_type": "person",
+     "start": 13,
+     "end": 16,
+     "surface": "齊威王"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "田忌",
+     "entity_type": "person",
+     "start": 43,
+     "end": 45,
+     "surface": "田忌"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 51,
+     "end": 52,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 57,
+     "end": 58,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P019",
+     "entity_name": "孙膑",
+     "entity_type": "person",
+     "start": 66,
+     "end": 68,
+     "surface": "孫臏"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 72,
+     "end": 73,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 74,
+     "end": 75,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 86,
+     "end": 87,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 88,
+     "end": 89,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 97,
+     "end": 98,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 101,
+     "end": 102,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 108,
+     "end": 109,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 118,
+     "end": 119,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 125,
+     "end": 126,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 131,
+     "end": 132,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 157,
+     "end": 158,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 163,
+     "end": 164,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 166,
+     "end": 167,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 178,
+     "end": 179,
+     "surface": "齊"
+    }
+   ]
+  },
+  {
+   "para_id": "p75",
+   "mentions": [
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 0,
+     "end": 1,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "田忌",
+     "entity_type": "person",
+     "start": 6,
+     "end": 8,
+     "surface": "田忌"
+    },
+    {
+     "entity_id": "P021",
+     "entity_name": "田婴",
+     "entity_type": "person",
+     "start": 9,
+     "end": 11,
+     "surface": "田嬰"
+    },
+    {
+     "entity_id": "P022",
+     "entity_name": "田盼",
+     "entity_type": "person",
+     "start": 12,
+     "end": 14,
+     "surface": "田盼"
+    },
+    {
+     "entity_id": "P019",
+     "entity_name": "孙膑",
+     "entity_type": "person",
+     "start": 17,
+     "end": 19,
+     "surface": "孫子"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 24,
+     "end": 25,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 28,
+     "end": 29,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "庞涓",
+     "entity_type": "person",
+     "start": 31,
+     "end": 33,
+     "surface": "龐涓"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 37,
+     "end": 38,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 41,
+     "end": 42,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P014",
+     "entity_name": "太子申",
+     "entity_type": "person",
+     "start": 48,
+     "end": 51,
+     "surface": "太子申"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 56,
+     "end": 57,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P019",
+     "entity_name": "孙膑",
+     "entity_type": "person",
+     "start": 59,
+     "end": 61,
+     "surface": "孫子"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "田忌",
+     "entity_type": "person",
+     "start": 62,
+     "end": 64,
+     "surface": "田忌"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "晋",
+     "entity_type": "place",
+     "start": 68,
+     "end": 70,
+     "surface": "三晉"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 77,
+     "end": 78,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 79,
+     "end": 80,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 124,
+     "end": 125,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 127,
+     "end": 128,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "庞涓",
+     "entity_type": "person",
+     "start": 149,
+     "end": 151,
+     "surface": "龐涓"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 163,
+     "end": 164,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P019",
+     "entity_name": "孙膑",
+     "entity_type": "person",
+     "start": 199,
+     "end": 201,
+     "surface": "孫子"
+    },
+    {
+     "entity_id": "L042",
+     "entity_name": "马陵",
+     "entity_type": "place",
+     "start": 208,
+     "end": 210,
+     "surface": "馬陵"
+    },
+    {
+     "entity_id": "L042",
+     "entity_name": "马陵",
+     "entity_type": "place",
+     "start": 211,
+     "end": 213,
+     "surface": "馬陵"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "庞涓",
+     "entity_type": "person",
+     "start": 237,
+     "end": 239,
+     "surface": "龐涓"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 248,
+     "end": 249,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "庞涓",
+     "entity_type": "person",
+     "start": 270,
+     "end": 272,
+     "surface": "龐涓"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 297,
+     "end": 298,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "庞涓",
+     "entity_type": "person",
+     "start": 304,
+     "end": 306,
+     "surface": "龐涓"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 328,
+     "end": 329,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 334,
+     "end": 335,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P014",
+     "entity_name": "太子申",
+     "entity_type": "person",
+     "start": 338,
+     "end": 341,
+     "surface": "太子申"
+    }
+   ]
+  },
+  {
+   "para_id": "p76",
+   "mentions": [
+    {
+     "entity_id": "P020",
+     "entity_name": "邹忌",
+     "entity_type": "person",
+     "start": 3,
+     "end": 5,
+     "surface": "鄒忌"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "田忌",
+     "entity_type": "person",
+     "start": 6,
+     "end": 8,
+     "surface": "田忌"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "田忌",
+     "entity_type": "person",
+     "start": 24,
+     "end": 26,
+     "surface": "田忌"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "田忌",
+     "entity_type": "person",
+     "start": 57,
+     "end": 59,
+     "surface": "田忌"
+    },
+    {
+     "entity_id": "L043",
+     "entity_name": "临淄",
+     "entity_type": "place",
+     "start": 68,
+     "end": 70,
+     "surface": "臨淄"
+    },
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 80,
+     "end": 81,
+     "surface": "楚"
+    }
+   ]
+  },
+  {
+   "para_id": "p77",
+   "mentions": []
+  },
+  {
+   "para_id": "p78",
+   "mentions": [
+    {
+     "entity_id": "P004",
+     "entity_name": "秦孝公",
+     "entity_type": "person",
+     "start": 5,
+     "end": 8,
+     "surface": "秦孝公"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 11,
+     "end": 12,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 14,
+     "end": 15,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 26,
+     "end": 27,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 28,
+     "end": 29,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 30,
+     "end": 31,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 33,
+     "end": 34,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 38,
+     "end": 39,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L045",
+     "entity_name": "安邑",
+     "entity_type": "place",
+     "start": 46,
+     "end": 48,
+     "surface": "安邑"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 50,
+     "end": 51,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 66,
+     "end": 67,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 87,
+     "end": 88,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 93,
+     "end": 94,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 105,
+     "end": 106,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 107,
+     "end": 108,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 110,
+     "end": 111,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 118,
+     "end": 119,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 151,
+     "end": 152,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 153,
+     "end": 154,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P016",
+     "entity_name": "公子卬",
+     "entity_type": "person",
+     "start": 155,
+     "end": 158,
+     "surface": "公子卬"
+    }
+   ]
+  },
+  {
+   "para_id": "p79",
+   "mentions": [
+    {
+     "entity_id": "P016",
+     "entity_name": "公子卬",
+     "entity_type": "person",
+     "start": 8,
+     "end": 11,
+     "surface": "公子卬"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 51,
+     "end": 52,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 53,
+     "end": 54,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P016",
+     "entity_name": "公子卬",
+     "entity_type": "person",
+     "start": 58,
+     "end": 61,
+     "surface": "公子卬"
+    },
+    {
+     "entity_id": "P016",
+     "entity_name": "公子卬",
+     "entity_type": "person",
+     "start": 84,
+     "end": 87,
+     "surface": "公子卬"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 90,
+     "end": 91,
+     "surface": "魏"
+    }
+   ]
+  },
+  {
+   "para_id": "p80",
+   "mentions": [
+    {
+     "entity_id": "P011",
+     "entity_name": "魏惠王",
+     "entity_type": "person",
+     "start": 0,
+     "end": 3,
+     "surface": "魏惠王"
+    },
+    {
+     "entity_id": "L048",
+     "entity_name": "河西",
+     "entity_type": "place",
+     "start": 8,
+     "end": 10,
+     "surface": "河西"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 13,
+     "end": 14,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L045",
+     "entity_name": "安邑",
+     "entity_type": "place",
+     "start": 19,
+     "end": 21,
+     "surface": "安邑"
+    },
+    {
+     "entity_id": "L046",
+     "entity_name": "大梁",
+     "entity_type": "place",
+     "start": 24,
+     "end": 26,
+     "surface": "大梁"
+    }
+   ]
+  },
+  {
+   "para_id": "p81",
+   "mentions": [
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 0,
+     "end": 1,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L044",
+     "entity_name": "商於",
+     "entity_type": "place",
+     "start": 4,
+     "end": 6,
+     "surface": "商於"
+    },
+    {
+     "entity_id": "P005",
+     "entity_name": "商鞅",
+     "entity_type": "person",
+     "start": 12,
+     "end": 14,
+     "surface": "商君"
+    }
+   ]
+  },
+  {
+   "para_id": "p82",
+   "mentions": [
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 5,
+     "end": 6,
+     "surface": "魏"
+    }
+   ]
+  },
+  {
+   "para_id": "p83",
+   "mentions": [
+    {
+     "entity_id": "P045",
+     "entity_name": "楚宣王",
+     "entity_type": "person",
+     "start": 1,
+     "end": 4,
+     "surface": "楚宣王"
+    },
+    {
+     "entity_id": "P046",
+     "entity_name": "楚威王",
+     "entity_type": "person",
+     "start": 9,
+     "end": 10,
+     "surface": "商"
+    }
+   ]
+  },
+  {
+   "para_id": "p84",
+   "mentions": []
+  },
+  {
+   "para_id": "p85",
+   "mentions": [
+    {
+     "entity_id": "P004",
+     "entity_name": "秦孝公",
+     "entity_type": "person",
+     "start": 1,
+     "end": 4,
+     "surface": "秦孝公"
+    },
+    {
+     "entity_id": "P010",
+     "entity_name": "秦惠文王",
+     "entity_type": "person",
+     "start": 7,
+     "end": 10,
+     "surface": "惠文王"
+    },
+    {
+     "entity_id": "P006",
+     "entity_name": "公子虔",
+     "entity_type": "person",
+     "start": 12,
+     "end": 15,
+     "surface": "公子虔"
+    },
+    {
+     "entity_id": "P005",
+     "entity_name": "商鞅",
+     "entity_type": "person",
+     "start": 18,
+     "end": 20,
+     "surface": "商君"
+    },
+    {
+     "entity_id": "P005",
+     "entity_name": "商鞅",
+     "entity_type": "person",
+     "start": 28,
+     "end": 30,
+     "surface": "商君"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 32,
+     "end": 33,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 34,
+     "end": 35,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 42,
+     "end": 43,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P005",
+     "entity_name": "商鞅",
+     "entity_type": "person",
+     "start": 44,
+     "end": 46,
+     "surface": "商君"
+    },
+    {
+     "entity_id": "L044",
+     "entity_name": "商於",
+     "entity_type": "place",
+     "start": 51,
+     "end": 53,
+     "surface": "商於"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 60,
+     "end": 61,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P005",
+     "entity_name": "商鞅",
+     "entity_type": "person",
+     "start": 63,
+     "end": 65,
+     "surface": "商君"
+    }
+   ]
+  },
+  {
+   "para_id": "p86",
+   "mentions": [
+    {
+     "entity_id": "P005",
+     "entity_name": "商鞅",
+     "entity_type": "person",
+     "start": 2,
+     "end": 4,
+     "surface": "商君"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 5,
+     "end": 6,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L047",
+     "entity_name": "渭水",
+     "entity_type": "place",
+     "start": 18,
+     "end": 20,
+     "surface": "渭水"
+    },
+    {
+     "entity_id": "P074",
+     "entity_name": "赵良",
+     "entity_type": "person",
+     "start": 33,
+     "end": 35,
+     "surface": "趙良"
+    },
+    {
+     "entity_id": "P005",
+     "entity_name": "商鞅",
+     "entity_type": "person",
+     "start": 36,
+     "end": 38,
+     "surface": "商君"
+    },
+    {
+     "entity_id": "P005",
+     "entity_name": "商鞅",
+     "entity_type": "person",
+     "start": 39,
+     "end": 41,
+     "surface": "商君"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 49,
+     "end": 50,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P069",
+     "entity_name": "五羖大夫",
+     "entity_type": "person",
+     "start": 52,
+     "end": 56,
+     "surface": "五羖大夫"
+    },
+    {
+     "entity_id": "P074",
+     "entity_name": "赵良",
+     "entity_type": "person",
+     "start": 59,
+     "end": 61,
+     "surface": "趙良"
+    },
+    {
+     "entity_id": "P005",
+     "entity_name": "商鞅",
+     "entity_type": "person",
+     "start": 92,
+     "end": 94,
+     "surface": "商君"
+    },
+    {
+     "entity_id": "P074",
+     "entity_name": "赵良",
+     "entity_type": "person",
+     "start": 100,
+     "end": 102,
+     "surface": "趙良"
+    },
+    {
+     "entity_id": "P069",
+     "entity_name": "五羖大夫",
+     "entity_type": "person",
+     "start": 105,
+     "end": 109,
+     "surface": "五羖大夫"
+    },
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 110,
+     "end": 111,
+     "surface": "荊"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 132,
+     "end": 134,
+     "surface": "秦國"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 140,
+     "end": 141,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "晋",
+     "entity_type": "place",
+     "start": 151,
+     "end": 152,
+     "surface": "晉"
+    },
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 156,
+     "end": 157,
+     "surface": "荊"
+    },
+    {
+     "entity_id": "P069",
+     "entity_name": "五羖大夫",
+     "entity_type": "person",
+     "start": 189,
+     "end": 193,
+     "surface": "五羖大夫"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 195,
+     "end": 197,
+     "surface": "秦國"
+    },
+    {
+     "entity_id": "P009",
+     "entity_name": "景监",
+     "entity_type": "person",
+     "start": 223,
+     "end": 225,
+     "surface": "景監"
+    },
+    {
+     "entity_id": "P006",
+     "entity_name": "公子虔",
+     "entity_type": "person",
+     "start": 244,
+     "end": 247,
+     "surface": "公子虔"
+    },
+    {
+     "entity_id": "P075",
+     "entity_name": "祝懽",
+     "entity_type": "person",
+     "start": 259,
+     "end": 261,
+     "surface": "祝懽"
+    },
+    {
+     "entity_id": "P007",
+     "entity_name": "公孙贾",
+     "entity_type": "person",
+     "start": 263,
+     "end": 266,
+     "surface": "公孫賈"
+    },
+    {
+     "entity_id": "L044",
+     "entity_name": "商於",
+     "entity_type": "place",
+     "start": 370,
+     "end": 372,
+     "surface": "商於"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 376,
+     "end": 378,
+     "surface": "秦國"
+    },
+    {
+     "entity_id": "P010",
+     "entity_name": "秦惠文王",
+     "entity_type": "person",
+     "start": 387,
+     "end": 389,
+     "surface": "秦王"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 399,
+     "end": 401,
+     "surface": "秦國"
+    },
+    {
+     "entity_id": "P005",
+     "entity_name": "商鞅",
+     "entity_type": "person",
+     "start": 413,
+     "end": 415,
+     "surface": "商君"
+    }
+   ]
+  },
+  {
+   "para_id": "p87",
+   "mentions": [
+    {
+     "entity_id": "P014",
+     "entity_name": "太子申",
+     "entity_type": "person",
+     "start": 6,
+     "end": 7,
+     "surface": "申"
+    }
+   ]
+  },
+  {
+   "para_id": "p88",
+   "mentions": [
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "E045",
+     "entity_name": "申不害卒",
+     "entity_type": "event",
+     "start": 2,
+     "end": 6,
+     "surface": "申不害卒"
+    }
+   ]
+  },
+  {
+   "para_id": "p89",
+   "mentions": []
+  },
+  {
+   "para_id": "p90",
+   "mentions": [
+    {
+     "entity_id": "E046",
+     "entity_name": "宋太丘社亡",
+     "entity_type": "event",
+     "start": 1,
+     "end": 6,
+     "surface": "宋太丘社亡"
+    }
+   ]
+  },
+  {
+   "para_id": "p91",
+   "mentions": [
+    {
+     "entity_id": "P061",
+     "entity_name": "孟子",
+     "entity_type": "person",
+     "start": 3,
+     "end": 5,
+     "surface": "孟軻"
+    },
+    {
+     "entity_id": "P011",
+     "entity_name": "魏惠王",
+     "entity_type": "person",
+     "start": 6,
+     "end": 9,
+     "surface": "魏惠王"
+    },
+    {
+     "entity_id": "P061",
+     "entity_name": "孟子",
+     "entity_type": "person",
+     "start": 32,
+     "end": 34,
+     "surface": "孟子"
+    }
+   ]
+  },
+  {
+   "para_id": "p92",
+   "mentions": [
+    {
+     "entity_id": "P061",
+     "entity_name": "孟子",
+     "entity_type": "person",
+     "start": 2,
+     "end": 4,
+     "surface": "孟子"
+    },
+    {
+     "entity_id": "P062",
+     "entity_name": "子思",
+     "entity_type": "person",
+     "start": 5,
+     "end": 7,
+     "surface": "子思"
+    },
+    {
+     "entity_id": "P062",
+     "entity_name": "子思",
+     "entity_type": "person",
+     "start": 17,
+     "end": 19,
+     "surface": "子思"
+    },
+    {
+     "entity_id": "P061",
+     "entity_name": "孟子",
+     "entity_type": "person",
+     "start": 27,
+     "end": 29,
+     "surface": "孟子"
+    },
+    {
+     "entity_id": "P062",
+     "entity_name": "子思",
+     "entity_type": "person",
+     "start": 52,
+     "end": 54,
+     "surface": "子思"
+    }
+   ]
+  },
+  {
+   "para_id": "p93",
+   "mentions": [
+    {
+     "entity_id": "P062",
+     "entity_name": "子思",
+     "entity_type": "person",
+     "start": 4,
+     "end": 6,
+     "surface": "子思"
+    },
+    {
+     "entity_id": "P061",
+     "entity_name": "孟子",
+     "entity_type": "person",
+     "start": 7,
+     "end": 9,
+     "surface": "孟子"
+    },
+    {
+     "entity_id": "P061",
+     "entity_name": "孟子",
+     "entity_type": "person",
+     "start": 56,
+     "end": 58,
+     "surface": "孟子"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 59,
+     "end": 60,
+     "surface": "梁"
+    }
+   ]
+  },
+  {
+   "para_id": "p94",
+   "mentions": []
+  },
+  {
+   "para_id": "p95",
+   "mentions": [
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L050",
+     "entity_name": "宜阳",
+     "entity_type": "place",
+     "start": 6,
+     "end": 8,
+     "surface": "宜陽"
+    }
+   ]
+  },
+  {
+   "para_id": "p96",
+   "mentions": []
+  },
+  {
+   "para_id": "p97",
+   "mentions": [
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 4,
+     "end": 5,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L033",
+     "entity_name": "徐州",
+     "entity_type": "place",
+     "start": 8,
+     "end": 10,
+     "surface": "徐州"
+    },
+    {
+     "entity_id": "C010",
+     "entity_name": "相王",
+     "entity_type": "concept",
+     "start": 11,
+     "end": 13,
+     "surface": "相王"
+    }
+   ]
+  },
+  {
+   "para_id": "p98",
+   "mentions": [
+    {
+     "entity_id": "E051",
+     "entity_name": "韩昭侯作高门",
+     "entity_type": "event",
+     "start": 1,
+     "end": 7,
+     "surface": "韓昭侯作高門"
+    },
+    {
+     "entity_id": "P031",
+     "entity_name": "屈宜臼",
+     "entity_type": "person",
+     "start": 8,
+     "end": 11,
+     "surface": "屈宜臼"
+    },
+    {
+     "entity_id": "E049",
+     "entity_name": "秦拔宜阳",
+     "entity_type": "event",
+     "start": 62,
+     "end": 66,
+     "surface": "秦拔宜陽"
+    },
+    {
+     "entity_id": "C013",
+     "entity_name": "时诎举赢",
+     "entity_type": "concept",
+     "start": 88,
+     "end": 92,
+     "surface": "時詘舉贏"
+    }
+   ]
+  },
+  {
+   "para_id": "p99",
+   "mentions": [
+    {
+     "entity_id": "P060",
+     "entity_name": "越王无彊",
+     "entity_type": "person",
+     "start": 1,
+     "end": 5,
+     "surface": "越王無彊"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 6,
+     "end": 7,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 8,
+     "end": 9,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 16,
+     "end": 17,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 20,
+     "end": 21,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L013",
+     "entity_name": "越",
+     "entity_type": "place",
+     "start": 24,
+     "end": 25,
+     "surface": "越"
+    },
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 28,
+     "end": 29,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 30,
+     "end": 31,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L052",
+     "entity_name": "浙江",
+     "entity_type": "place",
+     "start": 47,
+     "end": 49,
+     "surface": "浙江"
+    },
+    {
+     "entity_id": "L013",
+     "entity_name": "越",
+     "entity_type": "place",
+     "start": 50,
+     "end": 51,
+     "surface": "越"
+    },
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 77,
+     "end": 78,
+     "surface": "楚"
+    }
+   ]
+  },
+  {
+   "para_id": "p100",
+   "mentions": []
+  },
+  {
+   "para_id": "p101",
+   "mentions": [
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 4,
+     "end": 5,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L033",
+     "entity_name": "徐州",
+     "entity_type": "place",
+     "start": 7,
+     "end": 9,
+     "surface": "徐州"
+    }
+   ]
+  },
+  {
+   "para_id": "p102",
+   "mentions": [
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "P027",
+     "entity_name": "韩昭侯",
+     "entity_type": "person",
+     "start": 6,
+     "end": 8,
+     "surface": "昭侯"
+    },
+    {
+     "entity_id": "P030",
+     "entity_name": "韩宣惠王",
+     "entity_type": "person",
+     "start": 11,
+     "end": 14,
+     "surface": "宣惠王"
+    }
+   ]
+  },
+  {
+   "para_id": "p103",
+   "mentions": [
+    {
+     "entity_id": "L014",
+     "entity_name": "洛阳",
+     "entity_type": "place",
+     "start": 3,
+     "end": 5,
+     "surface": "洛陽"
+    },
+    {
+     "entity_id": "P063",
+     "entity_name": "苏秦",
+     "entity_type": "person",
+     "start": 6,
+     "end": 8,
+     "surface": "蘇秦"
+    },
+    {
+     "entity_id": "P010",
+     "entity_name": "秦惠文王",
+     "entity_type": "person",
+     "start": 9,
+     "end": 11,
+     "surface": "秦王"
+    },
+    {
+     "entity_id": "P010",
+     "entity_name": "秦惠文王",
+     "entity_type": "person",
+     "start": 18,
+     "end": 20,
+     "surface": "秦王"
+    },
+    {
+     "entity_id": "P063",
+     "entity_name": "苏秦",
+     "entity_type": "person",
+     "start": 25,
+     "end": 27,
+     "surface": "蘇秦"
+    },
+    {
+     "entity_id": "P042",
+     "entity_name": "燕文公",
+     "entity_type": "person",
+     "start": 31,
+     "end": 34,
+     "surface": "燕文公"
+    },
+    {
+     "entity_id": "L008",
+     "entity_name": "燕",
+     "entity_type": "place",
+     "start": 37,
+     "end": 38,
+     "surface": "燕"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 50,
+     "end": 51,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 59,
+     "end": 60,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L008",
+     "entity_name": "燕",
+     "entity_type": "place",
+     "start": 62,
+     "end": 63,
+     "surface": "燕"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 72,
+     "end": 73,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L008",
+     "entity_name": "燕",
+     "entity_type": "place",
+     "start": 75,
+     "end": 76,
+     "surface": "燕"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 110,
+     "end": 111,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L008",
+     "entity_name": "燕",
+     "entity_type": "place",
+     "start": 120,
+     "end": 122,
+     "surface": "燕國"
+    }
+   ]
+  },
+  {
+   "para_id": "p104",
+   "mentions": [
+    {
+     "entity_id": "P063",
+     "entity_name": "苏秦",
+     "entity_type": "person",
+     "start": 6,
+     "end": 8,
+     "surface": "蘇秦"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "赵肃侯",
+     "entity_type": "person",
+     "start": 13,
+     "end": 16,
+     "surface": "趙肅侯"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 32,
+     "end": 33,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 34,
+     "end": 35,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 41,
+     "end": 42,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 45,
+     "end": 46,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 51,
+     "end": 52,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 55,
+     "end": 56,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 57,
+     "end": 58,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 64,
+     "end": 65,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 67,
+     "end": 68,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 69,
+     "end": 70,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 92,
+     "end": 93,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 94,
+     "end": 95,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 98,
+     "end": 99,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 104,
+     "end": 105,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 106,
+     "end": 107,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 108,
+     "end": 109,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 110,
+     "end": 111,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 117,
+     "end": 118,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 167,
+     "end": 168,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 178,
+     "end": 179,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 191,
+     "end": 192,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 193,
+     "end": 194,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 211,
+     "end": 212,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 213,
+     "end": 214,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 223,
+     "end": 224,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 239,
+     "end": 240,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 269,
+     "end": 270,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 271,
+     "end": 272,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 273,
+     "end": 274,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 275,
+     "end": 276,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L008",
+     "entity_name": "燕",
+     "entity_type": "place",
+     "start": 277,
+     "end": 278,
+     "surface": "燕"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 279,
+     "end": 280,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 285,
+     "end": 286,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L070",
+     "entity_name": "洹水",
+     "entity_type": "place",
+     "start": 295,
+     "end": 297,
+     "surface": "洹水"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 309,
+     "end": 310,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 323,
+     "end": 324,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 348,
+     "end": 349,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 350,
+     "end": 351,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L071",
+     "entity_name": "函谷关",
+     "entity_type": "place",
+     "start": 357,
+     "end": 359,
+     "surface": "函谷"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "赵肃侯",
+     "entity_type": "person",
+     "start": 366,
+     "end": 368,
+     "surface": "肅侯"
+    },
+    {
+     "entity_id": "P063",
+     "entity_name": "苏秦",
+     "entity_type": "person",
+     "start": 373,
+     "end": 375,
+     "surface": "蘇秦"
+    }
+   ]
+  },
+  {
+   "para_id": "p105",
+   "mentions": [
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P071",
+     "entity_name": "犀首",
+     "entity_type": "person",
+     "start": 3,
+     "end": 5,
+     "surface": "犀首"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 6,
+     "end": 7,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P015",
+     "entity_name": "龙贾",
+     "entity_type": "person",
+     "start": 19,
+     "end": 21,
+     "surface": "龍賈"
+    },
+    {
+     "entity_id": "L053",
+     "entity_name": "雕阴",
+     "entity_type": "place",
+     "start": 23,
+     "end": 25,
+     "surface": "雕陰"
+    },
+    {
+     "entity_id": "P063",
+     "entity_name": "苏秦",
+     "entity_type": "person",
+     "start": 31,
+     "end": 33,
+     "surface": "蘇秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 34,
+     "end": 35,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 37,
+     "end": 38,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 49,
+     "end": 50,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P064",
+     "entity_name": "张仪",
+     "entity_type": "person",
+     "start": 55,
+     "end": 57,
+     "surface": "張儀"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 61,
+     "end": 62,
+     "surface": "秦"
+    }
+   ]
+  },
+  {
+   "para_id": "p106",
+   "mentions": [
+    {
+     "entity_id": "P064",
+     "entity_name": "张仪",
+     "entity_type": "person",
+     "start": 0,
+     "end": 2,
+     "surface": "張儀"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 4,
+     "end": 5,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P063",
+     "entity_name": "苏秦",
+     "entity_type": "person",
+     "start": 8,
+     "end": 10,
+     "surface": "蘇秦"
+    },
+    {
+     "entity_id": "P065",
+     "entity_name": "鬼谷先生",
+     "entity_type": "person",
+     "start": 12,
+     "end": 16,
+     "surface": "鬼谷先生"
+    },
+    {
+     "entity_id": "P063",
+     "entity_name": "苏秦",
+     "entity_type": "person",
+     "start": 23,
+     "end": 25,
+     "surface": "蘇秦"
+    },
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 42,
+     "end": 43,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P063",
+     "entity_name": "苏秦",
+     "entity_type": "person",
+     "start": 44,
+     "end": 46,
+     "surface": "蘇秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 59,
+     "end": 60,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 62,
+     "end": 63,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 66,
+     "end": 67,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P063",
+     "entity_name": "苏秦",
+     "entity_type": "person",
+     "start": 68,
+     "end": 70,
+     "surface": "蘇秦"
+    },
+    {
+     "entity_id": "P010",
+     "entity_name": "秦惠文王",
+     "entity_type": "person",
+     "start": 84,
+     "end": 86,
+     "surface": "秦王"
+    },
+    {
+     "entity_id": "P010",
+     "entity_name": "秦惠文王",
+     "entity_type": "person",
+     "start": 87,
+     "end": 89,
+     "surface": "秦王"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 108,
+     "end": 109,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 110,
+     "end": 111,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 122,
+     "end": 123,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P064",
+     "entity_name": "张仪",
+     "entity_type": "person",
+     "start": 147,
+     "end": 149,
+     "surface": "張儀"
+    }
+   ]
+  },
+  {
+   "para_id": "p107",
+   "mentions": [
+    {
+     "entity_id": "P063",
+     "entity_name": "苏秦",
+     "entity_type": "person",
+     "start": 2,
+     "end": 4,
+     "surface": "蘇秦"
+    },
+    {
+     "entity_id": "P030",
+     "entity_name": "韩宣惠王",
+     "entity_type": "person",
+     "start": 5,
+     "end": 9,
+     "surface": "韓宣惠王"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 12,
+     "end": 13,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 39,
+     "end": 40,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 42,
+     "end": 43,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 56,
+     "end": 57,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 86,
+     "end": 87,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 88,
+     "end": 89,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L050",
+     "entity_name": "宜阳",
+     "entity_type": "place",
+     "start": 91,
+     "end": 93,
+     "surface": "宜陽"
+    },
+    {
+     "entity_id": "L051",
+     "entity_name": "成皋",
+     "entity_type": "place",
+     "start": 94,
+     "end": 96,
+     "surface": "成皋"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 136,
+     "end": 137,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 195,
+     "end": 196,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 215,
+     "end": 216,
+     "surface": "韓"
+    }
+   ]
+  },
+  {
+   "para_id": "p108",
+   "mentions": [
+    {
+     "entity_id": "P063",
+     "entity_name": "苏秦",
+     "entity_type": "person",
+     "start": 0,
+     "end": 2,
+     "surface": "蘇秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 73,
+     "end": 74,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 128,
+     "end": 129,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 139,
+     "end": 140,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 177,
+     "end": 178,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 198,
+     "end": 199,
+     "surface": "魏"
+    }
+   ]
+  },
+  {
+   "para_id": "p109",
+   "mentions": [
+    {
+     "entity_id": "P063",
+     "entity_name": "苏秦",
+     "entity_type": "person",
+     "start": 0,
+     "end": 2,
+     "surface": "蘇秦"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 8,
+     "end": 9,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L068",
+     "entity_name": "泰山",
+     "entity_type": "place",
+     "start": 65,
+     "end": 67,
+     "surface": "泰山"
+    },
+    {
+     "entity_id": "L067",
+     "entity_name": "清河",
+     "entity_type": "place",
+     "start": 69,
+     "end": 71,
+     "surface": "清河"
+    },
+    {
+     "entity_id": "L069",
+     "entity_name": "渤海",
+     "entity_type": "place",
+     "start": 73,
+     "end": 75,
+     "surface": "渤海"
+    },
+    {
+     "entity_id": "L043",
+     "entity_name": "临淄",
+     "entity_type": "place",
+     "start": 78,
+     "end": 80,
+     "surface": "臨淄"
+    },
+    {
+     "entity_id": "L043",
+     "entity_name": "临淄",
+     "entity_type": "place",
+     "start": 106,
+     "end": 108,
+     "surface": "臨淄"
+    },
+    {
+     "entity_id": "L043",
+     "entity_name": "临淄",
+     "entity_type": "place",
+     "start": 118,
+     "end": 120,
+     "surface": "臨淄"
+    },
+    {
+     "entity_id": "L043",
+     "entity_name": "临淄",
+     "entity_type": "place",
+     "start": 141,
+     "end": 143,
+     "surface": "臨淄"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 165,
+     "end": 166,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 167,
+     "end": 168,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 173,
+     "end": 174,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 178,
+     "end": 179,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 204,
+     "end": 205,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 206,
+     "end": 207,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 210,
+     "end": 211,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 238,
+     "end": 239,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 240,
+     "end": 241,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 246,
+     "end": 247,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 256,
+     "end": 257,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 259,
+     "end": 260,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 265,
+     "end": 266,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 267,
+     "end": 268,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L066",
+     "entity_name": "阳晋",
+     "entity_type": "place",
+     "start": 273,
+     "end": 275,
+     "surface": "陽晉"
+    },
+    {
+     "entity_id": "L065",
+     "entity_name": "亢父",
+     "entity_type": "place",
+     "start": 280,
+     "end": 282,
+     "surface": "亢父"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 309,
+     "end": 310,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 319,
+     "end": 320,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 321,
+     "end": 322,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 344,
+     "end": 345,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 349,
+     "end": 350,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 358,
+     "end": 359,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 362,
+     "end": 363,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 385,
+     "end": 386,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 408,
+     "end": 409,
+     "surface": "齊"
+    }
+   ]
+  },
+  {
+   "para_id": "p110",
+   "mentions": [
+    {
+     "entity_id": "P046",
+     "entity_name": "楚威王",
+     "entity_type": "person",
+     "start": 4,
+     "end": 7,
+     "surface": "楚威王"
+    },
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 10,
+     "end": 11,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 51,
+     "end": 52,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 57,
+     "end": 58,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 59,
+     "end": 60,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 62,
+     "end": 63,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 65,
+     "end": 66,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 68,
+     "end": 69,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 89,
+     "end": 90,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 143,
+     "end": 144,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 148,
+     "end": 149,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 153,
+     "end": 154,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 171,
+     "end": 172,
+     "surface": "楚"
+    }
+   ]
+  },
+  {
+   "para_id": "p111",
+   "mentions": [
+    {
+     "entity_id": "P063",
+     "entity_name": "苏秦",
+     "entity_type": "person",
+     "start": 2,
+     "end": 4,
+     "surface": "蘇秦"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 16,
+     "end": 17,
+     "surface": "趙"
+    }
+   ]
+  },
+  {
+   "para_id": "p112",
+   "mentions": [
+    {
+     "entity_id": "P017",
+     "entity_name": "齐威王",
+     "entity_type": "person",
+     "start": 1,
+     "end": 4,
+     "surface": "齊威王"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "田忌",
+     "entity_type": "person",
+     "start": 17,
+     "end": 19,
+     "surface": "田忌"
+    }
+   ]
+  },
+  {
+   "para_id": "p113",
+   "mentions": [
+    {
+     "entity_id": "P042",
+     "entity_name": "燕文公",
+     "entity_type": "person",
+     "start": 1,
+     "end": 4,
+     "surface": "燕文公"
+    },
+    {
+     "entity_id": "P043",
+     "entity_name": "燕易王",
+     "entity_type": "person",
+     "start": 7,
+     "end": 9,
+     "surface": "易王"
+    }
+   ]
+  },
+  {
+   "para_id": "p114",
+   "mentions": [
+    {
+     "entity_id": "P053",
+     "entity_name": "卫平侯",
+     "entity_type": "person",
+     "start": 7,
+     "end": 9,
+     "surface": "平侯"
+    }
+   ]
+  },
+  {
+   "para_id": "p115",
+   "mentions": []
+  },
+  {
+   "para_id": "p116",
+   "mentions": [
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P071",
+     "entity_name": "犀首",
+     "entity_type": "person",
+     "start": 5,
+     "end": 7,
+     "surface": "犀首"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 8,
+     "end": 9,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 10,
+     "end": 11,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 15,
+     "end": 16,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "赵肃侯",
+     "entity_type": "person",
+     "start": 22,
+     "end": 25,
+     "surface": "趙肅侯"
+    },
+    {
+     "entity_id": "P063",
+     "entity_name": "苏秦",
+     "entity_type": "person",
+     "start": 26,
+     "end": 28,
+     "surface": "蘇秦"
+    },
+    {
+     "entity_id": "P063",
+     "entity_name": "苏秦",
+     "entity_type": "person",
+     "start": 29,
+     "end": 31,
+     "surface": "蘇秦"
+    },
+    {
+     "entity_id": "L008",
+     "entity_name": "燕",
+     "entity_type": "place",
+     "start": 35,
+     "end": 36,
+     "surface": "燕"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 39,
+     "end": 40,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P063",
+     "entity_name": "苏秦",
+     "entity_type": "person",
+     "start": 41,
+     "end": 43,
+     "surface": "蘇秦"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 44,
+     "end": 45,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 51,
+     "end": 52,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 58,
+     "end": 59,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 60,
+     "end": 61,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 64,
+     "end": 65,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 66,
+     "end": 67,
+     "surface": "魏"
+    }
+   ]
+  },
+  {
+   "para_id": "p117",
+   "mentions": [
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L060",
+     "entity_name": "阴晋",
+     "entity_type": "place",
+     "start": 3,
+     "end": 5,
+     "surface": "陰晉"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 8,
+     "end": 9,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L060",
+     "entity_name": "阴晋",
+     "entity_type": "place",
+     "start": 11,
+     "end": 13,
+     "surface": "華陰"
+    }
+   ]
+  },
+  {
+   "para_id": "p118",
+   "mentions": [
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L008",
+     "entity_name": "燕",
+     "entity_type": "place",
+     "start": 4,
+     "end": 5,
+     "surface": "燕"
+    }
+   ]
+  },
+  {
+   "para_id": "p119",
+   "mentions": []
+  },
+  {
+   "para_id": "p120",
+   "mentions": [
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L055",
+     "entity_name": "焦",
+     "entity_type": "place",
+     "start": 6,
+     "end": 7,
+     "surface": "焦"
+    },
+    {
+     "entity_id": "L056",
+     "entity_name": "曲沃",
+     "entity_type": "place",
+     "start": 8,
+     "end": 10,
+     "surface": "曲沃"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 11,
+     "end": 12,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L020",
+     "entity_name": "少梁",
+     "entity_type": "place",
+     "start": 13,
+     "end": 15,
+     "surface": "少梁"
+    },
+    {
+     "entity_id": "L048",
+     "entity_name": "河西",
+     "entity_type": "place",
+     "start": 16,
+     "end": 18,
+     "surface": "河西"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 20,
+     "end": 21,
+     "surface": "秦"
+    }
+   ]
+  },
+  {
+   "para_id": "p121",
+   "mentions": []
+  },
+  {
+   "para_id": "p122",
+   "mentions": [
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L057",
+     "entity_name": "汾阴",
+     "entity_type": "place",
+     "start": 9,
+     "end": 11,
+     "surface": "汾陰"
+    },
+    {
+     "entity_id": "L058",
+     "entity_name": "皮氏",
+     "entity_type": "place",
+     "start": 12,
+     "end": 14,
+     "surface": "皮氏"
+    },
+    {
+     "entity_id": "L055",
+     "entity_name": "焦",
+     "entity_type": "place",
+     "start": 16,
+     "end": 17,
+     "surface": "焦"
+    }
+   ]
+  },
+  {
+   "para_id": "p123",
+   "mentions": [
+    {
+     "entity_id": "P046",
+     "entity_name": "楚威王",
+     "entity_type": "person",
+     "start": 1,
+     "end": 4,
+     "surface": "楚威王"
+    },
+    {
+     "entity_id": "P047",
+     "entity_name": "楚怀王",
+     "entity_type": "person",
+     "start": 7,
+     "end": 9,
+     "surface": "懷王"
+    },
+    {
+     "entity_id": "P047",
+     "entity_name": "楚怀王",
+     "entity_type": "person",
+     "start": 9,
+     "end": 10,
+     "surface": "槐"
+    }
+   ]
+  },
+  {
+   "para_id": "p124",
+   "mentions": [
+    {
+     "entity_id": "P058",
+     "entity_name": "宋公剔成",
+     "entity_type": "person",
+     "start": 1,
+     "end": 5,
+     "surface": "宋公剔成"
+    },
+    {
+     "entity_id": "P058",
+     "entity_name": "宋公剔成",
+     "entity_type": "person",
+     "start": 10,
+     "end": 12,
+     "surface": "剔成"
+    },
+    {
+     "entity_id": "P058",
+     "entity_name": "宋公剔成",
+     "entity_type": "person",
+     "start": 13,
+     "end": 15,
+     "surface": "剔成"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 16,
+     "end": 17,
+     "surface": "齊"
+    }
+   ]
+  },
+  {
+   "para_id": "p125",
+   "mentions": []
+  },
+  {
+   "para_id": "p126",
+   "mentions": [
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P072",
+     "entity_name": "公子华",
+     "entity_type": "person",
+     "start": 2,
+     "end": 5,
+     "surface": "公子華"
+    },
+    {
+     "entity_id": "P064",
+     "entity_name": "张仪",
+     "entity_type": "person",
+     "start": 6,
+     "end": 8,
+     "surface": "張儀"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 11,
+     "end": 12,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L054",
+     "entity_name": "蒲阳",
+     "entity_type": "place",
+     "start": 12,
+     "end": 14,
+     "surface": "蒲陽"
+    },
+    {
+     "entity_id": "P064",
+     "entity_name": "张仪",
+     "entity_type": "person",
+     "start": 18,
+     "end": 20,
+     "surface": "張儀"
+    },
+    {
+     "entity_id": "P010",
+     "entity_name": "秦惠文王",
+     "entity_type": "person",
+     "start": 22,
+     "end": 24,
+     "surface": "秦王"
+    },
+    {
+     "entity_id": "L054",
+     "entity_name": "蒲阳",
+     "entity_type": "place",
+     "start": 27,
+     "end": 29,
+     "surface": "蒲陽"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 31,
+     "end": 32,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P073",
+     "entity_name": "公子繇",
+     "entity_type": "person",
+     "start": 35,
+     "end": 38,
+     "surface": "公子繇"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 40,
+     "end": 41,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 45,
+     "end": 46,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 50,
+     "end": 51,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 53,
+     "end": 54,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 57,
+     "end": 58,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 64,
+     "end": 65,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 67,
+     "end": 68,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L049",
+     "entity_name": "上郡",
+     "entity_type": "place",
+     "start": 71,
+     "end": 73,
+     "surface": "上郡"
+    },
+    {
+     "entity_id": "P064",
+     "entity_name": "张仪",
+     "entity_type": "person",
+     "start": 80,
+     "end": 82,
+     "surface": "張儀"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 85,
+     "end": 86,
+     "surface": "秦"
+    }
+   ]
+  },
+  {
+   "para_id": "p127",
+   "mentions": []
+  },
+  {
+   "para_id": "p128",
+   "mentions": [
+    {
+     "entity_id": "E064",
+     "entity_name": "秦县义渠",
+     "entity_type": "event",
+     "start": 1,
+     "end": 5,
+     "surface": "秦縣義渠"
+    }
+   ]
+  },
+  {
+   "para_id": "p129",
+   "mentions": [
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L055",
+     "entity_name": "焦",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "焦"
+    },
+    {
+     "entity_id": "L056",
+     "entity_name": "曲沃",
+     "entity_type": "place",
+     "start": 5,
+     "end": 7,
+     "surface": "曲沃"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 8,
+     "end": 9,
+     "surface": "魏"
+    }
+   ]
+  },
+  {
+   "para_id": "p130",
+   "mentions": []
+  },
+  {
+   "para_id": "p131",
+   "mentions": [
+    {
+     "entity_id": "P037",
+     "entity_name": "赵肃侯",
+     "entity_type": "person",
+     "start": 1,
+     "end": 4,
+     "surface": "趙肅侯"
+    },
+    {
+     "entity_id": "P039",
+     "entity_name": "赵武灵王",
+     "entity_type": "person",
+     "start": 7,
+     "end": 10,
+     "surface": "武靈王"
+    },
+    {
+     "entity_id": "P040",
+     "entity_name": "肥义",
+     "entity_type": "person",
+     "start": 33,
+     "end": 35,
+     "surface": "肥義"
+    }
+   ]
+  },
+  {
+   "para_id": "p132",
+   "mentions": [
+    {
+     "entity_id": "P014",
+     "entity_name": "太子申",
+     "entity_type": "person",
+     "start": 6,
+     "end": 7,
+     "surface": "申"
+    }
+   ]
+  },
+  {
+   "para_id": "p133",
+   "mentions": [
+    {
+     "entity_id": "E053",
+     "entity_name": "秦初称王",
+     "entity_type": "event",
+     "start": 9,
+     "end": 13,
+     "surface": "秦初稱王"
+    }
+   ]
+  },
+  {
+   "para_id": "p134",
+   "mentions": [
+    {
+     "entity_id": "P053",
+     "entity_name": "卫平侯",
+     "entity_type": "person",
+     "start": 2,
+     "end": 4,
+     "surface": "平侯"
+    },
+    {
+     "entity_id": "P054",
+     "entity_name": "卫嗣君",
+     "entity_type": "person",
+     "start": 7,
+     "end": 9,
+     "surface": "嗣君"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 17,
+     "end": 18,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 21,
+     "end": 22,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P054",
+     "entity_name": "卫嗣君",
+     "entity_type": "person",
+     "start": 28,
+     "end": 30,
+     "surface": "嗣君"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 80,
+     "end": 81,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L064",
+     "entity_name": "左氏",
+     "entity_type": "place",
+     "start": 86,
+     "end": 88,
+     "surface": "左氏"
+    },
+    {
+     "entity_id": "P054",
+     "entity_name": "卫嗣君",
+     "entity_type": "person",
+     "start": 110,
+     "end": 112,
+     "surface": "嗣君"
+    },
+    {
+     "entity_id": "L064",
+     "entity_name": "左氏",
+     "entity_type": "place",
+     "start": 141,
+     "end": 143,
+     "surface": "左氏"
+    },
+    {
+     "entity_id": "L064",
+     "entity_name": "左氏",
+     "entity_type": "place",
+     "start": 156,
+     "end": 158,
+     "surface": "左氏"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 164,
+     "end": 165,
+     "surface": "魏"
+    }
+   ]
+  },
+  {
+   "para_id": "p135",
+   "mentions": []
+  },
+  {
+   "para_id": "p136",
+   "mentions": [
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P064",
+     "entity_name": "张仪",
+     "entity_type": "person",
+     "start": 2,
+     "end": 4,
+     "surface": "張儀"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 7,
+     "end": 8,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L059",
+     "entity_name": "陕",
+     "entity_type": "place",
+     "start": 10,
+     "end": 11,
+     "surface": "陜"
+    }
+   ]
+  },
+  {
+   "para_id": "p137",
+   "mentions": [
+    {
+     "entity_id": "P063",
+     "entity_name": "苏秦",
+     "entity_type": "person",
+     "start": 1,
+     "end": 3,
+     "surface": "蘇秦"
+    },
+    {
+     "entity_id": "P042",
+     "entity_name": "燕文公",
+     "entity_type": "person",
+     "start": 5,
+     "end": 8,
+     "surface": "燕文公"
+    },
+    {
+     "entity_id": "P043",
+     "entity_name": "燕易王",
+     "entity_type": "person",
+     "start": 12,
+     "end": 14,
+     "surface": "易王"
+    },
+    {
+     "entity_id": "P063",
+     "entity_name": "苏秦",
+     "entity_type": "person",
+     "start": 17,
+     "end": 19,
+     "surface": "蘇秦"
+    },
+    {
+     "entity_id": "P043",
+     "entity_name": "燕易王",
+     "entity_type": "person",
+     "start": 23,
+     "end": 25,
+     "surface": "易王"
+    },
+    {
+     "entity_id": "L008",
+     "entity_name": "燕",
+     "entity_type": "place",
+     "start": 30,
+     "end": 31,
+     "surface": "燕"
+    },
+    {
+     "entity_id": "L008",
+     "entity_name": "燕",
+     "entity_type": "place",
+     "start": 34,
+     "end": 35,
+     "surface": "燕"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 39,
+     "end": 40,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L008",
+     "entity_name": "燕",
+     "entity_type": "place",
+     "start": 41,
+     "end": 42,
+     "surface": "燕"
+    },
+    {
+     "entity_id": "P043",
+     "entity_name": "燕易王",
+     "entity_type": "person",
+     "start": 45,
+     "end": 47,
+     "surface": "易王"
+    },
+    {
+     "entity_id": "L008",
+     "entity_name": "燕",
+     "entity_type": "place",
+     "start": 55,
+     "end": 56,
+     "surface": "燕"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 58,
+     "end": 59,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P023",
+     "entity_name": "齐宣王",
+     "entity_type": "person",
+     "start": 60,
+     "end": 63,
+     "surface": "齊宣王"
+    },
+    {
+     "entity_id": "P063",
+     "entity_name": "苏秦",
+     "entity_type": "person",
+     "start": 68,
+     "end": 70,
+     "surface": "蘇秦"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 71,
+     "end": 72,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 89,
+     "end": 90,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L008",
+     "entity_name": "燕",
+     "entity_type": "place",
+     "start": 92,
+     "end": 93,
+     "surface": "燕"
+    }
+   ]
+  },
+  {
+   "para_id": "p138",
+   "mentions": []
+  },
+  {
+   "para_id": "p139",
+   "mentions": [
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P064",
+     "entity_name": "张仪",
+     "entity_type": "person",
+     "start": 2,
+     "end": 4,
+     "surface": "張儀"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 5,
+     "end": 6,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 7,
+     "end": 8,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L061",
+     "entity_name": "齧桑",
+     "entity_type": "place",
+     "start": 11,
+     "end": 13,
+     "surface": "齧桑"
+    }
+   ]
+  },
+  {
+   "para_id": "p140",
+   "mentions": [
+    {
+     "entity_id": "L007",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L008",
+     "entity_name": "燕",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "燕"
+    },
+    {
+     "entity_id": "P039",
+     "entity_name": "赵武灵王",
+     "entity_type": "person",
+     "start": 8,
+     "end": 12,
+     "surface": "趙武靈王"
+    }
+   ]
+  },
+  {
+   "para_id": "p141",
+   "mentions": []
+  },
+  {
+   "para_id": "p142",
+   "mentions": [
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P064",
+     "entity_name": "张仪",
+     "entity_type": "person",
+     "start": 2,
+     "end": 4,
+     "surface": "張儀"
+    },
+    {
+     "entity_id": "L061",
+     "entity_name": "齧桑",
+     "entity_type": "place",
+     "start": 5,
+     "end": 7,
+     "surface": "齧桑"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 13,
+     "end": 14,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 17,
+     "end": 18,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 20,
+     "end": 21,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 27,
+     "end": 28,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P010",
+     "entity_name": "秦惠文王",
+     "entity_type": "person",
+     "start": 32,
+     "end": 34,
+     "surface": "秦王"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 35,
+     "end": 36,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L056",
+     "entity_name": "曲沃",
+     "entity_type": "place",
+     "start": 38,
+     "end": 40,
+     "surface": "曲沃"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "周",
+     "entity_type": "place",
+     "start": 42,
+     "end": 43,
+     "surface": "周"
+    },
+    {
+     "entity_id": "P064",
+     "entity_name": "张仪",
+     "entity_type": "person",
+     "start": 47,
+     "end": 49,
+     "surface": "張儀"
+    }
+   ]
+  },
+  {
+   "para_id": "p143",
+   "mentions": []
+  },
+  {
+   "para_id": "p144",
+   "mentions": [
+    {
+     "entity_id": "P002",
+     "entity_name": "周慎靓王",
+     "entity_type": "person",
+     "start": 8,
+     "end": 9,
+     "surface": "定"
+    }
+   ]
+  },
+  {
+   "para_id": "p145",
+   "mentions": [
+    {
+     "entity_id": "P043",
+     "entity_name": "燕易王",
+     "entity_type": "person",
+     "start": 1,
+     "end": 4,
+     "surface": "燕易王"
+    },
+    {
+     "entity_id": "P044",
+     "entity_name": "燕王哙",
+     "entity_type": "person",
+     "start": 7,
+     "end": 8,
+     "surface": "噲"
+    }
+   ]
+  },
+  {
+   "para_id": "p146",
+   "mentions": [
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P021",
+     "entity_name": "田婴",
+     "entity_type": "person",
+     "start": 4,
+     "end": 6,
+     "surface": "田嬰"
+    },
+    {
+     "entity_id": "L033",
+     "entity_name": "徐州",
+     "entity_type": "place",
+     "start": 7,
+     "end": 8,
+     "surface": "薛"
+    },
+    {
+     "entity_id": "P021",
+     "entity_name": "田婴",
+     "entity_type": "person",
+     "start": 11,
+     "end": 14,
+     "surface": "靖郭君"
+    },
+    {
+     "entity_id": "P021",
+     "entity_name": "田婴",
+     "entity_type": "person",
+     "start": 15,
+     "end": 18,
+     "surface": "靖郭君"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 20,
+     "end": 21,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P021",
+     "entity_name": "田婴",
+     "entity_type": "person",
+     "start": 53,
+     "end": 56,
+     "surface": "靖郭君"
+    },
+    {
+     "entity_id": "P021",
+     "entity_name": "田婴",
+     "entity_type": "person",
+     "start": 57,
+     "end": 60,
+     "surface": "靖郭君"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 64,
+     "end": 65,
+     "surface": "齊"
+    }
+   ]
+  },
+  {
+   "para_id": "p147",
+   "mentions": [
+    {
+     "entity_id": "P021",
+     "entity_name": "田婴",
+     "entity_type": "person",
+     "start": 0,
+     "end": 3,
+     "surface": "靖郭君"
+    },
+    {
+     "entity_id": "L033",
+     "entity_name": "徐州",
+     "entity_type": "place",
+     "start": 5,
+     "end": 6,
+     "surface": "薛"
+    },
+    {
+     "entity_id": "P021",
+     "entity_name": "田婴",
+     "entity_type": "person",
+     "start": 9,
+     "end": 12,
+     "surface": "靖郭君"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 46,
+     "end": 47,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 57,
+     "end": 58,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L033",
+     "entity_name": "徐州",
+     "entity_type": "place",
+     "start": 61,
+     "end": 62,
+     "surface": "薛"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 67,
+     "end": 68,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L033",
+     "entity_name": "徐州",
+     "entity_type": "place",
+     "start": 71,
+     "end": 72,
+     "surface": "薛"
+    }
+   ]
+  },
+  {
+   "para_id": "p148",
+   "mentions": [
+    {
+     "entity_id": "P021",
+     "entity_name": "田婴",
+     "entity_type": "person",
+     "start": 0,
+     "end": 3,
+     "surface": "靖郭君"
+    },
+    {
+     "entity_id": "P021",
+     "entity_name": "田婴",
+     "entity_type": "person",
+     "start": 54,
+     "end": 57,
+     "surface": "靖郭君"
+    },
+    {
+     "entity_id": "C014",
+     "entity_name": "养士",
+     "entity_type": "concept",
+     "start": 60,
+     "end": 62,
+     "surface": "養士"
+    },
+    {
+     "entity_id": "P021",
+     "entity_name": "田婴",
+     "entity_type": "person",
+     "start": 63,
+     "end": 66,
+     "surface": "靖郭君"
+    },
+    {
+     "entity_id": "P021",
+     "entity_name": "田婴",
+     "entity_type": "person",
+     "start": 83,
+     "end": 86,
+     "surface": "靖郭君"
+    },
+    {
+     "entity_id": "P021",
+     "entity_name": "田婴",
+     "entity_type": "person",
+     "start": 91,
+     "end": 94,
+     "surface": "靖郭君"
+    },
+    {
+     "entity_id": "P066",
+     "entity_name": "孟尝君",
+     "entity_type": "person",
+     "start": 99,
+     "end": 101,
+     "surface": "薛公"
+    },
+    {
+     "entity_id": "P066",
+     "entity_name": "孟尝君",
+     "entity_type": "person",
+     "start": 104,
+     "end": 107,
+     "surface": "孟嘗君"
+    },
+    {
+     "entity_id": "P066",
+     "entity_name": "孟尝君",
+     "entity_type": "person",
+     "start": 108,
+     "end": 111,
+     "surface": "孟嘗君"
+    },
+    {
+     "entity_id": "P066",
+     "entity_name": "孟尝君",
+     "entity_type": "person",
+     "start": 147,
+     "end": 150,
+     "surface": "孟嘗君"
+    },
+    {
+     "entity_id": "P066",
+     "entity_name": "孟尝君",
+     "entity_type": "person",
+     "start": 155,
+     "end": 158,
+     "surface": "孟嘗君"
+    }
+   ]
+  },
+  {
+   "para_id": "p149",
+   "mentions": [
+    {
+     "entity_id": "C014",
+     "entity_name": "养士",
+     "entity_type": "concept",
+     "start": 7,
+     "end": 9,
+     "surface": "養士"
+    },
+    {
+     "entity_id": "P066",
+     "entity_name": "孟尝君",
+     "entity_type": "person",
+     "start": 114,
+     "end": 117,
+     "surface": "孟嘗君"
+    },
+    {
+     "entity_id": "C014",
+     "entity_name": "养士",
+     "entity_type": "concept",
+     "start": 118,
+     "end": 120,
+     "surface": "養士"
+    }
+   ]
+  },
+  {
+   "para_id": "p150",
+   "mentions": [
+    {
+     "entity_id": "P066",
+     "entity_name": "孟尝君",
+     "entity_type": "person",
+     "start": 1,
+     "end": 4,
+     "surface": "孟嘗君"
+    },
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 6,
+     "end": 7,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 8,
+     "end": 9,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P068",
+     "entity_name": "登徒直",
+     "entity_type": "person",
+     "start": 15,
+     "end": 18,
+     "surface": "登徒直"
+    },
+    {
+     "entity_id": "P066",
+     "entity_name": "孟尝君",
+     "entity_type": "person",
+     "start": 26,
+     "end": 29,
+     "surface": "孟嘗君"
+    },
+    {
+     "entity_id": "P067",
+     "entity_name": "公孙戌",
+     "entity_type": "person",
+     "start": 31,
+     "end": 34,
+     "surface": "公孫戌"
+    },
+    {
+     "entity_id": "P067",
+     "entity_name": "公孙戌",
+     "entity_type": "person",
+     "start": 80,
+     "end": 83,
+     "surface": "公孫戌"
+    },
+    {
+     "entity_id": "P066",
+     "entity_name": "孟尝君",
+     "entity_type": "person",
+     "start": 88,
+     "end": 91,
+     "surface": "孟嘗君"
+    },
+    {
+     "entity_id": "L009",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 136,
+     "end": 137,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P066",
+     "entity_name": "孟尝君",
+     "entity_type": "person",
+     "start": 155,
+     "end": 158,
+     "surface": "孟嘗君"
+    },
+    {
+     "entity_id": "P067",
+     "entity_name": "公孙戌",
+     "entity_type": "person",
+     "start": 168,
+     "end": 171,
+     "surface": "公孫戌"
+    },
+    {
+     "entity_id": "P066",
+     "entity_name": "孟尝君",
+     "entity_type": "person",
+     "start": 179,
+     "end": 182,
+     "surface": "孟嘗君"
+    },
+    {
+     "entity_id": "P067",
+     "entity_name": "公孙戌",
+     "entity_type": "person",
+     "start": 202,
+     "end": 205,
+     "surface": "公孫戌"
+    },
+    {
+     "entity_id": "P066",
+     "entity_name": "孟尝君",
+     "entity_type": "person",
+     "start": 209,
+     "end": 212,
+     "surface": "孟嘗君"
+    }
+   ]
+  },
+  {
+   "para_id": "p151",
+   "mentions": [
+    {
+     "entity_id": "P066",
+     "entity_name": "孟尝君",
+     "entity_type": "person",
+     "start": 4,
+     "end": 7,
+     "surface": "孟嘗君"
+    },
+    {
+     "entity_id": "C015",
+     "entity_name": "用谏",
+     "entity_type": "concept",
+     "start": 10,
+     "end": 12,
+     "surface": "用諫"
+    },
+    {
+     "entity_id": "P066",
+     "entity_name": "孟尝君",
+     "entity_type": "person",
+     "start": 59,
+     "end": 62,
+     "surface": "孟嘗君"
+    }
+   ]
+  },
+  {
+   "para_id": "p152",
+   "mentions": [
+    {
+     "entity_id": "P030",
+     "entity_name": "韩宣惠王",
+     "entity_type": "person",
+     "start": 1,
+     "end": 5,
+     "surface": "韓宣惠王"
+    },
+    {
+     "entity_id": "C016",
+     "entity_name": "两用",
+     "entity_type": "concept",
+     "start": 6,
+     "end": 8,
+     "surface": "兩用"
+    },
+    {
+     "entity_id": "P032",
+     "entity_name": "公仲",
+     "entity_type": "person",
+     "start": 8,
+     "end": 10,
+     "surface": "公仲"
+    },
+    {
+     "entity_id": "P034",
+     "entity_name": "缪留",
+     "entity_type": "person",
+     "start": 18,
+     "end": 20,
+     "surface": "繆留"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "晋",
+     "entity_type": "place",
+     "start": 28,
+     "end": 29,
+     "surface": "晉"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 36,
+     "end": 37,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 50,
+     "end": 51,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P071",
+     "entity_name": "犀首",
+     "entity_type": "person",
+     "start": 52,
+     "end": 54,
+     "surface": "犀首"
+    },
+    {
+     "entity_id": "P064",
+     "entity_name": "张仪",
+     "entity_type": "person",
+     "start": 55,
+     "end": 57,
+     "surface": "張儀"
+    },
+    {
+     "entity_id": "L048",
+     "entity_name": "河西",
+     "entity_type": "place",
+     "start": 58,
+     "end": 62,
+     "surface": "西河之外"
+    },
+    {
+     "entity_id": "C016",
+     "entity_name": "两用",
+     "entity_type": "concept",
+     "start": 66,
+     "end": 68,
+     "surface": "兩用"
+    }
+   ]
+  }
+ ]
+}
