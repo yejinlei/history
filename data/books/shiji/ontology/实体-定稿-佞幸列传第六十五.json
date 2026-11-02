@@ -472,124 +472,164 @@
     ],
     "relations": [
       {
-        "from": "person_nx_001",
+        "from": "劉邦（漢高祖）",
         "type": "寵幸",
-        "to": "person_nx_002",
-        "evidence": "p1"
+        "to": "籍孺",
+        "evidence": [
+          "p1"
+        ]
       },
       {
-        "from": "person_nx_003",
+        "from": "劉盈（漢惠帝）",
         "type": "寵幸",
-        "to": "person_nx_004",
-        "evidence": "p1"
+        "to": "閎孺",
+        "evidence": [
+          "p1"
+        ]
       },
       {
-        "from": "person_nx_005",
+        "from": "劉恆（漢文帝）",
         "type": "夢中得遇",
-        "to": "person_nx_006",
-        "evidence": "p2"
+        "to": "鄧通",
+        "evidence": [
+          "p2"
+        ]
       },
       {
-        "from": "person_nx_005",
+        "from": "劉恆（漢文帝）",
         "type": "賜銅山",
-        "to": "person_nx_006",
-        "evidence": "p2"
+        "to": "鄧通",
+        "evidence": [
+          "p2"
+        ]
       },
       {
-        "from": "person_nx_006",
+        "from": "鄧通",
         "type": "為帝吮癰",
-        "to": "event_nx_005",
-        "evidence": "p3"
+        "to": "鄧通為文帝唶癰結怨太子",
+        "evidence": [
+          "p3"
+        ]
       },
       {
-        "from": "person_nx_009",
+        "from": "劉啟（漢景帝）",
         "type": "怨恨",
-        "to": "person_nx_006",
-        "evidence": "p3"
+        "to": "鄧通",
+        "evidence": [
+          "p3"
+        ]
       },
       {
-        "from": "person_nx_010",
+        "from": "館陶長公主（劉嫖）",
         "type": "接濟衣食",
-        "to": "person_nx_006",
-        "evidence": "p3"
+        "to": "鄧通",
+        "evidence": [
+          "p3"
+        ]
       },
       {
-        "from": "person_nx_006",
+        "from": "鄧通",
         "type": "餓死人家",
-        "to": "event_nx_006",
-        "evidence": "p3"
+        "to": "鄧通被抄家寄死人家",
+        "evidence": [
+          "p3"
+        ]
       },
       {
-        "from": "person_nx_011",
+        "from": "周仁（周文）",
         "type": "寵幸",
-        "to": "person_nx_009",
-        "evidence": "p4"
+        "to": "劉啟（漢景帝）",
+        "evidence": [
+          "p4"
+        ]
       },
       {
-        "from": "person_nx_012",
+        "from": "韓嫣",
         "type": "同學親愛",
-        "to": "person_nx_012",
-        "evidence": "p6"
+        "to": "韓嫣",
+        "evidence": [
+          "p6"
+        ]
       },
       {
-        "from": "person_nx_014",
+        "from": "劉非（江都王）",
         "type": "伏謁被驅",
-        "to": "event_nx_008",
-        "evidence": "p6"
+        "to": "韓嫣為武帝佞幸驅馳驚江都王",
+        "evidence": [
+          "p6"
+        ]
       },
       {
-        "from": "person_nx_015",
+        "from": "王太后（漢武帝母）",
         "type": "賜死",
-        "to": "person_nx_012",
-        "evidence": "p6"
+        "to": "韓嫣",
+        "evidence": [
+          "p6"
+        ]
       },
       {
-        "from": "person_nx_017",
+        "from": "平陽公主",
         "type": "推薦",
-        "to": "person_nx_018",
-        "evidence": "p7"
+        "to": "李夫人",
+        "evidence": [
+          "p7"
+        ]
       },
       {
-        "from": "person_nx_013",
+        "from": "李延年",
         "type": "以歌得幸",
-        "to": "event_nx_010",
-        "evidence": "p7"
+        "to": "李延年以新聲貴幸協律",
+        "evidence": [
+          "p7"
+        ]
       },
       {
-        "from": "person_nx_018",
+        "from": "李夫人",
         "type": "得幸",
-        "to": "person_nx_005",
-        "evidence": "p7"
+        "to": "劉恆（漢文帝）",
+        "evidence": [
+          "p7"
+        ]
       },
       {
-        "from": "person_nx_013",
+        "from": "李延年",
         "type": "被誅",
-        "to": "event_nx_011",
-        "evidence": "p7"
+        "to": "李夫人卒延年被誅",
+        "evidence": [
+          "p7"
+        ]
       },
       {
-        "from": "person_nx_019",
+        "from": "衛青",
         "type": "以軍功進",
-        "to": "event_nx_012",
-        "evidence": "p8"
+        "to": "衛青霍去病以材能自進",
+        "evidence": [
+          "p8"
+        ]
       },
       {
-        "from": "person_nx_020",
+        "from": "霍去病",
         "type": "以軍功進",
-        "to": "event_nx_012",
-        "evidence": "p8"
+        "to": "衛青霍去病以材能自進",
+        "evidence": [
+          "p8"
+        ]
       },
       {
-        "from": "person_nx_022",
+        "from": "司馬遷（太史公）",
         "type": "引喻感慨",
-        "to": "person_nx_021",
-        "evidence": "p9"
+        "to": "彌子瑕",
+        "evidence": [
+          "p9"
+        ]
       },
       {
-        "from": "concept_nx_006",
+        "from": "愛憎之時",
         "type": "總結命運",
-        "to": "concept_nx_001",
-        "evidence": "p9"
+        "to": "佞幸",
+        "evidence": [
+          "p9"
+        ]
       }
     ]
   }

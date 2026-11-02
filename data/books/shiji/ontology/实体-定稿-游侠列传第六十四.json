@@ -819,148 +819,196 @@
     ],
     "relations": [
       {
-        "from": "person_yx_001",
+        "from": "韓非（韓子）",
         "type": "非議",
-        "to": "concept_yx_001",
-        "evidence": "p1"
+        "to": "游俠",
+        "evidence": [
+          "p1"
+        ]
       },
       {
-        "from": "person_yx_002",
+        "from": "季次",
         "type": "終身不仕",
-        "to": "event_yx_002",
-        "evidence": "p1"
+        "to": "季次原憲終身空蓬戶",
+        "evidence": [
+          "p1"
+        ]
       },
       {
-        "from": "person_yx_003",
+        "from": "原憲",
         "type": "安貧樂道",
-        "to": "event_yx_002",
-        "evidence": "p1"
+        "to": "季次原憲終身空蓬戶",
+        "evidence": [
+          "p1"
+        ]
       },
       {
-        "from": "person_yx_035",
+        "from": "司馬遷（太史公）",
         "type": "列舉",
-        "to": "person_yx_004",
-        "evidence": "p2"
+        "to": "虞舜",
+        "evidence": [
+          "p2"
+        ]
       },
       {
-        "from": "person_yx_035",
+        "from": "司馬遷（太史公）",
         "type": "引喻",
-        "to": "concept_yx_003",
-        "evidence": "p2"
+        "to": "緩急",
+        "evidence": [
+          "p2"
+        ]
       },
       {
-        "from": "person_yx_035",
+        "from": "司馬遷（太史公）",
         "type": "引用",
-        "to": "concept_yx_004",
-        "evidence": "p3"
+        "to": "竊鉤者誅竊國者侯",
+        "evidence": [
+          "p3"
+        ]
       },
       {
-        "from": "person_yx_014",
+        "from": "延陵季子（季札）",
         "type": "好士顯名",
-        "to": "event_yx_005",
-        "evidence": "p5"
+        "to": "匹夫之俠湮滅秦以前",
+        "evidence": [
+          "p5"
+        ]
       },
       {
-        "from": "person_yx_015",
+        "from": "孟嘗君（田文）",
         "type": "養士任俠",
-        "to": "event_yx_005",
-        "evidence": "p5"
+        "to": "匹夫之俠湮滅秦以前",
+        "evidence": [
+          "p5"
+        ]
       },
       {
-        "from": "person_yx_019",
+        "from": "朱家",
         "type": "藏活豪士",
-        "to": "event_yx_006",
-        "evidence": "p6"
+        "to": "朱家藏活豪士振人不贍",
+        "evidence": [
+          "p6"
+        ]
       },
       {
-        "from": "person_yx_019",
+        "from": "朱家",
         "type": "暗中救援",
-        "to": "person_yx_023",
-        "evidence": "p6"
+        "to": "季布",
+        "evidence": [
+          "p6"
+        ]
       },
       {
-        "from": "person_yx_024",
+        "from": "周亞夫（條侯）",
         "type": "得劇孟",
-        "to": "person_yx_021",
-        "evidence": "p7"
+        "to": "劇孟",
+        "evidence": [
+          "p7"
+        ]
       },
       {
-        "from": "person_yx_027",
+        "from": "周庸",
         "type": "被誅",
-        "to": "person_yx_026",
-        "evidence": "p8"
+        "to": "瞷氏",
+        "evidence": [
+          "p8"
+        ]
       },
       {
-        "from": "person_yx_022",
+        "from": "郭解（翁伯）",
         "type": "折節改行",
-        "to": "event_yx_009",
-        "evidence": "p9"
+        "to": "郭解折節為儉厚施薄望",
+        "evidence": [
+          "p9"
+        ]
       },
       {
-        "from": "person_yx_022",
+        "from": "郭解（翁伯）",
         "type": "義釋殺人者",
-        "to": "event_yx_010",
-        "evidence": "p9"
+        "to": "郭解義釋殺姊子者",
+        "evidence": [
+          "p9"
+        ]
       },
       {
-        "from": "person_yx_022",
+        "from": "郭解（翁伯）",
         "type": "陰免踐更",
-        "to": "event_yx_011",
-        "evidence": "p10"
+        "to": "郭解陰脫箕踞者踐更",
+        "evidence": [
+          "p10"
+        ]
       },
       {
-        "from": "person_yx_022",
+        "from": "郭解（翁伯）",
         "type": "夜調仇家",
-        "to": "event_yx_012",
-        "evidence": "p11"
+        "to": "郭解夜調雒陽仇家不居功",
+        "evidence": [
+          "p11"
+        ]
       },
       {
-        "from": "person_yx_022",
+        "from": "郭解（翁伯）",
         "type": "恭敬不驕",
-        "to": "event_yx_013",
-        "evidence": "p12"
+        "to": "郭解恭謹敬事不乘車入縣廷",
+        "evidence": [
+          "p12"
+        ]
       },
       {
-        "from": "person_yx_031",
+        "from": "衛青（衞將軍）",
         "type": "進言求情",
-        "to": "person_yx_022",
-        "evidence": "p13"
+        "to": "郭解（翁伯）",
+        "evidence": [
+          "p13"
+        ]
       },
       {
-        "from": "person_yx_032",
+        "from": "劉徹（漢武帝）",
         "type": "強遷茂陵",
-        "to": "event_yx_014",
-        "evidence": "p13"
+        "to": "郭解家貧被強徙茂陵",
+        "evidence": [
+          "p13"
+        ]
       },
       {
-        "from": "person_yx_033",
+        "from": "籍少公",
         "type": "義助出關",
-        "to": "event_yx_016",
-        "evidence": "p14"
+        "to": "籍少公義出郭解自殺絕口",
+        "evidence": [
+          "p14"
+        ]
       },
       {
-        "from": "person_yx_034",
+        "from": "公孫弘",
         "type": "議罪族誅",
-        "to": "person_yx_022",
-        "evidence": "p14"
+        "to": "郭解（翁伯）",
+        "evidence": [
+          "p14"
+        ]
       },
       {
-        "from": "person_yx_035",
+        "from": "司馬遷（太史公）",
         "type": "盛讚",
-        "to": "person_yx_022",
-        "evidence": "p16"
+        "to": "郭解（翁伯）",
+        "evidence": [
+          "p16"
+        ]
       },
       {
-        "from": "concept_yx_002",
+        "from": "言必信行必果",
         "type": "定義俠義",
-        "to": "concept_yx_001",
-        "evidence": "p1"
+        "to": "游俠",
+        "evidence": [
+          "p1"
+        ]
       },
       {
-        "from": "concept_yx_009",
+        "from": "人貌榮名",
         "type": "評價",
-        "to": "person_yx_022",
-        "evidence": "p16"
+        "to": "郭解（翁伯）",
+        "evidence": [
+          "p16"
+        ]
       }
     ]
   }
