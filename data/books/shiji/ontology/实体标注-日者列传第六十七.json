@@ -1,559 +1,246 @@
-{
-  "book_id": "shiji",
-  "chapter_id": "shiji-日者列傳第六十七",
-  "chapter_title": "日者列传第六十七",
-  "version": "1.0",
-  "generated_at": "2026-11-02T12:10:00",
-  "paragraphs": [
-    {
-      "para_id": "p0",
-      "text": "〔集解〕墨子曰：「墨子北之齊，遇日者。日者曰：『帝以今日殺黑龍於北方，而先生之色黑，不可以北。』墨子不聽，遂北，至淄水。墨子不遂而反焉。日者曰：『我謂先生不可以北。』」然則古人占候卜筮，通謂之「日者」。墨子亦云，非但史記也。〔索隱〕案名卜筮曰「日者」以墨，所以卜筮占候時日通名「日者」故也。",
-      "mentions": [
-        {
-          "start": 4,
-          "end": 6,
-          "entity_id": "person_rz_018",
-          "entity_name": "墨子",
-          "text": "墨子"
-        },
-        {
-          "start": 9,
-          "end": 11,
-          "entity_id": "person_rz_018",
-          "entity_name": "墨子",
-          "text": "墨子"
-        },
-        {
-          "start": 16,
-          "end": 18,
-          "entity_id": "concept_rz_001",
-          "entity_name": "日者",
-          "text": "日者"
-        },
-        {
-          "start": 19,
-          "end": 21,
-          "entity_id": "concept_rz_001",
-          "entity_name": "日者",
-          "text": "日者"
-        },
-        {
-          "start": 48,
-          "end": 50,
-          "entity_id": "person_rz_018",
-          "entity_name": "墨子",
-          "text": "墨子"
-        },
-        {
-          "start": 57,
-          "end": 59,
-          "entity_id": "place_rz_004",
-          "entity_name": "淄水",
-          "text": "淄水"
-        },
-        {
-          "start": 60,
-          "end": 62,
-          "entity_id": "person_rz_018",
-          "entity_name": "墨子",
-          "text": "墨子"
-        },
-        {
-          "start": 68,
-          "end": 70,
-          "entity_id": "concept_rz_001",
-          "entity_name": "日者",
-          "text": "日者"
-        },
-        {
-          "start": 97,
-          "end": 99,
-          "entity_id": "concept_rz_001",
-          "entity_name": "日者",
-          "text": "日者"
-        },
-        {
-          "start": 101,
-          "end": 103,
-          "entity_id": "person_rz_018",
-          "entity_name": "墨子",
-          "text": "墨子"
-        },
-        {
-          "start": 122,
-          "end": 124,
-          "entity_id": "concept_rz_001",
-          "entity_name": "日者",
-          "text": "日者"
-        },
-        {
-          "start": 139,
-          "end": 141,
-          "entity_id": "concept_rz_001",
-          "entity_name": "日者",
-          "text": "日者"
-        }
-      ]
-    },
-    {
-      "para_id": "p1",
-      "text": "自古受命而王，王者之興何嘗不以卜筮決于天命哉！其於周尤甚，及秦可見。代王之入，任於卜者。太卜之起，由漢興而有。⟦0⟧",
-      "mentions": [
-        {
-          "start": 34,
-          "end": 36,
-          "entity_id": "person_rz_006",
-          "entity_name": "漢文帝",
-          "text": "代王"
-        }
-      ]
-    },
-    {
-      "para_id": "p2",
-      "text": "司馬季主者，楚人也。⟦0⟧卜於長安東市。",
-      "mentions": [
-        {
-          "start": 0,
-          "end": 4,
-          "entity_id": "person_rz_001",
-          "entity_name": "司馬季主",
-          "text": "司馬季主"
-        },
-        {
-          "start": 15,
-          "end": 19,
-          "entity_id": "place_rz_001",
-          "entity_name": "長安",
-          "text": "長安東市"
-        }
-      ]
-    },
-    {
-      "para_id": "p3",
-      "text": "宋忠爲中大夫，賈誼爲博士，同日俱出洗沐，⟦0⟧相從論議，誦易先王聖人之道術，究徧人情，相視而歎。賈誼曰：「吾聞古之聖人，不居朝廷，必在卜醫之中。今吾已見三公九卿朝士大夫，皆可知矣。試之卜數中以觀采。」⟦1⟧二人即同輿而之市，游於卜肆中。天新雨，道少人，司馬季主間坐，弟子三四人侍，方辯天地之道，日月之運，陰陽吉凶之本。二大夫再拜謁。司馬季主視其狀貌，如類有知者，即禮之，使弟子延之坐。坐定，司馬季主復理前語，分別天地之終始，日月星辰之紀，差次仁義之際，列吉凶之符，語數千言，莫不順理。",
-      "mentions": [
-        {
-          "start": 0,
-          "end": 2,
-          "entity_id": "person_rz_002",
-          "entity_name": "宋忠",
-          "text": "宋忠"
-        },
-        {
-          "start": 7,
-          "end": 9,
-          "entity_id": "person_rz_003",
-          "entity_name": "賈誼",
-          "text": "賈誼"
-        },
-        {
-          "start": 48,
-          "end": 50,
-          "entity_id": "person_rz_003",
-          "entity_name": "賈誼",
-          "text": "賈誼"
-        },
-        {
-          "start": 126,
-          "end": 130,
-          "entity_id": "person_rz_001",
-          "entity_name": "司馬季主",
-          "text": "司馬季主"
-        },
-        {
-          "start": 166,
-          "end": 170,
-          "entity_id": "person_rz_001",
-          "entity_name": "司馬季主",
-          "text": "司馬季主"
-        },
-        {
-          "start": 195,
-          "end": 199,
-          "entity_id": "person_rz_001",
-          "entity_name": "司馬季主",
-          "text": "司馬季主"
-        }
-      ]
-    },
-    {
-      "para_id": "p4",
-      "text": "宋忠、賈誼瞿然而悟，獵纓正襟危坐，⟦0⟧曰：「吾望先生之狀，聽先生之辭，小子竊觀於世，未嘗見也。今何居之卑，何行之汙？」⟦1⟧",
-      "mentions": [
-        {
-          "start": 0,
-          "end": 2,
-          "entity_id": "person_rz_002",
-          "entity_name": "宋忠",
-          "text": "宋忠"
-        },
-        {
-          "start": 3,
-          "end": 5,
-          "entity_id": "person_rz_003",
-          "entity_name": "賈誼",
-          "text": "賈誼"
-        }
-      ]
-    },
-    {
-      "para_id": "p5",
-      "text": "司馬季主捧腹大笑曰：「觀大夫類有道術者，今何言之陋也，何辭之野也！今夫子所賢者何也？所高者誰也？今何以卑汙長者？」",
-      "mentions": [
-        {
-          "start": 0,
-          "end": 4,
-          "entity_id": "person_rz_001",
-          "entity_name": "司馬季主",
-          "text": "司馬季主"
-        }
-      ]
-    },
-    {
-      "para_id": "p6",
-      "text": "二君曰：「尊官厚祿，世之所高也，賢才處之。今所處非其地，故謂之卑。言不信，行不驗，取不當，故謂之汙。夫卜筮者，世俗之所賤簡也。世皆言曰：『夫卜者多言誇嚴以得人情，⟦0⟧虛高人祿命以說人志，擅言禍災以傷人心，矯言鬼神以盡人財，厚求拜謝以私於己。』此吾之所耻，故謂之卑汙也。」",
-      "mentions": []
-    },
-    {
-      "para_id": "p7",
-      "text": "司馬季主曰：",
-      "mentions": [
-        {
-          "start": 0,
-          "end": 4,
-          "entity_id": "person_rz_001",
-          "entity_name": "司馬季主",
-          "text": "司馬季主"
-        }
-      ]
-    },
-    {
-      "para_id": "p8",
-      "text": "公且安坐。公見夫被髮童子乎？日月照之則行，不照則止，問之日月疵瑕吉凶，則不能理。由是觀之，能知別賢與不肖者寡矣。",
-      "mentions": []
-    },
-    {
-      "para_id": "p9",
-      "text": "賢之行也，直道以正諫，三諫不聽則退。其譽人也不望其報，惡人也不顧其怨，以便國家利衆爲務。故官非其任不處也，祿非其功不受也；見人不正，雖貴不敬也；見人有汙，雖尊不下也；得不爲喜，去不爲恨；非其罪也，雖累辱而不愧也。",
-      "mentions": []
-    },
-    {
-      "para_id": "p10",
-      "text": "今公所謂賢者，皆可爲羞矣。卑疵而前，⟦0⟧孅趨而言；⟦1⟧相引以勢，相導以利；比周賔正，⟦2⟧以求尊譽，以受公奉；事私利，枉主法，獵農民；以官爲威，以法爲機，求利逆暴：譬無異於操白刃劫人者也。初試官時，倍力爲巧詐，飾虛功執空文以誷主上，用居上爲右；試官不讓賢陳功，見偽增實，以無爲有，以少爲多，以求便勢尊位；食飲驅馳，從姬歌兒，不顧於親，犯法害民，虛公家：此夫爲盜不操矛弧者也，攻而不用弦刃者也，欺父母未有罪而弒君未伐者也。何以爲高賢才乎？",
-      "mentions": []
-    },
-    {
-      "para_id": "p11",
-      "text": "盜賊發不能禁，夷貊不服不能攝，姦邪起不能塞，官秏亂不能治，四時不和不能調，歲穀不孰不能適。⟦0⟧才賢不爲，是不忠也；才不賢而託官位，利上奉，妨賢者處，是竊位也；⟦1⟧有人者進，有財者禮，是偽也。子獨不見鴟梟之與鳳皇翔乎？蘭芷芎藭弃於廣野，蒿蕭成林，使君子退而不顯衆，公等是也。",
-      "mentions": []
-    },
-    {
-      "para_id": "p12",
-      "text": "述而不作，君子義也。今夫卜者，必法天地，象四時，順於仁義，分策定卦，按式正棊，⟦0⟧⟦1⟧〔三校案：据此處「索隱」似應做 〔旋式正棊〕〕然後言天地之利害，事之成敗。昔先王之定國家，必先龜策日月，而後乃敢代；正時日，乃後入家；產子必先占吉凶，後乃有之。⟦2⟧自伏羲作八卦，周文王演三百八十四爻而天下治。越王勾踐倣文王八卦以破敵國，⟦3⟧霸天下。由是言之，卜筮有何負哉！",
-      "mentions": [
-        {
-          "start": 129,
-          "end": 131,
-          "entity_id": "person_rz_007",
-          "entity_name": "伏羲",
-          "text": "伏羲"
-        },
-        {
-          "start": 135,
-          "end": 138,
-          "entity_id": "person_rz_008",
-          "entity_name": "周文王",
-          "text": "周文王"
-        },
-        {
-          "start": 150,
-          "end": 154,
-          "entity_id": "person_rz_009",
-          "entity_name": "越王勾踐",
-          "text": "越王勾踐"
-        },
-        {
-          "start": 155,
-          "end": 157,
-          "entity_id": "person_rz_008",
-          "entity_name": "周文王",
-          "text": "文王"
-        }
-      ]
-    },
-    {
-      "para_id": "p13",
-      "text": "且夫卜筮者，掃除設坐，正其冠帶，然後乃言事，此有禮也。言而鬼神或以饗，忠臣以事其上，孝子以養其親，慈父以畜其子，此有德者也。而以義置數十百錢，病者或以愈，且死或以生，患或以免，事或以成，嫁子娶婦或以養生：此之爲德，豈直數十百錢哉！此夫老子所謂「上德不德，是以有德」。今夫卜筮者利大而謝少，老子之云豈異於是乎？",
-      "mentions": [
-        {
-          "start": 122,
-          "end": 126,
-          "entity_id": "concept_rz_006",
-          "entity_name": "上德不德",
-          "text": "上德不德"
-        }
-      ]
-    },
-    {
-      "para_id": "p14",
-      "text": "莊子曰：「君子內無飢寒之患，外無劫奪之憂，居上而敬，居下不爲害，君子之道也。」今夫卜筮者之爲業也，積之無委聚，藏之不用府庫，徙之不用輜車，負裝之不重，止而用之無盡索之時。持不盡索之物，游於無窮之世，雖莊氏之行未能增於是也，子何故而云不可卜哉？天不足西北，星辰西北移；地不足東南，以海爲池；日中必移，月滿必虧；先王之道，乍存乍亡。公責卜者言必信，不亦惑乎！",
-      "mentions": []
-    },
-    {
-      "para_id": "p15",
-      "text": "公見夫談士辯人乎？慮事定計，必是人也，然不能以一言說人主意，故言必稱先王，語必道上古；慮事定計，飾先王之成功，語其敗害，以恐喜人主之志，以求其欲。多言誇嚴，⟦0⟧莫大於此矣。然欲彊國成功，盡忠於上，非此不立。今夫卜者，導惑教愚也。夫愚惑之人，豈能以一言而知之哉！言不厭多。",
-      "mentions": []
-    },
-    {
-      "para_id": "p16",
-      "text": "故騏驥不能與罷驢爲駟，而鳳皇不與燕雀爲羣，而賢者亦不與不肖者同列。故君子處卑隱以辟衆，自匿以辟倫，微見德順以除羣害，以明天性，助上養下，多其功利，不求尊譽。公之等喁喁者也，何知長者之道乎！",
-      "mentions": [
-        {
-          "start": 36,
-          "end": 42,
-          "entity_id": "concept_rz_009",
-          "entity_name": "處卑隱以辟衆",
-          "text": "處卑隱以辟衆"
-        }
-      ]
-    },
-    {
-      "para_id": "p17",
-      "text": "宋忠、賈誼忽而自失，芒乎無色，⟦0⟧悵然噤口不能言。⟦1⟧於是攝衣而起，再拜而辭。行洋洋也，出市門僅能自上車，伏軾低頭，卒不能出氣。",
-      "mentions": [
-        {
-          "start": 0,
-          "end": 2,
-          "entity_id": "person_rz_002",
-          "entity_name": "宋忠",
-          "text": "宋忠"
-        },
-        {
-          "start": 3,
-          "end": 5,
-          "entity_id": "person_rz_003",
-          "entity_name": "賈誼",
-          "text": "賈誼"
-        }
-      ]
-    },
-    {
-      "para_id": "p18",
-      "text": "居三日，宋忠見賈誼於殿門外，乃相引屏語相謂自歎曰：「道高益安，勢高益危。居赫赫之勢，失身且有日矣。夫卜而有不審，不見奪糈；⟦0⟧⟦1⟧爲人主計而不審，身無所處。⟦2⟧此相去遠矣，猶天冠地屨也。此老子之所謂『無名者萬物之始』也。天地曠曠，物之熙熙，或安或危，莫知居之。我與若，何足預彼哉！彼久而愈安，雖曾氏之義⟦3⟧未有以異也。」",
-      "mentions": [
-        {
-          "start": 4,
-          "end": 6,
-          "entity_id": "person_rz_002",
-          "entity_name": "宋忠",
-          "text": "宋忠"
-        },
-        {
-          "start": 7,
-          "end": 9,
-          "entity_id": "person_rz_003",
-          "entity_name": "賈誼",
-          "text": "賈誼"
-        },
-        {
-          "start": 90,
-          "end": 94,
-          "entity_id": "concept_rz_007",
-          "entity_name": "天冠地屨",
-          "text": "天冠地屨"
-        }
-      ]
-    },
-    {
-      "para_id": "p19",
-      "text": "久之，宋忠使匈奴，不至而還，抵罪。而賈誼爲梁懷王傅，王墮馬薨，誼不食，毒恨而死。此務華絕根者也。⟦0⟧",
-      "mentions": [
-        {
-          "start": 3,
-          "end": 5,
-          "entity_id": "person_rz_002",
-          "entity_name": "宋忠",
-          "text": "宋忠"
-        },
-        {
-          "start": 6,
-          "end": 8,
-          "entity_id": "place_rz_005",
-          "entity_name": "匈奴",
-          "text": "匈奴"
-        },
-        {
-          "start": 18,
-          "end": 20,
-          "entity_id": "person_rz_003",
-          "entity_name": "賈誼",
-          "text": "賈誼"
-        },
-        {
-          "start": 21,
-          "end": 24,
-          "entity_id": "person_rz_010",
-          "entity_name": "梁懷王",
-          "text": "梁懷王"
-        },
-        {
-          "start": 41,
-          "end": 45,
-          "entity_id": "concept_rz_008",
-          "entity_name": "務華絕根",
-          "text": "務華絕根"
-        }
-      ]
-    },
-    {
-      "para_id": "p20",
-      "text": "太史公曰：古者卜人所以不載者，多不見于篇。及至司馬季主，余志而著之。",
-      "mentions": [
-        {
-          "start": 0,
-          "end": 3,
-          "entity_id": "person_rz_004",
-          "entity_name": "司馬遷",
-          "text": "太史公"
-        },
-        {
-          "start": 23,
-          "end": 27,
-          "entity_id": "person_rz_001",
-          "entity_name": "司馬季主",
-          "text": "司馬季主"
-        }
-      ]
-    },
-    {
-      "para_id": "p21",
-      "text": "褚先生曰：臣爲郎時，游觀長安中，見卜筮之賢大夫，觀其起居行步，坐起自動，誓正其衣冠而當鄉人也，有君子之風。見性好解婦來卜，對之顏色嚴振，未嘗見齒而笑也。從古以來，賢者避世，有居止舞澤者，有居民間閉口不言，有隱居卜筮間以全身者。夫司馬季主者，楚賢大夫，游學長安，通易經，術黃帝、老子，博聞遠見。觀其對二大夫貴人之談言，稱引古明王聖人道，固非淺聞小數之能。及卜筮立名聲千里者，各往往而在。傳曰：「富爲上，貴次之；旣貴各各學一伎能立其身。」黃直，丈夫也；陳君夫，婦人也：以相馬立名天下。齊張仲、曲成侯以善擊刺學用劔，立名天下。留長孺以相彘立名。滎陽褚氏以相牛立名。能以伎能立名者甚多，皆有高世絕人之風，何可勝言。故曰：「非其地，樹之不生；非其意，教之不成。」夫家之教子孫，當視其所以好，好含苟生活之道，因而成之。故曰：「制宅命子，足以觀士；子有處所，可謂賢人。」",
-      "mentions": [
-        {
-          "start": 0,
-          "end": 3,
-          "entity_id": "person_rz_005",
-          "entity_name": "褚少孫",
-          "text": "褚先生"
-        },
-        {
-          "start": 12,
-          "end": 14,
-          "entity_id": "place_rz_001",
-          "entity_name": "長安",
-          "text": "長安"
-        },
-        {
-          "start": 114,
-          "end": 118,
-          "entity_id": "person_rz_001",
-          "entity_name": "司馬季主",
-          "text": "司馬季主"
-        },
-        {
-          "start": 127,
-          "end": 129,
-          "entity_id": "place_rz_001",
-          "entity_name": "長安",
-          "text": "長安"
-        },
-        {
-          "start": 217,
-          "end": 219,
-          "entity_id": "person_rz_012",
-          "entity_name": "黃直",
-          "text": "黃直"
-        },
-        {
-          "start": 224,
-          "end": 227,
-          "entity_id": "person_rz_013",
-          "entity_name": "陳君夫",
-          "text": "陳君夫"
-        },
-        {
-          "start": 241,
-          "end": 243,
-          "entity_id": "person_rz_014",
-          "entity_name": "張仲",
-          "text": "張仲"
-        },
-        {
-          "start": 244,
-          "end": 247,
-          "entity_id": "person_rz_015",
-          "entity_name": "曲成侯",
-          "text": "曲成侯"
-        },
-        {
-          "start": 260,
-          "end": 263,
-          "entity_id": "person_rz_016",
-          "entity_name": "留長孺",
-          "text": "留長孺"
-        },
-        {
-          "start": 269,
-          "end": 273,
-          "entity_id": "person_rz_017",
-          "entity_name": "滎陽褚氏",
-          "text": "滎陽褚氏"
-        },
-        {
-          "start": 281,
-          "end": 285,
-          "entity_id": "concept_rz_010",
-          "entity_name": "伎能立名",
-          "text": "伎能立名"
-        }
-      ]
-    },
-    {
-      "para_id": "p22",
-      "text": "臣爲郎時，與太卜待詔爲郎者同署，言曰：「孝武帝時，聚會占家問之，某日可取婦乎？五行家曰可，堪輿家曰不可，建除家曰不吉，叢辰家曰大凶，歷家曰小凶，天人家曰小吉，太一家曰大吉。辯訟不決，以狀聞。制曰：『避諸死忌，以五行爲主。』」人取於五行者也。",
-      "mentions": [
-        {
-          "start": 20,
-          "end": 23,
-          "entity_id": "person_rz_011",
-          "entity_name": "漢武帝",
-          "text": "孝武帝"
-        },
-        {
-          "start": 104,
-          "end": 109,
-          "entity_id": "concept_rz_011",
-          "entity_name": "以五行爲主",
-          "text": "以五行爲主"
-        }
-      ]
-    },
-    {
-      "para_id": "p23",
-      "text": "索隱述贊曰：日者之名，有自來矣。吉凶占候，著於墨子。齊楚異法，書亡罕紀。後人斯繼，季主獨美。取免暴秦，此焉終否。",
-      "mentions": [
-        {
-          "start": 6,
-          "end": 8,
-          "entity_id": "concept_rz_001",
-          "entity_name": "日者",
-          "text": "日者"
-        },
-        {
-          "start": 23,
-          "end": 25,
-          "entity_id": "person_rz_018",
-          "entity_name": "墨子",
-          "text": "墨子"
-        },
-        {
-          "start": 41,
-          "end": 43,
-          "entity_id": "person_rz_001",
-          "entity_name": "司馬季主",
-          "text": "季主"
-        }
-      ]
-    }
+{"book_id":"shiji","chapter_id":"shiji-日者列傳第六十七","chapter_title":"日者列传第六十七","version":"1.0","generated_at":"2026-11-02",
+ "annotations":{
+  "p0":[
+   {"start":5,"end":7,"text":"墨子","type":"person","entity_id":"person_003"},
+   {"start":12,"end":14,"text":"墨子","type":"person","entity_id":"person_003"},
+   {"start":18,"end":20,"text":"日者","type":"concept","entity_id":"concept_000"},
+   {"start":26,"end":28,"text":"日者","type":"person","entity_id":""},
+   {"start":41,"end":43,"text":"墨子","type":"person","entity_id":"person_003"},
+   {"start":71,"end":73,"text":"墨子","type":"person","entity_id":"person_003"},
+   {"start":85,"end":87,"text":"日者","type":"concept","entity_id":"concept_000"},
+   {"start":123,"end":125,"text":"占候","type":"concept","entity_id":"concept_002"},
+   {"start":126,"end":128,"text":"卜筮","type":"concept","entity_id":"concept_001"},
+   {"start":136,"end":138,"text":"日者","type":"concept","entity_id":"concept_000"},
+   {"start":147,"end":149,"text":"墨子","type":"person","entity_id":"person_003"},
+   {"start":189,"end":191,"text":"卜筮","type":"concept","entity_id":"concept_001"},
+   {"start":195,"end":197,"text":"日者","type":"concept","entity_id":"concept_000"}
+  ],
+  "p1":[
+   {"start":30,"end":32,"text":"卜筮","type":"concept","entity_id":"concept_001"},
+   {"start":68,"end":70,"text":"代王","type":"person","entity_id":"person_005"},
+   {"start":82,"end":84,"text":"卜者","type":"concept","entity_id":"concept_000"},
+   {"start":89,"end":91,"text":"太卜","type":"concept","entity_id":"concept_003"},
+   {"start":100,"end":102,"text":"漢興","type":"person","entity_id":"person_004"}
+  ],
+  "p2":[
+   {"start":0,"end":4,"text":"司馬季主","type":"person","entity_id":"person_000"},
+   {"start":8,"end":9,"text":"楚","type":"place","entity_id":"place_004"},
+   {"start":16,"end":18,"text":"長安","type":"place","entity_id":"place_002"},
+   {"start":18,"end":20,"text":"東市","type":"place","entity_id":"place_003"}
+  ],
+  "p3":[
+   {"start":0,"end":2,"text":"宋忠","type":"person","entity_id":"person_001"},
+   {"start":4,"end":7,"text":"中大夫","type":"concept","entity_id":"concept_004"},
+   {"start":10,"end":12,"text":"賈誼","type":"person","entity_id":"person_002"},
+   {"start":14,"end":16,"text":"博士","type":"concept","entity_id":"concept_005"},
+   {"start":23,"end":25,"text":"洗沐","type":"concept","entity_id":"concept_006"},
+   {"start":83,"end":85,"text":"賈誼","type":"person","entity_id":"person_002"},
+   {"start":131,"end":135,"text":"三公九卿","type":"concept","entity_id":"concept_007"},
+   {"start":170,"end":172,"text":"卜數","type":"concept","entity_id":"concept_001"},
+   {"start":194,"end":196,"text":"卜肆","type":"place","entity_id":"place_005"},
+   {"start":213,"end":217,"text":"司馬季主","type":"person","entity_id":"person_000"},
+   {"start":224,"end":226,"text":"弟子","type":"person","entity_id":"person_021"},
+   {"start":237,"end":239,"text":"天地","type":"concept","entity_id":""},
+   {"start":244,"end":246,"text":"日月","type":"concept","entity_id":""},
+   {"start":250,"end":252,"text":"陰陽","type":"concept","entity_id":"concept_009"},
+   {"start":252,"end":254,"text":"吉凶","type":"concept","entity_id":"concept_009"},
+   {"start":258,"end":262,"text":"二大夫","type":"person","entity_id":""},
+   {"start":268,"end":272,"text":"司馬季主","type":"person","entity_id":"person_000"},
+   {"start":303,"end":305,"text":"弟子","type":"person","entity_id":"person_021"},
+   {"start":313,"end":317,"text":"司馬季主","type":"person","entity_id":"person_000"},
+   {"start":351,"end":353,"text":"日月","type":"concept","entity_id":""},
+   {"start":356,"end":358,"text":"星辰","type":"concept","entity_id":""},
+   {"start":364,"end":366,"text":"仁義","type":"concept","entity_id":""},
+   {"start":372,"end":374,"text":"吉凶","type":"concept","entity_id":"concept_009"}
+  ],
+  "p4":[
+   {"start":0,"end":2,"text":"宋忠","type":"person","entity_id":"person_001"},
+   {"start":3,"end":5,"text":"賈誼","type":"person","entity_id":"person_002"},
+   {"start":12,"end":14,"text":"獵纓","type":"concept","entity_id":""},
+   {"start":16,"end":18,"text":"正襟","type":"concept","entity_id":"concept_010"},
+   {"start":18,"end":20,"text":"危坐","type":"concept","entity_id":"concept_010"}
+  ],
+  "p5":[
+   {"start":0,"end":4,"text":"司馬季主","type":"person","entity_id":"person_000"}
+  ],
+  "p6":[
+   {"start":0,"end":2,"text":"二君","type":"person","entity_id":""},
+   {"start":40,"end":42,"text":"卜筮","type":"concept","entity_id":"concept_001"},
+   {"start":78,"end":80,"text":"卜者","type":"concept","entity_id":"concept_000"}
+  ],
+  "p7":[
+   {"start":0,"end":4,"text":"司馬季主","type":"person","entity_id":"person_000"}
+  ],
+  "p8":[
+   {"start":13,"end":17,"text":"被髮童子","type":"concept","entity_id":""}
+  ],
+  "p9":[
+   {"start":0,"end":1,"text":"賢","type":"concept","entity_id":""},
+   {"start":71,"end":73,"text":"國家","type":"concept","entity_id":""},
+   {"start":183,"end":185,"text":"伯夷","type":"person","entity_id":"person_024"},
+   {"start":186,"end":188,"text":"叔齊","type":"person","entity_id":"person_025"}
+  ],
+  "p10":[
+   {"start":14,"end":16,"text":"卑疵","type":"concept","entity_id":""},
+   {"start":22,"end":24,"text":"孅趨","type":"concept","entity_id":""},
+   {"start":37,"end":39,"text":"比周","type":"concept","entity_id":"concept_012"},
+   {"start":108,"end":110,"text":"矛弧","type":"concept","entity_id":""},
+   {"start":156,"end":158,"text":"弦刃","type":"concept","entity_id":""},
+   {"start":174,"end":176,"text":"弒君","type":"concept","entity_id":""}
+  ],
+  "p11":[
+   {"start":5,"end":7,"text":"盜賊","type":"concept","entity_id":""},
+   {"start":13,"end":15,"text":"夷貊","type":"concept","entity_id":""},
+   {"start":23,"end":25,"text":"姦邪","type":"concept","entity_id":""},
+   {"start":32,"end":34,"text":"秏亂","type":"concept","entity_id":""},
+   {"start":59,"end":61,"text":"歲穀","type":"concept","entity_id":""},
+   {"start":91,"end":93,"text":"竊位","type":"concept","entity_id":""},
+   {"start":118,"end":120,"text":"鴟梟","type":"concept","entity_id":""},
+   {"start":123,"end":125,"text":"鳳皇","type":"concept","entity_id":"concept_023"},
+   {"start":132,"end":136,"text":"蘭芷芎藭","type":"concept","entity_id":"concept_024"},
+   {"start":143,"end":145,"text":"廣野","type":"place","entity_id":"place_013"},
+   {"start":149,"end":151,"text":"蒿蕭","type":"concept","entity_id":"concept_025"}
+  ],
+  "p12":[
+   {"start":0,"end":4,"text":"述而不作","type":"concept","entity_id":"concept_021"},
+   {"start":35,"end":37,"text":"卜者","type":"concept","entity_id":"concept_000"},
+   {"start":56,"end":58,"text":"四時","type":"concept","entity_id":""},
+   {"start":68,"end":70,"text":"仁義","type":"concept","entity_id":""},
+   {"start":76,"end":77,"text":"策","type":"concept","entity_id":"concept_033"},
+   {"start":79,"end":80,"text":"卦","type":"concept","entity_id":"concept_014"},
+   {"start":84,"end":85,"text":"式","type":"concept","entity_id":"concept_017"},
+   {"start":87,"end":88,"text":"棊","type":"concept","entity_id":"concept_017"},
+   {"start":131,"end":133,"text":"龜策","type":"concept","entity_id":"concept_033"},
+   {"start":174,"end":176,"text":"伏羲","type":"person","entity_id":"person_006"},
+   {"start":179,"end":181,"text":"八卦","type":"concept","entity_id":"concept_014"},
+   {"start":185,"end":188,"text":"周文王","type":"person","entity_id":"person_007"},
+   {"start":190,"end":194,"text":"三百八十四爻","type":"concept","entity_id":"concept_015"},
+   {"start":207,"end":209,"text":"越王","type":"person","entity_id":"person_008"},
+   {"start":209,"end":211,"text":"勾踐","type":"person","entity_id":"person_008"},
+   {"start":215,"end":217,"text":"文王","type":"person","entity_id":"person_007"},
+   {"start":218,"end":220,"text":"八卦","type":"concept","entity_id":"concept_014"},
+   {"start":238,"end":240,"text":"霸天下","type":"event","entity_id":"event_024"},
+   {"start":248,"end":250,"text":"卜筮","type":"concept","entity_id":"concept_001"}
+  ],
+  "p13":[
+   {"start":2,"end":4,"text":"卜筮","type":"concept","entity_id":"concept_001"},
+   {"start":138,"end":140,"text":"老子","type":"person","entity_id":"person_009"},
+   {"start":147,"end":155,"text":"上德不德是以有德","type":"concept","entity_id":"concept_016"}
+  ],
+  "p14":[
+   {"start":0,"end":2,"text":"莊子","type":"person","entity_id":"person_010"},
+   {"start":132,"end":134,"text":"卜筮","type":"concept","entity_id":"concept_001"},
+   {"start":189,"end":191,"text":"莊子","type":"person","entity_id":"person_010"},
+   {"start":213,"end":217,"text":"天不足西北","type":"concept","entity_id":""},
+   {"start":235,"end":239,"text":"地不足東南","type":"concept","entity_id":""},
+   {"start":253,"end":257,"text":"日中必移","type":"concept","entity_id":"concept_034"},
+   {"start":263,"end":267,"text":"月滿必虧","type":"concept","entity_id":"concept_034"},
+   {"start":271,"end":275,"text":"先王之道","type":"concept","entity_id":""}
+  ],
+  "p15":[
+   {"start":4,"end":8,"text":"談士辯人","type":"concept","entity_id":""},
+   {"start":121,"end":123,"text":"先王","type":"person","entity_id":""},
+   {"start":175,"end":177,"text":"卜者","type":"concept","entity_id":"concept_000"}
+  ],
+  "p16":[
+   {"start":2,"end":4,"text":"騏驥","type":"concept","entity_id":"concept_022"},
+   {"start":9,"end":11,"text":"罷驢","type":"concept","entity_id":"concept_022"},
+   {"start":22,"end":24,"text":"鳳皇","type":"concept","entity_id":"concept_023"},
+   {"start":28,"end":30,"text":"燕雀","type":"concept","entity_id":"concept_023"},
+   {"start":47,"end":49,"text":"賢者","type":"concept","entity_id":""},
+   {"start":59,"end":61,"text":"不肖","type":"concept","entity_id":""},
+   {"start":72,"end":76,"text":"處卑隱以辟衆","type":"concept","entity_id":"concept_026"},
+   {"start":111,"end":113,"text":"喁喁","type":"concept","entity_id":""}
+  ],
+  "p17":[
+   {"start":0,"end":2,"text":"宋忠","type":"person","entity_id":"person_001"},
+   {"start":3,"end":5,"text":"賈誼","type":"person","entity_id":"person_002"},
+   {"start":14,"end":18,"text":"芒乎無色","type":"concept","entity_id":""},
+   {"start":22,"end":24,"text":"悵然","type":"concept","entity_id":""},
+   {"start":26,"end":28,"text":"噤口","type":"concept","entity_id":""},
+   {"start":54,"end":56,"text":"市門","type":"place","entity_id":"place_003"},
+   {"start":65,"end":67,"text":"伏軾","type":"concept","entity_id":""}
+  ],
+  "p18":[
+   {"start":4,"end":6,"text":"宋忠","type":"person","entity_id":"person_001"},
+   {"start":9,"end":11,"text":"賈誼","type":"person","entity_id":"person_002"},
+   {"start":18,"end":20,"text":"殿門","type":"place","entity_id":"place_006"},
+   {"start":35,"end":39,"text":"道高益安勢高益危","type":"concept","entity_id":"concept_018"},
+   {"start":73,"end":75,"text":"卜者","type":"concept","entity_id":"concept_000"},
+   {"start":89,"end":90,"text":"糈","type":"concept","entity_id":""},
+   {"start":119,"end":123,"text":"天冠地屨","type":"concept","entity_id":"concept_019"},
+   {"start":130,"end":132,"text":"老子","type":"person","entity_id":"person_009"},
+   {"start":139,"end":147,"text":"無名者萬物之始","type":"concept","entity_id":"concept_020"},
+   {"start":186,"end":188,"text":"曾氏","type":"person","entity_id":"person_010"}
+  ],
+  "p19":[
+   {"start":3,"end":5,"text":"宋忠","type":"person","entity_id":"person_001"},
+   {"start":8,"end":10,"text":"匈奴","type":"place","entity_id":"place_007"},
+   {"start":23,"end":25,"text":"抵罪","type":"event","entity_id":"event_017"},
+   {"start":29,"end":31,"text":"賈誼","type":"person","entity_id":"person_002"},
+   {"start":34,"end":38,"text":"梁懷王","type":"person","entity_id":"person_022"},
+   {"start":46,"end":47,"text":"王","type":"person","entity_id":"person_022"},
+   {"start":50,"end":52,"text":"墮馬","type":"event","entity_id":"event_017"},
+   {"start":54,"end":55,"text":"薨","type":"concept","entity_id":""},
+   {"start":60,"end":64,"text":"務華絕根","type":"concept","entity_id":"concept_013"}
+  ],
+  "p20":[
+   {"start":0,"end":3,"text":"太史公","type":"person","entity_id":"person_011"},
+   {"start":28,"end":32,"text":"司馬季主","type":"person","entity_id":"person_000"}
+  ],
+  "p21":[
+   {"start":0,"end":3,"text":"褚先生","type":"person","entity_id":"person_012"},
+   {"start":14,"end":15,"text":"郎","type":"concept","entity_id":"concept_035"},
+   {"start":22,"end":24,"text":"長安","type":"place","entity_id":"place_002"},
+   {"start":30,"end":32,"text":"卜筮","type":"concept","entity_id":"concept_001"},
+   {"start":123,"end":125,"text":"卜筮","type":"concept","entity_id":"concept_001"},
+   {"start":134,"end":138,"text":"司馬季主","type":"person","entity_id":"person_000"},
+   {"start":144,"end":145,"text":"楚","type":"place","entity_id":"place_004"},
+   {"start":157,"end":159,"text":"長安","type":"place","entity_id":"place_002"},
+   {"start":163,"end":165,"text":"易經","type":"concept","entity_id":""},
+   {"start":171,"end":173,"text":"黃帝","type":"person","entity_id":""},
+   {"start":175,"end":177,"text":"老子","type":"person","entity_id":"person_009"},
+   {"start":192,"end":196,"text":"二大夫","type":"person","entity_id":""},
+   {"start":226,"end":228,"text":"卜筮","type":"concept","entity_id":"concept_001"},
+   {"start":265,"end":267,"text":"黃直","type":"person","entity_id":"person_014"},
+   {"start":274,"end":277,"text":"陳君夫","type":"person","entity_id":"person_015"},
+   {"start":285,"end":287,"text":"相馬","type":"concept","entity_id":"concept_036"},
+   {"start":299,"end":301,"text":"張仲","type":"person","entity_id":"person_016"},
+   {"start":304,"end":307,"text":"曲成侯","type":"person","entity_id":"person_017"},
+   {"start":326,"end":329,"text":"留長孺","type":"person","entity_id":"person_018"},
+   {"start":333,"end":335,"text":"相彘","type":"concept","entity_id":"concept_036"},
+   {"start":342,"end":345,"text":"滎陽褚氏","type":"person","entity_id":"person_019"},
+   {"start":350,"end":352,"text":"相牛","type":"concept","entity_id":"concept_036"},
+   {"start":382,"end":384,"text":"伎能","type":"concept","entity_id":"concept_036"}
+  ],
+  "p22":[
+   {"start":0,"end":1,"text":"臣","type":"person","entity_id":"person_012"},
+   {"start":10,"end":12,"text":"太卜","type":"concept","entity_id":"concept_003"},
+   {"start":14,"end":16,"text":"待詔","type":"person","entity_id":"person_023"},
+   {"start":21,"end":22,"text":"郎","type":"concept","entity_id":"concept_035"},
+   {"start":31,"end":32,"text":"署","type":"place","entity_id":"place_012"},
+   {"start":43,"end":46,"text":"孝武帝","type":"person","entity_id":"person_013"},
+   {"start":54,"end":56,"text":"占家","type":"concept","entity_id":""},
+   {"start":78,"end":81,"text":"五行家","type":"concept","entity_id":"concept_027"},
+   {"start":88,"end":91,"text":"堪輿家","type":"concept","entity_id":"concept_028"},
+   {"start":98,"end":101,"text":"建除家","type":"concept","entity_id":"concept_029"},
+   {"start":109,"end":112,"text":"叢辰家","type":"concept","entity_id":"concept_030"},
+   {"start":120,"end":122,"text":"歷家","type":"concept","entity_id":""},
+   {"start":129,"end":132,"text":"天人家","type":"concept","entity_id":"concept_031"},
+   {"start":139,"end":142,"text":"太一家","type":"concept","entity_id":"concept_032"},
+   {"start":150,"end":152,"text":"辯訟","type":"concept","entity_id":""},
+   {"start":174,"end":175,"text":"制","type":"concept","entity_id":""},
+   {"start":187,"end":189,"text":"五行","type":"concept","entity_id":"concept_027"}
+  ],
+  "p23":[
+   {"start":0,"end":4,"text":"索隱述贊","type":"concept","entity_id":"concept_037"},
+   {"start":11,"end":13,"text":"日者","type":"concept","entity_id":"concept_000"},
+   {"start":26,"end":28,"text":"吉凶","type":"concept","entity_id":"concept_009"},
+   {"start":31,"end":33,"text":"占候","type":"concept","entity_id":"concept_002"},
+   {"start":40,"end":42,"text":"墨子","type":"person","entity_id":"person_003"},
+   {"start":50,"end":51,"text":"齊","type":"place","entity_id":"place_000"},
+   {"start":52,"end":53,"text":"楚","type":"place","entity_id":"place_004"},
+   {"start":73,"end":75,"text":"季主","type":"person","entity_id":"person_000"}
   ]
+ }
 }
