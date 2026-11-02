@@ -1,0 +1,7618 @@
+{
+ "book_id": "zizhitongjian",
+ "chapter_id": "zizhitongjian-0006",
+ "chapter_title": "卷第五・周纪五・赧王下",
+ "version": "定稿",
+ "generated_at": "2026-11-02",
+ "paragraphs": [
+  {
+   "para_id": "p0",
+   "text": "⟦0⟧",
+   "mentions": []
+  },
+  {
+   "para_id": "p1",
+   "text": "四十三年（己丑、前二七二年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p2",
+   "text": "1楚以左徒黃歇侍太子完爲質於秦。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P002",
+     "entity_name": "黄歇",
+     "entity_type": "person",
+     "start": 5,
+     "end": 7,
+     "surface": "黃歇"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 14,
+     "end": 15,
+     "surface": "秦"
+    }
+   ]
+  },
+  {
+   "para_id": "p3",
+   "text": "2秦置南陽郡。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "E001",
+     "entity_name": "秦置南阳郡",
+     "entity_type": "event",
+     "start": 1,
+     "end": 6,
+     "surface": "秦置南陽郡"
+    }
+   ]
+  },
+  {
+   "para_id": "p4",
+   "text": "3秦、魏、楚共伐燕。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 5,
+     "end": 6,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "燕",
+     "entity_type": "place",
+     "start": 8,
+     "end": 9,
+     "surface": "燕"
+    }
+   ]
+  },
+  {
+   "para_id": "p5",
+   "text": "4燕惠王薨，子武成王立。",
+   "mentions": [
+    {
+     "entity_id": "P008",
+     "entity_name": "燕惠王",
+     "entity_type": "person",
+     "start": 1,
+     "end": 4,
+     "surface": "燕惠王"
+    }
+   ]
+  },
+  {
+   "para_id": "p6",
+   "text": "四十四年（庚寅、前二七一年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p7",
+   "text": "1趙藺相如伐齊，至平邑。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P011",
+     "entity_name": "蔺相如",
+     "entity_type": "person",
+     "start": 2,
+     "end": 5,
+     "surface": "藺相如"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 6,
+     "end": 7,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L014",
+     "entity_name": "平邑",
+     "entity_type": "place",
+     "start": 9,
+     "end": 11,
+     "surface": "平邑"
+    }
+   ]
+  },
+  {
+   "para_id": "p8",
+   "text": "2趙田部吏趙奢收租稅，⟦0⟧平原君家不肯出；趙奢以法治之，殺平原君用事者九人。⟦1⟧平原君怒，將殺之。趙奢曰：「君於趙爲貴公子，今縱君家而不奉公則法削，法削則國弱，國弱則諸侯加兵，是無趙也。⟦2⟧君安得有此富乎！以君之貴，奉公如法則上下平，上下平則國強，國強則趙固，而君爲貴戚，豈輕於天下邪！」⟦3⟧平原君以爲賢，⟦4⟧言之於王。王使治國賦，國賦太平，民富而府庫實。⟦5⟧",
+   "mentions": [
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P012",
+     "entity_name": "赵奢",
+     "entity_type": "person",
+     "start": 5,
+     "end": 7,
+     "surface": "趙奢"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 14,
+     "end": 17,
+     "surface": "平原君"
+    },
+    {
+     "entity_id": "P012",
+     "entity_name": "赵奢",
+     "entity_type": "person",
+     "start": 22,
+     "end": 24,
+     "surface": "趙奢"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 30,
+     "end": 33,
+     "surface": "平原君"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 42,
+     "end": 45,
+     "surface": "平原君"
+    },
+    {
+     "entity_id": "P012",
+     "entity_name": "赵奢",
+     "entity_type": "person",
+     "start": 51,
+     "end": 53,
+     "surface": "趙奢"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 58,
+     "end": 59,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 92,
+     "end": 93,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 130,
+     "end": 131,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 150,
+     "end": 153,
+     "surface": "平原君"
+    }
+   ]
+  },
+  {
+   "para_id": "p9",
+   "text": "四十五年（辛卯、前二七〇年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p10",
+   "text": "1秦伐趙，圍閼與。⟦0⟧趙王召廉頗、樂乘而問之⟦1⟧曰：「可救否？」皆曰：「道遠險陿，難救。」⟦2⟧問趙奢，趙奢對曰：「道遠險陿，譬猶兩鼠鬬於穴中，將勇者勝。」⟦3⟧王乃令趙奢將兵救之。去邯鄲三十里而止，⟦4⟧令軍中曰：「有以軍事諫者死！」⟦5⟧",
+   "mentions": [
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L011",
+     "entity_name": "阏与",
+     "entity_type": "place",
+     "start": 6,
+     "end": 8,
+     "surface": "閼與"
+    },
+    {
+     "entity_id": "P026",
+     "entity_name": "赵孝成王",
+     "entity_type": "person",
+     "start": 12,
+     "end": 14,
+     "surface": "趙王"
+    },
+    {
+     "entity_id": "P014",
+     "entity_name": "廉颇",
+     "entity_type": "person",
+     "start": 15,
+     "end": 17,
+     "surface": "廉頗"
+    },
+    {
+     "entity_id": "P015",
+     "entity_name": "乐乘",
+     "entity_type": "person",
+     "start": 18,
+     "end": 20,
+     "surface": "樂乘"
+    },
+    {
+     "entity_id": "P012",
+     "entity_name": "赵奢",
+     "entity_type": "person",
+     "start": 51,
+     "end": 53,
+     "surface": "趙奢"
+    },
+    {
+     "entity_id": "P012",
+     "entity_name": "赵奢",
+     "entity_type": "person",
+     "start": 54,
+     "end": 56,
+     "surface": "趙奢"
+    },
+    {
+     "entity_id": "P012",
+     "entity_name": "赵奢",
+     "entity_type": "person",
+     "start": 86,
+     "end": 88,
+     "surface": "趙奢"
+    },
+    {
+     "entity_id": "L013",
+     "entity_name": "邯郸",
+     "entity_type": "place",
+     "start": 94,
+     "end": 96,
+     "surface": "邯鄲"
+    }
+   ]
+  },
+  {
+   "para_id": "p11",
+   "text": "秦師軍武安西，⟦0⟧鼓譟勒兵，武安屋瓦盡振。趙軍中候有一人言急救武安，趙奢立斬之。⟦1⟧堅璧二〔章：十二行本「璧」作「壁」；乙十一行本同；孔本同。十二行本「二」上有「留」字；乙十一行本同；孔本同；退齋校同。〕十八日不行，復益增壘。⟦2⟧秦間入趙軍，趙奢善食遣之。間以報秦將，⟦3⟧秦將大喜曰：「夫去國三十里而軍不行，乃增壘，閼與非趙地也！」趙奢旣已遣間，卷甲而趨，⟦4⟧一〔章：十二行本「一」作「二」；乙十一行本同。〕日一夜而至，去閼與五十里而軍，軍壘成，秦師聞之，悉甲而往。趙軍士許歷請以軍事諫，趙奢進之。⟦5⟧許歷曰：「秦人不意趙至此，其來氣盛，將軍必厚集其陳以待之；⟦6⟧不然，必敗。」趙奢曰：「請受敎！」許歷請刑，趙奢曰：「胥，後令邯鄲。」⟦7⟧許歷復請諫，曰：「先據北山上者勝，後至者敗。」趙奢許諾，卽發萬人趨之。秦師後至，爭山不得上；⟦8⟧趙奢縱兵擊秦師，秦師大敗，解閼與而還。⟦9⟧趙王封奢爲馬服君，⟦10⟧與廉、藺同位；以許歷爲國尉。",
+   "mentions": [
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 0,
+     "end": 1,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L012",
+     "entity_name": "武安",
+     "entity_type": "place",
+     "start": 3,
+     "end": 5,
+     "surface": "武安"
+    },
+    {
+     "entity_id": "L012",
+     "entity_name": "武安",
+     "entity_type": "place",
+     "start": 15,
+     "end": 17,
+     "surface": "武安"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 22,
+     "end": 23,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L012",
+     "entity_name": "武安",
+     "entity_type": "place",
+     "start": 32,
+     "end": 34,
+     "surface": "武安"
+    },
+    {
+     "entity_id": "P012",
+     "entity_name": "赵奢",
+     "entity_type": "person",
+     "start": 35,
+     "end": 37,
+     "surface": "趙奢"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 118,
+     "end": 119,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 121,
+     "end": 122,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P012",
+     "entity_name": "赵奢",
+     "entity_type": "person",
+     "start": 124,
+     "end": 126,
+     "surface": "趙奢"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 134,
+     "end": 135,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 140,
+     "end": 141,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L011",
+     "entity_name": "阏与",
+     "entity_type": "place",
+     "start": 162,
+     "end": 164,
+     "surface": "閼與"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 165,
+     "end": 166,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P012",
+     "entity_name": "赵奢",
+     "entity_type": "person",
+     "start": 170,
+     "end": 172,
+     "surface": "趙奢"
+    },
+    {
+     "entity_id": "L011",
+     "entity_name": "阏与",
+     "entity_type": "place",
+     "start": 216,
+     "end": 218,
+     "surface": "閼與"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 228,
+     "end": 229,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 238,
+     "end": 239,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P016",
+     "entity_name": "许历",
+     "entity_type": "person",
+     "start": 241,
+     "end": 243,
+     "surface": "許歷"
+    },
+    {
+     "entity_id": "P012",
+     "entity_name": "赵奢",
+     "entity_type": "person",
+     "start": 249,
+     "end": 251,
+     "surface": "趙奢"
+    },
+    {
+     "entity_id": "P016",
+     "entity_name": "许历",
+     "entity_type": "person",
+     "start": 257,
+     "end": 259,
+     "surface": "許歷"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 262,
+     "end": 263,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 266,
+     "end": 267,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P012",
+     "entity_name": "赵奢",
+     "entity_type": "person",
+     "start": 296,
+     "end": 298,
+     "surface": "趙奢"
+    },
+    {
+     "entity_id": "P016",
+     "entity_name": "许历",
+     "entity_type": "person",
+     "start": 306,
+     "end": 308,
+     "surface": "許歷"
+    },
+    {
+     "entity_id": "P012",
+     "entity_name": "赵奢",
+     "entity_type": "person",
+     "start": 311,
+     "end": 313,
+     "surface": "趙奢"
+    },
+    {
+     "entity_id": "L013",
+     "entity_name": "邯郸",
+     "entity_type": "place",
+     "start": 320,
+     "end": 322,
+     "surface": "邯鄲"
+    },
+    {
+     "entity_id": "P016",
+     "entity_name": "许历",
+     "entity_type": "person",
+     "start": 327,
+     "end": 329,
+     "surface": "許歷"
+    },
+    {
+     "entity_id": "P012",
+     "entity_name": "赵奢",
+     "entity_type": "person",
+     "start": 350,
+     "end": 352,
+     "surface": "趙奢"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 362,
+     "end": 363,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P012",
+     "entity_name": "赵奢",
+     "entity_type": "person",
+     "start": 376,
+     "end": 378,
+     "surface": "趙奢"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 381,
+     "end": 382,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 384,
+     "end": 385,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L011",
+     "entity_name": "阏与",
+     "entity_type": "place",
+     "start": 390,
+     "end": 392,
+     "surface": "閼與"
+    },
+    {
+     "entity_id": "P026",
+     "entity_name": "赵孝成王",
+     "entity_type": "person",
+     "start": 398,
+     "end": 400,
+     "surface": "趙王"
+    },
+    {
+     "entity_id": "P012",
+     "entity_name": "赵奢",
+     "entity_type": "person",
+     "start": 403,
+     "end": 406,
+     "surface": "馬服君"
+    },
+    {
+     "entity_id": "P016",
+     "entity_name": "许历",
+     "entity_type": "person",
+     "start": 419,
+     "end": 421,
+     "surface": "許歷"
+    }
+   ]
+  },
+  {
+   "para_id": "p12",
+   "text": "2穰侯言客卿竈於秦王，⟦0⟧使伐齊，取剛、壽以廣其陶邑。⟦1⟧",
+   "mentions": [
+    {
+     "entity_id": "P017",
+     "entity_name": "穰侯",
+     "entity_type": "person",
+     "start": 1,
+     "end": 3,
+     "surface": "穰侯"
+    },
+    {
+     "entity_id": "C003",
+     "entity_name": "客卿",
+     "entity_type": "concept",
+     "start": 4,
+     "end": 6,
+     "surface": "客卿"
+    },
+    {
+     "entity_id": "P019",
+     "entity_name": "秦昭襄王",
+     "entity_type": "person",
+     "start": 8,
+     "end": 10,
+     "surface": "秦王"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 16,
+     "end": 17,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L015",
+     "entity_name": "刚",
+     "entity_type": "place",
+     "start": 19,
+     "end": 20,
+     "surface": "剛"
+    },
+    {
+     "entity_id": "L016",
+     "entity_name": "寿",
+     "entity_type": "place",
+     "start": 21,
+     "end": 22,
+     "surface": "壽"
+    },
+    {
+     "entity_id": "L017",
+     "entity_name": "陶",
+     "entity_type": "place",
+     "start": 25,
+     "end": 26,
+     "surface": "陶"
+    }
+   ]
+  },
+  {
+   "para_id": "p13",
+   "text": "初，魏人范睢⟦0⟧從中大夫須賈使於齊，⟦1⟧齊襄王聞其辯口，私賜之金及牛、酒。須賈以爲睢以國陰事告齊也，歸而告其相魏齊。魏齊怒，笞擊范睢，折脅，摺齒。睢佯死，卷以簀，置廁中，使客醉者更溺之，⟦2⟧以懲後，令無妄言者。⟦3⟧范睢謂守者曰：「能出我，我必有厚謝。」守者乃請棄簀中死人。魏齊醉，曰：「可矣。」范睢得出。魏齊悔，復召求之。⟦4⟧魏人鄭安平遂操范睢亡匿，更姓名曰張祿。⟦5⟧",
+   "mentions": [
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 2,
+     "end": 3,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 4,
+     "end": 6,
+     "surface": "范睢"
+    },
+    {
+     "entity_id": "P020",
+     "entity_name": "须贾",
+     "entity_type": "person",
+     "start": 13,
+     "end": 15,
+     "surface": "須賈"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 17,
+     "end": 18,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P005",
+     "entity_name": "齐襄王",
+     "entity_type": "person",
+     "start": 22,
+     "end": 25,
+     "surface": "齊襄王"
+    },
+    {
+     "entity_id": "P020",
+     "entity_name": "须贾",
+     "entity_type": "person",
+     "start": 39,
+     "end": 41,
+     "surface": "須賈"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 49,
+     "end": 50,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P021",
+     "entity_name": "魏齐",
+     "entity_type": "person",
+     "start": 57,
+     "end": 59,
+     "surface": "魏齊"
+    },
+    {
+     "entity_id": "P021",
+     "entity_name": "魏齐",
+     "entity_type": "person",
+     "start": 60,
+     "end": 62,
+     "surface": "魏齊"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 66,
+     "end": 68,
+     "surface": "范睢"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 111,
+     "end": 113,
+     "surface": "范睢"
+    },
+    {
+     "entity_id": "P021",
+     "entity_name": "魏齐",
+     "entity_type": "person",
+     "start": 140,
+     "end": 142,
+     "surface": "魏齊"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 151,
+     "end": 153,
+     "surface": "范睢"
+    },
+    {
+     "entity_id": "P021",
+     "entity_name": "魏齐",
+     "entity_type": "person",
+     "start": 156,
+     "end": 158,
+     "surface": "魏齊"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 168,
+     "end": 169,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P022",
+     "entity_name": "郑安平",
+     "entity_type": "person",
+     "start": 170,
+     "end": 173,
+     "surface": "鄭安平"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 175,
+     "end": 177,
+     "surface": "范睢"
+    }
+   ]
+  },
+  {
+   "para_id": "p14",
+   "text": "秦謁者王稽使於魏，⟦0⟧范睢夜見王稽。稽潛載與俱歸，薦之於王，王見之於離宮。⟦1⟧范睢佯爲不知永巷而入其中，⟦2⟧王來而宦者怒逐之，曰：「王至！」范睢謬曰：「秦安得王，秦獨有太后、穰侯耳！」⟦3⟧王微聞其言，乃屛左右，跽而請曰：「先生何以幸敎寡人？」對曰：「唯唯。」如是者三。⟦4⟧王曰：「先生卒不幸敎寡人邪？」⟦5⟧范睢曰：「非敢然也！⟦6⟧臣，羇旅之臣也，交疏於王，而所願陳者皆匡君之事，處人骨肉之間，⟦7⟧願效愚忠而未知王之心也，此所以王三問而不敢對者也。臣知今日言之於前，明日伏誅於後，然臣不敢避也。且死者，人之所必不免也，苟可以少有補於秦而死，此臣之所大願也。⟦8⟧獨恐臣死之後，天下杜口裹足，莫肯鄕秦耳。」⟦9⟧王跽曰：「先生，是何言也！今者寡人得見先生，是天以寡人溷先生而存先王之宗廟也。⟦10⟧事無大小，上及太后，下至大臣，願先生悉以敎寡人，無疑寡人也！」范睢拜，王亦拜。范睢曰：「以秦國之大，士卒之勇，以治諸侯，譬若走韓盧而博蹇兔也，⟦11⟧而閉關十五年，不敢窺兵於山東者，是穰侯爲秦謀不忠，而大王之計亦有所失也。」⟦12⟧王跽曰：「寡人願聞失計！」然左右多竊聽者，范睢未敢言內，先言外事，以觀王之俯仰。因進曰：「夫穰侯越韓、魏而攻齊剛、壽，非計也。⟦13⟧齊湣王南攻楚，破軍殺將，⟦14⟧再辟地千里，⟦15⟧而齊尺寸之地無得焉者，豈不欲得地哉？形勢不能有也。諸侯見齊之罷敝，起兵而伐齊，大破之，齊幾於亡，⟦16⟧以其伐楚而肥韓、魏也。今王不如遠交而近攻，得寸則王之寸也，得尺亦王之尺也。今夫韓、魏，中國之處⟦17⟧而天下之樞也。⟦18⟧王若用〔章：十二行本「用」作「欲」；乙十一行本同；孔本同，退齋校同。〕霸，必親中國以爲天下樞，以威楚、趙，⟦19⟧楚強則附趙，趙強則附楚，⟦20⟧楚、趙皆附，齊必懼矣，齊附則韓、魏因可虜也。」王曰：「善。」乃以范睢爲客卿，與謀兵事。⟦21⟧",
+   "mentions": [
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 0,
+     "end": 1,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P023",
+     "entity_name": "王稽",
+     "entity_type": "person",
+     "start": 3,
+     "end": 5,
+     "surface": "王稽"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 7,
+     "end": 8,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 12,
+     "end": 14,
+     "surface": "范睢"
+    },
+    {
+     "entity_id": "P023",
+     "entity_name": "王稽",
+     "entity_type": "person",
+     "start": 16,
+     "end": 18,
+     "surface": "王稽"
+    },
+    {
+     "entity_id": "L020",
+     "entity_name": "离宫",
+     "entity_type": "place",
+     "start": 35,
+     "end": 37,
+     "surface": "離宮"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 41,
+     "end": 43,
+     "surface": "范睢"
+    },
+    {
+     "entity_id": "L052",
+     "entity_name": "永巷",
+     "entity_type": "place",
+     "start": 47,
+     "end": 49,
+     "surface": "永巷"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 73,
+     "end": 75,
+     "surface": "范睢"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 79,
+     "end": 80,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 84,
+     "end": 85,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P017",
+     "entity_name": "穰侯",
+     "entity_type": "person",
+     "start": 90,
+     "end": 92,
+     "surface": "穰侯"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 159,
+     "end": 161,
+     "surface": "范睢"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 273,
+     "end": 274,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 305,
+     "end": 306,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 386,
+     "end": 388,
+     "surface": "范睢"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 394,
+     "end": 396,
+     "surface": "范睢"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 400,
+     "end": 401,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 418,
+     "end": 419,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L051",
+     "entity_name": "山东",
+     "entity_type": "place",
+     "start": 442,
+     "end": 444,
+     "surface": "山東"
+    },
+    {
+     "entity_id": "P017",
+     "entity_name": "穰侯",
+     "entity_type": "person",
+     "start": 447,
+     "end": 449,
+     "surface": "穰侯"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 450,
+     "end": 451,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 492,
+     "end": 494,
+     "surface": "范睢"
+    },
+    {
+     "entity_id": "P017",
+     "entity_name": "穰侯",
+     "entity_type": "person",
+     "start": 517,
+     "end": 519,
+     "surface": "穰侯"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 520,
+     "end": 521,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 522,
+     "end": 523,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 525,
+     "end": 526,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P069",
+     "entity_name": "齐湣王",
+     "entity_type": "person",
+     "start": 538,
+     "end": 541,
+     "surface": "齊湣王"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 543,
+     "end": 544,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 565,
+     "end": 566,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 592,
+     "end": 593,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 601,
+     "end": 602,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 607,
+     "end": 608,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 619,
+     "end": 620,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 622,
+     "end": 623,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 624,
+     "end": 625,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 655,
+     "end": 656,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 657,
+     "end": 658,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 727,
+     "end": 728,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 729,
+     "end": 730,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 735,
+     "end": 736,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 739,
+     "end": 740,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 741,
+     "end": 742,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 745,
+     "end": 746,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 751,
+     "end": 752,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 753,
+     "end": 754,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 757,
+     "end": 758,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 762,
+     "end": 763,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 765,
+     "end": 766,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 767,
+     "end": 768,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 783,
+     "end": 785,
+     "surface": "范睢"
+    },
+    {
+     "entity_id": "C003",
+     "entity_name": "客卿",
+     "entity_type": "concept",
+     "start": 786,
+     "end": 788,
+     "surface": "客卿"
+    }
+   ]
+  },
+  {
+   "para_id": "p15",
+   "text": "四十六年（壬辰、前二六九年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p16",
+   "text": "1秦中更胡傷攻趙閼與，不拔。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 7,
+     "end": 8,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L011",
+     "entity_name": "阏与",
+     "entity_type": "place",
+     "start": 8,
+     "end": 10,
+     "surface": "閼與"
+    }
+   ]
+  },
+  {
+   "para_id": "p17",
+   "text": "四十七年（癸巳、前二六八年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p18",
+   "text": "1秦王用范睢之謀，使五大夫綰伐魏，拔懷。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "P019",
+     "entity_name": "秦昭襄王",
+     "entity_type": "person",
+     "start": 1,
+     "end": 3,
+     "surface": "秦王"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 4,
+     "end": 6,
+     "surface": "范睢"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 15,
+     "end": 16,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L018",
+     "entity_name": "怀",
+     "entity_type": "place",
+     "start": 18,
+     "end": 19,
+     "surface": "懷"
+    }
+   ]
+  },
+  {
+   "para_id": "p19",
+   "text": "四十八年（甲午、前二六七年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p20",
+   "text": "1秦悼太子質於魏而卒。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "P036",
+     "entity_name": "秦悼太子",
+     "entity_type": "person",
+     "start": 1,
+     "end": 5,
+     "surface": "秦悼太子"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 7,
+     "end": 8,
+     "surface": "魏"
+    }
+   ]
+  },
+  {
+   "para_id": "p21",
+   "text": "四十九年（乙未、前二六六年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p22",
+   "text": "1秦拔魏邢丘。范睢日益親，用事，因承間說王曰：⟦0⟧「臣居山東時，聞齊之有孟嘗君，不聞有王；聞秦有太后、穰侯，不聞有王。夫擅國之謂王，能利害之謂王，制殺生之謂王。今太后擅行不顧，穰侯出使不報，華陽、涇陽擊斷無諱，⟦1⟧高陵進退不請，四貴備而國不危者，未之有也。爲此四貴者下，乃所謂無王也。穰侯使者操王之重，決制於諸侯，剖符於天下，⟦2⟧征敵伐國，莫敢不聽；戰勝攻取則利歸於陶，⟦3⟧戰敗則結怨於百姓而禍歸於社稷。臣又聞之，木實繁者披其枝，披其枝者傷其心；大其都者危其國，⟦4⟧尊其臣者卑其主。⟦5⟧淖齒管齊，射王股，擢王筋，懸之於廟梁，宿昔而死。⟦6⟧李兌管趙，囚主父於沙丘，百日而餓死。⟦7⟧今臣觀四貴之用事，此亦淖齒、李兌之類也。夫三代之所以亡國者，君專授政於臣，縱酒弋獵；其所授者妬賢疾能，御下蔽上以成其私，不爲主計，而主不覺悟，故失其國。⟦8⟧今自有秩以上至諸大吏，⟦9⟧下及王左右，無非相國之人者，見王獨立於朝，臣竊爲王恐，萬世之後有秦國者，非王子孫也！」⟦10⟧王以爲然，於是廢太后，逐穰侯、高陵、華陽、涇陽君於關外，以范睢爲丞相，封爲應侯。⟦11⟧",
+   "mentions": [
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L019",
+     "entity_name": "邢丘",
+     "entity_type": "place",
+     "start": 4,
+     "end": 6,
+     "surface": "邢丘"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 7,
+     "end": 9,
+     "surface": "范睢"
+    },
+    {
+     "entity_id": "L051",
+     "entity_name": "山东",
+     "entity_type": "place",
+     "start": 29,
+     "end": 31,
+     "surface": "山東"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 34,
+     "end": 35,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P068",
+     "entity_name": "孟尝君",
+     "entity_type": "person",
+     "start": 37,
+     "end": 40,
+     "surface": "孟嘗君"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 47,
+     "end": 48,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P017",
+     "entity_name": "穰侯",
+     "entity_type": "person",
+     "start": 52,
+     "end": 54,
+     "surface": "穰侯"
+    },
+    {
+     "entity_id": "P017",
+     "entity_name": "穰侯",
+     "entity_type": "person",
+     "start": 89,
+     "end": 91,
+     "surface": "穰侯"
+    },
+    {
+     "entity_id": "P079",
+     "entity_name": "华阳君",
+     "entity_type": "person",
+     "start": 96,
+     "end": 98,
+     "surface": "華陽"
+    },
+    {
+     "entity_id": "P080",
+     "entity_name": "泾阳君",
+     "entity_type": "person",
+     "start": 99,
+     "end": 101,
+     "surface": "涇陽"
+    },
+    {
+     "entity_id": "P081",
+     "entity_name": "高陵君",
+     "entity_type": "person",
+     "start": 109,
+     "end": 111,
+     "surface": "高陵"
+    },
+    {
+     "entity_id": "C017",
+     "entity_name": "四贵",
+     "entity_type": "concept",
+     "start": 116,
+     "end": 118,
+     "surface": "四貴"
+    },
+    {
+     "entity_id": "C017",
+     "entity_name": "四贵",
+     "entity_type": "concept",
+     "start": 132,
+     "end": 134,
+     "surface": "四貴"
+    },
+    {
+     "entity_id": "P017",
+     "entity_name": "穰侯",
+     "entity_type": "person",
+     "start": 144,
+     "end": 146,
+     "surface": "穰侯"
+    },
+    {
+     "entity_id": "L017",
+     "entity_name": "陶",
+     "entity_type": "place",
+     "start": 186,
+     "end": 187,
+     "surface": "陶"
+    },
+    {
+     "entity_id": "P082",
+     "entity_name": "淖齿",
+     "entity_type": "person",
+     "start": 249,
+     "end": 251,
+     "surface": "淖齒"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 252,
+     "end": 253,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P083",
+     "entity_name": "李兑",
+     "entity_type": "person",
+     "start": 276,
+     "end": 278,
+     "surface": "李兌"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 279,
+     "end": 280,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "C017",
+     "entity_name": "四贵",
+     "entity_type": "concept",
+     "start": 300,
+     "end": 302,
+     "surface": "四貴"
+    },
+    {
+     "entity_id": "P082",
+     "entity_name": "淖齿",
+     "entity_type": "person",
+     "start": 308,
+     "end": 310,
+     "surface": "淖齒"
+    },
+    {
+     "entity_id": "P083",
+     "entity_name": "李兑",
+     "entity_type": "person",
+     "start": 311,
+     "end": 313,
+     "surface": "李兌"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 422,
+     "end": 423,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P017",
+     "entity_name": "穰侯",
+     "entity_type": "person",
+     "start": 449,
+     "end": 451,
+     "surface": "穰侯"
+    },
+    {
+     "entity_id": "P081",
+     "entity_name": "高陵君",
+     "entity_type": "person",
+     "start": 452,
+     "end": 454,
+     "surface": "高陵"
+    },
+    {
+     "entity_id": "P079",
+     "entity_name": "华阳君",
+     "entity_type": "person",
+     "start": 455,
+     "end": 457,
+     "surface": "華陽"
+    },
+    {
+     "entity_id": "P080",
+     "entity_name": "泾阳君",
+     "entity_type": "person",
+     "start": 458,
+     "end": 461,
+     "surface": "涇陽君"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 466,
+     "end": 468,
+     "surface": "范睢"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 474,
+     "end": 476,
+     "surface": "應侯"
+    }
+   ]
+  },
+  {
+   "para_id": "p23",
+   "text": "魏王使須賈聘於秦，應侯敝衣間步而往見之。⟦0⟧須賈驚曰：「范叔固無恙乎！」⟦1⟧留坐飲食，取一綈袍贈之。⟦2⟧遂爲須賈御而至相府，曰：「我爲君先入通於相君。」須賈怪其久不出，問於門下，門下曰：「無范叔；鄕者吾相張君也。」⟦3⟧須賈知見欺，乃膝行入謝罪。⟦4⟧應侯坐，責讓之，且曰：「爾所以得不死者，以綈袍戀戀尙有故人之意耳！」乃大供具，請諸侯賓客；坐須賈於堂下，置莝、豆於前而馬食之，⟦5⟧使歸告魏王曰：「速斬魏齊頭來，不然，且屠大梁！」⟦6⟧須賈還，以告魏齊。魏齊奔趙，匿於平原君家。⟦7⟧",
+   "mentions": [
+    {
+     "entity_id": "P066",
+     "entity_name": "魏王",
+     "entity_type": "person",
+     "start": 0,
+     "end": 2,
+     "surface": "魏王"
+    },
+    {
+     "entity_id": "P020",
+     "entity_name": "须贾",
+     "entity_type": "person",
+     "start": 3,
+     "end": 5,
+     "surface": "須賈"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 7,
+     "end": 8,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 9,
+     "end": 11,
+     "surface": "應侯"
+    },
+    {
+     "entity_id": "P020",
+     "entity_name": "须贾",
+     "entity_type": "person",
+     "start": 23,
+     "end": 25,
+     "surface": "須賈"
+    },
+    {
+     "entity_id": "C010",
+     "entity_name": "绨袍之赠",
+     "entity_type": "concept",
+     "start": 47,
+     "end": 49,
+     "surface": "綈袍"
+    },
+    {
+     "entity_id": "P020",
+     "entity_name": "须贾",
+     "entity_type": "person",
+     "start": 57,
+     "end": 59,
+     "surface": "須賈"
+    },
+    {
+     "entity_id": "P020",
+     "entity_name": "须贾",
+     "entity_type": "person",
+     "start": 79,
+     "end": 81,
+     "surface": "須賈"
+    },
+    {
+     "entity_id": "P020",
+     "entity_name": "须贾",
+     "entity_type": "person",
+     "start": 113,
+     "end": 115,
+     "surface": "須賈"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 129,
+     "end": 131,
+     "surface": "應侯"
+    },
+    {
+     "entity_id": "C010",
+     "entity_name": "绨袍之赠",
+     "entity_type": "concept",
+     "start": 150,
+     "end": 152,
+     "surface": "綈袍"
+    },
+    {
+     "entity_id": "P020",
+     "entity_name": "须贾",
+     "entity_type": "person",
+     "start": 175,
+     "end": 177,
+     "surface": "須賈"
+    },
+    {
+     "entity_id": "P066",
+     "entity_name": "魏王",
+     "entity_type": "person",
+     "start": 198,
+     "end": 200,
+     "surface": "魏王"
+    },
+    {
+     "entity_id": "P021",
+     "entity_name": "魏齐",
+     "entity_type": "person",
+     "start": 205,
+     "end": 207,
+     "surface": "魏齊"
+    },
+    {
+     "entity_id": "L036",
+     "entity_name": "大梁",
+     "entity_type": "place",
+     "start": 215,
+     "end": 217,
+     "surface": "大梁"
+    },
+    {
+     "entity_id": "P020",
+     "entity_name": "须贾",
+     "entity_type": "person",
+     "start": 222,
+     "end": 224,
+     "surface": "須賈"
+    },
+    {
+     "entity_id": "P021",
+     "entity_name": "魏齐",
+     "entity_type": "person",
+     "start": 228,
+     "end": 230,
+     "surface": "魏齊"
+    },
+    {
+     "entity_id": "P021",
+     "entity_name": "魏齐",
+     "entity_type": "person",
+     "start": 231,
+     "end": 233,
+     "surface": "魏齊"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 234,
+     "end": 235,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 238,
+     "end": 241,
+     "surface": "平原君"
+    }
+   ]
+  },
+  {
+   "para_id": "p24",
+   "text": "2趙惠文王薨，子孝成王丹立；以平原君爲相。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "P025",
+     "entity_name": "赵惠文王",
+     "entity_type": "person",
+     "start": 1,
+     "end": 5,
+     "surface": "趙惠文王"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 15,
+     "end": 18,
+     "surface": "平原君"
+    }
+   ]
+  },
+  {
+   "para_id": "p25",
+   "text": "五十年（丙申、前二六五年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p26",
+   "text": "1秦宣太后薨。九月，穰侯出之陶。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "P024",
+     "entity_name": "秦宣太后",
+     "entity_type": "person",
+     "start": 1,
+     "end": 5,
+     "surface": "秦宣太后"
+    },
+    {
+     "entity_id": "P017",
+     "entity_name": "穰侯",
+     "entity_type": "person",
+     "start": 10,
+     "end": 12,
+     "surface": "穰侯"
+    },
+    {
+     "entity_id": "L017",
+     "entity_name": "陶",
+     "entity_type": "place",
+     "start": 14,
+     "end": 15,
+     "surface": "陶"
+    }
+   ]
+  },
+  {
+   "para_id": "p27",
+   "text": "臣光曰：穰侯援立昭王，除其災害；⟦0⟧薦白起爲將，⟦1⟧南取鄢、郢，東屬地於齊，⟦2⟧使天下諸侯稽首而事秦，⟦3⟧秦益強大者，穰侯之功也。雖其專恣驕貪足以賈禍，⟦4⟧亦未至盡如范睢之言。若睢者，亦非能爲秦忠謀，直欲得穰侯之處，故搤其吭而奪之耳。⟦5⟧遂使秦王絕母子之義，失舅甥之恩。要之，睢眞傾危之士哉！",
+   "mentions": [
+    {
+     "entity_id": "P017",
+     "entity_name": "穰侯",
+     "entity_type": "person",
+     "start": 4,
+     "end": 6,
+     "surface": "穰侯"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 20,
+     "end": 22,
+     "surface": "白起"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 38,
+     "end": 39,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 52,
+     "end": 53,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 57,
+     "end": 58,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P017",
+     "entity_name": "穰侯",
+     "entity_type": "person",
+     "start": 63,
+     "end": 65,
+     "surface": "穰侯"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 88,
+     "end": 90,
+     "surface": "范睢"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 101,
+     "end": 102,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P017",
+     "entity_name": "穰侯",
+     "entity_type": "person",
+     "start": 108,
+     "end": 110,
+     "surface": "穰侯"
+    },
+    {
+     "entity_id": "P019",
+     "entity_name": "秦昭襄王",
+     "entity_type": "person",
+     "start": 127,
+     "end": 129,
+     "surface": "秦王"
+    }
+   ]
+  },
+  {
+   "para_id": "p28",
+   "text": "2秦王以子安國君爲太子。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "P019",
+     "entity_name": "秦昭襄王",
+     "entity_type": "person",
+     "start": 1,
+     "end": 3,
+     "surface": "秦王"
+    },
+    {
+     "entity_id": "P031",
+     "entity_name": "安国君",
+     "entity_type": "person",
+     "start": 5,
+     "end": 8,
+     "surface": "安國君"
+    }
+   ]
+  },
+  {
+   "para_id": "p29",
+   "text": "3秦伐趙，取三城。趙王新立，太后用事，求救於齊。齊人曰：「必以長安君爲質。」⟦0⟧太后不可。齊師不出，大臣強諫。⟦1⟧太后明謂左右曰：「復言長安君爲質者，老婦必唾其面！」⟦2⟧左師觸龍願見太后，太后盛氣而胥之入。⟦3⟧左師公徐趨而坐，自謝曰：「老臣病足，不得見久矣，竊自恕；而恐太后體之有所苦也，故願望見太后。」太后曰：「老婦恃輦而行。」曰：「食得毋衰乎？」曰：「恃粥耳。」太后不和之色稍解。左師公曰：「老臣賤息舒祺，⟦4⟧最少，不肖，而臣衰，竊憐愛之，願得補黑衣之缺以衞王宮，昧死以聞！」⟦5⟧太后曰：「諾。年幾何矣？」對曰：「十五歲矣。雖少，願及未塡溝壑而託之。」⟦6⟧太后曰：「丈夫亦愛少子乎？」對曰：「甚於婦人。」太后笑曰：「婦人異甚。」對曰：「老臣竊以爲媼之愛燕后賢於長安君。」⟦7⟧太后曰：「君過矣！不若長安君之甚。」左師公曰：「父母愛其子則爲之計深遠。媼之送燕后也，持其踵而泣，念其遠也，亦哀之矣。已行，非不思也，祭祀則祝之曰：『必勿使反！』豈非爲之計長久，爲子孫相繼爲王也哉？」太后曰：「然。」左師公曰：「今三世以前，至於趙王之子孫爲侯者，其繼有在者乎？」曰：「無有。」曰：「此其近者禍及身，遠者及其子孫。豈人主之子侯則不善哉？位尊而無功，奉厚而無勞，⟦8⟧而挾重器多也。今媼尊長安君之位，而封之以膏腴之地，多與之重器，而不及今令有功於國，⟦9⟧一旦山陵崩，長安君何以自託於趙哉？」太后曰：「諾，恣君之所使之！」於是爲長安君約車百乘質於齊。⟦10⟧齊師乃出，秦師退。",
+   "mentions": [
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P026",
+     "entity_name": "赵孝成王",
+     "entity_type": "person",
+     "start": 9,
+     "end": 11,
+     "surface": "趙王"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 22,
+     "end": 23,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 24,
+     "end": 25,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P029",
+     "entity_name": "长安君",
+     "entity_type": "person",
+     "start": 31,
+     "end": 34,
+     "surface": "長安君"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 46,
+     "end": 47,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P029",
+     "entity_name": "长安君",
+     "entity_type": "person",
+     "start": 70,
+     "end": 73,
+     "surface": "長安君"
+    },
+    {
+     "entity_id": "P028",
+     "entity_name": "触龙",
+     "entity_type": "person",
+     "start": 88,
+     "end": 90,
+     "surface": "左師"
+    },
+    {
+     "entity_id": "P028",
+     "entity_name": "触龙",
+     "entity_type": "person",
+     "start": 90,
+     "end": 92,
+     "surface": "觸龍"
+    },
+    {
+     "entity_id": "P028",
+     "entity_name": "触龙",
+     "entity_type": "person",
+     "start": 109,
+     "end": 111,
+     "surface": "左師"
+    },
+    {
+     "entity_id": "P028",
+     "entity_name": "触龙",
+     "entity_type": "person",
+     "start": 196,
+     "end": 198,
+     "surface": "左師"
+    },
+    {
+     "entity_id": "P030",
+     "entity_name": "燕后",
+     "entity_type": "person",
+     "start": 335,
+     "end": 337,
+     "surface": "燕后"
+    },
+    {
+     "entity_id": "P029",
+     "entity_name": "长安君",
+     "entity_type": "person",
+     "start": 339,
+     "end": 342,
+     "surface": "長安君"
+    },
+    {
+     "entity_id": "P029",
+     "entity_name": "长安君",
+     "entity_type": "person",
+     "start": 358,
+     "end": 361,
+     "surface": "長安君"
+    },
+    {
+     "entity_id": "P028",
+     "entity_name": "触龙",
+     "entity_type": "person",
+     "start": 365,
+     "end": 367,
+     "surface": "左師"
+    },
+    {
+     "entity_id": "P030",
+     "entity_name": "燕后",
+     "entity_type": "person",
+     "start": 386,
+     "end": 388,
+     "surface": "燕后"
+    },
+    {
+     "entity_id": "P028",
+     "entity_name": "触龙",
+     "entity_type": "person",
+     "start": 455,
+     "end": 457,
+     "surface": "左師"
+    },
+    {
+     "entity_id": "P026",
+     "entity_name": "赵孝成王",
+     "entity_type": "person",
+     "start": 469,
+     "end": 471,
+     "surface": "趙王"
+    },
+    {
+     "entity_id": "P029",
+     "entity_name": "长安君",
+     "entity_type": "person",
+     "start": 547,
+     "end": 550,
+     "surface": "長安君"
+    },
+    {
+     "entity_id": "P029",
+     "entity_name": "长安君",
+     "entity_type": "person",
+     "start": 587,
+     "end": 590,
+     "surface": "長安君"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 595,
+     "end": 596,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P029",
+     "entity_name": "长安君",
+     "entity_type": "person",
+     "start": 617,
+     "end": 620,
+     "surface": "長安君"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 626,
+     "end": 627,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 632,
+     "end": 633,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 637,
+     "end": 638,
+     "surface": "秦"
+    }
+   ]
+  },
+  {
+   "para_id": "p30",
+   "text": "4齊安平君田單將趙師以伐燕，取中陽；⟦0⟧又伐韓，取注人。⟦1⟧",
+   "mentions": [
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P078",
+     "entity_name": "田单",
+     "entity_type": "person",
+     "start": 2,
+     "end": 5,
+     "surface": "安平君"
+    },
+    {
+     "entity_id": "P078",
+     "entity_name": "田单",
+     "entity_type": "person",
+     "start": 5,
+     "end": 7,
+     "surface": "田單"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 8,
+     "end": 9,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "燕",
+     "entity_type": "place",
+     "start": 12,
+     "end": 13,
+     "surface": "燕"
+    },
+    {
+     "entity_id": "L025",
+     "entity_name": "中阳",
+     "entity_type": "place",
+     "start": 15,
+     "end": 17,
+     "surface": "中陽"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 23,
+     "end": 24,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L026",
+     "entity_name": "注人",
+     "entity_type": "place",
+     "start": 26,
+     "end": 28,
+     "surface": "注人"
+    }
+   ]
+  },
+  {
+   "para_id": "p31",
+   "text": "5齊襄王薨，子建立。建年少，國事皆決於君王后。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "P005",
+     "entity_name": "齐襄王",
+     "entity_type": "person",
+     "start": 1,
+     "end": 4,
+     "surface": "齊襄王"
+    },
+    {
+     "entity_id": "P007",
+     "entity_name": "君王后",
+     "entity_type": "person",
+     "start": 19,
+     "end": 22,
+     "surface": "君王后"
+    }
+   ]
+  },
+  {
+   "para_id": "p32",
+   "text": "五十一年（丁酉、前二六四年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p33",
+   "text": "1秦武安君伐韓，拔九城，斬首五萬。",
+   "mentions": [
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 2,
+     "end": 5,
+     "surface": "武安君"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 6,
+     "end": 7,
+     "surface": "韓"
+    }
+   ]
+  },
+  {
+   "para_id": "p34",
+   "text": "2田單爲趙相。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "P078",
+     "entity_name": "田单",
+     "entity_type": "person",
+     "start": 1,
+     "end": 3,
+     "surface": "田單"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 4,
+     "end": 5,
+     "surface": "趙"
+    }
+   ]
+  },
+  {
+   "para_id": "p35",
+   "text": "五十二年（戊戌、前二六三年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p36",
+   "text": "1秦武安君伐韓，取南陽；攻太行道，絕之。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 2,
+     "end": 5,
+     "surface": "武安君"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 6,
+     "end": 7,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L010",
+     "entity_name": "南阳",
+     "entity_type": "place",
+     "start": 9,
+     "end": 11,
+     "surface": "南陽"
+    },
+    {
+     "entity_id": "L050",
+     "entity_name": "太行道",
+     "entity_type": "place",
+     "start": 13,
+     "end": 16,
+     "surface": "太行道"
+    }
+   ]
+  },
+  {
+   "para_id": "p37",
+   "text": "2楚頃襄王疾病。⟦0⟧黃歇言於應侯曰：「今楚王疾恐不起，秦不如歸其太子。太子得立，其事秦必重而德相國無窮，是親與國而得儲萬乘也。不歸，則咸陽布衣耳。⟦1⟧楚更立君，必不事秦，⟦2⟧是失與國而絕萬乘之和，非計也。」應侯以告王。王曰：「令太子之傅先往問疾，反而後圖之。」黃歇與太子謀曰：「秦之留太子，欲以求利也。今太子力未能有以利秦也。⟦3⟧而陽文君子二人在中。王若卒大命，⟦4⟧太子不在，陽文君子必立爲後，太子不得奉宗廟矣。不如亡秦，與使者俱出。⟦5⟧臣請止，以死當之！」太子因變服爲楚使者御而出關；而黃歇守舍，常爲太子謝病。度太子已遠，⟦6⟧乃自言於王曰：「楚太子已歸，出遠矣。歇願賜死！」王怒，欲聽之。應侯曰：「歇爲人臣，出身以徇其主，太子立，必用歇。不如無罪而歸之，⟦7⟧以親楚。」王從之。黃歇至楚三月，秋，頃襄王薨，考烈王卽位；⟦8⟧以黃歇爲相，封以淮北地，號曰春申君。⟦9⟧",
+   "mentions": [
+    {
+     "entity_id": "P004",
+     "entity_name": "楚顷襄王",
+     "entity_type": "person",
+     "start": 1,
+     "end": 5,
+     "surface": "楚頃襄王"
+    },
+    {
+     "entity_id": "P002",
+     "entity_name": "黄歇",
+     "entity_type": "person",
+     "start": 11,
+     "end": 13,
+     "surface": "黃歇"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 15,
+     "end": 17,
+     "surface": "應侯"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 21,
+     "end": 22,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 28,
+     "end": 29,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 43,
+     "end": 44,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L035",
+     "entity_name": "咸阳",
+     "entity_type": "place",
+     "start": 68,
+     "end": 70,
+     "surface": "咸陽"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 77,
+     "end": 78,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 85,
+     "end": 86,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 106,
+     "end": 108,
+     "surface": "應侯"
+    },
+    {
+     "entity_id": "P002",
+     "entity_name": "黄歇",
+     "entity_type": "person",
+     "start": 133,
+     "end": 135,
+     "surface": "黃歇"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 142,
+     "end": 143,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 163,
+     "end": 164,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P084",
+     "entity_name": "阳文君",
+     "entity_type": "person",
+     "start": 170,
+     "end": 173,
+     "surface": "陽文君"
+    },
+    {
+     "entity_id": "P084",
+     "entity_name": "阳文君",
+     "entity_type": "person",
+     "start": 193,
+     "end": 196,
+     "surface": "陽文君"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 214,
+     "end": 215,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 241,
+     "end": 242,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P002",
+     "entity_name": "黄歇",
+     "entity_type": "person",
+     "start": 250,
+     "end": 252,
+     "surface": "黃歇"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 279,
+     "end": 280,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 302,
+     "end": 304,
+     "surface": "應侯"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 340,
+     "end": 341,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P002",
+     "entity_name": "黄歇",
+     "entity_type": "person",
+     "start": 347,
+     "end": 349,
+     "surface": "黃歇"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 350,
+     "end": 351,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P003",
+     "entity_name": "楚考烈王",
+     "entity_type": "person",
+     "start": 361,
+     "end": 364,
+     "surface": "考烈王"
+    },
+    {
+     "entity_id": "P002",
+     "entity_name": "黄歇",
+     "entity_type": "person",
+     "start": 371,
+     "end": 373,
+     "surface": "黃歇"
+    },
+    {
+     "entity_id": "L027",
+     "entity_name": "淮北",
+     "entity_type": "place",
+     "start": 378,
+     "end": 380,
+     "surface": "淮北"
+    },
+    {
+     "entity_id": "P002",
+     "entity_name": "黄歇",
+     "entity_type": "person",
+     "start": 384,
+     "end": 387,
+     "surface": "春申君"
+    }
+   ]
+  },
+  {
+   "para_id": "p38",
+   "text": "五十三年（己亥、前二六二年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p39",
+   "text": "1楚人納州于秦以平。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L028",
+     "entity_name": "州",
+     "entity_type": "place",
+     "start": 4,
+     "end": 5,
+     "surface": "州"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 6,
+     "end": 7,
+     "surface": "秦"
+    }
+   ]
+  },
+  {
+   "para_id": "p40",
+   "text": "2武安君伐韓，拔野王。上黨路絕，⟦0⟧上黨守馮亭⟦1⟧與其民謀曰：「鄭道已絕，⟦2⟧秦兵日進，韓不能應，不如以上黨歸趙。趙受我，秦必攻之；趙被秦兵，必親韓；⟦3⟧韓、趙爲一，則可以當秦矣。」乃遣使者告於趙曰：「韓不能守上黨，入之秦，⟦4⟧其吏民皆安於〔章：十一行本「於」作「爲」；乙十一行本同；孔本同；張校同；退齋校同。〕趙，不樂爲秦。⟦5⟧有城市邑十七，⟦6⟧願再拜獻之大王！」趙王以告平陽君豹，對曰：「聖人甚禍無故之利。」⟦7⟧王曰：「人樂吾德，何謂無故？」對曰：「秦蠶食韓地，中絕，不令相通，固自以爲坐而受上黨也。韓氏所以不入於秦者，欲嫁其禍於趙也。⟦8⟧秦服其勞而趙受其利，雖強大不能得之於弱小，弱小固能得之於強大乎！豈得謂之非無故哉？不如勿受。」王以告平原君，平原君請受之。王乃使平原君往受地，⟦9⟧以萬戶都三封其太守爲華陽君，⟦10⟧以千戶都三封其縣令爲侯，吏民皆益爵三級。馮亭垂涕不見使者，曰：「吾不忍賣主地而食之也！」⟦11⟧",
+   "mentions": [
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 1,
+     "end": 4,
+     "surface": "武安君"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 5,
+     "end": 6,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L023",
+     "entity_name": "野王",
+     "entity_type": "place",
+     "start": 8,
+     "end": 10,
+     "surface": "野王"
+    },
+    {
+     "entity_id": "L022",
+     "entity_name": "上党",
+     "entity_type": "place",
+     "start": 11,
+     "end": 13,
+     "surface": "上黨"
+    },
+    {
+     "entity_id": "L022",
+     "entity_name": "上党",
+     "entity_type": "place",
+     "start": 19,
+     "end": 21,
+     "surface": "上黨"
+    },
+    {
+     "entity_id": "P051",
+     "entity_name": "冯亭",
+     "entity_type": "person",
+     "start": 22,
+     "end": 24,
+     "surface": "馮亭"
+    },
+    {
+     "entity_id": "L024",
+     "entity_name": "郑",
+     "entity_type": "place",
+     "start": 34,
+     "end": 35,
+     "surface": "鄭"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 42,
+     "end": 43,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 47,
+     "end": 48,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L022",
+     "entity_name": "上党",
+     "entity_type": "place",
+     "start": 55,
+     "end": 57,
+     "surface": "上黨"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 58,
+     "end": 59,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 60,
+     "end": 61,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 64,
+     "end": 65,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 69,
+     "end": 70,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 71,
+     "end": 72,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 76,
+     "end": 77,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 81,
+     "end": 82,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 83,
+     "end": 84,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 91,
+     "end": 92,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 101,
+     "end": 102,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 105,
+     "end": 106,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L022",
+     "entity_name": "上党",
+     "entity_type": "place",
+     "start": 109,
+     "end": 111,
+     "surface": "上黨"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 114,
+     "end": 115,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 161,
+     "end": 162,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 166,
+     "end": 167,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P026",
+     "entity_name": "赵孝成王",
+     "entity_type": "person",
+     "start": 190,
+     "end": 192,
+     "surface": "趙王"
+    },
+    {
+     "entity_id": "P052",
+     "entity_name": "平阳君",
+     "entity_type": "person",
+     "start": 194,
+     "end": 197,
+     "surface": "平陽君"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 235,
+     "end": 236,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 238,
+     "end": 239,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L022",
+     "entity_name": "上党",
+     "entity_type": "place",
+     "start": 256,
+     "end": 258,
+     "surface": "上黨"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 260,
+     "end": 261,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 267,
+     "end": 268,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 275,
+     "end": 276,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 281,
+     "end": 282,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 286,
+     "end": 287,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 331,
+     "end": 334,
+     "surface": "平原君"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 335,
+     "end": 338,
+     "surface": "平原君"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 345,
+     "end": 348,
+     "surface": "平原君"
+    },
+    {
+     "entity_id": "P079",
+     "entity_name": "华阳君",
+     "entity_type": "person",
+     "start": 365,
+     "end": 368,
+     "surface": "華陽君"
+    },
+    {
+     "entity_id": "P051",
+     "entity_name": "冯亭",
+     "entity_type": "person",
+     "start": 393,
+     "end": 395,
+     "surface": "馮亭"
+    }
+   ]
+  },
+  {
+   "para_id": "p41",
+   "text": "五十五年（辛丑、前二六〇年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p42",
+   "text": "1秦左庶長王齕攻上黨，拔之。⟦0⟧上黨民走趙。趙廉頗軍於長平。⟦1⟧以按據上黨民。⟦2⟧王齕因伐趙。趙軍數戰不勝，⟦3⟧止〔章：十二行本「止」作「亡」；乙十一行本同；孔本同；退齋校同。〕一裨將、四尉。⟦4⟧趙王與樓昌、虞卿謀，⟦5⟧樓昌請發重使爲媾。⟦6⟧虞卿曰：「今制媾者在秦；秦必欲破王之軍矣，雖往請媾，秦將不聽。不如發使以重寶附楚、魏，楚、魏受之，則秦疑天下之合從，⟦7⟧媾乃可成也。」王不聽，使鄭朱媾於秦，秦受之。王謂虞卿曰：「秦內鄭朱矣。」⟦8⟧對曰：「王必不得媾而軍破矣。何則？天下之賀戰勝者皆在秦矣。夫鄭朱，貴人也，秦王、應侯必顯重之以示天下。⟦9⟧天下見王之媾於秦，必不救王；秦知天下之不救王，則媾不可得成矣。」旣而秦果顯鄭朱而不與趙媾。⟦10⟧",
+   "mentions": [
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P038",
+     "entity_name": "王龁",
+     "entity_type": "person",
+     "start": 5,
+     "end": 7,
+     "surface": "王齕"
+    },
+    {
+     "entity_id": "L022",
+     "entity_name": "上党",
+     "entity_type": "place",
+     "start": 8,
+     "end": 10,
+     "surface": "上黨"
+    },
+    {
+     "entity_id": "L022",
+     "entity_name": "上党",
+     "entity_type": "place",
+     "start": 17,
+     "end": 19,
+     "surface": "上黨"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 21,
+     "end": 22,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 23,
+     "end": 24,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P014",
+     "entity_name": "廉颇",
+     "entity_type": "person",
+     "start": 24,
+     "end": 26,
+     "surface": "廉頗"
+    },
+    {
+     "entity_id": "L021",
+     "entity_name": "长平",
+     "entity_type": "place",
+     "start": 28,
+     "end": 30,
+     "surface": "長平"
+    },
+    {
+     "entity_id": "L022",
+     "entity_name": "上党",
+     "entity_type": "place",
+     "start": 37,
+     "end": 39,
+     "surface": "上黨"
+    },
+    {
+     "entity_id": "P038",
+     "entity_name": "王龁",
+     "entity_type": "person",
+     "start": 44,
+     "end": 46,
+     "surface": "王齕"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 48,
+     "end": 49,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 50,
+     "end": 51,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P026",
+     "entity_name": "赵孝成王",
+     "entity_type": "person",
+     "start": 103,
+     "end": 105,
+     "surface": "趙王"
+    },
+    {
+     "entity_id": "P044",
+     "entity_name": "楼昌",
+     "entity_type": "person",
+     "start": 106,
+     "end": 108,
+     "surface": "樓昌"
+    },
+    {
+     "entity_id": "P042",
+     "entity_name": "虞卿",
+     "entity_type": "person",
+     "start": 109,
+     "end": 111,
+     "surface": "虞卿"
+    },
+    {
+     "entity_id": "P044",
+     "entity_name": "楼昌",
+     "entity_type": "person",
+     "start": 116,
+     "end": 118,
+     "surface": "樓昌"
+    },
+    {
+     "entity_id": "P042",
+     "entity_name": "虞卿",
+     "entity_type": "person",
+     "start": 128,
+     "end": 130,
+     "surface": "虞卿"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 138,
+     "end": 139,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 140,
+     "end": 141,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 154,
+     "end": 155,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 167,
+     "end": 168,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 169,
+     "end": 170,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 171,
+     "end": 172,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 173,
+     "end": 174,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 178,
+     "end": 179,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "C002",
+     "entity_name": "合纵",
+     "entity_type": "concept",
+     "start": 183,
+     "end": 185,
+     "surface": "合從"
+    },
+    {
+     "entity_id": "P045",
+     "entity_name": "郑朱",
+     "entity_type": "person",
+     "start": 201,
+     "end": 203,
+     "surface": "鄭朱"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 205,
+     "end": 206,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 207,
+     "end": 208,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P042",
+     "entity_name": "虞卿",
+     "entity_type": "person",
+     "start": 213,
+     "end": 215,
+     "surface": "虞卿"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 218,
+     "end": 219,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P045",
+     "entity_name": "郑朱",
+     "entity_type": "person",
+     "start": 220,
+     "end": 222,
+     "surface": "鄭朱"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 254,
+     "end": 255,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P045",
+     "entity_name": "郑朱",
+     "entity_type": "person",
+     "start": 258,
+     "end": 260,
+     "surface": "鄭朱"
+    },
+    {
+     "entity_id": "P019",
+     "entity_name": "秦昭襄王",
+     "entity_type": "person",
+     "start": 265,
+     "end": 267,
+     "surface": "秦王"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 268,
+     "end": 270,
+     "surface": "應侯"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 289,
+     "end": 290,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 296,
+     "end": 297,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 316,
+     "end": 317,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P045",
+     "entity_name": "郑朱",
+     "entity_type": "person",
+     "start": 319,
+     "end": 321,
+     "surface": "鄭朱"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 324,
+     "end": 325,
+     "surface": "趙"
+    }
+   ]
+  },
+  {
+   "para_id": "p43",
+   "text": "秦數敗趙兵，廉頗堅壁不出。趙王以頗失亡多而更怯不戰，怒，數讓之。⟦0⟧應侯又使人行千金於趙爲反間，曰：「秦之所畏，獨畏馬服君之子趙括爲將耳！⟦1⟧廉頗易與，且降矣！」⟦2⟧趙王遂以趙括代頗將。藺相如曰：「王以名使括，若膠柱鼓瑟耳。⟦3⟧括徒能讀其父書傳，不知合變也。」⟦4⟧王不聽。初，趙括自少時學兵法，以天下莫能當；嘗與其父奢言兵事，奢不能難，⟦5⟧然不謂善。括母問其故，奢曰：「兵，死地也，而括易言之。⟦6⟧使趙不將括則已；若必將之，⟦7⟧破趙軍者必括也。」及括將行，其母上書，言括不可使。王曰：「何以？」⟦8⟧對曰：「始妾事其父，時爲將，身所奉飯而進食者以十數，⟦9⟧所友者以百數，王及宗室所賞賜者，盡以與軍吏士大夫；受命之日，不問家事。今括一旦爲將，東鄕而朝，軍吏無敢仰視之者；⟦10⟧王所賜金帛，歸藏於家，而日視便利田宅可買者買之。王以爲如其父，父子異心，願王勿遣！」王曰：「母置之，吾已決矣！」⟦11⟧母因曰：「卽如有不稱，妾請無隨坐！」⟦12⟧趙王許之。",
+   "mentions": [
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 0,
+     "end": 1,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P014",
+     "entity_name": "廉颇",
+     "entity_type": "person",
+     "start": 6,
+     "end": 8,
+     "surface": "廉頗"
+    },
+    {
+     "entity_id": "P026",
+     "entity_name": "赵孝成王",
+     "entity_type": "person",
+     "start": 13,
+     "end": 15,
+     "surface": "趙王"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 35,
+     "end": 37,
+     "surface": "應侯"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 44,
+     "end": 45,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 52,
+     "end": 53,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P012",
+     "entity_name": "赵奢",
+     "entity_type": "person",
+     "start": 59,
+     "end": 62,
+     "surface": "馬服君"
+    },
+    {
+     "entity_id": "P049",
+     "entity_name": "赵括",
+     "entity_type": "person",
+     "start": 64,
+     "end": 66,
+     "surface": "趙括"
+    },
+    {
+     "entity_id": "P014",
+     "entity_name": "廉颇",
+     "entity_type": "person",
+     "start": 73,
+     "end": 75,
+     "surface": "廉頗"
+    },
+    {
+     "entity_id": "P026",
+     "entity_name": "赵孝成王",
+     "entity_type": "person",
+     "start": 86,
+     "end": 88,
+     "surface": "趙王"
+    },
+    {
+     "entity_id": "P049",
+     "entity_name": "赵括",
+     "entity_type": "person",
+     "start": 90,
+     "end": 92,
+     "surface": "趙括"
+    },
+    {
+     "entity_id": "P011",
+     "entity_name": "蔺相如",
+     "entity_type": "person",
+     "start": 96,
+     "end": 99,
+     "surface": "藺相如"
+    },
+    {
+     "entity_id": "C011",
+     "entity_name": "胶柱鼓瑟",
+     "entity_type": "concept",
+     "start": 109,
+     "end": 113,
+     "surface": "膠柱鼓瑟"
+    },
+    {
+     "entity_id": "P049",
+     "entity_name": "赵括",
+     "entity_type": "person",
+     "start": 143,
+     "end": 145,
+     "surface": "趙括"
+    },
+    {
+     "entity_id": "P050",
+     "entity_name": "赵括母",
+     "entity_type": "person",
+     "start": 181,
+     "end": 183,
+     "surface": "括母"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 207,
+     "end": 208,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 223,
+     "end": 224,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "C022",
+     "entity_name": "随坐",
+     "entity_type": "concept",
+     "start": 421,
+     "end": 423,
+     "surface": "隨坐"
+    },
+    {
+     "entity_id": "P026",
+     "entity_name": "赵孝成王",
+     "entity_type": "person",
+     "start": 429,
+     "end": 431,
+     "surface": "趙王"
+    }
+   ]
+  },
+  {
+   "para_id": "p44",
+   "text": "秦王聞括已爲趙將，乃陰使武安君爲上將軍而王齕爲裨將，令軍中：「有敢泄武安君將者斬！」趙括至軍，悉更約束，⟦0⟧易置軍吏，出兵擊秦師。武安君佯敗而走，⟦1⟧張二奇兵以劫之。⟦2⟧趙括乘勝追造秦壁，⟦3⟧壁堅拒不得入；奇兵二萬五千人絕趙軍之後，又五千騎絕趙壁間。⟦4⟧趙軍分而爲二，糧道絕。武安君出輕兵擊之，趙戰不利，因築壁堅守以待救至。秦王聞趙食道絕，自如河內發民年十五以上悉詣長平，遮絕趙救兵及糧食。⟦5⟧齊人、楚人救趙。趙人乏食，請粟于齊，王〔章：十二行本「王」上有「齊」字；乙十一行本同；孔本同；張校同；退齋校同。〕弗許。周子曰：「夫趙之於齊、楚，扞蔽也，⟦6⟧猶齒之有脣也，脣亡則齒寒；今日亡趙，明日患及齊、楚矣。救趙之務，宜若奉漏甕沃焦釜然。⟦7⟧且救趙，高義也；卻秦師，顯名也；義救亡國，威卻強秦。不務爲此而愛粟，爲國計者過矣！」齊王弗聽。九月，趙軍食絕四十六日，皆內陰相殺食。急來攻〔章：十二行本「攻」下有「秦」字；乙十一行本同；孔本同；張校同；退齋校同。〕壘，⟦8⟧欲出爲四隊，四，五復之，不能出。⟦9⟧趙括自出銳卒搏戰，秦人射殺之。⟦10⟧趙師大敗，卒四十萬人皆降。⟦11⟧武安君曰：「秦已拔上黨，上黨民不樂爲秦而歸趙。趙卒反覆，非盡殺之，恐爲亂。」乃挾詐而盡坑殺之，遺其小者二百四十人歸趙，⟦12⟧前後斬首虜四十五萬人；趙人大震。⟦13⟧",
+   "mentions": [
+    {
+     "entity_id": "P019",
+     "entity_name": "秦昭襄王",
+     "entity_type": "person",
+     "start": 0,
+     "end": 2,
+     "surface": "秦王"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 6,
+     "end": 7,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 12,
+     "end": 15,
+     "surface": "武安君"
+    },
+    {
+     "entity_id": "P038",
+     "entity_name": "王龁",
+     "entity_type": "person",
+     "start": 20,
+     "end": 22,
+     "surface": "王齕"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 34,
+     "end": 37,
+     "surface": "武安君"
+    },
+    {
+     "entity_id": "P049",
+     "entity_name": "赵括",
+     "entity_type": "person",
+     "start": 42,
+     "end": 44,
+     "surface": "趙括"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 63,
+     "end": 64,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 66,
+     "end": 69,
+     "surface": "武安君"
+    },
+    {
+     "entity_id": "P049",
+     "entity_name": "赵括",
+     "entity_type": "person",
+     "start": 88,
+     "end": 90,
+     "surface": "趙括"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 94,
+     "end": 95,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 115,
+     "end": 116,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 125,
+     "end": 126,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 132,
+     "end": 133,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 143,
+     "end": 146,
+     "surface": "武安君"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 152,
+     "end": 153,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P019",
+     "entity_name": "秦昭襄王",
+     "entity_type": "person",
+     "start": 167,
+     "end": 169,
+     "surface": "秦王"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 170,
+     "end": 171,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L049",
+     "entity_name": "河内",
+     "entity_type": "place",
+     "start": 177,
+     "end": 179,
+     "surface": "河內"
+    },
+    {
+     "entity_id": "L021",
+     "entity_name": "长平",
+     "entity_type": "place",
+     "start": 188,
+     "end": 190,
+     "surface": "長平"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 193,
+     "end": 194,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 203,
+     "end": 204,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 206,
+     "end": 207,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 209,
+     "end": 210,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 211,
+     "end": 212,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 219,
+     "end": 220,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 235,
+     "end": 236,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P067",
+     "entity_name": "周子",
+     "entity_type": "person",
+     "start": 263,
+     "end": 265,
+     "surface": "周子"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 269,
+     "end": 270,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 272,
+     "end": 273,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 274,
+     "end": 275,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 299,
+     "end": 300,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 305,
+     "end": 306,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 307,
+     "end": 308,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 311,
+     "end": 312,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 330,
+     "end": 331,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 337,
+     "end": 338,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 352,
+     "end": 353,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 370,
+     "end": 371,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 378,
+     "end": 379,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 410,
+     "end": 411,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P049",
+     "entity_name": "赵括",
+     "entity_type": "person",
+     "start": 459,
+     "end": 461,
+     "surface": "趙括"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 468,
+     "end": 469,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 478,
+     "end": 479,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 495,
+     "end": 498,
+     "surface": "武安君"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 501,
+     "end": 502,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L022",
+     "entity_name": "上党",
+     "entity_type": "place",
+     "start": 504,
+     "end": 506,
+     "surface": "上黨"
+    },
+    {
+     "entity_id": "L022",
+     "entity_name": "上党",
+     "entity_type": "place",
+     "start": 507,
+     "end": 509,
+     "surface": "上黨"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 513,
+     "end": 514,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 516,
+     "end": 517,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 518,
+     "end": 519,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 552,
+     "end": 553,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 569,
+     "end": 570,
+     "surface": "趙"
+    }
+   ]
+  },
+  {
+   "para_id": "p45",
+   "text": "五十六年（壬寅、前二五九年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p46",
+   "text": "1十月，武安君分軍爲三：王齕攻趙武安、皮牢，拔之。⟦0⟧司馬梗北定太原，⟦1⟧盡有上黨地。韓、魏使〔章：十二行本「使」上有「恐」字；乙十一行本同；孔本同；張校同；退齋校同。〕蘇代厚幣說應侯曰：「武安君卽圍邯鄲乎？」⟦2⟧曰：「然。」蘇代曰：「趙亡則秦王王矣；⟦3⟧武安君爲三公，君能爲之下乎？雖欲無爲之下，固不得已矣。秦嘗攻韓，圍邢丘，困上黨，⟦4⟧上黨之民皆反爲趙，天下不樂爲秦民之日久矣。⟦5⟧今亡趙，北地入燕，東地入齊，南地入韓、魏，則君之所得民無幾何人矣。不如因而割之，無以爲武安君功也。」應侯言於秦王曰：「秦兵勞，請許韓、趙之割地以和，且休士卒。」王聽之，割韓垣雍、趙六城以和，⟦6⟧正月，皆罷兵。⟦7⟧武安君由是與應侯有隙。⟦8⟧",
+   "mentions": [
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 4,
+     "end": 7,
+     "surface": "武安君"
+    },
+    {
+     "entity_id": "P038",
+     "entity_name": "王龁",
+     "entity_type": "person",
+     "start": 12,
+     "end": 14,
+     "surface": "王齕"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 15,
+     "end": 16,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L012",
+     "entity_name": "武安",
+     "entity_type": "place",
+     "start": 16,
+     "end": 18,
+     "surface": "武安"
+    },
+    {
+     "entity_id": "L030",
+     "entity_name": "皮牢",
+     "entity_type": "place",
+     "start": 19,
+     "end": 21,
+     "surface": "皮牢"
+    },
+    {
+     "entity_id": "P039",
+     "entity_name": "司马梗",
+     "entity_type": "person",
+     "start": 28,
+     "end": 31,
+     "surface": "司馬梗"
+    },
+    {
+     "entity_id": "L031",
+     "entity_name": "太原",
+     "entity_type": "place",
+     "start": 33,
+     "end": 35,
+     "surface": "太原"
+    },
+    {
+     "entity_id": "L022",
+     "entity_name": "上党",
+     "entity_type": "place",
+     "start": 41,
+     "end": 43,
+     "surface": "上黨"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 45,
+     "end": 46,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 47,
+     "end": 48,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P040",
+     "entity_name": "苏代",
+     "entity_type": "person",
+     "start": 87,
+     "end": 89,
+     "surface": "蘇代"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 92,
+     "end": 94,
+     "surface": "應侯"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 97,
+     "end": 100,
+     "surface": "武安君"
+    },
+    {
+     "entity_id": "L013",
+     "entity_name": "邯郸",
+     "entity_type": "place",
+     "start": 102,
+     "end": 104,
+     "surface": "邯鄲"
+    },
+    {
+     "entity_id": "P040",
+     "entity_name": "苏代",
+     "entity_type": "person",
+     "start": 116,
+     "end": 118,
+     "surface": "蘇代"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 121,
+     "end": 122,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P019",
+     "entity_name": "秦昭襄王",
+     "entity_type": "person",
+     "start": 124,
+     "end": 126,
+     "surface": "秦王"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 132,
+     "end": 135,
+     "surface": "武安君"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 159,
+     "end": 160,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 162,
+     "end": 163,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L019",
+     "entity_name": "邢丘",
+     "entity_type": "place",
+     "start": 165,
+     "end": 167,
+     "surface": "邢丘"
+    },
+    {
+     "entity_id": "L022",
+     "entity_name": "上党",
+     "entity_type": "place",
+     "start": 169,
+     "end": 171,
+     "surface": "上黨"
+    },
+    {
+     "entity_id": "L022",
+     "entity_name": "上党",
+     "entity_type": "place",
+     "start": 175,
+     "end": 177,
+     "surface": "上黨"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 182,
+     "end": 183,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 189,
+     "end": 190,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 201,
+     "end": 202,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "燕",
+     "entity_type": "place",
+     "start": 206,
+     "end": 207,
+     "surface": "燕"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 211,
+     "end": 212,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 216,
+     "end": 217,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 218,
+     "end": 219,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 242,
+     "end": 245,
+     "surface": "武安君"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 249,
+     "end": 251,
+     "surface": "應侯"
+    },
+    {
+     "entity_id": "P019",
+     "entity_name": "秦昭襄王",
+     "entity_type": "person",
+     "start": 253,
+     "end": 255,
+     "surface": "秦王"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 258,
+     "end": 259,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 264,
+     "end": 265,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 266,
+     "end": 267,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 284,
+     "end": 285,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L029",
+     "entity_name": "垣雍",
+     "entity_type": "place",
+     "start": 285,
+     "end": 287,
+     "surface": "垣雍"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 288,
+     "end": 289,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 307,
+     "end": 310,
+     "surface": "武安君"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 313,
+     "end": 315,
+     "surface": "應侯"
+    }
+   ]
+  },
+  {
+   "para_id": "p47",
+   "text": "趙王將使趙郝約事於秦，割六縣。⟦0⟧虞卿謂趙王曰：「秦之攻王也，倦而歸乎？王以其力尙能進，愛王而弗攻乎？」王曰：「秦不遺餘力矣，必以倦而歸也。」⟦1⟧虞卿曰：「秦以其力攻其所不能取，倦而歸，王又以其力之所不能取以送之，是助秦自攻也。來年秦攻王，王無救矣。」⟦2⟧趙王計未定，樓緩至趙，趙王與之計之。樓緩曰：「虞卿得其一，不得其二。秦、趙構難而天下皆說，⟦3⟧何也？曰：『吾且因強而乘弱矣。』今趙不如亟割地爲和以疑天下，⟦4⟧慰秦之心。不然，天下將因秦之怒，乘趙之敝，瓜分之，趙且亡，何秦之圖乎！」虞卿聞之，復見曰：「危哉樓子之計，是愈疑天下，⟦5⟧而何慰秦之心哉！獨不言其示天下弱乎？且臣言勿與者，非固勿與而已也；秦索六城於王，而王以六城賂齊。齊，秦之深讎也，⟦6⟧其聽王不待辭之畢也。則是王失之於齊而取償於秦，而示天下有能爲也。⟦7⟧王以此發聲，兵未窺於境，臣見秦之重賂至趙而反媾於王也。從秦爲媾，韓、魏聞之，必盡重王，⟦8⟧是王一舉而結三國之親而與秦易道也。」⟦9⟧趙王曰：「善。」使虞卿東見齊王，與之謀秦。虞卿未返，秦使者已在趙矣。⟦10⟧樓緩聞之，亡去。趙王封虞卿以一城。",
+   "mentions": [
+    {
+     "entity_id": "P026",
+     "entity_name": "赵孝成王",
+     "entity_type": "person",
+     "start": 0,
+     "end": 2,
+     "surface": "趙王"
+    },
+    {
+     "entity_id": "P041",
+     "entity_name": "赵郝",
+     "entity_type": "person",
+     "start": 4,
+     "end": 6,
+     "surface": "趙郝"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 9,
+     "end": 10,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P042",
+     "entity_name": "虞卿",
+     "entity_type": "person",
+     "start": 18,
+     "end": 20,
+     "surface": "虞卿"
+    },
+    {
+     "entity_id": "P026",
+     "entity_name": "赵孝成王",
+     "entity_type": "person",
+     "start": 21,
+     "end": 23,
+     "surface": "趙王"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 26,
+     "end": 27,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 57,
+     "end": 58,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P042",
+     "entity_name": "虞卿",
+     "entity_type": "person",
+     "start": 75,
+     "end": 77,
+     "surface": "虞卿"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 80,
+     "end": 81,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 111,
+     "end": 112,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 118,
+     "end": 119,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P026",
+     "entity_name": "赵孝成王",
+     "entity_type": "person",
+     "start": 131,
+     "end": 133,
+     "surface": "趙王"
+    },
+    {
+     "entity_id": "P043",
+     "entity_name": "楼缓",
+     "entity_type": "person",
+     "start": 137,
+     "end": 139,
+     "surface": "樓緩"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 140,
+     "end": 141,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P026",
+     "entity_name": "赵孝成王",
+     "entity_type": "person",
+     "start": 142,
+     "end": 144,
+     "surface": "趙王"
+    },
+    {
+     "entity_id": "P043",
+     "entity_name": "楼缓",
+     "entity_type": "person",
+     "start": 149,
+     "end": 151,
+     "surface": "樓緩"
+    },
+    {
+     "entity_id": "P042",
+     "entity_name": "虞卿",
+     "entity_type": "person",
+     "start": 154,
+     "end": 156,
+     "surface": "虞卿"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 165,
+     "end": 166,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 167,
+     "end": 168,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 196,
+     "end": 197,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 213,
+     "end": 214,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 224,
+     "end": 225,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 229,
+     "end": 230,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 237,
+     "end": 238,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 242,
+     "end": 243,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P042",
+     "entity_name": "虞卿",
+     "entity_type": "person",
+     "start": 248,
+     "end": 250,
+     "surface": "虞卿"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 277,
+     "end": 278,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 307,
+     "end": 308,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 320,
+     "end": 321,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 322,
+     "end": 323,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 324,
+     "end": 325,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 349,
+     "end": 350,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 354,
+     "end": 355,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 382,
+     "end": 383,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 387,
+     "end": 388,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 396,
+     "end": 397,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 400,
+     "end": 401,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 402,
+     "end": 403,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 426,
+     "end": 427,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P026",
+     "entity_name": "赵孝成王",
+     "entity_type": "person",
+     "start": 435,
+     "end": 437,
+     "surface": "趙王"
+    },
+    {
+     "entity_id": "P042",
+     "entity_name": "虞卿",
+     "entity_type": "person",
+     "start": 444,
+     "end": 446,
+     "surface": "虞卿"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 448,
+     "end": 449,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 454,
+     "end": 455,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P042",
+     "entity_name": "虞卿",
+     "entity_type": "person",
+     "start": 456,
+     "end": 458,
+     "surface": "虞卿"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 461,
+     "end": 462,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 466,
+     "end": 467,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P043",
+     "entity_name": "楼缓",
+     "entity_type": "person",
+     "start": 473,
+     "end": 475,
+     "surface": "樓緩"
+    },
+    {
+     "entity_id": "P026",
+     "entity_name": "赵孝成王",
+     "entity_type": "person",
+     "start": 481,
+     "end": 483,
+     "surface": "趙王"
+    },
+    {
+     "entity_id": "P042",
+     "entity_name": "虞卿",
+     "entity_type": "person",
+     "start": 484,
+     "end": 486,
+     "surface": "虞卿"
+    }
+   ]
+  },
+  {
+   "para_id": "p48",
+   "text": "秦之始伐趙也，魏王問於〔章：十二行本「於」下有「諸」字；乙十一行本同；孔本同；退齋校同。〕大夫，皆以爲秦伐趙，於魏便。孔斌曰：⟦0⟧「何謂也？」曰：「勝趙，則吾因而服焉；不勝趙，則可承敝而擊之。」子順曰：「不然。秦自孝公以來，戰未嘗屈，今又屬其良將，⟦1⟧何敝之承！」大夫曰：「縱其勝趙，於我何損？鄰之羞，國之福也。」子順曰：「秦，貪暴之國也，勝趙，必復他求，⟦2⟧吾恐於時魏受其師也。⟦3⟧先人有言：燕雀處屋，⟦4⟧子母相哺，呴呴焉相樂也，⟦5⟧自以爲安矣。竈突炎上，⟦6⟧棟宇將焚，燕雀顏不變，不知禍之將及己也。今子不悟趙破患將及己，可以人而同於燕雀乎！」子順者，孔子六世孫也。⟦7⟧初，魏王聞子順賢，遣使者奉黃金束帛，聘以爲相。⟦8⟧子順〔章：十二行本「順」下有「謂使者」三字；乙十一行本同；孔本同；張校同；退齋校同。〕曰：「若王能信用吾道，吾道固爲治世也，⟦9⟧雖蔬食飲水，吾猶爲之。若徒欲制服吾身，委以重祿，吾猶一夫耳，魏王奚少於一夫！」⟦10⟧使者固請，子順乃之魏；⟦11⟧魏王郊迎以爲相。子順改嬖寵之官以事賢才，奪無任之祿以賜有功。⟦12⟧諸喪職〔章：十二行本「職」下有「秩」字；乙十一行本同；孔本同；張校同；退齋校同。〕者咸不悅，乃造謗言。⟦13⟧文咨以告子順。⟦14⟧子順曰：「民之不可與慮始久矣！古之善爲政者，其初不能無謗。子產相鄭，三年而後謗止；⟦15⟧吾先君之相魯，三月而後謗止。今吾爲政日新，雖不能及賢，庸知謗乎！」文咨曰：「未識先君之謗何也？」子順曰：「先君相魯，人誦之曰：『麛裘而芾，投之無戾。芾而麛裘，投之無郵。』及三月，政化旣成，民又誦曰：『裘衣章甫，實獲我所。章甫裘衣，惠我無私。』」⟦16⟧文咨喜曰：「乃今知先生不異乎聖賢矣。」子順相魏凡九月，陳大計輒不用，乃喟然曰：⟦17⟧「言不見用，是吾言之不當也。言不當於主，⟦18⟧居人之官，食人之祿，是尸利素餐，吾罪深矣！」⟦19⟧退而以病致仕。⟦20⟧人謂子順曰：「王不用子，子其行乎？」答曰：「行將何之？山東之國將幷於秦；秦爲不義，義所不入。」遂寢於家。新垣固請子順曰：⟦21⟧「賢者所在，必興化致治。⟦22⟧今子相魏，未聞異政而卽自退，意者志不得乎，何去之速也？」子順曰：「以無異政，所以自退也。且死病無良醫。⟦23⟧今秦有吞食天下之心，以義事之，固不獲安；救亡不暇，何化之興！昔伊摯在夏，⟦24⟧呂望在商，⟦25⟧而二國不治，豈伊、呂之不欲哉？勢不可也。⟦26⟧當今山東之國敝而不振，三晉割地以求安，二周折而入秦，燕、齊、楚已屈服矣。⟦27⟧以此觀之，不出二十年，天下其盡爲秦乎！」⟦28⟧",
+   "mentions": [
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 0,
+     "end": 1,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 4,
+     "end": 5,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P066",
+     "entity_name": "魏王",
+     "entity_type": "person",
+     "start": 7,
+     "end": 9,
+     "surface": "魏王"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 51,
+     "end": 52,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 53,
+     "end": 54,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 56,
+     "end": 57,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P046",
+     "entity_name": "孔斌",
+     "entity_type": "person",
+     "start": 59,
+     "end": 61,
+     "surface": "孔斌"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 76,
+     "end": 77,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 87,
+     "end": 88,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P046",
+     "entity_name": "孔斌",
+     "entity_type": "person",
+     "start": 98,
+     "end": 100,
+     "surface": "子順"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 106,
+     "end": 107,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 142,
+     "end": 143,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P046",
+     "entity_name": "孔斌",
+     "entity_type": "person",
+     "start": 159,
+     "end": 161,
+     "surface": "子順"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 164,
+     "end": 165,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 173,
+     "end": 174,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 187,
+     "end": 188,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "C013",
+     "entity_name": "燕雀处屋",
+     "entity_type": "concept",
+     "start": 201,
+     "end": 205,
+     "surface": "燕雀處屋"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "燕",
+     "entity_type": "place",
+     "start": 243,
+     "end": 244,
+     "surface": "燕"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 262,
+     "end": 263,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "燕",
+     "entity_type": "place",
+     "start": 275,
+     "end": 276,
+     "surface": "燕"
+    },
+    {
+     "entity_id": "P046",
+     "entity_name": "孔斌",
+     "entity_type": "person",
+     "start": 280,
+     "end": 282,
+     "surface": "子順"
+    },
+    {
+     "entity_id": "P066",
+     "entity_name": "魏王",
+     "entity_type": "person",
+     "start": 296,
+     "end": 298,
+     "surface": "魏王"
+    },
+    {
+     "entity_id": "P046",
+     "entity_name": "孔斌",
+     "entity_type": "person",
+     "start": 299,
+     "end": 301,
+     "surface": "子順"
+    },
+    {
+     "entity_id": "P046",
+     "entity_name": "孔斌",
+     "entity_type": "person",
+     "start": 320,
+     "end": 322,
+     "surface": "子順"
+    },
+    {
+     "entity_id": "P066",
+     "entity_name": "魏王",
+     "entity_type": "person",
+     "start": 415,
+     "end": 417,
+     "surface": "魏王"
+    },
+    {
+     "entity_id": "P046",
+     "entity_name": "孔斌",
+     "entity_type": "person",
+     "start": 433,
+     "end": 435,
+     "surface": "子順"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 437,
+     "end": 438,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P066",
+     "entity_name": "魏王",
+     "entity_type": "person",
+     "start": 443,
+     "end": 445,
+     "surface": "魏王"
+    },
+    {
+     "entity_id": "P046",
+     "entity_name": "孔斌",
+     "entity_type": "person",
+     "start": 451,
+     "end": 453,
+     "surface": "子順"
+    },
+    {
+     "entity_id": "P047",
+     "entity_name": "文咨",
+     "entity_type": "person",
+     "start": 532,
+     "end": 534,
+     "surface": "文咨"
+    },
+    {
+     "entity_id": "P046",
+     "entity_name": "孔斌",
+     "entity_type": "person",
+     "start": 536,
+     "end": 538,
+     "surface": "子順"
+    },
+    {
+     "entity_id": "P046",
+     "entity_name": "孔斌",
+     "entity_type": "person",
+     "start": 543,
+     "end": 545,
+     "surface": "子順"
+    },
+    {
+     "entity_id": "P072",
+     "entity_name": "子产",
+     "entity_type": "person",
+     "start": 572,
+     "end": 574,
+     "surface": "子產"
+    },
+    {
+     "entity_id": "P047",
+     "entity_name": "文咨",
+     "entity_type": "person",
+     "start": 621,
+     "end": 623,
+     "surface": "文咨"
+    },
+    {
+     "entity_id": "P046",
+     "entity_name": "孔斌",
+     "entity_type": "person",
+     "start": 636,
+     "end": 638,
+     "surface": "子順"
+    },
+    {
+     "entity_id": "P047",
+     "entity_name": "文咨",
+     "entity_type": "person",
+     "start": 714,
+     "end": 716,
+     "surface": "文咨"
+    },
+    {
+     "entity_id": "E018",
+     "entity_name": "子顺相魏",
+     "entity_type": "event",
+     "start": 733,
+     "end": 737,
+     "surface": "子順相魏"
+    },
+    {
+     "entity_id": "C016",
+     "entity_name": "尸利素餐",
+     "entity_type": "concept",
+     "start": 792,
+     "end": 796,
+     "surface": "尸利素餐"
+    },
+    {
+     "entity_id": "P046",
+     "entity_name": "孔斌",
+     "entity_type": "person",
+     "start": 820,
+     "end": 822,
+     "surface": "子順"
+    },
+    {
+     "entity_id": "L051",
+     "entity_name": "山东",
+     "entity_type": "place",
+     "start": 845,
+     "end": 847,
+     "surface": "山東"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 852,
+     "end": 853,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 854,
+     "end": 855,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P048",
+     "entity_name": "新垣固",
+     "entity_type": "person",
+     "start": 870,
+     "end": 873,
+     "surface": "新垣固"
+    },
+    {
+     "entity_id": "P046",
+     "entity_name": "孔斌",
+     "entity_type": "person",
+     "start": 874,
+     "end": 876,
+     "surface": "子順"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 901,
+     "end": 902,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P046",
+     "entity_name": "孔斌",
+     "entity_type": "person",
+     "start": 926,
+     "end": 928,
+     "surface": "子順"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 954,
+     "end": 955,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P070",
+     "entity_name": "伊挚",
+     "entity_type": "person",
+     "start": 984,
+     "end": 986,
+     "surface": "伊摯"
+    },
+    {
+     "entity_id": "P071",
+     "entity_name": "吕望",
+     "entity_type": "person",
+     "start": 993,
+     "end": 995,
+     "surface": "呂望"
+    },
+    {
+     "entity_id": "L051",
+     "entity_name": "山东",
+     "entity_type": "place",
+     "start": 1028,
+     "end": 1030,
+     "surface": "山東"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1050,
+     "end": 1051,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L007",
+     "entity_name": "燕",
+     "entity_type": "place",
+     "start": 1052,
+     "end": 1053,
+     "surface": "燕"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 1054,
+     "end": 1055,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 1056,
+     "end": 1057,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1082,
+     "end": 1083,
+     "surface": "秦"
+    }
+   ]
+  },
+  {
+   "para_id": "p49",
+   "text": "2秦王欲爲應侯必報其仇，⟦0⟧聞魏齊在平原君所，⟦1⟧乃爲好言誘平原君至秦而執之。⟦2⟧遣使謂趙王曰：「不得齊首，吾不出王弟於關！」魏齊窮，抵虞卿，虞卿棄相印，與魏齊偕亡。⟦3⟧至魏，欲因信陵君以走楚。信陵君意難見之，魏齊怒，自殺。趙王卒取其首以與秦，⟦4⟧秦乃歸平原君。九月，五大夫王陵復將兵〔章：十二行本作「將兵復」；乙十一行本同；孔本同。〕伐趙。⟦5⟧武安君病，不任行。⟦6⟧",
+   "mentions": [
+    {
+     "entity_id": "P019",
+     "entity_name": "秦昭襄王",
+     "entity_type": "person",
+     "start": 1,
+     "end": 3,
+     "surface": "秦王"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 5,
+     "end": 7,
+     "surface": "應侯"
+    },
+    {
+     "entity_id": "P021",
+     "entity_name": "魏齐",
+     "entity_type": "person",
+     "start": 16,
+     "end": 18,
+     "surface": "魏齊"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 19,
+     "end": 22,
+     "surface": "平原君"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 32,
+     "end": 35,
+     "surface": "平原君"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 36,
+     "end": 37,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P026",
+     "entity_name": "赵孝成王",
+     "entity_type": "person",
+     "start": 47,
+     "end": 49,
+     "surface": "趙王"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 54,
+     "end": 55,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P021",
+     "entity_name": "魏齐",
+     "entity_type": "person",
+     "start": 66,
+     "end": 68,
+     "surface": "魏齊"
+    },
+    {
+     "entity_id": "P042",
+     "entity_name": "虞卿",
+     "entity_type": "person",
+     "start": 71,
+     "end": 73,
+     "surface": "虞卿"
+    },
+    {
+     "entity_id": "P042",
+     "entity_name": "虞卿",
+     "entity_type": "person",
+     "start": 74,
+     "end": 76,
+     "surface": "虞卿"
+    },
+    {
+     "entity_id": "P021",
+     "entity_name": "魏齐",
+     "entity_type": "person",
+     "start": 81,
+     "end": 83,
+     "surface": "魏齊"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 90,
+     "end": 91,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P056",
+     "entity_name": "魏无忌",
+     "entity_type": "person",
+     "start": 94,
+     "end": 96,
+     "surface": "信陵"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 99,
+     "end": 100,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P056",
+     "entity_name": "魏无忌",
+     "entity_type": "person",
+     "start": 101,
+     "end": 103,
+     "surface": "信陵"
+    },
+    {
+     "entity_id": "P021",
+     "entity_name": "魏齐",
+     "entity_type": "person",
+     "start": 109,
+     "end": 111,
+     "surface": "魏齊"
+    },
+    {
+     "entity_id": "P026",
+     "entity_name": "赵孝成王",
+     "entity_type": "person",
+     "start": 116,
+     "end": 118,
+     "surface": "趙王"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 124,
+     "end": 125,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 129,
+     "end": 130,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 132,
+     "end": 135,
+     "surface": "平原君"
+    },
+    {
+     "entity_id": "P061",
+     "entity_name": "王陵",
+     "entity_type": "person",
+     "start": 142,
+     "end": 144,
+     "surface": "王陵"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 174,
+     "end": 175,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 179,
+     "end": 182,
+     "surface": "武安君"
+    }
+   ]
+  },
+  {
+   "para_id": "p50",
+   "text": "五十七年（癸卯、前二五八年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p51",
+   "text": "1正月，王陵攻邯鄲，少利，⟦0⟧益發卒佐陵；陵亡五校。⟦1⟧武安君病愈，王欲使代之。武安君曰：「邯鄲實未易攻也；⟦2⟧且諸侯之救日至。彼諸侯怨秦之日久矣，秦雖勝於長平，士卒死者過半，國內空，遠絕河山而爭人國都，⟦3⟧趙應其內，諸侯攻其外，破秦軍必矣。」王自命不行，⟦4⟧乃使應侯請之。武安君終辭疾，不肯行；乃以王齕代王陵。⟦5⟧",
+   "mentions": [
+    {
+     "entity_id": "P061",
+     "entity_name": "王陵",
+     "entity_type": "person",
+     "start": 4,
+     "end": 6,
+     "surface": "王陵"
+    },
+    {
+     "entity_id": "L013",
+     "entity_name": "邯郸",
+     "entity_type": "place",
+     "start": 7,
+     "end": 9,
+     "surface": "邯鄲"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 30,
+     "end": 33,
+     "surface": "武安君"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 42,
+     "end": 45,
+     "surface": "武安君"
+    },
+    {
+     "entity_id": "L013",
+     "entity_name": "邯郸",
+     "entity_type": "place",
+     "start": 48,
+     "end": 50,
+     "surface": "邯鄲"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 71,
+     "end": 72,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 77,
+     "end": 78,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L021",
+     "entity_name": "长平",
+     "entity_type": "place",
+     "start": 81,
+     "end": 83,
+     "surface": "長平"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 108,
+     "end": 109,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 120,
+     "end": 121,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 137,
+     "end": 139,
+     "surface": "應侯"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 142,
+     "end": 145,
+     "surface": "武安君"
+    },
+    {
+     "entity_id": "P038",
+     "entity_name": "王龁",
+     "entity_type": "person",
+     "start": 155,
+     "end": 157,
+     "surface": "王齕"
+    },
+    {
+     "entity_id": "P061",
+     "entity_name": "王陵",
+     "entity_type": "person",
+     "start": 158,
+     "end": 160,
+     "surface": "王陵"
+    }
+   ]
+  },
+  {
+   "para_id": "p52",
+   "text": "趙王使平原君求救於楚，平原君約其門下食客文武備具者二十人與之俱，得十九人，餘無可取者。毛遂自薦於平原君。⟦0⟧平原君曰：「夫賢士之處世也，譬若錐之處囊中，其末立見。⟦1⟧今先生處勝之門下三年於此矣，左右未有所稱誦，勝未有所聞，是先生無所有也。先生不能，先生留！」⟦2⟧毛遂曰：「臣乃今日請處囊中耳！使遂蚤得處囊中，乃脫穎而出，非特其末見而已。」⟦3⟧平原君乃與之俱，十九人相與目笑之。⟦4⟧平原君至楚，與楚王言合從之利害，日出而言之，日中不決。毛遂按劍歷階而上，謂平原君曰：「從之利害，兩言而決耳！⟦5⟧今日出而言，日中不決，何也？」楚王怒叱曰：「胡不下！⟦6⟧吾乃與而君言，⟦7⟧汝何爲者也？」毛遂按劍而前曰：「王之所以叱遂者，以楚國之衆也。今十步之內，王不得恃楚國之衆也！王之命懸於遂手。吾君在前，叱者何也？且遂聞湯以七十里之地王天下，⟦8⟧文王以百里之壤而臣諸侯，豈其士卒衆多哉？誠能據其勢而奮其威也。今楚地方五千里，持戟百萬，此霸王之資也。以楚之強，天下弗能當。白起，小豎子耳，率數萬之衆，興師以與楚戰，一戰而舉鄢、郢，再戰而燒夷陵，⟦9⟧三戰而辱王之先人，⟦10⟧此百世之怨而趙之所羞，而王弗之惡焉。合從者爲楚，非爲趙也。吾君在前，叱者何也？」楚王曰：「唯唯，⟦11⟧誠若先生之言，謹奉社稷以從。」⟦12⟧毛遂曰：「從定乎？」楚王曰：「定矣。」毛遂謂楚王之左右曰：「取雞、狗、馬之血來！」⟦13⟧毛遂奉銅盤而跪進之楚王曰：「王當歃血以定從；⟦14⟧次者吾君，次者遂。」遂定從於殿上。毛遂左手持盤血而右手招十九人曰：「公等相與歃此血於堂下！公等錄錄，所謂『因人成事』者也。」⟦15⟧平原君已定從而歸，至於趙，曰：「勝不敢〔章：十二行本「敢」下有「復」字；乙十一行本同；孔本同；張校同；退齋校同。〕相天下士矣！」⟦16⟧遂以毛遂爲上客。",
+   "mentions": [
+    {
+     "entity_id": "P026",
+     "entity_name": "赵孝成王",
+     "entity_type": "person",
+     "start": 0,
+     "end": 2,
+     "surface": "趙王"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 3,
+     "end": 6,
+     "surface": "平原君"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 9,
+     "end": 10,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 11,
+     "end": 14,
+     "surface": "平原君"
+    },
+    {
+     "entity_id": "E021",
+     "entity_name": "毛遂自荐",
+     "entity_type": "event",
+     "start": 43,
+     "end": 47,
+     "surface": "毛遂自薦"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 48,
+     "end": 51,
+     "surface": "平原君"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 55,
+     "end": 58,
+     "surface": "平原君"
+    },
+    {
+     "entity_id": "P060",
+     "entity_name": "毛遂",
+     "entity_type": "person",
+     "start": 134,
+     "end": 136,
+     "surface": "毛遂"
+    },
+    {
+     "entity_id": "C015",
+     "entity_name": "脱颖而出",
+     "entity_type": "concept",
+     "start": 158,
+     "end": 162,
+     "surface": "脫穎而出"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 175,
+     "end": 178,
+     "surface": "平原君"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 195,
+     "end": 198,
+     "surface": "平原君"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 199,
+     "end": 200,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 202,
+     "end": 203,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "C002",
+     "entity_name": "合纵",
+     "entity_type": "concept",
+     "start": 205,
+     "end": 207,
+     "surface": "合從"
+    },
+    {
+     "entity_id": "P060",
+     "entity_name": "毛遂",
+     "entity_type": "person",
+     "start": 222,
+     "end": 224,
+     "surface": "毛遂"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 232,
+     "end": 235,
+     "surface": "平原君"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 267,
+     "end": 268,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P060",
+     "entity_name": "毛遂",
+     "entity_type": "person",
+     "start": 298,
+     "end": 300,
+     "surface": "毛遂"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 316,
+     "end": 317,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 332,
+     "end": 333,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P073",
+     "entity_name": "商汤",
+     "entity_type": "person",
+     "start": 359,
+     "end": 360,
+     "surface": "湯"
+    },
+    {
+     "entity_id": "P074",
+     "entity_name": "周文王",
+     "entity_type": "person",
+     "start": 373,
+     "end": 375,
+     "surface": "文王"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 405,
+     "end": 406,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 425,
+     "end": 426,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 435,
+     "end": 437,
+     "surface": "白起"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 453,
+     "end": 454,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L043",
+     "entity_name": "鄢",
+     "entity_type": "place",
+     "start": 460,
+     "end": 461,
+     "surface": "鄢"
+    },
+    {
+     "entity_id": "L044",
+     "entity_name": "郢",
+     "entity_type": "place",
+     "start": 462,
+     "end": 463,
+     "surface": "郢"
+    },
+    {
+     "entity_id": "L042",
+     "entity_name": "夷陵",
+     "entity_type": "place",
+     "start": 468,
+     "end": 470,
+     "surface": "夷陵"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 493,
+     "end": 494,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "C002",
+     "entity_name": "合纵",
+     "entity_type": "concept",
+     "start": 505,
+     "end": 507,
+     "surface": "合從"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 509,
+     "end": 510,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 513,
+     "end": 514,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 527,
+     "end": 528,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P060",
+     "entity_name": "毛遂",
+     "entity_type": "person",
+     "start": 558,
+     "end": 560,
+     "surface": "毛遂"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 568,
+     "end": 569,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P060",
+     "entity_name": "毛遂",
+     "entity_type": "person",
+     "start": 577,
+     "end": 579,
+     "surface": "毛遂"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 580,
+     "end": 581,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P060",
+     "entity_name": "毛遂",
+     "entity_type": "person",
+     "start": 603,
+     "end": 605,
+     "surface": "毛遂"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 612,
+     "end": 613,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "C019",
+     "entity_name": "歃血",
+     "entity_type": "concept",
+     "start": 619,
+     "end": 621,
+     "surface": "歃血"
+    },
+    {
+     "entity_id": "P060",
+     "entity_name": "毛遂",
+     "entity_type": "person",
+     "start": 646,
+     "end": 648,
+     "surface": "毛遂"
+    },
+    {
+     "entity_id": "C014",
+     "entity_name": "因人成事",
+     "entity_type": "concept",
+     "start": 682,
+     "end": 686,
+     "surface": "因人成事"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 695,
+     "end": 698,
+     "surface": "平原君"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 706,
+     "end": 707,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P060",
+     "entity_name": "毛遂",
+     "entity_type": "person",
+     "start": 765,
+     "end": 767,
+     "surface": "毛遂"
+    }
+   ]
+  },
+  {
+   "para_id": "p53",
+   "text": "於是楚王使春申君將兵救趙，魏王亦使將軍晉鄙將兵十萬救趙。⟦0⟧秦王使謂魏王曰：「吾攻趙，旦暮且下，諸侯敢救之者，吾已拔趙，必移兵先擊之！」魏王恐，遣人止晉鄙，留兵壁鄴，⟦1⟧名爲救趙，實挾兩端。⟦2⟧又使將軍新垣衍間入邯鄲，⟦3⟧因平原君說趙王，欲共尊秦爲帝，以卻其兵。齊人魯仲連在邯鄲，聞之，往見新垣衍曰：「彼秦者，棄禮義而上首功之國也。⟦4⟧彼卽肆然而爲帝於天下，則連有蹈東海而死耳，不願爲之民也！且梁未睹秦稱帝之害故耳，吾將使秦王烹醢梁王！」新垣衍怏然不悅⟦5⟧曰：「先生惡能使秦王烹醢梁王？」⟦6⟧魯仲連曰：「固也，吾將言之。昔者九侯、鄂侯、文王，紂之三公也。九侯有子而好，獻之於紂，紂以爲惡，醢九侯；⟦7⟧鄂侯爭之強，辯之疾，故脯鄂侯；文王聞之，喟然而歎，故拘之牖里之庫百日，欲令之死。⟦8⟧今秦，萬乘之國也，梁，亦萬乘之國也；俱據萬乘之國，各有稱王之名，奈何睹其一戰而勝，欲從而帝之，卒就脯醢之地乎！⟦9⟧且秦無已而帝，則將行其天子之禮以號令於天下，則且變易諸侯之大臣，彼將奪其所不肖而與其所賢，奪其所憎而與其所愛，彼又將使其子女讒妾爲諸侯妃姬，處梁之宮，⟦10⟧梁王安得晏然而已乎！而將軍又何以得故寵乎！」新垣衍起，再拜曰：「吾乃今知先生天下之士也！吾請出，不敢復言帝秦矣！」⟦11⟧",
+   "mentions": [
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 2,
+     "end": 3,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P002",
+     "entity_name": "黄歇",
+     "entity_type": "person",
+     "start": 5,
+     "end": 8,
+     "surface": "春申君"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 11,
+     "end": 12,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P066",
+     "entity_name": "魏王",
+     "entity_type": "person",
+     "start": 13,
+     "end": 15,
+     "surface": "魏王"
+    },
+    {
+     "entity_id": "P053",
+     "entity_name": "晋鄙",
+     "entity_type": "person",
+     "start": 19,
+     "end": 21,
+     "surface": "晉鄙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 26,
+     "end": 27,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P019",
+     "entity_name": "秦昭襄王",
+     "entity_type": "person",
+     "start": 31,
+     "end": 33,
+     "surface": "秦王"
+    },
+    {
+     "entity_id": "P066",
+     "entity_name": "魏王",
+     "entity_type": "person",
+     "start": 35,
+     "end": 37,
+     "surface": "魏王"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 42,
+     "end": 43,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 59,
+     "end": 60,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P066",
+     "entity_name": "魏王",
+     "entity_type": "person",
+     "start": 69,
+     "end": 71,
+     "surface": "魏王"
+    },
+    {
+     "entity_id": "P053",
+     "entity_name": "晋鄙",
+     "entity_type": "person",
+     "start": 76,
+     "end": 78,
+     "surface": "晉鄙"
+    },
+    {
+     "entity_id": "L038",
+     "entity_name": "邺",
+     "entity_type": "place",
+     "start": 82,
+     "end": 83,
+     "surface": "鄴"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 90,
+     "end": 91,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P054",
+     "entity_name": "新垣衍",
+     "entity_type": "person",
+     "start": 104,
+     "end": 107,
+     "surface": "新垣衍"
+    },
+    {
+     "entity_id": "L013",
+     "entity_name": "邯郸",
+     "entity_type": "place",
+     "start": 109,
+     "end": 111,
+     "surface": "邯鄲"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 116,
+     "end": 119,
+     "surface": "平原君"
+    },
+    {
+     "entity_id": "P026",
+     "entity_name": "赵孝成王",
+     "entity_type": "person",
+     "start": 120,
+     "end": 122,
+     "surface": "趙王"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 126,
+     "end": 127,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L006",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 135,
+     "end": 136,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P055",
+     "entity_name": "鲁仲连",
+     "entity_type": "person",
+     "start": 137,
+     "end": 140,
+     "surface": "魯仲連"
+    },
+    {
+     "entity_id": "L013",
+     "entity_name": "邯郸",
+     "entity_type": "place",
+     "start": 141,
+     "end": 143,
+     "surface": "邯鄲"
+    },
+    {
+     "entity_id": "P054",
+     "entity_name": "新垣衍",
+     "entity_type": "person",
+     "start": 149,
+     "end": 152,
+     "surface": "新垣衍"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 156,
+     "end": 157,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "C018",
+     "entity_name": "上首功",
+     "entity_type": "concept",
+     "start": 163,
+     "end": 166,
+     "surface": "上首功"
+    },
+    {
+     "entity_id": "L048",
+     "entity_name": "东海",
+     "entity_type": "place",
+     "start": 188,
+     "end": 190,
+     "surface": "東海"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 205,
+     "end": 206,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P019",
+     "entity_name": "秦昭襄王",
+     "entity_type": "person",
+     "start": 216,
+     "end": 218,
+     "surface": "秦王"
+    },
+    {
+     "entity_id": "P054",
+     "entity_name": "新垣衍",
+     "entity_type": "person",
+     "start": 224,
+     "end": 227,
+     "surface": "新垣衍"
+    },
+    {
+     "entity_id": "P019",
+     "entity_name": "秦昭襄王",
+     "entity_type": "person",
+     "start": 242,
+     "end": 244,
+     "surface": "秦王"
+    },
+    {
+     "entity_id": "P055",
+     "entity_name": "鲁仲连",
+     "entity_type": "person",
+     "start": 253,
+     "end": 256,
+     "surface": "魯仲連"
+    },
+    {
+     "entity_id": "P075",
+     "entity_name": "九侯",
+     "entity_type": "person",
+     "start": 269,
+     "end": 271,
+     "surface": "九侯"
+    },
+    {
+     "entity_id": "P076",
+     "entity_name": "鄂侯",
+     "entity_type": "person",
+     "start": 272,
+     "end": 274,
+     "surface": "鄂侯"
+    },
+    {
+     "entity_id": "P074",
+     "entity_name": "周文王",
+     "entity_type": "person",
+     "start": 275,
+     "end": 277,
+     "surface": "文王"
+    },
+    {
+     "entity_id": "P077",
+     "entity_name": "商纣",
+     "entity_type": "person",
+     "start": 278,
+     "end": 279,
+     "surface": "紂"
+    },
+    {
+     "entity_id": "P075",
+     "entity_name": "九侯",
+     "entity_type": "person",
+     "start": 284,
+     "end": 286,
+     "surface": "九侯"
+    },
+    {
+     "entity_id": "P077",
+     "entity_name": "商纣",
+     "entity_type": "person",
+     "start": 294,
+     "end": 295,
+     "surface": "紂"
+    },
+    {
+     "entity_id": "P077",
+     "entity_name": "商纣",
+     "entity_type": "person",
+     "start": 296,
+     "end": 297,
+     "surface": "紂"
+    },
+    {
+     "entity_id": "P075",
+     "entity_name": "九侯",
+     "entity_type": "person",
+     "start": 302,
+     "end": 304,
+     "surface": "九侯"
+    },
+    {
+     "entity_id": "P076",
+     "entity_name": "鄂侯",
+     "entity_type": "person",
+     "start": 308,
+     "end": 310,
+     "surface": "鄂侯"
+    },
+    {
+     "entity_id": "P076",
+     "entity_name": "鄂侯",
+     "entity_type": "person",
+     "start": 320,
+     "end": 322,
+     "surface": "鄂侯"
+    },
+    {
+     "entity_id": "P074",
+     "entity_name": "周文王",
+     "entity_type": "person",
+     "start": 323,
+     "end": 325,
+     "surface": "文王"
+    },
+    {
+     "entity_id": "L046",
+     "entity_name": "牖里",
+     "entity_type": "place",
+     "start": 336,
+     "end": 338,
+     "surface": "牖里"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 352,
+     "end": 353,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 410,
+     "end": 411,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P054",
+     "entity_name": "新垣衍",
+     "entity_type": "person",
+     "start": 510,
+     "end": 513,
+     "surface": "新垣衍"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 541,
+     "end": 542,
+     "surface": "秦"
+    }
+   ]
+  },
+  {
+   "para_id": "p54",
+   "text": "2燕武成王薨，子孝王立。",
+   "mentions": [
+    {
+     "entity_id": "P009",
+     "entity_name": "燕武成王",
+     "entity_type": "person",
+     "start": 1,
+     "end": 5,
+     "surface": "燕武成王"
+    },
+    {
+     "entity_id": "P010",
+     "entity_name": "燕孝王",
+     "entity_type": "person",
+     "start": 8,
+     "end": 10,
+     "surface": "孝王"
+    }
+   ]
+  },
+  {
+   "para_id": "p55",
+   "text": "3初，魏公子無忌仁而下士，⟦0⟧致食客三千人。魏有隱士曰侯嬴，⟦1⟧年七十，家貧，爲大梁夷門監者。⟦2⟧公子置酒大會賓客，坐定，公子從車騎虛左自迎侯生。⟦3⟧侯生攝敝衣冠，直上載公子上坐不讓；⟦4⟧公子執轡愈恭。侯生又謂公子曰：「臣有客在市屠中，願枉車騎過之。」公子引車入市，侯生下見其客朱亥，⟦5⟧睥睨，故久立，與其客語，⟦6⟧微察公子，公子色愈和；乃謝客就車，至公子家。公子引侯生坐上坐，徧贊賓客，賓客皆驚。⟦7⟧及秦圍趙，趙平原君之夫人，公子無忌之姊也，平原君使者冠蓋相屬於魏，⟦8⟧讓公子曰：「勝所以自附於婚姻者，以公子之高義，能急人之困也。今邯鄲旦暮降秦而魏救不至，縱公子輕勝棄之，獨不憐公子姊邪！」⟦9⟧公子患之，數請魏王敕晉鄙令救趙，⟦10⟧及賓客辯士游說萬端，王終不聽。公子乃屬賓客⟦11⟧約車騎百餘乘，欲赴鬬以死於趙；過夷門，見侯生。侯生曰：「公子勉之矣，老臣不能從！」⟦12⟧公子去，行數里，心不快，⟦13⟧復還見侯生。侯生笑曰：「臣固知公子之還也！⟦14⟧今公子無他端而欲赴秦軍，⟦15⟧譬如以肉投餒虎，何功之有！」公子再拜問計。侯嬴屛人曰：「吾聞晉鄙兵符在王臥內，而如姬最幸，力能竊之。嘗聞公子爲如姬報其父仇，⟦16⟧如姬欲爲公子死無所辭。公子誠一開口，則得虎符，⟦17⟧奪晉鄙之兵，北救趙，西卻秦，此五伯之功也。」⟦18⟧公子如其言，果得兵符。公子行，侯生曰：「將在外，君令有所不受。⟦19⟧有如晉鄙合符而不授兵，復請之，則事危矣。⟦20⟧臣客朱亥，其人力士，可與俱。晉鄙若聽，大善；不聽，可使擊之！」於是公子請朱亥與俱。至鄴，晉鄙合符，疑之，舉手視公子曰：「吾擁十萬之衆屯於境上，〔章：十二行本「上」下有「國之重任」四字；乙十一行本同；孔本同；張校同；退齋校同。〕今單車來代之，何如哉？」朱亥袖四十斤鐵椎，椎殺晉鄙，⟦21⟧公子遂勒兵下令軍中曰：「父子俱在軍中者，父歸！兄弟俱在軍中者，兄歸！獨子無兄弟者，歸養！」⟦22⟧得選兵八萬人，將之而進。",
+   "mentions": [
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P056",
+     "entity_name": "魏无忌",
+     "entity_type": "person",
+     "start": 4,
+     "end": 8,
+     "surface": "公子無忌"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 23,
+     "end": 24,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P057",
+     "entity_name": "侯嬴",
+     "entity_type": "person",
+     "start": 28,
+     "end": 30,
+     "surface": "侯嬴"
+    },
+    {
+     "entity_id": "L036",
+     "entity_name": "大梁",
+     "entity_type": "place",
+     "start": 42,
+     "end": 44,
+     "surface": "大梁"
+    },
+    {
+     "entity_id": "L037",
+     "entity_name": "夷门",
+     "entity_type": "place",
+     "start": 44,
+     "end": 46,
+     "surface": "夷門"
+    },
+    {
+     "entity_id": "P058",
+     "entity_name": "朱亥",
+     "entity_type": "person",
+     "start": 144,
+     "end": 146,
+     "surface": "朱亥"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 210,
+     "end": 211,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 212,
+     "end": 213,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 214,
+     "end": 215,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 215,
+     "end": 218,
+     "surface": "平原君"
+    },
+    {
+     "entity_id": "P056",
+     "entity_name": "魏无忌",
+     "entity_type": "person",
+     "start": 222,
+     "end": 226,
+     "surface": "公子無忌"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 230,
+     "end": 233,
+     "surface": "平原君"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 240,
+     "end": 241,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L013",
+     "entity_name": "邯郸",
+     "entity_type": "place",
+     "start": 276,
+     "end": 278,
+     "surface": "邯鄲"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 281,
+     "end": 282,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 283,
+     "end": 284,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P066",
+     "entity_name": "魏王",
+     "entity_type": "person",
+     "start": 315,
+     "end": 317,
+     "surface": "魏王"
+    },
+    {
+     "entity_id": "P053",
+     "entity_name": "晋鄙",
+     "entity_type": "person",
+     "start": 318,
+     "end": 320,
+     "surface": "晉鄙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 322,
+     "end": 323,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 366,
+     "end": 367,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L037",
+     "entity_name": "夷门",
+     "entity_type": "place",
+     "start": 369,
+     "end": 371,
+     "surface": "夷門"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 448,
+     "end": 449,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P057",
+     "entity_name": "侯嬴",
+     "entity_type": "person",
+     "start": 476,
+     "end": 478,
+     "surface": "侯嬴"
+    },
+    {
+     "entity_id": "P053",
+     "entity_name": "晋鄙",
+     "entity_type": "person",
+     "start": 485,
+     "end": 487,
+     "surface": "晉鄙"
+    },
+    {
+     "entity_id": "P059",
+     "entity_name": "如姬",
+     "entity_type": "person",
+     "start": 495,
+     "end": 497,
+     "surface": "如姬"
+    },
+    {
+     "entity_id": "P059",
+     "entity_name": "如姬",
+     "entity_type": "person",
+     "start": 510,
+     "end": 512,
+     "surface": "如姬"
+    },
+    {
+     "entity_id": "P059",
+     "entity_name": "如姬",
+     "entity_type": "person",
+     "start": 521,
+     "end": 523,
+     "surface": "如姬"
+    },
+    {
+     "entity_id": "C004",
+     "entity_name": "虎符",
+     "entity_type": "concept",
+     "start": 541,
+     "end": 543,
+     "surface": "虎符"
+    },
+    {
+     "entity_id": "P053",
+     "entity_name": "晋鄙",
+     "entity_type": "person",
+     "start": 549,
+     "end": 551,
+     "surface": "晉鄙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 556,
+     "end": 557,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 560,
+     "end": 561,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "C007",
+     "entity_name": "五霸",
+     "entity_type": "concept",
+     "start": 563,
+     "end": 565,
+     "surface": "五伯"
+    },
+    {
+     "entity_id": "P053",
+     "entity_name": "晋鄙",
+     "entity_type": "person",
+     "start": 611,
+     "end": 613,
+     "surface": "晉鄙"
+    },
+    {
+     "entity_id": "P058",
+     "entity_name": "朱亥",
+     "entity_type": "person",
+     "start": 635,
+     "end": 637,
+     "surface": "朱亥"
+    },
+    {
+     "entity_id": "P053",
+     "entity_name": "晋鄙",
+     "entity_type": "person",
+     "start": 647,
+     "end": 649,
+     "surface": "晉鄙"
+    },
+    {
+     "entity_id": "P058",
+     "entity_name": "朱亥",
+     "entity_type": "person",
+     "start": 669,
+     "end": 671,
+     "surface": "朱亥"
+    },
+    {
+     "entity_id": "L038",
+     "entity_name": "邺",
+     "entity_type": "place",
+     "start": 675,
+     "end": 676,
+     "surface": "鄴"
+    },
+    {
+     "entity_id": "P053",
+     "entity_name": "晋鄙",
+     "entity_type": "person",
+     "start": 677,
+     "end": 679,
+     "surface": "晉鄙"
+    },
+    {
+     "entity_id": "P058",
+     "entity_name": "朱亥",
+     "entity_type": "person",
+     "start": 758,
+     "end": 760,
+     "surface": "朱亥"
+    },
+    {
+     "entity_id": "P053",
+     "entity_name": "晋鄙",
+     "entity_type": "person",
+     "start": 769,
+     "end": 771,
+     "surface": "晉鄙"
+    }
+   ]
+  },
+  {
+   "para_id": "p56",
+   "text": "王齕久圍邯鄲不拔，諸侯來救，戰數不利。⟦0⟧武安君聞之曰：「王不聽吾計，今何如矣？」⟦1⟧王聞之，怒，強起武安君。⟦2⟧武安君稱病篤，不肯起。",
+   "mentions": [
+    {
+     "entity_id": "P038",
+     "entity_name": "王龁",
+     "entity_type": "person",
+     "start": 0,
+     "end": 2,
+     "surface": "王齕"
+    },
+    {
+     "entity_id": "L013",
+     "entity_name": "邯郸",
+     "entity_type": "place",
+     "start": 4,
+     "end": 6,
+     "surface": "邯鄲"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 22,
+     "end": 25,
+     "surface": "武安君"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 53,
+     "end": 56,
+     "surface": "武安君"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 60,
+     "end": 63,
+     "surface": "武安君"
+    }
+   ]
+  },
+  {
+   "para_id": "p57",
+   "text": "五十八年（甲辰、前二五七年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p58",
+   "text": "1十月，免武安君爲士伍，遷之陰密。⟦0⟧十二月，益發卒軍汾城旁。⟦1⟧武安君病，未行，諸侯攻王齕，齕數卻，⟦2⟧使者日至，⟦3⟧王乃使人遣武安君，不得留咸陽中。武安君出咸陽西門十里，至杜郵。⟦4⟧王與應侯、羣臣謀曰：「白起之遷，意尙怏怏有餘言。」⟦5⟧王乃使使者賜之劍，武安君遂自殺。秦人憐之，鄕邑皆祭祀焉。",
+   "mentions": [
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 5,
+     "end": 8,
+     "surface": "武安君"
+    },
+    {
+     "entity_id": "L032",
+     "entity_name": "阴密",
+     "entity_type": "place",
+     "start": 14,
+     "end": 16,
+     "surface": "陰密"
+    },
+    {
+     "entity_id": "L033",
+     "entity_name": "汾城",
+     "entity_type": "place",
+     "start": 28,
+     "end": 30,
+     "surface": "汾城"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 35,
+     "end": 38,
+     "surface": "武安君"
+    },
+    {
+     "entity_id": "P038",
+     "entity_name": "王龁",
+     "entity_type": "person",
+     "start": 46,
+     "end": 48,
+     "surface": "王齕"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 69,
+     "end": 72,
+     "surface": "武安君"
+    },
+    {
+     "entity_id": "L035",
+     "entity_name": "咸阳",
+     "entity_type": "place",
+     "start": 76,
+     "end": 78,
+     "surface": "咸陽"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 80,
+     "end": 83,
+     "surface": "武安君"
+    },
+    {
+     "entity_id": "L035",
+     "entity_name": "咸阳",
+     "entity_type": "place",
+     "start": 84,
+     "end": 86,
+     "surface": "咸陽"
+    },
+    {
+     "entity_id": "L034",
+     "entity_name": "杜邮",
+     "entity_type": "place",
+     "start": 92,
+     "end": 94,
+     "surface": "杜郵"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 100,
+     "end": 102,
+     "surface": "應侯"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 109,
+     "end": 111,
+     "surface": "白起"
+    },
+    {
+     "entity_id": "P037",
+     "entity_name": "白起",
+     "entity_type": "person",
+     "start": 135,
+     "end": 138,
+     "surface": "武安君"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 142,
+     "end": 143,
+     "surface": "秦"
+    }
+   ]
+  },
+  {
+   "para_id": "p59",
+   "text": "魏公子無忌大破秦師於邯鄲下，王齕解邯鄲圍走。鄭安平爲趙所困，將二萬人降趙，⟦0⟧應侯由是得罪。⟦1⟧",
+   "mentions": [
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 0,
+     "end": 1,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P056",
+     "entity_name": "魏无忌",
+     "entity_type": "person",
+     "start": 1,
+     "end": 5,
+     "surface": "公子無忌"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 7,
+     "end": 8,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L013",
+     "entity_name": "邯郸",
+     "entity_type": "place",
+     "start": 10,
+     "end": 12,
+     "surface": "邯鄲"
+    },
+    {
+     "entity_id": "P038",
+     "entity_name": "王龁",
+     "entity_type": "person",
+     "start": 14,
+     "end": 16,
+     "surface": "王齕"
+    },
+    {
+     "entity_id": "L013",
+     "entity_name": "邯郸",
+     "entity_type": "place",
+     "start": 17,
+     "end": 19,
+     "surface": "邯鄲"
+    },
+    {
+     "entity_id": "P022",
+     "entity_name": "郑安平",
+     "entity_type": "person",
+     "start": 22,
+     "end": 25,
+     "surface": "鄭安平"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 26,
+     "end": 27,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 35,
+     "end": 36,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P018",
+     "entity_name": "范睢",
+     "entity_type": "person",
+     "start": 40,
+     "end": 42,
+     "surface": "應侯"
+    }
+   ]
+  },
+  {
+   "para_id": "p60",
+   "text": "公子無忌旣存趙，遂不敢歸魏，與賓客留居趙，使將將其軍還魏。⟦0⟧趙王與平原君計，以五城封公子。趙王掃除自迎，執主人之禮，引公子就西階。公子側行辭讓，從東階上，⟦1⟧自言辠過，⟦2⟧以負於魏，無功於趙。趙王與公子飲至暮，口不忍獻五城，以公子退讓也。趙王以鄗爲公子湯沐邑。⟦3⟧魏亦復以信陵奉公子。⟦4⟧公子聞趙有處士毛公隱於博徒，薛公隱於賣漿家，⟦5⟧欲見之，兩人不肯見；公子乃間步從之游。平原君聞而非之。公子曰：「吾聞平原君之賢，故背魏而救趙。今平原君所與遊，徒豪舉耳，⟦6⟧不求士也。以無忌從此兩人遊，尙恐其不我欲也，平原君乃以爲羞乎！」爲裝欲去。⟦7⟧平原君免冠謝，乃止。",
+   "mentions": [
+    {
+     "entity_id": "P056",
+     "entity_name": "魏无忌",
+     "entity_type": "person",
+     "start": 0,
+     "end": 4,
+     "surface": "公子無忌"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 6,
+     "end": 7,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 12,
+     "end": 13,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 19,
+     "end": 20,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 27,
+     "end": 28,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P026",
+     "entity_name": "赵孝成王",
+     "entity_type": "person",
+     "start": 32,
+     "end": 34,
+     "surface": "趙王"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 35,
+     "end": 38,
+     "surface": "平原君"
+    },
+    {
+     "entity_id": "P026",
+     "entity_name": "赵孝成王",
+     "entity_type": "person",
+     "start": 47,
+     "end": 49,
+     "surface": "趙王"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 93,
+     "end": 94,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 98,
+     "end": 99,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P026",
+     "entity_name": "赵孝成王",
+     "entity_type": "person",
+     "start": 100,
+     "end": 102,
+     "surface": "趙王"
+    },
+    {
+     "entity_id": "P026",
+     "entity_name": "赵孝成王",
+     "entity_type": "person",
+     "start": 123,
+     "end": 125,
+     "surface": "趙王"
+    },
+    {
+     "entity_id": "L047",
+     "entity_name": "鄗",
+     "entity_type": "place",
+     "start": 126,
+     "end": 127,
+     "surface": "鄗"
+    },
+    {
+     "entity_id": "C008",
+     "entity_name": "汤沐邑",
+     "entity_type": "concept",
+     "start": 130,
+     "end": 133,
+     "surface": "湯沐邑"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 137,
+     "end": 138,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "P056",
+     "entity_name": "魏无忌",
+     "entity_type": "person",
+     "start": 141,
+     "end": 143,
+     "surface": "信陵"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 153,
+     "end": 154,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "C009",
+     "entity_name": "处士",
+     "entity_type": "concept",
+     "start": 155,
+     "end": 157,
+     "surface": "處士"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 194,
+     "end": 197,
+     "surface": "平原君"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 209,
+     "end": 212,
+     "surface": "平原君"
+    },
+    {
+     "entity_id": "L003",
+     "entity_name": "魏",
+     "entity_type": "place",
+     "start": 217,
+     "end": 218,
+     "surface": "魏"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 220,
+     "end": 221,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 223,
+     "end": 226,
+     "surface": "平原君"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 260,
+     "end": 263,
+     "surface": "平原君"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 278,
+     "end": 281,
+     "surface": "平原君"
+    }
+   ]
+  },
+  {
+   "para_id": "p61",
+   "text": "平原君欲封魯連，⟦0⟧使者三返，終不肯受。⟦1⟧又以千金爲魯連壽，魯連笑曰：「所貴於天下士，〔章：十二行本「下」下有「之」字；「士」下有「者」字；乙十一行本同；孔本同。〕爲人排患釋難解紛亂而無取也。⟦2⟧卽有取，〔章：十二行本「取」下有「者」字；乙十一行本同；孔本同。〕是商賈之事也！」⟦3⟧遂〔章：十二行本「遂」上有「而連不忍爲也」六字；乙十一行本同；孔本同；張校同；退齋校同。〕辭平原君而去，終身不復見。⟦4⟧",
+   "mentions": [
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 0,
+     "end": 3,
+     "surface": "平原君"
+    },
+    {
+     "entity_id": "P055",
+     "entity_name": "鲁仲连",
+     "entity_type": "person",
+     "start": 5,
+     "end": 7,
+     "surface": "魯連"
+    },
+    {
+     "entity_id": "P055",
+     "entity_name": "鲁仲连",
+     "entity_type": "person",
+     "start": 29,
+     "end": 31,
+     "surface": "魯連"
+    },
+    {
+     "entity_id": "P055",
+     "entity_name": "鲁仲连",
+     "entity_type": "person",
+     "start": 33,
+     "end": 35,
+     "surface": "魯連"
+    },
+    {
+     "entity_id": "C021",
+     "entity_name": "商贾",
+     "entity_type": "concept",
+     "start": 136,
+     "end": 138,
+     "surface": "商賈"
+    },
+    {
+     "entity_id": "P013",
+     "entity_name": "平原君",
+     "entity_type": "person",
+     "start": 192,
+     "end": 195,
+     "surface": "平原君"
+    }
+   ]
+  },
+  {
+   "para_id": "p62",
+   "text": "2秦太子之妃曰華陽夫人，⟦0⟧無子；夏姬生子異人。異人質於趙；秦數伐趙，趙人不禮之。⟦1⟧異人以庶孽孫質於諸侯，車乘進用不饒，⟦2⟧居處困不得意。",
+   "mentions": [
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P032",
+     "entity_name": "华阳夫人",
+     "entity_type": "person",
+     "start": 7,
+     "end": 11,
+     "surface": "華陽夫人"
+    },
+    {
+     "entity_id": "P033",
+     "entity_name": "夏姬",
+     "entity_type": "person",
+     "start": 18,
+     "end": 20,
+     "surface": "夏姬"
+    },
+    {
+     "entity_id": "P034",
+     "entity_name": "异人",
+     "entity_type": "person",
+     "start": 22,
+     "end": 24,
+     "surface": "異人"
+    },
+    {
+     "entity_id": "P034",
+     "entity_name": "异人",
+     "entity_type": "person",
+     "start": 25,
+     "end": 27,
+     "surface": "異人"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 29,
+     "end": 30,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 31,
+     "end": 32,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 34,
+     "end": 35,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 36,
+     "end": 37,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P034",
+     "entity_name": "异人",
+     "entity_type": "person",
+     "start": 45,
+     "end": 47,
+     "surface": "異人"
+    }
+   ]
+  },
+  {
+   "para_id": "p63",
+   "text": "陽翟大賈呂不韋適邯鄲，見之，曰：「此奇貨可居！」⟦0⟧乃往見異人，說曰：「吾能大子之門！」⟦1⟧異人笑曰：「且自大君之門！」不韋曰：「子不知也，吾門待子門而大。」異人心知所謂，乃引與坐，深語。不韋曰：「秦王老矣。太子愛華陽夫人，夫人無子，子之兄弟二十餘人，子傒有秦〔章：十二行本「秦」作「承」；乙十一行本同；孔本同；退齋校同。〕國之業，⟦2⟧士倉又輔之。⟦3⟧子居中，不甚見幸，久質諸侯。太子卽位，子不得爭爲嗣矣。」⟦4⟧異人曰：「然則柰何？」不韋曰：「能立適嗣者，獨華陽夫人耳。⟦5⟧不韋雖貧，請以千金爲子西遊，立子爲嗣。」異人曰：「必如君策，請得分秦國與君共之。」不韋乃以五百金與異人，令結賓客。復以五百金買奇物玩好，⟦6⟧自奉而西，見華陽夫人之姊，而以奇物獻於夫人，因譽子異人之賢，⟦7⟧賓客徧天下，常日夜泣思太子及夫人，曰：「異人也以夫人爲天！」夫人大喜。不韋因使其姊說夫人曰：⟦8⟧「夫以色事人者，色衰則愛弛。⟦9⟧今夫人愛而無子，不以繁華時蚤自結於諸子中賢孝者，舉以爲適，⟦10⟧卽色衰愛弛，雖欲開一言，尙可得乎！今子異人賢，而自知中子，⟦11⟧不得爲適，夫人誠以此時拔之，是子異人無國而有國，夫人無子而有子也，則終身有寵於秦矣。」夫人以爲然，承間言於太子曰：⟦12⟧「子異人絕賢，⟦13⟧來往者皆稱譽之。」因泣曰：「妾不幸無子，願得子異人立以爲子〔章：十二行本「子」作「嗣」；乙十一行本同；孔本同。〕以託妾身！」太子許之，與夫人刻玉符，約以爲嗣，因厚餽遺異人，⟦14⟧而請呂不韋傅之。異人名譽盛於諸侯。",
+   "mentions": [
+    {
+     "entity_id": "L045",
+     "entity_name": "阳翟",
+     "entity_type": "place",
+     "start": 0,
+     "end": 2,
+     "surface": "陽翟"
+    },
+    {
+     "entity_id": "P035",
+     "entity_name": "吕不韦",
+     "entity_type": "person",
+     "start": 4,
+     "end": 7,
+     "surface": "呂不韋"
+    },
+    {
+     "entity_id": "L013",
+     "entity_name": "邯郸",
+     "entity_type": "place",
+     "start": 8,
+     "end": 10,
+     "surface": "邯鄲"
+    },
+    {
+     "entity_id": "C005",
+     "entity_name": "奇货可居",
+     "entity_type": "concept",
+     "start": 18,
+     "end": 22,
+     "surface": "奇貨可居"
+    },
+    {
+     "entity_id": "P034",
+     "entity_name": "异人",
+     "entity_type": "person",
+     "start": 30,
+     "end": 32,
+     "surface": "異人"
+    },
+    {
+     "entity_id": "P034",
+     "entity_name": "异人",
+     "entity_type": "person",
+     "start": 48,
+     "end": 50,
+     "surface": "異人"
+    },
+    {
+     "entity_id": "P034",
+     "entity_name": "异人",
+     "entity_type": "person",
+     "start": 81,
+     "end": 83,
+     "surface": "異人"
+    },
+    {
+     "entity_id": "P019",
+     "entity_name": "秦昭襄王",
+     "entity_type": "person",
+     "start": 101,
+     "end": 103,
+     "surface": "秦王"
+    },
+    {
+     "entity_id": "P032",
+     "entity_name": "华阳夫人",
+     "entity_type": "person",
+     "start": 109,
+     "end": 113,
+     "surface": "華陽夫人"
+    },
+    {
+     "entity_id": "P063",
+     "entity_name": "子傒",
+     "entity_type": "person",
+     "start": 128,
+     "end": 130,
+     "surface": "子傒"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 131,
+     "end": 132,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 140,
+     "end": 141,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P064",
+     "entity_name": "士仓",
+     "entity_type": "person",
+     "start": 171,
+     "end": 173,
+     "surface": "士倉"
+    },
+    {
+     "entity_id": "P034",
+     "entity_name": "异人",
+     "entity_type": "person",
+     "start": 211,
+     "end": 213,
+     "surface": "異人"
+    },
+    {
+     "entity_id": "C020",
+     "entity_name": "嫡嗣",
+     "entity_type": "concept",
+     "start": 229,
+     "end": 231,
+     "surface": "適嗣"
+    },
+    {
+     "entity_id": "P032",
+     "entity_name": "华阳夫人",
+     "entity_type": "person",
+     "start": 234,
+     "end": 238,
+     "surface": "華陽夫人"
+    },
+    {
+     "entity_id": "P034",
+     "entity_name": "异人",
+     "entity_type": "person",
+     "start": 263,
+     "end": 265,
+     "surface": "異人"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 276,
+     "end": 277,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P034",
+     "entity_name": "异人",
+     "entity_type": "person",
+     "start": 292,
+     "end": 294,
+     "surface": "異人"
+    },
+    {
+     "entity_id": "P032",
+     "entity_name": "华阳夫人",
+     "entity_type": "person",
+     "start": 320,
+     "end": 324,
+     "surface": "華陽夫人"
+    },
+    {
+     "entity_id": "P034",
+     "entity_name": "异人",
+     "entity_type": "person",
+     "start": 339,
+     "end": 341,
+     "surface": "異人"
+    },
+    {
+     "entity_id": "P034",
+     "entity_name": "异人",
+     "entity_type": "person",
+     "start": 367,
+     "end": 369,
+     "surface": "異人"
+    },
+    {
+     "entity_id": "P034",
+     "entity_name": "异人",
+     "entity_type": "person",
+     "start": 465,
+     "end": 467,
+     "surface": "異人"
+    },
+    {
+     "entity_id": "P034",
+     "entity_name": "异人",
+     "entity_type": "person",
+     "start": 495,
+     "end": 497,
+     "surface": "異人"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 518,
+     "end": 519,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P034",
+     "entity_name": "异人",
+     "entity_type": "person",
+     "start": 542,
+     "end": 544,
+     "surface": "異人"
+    },
+    {
+     "entity_id": "P034",
+     "entity_name": "异人",
+     "entity_type": "person",
+     "start": 574,
+     "end": 576,
+     "surface": "異人"
+    },
+    {
+     "entity_id": "P034",
+     "entity_name": "异人",
+     "entity_type": "person",
+     "start": 634,
+     "end": 636,
+     "surface": "異人"
+    },
+    {
+     "entity_id": "P035",
+     "entity_name": "吕不韦",
+     "entity_type": "person",
+     "start": 643,
+     "end": 646,
+     "surface": "呂不韋"
+    },
+    {
+     "entity_id": "P034",
+     "entity_name": "异人",
+     "entity_type": "person",
+     "start": 649,
+     "end": 651,
+     "surface": "異人"
+    }
+   ]
+  },
+  {
+   "para_id": "p64",
+   "text": "呂不韋娶邯鄲諸〔章：十二行本無「諸」字；乙十一行本同；孔本同。〕姬絕美者與居，⟦0⟧知其有娠，⟦1⟧異人從不韋飲，見而請之。不韋佯怒，旣而獻之，孕期年而生子政，⟦2⟧異人遂以爲夫人。邯鄲之圍，趙人欲殺之，異人與不韋行金六百斤予守者，⟦3⟧脫亡赴秦軍，遂得歸。異人楚服而見華陽夫人，⟦4⟧夫人曰：「吾楚人也，當自子之。」因更其名曰楚。⟦5⟧",
+   "mentions": [
+    {
+     "entity_id": "P035",
+     "entity_name": "吕不韦",
+     "entity_type": "person",
+     "start": 0,
+     "end": 3,
+     "surface": "呂不韋"
+    },
+    {
+     "entity_id": "L013",
+     "entity_name": "邯郸",
+     "entity_type": "place",
+     "start": 4,
+     "end": 6,
+     "surface": "邯鄲"
+    },
+    {
+     "entity_id": "P034",
+     "entity_name": "异人",
+     "entity_type": "person",
+     "start": 50,
+     "end": 52,
+     "surface": "異人"
+    },
+    {
+     "entity_id": "P034",
+     "entity_name": "异人",
+     "entity_type": "person",
+     "start": 83,
+     "end": 85,
+     "surface": "異人"
+    },
+    {
+     "entity_id": "L013",
+     "entity_name": "邯郸",
+     "entity_type": "place",
+     "start": 91,
+     "end": 93,
+     "surface": "邯鄲"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 96,
+     "end": 97,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P034",
+     "entity_name": "异人",
+     "entity_type": "person",
+     "start": 102,
+     "end": 104,
+     "surface": "異人"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 122,
+     "end": 123,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P034",
+     "entity_name": "异人",
+     "entity_type": "person",
+     "start": 129,
+     "end": 131,
+     "surface": "異人"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 131,
+     "end": 132,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P032",
+     "entity_name": "华阳夫人",
+     "entity_type": "person",
+     "start": 135,
+     "end": 139,
+     "surface": "華陽夫人"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 149,
+     "end": 150,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L001",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 164,
+     "end": 165,
+     "surface": "楚"
+    }
+   ]
+  },
+  {
+   "para_id": "p65",
+   "text": "五十九年（乙巳、前二五六年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p66",
+   "text": "1秦將軍摎伐韓，⟦0⟧取陽城、負黍，斬首四萬。伐趙，取二十餘縣，斬首虜九萬。赧王恐，背秦，與諸侯約從，將天下銳師出伊闕攻秦，令無得通陽城。⟦1⟧秦王使將軍摎攻西周，赧王入秦，頓首受罪，盡獻其邑三十六，口三萬。秦受其獻，歸赧王於周。是歲，赧王崩。⟦2⟧",
+   "mentions": [
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 1,
+     "end": 2,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P062",
+     "entity_name": "摎",
+     "entity_type": "person",
+     "start": 4,
+     "end": 5,
+     "surface": "摎"
+    },
+    {
+     "entity_id": "L005",
+     "entity_name": "韩",
+     "entity_type": "place",
+     "start": 6,
+     "end": 7,
+     "surface": "韓"
+    },
+    {
+     "entity_id": "L039",
+     "entity_name": "阳城",
+     "entity_type": "place",
+     "start": 12,
+     "end": 14,
+     "surface": "陽城"
+    },
+    {
+     "entity_id": "L040",
+     "entity_name": "负黍",
+     "entity_type": "place",
+     "start": 15,
+     "end": 17,
+     "surface": "負黍"
+    },
+    {
+     "entity_id": "L004",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 24,
+     "end": 25,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P001",
+     "entity_name": "周赧王",
+     "entity_type": "person",
+     "start": 38,
+     "end": 40,
+     "surface": "赧王"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 43,
+     "end": 44,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L041",
+     "entity_name": "伊阙",
+     "entity_type": "place",
+     "start": 57,
+     "end": 59,
+     "surface": "伊闕"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 60,
+     "end": 61,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L039",
+     "entity_name": "阳城",
+     "entity_type": "place",
+     "start": 66,
+     "end": 68,
+     "surface": "陽城"
+    },
+    {
+     "entity_id": "P019",
+     "entity_name": "秦昭襄王",
+     "entity_type": "person",
+     "start": 72,
+     "end": 74,
+     "surface": "秦王"
+    },
+    {
+     "entity_id": "P062",
+     "entity_name": "摎",
+     "entity_type": "person",
+     "start": 77,
+     "end": 78,
+     "surface": "摎"
+    },
+    {
+     "entity_id": "L008",
+     "entity_name": "西周",
+     "entity_type": "place",
+     "start": 79,
+     "end": 81,
+     "surface": "西周"
+    },
+    {
+     "entity_id": "P001",
+     "entity_name": "周赧王",
+     "entity_type": "person",
+     "start": 82,
+     "end": 84,
+     "surface": "赧王"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 85,
+     "end": 86,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "L002",
+     "entity_name": "秦",
+     "entity_type": "place",
+     "start": 104,
+     "end": 105,
+     "surface": "秦"
+    },
+    {
+     "entity_id": "P001",
+     "entity_name": "周赧王",
+     "entity_type": "person",
+     "start": 110,
+     "end": 112,
+     "surface": "赧王"
+    },
+    {
+     "entity_id": "P001",
+     "entity_name": "周赧王",
+     "entity_type": "person",
+     "start": 118,
+     "end": 120,
+     "surface": "赧王"
+    }
+   ]
+  }
+ ]
+}
