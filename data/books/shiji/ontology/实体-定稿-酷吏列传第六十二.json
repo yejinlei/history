@@ -2,8 +2,8 @@
   "book_id": "shiji",
   "chapter_id": "shiji-酷吏列傳第六十二",
   "chapter_title": "酷吏列传第六十二",
-  "version": "1.0",
-  "generated_at": "2026-11-02 08:30:16",
+  "version": "final",
+  "generated_at": "2026-11-02T08:38:56.753742",
   "entities": {
     "persons": [
       {
@@ -1026,6 +1026,24 @@
           "p2"
         ],
         "id": "person_kl_041b"
+      },
+      {
+        "name": "杜延寿",
+        "alias": [],
+        "note": "杜周长子，任河内太守，治法暴酷",
+        "evidence": [
+          "p41"
+        ],
+        "id": "person_089"
+      },
+      {
+        "name": "杜延考",
+        "alias": [],
+        "note": "杜周次子，任河南太守，治法暴酷",
+        "evidence": [
+          "p41"
+        ],
+        "id": "person_090"
       }
     ],
     "places": [
@@ -2163,273 +2181,560 @@
         ],
         "id": "concept_kl_030"
       }
+    ],
+    "relations": [
+      {
+        "from": "person_kl_008",
+        "type": "直谏",
+        "to": "person_kl_006",
+        "evidence": "p2"
+      },
+      {
+        "from": "person_kl_008",
+        "type": "劝阻救驾",
+        "to": "person_kl_006",
+        "evidence": "p2"
+      },
+      {
+        "from": "person_kl_008",
+        "type": "治理",
+        "to": "place_kl_004",
+        "evidence": "p3"
+      },
+      {
+        "from": "person_kl_008",
+        "type": "迁中尉",
+        "to": "person_kl_006",
+        "evidence": "p5"
+      },
+      {
+        "from": "person_kl_008",
+        "type": "号苍鹰",
+        "to": "concept_kl_007",
+        "evidence": "p5"
+      },
+      {
+        "from": "person_kl_008",
+        "type": "作揖",
+        "to": "person_kl_021",
+        "evidence": "p5"
+      },
+      {
+        "from": "person_kl_008",
+        "type": "禁给刀笔",
+        "to": "person_kl_012",
+        "evidence": "p6"
+      },
+      {
+        "from": "person_kl_008",
+        "type": "守备",
+        "to": "place_kl_005",
+        "evidence": "p6"
+      },
+      {
+        "from": "person_kl_007",
+        "type": "辅佐景帝",
+        "to": "person_kl_006",
+        "evidence": "p1"
+      },
+      {
+        "from": "person_kl_009",
+        "type": "事景帝",
+        "to": "person_kl_006",
+        "evidence": "p7"
+      },
+      {
+        "from": "person_kl_009",
+        "type": "任都尉",
+        "to": "place_kl_004",
+        "evidence": "p7"
+      },
+      {
+        "from": "person_kl_009",
+        "type": "交好",
+        "to": "person_kl_008",
+        "evidence": "p7"
+      },
+      {
+        "from": "person_kl_009",
+        "type": "任中尉",
+        "to": "place_kl_001",
+        "evidence": "p7"
+      },
+      {
+        "from": "person_kl_009",
+        "type": "迁内史",
+        "to": "person_kl_034",
+        "evidence": "p8"
+      },
+      {
+        "from": "person_kl_009",
+        "type": "诈传出关",
+        "to": "place_kl_007",
+        "evidence": "p8"
+      },
+      {
+        "from": "person_kl_028",
+        "type": "评价",
+        "to": "person_kl_009",
+        "evidence": "p26"
+      },
+      {
+        "from": "person_kl_014",
+        "type": "以宗家为郎",
+        "to": "person_kl_015",
+        "evidence": "p9"
+      },
+      {
+        "from": "person_kl_014",
+        "type": "暴酷骄恣",
+        "to": "person_kl_034",
+        "evidence": "p9"
+      },
+      {
+        "from": "person_kl_014",
+        "type": "争权",
+        "to": "person_kl_019",
+        "evidence": "p10"
+      },
+      {
+        "from": "person_kl_020",
+        "type": "事周亚夫",
+        "to": "person_kl_021",
+        "evidence": "p12"
+      },
+      {
+        "from": "person_kl_020",
+        "type": "定律令",
+        "to": "person_kl_022",
+        "evidence": "p12"
+      },
+      {
+        "from": "person_kl_020",
+        "type": "制定",
+        "to": "concept_kl_009",
+        "evidence": "p12"
+      },
+      {
+        "from": "person_kl_020",
+        "type": "责备",
+        "to": "person_kl_022",
+        "evidence": "p22"
+      },
+      {
+        "from": "person_kl_020",
+        "type": "暗示自裁",
+        "to": "person_kl_022",
+        "evidence": "p22"
+      },
+      {
+        "from": "person_kl_022",
+        "type": "结交",
+        "to": "person_kl_023",
+        "evidence": "p14"
+      },
+      {
+        "from": "person_kl_022",
+        "type": "为属吏",
+        "to": "person_kl_009",
+        "evidence": "p14"
+      },
+      {
+        "from": "person_kl_022",
+        "type": "治茂陵",
+        "to": "place_kl_011",
+        "evidence": "p14"
+      },
+      {
+        "from": "person_kl_022",
+        "type": "被征召",
+        "to": "person_kl_024",
+        "evidence": "p15"
+      },
+      {
+        "from": "person_kl_028",
+        "type": "称赞",
+        "to": "person_kl_022",
+        "evidence": "p16"
+      },
+      {
+        "from": "person_kl_022",
+        "type": "穷治反狱",
+        "to": "person_kl_029",
+        "evidence": "p16"
+      },
+      {
+        "from": "person_kl_022",
+        "type": "诛杀",
+        "to": "person_kl_033",
+        "evidence": "p16"
+      },
+      {
+        "from": "person_kl_022",
+        "type": "斥为愚儒",
+        "to": "person_kl_036",
+        "evidence": "p18"
+      },
+      {
+        "from": "person_kl_036",
+        "type": "斥为诈忠",
+        "to": "person_kl_022",
+        "evidence": "p18"
+      },
+      {
+        "from": "person_kl_026",
+        "type": "责备过失",
+        "to": "person_kl_022",
+        "evidence": "p19"
+      },
+      {
+        "from": "person_kl_022",
+        "type": "败亡",
+        "to": "event_kl_023",
+        "evidence": "p20"
+      },
+      {
+        "from": "person_kl_038",
+        "type": "上变告",
+        "to": "person_kl_037",
+        "evidence": "p21"
+      },
+      {
+        "from": "person_kl_022",
+        "type": "论杀",
+        "to": "person_kl_037",
+        "evidence": "p21"
+      },
+      {
+        "from": "person_kl_022",
+        "type": "探病摩足",
+        "to": "person_kl_038",
+        "evidence": "p21"
+      },
+      {
+        "from": "person_kl_039",
+        "type": "告发",
+        "to": "person_kl_022",
+        "evidence": "p21"
+      },
+      {
+        "from": "person_kl_040",
+        "type": "穷治",
+        "to": "person_kl_022",
+        "evidence": "p21"
+      },
+      {
+        "from": "person_kl_022",
+        "type": "欲罪丞相",
+        "to": "person_kl_042",
+        "evidence": "p21"
+      },
+      {
+        "from": "person_kl_043",
+        "type": "陷害",
+        "to": "person_kl_022",
+        "evidence": "p22"
+      },
+      {
+        "from": "person_kl_044",
+        "type": "陷害",
+        "to": "person_kl_022",
+        "evidence": "p22"
+      },
+      {
+        "from": "person_kl_045",
+        "type": "陷害",
+        "to": "person_kl_022",
+        "evidence": "p22"
+      },
+      {
+        "from": "person_kl_034",
+        "type": "八辈簿责",
+        "to": "person_kl_022",
+        "evidence": "p22"
+      },
+      {
+        "from": "person_kl_022",
+        "type": "遗书谢罪",
+        "to": "person_kl_034",
+        "evidence": "p22"
+      },
+      {
+        "from": "person_kl_022",
+        "type": "自杀",
+        "to": "event_kl_023",
+        "evidence": "p22"
+      },
+      {
+        "from": "person_kl_034",
+        "type": "诛三长史",
+        "to": "person_kl_043",
+        "evidence": "p23"
+      },
+      {
+        "from": "person_kl_042",
+        "type": "自杀",
+        "to": "event_kl_023",
+        "evidence": "p23"
+      },
+      {
+        "from": "person_kl_034",
+        "type": "提拔",
+        "to": "person_kl_047",
+        "evidence": "p23"
+      },
+      {
+        "from": "person_kl_022",
+        "type": "交私",
+        "to": "person_kl_026",
+        "evidence": "p15"
+      },
+      {
+        "from": "person_kl_022",
+        "type": "交私",
+        "to": "person_kl_027",
+        "evidence": "p15"
+      },
+      {
+        "from": "person_kl_048",
+        "type": "为盗",
+        "to": "person_kl_049",
+        "evidence": "p25"
+      },
+      {
+        "from": "person_kl_048",
+        "type": "因姊得官",
+        "to": "person_kl_050",
+        "evidence": "p25"
+      },
+      {
+        "from": "person_kl_048",
+        "type": "迁都尉",
+        "to": "place_kl_012",
+        "evidence": "p25"
+      },
+      {
+        "from": "person_kl_048",
+        "type": "迁太守",
+        "to": "place_kl_013",
+        "evidence": "p26"
+      },
+      {
+        "from": "person_kl_048",
+        "type": "破宁氏家",
+        "to": "person_kl_009",
+        "evidence": "p26"
+      },
+      {
+        "from": "person_kl_048",
+        "type": "任用",
+        "to": "person_kl_055",
+        "evidence": "p26"
+      },
+      {
+        "from": "person_kl_048",
+        "type": "鹰击毛挚",
+        "to": "concept_kl_013",
+        "evidence": "p27"
+      },
+      {
+        "from": "person_kl_048",
+        "type": "触怒武帝",
+        "to": "person_kl_034",
+        "evidence": "p27"
+      },
+      {
+        "from": "person_kl_048",
+        "type": "捕杨可使者",
+        "to": "person_kl_058",
+        "evidence": "p27"
+      },
+      {
+        "from": "person_kl_048",
+        "type": "弃市",
+        "to": "event_kl_026",
+        "evidence": "p27"
+      },
+      {
+        "from": "person_kl_059",
+        "type": "事张汤",
+        "to": "person_kl_022",
+        "evidence": "p28"
+      },
+      {
+        "from": "person_kl_059",
+        "type": "迁都尉",
+        "to": "place_kl_020",
+        "evidence": "p28"
+      },
+      {
+        "from": "person_kl_059",
+        "type": "迁太守",
+        "to": "place_kl_012",
+        "evidence": "p29"
+      },
+      {
+        "from": "person_kl_059",
+        "type": "设私驿",
+        "to": "place_kl_001",
+        "evidence": "p29"
+      },
+      {
+        "from": "person_kl_059",
+        "type": "捕豪猾",
+        "to": "event_kl_027",
+        "evidence": "p29"
+      },
+      {
+        "from": "person_kl_059",
+        "type": "叹冬月短",
+        "to": "event_kl_027",
+        "evidence": "p29"
+      },
+      {
+        "from": "person_kl_059",
+        "type": "忌惮义纵",
+        "to": "person_kl_048",
+        "evidence": "p29"
+      },
+      {
+        "from": "person_kl_059",
+        "type": "设缿筒",
+        "to": "concept_kl_017",
+        "evidence": "p32"
+      },
+      {
+        "from": "person_kl_059",
+        "type": "击东越",
+        "to": "place_kl_025",
+        "evidence": "p33"
+      },
+      {
+        "from": "person_kl_059",
+        "type": "匿吏",
+        "to": "person_kl_067",
+        "evidence": "p34"
+      },
+      {
+        "from": "person_kl_064",
+        "type": "事张汤",
+        "to": "person_kl_022",
+        "evidence": "p30"
+      },
+      {
+        "from": "person_kl_064",
+        "type": "迁中尉",
+        "to": "person_kl_034",
+        "evidence": "p30"
+      },
+      {
+        "from": "person_kl_065",
+        "type": "被荀彘缚",
+        "to": "person_kl_066",
+        "evidence": "p31"
+      },
+      {
+        "from": "person_kl_069",
+        "type": "南阳起事",
+        "to": "place_kl_013",
+        "evidence": "p36"
+      },
+      {
+        "from": "person_kl_070",
+        "type": "南阳起事",
+        "to": "place_kl_013",
+        "evidence": "p36"
+      },
+      {
+        "from": "person_kl_073",
+        "type": "齐地起事",
+        "to": "place_kl_029",
+        "evidence": "p36"
+      },
+      {
+        "from": "person_kl_040",
+        "type": "被荐",
+        "to": "person_kl_078",
+        "evidence": "p37"
+      },
+      {
+        "from": "person_kl_040",
+        "type": "审理主父偃",
+        "to": "person_kl_079",
+        "evidence": "p37"
+      },
+      {
+        "from": "person_kl_040",
+        "type": "审理淮南狱",
+        "to": "person_kl_029",
+        "evidence": "p37"
+      },
+      {
+        "from": "person_kl_040",
+        "type": "击杀",
+        "to": "person_kl_063",
+        "evidence": "p37"
+      },
+      {
+        "from": "person_kl_040",
+        "type": "射中苑门",
+        "to": "place_kl_003",
+        "evidence": "p37"
+      },
+      {
+        "from": "person_kl_055",
+        "type": "被举荐",
+        "to": "person_kl_048",
+        "evidence": "p38"
+      },
+      {
+        "from": "person_kl_055",
+        "type": "事张汤",
+        "to": "person_kl_022",
+        "evidence": "p38"
+      },
+      {
+        "from": "person_kl_055",
+        "type": "任中丞",
+        "to": "person_kl_040",
+        "evidence": "p38"
+      },
+      {
+        "from": "person_kl_055",
+        "type": "论法从君",
+        "to": "concept_kl_019",
+        "evidence": "p39"
+      },
+      {
+        "from": "person_kl_055",
+        "type": "迁执金吾",
+        "to": "person_kl_034",
+        "evidence": "p41"
+      },
+      {
+        "from": "person_kl_055",
+        "type": "捕治",
+        "to": "person_kl_081",
+        "evidence": "p41"
+      },
+      {
+        "from": "person_kl_055",
+        "type": "迁御史大夫",
+        "to": "person_kl_034",
+        "evidence": "p41"
+      },
+      {
+        "from": "person_089",
+        "type": "为河内守",
+        "to": "person_kl_055",
+        "evidence": "p41"
+      },
+      {
+        "from": "person_090",
+        "type": "为河南守",
+        "to": "person_kl_055",
+        "evidence": "p41"
+      }
     ]
-  },
-  "relations": [
-    {
-      "type": "論德禮政刑",
-      "from": "孔子",
-      "to": "德礼之治",
-      "evidence": [
-        "p0"
-      ]
-    },
-    {
-      "type": "論法令滋章",
-      "from": "老子",
-      "to": "法令滋章",
-      "evidence": [
-        "p0"
-      ]
-    },
-    {
-      "type": "行破觚寬政",
-      "from": "司马迁（太史公）",
-      "to": "汉初破觚为圜",
-      "evidence": [
-        "p0"
-      ]
-    },
-    {
-      "type": "刻轢凌宗室",
-      "from": "侯封",
-      "to": "吕雉（高后、吕后）",
-      "evidence": [
-        "p1"
-      ]
-    },
-    {
-      "type": "刻深輔資被戮",
-      "from": "晁错",
-      "to": "刘启（汉景帝）",
-      "evidence": [
-        "p1"
-      ]
-    },
-    {
-      "type": "上林諫救賈姬",
-      "from": "郅都",
-      "to": "贾姬",
-      "evidence": [
-        "p2"
-      ]
-    },
-    {
-      "type": "族滅瞷氏首惡",
-      "from": "郅都",
-      "to": "济南郡",
-      "evidence": [
-        "p3"
-      ]
-    },
-    {
-      "type": "號為蒼鷹",
-      "from": "郅都",
-      "to": "苍鹰",
-      "evidence": [
-        "p5"
-      ]
-    },
-    {
-      "type": "迫臨江王自殺",
-      "from": "郅都",
-      "to": "刘荣（临江王）",
-      "evidence": [
-        "p6"
-      ]
-    },
-    {
-      "type": "守雁門卻匈奴",
-      "from": "郅都",
-      "to": "雁门郡",
-      "evidence": [
-        "p6"
-      ]
-    },
-    {
-      "type": "為竇太后所斬",
-      "from": "窦太后",
-      "to": "郅都",
-      "evidence": [
-        "p6"
-      ]
-    },
-    {
-      "type": "逃歸買陂田",
-      "from": "宁成",
-      "to": "函谷关",
-      "evidence": [
-        "p8"
-      ]
-    },
-    {
-      "type": "作乳虎之謠",
-      "from": "宁成",
-      "to": "乳虎",
-      "evidence": [
-        "p26"
-      ]
-    },
-    {
-      "type": "與勝屠公爭權",
-      "from": "周阳由",
-      "to": "胜屠公",
-      "evidence": [
-        "p10"
-      ]
-    },
-    {
-      "type": "與張湯定見知法",
-      "from": "赵禹",
-      "to": "张汤",
-      "evidence": [
-        "p12",
-        "p15"
-      ]
-    },
-    {
-      "type": "幼時劾鼠磔肉",
-      "from": "张汤",
-      "to": "张汤劾鼠磔肉",
-      "evidence": [
-        "p13"
-      ]
-    },
-    {
-      "type": "治陳皇后蠱獄",
-      "from": "张汤",
-      "to": "陈皇后",
-      "evidence": [
-        "p15"
-      ]
-    },
-    {
-      "type": "附會春秋決獄",
-      "from": "张汤",
-      "to": "春秋决狱",
-      "evidence": [
-        "p16"
-      ]
-    },
-    {
-      "type": "窮治淮南反獄",
-      "from": "张汤",
-      "to": "刘安（淮南王）",
-      "evidence": [
-        "p16"
-      ]
-    },
-    {
-      "type": "承旨行告緡",
-      "from": "张汤",
-      "to": "告缗令",
-      "evidence": [
-        "p17"
-      ]
-    },
-    {
-      "type": "折狄山和親議",
-      "from": "张汤",
-      "to": "狄山",
-      "evidence": [
-        "p18"
-      ]
-    },
-    {
-      "type": "為魯謁居摩足",
-      "from": "张汤",
-      "to": "鲁谒居",
-      "evidence": [
-        "p21"
-      ]
-    },
-    {
-      "type": "遭三長史陷害",
-      "from": "张汤",
-      "to": "朱买臣",
-      "evidence": [
-        "p22"
-      ]
-    },
-    {
-      "type": "自殺有棺無槨",
-      "from": "张汤",
-      "to": "张安世",
-      "evidence": [
-        "p23"
-      ]
-    },
-    {
-      "type": "河內族滅穰氏",
-      "from": "义纵",
-      "to": "河内郡",
-      "evidence": [
-        "p25"
-      ]
-    },
-    {
-      "type": "定襄日殺四百",
-      "from": "义纵",
-      "to": "定襄郡",
-      "evidence": [
-        "p26"
-      ]
-    },
-    {
-      "type": "廢格沮事棄市",
-      "from": "义纵",
-      "to": "杨可",
-      "evidence": [
-        "p27"
-      ]
-    },
-    {
-      "type": "河內流血嘆冬月",
-      "from": "王温舒",
-      "to": "河内郡",
-      "evidence": [
-        "p29"
-      ]
-    },
-    {
-      "type": "發卒作通天臺",
-      "from": "王温舒",
-      "to": "刘彻（汉武帝）",
-      "evidence": [
-        "p33"
-      ]
-    },
-    {
-      "type": "匿吏罪發自殺",
-      "from": "王温舒",
-      "to": "华成",
-      "evidence": [
-        "p34"
-      ]
-    },
-    {
-      "type": "微文深詆治獄",
-      "from": "减宣",
-      "to": "主父偃",
-      "evidence": [
-        "p37"
-      ]
-    },
-    {
-      "type": "論三尺法從君意",
-      "from": "杜周",
-      "to": "三尺法",
-      "evidence": [
-        "p39"
-      ]
-    },
-    {
-      "type": "為御史大夫訾巨萬",
-      "from": "杜周",
-      "to": "桑弘羊",
-      "evidence": [
-        "p41"
-      ]
-    }
-  ]
+  }
 }
