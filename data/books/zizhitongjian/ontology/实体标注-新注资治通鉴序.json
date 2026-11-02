@@ -1,0 +1,1243 @@
+{
+  "book_id": "zizhitongjian",
+  "chapter_id": "zzj-0001",
+  "chapter_title": "新注资治通鉴序",
+  "version": "1.0",
+  "generated_at": "2026-11-02",
+  "paragraphs": [
+    {
+      "para_id": "p0",
+      "mentions": [
+        {
+          "entity_id": "L01",
+          "entity_name": "晉",
+          "entity_type": "place",
+          "start": 12,
+          "end": 13,
+          "surface": "晉"
+        },
+        {
+          "entity_id": "L02",
+          "entity_name": "楚",
+          "entity_type": "place",
+          "start": 15,
+          "end": 16,
+          "surface": "楚"
+        },
+        {
+          "entity_id": "C04",
+          "entity_name": "春秋",
+          "entity_type": "concept",
+          "start": 24,
+          "end": 26,
+          "surface": "春秋"
+        },
+        {
+          "entity_id": "L04",
+          "entity_name": "周",
+          "entity_type": "place",
+          "start": 32,
+          "end": 33,
+          "surface": "周"
+        },
+        {
+          "entity_id": "L03",
+          "entity_name": "秦",
+          "entity_type": "place",
+          "start": 49,
+          "end": 50,
+          "surface": "秦"
+        },
+        {
+          "entity_id": "E01",
+          "entity_name": "秦燔書",
+          "entity_type": "event",
+          "start": 54,
+          "end": 58,
+          "surface": "燔天下書"
+        },
+        {
+          "entity_id": "L03",
+          "entity_name": "秦",
+          "entity_type": "place",
+          "start": 115,
+          "end": 116,
+          "surface": "秦"
+        },
+        {
+          "entity_id": "P02",
+          "entity_name": "司馬遷",
+          "entity_type": "person",
+          "start": 118,
+          "end": 121,
+          "surface": "太史公"
+        },
+        {
+          "entity_id": "C04",
+          "entity_name": "春秋",
+          "entity_type": "concept",
+          "start": 122,
+          "end": 124,
+          "surface": "春秋"
+        },
+        {
+          "entity_id": "L03",
+          "entity_name": "秦",
+          "entity_type": "place",
+          "start": 134,
+          "end": 135,
+          "surface": "秦"
+        },
+        {
+          "entity_id": "P02",
+          "entity_name": "司馬遷",
+          "entity_type": "person",
+          "start": 168,
+          "end": 170,
+          "surface": "子長"
+        },
+        {
+          "entity_id": "C06",
+          "entity_name": "五德終始",
+          "entity_type": "concept",
+          "start": 177,
+          "end": 181,
+          "surface": "終始五德"
+        },
+        {
+          "entity_id": "C05",
+          "entity_name": "孔子序書",
+          "entity_type": "concept",
+          "start": 194,
+          "end": 198,
+          "surface": "孔子序書"
+        },
+        {
+          "entity_id": "P01",
+          "entity_name": "孔子",
+          "entity_type": "person",
+          "start": 212,
+          "end": 214,
+          "surface": "夫子"
+        },
+        {
+          "entity_id": "P02",
+          "entity_name": "司馬遷",
+          "entity_type": "person",
+          "start": 225,
+          "end": 227,
+          "surface": "子長"
+        },
+        {
+          "entity_id": "P01",
+          "entity_name": "孔子",
+          "entity_type": "person",
+          "start": 228,
+          "end": 230,
+          "surface": "夫子"
+        },
+        {
+          "entity_id": "L06",
+          "entity_name": "汲冢",
+          "entity_type": "place",
+          "start": 246,
+          "end": 248,
+          "surface": "汲冢"
+        },
+        {
+          "entity_id": "L01",
+          "entity_name": "晉",
+          "entity_type": "place",
+          "start": 252,
+          "end": 253,
+          "surface": "晉"
+        },
+        {
+          "entity_id": "C02",
+          "entity_name": "編年體",
+          "entity_type": "concept",
+          "start": 257,
+          "end": 259,
+          "surface": "編年"
+        },
+        {
+          "entity_id": "L04",
+          "entity_name": "周",
+          "entity_type": "place",
+          "start": 268,
+          "end": 269,
+          "surface": "周"
+        },
+        {
+          "entity_id": "L05",
+          "entity_name": "魏",
+          "entity_type": "place",
+          "start": 271,
+          "end": 272,
+          "surface": "魏"
+        },
+        {
+          "entity_id": "L05",
+          "entity_name": "魏",
+          "entity_type": "place",
+          "start": 280,
+          "end": 281,
+          "surface": "魏"
+        },
+        {
+          "entity_id": "L03",
+          "entity_name": "秦",
+          "entity_type": "place",
+          "start": 286,
+          "end": 287,
+          "surface": "秦"
+        },
+        {
+          "entity_id": "L01",
+          "entity_name": "晉",
+          "entity_type": "place",
+          "start": 291,
+          "end": 292,
+          "surface": "晉"
+        },
+        {
+          "entity_id": "P02",
+          "entity_name": "司馬遷",
+          "entity_type": "person",
+          "start": 295,
+          "end": 297,
+          "surface": "子長"
+        },
+        {
+          "entity_id": "P02",
+          "entity_name": "司馬遷",
+          "entity_type": "person",
+          "start": 302,
+          "end": 304,
+          "surface": "子長"
+        },
+        {
+          "entity_id": "P03",
+          "entity_name": "班固",
+          "entity_type": "person",
+          "start": 321,
+          "end": 324,
+          "surface": "班孟堅"
+        },
+        {
+          "entity_id": "P04",
+          "entity_name": "荀悅",
+          "entity_type": "person",
+          "start": 357,
+          "end": 359,
+          "surface": "荀悅"
+        },
+        {
+          "entity_id": "P05",
+          "entity_name": "梁武帝",
+          "entity_type": "person",
+          "start": 375,
+          "end": 378,
+          "surface": "梁武帝"
+        },
+        {
+          "entity_id": "E02",
+          "entity_name": "侯景之亂",
+          "entity_type": "event",
+          "start": 385,
+          "end": 389,
+          "surface": "侯景之亂"
+        },
+        {
+          "entity_id": "E03",
+          "entity_name": "王僧辯平建業",
+          "entity_type": "event",
+          "start": 390,
+          "end": 396,
+          "surface": "王僧辯平建業"
+        },
+        {
+          "entity_id": "L08",
+          "entity_name": "文德殿",
+          "entity_type": "place",
+          "start": 398,
+          "end": 401,
+          "surface": "文德殿"
+        },
+        {
+          "entity_id": "E04",
+          "entity_name": "江陵之陷",
+          "entity_type": "event",
+          "start": 408,
+          "end": 412,
+          "surface": "江陵之陷"
+        },
+        {
+          "entity_id": "C02",
+          "entity_name": "編年體",
+          "entity_type": "concept",
+          "start": 423,
+          "end": 425,
+          "surface": "編年"
+        },
+        {
+          "entity_id": "P08",
+          "entity_name": "王通",
+          "entity_type": "person",
+          "start": 438,
+          "end": 441,
+          "surface": "王仲淹"
+        },
+        {
+          "entity_id": "P09",
+          "entity_name": "蕭穎士",
+          "entity_type": "person",
+          "start": 447,
+          "end": 450,
+          "surface": "蕭穎士"
+        },
+        {
+          "entity_id": "C04",
+          "entity_name": "春秋",
+          "entity_type": "concept",
+          "start": 451,
+          "end": 453,
+          "surface": "春秋"
+        },
+        {
+          "entity_id": "C13",
+          "entity_name": "乙部",
+          "entity_type": "concept",
+          "start": 476,
+          "end": 478,
+          "surface": "乙部"
+        },
+        {
+          "entity_id": "C03",
+          "entity_name": "正史",
+          "entity_type": "concept",
+          "start": 486,
+          "end": 488,
+          "surface": "正史"
+        },
+        {
+          "entity_id": "C02",
+          "entity_name": "編年體",
+          "entity_type": "concept",
+          "start": 489,
+          "end": 491,
+          "surface": "編年"
+        },
+        {
+          "entity_id": "C02",
+          "entity_name": "編年體",
+          "entity_type": "concept",
+          "start": 507,
+          "end": 509,
+          "surface": "編年"
+        }
+      ]
+    },
+    {
+      "para_id": "p1",
+      "mentions": [
+        {
+          "entity_id": "P11",
+          "entity_name": "宋英宗",
+          "entity_type": "person",
+          "start": 2,
+          "end": 6,
+          "surface": "英宗皇帝"
+        },
+        {
+          "entity_id": "C02",
+          "entity_name": "編年體",
+          "entity_type": "concept",
+          "start": 19,
+          "end": 21,
+          "surface": "編年"
+        },
+        {
+          "entity_id": "P12",
+          "entity_name": "宋神宗",
+          "entity_type": "person",
+          "start": 24,
+          "end": 28,
+          "surface": "神宗皇帝"
+        },
+        {
+          "entity_id": "C01",
+          "entity_name": "資治通鑑",
+          "entity_type": "concept",
+          "start": 43,
+          "end": 47,
+          "surface": "資治通鑑"
+        },
+        {
+          "entity_id": "P10",
+          "entity_name": "司馬光",
+          "entity_type": "person",
+          "start": 59,
+          "end": 61,
+          "surface": "溫公"
+        },
+        {
+          "entity_id": "E06",
+          "entity_name": "治平熙寧之爭",
+          "entity_type": "event",
+          "start": 93,
+          "end": 99,
+          "surface": "治平、熙寧間"
+        },
+        {
+          "entity_id": "P20",
+          "entity_name": "蕭何",
+          "entity_type": "person",
+          "start": 114,
+          "end": 115,
+          "surface": "蕭"
+        },
+        {
+          "entity_id": "P21",
+          "entity_name": "曹參",
+          "entity_type": "person",
+          "start": 116,
+          "end": 117,
+          "surface": "曹"
+        },
+        {
+          "entity_id": "L10",
+          "entity_name": "西京",
+          "entity_type": "place",
+          "start": 133,
+          "end": 135,
+          "surface": "西京"
+        },
+        {
+          "entity_id": "P13",
+          "entity_name": "智伯",
+          "entity_type": "person",
+          "start": 162,
+          "end": 164,
+          "surface": "智伯"
+        },
+        {
+          "entity_id": "P14",
+          "entity_name": "樊英",
+          "entity_type": "person",
+          "start": 169,
+          "end": 171,
+          "surface": "樊英"
+        },
+        {
+          "entity_id": "P15",
+          "entity_name": "唐太宗",
+          "entity_type": "person",
+          "start": 176,
+          "end": 179,
+          "surface": "唐太宗"
+        },
+        {
+          "entity_id": "P16",
+          "entity_name": "李德裕",
+          "entity_type": "person",
+          "start": 185,
+          "end": 188,
+          "surface": "李德裕"
+        },
+        {
+          "entity_id": "P17",
+          "entity_name": "牛僧孺",
+          "entity_type": "person",
+          "start": 189,
+          "end": 192,
+          "surface": "牛僧孺"
+        },
+        {
+          "entity_id": "L11",
+          "entity_name": "維州",
+          "entity_type": "place",
+          "start": 193,
+          "end": 195,
+          "surface": "維州"
+        },
+        {
+          "entity_id": "P18",
+          "entity_name": "黃幡綽",
+          "entity_type": "person",
+          "start": 203,
+          "end": 206,
+          "surface": "黃幡綽"
+        },
+        {
+          "entity_id": "P19",
+          "entity_name": "石野猪",
+          "entity_type": "person",
+          "start": 207,
+          "end": 210,
+          "surface": "石野猪"
+        },
+        {
+          "entity_id": "C02",
+          "entity_name": "編年體",
+          "entity_type": "concept",
+          "start": 241,
+          "end": 243,
+          "surface": "編年"
+        }
+      ]
+    },
+    {
+      "para_id": "p2",
+      "mentions": [
+        {
+          "entity_id": "C07",
+          "entity_name": "經史之辨",
+          "entity_type": "concept",
+          "start": 8,
+          "end": 12,
+          "surface": "經以載道"
+        },
+        {
+          "entity_id": "C07",
+          "entity_name": "經史之辨",
+          "entity_type": "concept",
+          "start": 18,
+          "end": 21,
+          "surface": "史與經"
+        },
+        {
+          "entity_id": "C01",
+          "entity_name": "資治通鑑",
+          "entity_type": "concept",
+          "start": 71,
+          "end": 73,
+          "surface": "通鑑"
+        },
+        {
+          "entity_id": "C01",
+          "entity_name": "資治通鑑",
+          "entity_type": "concept",
+          "start": 101,
+          "end": 103,
+          "surface": "通鑑"
+        },
+        {
+          "entity_id": "C01",
+          "entity_name": "資治通鑑",
+          "entity_type": "concept",
+          "start": 123,
+          "end": 125,
+          "surface": "通鑑"
+        }
+      ]
+    },
+    {
+      "para_id": "p3",
+      "mentions": [
+        {
+          "entity_id": "C05",
+          "entity_name": "孔子序書",
+          "entity_type": "concept",
+          "start": 0,
+          "end": 4,
+          "surface": "孔子序書"
+        },
+        {
+          "entity_id": "L03",
+          "entity_name": "秦",
+          "entity_type": "place",
+          "start": 19,
+          "end": 20,
+          "surface": "秦"
+        },
+        {
+          "entity_id": "C04",
+          "entity_name": "春秋",
+          "entity_type": "concept",
+          "start": 22,
+          "end": 24,
+          "surface": "春秋"
+        },
+        {
+          "entity_id": "P22",
+          "entity_name": "左丘明",
+          "entity_type": "person",
+          "start": 35,
+          "end": 38,
+          "surface": "左丘明"
+        },
+        {
+          "entity_id": "C04",
+          "entity_name": "春秋",
+          "entity_type": "concept",
+          "start": 39,
+          "end": 41,
+          "surface": "春秋"
+        },
+        {
+          "entity_id": "P23",
+          "entity_name": "趙襄子",
+          "entity_type": "person",
+          "start": 49,
+          "end": 52,
+          "surface": "趙襄子"
+        },
+        {
+          "entity_id": "P13",
+          "entity_name": "智伯",
+          "entity_type": "person",
+          "start": 53,
+          "end": 55,
+          "surface": "智伯"
+        },
+        {
+          "entity_id": "C01",
+          "entity_name": "資治通鑑",
+          "entity_type": "concept",
+          "start": 57,
+          "end": 59,
+          "surface": "通鑑"
+        },
+        {
+          "entity_id": "P01",
+          "entity_name": "孔子",
+          "entity_type": "person",
+          "start": 72,
+          "end": 74,
+          "surface": "孔子"
+        },
+        {
+          "entity_id": "C04",
+          "entity_name": "春秋",
+          "entity_type": "concept",
+          "start": 78,
+          "end": 80,
+          "surface": "春秋"
+        },
+        {
+          "entity_id": "C01",
+          "entity_name": "資治通鑑",
+          "entity_type": "concept",
+          "start": 81,
+          "end": 83,
+          "surface": "通鑑"
+        },
+        {
+          "entity_id": "C04",
+          "entity_name": "春秋",
+          "entity_type": "concept",
+          "start": 87,
+          "end": 89,
+          "surface": "春秋"
+        }
+      ]
+    },
+    {
+      "para_id": "p4",
+      "mentions": [
+        {
+          "entity_id": "P10",
+          "entity_name": "司馬光",
+          "entity_type": "person",
+          "start": 0,
+          "end": 2,
+          "surface": "溫公"
+        },
+        {
+          "entity_id": "E05",
+          "entity_name": "溫公修通鑑",
+          "entity_type": "event",
+          "start": 26,
+          "end": 30,
+          "surface": "脩書分屬"
+        },
+        {
+          "entity_id": "P24",
+          "entity_name": "劉攽",
+          "entity_type": "person",
+          "start": 33,
+          "end": 35,
+          "surface": "劉攽"
+        },
+        {
+          "entity_id": "P25",
+          "entity_name": "劉恕",
+          "entity_type": "person",
+          "start": 44,
+          "end": 46,
+          "surface": "劉恕"
+        },
+        {
+          "entity_id": "P26",
+          "entity_name": "范祖禹",
+          "entity_type": "person",
+          "start": 49,
+          "end": 52,
+          "surface": "范祖禹"
+        }
+      ]
+    },
+    {
+      "para_id": "p5",
+      "mentions": [
+        {
+          "entity_id": "C01",
+          "entity_name": "資治通鑑",
+          "entity_type": "concept",
+          "start": 6,
+          "end": 8,
+          "surface": "通鑑"
+        },
+        {
+          "entity_id": "P27",
+          "entity_name": "王勝之",
+          "entity_type": "person",
+          "start": 11,
+          "end": 14,
+          "surface": "王勝之"
+        },
+        {
+          "entity_id": "C08",
+          "entity_name": "考異",
+          "entity_type": "concept",
+          "start": 52,
+          "end": 54,
+          "surface": "考異"
+        },
+        {
+          "entity_id": "C09",
+          "entity_name": "目錄",
+          "entity_type": "concept",
+          "start": 73,
+          "end": 75,
+          "surface": "目錄"
+        },
+        {
+          "entity_id": "C09",
+          "entity_name": "目錄",
+          "entity_type": "concept",
+          "start": 119,
+          "end": 121,
+          "surface": "目錄"
+        },
+        {
+          "entity_id": "C09",
+          "entity_name": "目錄",
+          "entity_type": "concept",
+          "start": 129,
+          "end": 131,
+          "surface": "目錄"
+        }
+      ]
+    },
+    {
+      "para_id": "p6",
+      "mentions": [
+        {
+          "entity_id": "P29",
+          "entity_name": "胡三省父",
+          "entity_type": "person",
+          "start": 0,
+          "end": 2,
+          "surface": "先君"
+        },
+        {
+          "entity_id": "P28",
+          "entity_name": "胡三省",
+          "entity_type": "person",
+          "start": 33,
+          "end": 35,
+          "surface": "三省"
+        },
+        {
+          "entity_id": "P30",
+          "entity_name": "服虔",
+          "entity_type": "person",
+          "start": 42,
+          "end": 44,
+          "surface": "服虔"
+        },
+        {
+          "entity_id": "P31",
+          "entity_name": "應劭",
+          "entity_type": "person",
+          "start": 45,
+          "end": 47,
+          "surface": "應劭"
+        },
+        {
+          "entity_id": "P33",
+          "entity_name": "李賢",
+          "entity_type": "person",
+          "start": 56,
+          "end": 58,
+          "surface": "章懷"
+        },
+        {
+          "entity_id": "P36",
+          "entity_name": "范曄",
+          "entity_type": "person",
+          "start": 59,
+          "end": 61,
+          "surface": "范史"
+        },
+        {
+          "entity_id": "P34",
+          "entity_name": "裴松之",
+          "entity_type": "person",
+          "start": 62,
+          "end": 65,
+          "surface": "裴松之"
+        },
+        {
+          "entity_id": "P35",
+          "entity_name": "陳壽",
+          "entity_type": "person",
+          "start": 66,
+          "end": 68,
+          "surface": "陳壽"
+        },
+        {
+          "entity_id": "L01",
+          "entity_name": "晉",
+          "entity_type": "place",
+          "start": 91,
+          "end": 92,
+          "surface": "晉"
+        },
+        {
+          "entity_id": "P37",
+          "entity_name": "楊正衡",
+          "entity_type": "person",
+          "start": 94,
+          "end": 97,
+          "surface": "楊正衡"
+        },
+        {
+          "entity_id": "P38",
+          "entity_name": "竇苹",
+          "entity_type": "person",
+          "start": 101,
+          "end": 103,
+          "surface": "竇苹"
+        },
+        {
+          "entity_id": "P39",
+          "entity_name": "董衝",
+          "entity_type": "person",
+          "start": 104,
+          "end": 106,
+          "surface": "董衝"
+        },
+        {
+          "entity_id": "P40",
+          "entity_name": "徐無黨",
+          "entity_type": "person",
+          "start": 112,
+          "end": 115,
+          "surface": "徐無黨"
+        },
+        {
+          "entity_id": "P41",
+          "entity_name": "歐陽修",
+          "entity_type": "person",
+          "start": 122,
+          "end": 124,
+          "surface": "歐公"
+        },
+        {
+          "entity_id": "C01",
+          "entity_name": "資治通鑑",
+          "entity_type": "concept",
+          "start": 135,
+          "end": 137,
+          "surface": "通鑑"
+        },
+        {
+          "entity_id": "P42",
+          "entity_name": "劉安世",
+          "entity_type": "person",
+          "start": 139,
+          "end": 142,
+          "surface": "劉安世"
+        },
+        {
+          "entity_id": "C10",
+          "entity_name": "釋文",
+          "entity_type": "concept",
+          "start": 152,
+          "end": 154,
+          "surface": "釋文"
+        },
+        {
+          "entity_id": "L13",
+          "entity_name": "蜀",
+          "entity_type": "place",
+          "start": 157,
+          "end": 158,
+          "surface": "蜀"
+        },
+        {
+          "entity_id": "P43",
+          "entity_name": "史炤",
+          "entity_type": "person",
+          "start": 158,
+          "end": 160,
+          "surface": "史炤"
+        },
+        {
+          "entity_id": "P44",
+          "entity_name": "馮時行",
+          "entity_type": "person",
+          "start": 161,
+          "end": 164,
+          "surface": "馮時行"
+        },
+        {
+          "entity_id": "L12",
+          "entity_name": "海陵",
+          "entity_type": "place",
+          "start": 169,
+          "end": 171,
+          "surface": "海陵"
+        },
+        {
+          "entity_id": "P10",
+          "entity_name": "司馬光",
+          "entity_type": "person",
+          "start": 175,
+          "end": 177,
+          "surface": "溫公"
+        },
+        {
+          "entity_id": "C10",
+          "entity_name": "釋文",
+          "entity_type": "concept",
+          "start": 180,
+          "end": 182,
+          "surface": "釋文"
+        },
+        {
+          "entity_id": "P45",
+          "entity_name": "司馬康",
+          "entity_type": "person",
+          "start": 192,
+          "end": 194,
+          "surface": "公休"
+        },
+        {
+          "entity_id": "P10",
+          "entity_name": "司馬光",
+          "entity_type": "person",
+          "start": 205,
+          "end": 207,
+          "surface": "溫公"
+        },
+        {
+          "entity_id": "L12",
+          "entity_name": "海陵",
+          "entity_type": "place",
+          "start": 232,
+          "end": 234,
+          "surface": "海陵"
+        },
+        {
+          "entity_id": "C10",
+          "entity_name": "釋文",
+          "entity_type": "concept",
+          "start": 234,
+          "end": 236,
+          "surface": "釋文"
+        },
+        {
+          "entity_id": "P45",
+          "entity_name": "司馬康",
+          "entity_type": "person",
+          "start": 237,
+          "end": 239,
+          "surface": "公休"
+        },
+        {
+          "entity_id": "P28",
+          "entity_name": "胡三省",
+          "entity_type": "person",
+          "start": 249,
+          "end": 251,
+          "surface": "三省"
+        }
+      ]
+    },
+    {
+      "para_id": "p7",
+      "mentions": [
+        {
+          "entity_id": "P29",
+          "entity_name": "胡三省父",
+          "entity_type": "person",
+          "start": 3,
+          "end": 5,
+          "surface": "先君"
+        },
+        {
+          "entity_id": "P46",
+          "entity_name": "陸德明",
+          "entity_type": "person",
+          "start": 71,
+          "end": 74,
+          "surface": "陸德明"
+        },
+        {
+          "entity_id": "C10",
+          "entity_name": "釋文",
+          "entity_type": "concept",
+          "start": 76,
+          "end": 78,
+          "surface": "釋文"
+        },
+        {
+          "entity_id": "C11",
+          "entity_name": "廣註",
+          "entity_type": "concept",
+          "start": 81,
+          "end": 83,
+          "surface": "廣註"
+        },
+        {
+          "entity_id": "L04",
+          "entity_name": "周",
+          "entity_type": "place",
+          "start": 94,
+          "end": 95,
+          "surface": "周"
+        },
+        {
+          "entity_id": "L14",
+          "entity_name": "淮壖",
+          "entity_type": "place",
+          "start": 112,
+          "end": 114,
+          "surface": "淮壖"
+        },
+        {
+          "entity_id": "L15",
+          "entity_name": "杭都",
+          "entity_type": "place",
+          "start": 115,
+          "end": 117,
+          "surface": "杭都"
+        },
+        {
+          "entity_id": "L16",
+          "entity_name": "延平",
+          "entity_type": "place",
+          "start": 118,
+          "end": 120,
+          "surface": "延平"
+        },
+        {
+          "entity_id": "P47",
+          "entity_name": "廖公",
+          "entity_type": "person",
+          "start": 120,
+          "end": 122,
+          "surface": "廖公"
+        },
+        {
+          "entity_id": "C01",
+          "entity_name": "資治通鑑",
+          "entity_type": "concept",
+          "start": 135,
+          "end": 137,
+          "surface": "通鑑"
+        },
+        {
+          "entity_id": "C01",
+          "entity_name": "資治通鑑",
+          "entity_type": "concept",
+          "start": 147,
+          "end": 149,
+          "surface": "通鑑"
+        },
+        {
+          "entity_id": "P48",
+          "entity_name": "賈似道",
+          "entity_type": "person",
+          "start": 156,
+          "end": 159,
+          "surface": "賈相國"
+        },
+        {
+          "entity_id": "E07",
+          "entity_name": "德祐從軍江上",
+          "entity_type": "event",
+          "start": 165,
+          "end": 169,
+          "surface": "從軍江上"
+        },
+        {
+          "entity_id": "E08",
+          "entity_name": "丙子浙東之亂",
+          "entity_type": "event",
+          "start": 189,
+          "end": 193,
+          "surface": "浙東始騷"
+        },
+        {
+          "entity_id": "L17",
+          "entity_name": "越",
+          "entity_type": "place",
+          "start": 196,
+          "end": 197,
+          "surface": "越"
+        },
+        {
+          "entity_id": "L18",
+          "entity_name": "新昌",
+          "entity_type": "place",
+          "start": 198,
+          "end": 200,
+          "surface": "新昌"
+        },
+        {
+          "entity_id": "C08",
+          "entity_name": "考異",
+          "entity_type": "concept",
+          "start": 229,
+          "end": 231,
+          "surface": "考異"
+        },
+        {
+          "entity_id": "C01",
+          "entity_name": "資治通鑑",
+          "entity_type": "concept",
+          "start": 237,
+          "end": 239,
+          "surface": "通鑑"
+        },
+        {
+          "entity_id": "C09",
+          "entity_name": "目錄",
+          "entity_type": "concept",
+          "start": 251,
+          "end": 253,
+          "surface": "目錄"
+        },
+        {
+          "entity_id": "C10",
+          "entity_name": "釋文",
+          "entity_type": "concept",
+          "start": 307,
+          "end": 309,
+          "surface": "釋文"
+        },
+        {
+          "entity_id": "C12",
+          "entity_name": "辯誤",
+          "entity_type": "concept",
+          "start": 320,
+          "end": 322,
+          "surface": "辯誤"
+        }
+      ]
+    },
+    {
+      "para_id": "p8",
+      "mentions": [
+        {
+          "entity_id": "P49",
+          "entity_name": "晉灼",
+          "entity_type": "person",
+          "start": 10,
+          "end": 12,
+          "surface": "晉灼"
+        },
+        {
+          "entity_id": "P50",
+          "entity_name": "臣瓚",
+          "entity_type": "person",
+          "start": 24,
+          "end": 26,
+          "surface": "臣瓚"
+        },
+        {
+          "entity_id": "P51",
+          "entity_name": "顏師古",
+          "entity_type": "person",
+          "start": 38,
+          "end": 40,
+          "surface": "小顏"
+        },
+        {
+          "entity_id": "L01",
+          "entity_name": "晉",
+          "entity_type": "place",
+          "start": 57,
+          "end": 58,
+          "surface": "晉"
+        },
+        {
+          "entity_id": "P50",
+          "entity_name": "臣瓚",
+          "entity_type": "person",
+          "start": 65,
+          "end": 67,
+          "surface": "臣瓚"
+        },
+        {
+          "entity_id": "P52",
+          "entity_name": "蔡謨",
+          "entity_type": "person",
+          "start": 72,
+          "end": 74,
+          "surface": "蔡謨"
+        },
+        {
+          "entity_id": "P32",
+          "entity_name": "劉敞",
+          "entity_type": "person",
+          "start": 96,
+          "end": 100,
+          "surface": "劉氏兄弟"
+        },
+        {
+          "entity_id": "L21",
+          "entity_name": "中國",
+          "entity_type": "place",
+          "start": 200,
+          "end": 202,
+          "surface": "中國"
+        }
+      ]
+    },
+    {
+      "para_id": "p9",
+      "mentions": [
+        {
+          "entity_id": "L19",
+          "entity_name": "天台",
+          "entity_type": "place",
+          "start": 19,
+          "end": 21,
+          "surface": "天台"
+        },
+        {
+          "entity_id": "P28",
+          "entity_name": "胡三省",
+          "entity_type": "person",
+          "start": 21,
+          "end": 24,
+          "surface": "胡三省"
+        },
+        {
+          "entity_id": "L20",
+          "entity_name": "梅磵",
+          "entity_type": "place",
+          "start": 29,
+          "end": 31,
+          "surface": "梅磵"
+        }
+      ]
+    }
+  ]
+}
