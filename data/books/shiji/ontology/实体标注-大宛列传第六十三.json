@@ -3,7 +3,7 @@
   "chapter_id": "shiji-大宛列傳第六十三",
   "chapter_title": "大宛列传第六十三",
   "version": "1.0",
-  "generated_at": "2026-11-02T09:18:17.893114",
+  "generated_at": "2026-11-02T09:26:07.211850",
   "paragraphs": [
     {
       "para_id": "p0",
@@ -17,104 +17,114 @@
         {
           "start": 0,
           "end": 2,
-          "name": "大宛",
-          "category": "place"
+          "entity_id": "place_dy_001",
+          "entity_name": "大宛",
+          "text": "大宛"
         },
         {
-          "start": 13,
-          "end": 15,
-          "name": "张骞",
-          "category": "person"
-        },
-        {
-          "start": 16,
-          "end": 18,
-          "name": "张骞",
-          "category": "person"
+          "start": 19,
+          "end": 21,
+          "entity_id": "place_dy_004",
+          "entity_name": "漢中",
+          "text": "漢中"
         },
         {
           "start": 34,
           "end": 36,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         },
         {
           "start": 37,
           "end": 39,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 44,
           "end": 46,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 47,
           "end": 49,
-          "name": "大月氏",
-          "category": "place"
+          "entity_id": "place_dy_003",
+          "entity_name": "月氏",
+          "text": "月氏"
         },
         {
           "start": 67,
           "end": 69,
-          "name": "大月氏",
-          "category": "place"
+          "entity_id": "place_dy_003",
+          "entity_name": "月氏",
+          "text": "月氏"
         },
         {
           "start": 75,
           "end": 77,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 103,
           "end": 105,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 123,
           "end": 125,
-          "name": "大月氏",
-          "category": "place"
+          "entity_id": "place_dy_003",
+          "entity_name": "月氏",
+          "text": "月氏"
         },
         {
           "start": 133,
           "end": 135,
-          "name": "堂邑父（甘父）",
-          "category": "person"
+          "entity_id": "person_dy_002",
+          "entity_name": "堂邑父（甘父）",
+          "text": "甘父"
         },
         {
           "start": 143,
           "end": 145,
-          "name": "陇西",
-          "category": "place"
+          "entity_id": "place_dy_005",
+          "entity_name": "隴西",
+          "text": "隴西"
         },
         {
           "start": 147,
           "end": 149,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 153,
           "end": 155,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 171,
           "end": 173,
-          "name": "大月氏",
-          "category": "place"
+          "entity_id": "place_dy_003",
+          "entity_name": "月氏",
+          "text": "月氏"
         },
         {
           "start": 211,
           "end": 213,
-          "name": "汉节",
-          "category": "concept"
+          "entity_id": "concept_dy_008",
+          "entity_name": "漢節",
+          "text": "漢節"
         }
       ]
     },
@@ -125,98 +135,107 @@
         {
           "start": 1,
           "end": 3,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 15,
           "end": 17,
-          "name": "大月氏",
-          "category": "place"
+          "entity_id": "place_dy_003",
+          "entity_name": "月氏",
+          "text": "月氏"
         },
         {
           "start": 24,
           "end": 26,
-          "name": "大宛",
-          "category": "place"
+          "entity_id": "place_dy_001",
+          "entity_name": "大宛",
+          "text": "大宛"
         },
         {
           "start": 27,
           "end": 29,
-          "name": "大宛",
-          "category": "place"
-        },
-        {
-          "start": 60,
-          "end": 62,
-          "name": "汉使",
-          "category": "concept"
+          "entity_id": "place_dy_001",
+          "entity_name": "大宛",
+          "text": "大宛"
         },
         {
           "start": 62,
           "end": 64,
-          "name": "大月氏",
-          "category": "place"
+          "entity_id": "place_dy_003",
+          "entity_name": "月氏",
+          "text": "月氏"
         },
         {
           "start": 67,
           "end": 69,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 104,
           "end": 106,
-          "name": "大宛",
-          "category": "place"
+          "entity_id": "place_dy_001",
+          "entity_name": "大宛",
+          "text": "大宛"
         },
         {
           "start": 122,
           "end": 124,
-          "name": "康居",
-          "category": "place"
+          "entity_id": "place_dy_006",
+          "entity_name": "康居",
+          "text": "康居"
         },
         {
           "start": 131,
           "end": 133,
-          "name": "康居",
-          "category": "place"
+          "entity_id": "place_dy_006",
+          "entity_name": "康居",
+          "text": "康居"
         },
         {
           "start": 135,
           "end": 138,
-          "name": "大月氏",
-          "category": "place"
+          "entity_id": "place_dy_003",
+          "entity_name": "月氏",
+          "text": "大月氏"
         },
         {
           "start": 142,
           "end": 145,
-          "name": "大月氏",
-          "category": "place"
+          "entity_id": "place_dy_003",
+          "entity_name": "月氏",
+          "text": "大月氏"
         },
         {
           "start": 167,
           "end": 169,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         },
         {
           "start": 204,
           "end": 206,
-          "name": "大月氏",
-          "category": "place"
+          "entity_id": "place_dy_003",
+          "entity_name": "月氏",
+          "text": "月氏"
         },
         {
           "start": 207,
           "end": 209,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         },
         {
           "start": 214,
           "end": 216,
-          "name": "大月氏",
-          "category": "place"
+          "entity_id": "place_dy_003",
+          "entity_name": "月氏",
+          "text": "月氏"
         }
       ]
     },
@@ -227,44 +246,44 @@
         {
           "start": 7,
           "end": 9,
-          "name": "南山",
-          "category": "place"
+          "entity_id": "place_dy_008",
+          "entity_name": "南山",
+          "text": "南山"
         },
         {
           "start": 15,
           "end": 17,
-          "name": "羌中",
-          "category": "place"
+          "entity_id": "place_dy_009",
+          "entity_name": "羌中",
+          "text": "羌中"
         },
         {
           "start": 24,
           "end": 26,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 40,
           "end": 44,
-          "name": "伊稚斜单于",
-          "category": "person"
-        },
-        {
-          "start": 57,
-          "end": 59,
-          "name": "张骞之胡妻",
-          "category": "person"
+          "entity_id": "person_dy_036",
+          "entity_name": "左谷蠡王",
+          "text": "左谷蠡王"
         },
         {
           "start": 60,
           "end": 63,
-          "name": "堂邑父（甘父）",
-          "category": "person"
+          "entity_id": "person_dy_002",
+          "entity_name": "堂邑父（甘父）",
+          "text": "堂邑父"
         },
         {
           "start": 77,
           "end": 80,
-          "name": "堂邑父（甘父）",
-          "category": "person"
+          "entity_id": "person_dy_002",
+          "entity_name": "堂邑父（甘父）",
+          "text": "堂邑父"
         }
       ]
     },
@@ -275,8 +294,9 @@
         {
           "start": 16,
           "end": 19,
-          "name": "堂邑父（甘父）",
-          "category": "person"
+          "entity_id": "person_dy_002",
+          "entity_name": "堂邑父（甘父）",
+          "text": "堂邑父"
         }
       ]
     },
@@ -287,32 +307,37 @@
         {
           "start": 5,
           "end": 7,
-          "name": "大宛",
-          "category": "place"
+          "entity_id": "place_dy_001",
+          "entity_name": "大宛",
+          "text": "大宛"
         },
         {
           "start": 8,
           "end": 11,
-          "name": "大月氏",
-          "category": "place"
+          "entity_id": "place_dy_003",
+          "entity_name": "月氏",
+          "text": "大月氏"
         },
         {
           "start": 12,
           "end": 14,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         },
         {
           "start": 15,
           "end": 17,
-          "name": "康居",
-          "category": "place"
+          "entity_id": "place_dy_006",
+          "entity_name": "康居",
+          "text": "康居"
         },
         {
           "start": 30,
           "end": 32,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         }
       ]
     },
@@ -323,152 +348,170 @@
         {
           "start": 0,
           "end": 2,
-          "name": "大宛",
-          "category": "place"
+          "entity_id": "place_dy_001",
+          "entity_name": "大宛",
+          "text": "大宛"
         },
         {
           "start": 3,
           "end": 5,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 21,
           "end": 23,
-          "name": "行国土著",
-          "category": "concept"
+          "entity_id": "concept_dy_002",
+          "entity_name": "土著",
+          "text": "土著"
         },
         {
           "start": 32,
           "end": 35,
-          "name": "葡萄美酒",
-          "category": "concept"
+          "entity_id": "concept_dy_005",
+          "entity_name": "蒲陶酒",
+          "text": "蒲陶酒"
         },
         {
-          "start": 44,
-          "end": 46,
-          "name": "汗血马（天马子）",
-          "category": "concept"
+          "start": 37,
+          "end": 39,
+          "entity_id": "concept_dy_004",
+          "entity_name": "汗血馬",
+          "text": "善馬"
         },
         {
           "start": 49,
-          "end": 52,
-          "name": "汗血马（天马子）",
-          "category": "concept"
+          "end": 51,
+          "entity_id": "concept_dy_004",
+          "entity_name": "汗血馬",
+          "text": "天馬"
         },
         {
           "start": 89,
           "end": 91,
-          "name": "康居",
-          "category": "place"
+          "entity_id": "place_dy_006",
+          "entity_name": "康居",
+          "text": "康居"
         },
         {
           "start": 94,
           "end": 97,
-          "name": "大月氏",
-          "category": "place"
+          "entity_id": "place_dy_003",
+          "entity_name": "月氏",
+          "text": "大月氏"
         },
         {
           "start": 101,
           "end": 103,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         },
         {
           "start": 107,
           "end": 109,
-          "name": "乌孙",
-          "category": "place"
+          "entity_id": "place_dy_010",
+          "entity_name": "烏孫",
+          "text": "烏孫"
         },
         {
           "start": 112,
           "end": 114,
-          "name": "扜冞",
-          "category": "place"
+          "entity_id": "place_dy_011",
+          "entity_name": "扜冞",
+          "text": "扜冞"
         },
         {
           "start": 115,
           "end": 117,
-          "name": "于窴",
-          "category": "place"
+          "entity_id": "place_dy_012",
+          "entity_name": "于窴",
+          "text": "于窴"
         },
         {
           "start": 124,
           "end": 126,
-          "name": "于窴",
-          "category": "place"
+          "entity_id": "place_dy_012",
+          "entity_name": "于窴",
+          "text": "于窴"
         },
         {
           "start": 136,
           "end": 138,
-          "name": "西海",
-          "category": "place"
+          "entity_id": "place_dy_013",
+          "entity_name": "西海",
+          "text": "西海"
         },
         {
           "start": 146,
           "end": 148,
-          "name": "盐泽",
-          "category": "place"
+          "entity_id": "place_dy_014",
+          "entity_name": "鹽澤",
+          "text": "鹽澤"
         },
         {
           "start": 155,
           "end": 157,
-          "name": "盐泽",
-          "category": "place"
-        },
-        {
-          "start": 165,
-          "end": 167,
-          "name": "河源",
-          "category": "place"
+          "entity_id": "place_dy_014",
+          "entity_name": "鹽澤",
+          "text": "鹽澤"
         },
         {
           "start": 183,
           "end": 185,
-          "name": "楼兰",
-          "category": "place"
+          "entity_id": "place_dy_015",
+          "entity_name": "樓蘭",
+          "text": "樓蘭"
         },
         {
           "start": 186,
           "end": 188,
-          "name": "姑师",
-          "category": "place"
+          "entity_id": "place_dy_016",
+          "entity_name": "姑師",
+          "text": "姑師"
         },
         {
           "start": 197,
           "end": 199,
-          "name": "盐泽",
-          "category": "place"
+          "entity_id": "place_dy_014",
+          "entity_name": "鹽澤",
+          "text": "鹽澤"
         },
         {
           "start": 200,
           "end": 202,
-          "name": "盐泽",
-          "category": "place"
+          "entity_id": "place_dy_014",
+          "entity_name": "鹽澤",
+          "text": "鹽澤"
         },
         {
           "start": 203,
           "end": 205,
-          "name": "长安",
-          "category": "place"
+          "entity_id": "place_dy_017",
+          "entity_name": "長安",
+          "text": "長安"
         },
         {
           "start": 210,
           "end": 212,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 215,
           "end": 217,
-          "name": "盐泽",
-          "category": "place"
+          "entity_id": "place_dy_014",
+          "entity_name": "鹽澤",
+          "text": "鹽澤"
         },
         {
           "start": 221,
           "end": 223,
-          "name": "陇西",
-          "category": "place"
+          "entity_id": "place_dy_005",
+          "entity_name": "隴西",
+          "text": "隴西"
         }
       ]
     },
@@ -479,32 +522,44 @@
         {
           "start": 0,
           "end": 2,
-          "name": "乌孙",
-          "category": "place"
+          "entity_id": "place_dy_010",
+          "entity_name": "烏孫",
+          "text": "烏孫"
         },
         {
           "start": 3,
           "end": 5,
-          "name": "大宛",
-          "category": "place"
+          "entity_id": "place_dy_001",
+          "entity_name": "大宛",
+          "text": "大宛"
         },
         {
           "start": 12,
           "end": 14,
-          "name": "行国土著",
-          "category": "concept"
+          "entity_id": "concept_dy_003",
+          "entity_name": "行國",
+          "text": "行國"
         },
         {
           "start": 22,
           "end": 24,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 38,
           "end": 40,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
+        },
+        {
+          "start": 46,
+          "end": 48,
+          "entity_id": "concept_dy_010",
+          "entity_name": "羈屬",
+          "text": "羈屬"
         }
       ]
     },
@@ -515,44 +570,51 @@
         {
           "start": 0,
           "end": 2,
-          "name": "康居",
-          "category": "place"
+          "entity_id": "place_dy_006",
+          "entity_name": "康居",
+          "text": "康居"
         },
         {
           "start": 3,
           "end": 5,
-          "name": "大宛",
-          "category": "place"
+          "entity_id": "place_dy_001",
+          "entity_name": "大宛",
+          "text": "大宛"
         },
         {
           "start": 12,
           "end": 14,
-          "name": "行国土著",
-          "category": "concept"
+          "entity_id": "concept_dy_003",
+          "entity_name": "行國",
+          "text": "行國"
         },
         {
           "start": 16,
           "end": 18,
-          "name": "大月氏",
-          "category": "place"
+          "entity_id": "place_dy_003",
+          "entity_name": "月氏",
+          "text": "月氏"
         },
         {
           "start": 31,
           "end": 33,
-          "name": "大宛",
-          "category": "place"
+          "entity_id": "place_dy_001",
+          "entity_name": "大宛",
+          "text": "大宛"
         },
         {
           "start": 42,
           "end": 44,
-          "name": "大月氏",
-          "category": "place"
+          "entity_id": "place_dy_003",
+          "entity_name": "月氏",
+          "text": "月氏"
         },
         {
           "start": 48,
           "end": 50,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         }
       ]
     },
@@ -563,32 +625,37 @@
         {
           "start": 0,
           "end": 2,
-          "name": "奄蔡",
-          "category": "place"
+          "entity_id": "place_dy_018",
+          "entity_name": "奄蔡",
+          "text": "奄蔡"
         },
         {
           "start": 6,
           "end": 8,
-          "name": "康居",
-          "category": "place"
+          "entity_id": "place_dy_006",
+          "entity_name": "康居",
+          "text": "康居"
         },
         {
           "start": 15,
           "end": 17,
-          "name": "行国土著",
-          "category": "concept"
+          "entity_id": "concept_dy_003",
+          "entity_name": "行國",
+          "text": "行國"
         },
         {
           "start": 19,
           "end": 21,
-          "name": "康居",
-          "category": "place"
+          "entity_id": "place_dy_006",
+          "entity_name": "康居",
+          "text": "康居"
         },
         {
           "start": 41,
           "end": 43,
-          "name": "北海",
-          "category": "place"
+          "entity_id": "place_dy_019",
+          "entity_name": "北海",
+          "text": "北海"
         }
       ]
     },
@@ -599,134 +666,149 @@
         {
           "start": 0,
           "end": 3,
-          "name": "大月氏",
-          "category": "place"
+          "entity_id": "place_dy_003",
+          "entity_name": "月氏",
+          "text": "大月氏"
         },
         {
           "start": 7,
           "end": 9,
-          "name": "大宛",
-          "category": "place"
+          "entity_id": "place_dy_001",
+          "entity_name": "大宛",
+          "text": "大宛"
         },
         {
           "start": 17,
           "end": 19,
-          "name": "妫水",
-          "category": "place"
+          "entity_id": "place_dy_020",
+          "entity_name": "媯水",
+          "text": "媯水"
         },
         {
           "start": 24,
           "end": 26,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         },
         {
           "start": 29,
           "end": 31,
-          "name": "安息",
-          "category": "place"
+          "entity_id": "place_dy_021",
+          "entity_name": "安息",
+          "text": "安息"
         },
         {
           "start": 34,
           "end": 36,
-          "name": "康居",
-          "category": "place"
+          "entity_id": "place_dy_006",
+          "entity_name": "康居",
+          "text": "康居"
         },
         {
           "start": 37,
           "end": 39,
-          "name": "行国土著",
-          "category": "concept"
+          "entity_id": "concept_dy_003",
+          "entity_name": "行國",
+          "text": "行國"
         },
         {
           "start": 47,
           "end": 49,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 66,
           "end": 68,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 70,
           "end": 72,
-          "name": "冒顿单于",
-          "category": "person"
+          "entity_id": "person_dy_004",
+          "entity_name": "冒頓單于",
+          "text": "冒頓"
         },
         {
           "start": 76,
           "end": 78,
-          "name": "大月氏",
-          "category": "place"
+          "entity_id": "place_dy_003",
+          "entity_name": "月氏",
+          "text": "月氏"
         },
         {
           "start": 80,
           "end": 82,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 82,
           "end": 86,
-          "name": "老上单于",
-          "category": "person"
+          "entity_id": "person_dy_005",
+          "entity_name": "老上單于",
+          "text": "老上單于"
         },
         {
           "start": 88,
           "end": 90,
-          "name": "大月氏",
-          "category": "place"
+          "entity_id": "place_dy_003",
+          "entity_name": "月氏",
+          "text": "月氏"
         },
         {
           "start": 100,
           "end": 102,
-          "name": "大月氏",
-          "category": "place"
+          "entity_id": "place_dy_003",
+          "entity_name": "月氏",
+          "text": "月氏"
         },
         {
           "start": 103,
           "end": 105,
-          "name": "敦煌",
-          "category": "place"
-        },
-        {
-          "start": 106,
-          "end": 108,
-          "name": "祁连山",
-          "category": "place"
+          "entity_id": "place_dy_022",
+          "entity_name": "敦煌",
+          "text": "敦煌"
         },
         {
           "start": 115,
           "end": 117,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 129,
           "end": 131,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         },
         {
           "start": 137,
           "end": 139,
-          "name": "妫水",
-          "category": "place"
+          "entity_id": "place_dy_020",
+          "entity_name": "媯水",
+          "text": "媯水"
         },
         {
           "start": 155,
           "end": 157,
-          "name": "南山",
-          "category": "place"
+          "entity_id": "place_dy_008",
+          "entity_name": "南山",
+          "text": "南山"
         },
         {
-          "start": 160,
+          "start": 161,
           "end": 163,
-          "name": "小月氏",
-          "category": "place"
+          "entity_id": "place_dy_003",
+          "entity_name": "月氏",
+          "text": "月氏"
         }
       ]
     },
@@ -737,56 +819,65 @@
         {
           "start": 0,
           "end": 2,
-          "name": "安息",
-          "category": "place"
+          "entity_id": "place_dy_021",
+          "entity_name": "安息",
+          "text": "安息"
         },
         {
           "start": 6,
           "end": 9,
-          "name": "大月氏",
-          "category": "place"
+          "entity_id": "place_dy_003",
+          "entity_name": "月氏",
+          "text": "大月氏"
         },
         {
           "start": 17,
           "end": 19,
-          "name": "行国土著",
-          "category": "concept"
+          "entity_id": "concept_dy_002",
+          "entity_name": "土著",
+          "text": "土著"
         },
         {
           "start": 27,
           "end": 30,
-          "name": "葡萄美酒",
-          "category": "concept"
+          "entity_id": "concept_dy_005",
+          "entity_name": "蒲陶酒",
+          "text": "蒲陶酒"
         },
         {
           "start": 34,
           "end": 36,
-          "name": "大宛",
-          "category": "place"
+          "entity_id": "place_dy_001",
+          "entity_name": "大宛",
+          "text": "大宛"
         },
         {
           "start": 57,
           "end": 59,
-          "name": "妫水",
-          "category": "place"
+          "entity_id": "place_dy_020",
+          "entity_name": "媯水",
+          "text": "媯水"
         },
         {
           "start": 122,
           "end": 124,
-          "name": "条枝",
-          "category": "place"
+          "entity_id": "place_dy_024",
+          "entity_name": "條枝",
+          "text": "條枝"
         },
         {
           "start": 127,
           "end": 129,
-          "name": "奄蔡",
-          "category": "place"
+          "entity_id": "place_dy_018",
+          "entity_name": "奄蔡",
+          "text": "奄蔡"
         },
         {
           "start": 130,
           "end": 132,
-          "name": "黎轩",
-          "category": "place"
+          "entity_id": "place_dy_025",
+          "entity_name": "黎軒",
+          "text": "黎軒"
         }
       ]
     },
@@ -797,38 +888,58 @@
         {
           "start": 0,
           "end": 2,
-          "name": "条枝",
-          "category": "place"
+          "entity_id": "place_dy_024",
+          "entity_name": "條枝",
+          "text": "條枝"
         },
         {
           "start": 6,
           "end": 8,
-          "name": "安息",
-          "category": "place"
+          "entity_id": "place_dy_021",
+          "entity_name": "安息",
+          "text": "安息"
         },
         {
           "start": 14,
           "end": 16,
-          "name": "西海",
-          "category": "place"
+          "entity_id": "place_dy_013",
+          "entity_name": "西海",
+          "text": "西海"
         },
         {
           "start": 50,
           "end": 52,
-          "name": "安息",
-          "category": "place"
+          "entity_id": "place_dy_021",
+          "entity_name": "安息",
+          "text": "安息"
         },
         {
           "start": 71,
           "end": 73,
-          "name": "安息",
-          "category": "place"
+          "entity_id": "place_dy_021",
+          "entity_name": "安息",
+          "text": "安息"
         },
         {
           "start": 77,
           "end": 79,
-          "name": "条枝",
-          "category": "place"
+          "entity_id": "place_dy_024",
+          "entity_name": "條枝",
+          "text": "條枝"
+        },
+        {
+          "start": 80,
+          "end": 82,
+          "entity_id": "place_dy_059",
+          "entity_name": "弱水",
+          "text": "弱水"
+        },
+        {
+          "start": 83,
+          "end": 86,
+          "entity_id": "place_dy_060",
+          "entity_name": "西王母",
+          "text": "西王母"
         }
       ]
     },
@@ -839,62 +950,65 @@
         {
           "start": 0,
           "end": 2,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         },
         {
           "start": 3,
           "end": 5,
-          "name": "大宛",
-          "category": "place"
+          "entity_id": "place_dy_001",
+          "entity_name": "大宛",
+          "text": "大宛"
         },
         {
           "start": 11,
           "end": 13,
-          "name": "妫水",
-          "category": "place"
+          "entity_id": "place_dy_020",
+          "entity_name": "媯水",
+          "text": "媯水"
         },
         {
           "start": 17,
           "end": 19,
-          "name": "行国土著",
-          "category": "concept"
+          "entity_id": "concept_dy_002",
+          "entity_name": "土著",
+          "text": "土著"
         },
         {
           "start": 25,
           "end": 27,
-          "name": "大宛",
-          "category": "place"
+          "entity_id": "place_dy_001",
+          "entity_name": "大宛",
+          "text": "大宛"
         },
         {
           "start": 55,
           "end": 58,
-          "name": "大月氏",
-          "category": "place"
+          "entity_id": "place_dy_003",
+          "entity_name": "月氏",
+          "text": "大月氏"
         },
         {
           "start": 68,
           "end": 70,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         },
         {
           "start": 71,
           "end": 73,
-          "name": "大夏",
-          "category": "place"
-        },
-        {
-          "start": 84,
-          "end": 87,
-          "name": "蓝市城",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         },
         {
           "start": 99,
           "end": 101,
-          "name": "身毒",
-          "category": "place"
+          "entity_id": "place_dy_026",
+          "entity_name": "身毒",
+          "text": "身毒"
         }
       ]
     },
@@ -905,80 +1019,93 @@
         {
           "start": 6,
           "end": 8,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         },
         {
           "start": 30,
           "end": 32,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         },
         {
           "start": 43,
           "end": 45,
-          "name": "身毒",
-          "category": "place"
+          "entity_id": "place_dy_026",
+          "entity_name": "身毒",
+          "text": "身毒"
         },
         {
           "start": 46,
           "end": 48,
-          "name": "身毒",
-          "category": "place"
+          "entity_id": "place_dy_026",
+          "entity_name": "身毒",
+          "text": "身毒"
         },
         {
           "start": 49,
           "end": 51,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         },
         {
           "start": 60,
           "end": 62,
-          "name": "行国土著",
-          "category": "concept"
+          "entity_id": "concept_dy_002",
+          "entity_name": "土著",
+          "text": "土著"
         },
         {
           "start": 65,
           "end": 67,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         },
         {
           "start": 100,
           "end": 102,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         },
         {
           "start": 115,
           "end": 117,
-          "name": "身毒",
-          "category": "place"
+          "entity_id": "place_dy_026",
+          "entity_name": "身毒",
+          "text": "身毒"
         },
         {
           "start": 120,
           "end": 122,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         },
         {
           "start": 142,
           "end": 144,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         },
         {
           "start": 146,
           "end": 148,
-          "name": "羌中",
-          "category": "place"
+          "entity_id": "place_dy_009",
+          "entity_name": "羌中",
+          "text": "羌中"
         },
         {
           "start": 161,
           "end": 163,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         }
       ]
     },
@@ -989,110 +1116,107 @@
         {
           "start": 0,
           "end": 2,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         },
         {
           "start": 4,
           "end": 6,
-          "name": "大宛",
-          "category": "place"
+          "entity_id": "place_dy_001",
+          "entity_name": "大宛",
+          "text": "大宛"
         },
         {
           "start": 7,
           "end": 9,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         },
         {
           "start": 10,
           "end": 12,
-          "name": "安息",
-          "category": "place"
+          "entity_id": "place_dy_021",
+          "entity_name": "安息",
+          "text": "安息"
         },
         {
           "start": 22,
           "end": 24,
-          "name": "行国土著",
-          "category": "concept"
+          "entity_id": "concept_dy_002",
+          "entity_name": "土著",
+          "text": "土著"
         },
         {
           "start": 44,
           "end": 47,
-          "name": "大月氏",
-          "category": "place"
+          "entity_id": "place_dy_003",
+          "entity_name": "月氏",
+          "text": "大月氏"
         },
         {
           "start": 48,
           "end": 50,
-          "name": "康居",
-          "category": "place"
+          "entity_id": "place_dy_006",
+          "entity_name": "康居",
+          "text": "康居"
         },
         {
           "start": 80,
           "end": 83,
-          "name": "重九译致殊俗",
-          "category": "concept"
+          "entity_id": "concept_dy_009",
+          "entity_name": "重九譯",
+          "text": "重九譯"
         },
         {
           "start": 98,
           "end": 100,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
-        },
-        {
-          "start": 114,
-          "end": 116,
-          "name": "犍为",
-          "category": "place"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         },
         {
           "start": 184,
           "end": 186,
-          "name": "昆明",
-          "category": "place"
+          "entity_id": "place_dy_042",
+          "entity_name": "昆明",
+          "text": "昆明"
         },
         {
           "start": 190,
           "end": 192,
-          "name": "昆明",
-          "category": "place"
-        },
-        {
-          "start": 205,
-          "end": 207,
-          "name": "汉使",
-          "category": "concept"
+          "entity_id": "place_dy_042",
+          "entity_name": "昆明",
+          "text": "昆明"
         },
         {
           "start": 228,
           "end": 230,
-          "name": "滇越",
-          "category": "place"
+          "entity_id": "place_dy_043",
+          "entity_name": "滇越",
+          "text": "滇越"
         },
         {
           "start": 255,
           "end": 257,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         },
         {
           "start": 260,
           "end": 262,
-          "name": "滇国",
-          "category": "place"
-        },
-        {
-          "start": 283,
-          "end": 285,
-          "name": "张骞",
-          "category": "person"
+          "entity_id": "place_dy_043",
+          "entity_name": "滇越",
+          "text": "滇國"
         },
         {
           "start": 289,
           "end": 291,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         }
       ]
     },
@@ -1103,116 +1227,142 @@
         {
           "start": 5,
           "end": 8,
-          "name": "卫青（大将军）",
-          "category": "person"
+          "entity_id": "person_dy_006",
+          "entity_name": "衛青（大將軍）",
+          "text": "大將軍"
         },
         {
           "start": 9,
           "end": 11,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 27,
           "end": 30,
-          "name": "张骞",
-          "category": "person"
+          "entity_id": "person_dy_001",
+          "entity_name": "張騫（博望侯）",
+          "text": "博望侯"
         },
         {
           "start": 55,
           "end": 58,
-          "name": "李广",
-          "category": "person"
+          "entity_id": "person_dy_007",
+          "entity_name": "李廣（李將軍）",
+          "text": "李將軍"
         },
         {
           "start": 60,
           "end": 63,
-          "name": "右北平",
-          "category": "place"
+          "entity_id": "place_dy_029",
+          "entity_name": "右北平",
+          "text": "右北平"
         },
         {
           "start": 64,
           "end": 66,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 67,
           "end": 69,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 70,
           "end": 73,
-          "name": "李广",
-          "category": "person"
+          "entity_id": "person_dy_007",
+          "entity_name": "李廣（李將軍）",
+          "text": "李將軍"
         },
         {
           "start": 95,
           "end": 97,
-          "name": "霍去病（骠骑将军）",
-          "category": "person"
+          "entity_id": "person_dy_008",
+          "entity_name": "霍去病（驃騎將軍）",
+          "text": "驃騎"
         },
         {
           "start": 98,
           "end": 100,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
+        },
+        {
+          "start": 100,
+          "end": 102,
+          "entity_id": "place_dy_034",
+          "entity_name": "西城",
+          "text": "西城"
         },
         {
           "start": 107,
           "end": 110,
-          "name": "祁连山",
-          "category": "place"
+          "entity_id": "place_dy_030",
+          "entity_name": "祁連山",
+          "text": "祁連山"
         },
         {
           "start": 115,
           "end": 118,
-          "name": "浑邪王",
-          "category": "person"
+          "entity_id": "person_dy_009",
+          "entity_name": "渾邪王",
+          "text": "渾邪王"
         },
         {
           "start": 125,
           "end": 127,
-          "name": "金城",
-          "category": "place"
+          "entity_id": "place_dy_031",
+          "entity_name": "金城",
+          "text": "金城"
         },
         {
           "start": 128,
           "end": 130,
-          "name": "河西",
-          "category": "place"
+          "entity_id": "place_dy_032",
+          "entity_name": "河西",
+          "text": "河西"
         },
         {
           "start": 132,
           "end": 134,
-          "name": "南山",
-          "category": "place"
+          "entity_id": "place_dy_008",
+          "entity_name": "南山",
+          "text": "南山"
         },
         {
           "start": 135,
           "end": 137,
-          "name": "盐泽",
-          "category": "place"
+          "entity_id": "place_dy_014",
+          "entity_name": "鹽澤",
+          "text": "鹽澤"
         },
         {
           "start": 139,
           "end": 141,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 142,
           "end": 144,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 165,
           "end": 167,
-          "name": "漠北",
-          "category": "place"
+          "entity_id": "place_dy_033",
+          "entity_name": "幕北",
+          "text": "幕北"
         }
       ]
     },
@@ -1223,116 +1373,107 @@
         {
           "start": 2,
           "end": 4,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         },
         {
           "start": 7,
           "end": 9,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         },
         {
           "start": 24,
           "end": 26,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 29,
           "end": 31,
-          "name": "乌孙",
-          "category": "place"
-        },
-        {
-          "start": 33,
-          "end": 35,
-          "name": "昆莫（乌孙王猎骄靡）",
-          "category": "person"
-        },
-        {
-          "start": 36,
-          "end": 38,
-          "name": "昆莫（乌孙王猎骄靡）",
-          "category": "person"
+          "entity_id": "place_dy_010",
+          "entity_name": "烏孫",
+          "text": "烏孫"
         },
         {
           "start": 41,
           "end": 43,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 49,
           "end": 51,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
-          "start": 60,
-          "end": 62,
-          "name": "昆莫（乌孙王猎骄靡）",
-          "category": "person"
-        },
-        {
-          "start": 117,
-          "end": 119,
-          "name": "昆莫（乌孙王猎骄靡）",
-          "category": "person"
-        },
-        {
-          "start": 127,
-          "end": 129,
-          "name": "昆莫（乌孙王猎骄靡）",
-          "category": "person"
-        },
-        {
-          "start": 152,
-          "end": 154,
-          "name": "昆莫（乌孙王猎骄靡）",
-          "category": "person"
+          "start": 124,
+          "end": 126,
+          "entity_id": "place_dy_034",
+          "entity_name": "西城",
+          "text": "西城"
         },
         {
           "start": 168,
           "end": 170,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 171,
           "end": 173,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
+        },
+        {
+          "start": 189,
+          "end": 191,
+          "entity_id": "concept_dy_010",
+          "entity_name": "羈屬",
+          "text": "羈屬"
         },
         {
           "start": 231,
           "end": 233,
-          "name": "乌孙",
-          "category": "place"
+          "entity_id": "place_dy_010",
+          "entity_name": "烏孫",
+          "text": "烏孫"
         },
         {
           "start": 260,
           "end": 265,
-          "name": "断匈奴右臂",
-          "category": "concept"
+          "entity_id": "concept_dy_007",
+          "entity_name": "斷匈奴右臂",
+          "text": "斷匈奴右臂"
         },
         {
           "start": 269,
           "end": 271,
-          "name": "乌孙",
-          "category": "place"
+          "entity_id": "place_dy_010",
+          "entity_name": "烏孫",
+          "text": "烏孫"
         },
         {
           "start": 275,
           "end": 277,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         },
         {
           "start": 289,
           "end": 291,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         }
       ]
     },
@@ -1343,176 +1484,121 @@
         {
           "start": 3,
           "end": 5,
-          "name": "乌孙",
-          "category": "place"
+          "entity_id": "place_dy_010",
+          "entity_name": "烏孫",
+          "text": "烏孫"
         },
         {
           "start": 6,
-          "end": 8,
-          "name": "乌孙",
-          "category": "place"
-        },
-        {
-          "start": 9,
           "end": 11,
-          "name": "昆莫（乌孙王猎骄靡）",
-          "category": "person"
-        },
-        {
-          "start": 12,
-          "end": 14,
-          "name": "汉使",
-          "category": "concept"
+          "entity_id": "person_dy_010",
+          "entity_name": "昆莫（獵驕靡）",
+          "text": "烏孫王昆莫"
         },
         {
           "start": 32,
           "end": 34,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
-        },
-        {
-          "start": 45,
-          "end": 47,
-          "name": "昆莫（乌孙王猎骄靡）",
-          "category": "person"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         },
         {
           "start": 63,
           "end": 65,
-          "name": "乌孙",
-          "category": "place"
-        },
-        {
-          "start": 75,
-          "end": 77,
-          "name": "江都翁主（刘细君）",
-          "category": "person"
-        },
-        {
-          "start": 78,
-          "end": 80,
-          "name": "昆莫（乌孙王猎骄靡）",
-          "category": "person"
+          "entity_id": "place_dy_010",
+          "entity_name": "烏孫",
+          "text": "烏孫"
         },
         {
           "start": 84,
           "end": 86,
-          "name": "乌孙",
-          "category": "place"
+          "entity_id": "place_dy_010",
+          "entity_name": "烏孫",
+          "text": "烏孫"
         },
         {
           "start": 105,
           "end": 107,
-          "name": "匈奴",
-          "category": "place"
-        },
-        {
-          "start": 141,
-          "end": 143,
-          "name": "昆莫（乌孙王猎骄靡）",
-          "category": "person"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 152,
           "end": 154,
-          "name": "大禄",
-          "category": "person"
+          "entity_id": "person_dy_011",
+          "entity_name": "大祿",
+          "text": "大祿"
         },
         {
           "start": 169,
           "end": 171,
-          "name": "大禄",
-          "category": "person"
+          "entity_id": "person_dy_011",
+          "entity_name": "大祿",
+          "text": "大祿"
         },
         {
           "start": 181,
           "end": 183,
-          "name": "岑娶（军须靡）",
-          "category": "person"
-        },
-        {
-          "start": 195,
-          "end": 197,
-          "name": "昆莫（乌孙王猎骄靡）",
-          "category": "person"
+          "entity_id": "person_dy_012",
+          "entity_name": "岑娶",
+          "text": "岑娶"
         },
         {
           "start": 202,
           "end": 204,
-          "name": "岑娶（军须靡）",
-          "category": "person"
-        },
-        {
-          "start": 216,
-          "end": 218,
-          "name": "昆莫（乌孙王猎骄靡）",
-          "category": "person"
+          "entity_id": "person_dy_012",
+          "entity_name": "岑娶",
+          "text": "岑娶"
         },
         {
           "start": 225,
           "end": 227,
-          "name": "岑娶（军须靡）",
-          "category": "person"
+          "entity_id": "person_dy_012",
+          "entity_name": "岑娶",
+          "text": "岑娶"
         },
         {
           "start": 231,
           "end": 233,
-          "name": "大禄",
-          "category": "person"
+          "entity_id": "person_dy_011",
+          "entity_name": "大祿",
+          "text": "大祿"
         },
         {
           "start": 256,
           "end": 258,
-          "name": "岑娶（军须靡）",
-          "category": "person"
-        },
-        {
-          "start": 259,
-          "end": 261,
-          "name": "昆莫（乌孙王猎骄靡）",
-          "category": "person"
-        },
-        {
-          "start": 262,
-          "end": 264,
-          "name": "昆莫（乌孙王猎骄靡）",
-          "category": "person"
+          "entity_id": "person_dy_012",
+          "entity_name": "岑娶",
+          "text": "岑娶"
         },
         {
           "start": 268,
           "end": 270,
-          "name": "大禄",
-          "category": "person"
+          "entity_id": "person_dy_011",
+          "entity_name": "大祿",
+          "text": "大祿"
         },
         {
           "start": 271,
           "end": 273,
-          "name": "岑娶（军须靡）",
-          "category": "person"
+          "entity_id": "person_dy_012",
+          "entity_name": "岑娶",
+          "text": "岑娶"
         },
         {
           "start": 275,
           "end": 277,
-          "name": "岑娶（军须靡）",
-          "category": "person"
+          "entity_id": "person_dy_012",
+          "entity_name": "岑娶",
+          "text": "岑娶"
         },
         {
-          "start": 284,
-          "end": 286,
-          "name": "昆莫（乌孙王猎骄靡）",
-          "category": "person"
-        },
-        {
-          "start": 306,
-          "end": 308,
-          "name": "昆莫（乌孙王猎骄靡）",
-          "category": "person"
-        },
-        {
-          "start": 309,
-          "end": 311,
-          "name": "昆莫（乌孙王猎骄靡）",
-          "category": "person"
+          "start": 304,
+          "end": 306,
+          "entity_id": "concept_dy_010",
+          "entity_name": "羈屬",
+          "text": "羈屬"
         }
       ]
     },
@@ -1523,62 +1609,72 @@
         {
           "start": 7,
           "end": 9,
-          "name": "大宛",
-          "category": "place"
+          "entity_id": "place_dy_001",
+          "entity_name": "大宛",
+          "text": "大宛"
         },
         {
           "start": 10,
           "end": 12,
-          "name": "康居",
-          "category": "place"
+          "entity_id": "place_dy_006",
+          "entity_name": "康居",
+          "text": "康居"
         },
         {
           "start": 13,
           "end": 16,
-          "name": "大月氏",
-          "category": "place"
+          "entity_id": "place_dy_003",
+          "entity_name": "月氏",
+          "text": "大月氏"
         },
         {
           "start": 17,
           "end": 19,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         },
         {
           "start": 20,
           "end": 22,
-          "name": "安息",
-          "category": "place"
+          "entity_id": "place_dy_021",
+          "entity_name": "安息",
+          "text": "安息"
         },
         {
           "start": 23,
           "end": 25,
-          "name": "身毒",
-          "category": "place"
+          "entity_id": "place_dy_026",
+          "entity_name": "身毒",
+          "text": "身毒"
         },
         {
           "start": 26,
           "end": 28,
-          "name": "于窴",
-          "category": "place"
+          "entity_id": "place_dy_012",
+          "entity_name": "于窴",
+          "text": "于窴"
         },
         {
           "start": 29,
           "end": 31,
-          "name": "扜冞",
-          "category": "place"
+          "entity_id": "place_dy_011",
+          "entity_name": "扜冞",
+          "text": "扜冞"
         },
         {
           "start": 36,
           "end": 38,
-          "name": "乌孙",
-          "category": "place"
+          "entity_id": "place_dy_010",
+          "entity_name": "烏孫",
+          "text": "烏孫"
         },
         {
           "start": 47,
           "end": 49,
-          "name": "乌孙",
-          "category": "place"
+          "entity_id": "place_dy_010",
+          "entity_name": "烏孫",
+          "text": "烏孫"
         }
       ]
     },
@@ -1594,32 +1690,37 @@
         {
           "start": 0,
           "end": 2,
-          "name": "乌孙",
-          "category": "place"
+          "entity_id": "place_dy_010",
+          "entity_name": "烏孫",
+          "text": "烏孫"
         },
         {
           "start": 33,
           "end": 35,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         },
         {
-          "start": 61,
-          "end": 63,
-          "name": "张骞",
-          "category": "person"
+          "start": 51,
+          "end": 58,
+          "entity_id": "event_dy_016",
+          "entity_name": "西北國始通於漢",
+          "text": "西北國始通於漢"
         },
         {
           "start": 63,
           "end": 65,
-          "name": "张骞凿空",
-          "category": "concept"
+          "entity_id": "concept_dy_001",
+          "entity_name": "鑿空",
+          "text": "鑿空"
         },
         {
           "start": 79,
           "end": 82,
-          "name": "张骞",
-          "category": "person"
+          "entity_id": "person_dy_001",
+          "entity_name": "張騫（博望侯）",
+          "text": "博望侯"
         }
       ]
     },
@@ -1630,170 +1731,184 @@
         {
           "start": 1,
           "end": 4,
-          "name": "张骞",
-          "category": "person"
+          "entity_id": "person_dy_001",
+          "entity_name": "張騫（博望侯）",
+          "text": "博望侯"
         },
         {
           "start": 8,
           "end": 10,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 13,
           "end": 15,
-          "name": "乌孙",
-          "category": "place"
-        },
-        {
-          "start": 23,
-          "end": 25,
-          "name": "汉使",
-          "category": "concept"
+          "entity_id": "place_dy_010",
+          "entity_name": "烏孫",
+          "text": "烏孫"
         },
         {
           "start": 25,
           "end": 27,
-          "name": "乌孙",
-          "category": "place"
+          "entity_id": "place_dy_010",
+          "entity_name": "烏孫",
+          "text": "烏孫"
         },
         {
           "start": 37,
           "end": 39,
-          "name": "大宛",
-          "category": "place"
+          "entity_id": "place_dy_001",
+          "entity_name": "大宛",
+          "text": "大宛"
         },
         {
           "start": 40,
           "end": 43,
-          "name": "大月氏",
-          "category": "place"
+          "entity_id": "place_dy_003",
+          "entity_name": "月氏",
+          "text": "大月氏"
         },
         {
           "start": 46,
           "end": 48,
-          "name": "乌孙",
-          "category": "place"
+          "entity_id": "place_dy_010",
+          "entity_name": "烏孫",
+          "text": "烏孫"
         },
         {
-          "start": 61,
+          "start": 59,
           "end": 63,
-          "name": "江都翁主（刘细君）",
-          "category": "person"
+          "entity_id": "person_dy_013",
+          "entity_name": "江都翁主（劉細君）",
+          "text": "漢女翁主"
         },
         {
           "start": 67,
           "end": 69,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         },
         {
           "start": 92,
           "end": 94,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         },
         {
           "start": 113,
           "end": 115,
-          "name": "乌孙",
-          "category": "place"
+          "entity_id": "place_dy_010",
+          "entity_name": "烏孫",
+          "text": "烏孫"
         },
         {
           "start": 121,
           "end": 123,
-          "name": "汗血马（天马子）",
-          "category": "concept"
+          "entity_id": "concept_dy_004",
+          "entity_name": "汗血馬",
+          "text": "天馬"
         },
         {
           "start": 127,
           "end": 129,
-          "name": "大宛",
-          "category": "place"
+          "entity_id": "place_dy_001",
+          "entity_name": "大宛",
+          "text": "大宛"
         },
         {
           "start": 129,
-          "end": 131,
-          "name": "汗血马（天马子）",
-          "category": "concept"
+          "end": 132,
+          "entity_id": "concept_dy_004",
+          "entity_name": "汗血馬",
+          "text": "汗血馬"
         },
         {
           "start": 138,
           "end": 140,
-          "name": "乌孙",
-          "category": "place"
-        },
-        {
-          "start": 143,
-          "end": 145,
-          "name": "汗血马（天马子）",
-          "category": "concept"
+          "entity_id": "place_dy_010",
+          "entity_name": "烏孫",
+          "text": "烏孫"
         },
         {
           "start": 148,
           "end": 150,
-          "name": "大宛",
-          "category": "place"
+          "entity_id": "place_dy_001",
+          "entity_name": "大宛",
+          "text": "大宛"
         },
         {
           "start": 153,
           "end": 155,
-          "name": "汗血马（天马子）",
-          "category": "concept"
+          "entity_id": "concept_dy_004",
+          "entity_name": "汗血馬",
+          "text": "天馬"
         },
         {
           "start": 162,
           "end": 164,
-          "name": "令居",
-          "category": "place"
+          "entity_id": "place_dy_035",
+          "entity_name": "令居",
+          "text": "令居"
         },
         {
           "start": 172,
-          "end": 174,
-          "name": "酒泉郡",
-          "category": "place"
+          "end": 175,
+          "entity_id": "place_dy_036",
+          "entity_name": "酒泉郡",
+          "text": "酒泉郡"
         },
         {
           "start": 186,
           "end": 188,
-          "name": "安息",
-          "category": "place"
+          "entity_id": "place_dy_021",
+          "entity_name": "安息",
+          "text": "安息"
         },
         {
           "start": 189,
           "end": 191,
-          "name": "奄蔡",
-          "category": "place"
+          "entity_id": "place_dy_018",
+          "entity_name": "奄蔡",
+          "text": "奄蔡"
         },
         {
           "start": 192,
           "end": 194,
-          "name": "黎轩",
-          "category": "place"
+          "entity_id": "place_dy_025",
+          "entity_name": "黎軒",
+          "text": "黎軒"
         },
         {
           "start": 195,
           "end": 197,
-          "name": "条枝",
-          "category": "place"
+          "entity_id": "place_dy_024",
+          "entity_name": "條枝",
+          "text": "條枝"
         },
         {
           "start": 198,
           "end": 200,
-          "name": "身毒",
-          "category": "place"
+          "entity_id": "place_dy_026",
+          "entity_name": "身毒",
+          "text": "身毒"
         },
         {
           "start": 203,
           "end": 205,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         },
         {
           "start": 239,
           "end": 242,
-          "name": "张骞",
-          "category": "person"
+          "entity_id": "person_dy_001",
+          "entity_name": "張騫（博望侯）",
+          "text": "博望侯"
         }
       ]
     },
@@ -1804,110 +1919,114 @@
         {
           "start": 24,
           "end": 26,
-          "name": "益州郡",
-          "category": "place"
+          "entity_id": "place_dy_037",
+          "entity_name": "益州",
+          "text": "益州"
         },
         {
           "start": 27,
           "end": 29,
-          "name": "越巂郡",
-          "category": "place"
+          "entity_id": "place_dy_038",
+          "entity_name": "越巂",
+          "text": "越巂"
         },
         {
           "start": 30,
           "end": 32,
-          "name": "䍧牱郡",
-          "category": "place"
+          "entity_id": "place_dy_039",
+          "entity_name": "䍧牱",
+          "text": "䍧牱"
         },
         {
           "start": 33,
           "end": 35,
-          "name": "沈黎郡",
-          "category": "place"
+          "entity_id": "place_dy_040",
+          "entity_name": "沈黎",
+          "text": "沈黎"
         },
         {
           "start": 36,
           "end": 38,
-          "name": "汶山郡",
-          "category": "place"
+          "entity_id": "place_dy_041",
+          "entity_name": "汶山",
+          "text": "汶山"
         },
         {
           "start": 46,
           "end": 48,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         },
         {
           "start": 55,
           "end": 58,
-          "name": "柏始昌",
-          "category": "person"
+          "entity_id": "person_dy_034",
+          "entity_name": "柏始昌",
+          "text": "柏始昌"
         },
         {
           "start": 59,
           "end": 62,
-          "name": "吕越人",
-          "category": "person"
+          "entity_id": "person_dy_035",
+          "entity_name": "呂越人",
+          "text": "呂越人"
         },
         {
           "start": 73,
           "end": 75,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         },
         {
           "start": 82,
           "end": 84,
-          "name": "昆明",
-          "category": "place"
+          "entity_id": "place_dy_042",
+          "entity_name": "昆明",
+          "text": "昆明"
         },
         {
           "start": 98,
           "end": 100,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         },
         {
           "start": 123,
           "end": 125,
-          "name": "郭昌",
-          "category": "person"
-        },
-        {
-          "start": 126,
-          "end": 128,
-          "name": "卫广",
-          "category": "person"
+          "entity_id": "person_dy_032",
+          "entity_name": "郭昌",
+          "text": "郭昌"
         },
         {
           "start": 131,
           "end": 133,
-          "name": "昆明",
-          "category": "place"
-        },
-        {
-          "start": 135,
-          "end": 137,
-          "name": "汉使",
-          "category": "concept"
+          "entity_id": "place_dy_042",
+          "entity_name": "昆明",
+          "text": "昆明"
         },
         {
           "start": 156,
           "end": 158,
-          "name": "昆明",
-          "category": "place"
+          "entity_id": "place_dy_042",
+          "entity_name": "昆明",
+          "text": "昆明"
         },
         {
           "start": 171,
           "end": 173,
-          "name": "酒泉郡",
-          "category": "place"
+          "entity_id": "place_dy_036",
+          "entity_name": "酒泉郡",
+          "text": "酒泉"
         },
         {
           "start": 174,
           "end": 176,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         }
       ]
     },
@@ -1918,188 +2037,149 @@
         {
           "start": 1,
           "end": 4,
-          "name": "张骞",
-          "category": "person"
+          "entity_id": "person_dy_001",
+          "entity_name": "張騫（博望侯）",
+          "text": "博望侯"
         },
         {
           "start": 32,
           "end": 34,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         },
         {
           "start": 89,
           "end": 91,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
-        },
-        {
-          "start": 187,
-          "end": 189,
-          "name": "汉使",
-          "category": "concept"
-        },
-        {
-          "start": 200,
-          "end": 202,
-          "name": "汉军",
-          "category": "concept"
-        },
-        {
-          "start": 214,
-          "end": 216,
-          "name": "汉使",
-          "category": "concept"
-        },
-        {
-          "start": 217,
-          "end": 219,
-          "name": "汉使",
-          "category": "concept"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         },
         {
           "start": 230,
           "end": 232,
-          "name": "楼兰",
-          "category": "place"
+          "entity_id": "place_dy_015",
+          "entity_name": "樓蘭",
+          "text": "樓蘭"
         },
         {
           "start": 233,
           "end": 235,
-          "name": "姑师",
-          "category": "place"
-        },
-        {
-          "start": 248,
-          "end": 250,
-          "name": "汉使",
-          "category": "concept"
-        },
-        {
-          "start": 250,
-          "end": 252,
-          "name": "王恢（浩侯）",
-          "category": "person"
+          "entity_id": "place_dy_016",
+          "entity_name": "姑師",
+          "text": "姑師"
         },
         {
           "start": 260,
           "end": 262,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 295,
           "end": 297,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         },
         {
           "start": 300,
           "end": 305,
-          "name": "赵破奴（从骠侯/浞野侯）",
-          "category": "person"
+          "entity_id": "person_dy_015",
+          "entity_name": "趙破奴（浞野侯）",
+          "text": "從驃侯破奴"
         },
         {
           "start": 316,
           "end": 319,
-          "name": "匈河水",
-          "category": "place"
+          "entity_id": "place_dy_044",
+          "entity_name": "匈河水",
+          "text": "匈河水"
         },
         {
           "start": 334,
           "end": 336,
-          "name": "姑师",
-          "category": "place"
-        },
-        {
-          "start": 337,
-          "end": 339,
-          "name": "赵破奴（从骠侯/浞野侯）",
-          "category": "person"
+          "entity_id": "place_dy_016",
+          "entity_name": "姑師",
+          "text": "姑師"
         },
         {
           "start": 349,
           "end": 351,
-          "name": "楼兰",
-          "category": "place"
+          "entity_id": "place_dy_015",
+          "entity_name": "樓蘭",
+          "text": "樓蘭"
         },
         {
           "start": 355,
           "end": 357,
-          "name": "姑师",
-          "category": "place"
+          "entity_id": "place_dy_016",
+          "entity_name": "姑師",
+          "text": "姑師"
         },
         {
           "start": 364,
           "end": 366,
-          "name": "乌孙",
-          "category": "place"
+          "entity_id": "place_dy_010",
+          "entity_name": "烏孫",
+          "text": "烏孫"
         },
         {
           "start": 367,
           "end": 369,
-          "name": "大宛",
-          "category": "place"
-        },
-        {
-          "start": 375,
-          "end": 377,
-          "name": "赵破奴（从骠侯/浞野侯）",
-          "category": "person"
+          "entity_id": "place_dy_001",
+          "entity_name": "大宛",
+          "text": "大宛"
         },
         {
           "start": 378,
           "end": 381,
-          "name": "赵破奴（从骠侯/浞野侯）",
-          "category": "person"
-        },
-        {
-          "start": 385,
-          "end": 387,
-          "name": "王恢（浩侯）",
-          "category": "person"
+          "entity_id": "person_dy_015",
+          "entity_name": "趙破奴（浞野侯）",
+          "text": "浞野侯"
         },
         {
           "start": 394,
           "end": 396,
-          "name": "楼兰",
-          "category": "place"
+          "entity_id": "place_dy_015",
+          "entity_name": "樓蘭",
+          "text": "樓蘭"
         },
         {
           "start": 400,
           "end": 402,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         },
         {
           "start": 403,
           "end": 405,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
-        },
-        {
-          "start": 410,
-          "end": 412,
-          "name": "赵破奴（从骠侯/浞野侯）",
-          "category": "person"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         },
         {
           "start": 427,
           "end": 429,
-          "name": "酒泉郡",
-          "category": "place"
+          "entity_id": "place_dy_036",
+          "entity_name": "酒泉郡",
+          "text": "酒泉"
         },
         {
           "start": 430,
           "end": 432,
-          "name": "酒泉亭鄣",
-          "category": "concept"
+          "entity_id": "concept_dy_012",
+          "entity_name": "亭鄣",
+          "text": "亭鄣"
         },
         {
           "start": 433,
           "end": 435,
-          "name": "玉门",
-          "category": "place"
+          "entity_id": "place_dy_045",
+          "entity_name": "玉門",
+          "text": "玉門"
         }
       ]
     },
@@ -2110,74 +2190,51 @@
         {
           "start": 0,
           "end": 2,
-          "name": "乌孙",
-          "category": "place"
+          "entity_id": "place_dy_010",
+          "entity_name": "烏孫",
+          "text": "烏孫"
         },
         {
           "start": 15,
           "end": 19,
-          "name": "江都翁主（刘细君）",
-          "category": "person"
+          "entity_id": "person_dy_013",
+          "entity_name": "江都翁主（劉細君）",
+          "text": "江都翁主"
         },
         {
           "start": 24,
           "end": 26,
-          "name": "乌孙",
-          "category": "place"
+          "entity_id": "place_dy_010",
+          "entity_name": "烏孫",
+          "text": "烏孫"
         },
         {
           "start": 27,
-          "end": 29,
-          "name": "乌孙",
-          "category": "place"
-        },
-        {
-          "start": 30,
           "end": 32,
-          "name": "昆莫（乌孙王猎骄靡）",
-          "category": "person"
+          "entity_id": "person_dy_010",
+          "entity_name": "昆莫（獵驕靡）",
+          "text": "烏孫王昆莫"
         },
         {
           "start": 38,
           "end": 40,
-          "name": "匈奴",
-          "category": "place"
-        },
-        {
-          "start": 44,
-          "end": 46,
-          "name": "昆莫（乌孙王猎骄靡）",
-          "category": "person"
-        },
-        {
-          "start": 47,
-          "end": 49,
-          "name": "昆莫（乌孙王猎骄靡）",
-          "category": "person"
-        },
-        {
-          "start": 55,
-          "end": 57,
-          "name": "昆莫（乌孙王猎骄靡）",
-          "category": "person"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 67,
           "end": 69,
-          "name": "岑娶（军须靡）",
-          "category": "person"
-        },
-        {
-          "start": 70,
-          "end": 72,
-          "name": "江都翁主（刘细君）",
-          "category": "person"
+          "entity_id": "person_dy_012",
+          "entity_name": "岑娶",
+          "text": "岑娶"
         },
         {
           "start": 73,
           "end": 75,
-          "name": "乌孙",
-          "category": "place"
+          "entity_id": "place_dy_010",
+          "entity_name": "烏孫",
+          "text": "烏孫"
         }
       ]
     },
@@ -2186,88 +2243,74 @@
       "text": "初，漢使至安息，安息王令將二萬騎迎於東界。東界去王都數千里。行比至，過數十城，人民相屬甚多。漢使還，而後發使隨漢使來觀漢廣大，以大鳥卵及黎軒善眩人獻于漢。⟦0⟧及宛西小國驩潛、大益，宛東姑師、扞冞、蘇薤之屬，皆隨漢使獻見天子。天子大悅。",
       "mentions": [
         {
-          "start": 2,
-          "end": 4,
-          "name": "汉使",
-          "category": "concept"
-        },
-        {
           "start": 5,
           "end": 7,
-          "name": "安息",
-          "category": "place"
+          "entity_id": "place_dy_021",
+          "entity_name": "安息",
+          "text": "安息"
         },
         {
           "start": 8,
           "end": 10,
-          "name": "安息",
-          "category": "place"
-        },
-        {
-          "start": 46,
-          "end": 48,
-          "name": "汉使",
-          "category": "concept"
-        },
-        {
-          "start": 55,
-          "end": 57,
-          "name": "汉使",
-          "category": "concept"
+          "entity_id": "place_dy_021",
+          "entity_name": "安息",
+          "text": "安息"
         },
         {
           "start": 68,
           "end": 70,
-          "name": "黎轩",
-          "category": "place"
+          "entity_id": "place_dy_025",
+          "entity_name": "黎軒",
+          "text": "黎軒"
         },
         {
           "start": 85,
           "end": 87,
-          "name": "驩潜",
-          "category": "place"
+          "entity_id": "place_dy_053",
+          "entity_name": "驩潛",
+          "text": "驩潛"
         },
         {
           "start": 88,
           "end": 90,
-          "name": "大益",
-          "category": "place"
+          "entity_id": "place_dy_054",
+          "entity_name": "大益",
+          "text": "大益"
         },
         {
           "start": 93,
           "end": 95,
-          "name": "姑师",
-          "category": "place"
+          "entity_id": "place_dy_016",
+          "entity_name": "姑師",
+          "text": "姑師"
         },
         {
           "start": 96,
           "end": 98,
-          "name": "扜冞",
-          "category": "place"
+          "entity_id": "place_dy_011",
+          "entity_name": "扜冞",
+          "text": "扞冞"
         },
         {
           "start": 99,
           "end": 101,
-          "name": "苏薤",
-          "category": "place"
-        },
-        {
-          "start": 106,
-          "end": 108,
-          "name": "汉使",
-          "category": "concept"
+          "entity_id": "place_dy_055",
+          "entity_name": "蘇薤",
+          "text": "蘇薤"
         },
         {
           "start": 110,
           "end": 112,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         },
         {
           "start": 113,
           "end": 115,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         }
       ]
     },
@@ -2276,40 +2319,25 @@
       "text": "而漢使窮河源，河源出于窴，其山多玉石，采來，⟦0⟧天子案古圖書，名河所出山曰崑崙云。",
       "mentions": [
         {
-          "start": 1,
-          "end": 3,
-          "name": "汉使",
-          "category": "concept"
-        },
-        {
-          "start": 4,
-          "end": 6,
-          "name": "河源",
-          "category": "place"
-        },
-        {
-          "start": 7,
-          "end": 9,
-          "name": "河源",
-          "category": "place"
-        },
-        {
           "start": 10,
           "end": 12,
-          "name": "于窴",
-          "category": "place"
+          "entity_id": "place_dy_012",
+          "entity_name": "于窴",
+          "text": "于窴"
         },
         {
           "start": 25,
           "end": 27,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         },
         {
           "start": 38,
           "end": 40,
-          "name": "昆仑山",
-          "category": "place"
+          "entity_id": "place_dy_056",
+          "entity_name": "崑崙",
+          "text": "崑崙"
         }
       ]
     },
@@ -2318,22 +2346,18 @@
       "text": "是時上方數廵狩海上，乃悉從外國客，大都多人則過之，散財帛以賞賜，厚具以饒給之，以覽示漢富厚焉。於是大觳抵，出奇戲諸怪物，多聚觀者，行賞賜，酒池肉林，令外國客徧觀名倉庫府藏之積，見漢之廣大，傾駭之。及加其眩者之工，而觳抵奇戲歲增變，甚盛益興，自此始。",
       "mentions": [
         {
-          "start": 13,
-          "end": 16,
-          "name": "外国客",
-          "category": "concept"
+          "start": 50,
+          "end": 52,
+          "entity_id": "concept_dy_014",
+          "entity_name": "角抵奇戲",
+          "text": "觳抵"
         },
         {
-          "start": 69,
-          "end": 73,
-          "name": "酒池肉林",
-          "category": "concept"
-        },
-        {
-          "start": 75,
-          "end": 78,
-          "name": "外国客",
-          "category": "concept"
+          "start": 107,
+          "end": 109,
+          "entity_id": "concept_dy_014",
+          "entity_name": "角抵奇戲",
+          "text": "觳抵"
         }
       ]
     },
@@ -2342,130 +2366,109 @@
       "text": "西北外國使，更來更去。宛以西，皆自以遠，尚驕恣晏然，未可詘以禮羈縻而使也。自烏孫以西至安息，以近匈奴，匈奴困月氏也，匈奴使持單于一信，則國國傳送食，不敢留苦；及至漢使，非出幣帛不得食，不市畜不得騎用。所以然者，遠漢，而漢多財物，故必市乃得所欲，然以畏匈奴於漢使焉。宛左右以蒲陶爲酒，富人藏酒至萬餘石，久者數十歲不敗。俗嗜酒，馬嗜苜蓿。漢使取其實來，於是天子始種苜蓿、蒲陶肥饒地。及天馬多，外國使來衆，則離宮別觀旁盡種蒲萄、苜蓿極望。自大宛以西至安息，國雖頗異言，然大同俗，相知言。其人皆深眼，多鬚𩑺，善市賈，爭分銖。俗貴女子，女子所言而丈夫乃決正。其地皆無絲漆，不知鑄錢器。⟦0⟧及漢使亡卒降，教鑄作他兵器。得漢黃白金，輙以爲器，不用爲幣。",
       "mentions": [
         {
+          "start": 31,
+          "end": 33,
+          "entity_id": "concept_dy_010",
+          "entity_name": "羈屬",
+          "text": "羈縻"
+        },
+        {
           "start": 38,
           "end": 40,
-          "name": "乌孙",
-          "category": "place"
+          "entity_id": "place_dy_010",
+          "entity_name": "烏孫",
+          "text": "烏孫"
         },
         {
           "start": 43,
           "end": 45,
-          "name": "安息",
-          "category": "place"
+          "entity_id": "place_dy_021",
+          "entity_name": "安息",
+          "text": "安息"
         },
         {
           "start": 48,
           "end": 50,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 51,
           "end": 53,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 54,
           "end": 56,
-          "name": "大月氏",
-          "category": "place"
+          "entity_id": "place_dy_003",
+          "entity_name": "月氏",
+          "text": "月氏"
         },
         {
           "start": 58,
           "end": 60,
-          "name": "匈奴",
-          "category": "place"
-        },
-        {
-          "start": 81,
-          "end": 83,
-          "name": "汉使",
-          "category": "concept"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 125,
           "end": 127,
-          "name": "匈奴",
-          "category": "place"
-        },
-        {
-          "start": 128,
-          "end": 130,
-          "name": "汉使",
-          "category": "concept"
-        },
-        {
-          "start": 136,
-          "end": 138,
-          "name": "蒲陶",
-          "category": "concept"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 164,
           "end": 166,
-          "name": "苜蓿",
-          "category": "concept"
-        },
-        {
-          "start": 167,
-          "end": 169,
-          "name": "汉使",
-          "category": "concept"
+          "entity_id": "concept_dy_006",
+          "entity_name": "苜蓿",
+          "text": "苜蓿"
         },
         {
           "start": 176,
           "end": 178,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         },
         {
           "start": 180,
           "end": 182,
-          "name": "苜蓿",
-          "category": "concept"
-        },
-        {
-          "start": 183,
-          "end": 185,
-          "name": "蒲陶",
-          "category": "concept"
+          "entity_id": "concept_dy_006",
+          "entity_name": "苜蓿",
+          "text": "苜蓿"
         },
         {
           "start": 190,
           "end": 192,
-          "name": "汗血马（天马子）",
-          "category": "concept"
-        },
-        {
-          "start": 208,
-          "end": 210,
-          "name": "蒲陶",
-          "category": "concept"
+          "entity_id": "concept_dy_004",
+          "entity_name": "汗血馬",
+          "text": "天馬"
         },
         {
           "start": 211,
           "end": 213,
-          "name": "苜蓿",
-          "category": "concept"
+          "entity_id": "concept_dy_006",
+          "entity_name": "苜蓿",
+          "text": "苜蓿"
         },
         {
           "start": 217,
           "end": 219,
-          "name": "大宛",
-          "category": "place"
+          "entity_id": "place_dy_001",
+          "entity_name": "大宛",
+          "text": "大宛"
         },
         {
           "start": 222,
           "end": 224,
-          "name": "安息",
-          "category": "place"
-        },
-        {
-          "start": 291,
-          "end": 293,
-          "name": "汉使",
-          "category": "concept"
+          "entity_id": "place_dy_021",
+          "entity_name": "安息",
+          "text": "安息"
         }
       ]
     },
@@ -2474,202 +2477,179 @@
       "text": "而漢使者往旣多，其少從率多進熟於天子，⟦0⟧言曰：「宛有善馬在貳師城，匿不肯與漢使。」天子旣好宛馬，聞之甘心，使壯士車令等持千金及金馬以請宛王貳師城善馬。宛國饒漢物，相與謀曰：「漢去我遠，而鹽水中數敗，⟦1⟧⟦2⟧出其北有胡寇，出其南乏水草。又且往往而絕邑，乏食者多。漢使數百人爲輩來，而常乏食，死者過半，是安能致大軍乎？無奈我何。且貳師馬，宛寶馬也。」遂不肯予漢使。漢使怒，妄言，⟦3⟧椎金馬而去。宛貴人怒曰：「漢使至輕我！」遣漢使去，令其東邊郁成遮攻殺漢使，取其財物。於是天子大怒。諸嘗使宛姚定漢等言宛兵弱，誠以漢兵不過三千人，彊弩射之，即盡虜破宛矣。天子已嘗使浞野侯攻樓蘭，以七百騎先至，虜其王，以定漢等言爲然，而欲侯寵姬李氏，拜李廣利爲貳師將軍，發屬國六千騎，及郡國惡少年數萬人，以往伐宛。期至貳師城取善馬，故號「貳師將軍」。趙始成爲軍正，故浩侯王恢使導軍，⟦4⟧而李哆爲校尉，⟦5⟧制軍事。是歲太初元年也。而關東蝗大起，蜚西至敦煌。",
       "mentions": [
         {
-          "start": 1,
-          "end": 3,
-          "name": "汉使",
-          "category": "concept"
-        },
-        {
           "start": 16,
           "end": 18,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
+        },
+        {
+          "start": 28,
+          "end": 30,
+          "entity_id": "concept_dy_004",
+          "entity_name": "汗血馬",
+          "text": "善馬"
         },
         {
           "start": 31,
           "end": 34,
-          "name": "贰师城",
-          "category": "place"
-        },
-        {
-          "start": 39,
-          "end": 41,
-          "name": "汉使",
-          "category": "concept"
+          "entity_id": "place_dy_046",
+          "entity_name": "貳師城",
+          "text": "貳師城"
         },
         {
           "start": 43,
           "end": 45,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         },
         {
           "start": 58,
           "end": 60,
-          "name": "车令",
-          "category": "person"
-        },
-        {
-          "start": 65,
-          "end": 67,
-          "name": "金马",
-          "category": "concept"
+          "entity_id": "person_dy_020",
+          "entity_name": "車令",
+          "text": "車令"
         },
         {
           "start": 71,
           "end": 74,
-          "name": "贰师城",
-          "category": "place"
+          "entity_id": "place_dy_046",
+          "entity_name": "貳師城",
+          "text": "貳師城"
+        },
+        {
+          "start": 74,
+          "end": 76,
+          "entity_id": "concept_dy_004",
+          "entity_name": "汗血馬",
+          "text": "善馬"
         },
         {
           "start": 95,
           "end": 97,
-          "name": "盐泽",
-          "category": "place"
-        },
-        {
-          "start": 134,
-          "end": 136,
-          "name": "汉使",
-          "category": "concept"
+          "entity_id": "place_dy_014",
+          "entity_name": "鹽澤",
+          "text": "鹽水"
         },
         {
           "start": 167,
-          "end": 169,
-          "name": "贰师将军",
-          "category": "concept"
-        },
-        {
-          "start": 181,
-          "end": 183,
-          "name": "汉使",
-          "category": "concept"
-        },
-        {
-          "start": 184,
-          "end": 186,
-          "name": "汉使",
-          "category": "concept"
-        },
-        {
-          "start": 195,
-          "end": 197,
-          "name": "金马",
-          "category": "concept"
-        },
-        {
-          "start": 200,
-          "end": 203,
-          "name": "宛贵人",
-          "category": "concept"
-        },
-        {
-          "start": 207,
-          "end": 209,
-          "name": "汉使",
-          "category": "concept"
-        },
-        {
-          "start": 215,
-          "end": 217,
-          "name": "汉使",
-          "category": "concept"
+          "end": 170,
+          "entity_id": "concept_dy_004",
+          "entity_name": "汗血馬",
+          "text": "貳師馬"
         },
         {
           "start": 223,
           "end": 225,
-          "name": "郁成",
-          "category": "place"
-        },
-        {
-          "start": 228,
-          "end": 230,
-          "name": "汉使",
-          "category": "concept"
+          "entity_id": "place_dy_047",
+          "entity_name": "郁成",
+          "text": "郁成"
         },
         {
           "start": 238,
           "end": 240,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         },
         {
           "start": 247,
           "end": 250,
-          "name": "姚定汉",
-          "category": "person"
-        },
-        {
-          "start": 258,
-          "end": 260,
-          "name": "汉军",
-          "category": "concept"
+          "entity_id": "person_dy_023",
+          "entity_name": "姚定漢",
+          "text": "姚定漢"
         },
         {
           "start": 278,
           "end": 280,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         },
         {
           "start": 283,
           "end": 286,
-          "name": "赵破奴（从骠侯/浞野侯）",
-          "category": "person"
+          "entity_id": "person_dy_015",
+          "entity_name": "趙破奴（浞野侯）",
+          "text": "浞野侯"
         },
         {
           "start": 287,
           "end": 289,
-          "name": "楼兰",
-          "category": "place"
+          "entity_id": "place_dy_015",
+          "entity_name": "樓蘭",
+          "text": "樓蘭"
         },
         {
           "start": 319,
           "end": 321,
-          "name": "李广利（贰师将军）",
-          "category": "person"
+          "entity_id": "person_dy_017",
+          "entity_name": "李廣利（貳師將軍）",
+          "text": "廣利"
         },
         {
           "start": 322,
           "end": 326,
-          "name": "李广利（贰师将军）",
-          "category": "person"
+          "entity_id": "person_dy_017",
+          "entity_name": "李廣利（貳師將軍）",
+          "text": "貳師將軍"
         },
         {
           "start": 351,
           "end": 354,
-          "name": "贰师城",
-          "category": "place"
+          "entity_id": "place_dy_046",
+          "entity_name": "貳師城",
+          "text": "貳師城"
+        },
+        {
+          "start": 355,
+          "end": 357,
+          "entity_id": "concept_dy_004",
+          "entity_name": "汗血馬",
+          "text": "善馬"
         },
         {
           "start": 361,
           "end": 365,
-          "name": "李广利（贰师将军）",
-          "category": "person"
+          "entity_id": "person_dy_017",
+          "entity_name": "李廣利（貳師將軍）",
+          "text": "貳師將軍"
         },
         {
           "start": 367,
           "end": 370,
-          "name": "赵始成",
-          "category": "person"
+          "entity_id": "person_dy_018",
+          "entity_name": "趙始成",
+          "text": "趙始成"
         },
         {
-          "start": 377,
+          "start": 375,
           "end": 379,
-          "name": "王恢（浩侯）",
-          "category": "person"
+          "entity_id": "person_dy_016",
+          "entity_name": "王恢（浩侯）",
+          "text": "浩侯王恢"
         },
         {
           "start": 387,
           "end": 389,
-          "name": "李哆",
-          "category": "person"
+          "entity_id": "person_dy_019",
+          "entity_name": "李哆",
+          "text": "李哆"
+        },
+        {
+          "start": 409,
+          "end": 411,
+          "entity_id": "place_dy_048",
+          "entity_name": "關東",
+          "text": "關東"
         },
         {
           "start": 418,
           "end": 420,
-          "name": "敦煌",
-          "category": "place"
+          "entity_id": "place_dy_022",
+          "entity_name": "敦煌",
+          "text": "敦煌"
         }
       ]
     },
@@ -2680,74 +2660,79 @@
         {
           "start": 0,
           "end": 4,
-          "name": "李广利（贰师将军）",
-          "category": "person"
+          "entity_id": "person_dy_017",
+          "entity_name": "李廣利（貳師將軍）",
+          "text": "貳師將軍"
         },
         {
           "start": 8,
           "end": 10,
-          "name": "盐泽",
-          "category": "place"
+          "entity_id": "place_dy_014",
+          "entity_name": "鹽澤",
+          "text": "鹽水"
         },
         {
           "start": 48,
           "end": 50,
-          "name": "郁成",
-          "category": "place"
+          "entity_id": "place_dy_047",
+          "entity_name": "郁成",
+          "text": "郁成"
         },
         {
           "start": 64,
           "end": 66,
-          "name": "郁成",
-          "category": "place"
+          "entity_id": "place_dy_047",
+          "entity_name": "郁成",
+          "text": "郁成"
         },
         {
           "start": 67,
           "end": 69,
-          "name": "郁成",
-          "category": "place"
+          "entity_id": "place_dy_047",
+          "entity_name": "郁成",
+          "text": "郁成"
         },
         {
           "start": 79,
           "end": 83,
-          "name": "李广利（贰师将军）",
-          "category": "person"
+          "entity_id": "person_dy_017",
+          "entity_name": "李廣利（貳師將軍）",
+          "text": "貳師將軍"
         },
         {
           "start": 93,
           "end": 95,
-          "name": "郁成",
-          "category": "place"
+          "entity_id": "place_dy_047",
+          "entity_name": "郁成",
+          "text": "郁成"
         },
         {
           "start": 120,
           "end": 122,
-          "name": "敦煌",
-          "category": "place"
+          "entity_id": "place_dy_022",
+          "entity_name": "敦煌",
+          "text": "燉煌"
         },
         {
           "start": 174,
           "end": 176,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         },
         {
           "start": 186,
           "end": 188,
-          "name": "玉门",
-          "category": "place"
-        },
-        {
-          "start": 199,
-          "end": 201,
-          "name": "贰师将军",
-          "category": "concept"
+          "entity_id": "place_dy_045",
+          "entity_name": "玉門",
+          "text": "玉門"
         },
         {
           "start": 205,
           "end": 207,
-          "name": "敦煌",
-          "category": "place"
+          "entity_id": "place_dy_022",
+          "entity_name": "敦煌",
+          "text": "敦煌"
         }
       ]
     },
@@ -2758,98 +2743,114 @@
         {
           "start": 13,
           "end": 15,
-          "name": "匈奴",
-          "category": "place"
+          "entity_id": "place_dy_002",
+          "entity_name": "匈奴",
+          "text": "匈奴"
         },
         {
           "start": 36,
           "end": 38,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         },
         {
           "start": 52,
           "end": 54,
-          "name": "大夏",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
+        },
+        {
+          "start": 61,
+          "end": 63,
+          "entity_id": "concept_dy_004",
+          "entity_name": "汗血馬",
+          "text": "善馬"
         },
         {
           "start": 67,
           "end": 69,
-          "name": "乌孙",
-          "category": "place"
+          "entity_id": "place_dy_010",
+          "entity_name": "烏孫",
+          "text": "烏孫"
         },
         {
           "start": 70,
           "end": 72,
-          "name": "仑头（轮台）",
-          "category": "place"
-        },
-        {
-          "start": 74,
-          "end": 76,
-          "name": "汉使",
-          "category": "concept"
+          "entity_id": "place_dy_049",
+          "entity_name": "侖頭",
+          "text": "侖頭"
         },
         {
           "start": 95,
           "end": 97,
-          "name": "邓光",
-          "category": "person"
+          "entity_id": "person_dy_024",
+          "entity_name": "鄧光",
+          "text": "鄧光"
         },
         {
           "start": 118,
           "end": 120,
-          "name": "敦煌",
-          "category": "place"
+          "entity_id": "place_dy_022",
+          "entity_name": "敦煌",
+          "text": "燉煌"
         },
         {
           "start": 220,
           "end": 222,
-          "name": "酒泉郡",
-          "category": "place"
+          "entity_id": "place_dy_036",
+          "entity_name": "酒泉郡",
+          "text": "酒泉"
         },
         {
           "start": 223,
           "end": 225,
-          "name": "张掖",
-          "category": "place"
+          "entity_id": "place_dy_052",
+          "entity_name": "張掖",
+          "text": "張掖"
         },
         {
           "start": 227,
           "end": 229,
-          "name": "居延",
-          "category": "place"
+          "entity_id": "place_dy_050",
+          "entity_name": "居延",
+          "text": "居延"
         },
         {
           "start": 230,
           "end": 232,
-          "name": "休屠",
-          "category": "place"
+          "entity_id": "place_dy_051",
+          "entity_name": "休屠",
+          "text": "休屠"
         },
         {
           "start": 234,
           "end": 236,
-          "name": "酒泉郡",
-          "category": "place"
+          "entity_id": "place_dy_036",
+          "entity_name": "酒泉郡",
+          "text": "酒泉"
         },
         {
           "start": 244,
           "end": 247,
-          "name": "七科适",
-          "category": "concept"
-        },
-        {
-          "start": 255,
-          "end": 257,
-          "name": "贰师将军",
-          "category": "concept"
+          "entity_id": "concept_dy_011",
+          "entity_name": "七科適",
+          "text": "七科適"
         },
         {
           "start": 266,
           "end": 268,
-          "name": "敦煌",
-          "category": "place"
+          "entity_id": "place_dy_022",
+          "entity_name": "敦煌",
+          "text": "敦煌"
+        },
+        {
+          "start": 288,
+          "end": 290,
+          "entity_id": "concept_dy_004",
+          "entity_name": "汗血馬",
+          "text": "善馬"
         }
       ]
     },
@@ -2858,232 +2859,158 @@
       "text": "於是貳師後復行，兵多，而所至小國莫不迎，出食給軍。至侖頭，侖頭不下，攻數日，屠之。自此而西，平行至宛城，漢兵到者三萬人。宛兵迎擊漢兵，漢兵射敗之，宛走入葆乘其城。貳師兵欲行攻郁成，恐留行而令宛益生詐，乃先至宛，決其水源，移之，則宛固已憂困。圍其城，攻之四十餘日，其外城壞，虜宛貴人勇將煎靡。宛大恐，走入中城。宛貴人相與謀曰：「漢所爲攻宛，以王毋寡匿善馬而殺漢使。今殺王毋寡而出善馬，漢兵宜解；即不解，乃力戰而死，未晚也。」宛貴人皆以爲然，共殺其王毋寡，持其頭遣貴人使貳師，約曰：「漢毋攻我。我盡出善馬，恣所取，而給漢軍食。即不聽，我盡殺善馬，而康居之救且至。至，我居內，康居居外，與漢軍戰。漢軍熟計之，何從？」是時康居候視漢兵，漢兵尚盛，不敢進。貳師與趙始成、李哆等計：「聞宛城中新得秦人，知穿井，而其內食尚多。所爲來，誅首惡者毋寡。毋寡頭已至，如此而不許解兵，則堅守，而康居候漢罷而來救宛，破漢軍必矣。」軍吏皆以爲然，許宛之約。宛乃出其善馬，令漢自擇之，而多出食食給漢軍。漢軍取其善馬數十匹。中馬以下牡牝三千餘匹，而立宛貴人之故待遇漢使善者名昧蔡以爲宛王，⟦0⟧與盟而罷兵。終不得入中城。乃罷而引歸。",
       "mentions": [
         {
-          "start": 2,
-          "end": 4,
-          "name": "贰师将军",
-          "category": "concept"
-        },
-        {
           "start": 26,
           "end": 28,
-          "name": "仑头（轮台）",
-          "category": "place"
+          "entity_id": "place_dy_049",
+          "entity_name": "侖頭",
+          "text": "侖頭"
         },
         {
           "start": 29,
           "end": 31,
-          "name": "仑头（轮台）",
-          "category": "place"
-        },
-        {
-          "start": 52,
-          "end": 54,
-          "name": "汉军",
-          "category": "concept"
-        },
-        {
-          "start": 64,
-          "end": 66,
-          "name": "汉军",
-          "category": "concept"
-        },
-        {
-          "start": 67,
-          "end": 69,
-          "name": "汉军",
-          "category": "concept"
-        },
-        {
-          "start": 81,
-          "end": 83,
-          "name": "贰师将军",
-          "category": "concept"
+          "entity_id": "place_dy_049",
+          "entity_name": "侖頭",
+          "text": "侖頭"
         },
         {
           "start": 87,
           "end": 89,
-          "name": "郁成",
-          "category": "place"
-        },
-        {
-          "start": 137,
-          "end": 140,
-          "name": "宛贵人",
-          "category": "concept"
+          "entity_id": "place_dy_047",
+          "entity_name": "郁成",
+          "text": "郁成"
         },
         {
           "start": 142,
           "end": 144,
-          "name": "煎靡",
-          "category": "person"
-        },
-        {
-          "start": 154,
-          "end": 157,
-          "name": "宛贵人",
-          "category": "concept"
+          "entity_id": "person_dy_029",
+          "entity_name": "煎靡",
+          "text": "煎靡"
         },
         {
           "start": 171,
           "end": 173,
-          "name": "毋寡",
-          "category": "person"
+          "entity_id": "person_dy_021",
+          "entity_name": "毋寡",
+          "text": "毋寡"
         },
         {
-          "start": 178,
-          "end": 180,
-          "name": "汉使",
-          "category": "concept"
+          "start": 174,
+          "end": 176,
+          "entity_id": "concept_dy_004",
+          "entity_name": "汗血馬",
+          "text": "善馬"
         },
         {
           "start": 184,
           "end": 186,
-          "name": "毋寡",
-          "category": "person"
+          "entity_id": "person_dy_021",
+          "entity_name": "毋寡",
+          "text": "毋寡"
         },
         {
-          "start": 191,
-          "end": 193,
-          "name": "汉军",
-          "category": "concept"
-        },
-        {
-          "start": 211,
-          "end": 214,
-          "name": "宛贵人",
-          "category": "concept"
+          "start": 188,
+          "end": 190,
+          "entity_id": "concept_dy_004",
+          "entity_name": "汗血馬",
+          "text": "善馬"
         },
         {
           "start": 223,
           "end": 225,
-          "name": "毋寡",
-          "category": "person"
+          "entity_id": "person_dy_021",
+          "entity_name": "毋寡",
+          "text": "毋寡"
         },
         {
-          "start": 233,
-          "end": 235,
-          "name": "贰师将军",
-          "category": "concept"
+          "start": 248,
+          "end": 250,
+          "entity_id": "concept_dy_004",
+          "entity_name": "汗血馬",
+          "text": "善馬"
         },
         {
-          "start": 257,
-          "end": 259,
-          "name": "汉军",
-          "category": "concept"
+          "start": 268,
+          "end": 270,
+          "entity_id": "concept_dy_004",
+          "entity_name": "汗血馬",
+          "text": "善馬"
         },
         {
           "start": 272,
           "end": 274,
-          "name": "康居",
-          "category": "place"
+          "entity_id": "place_dy_006",
+          "entity_name": "康居",
+          "text": "康居"
         },
         {
           "start": 285,
           "end": 287,
-          "name": "康居",
-          "category": "place"
-        },
-        {
-          "start": 291,
-          "end": 293,
-          "name": "汉军",
-          "category": "concept"
-        },
-        {
-          "start": 295,
-          "end": 297,
-          "name": "汉军",
-          "category": "concept"
+          "entity_id": "place_dy_006",
+          "entity_name": "康居",
+          "text": "康居"
         },
         {
           "start": 307,
           "end": 309,
-          "name": "康居",
-          "category": "place"
-        },
-        {
-          "start": 311,
-          "end": 313,
-          "name": "汉军",
-          "category": "concept"
-        },
-        {
-          "start": 314,
-          "end": 316,
-          "name": "汉军",
-          "category": "concept"
-        },
-        {
-          "start": 323,
-          "end": 325,
-          "name": "贰师将军",
-          "category": "concept"
+          "entity_id": "place_dy_006",
+          "entity_name": "康居",
+          "text": "康居"
         },
         {
           "start": 326,
           "end": 329,
-          "name": "赵始成",
-          "category": "person"
+          "entity_id": "person_dy_018",
+          "entity_name": "趙始成",
+          "text": "趙始成"
         },
         {
           "start": 330,
           "end": 332,
-          "name": "李哆",
-          "category": "person"
+          "entity_id": "person_dy_019",
+          "entity_name": "李哆",
+          "text": "李哆"
         },
         {
           "start": 364,
           "end": 366,
-          "name": "毋寡",
-          "category": "person"
+          "entity_id": "person_dy_021",
+          "entity_name": "毋寡",
+          "text": "毋寡"
         },
         {
           "start": 367,
           "end": 369,
-          "name": "毋寡",
-          "category": "person"
+          "entity_id": "person_dy_021",
+          "entity_name": "毋寡",
+          "text": "毋寡"
         },
         {
           "start": 386,
           "end": 388,
-          "name": "康居",
-          "category": "place"
+          "entity_id": "place_dy_006",
+          "entity_name": "康居",
+          "text": "康居"
         },
         {
-          "start": 397,
-          "end": 399,
-          "name": "汉军",
-          "category": "concept"
+          "start": 419,
+          "end": 421,
+          "entity_id": "concept_dy_004",
+          "entity_name": "汗血馬",
+          "text": "善馬"
         },
         {
-          "start": 434,
-          "end": 436,
-          "name": "汉军",
-          "category": "concept"
-        },
-        {
-          "start": 437,
-          "end": 439,
-          "name": "汉军",
-          "category": "concept"
-        },
-        {
-          "start": 460,
-          "end": 463,
-          "name": "宛贵人",
-          "category": "concept"
-        },
-        {
-          "start": 467,
-          "end": 469,
-          "name": "汉使",
-          "category": "concept"
+          "start": 441,
+          "end": 443,
+          "entity_id": "concept_dy_004",
+          "entity_name": "汗血馬",
+          "text": "善馬"
         },
         {
           "start": 472,
           "end": 474,
-          "name": "昧蔡",
-          "category": "person"
+          "entity_id": "person_dy_030",
+          "entity_name": "昧蔡",
+          "text": "昧蔡"
         }
       ]
     },
@@ -3092,148 +3019,151 @@
       "text": "初，貳師起燉煌西，以爲人多，道上國不能食，乃分爲數軍，從南北道。校尉王申生、故鴻臚壺充國等千餘人，別到郁成。郁成城守，不肯給食其軍。王申生去大軍二百里，偵而輕之，責郁成。郁成食不肯出，窺知申生軍日少，晨用三千人攻，戮殺申生等，軍破，數人脫亡，走貳師。貳師令搜粟都尉上官桀往攻破郁成。郁成王亡走康居，桀追至康居。康居聞漢已破宛，乃出郁成王予桀，桀令四騎士縛守詣大將軍。⟦0⟧四人相謂曰：「郁成王漢國所毒，今生將去，卒失大事。」欲殺，莫敢先擊。上邽騎士趙弟最少，拔劔擊之，斬郁成王，齎頭。弟、桀等逐及大將軍。",
       "mentions": [
         {
-          "start": 2,
-          "end": 4,
-          "name": "贰师将军",
-          "category": "concept"
-        },
-        {
           "start": 5,
           "end": 7,
-          "name": "敦煌",
-          "category": "place"
+          "entity_id": "place_dy_022",
+          "entity_name": "敦煌",
+          "text": "燉煌"
         },
         {
           "start": 34,
           "end": 37,
-          "name": "王申生",
-          "category": "person"
+          "entity_id": "person_dy_025",
+          "entity_name": "王申生",
+          "text": "王申生"
         },
         {
           "start": 41,
           "end": 44,
-          "name": "壶充国",
-          "category": "person"
+          "entity_id": "person_dy_026",
+          "entity_name": "壺充國",
+          "text": "壺充國"
         },
         {
           "start": 51,
           "end": 53,
-          "name": "郁成",
-          "category": "place"
+          "entity_id": "place_dy_047",
+          "entity_name": "郁成",
+          "text": "郁成"
         },
         {
           "start": 54,
           "end": 56,
-          "name": "郁成",
-          "category": "place"
+          "entity_id": "place_dy_047",
+          "entity_name": "郁成",
+          "text": "郁成"
         },
         {
           "start": 66,
           "end": 69,
-          "name": "王申生",
-          "category": "person"
+          "entity_id": "person_dy_025",
+          "entity_name": "王申生",
+          "text": "王申生"
         },
         {
           "start": 82,
           "end": 84,
-          "name": "郁成",
-          "category": "place"
+          "entity_id": "place_dy_047",
+          "entity_name": "郁成",
+          "text": "郁成"
         },
         {
           "start": 85,
           "end": 87,
-          "name": "郁成",
-          "category": "place"
-        },
-        {
-          "start": 122,
-          "end": 124,
-          "name": "贰师将军",
-          "category": "concept"
-        },
-        {
-          "start": 125,
-          "end": 127,
-          "name": "贰师将军",
-          "category": "concept"
+          "entity_id": "place_dy_047",
+          "entity_name": "郁成",
+          "text": "郁成"
         },
         {
           "start": 132,
           "end": 135,
-          "name": "上官桀",
-          "category": "person"
+          "entity_id": "person_dy_027",
+          "entity_name": "上官桀",
+          "text": "上官桀"
         },
         {
           "start": 138,
           "end": 140,
-          "name": "郁成",
-          "category": "place"
+          "entity_id": "place_dy_047",
+          "entity_name": "郁成",
+          "text": "郁成"
         },
         {
           "start": 141,
           "end": 144,
-          "name": "郁成王",
-          "category": "person"
+          "entity_id": "person_dy_022",
+          "entity_name": "郁成王",
+          "text": "郁成王"
         },
         {
           "start": 146,
           "end": 148,
-          "name": "康居",
-          "category": "place"
+          "entity_id": "place_dy_006",
+          "entity_name": "康居",
+          "text": "康居"
         },
         {
           "start": 152,
           "end": 154,
-          "name": "康居",
-          "category": "place"
+          "entity_id": "place_dy_006",
+          "entity_name": "康居",
+          "text": "康居"
         },
         {
           "start": 155,
           "end": 157,
-          "name": "康居",
-          "category": "place"
+          "entity_id": "place_dy_006",
+          "entity_name": "康居",
+          "text": "康居"
         },
         {
           "start": 165,
           "end": 168,
-          "name": "郁成王",
-          "category": "person"
+          "entity_id": "person_dy_022",
+          "entity_name": "郁成王",
+          "text": "郁成王"
         },
         {
           "start": 179,
           "end": 182,
-          "name": "卫青（大将军）",
-          "category": "person"
+          "entity_id": "person_dy_006",
+          "entity_name": "衛青（大將軍）",
+          "text": "大將軍"
         },
         {
           "start": 193,
           "end": 196,
-          "name": "郁成王",
-          "category": "person"
+          "entity_id": "person_dy_022",
+          "entity_name": "郁成王",
+          "text": "郁成王"
         },
         {
           "start": 220,
           "end": 222,
-          "name": "上邽",
-          "category": "place"
+          "entity_id": "place_dy_057",
+          "entity_name": "上邽",
+          "text": "上邽"
         },
         {
           "start": 224,
           "end": 226,
-          "name": "赵弟",
-          "category": "person"
+          "entity_id": "person_dy_028",
+          "entity_name": "趙弟",
+          "text": "趙弟"
         },
         {
           "start": 235,
           "end": 238,
-          "name": "郁成王",
-          "category": "person"
+          "entity_id": "person_dy_022",
+          "entity_name": "郁成王",
+          "text": "郁成王"
         },
         {
           "start": 248,
           "end": 251,
-          "name": "卫青（大将军）",
-          "category": "person"
+          "entity_id": "person_dy_006",
+          "entity_name": "衛青（大將軍）",
+          "text": "大將軍"
         }
       ]
     },
@@ -3242,124 +3172,123 @@
       "text": "初，貳師後行，天子使使告烏孫，大發兵并力擊宛。烏孫發二千騎往，持兩端，不肯前。貳師將軍之東，諸所過小國聞宛破，皆使其子弟從軍入獻，見天子，因以爲質焉。貳師之伐宛也，而軍正趙始成力戰，功最多；及上官桀敢深入，李哆爲謀計，軍入玉門者萬餘人，軍馬千餘匹。貳師後行，軍非乏食，戰死不能多，而將吏貪，多不愛士卒，侵牟之，以此物故衆。天子爲萬里而伐宛，不錄過，封廣利爲海西侯。又封身斬郁成王者騎士趙弟爲新畤侯。軍正趙始成爲光祿大夫，上官桀爲少府，李哆爲上黨太守。軍官吏爲九卿者三人，諸侯相、郡守、二千石者百餘人，千石以下千餘人。奮行者官過其望，⟦0⟧以適過行者皆絀其勞。⟦1⟧士卒賜直四萬金。伐宛再反，凡四歲而得罷焉。",
       "mentions": [
         {
-          "start": 2,
-          "end": 4,
-          "name": "贰师将军",
-          "category": "concept"
-        },
-        {
           "start": 7,
           "end": 9,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         },
         {
           "start": 12,
           "end": 14,
-          "name": "乌孙",
-          "category": "place"
+          "entity_id": "place_dy_010",
+          "entity_name": "烏孫",
+          "text": "烏孫"
         },
         {
           "start": 23,
           "end": 25,
-          "name": "乌孙",
-          "category": "place"
-        },
-        {
-          "start": 31,
-          "end": 34,
-          "name": "持两端观望",
-          "category": "concept"
+          "entity_id": "place_dy_010",
+          "entity_name": "烏孫",
+          "text": "烏孫"
         },
         {
           "start": 39,
           "end": 43,
-          "name": "李广利（贰师将军）",
-          "category": "person"
+          "entity_id": "person_dy_017",
+          "entity_name": "李廣利（貳師將軍）",
+          "text": "貳師將軍"
         },
         {
           "start": 66,
           "end": 68,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
-        },
-        {
-          "start": 75,
-          "end": 77,
-          "name": "贰师将军",
-          "category": "concept"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         },
         {
           "start": 85,
           "end": 88,
-          "name": "赵始成",
-          "category": "person"
+          "entity_id": "person_dy_018",
+          "entity_name": "趙始成",
+          "text": "趙始成"
         },
         {
           "start": 96,
           "end": 99,
-          "name": "上官桀",
-          "category": "person"
+          "entity_id": "person_dy_027",
+          "entity_name": "上官桀",
+          "text": "上官桀"
         },
         {
           "start": 103,
           "end": 105,
-          "name": "李哆",
-          "category": "person"
+          "entity_id": "person_dy_019",
+          "entity_name": "李哆",
+          "text": "李哆"
         },
         {
           "start": 111,
           "end": 113,
-          "name": "玉门",
-          "category": "place"
-        },
-        {
-          "start": 124,
-          "end": 126,
-          "name": "贰师将军",
-          "category": "concept"
+          "entity_id": "place_dy_045",
+          "entity_name": "玉門",
+          "text": "玉門"
         },
         {
           "start": 161,
           "end": 163,
-          "name": "刘彻（汉武帝）",
-          "category": "person"
+          "entity_id": "person_dy_003",
+          "entity_name": "劉徹（漢武帝）",
+          "text": "天子"
         },
         {
           "start": 175,
           "end": 177,
-          "name": "李广利（贰师将军）",
-          "category": "person"
+          "entity_id": "person_dy_017",
+          "entity_name": "李廣利（貳師將軍）",
+          "text": "廣利"
+        },
+        {
+          "start": 178,
+          "end": 181,
+          "entity_id": "person_dy_017",
+          "entity_name": "李廣利（貳師將軍）",
+          "text": "海西侯"
         },
         {
           "start": 186,
           "end": 189,
-          "name": "郁成王",
-          "category": "person"
+          "entity_id": "person_dy_022",
+          "entity_name": "郁成王",
+          "text": "郁成王"
         },
         {
           "start": 192,
           "end": 194,
-          "name": "赵弟",
-          "category": "person"
+          "entity_id": "person_dy_028",
+          "entity_name": "趙弟",
+          "text": "趙弟"
         },
         {
           "start": 201,
           "end": 204,
-          "name": "赵始成",
-          "category": "person"
+          "entity_id": "person_dy_018",
+          "entity_name": "趙始成",
+          "text": "趙始成"
         },
         {
           "start": 210,
           "end": 213,
-          "name": "上官桀",
-          "category": "person"
+          "entity_id": "person_dy_027",
+          "entity_name": "上官桀",
+          "text": "上官桀"
         },
         {
           "start": 217,
           "end": 219,
-          "name": "李哆",
-          "category": "person"
+          "entity_id": "person_dy_019",
+          "entity_name": "李哆",
+          "text": "李哆"
         }
       ]
     },
@@ -3370,38 +3299,37 @@
         {
           "start": 6,
           "end": 8,
-          "name": "昧蔡",
-          "category": "person"
-        },
-        {
-          "start": 17,
-          "end": 20,
-          "name": "宛贵人",
-          "category": "concept"
+          "entity_id": "person_dy_030",
+          "entity_name": "昧蔡",
+          "text": "昧蔡"
         },
         {
           "start": 22,
           "end": 24,
-          "name": "昧蔡",
-          "category": "person"
+          "entity_id": "person_dy_030",
+          "entity_name": "昧蔡",
+          "text": "昧蔡"
         },
         {
           "start": 37,
           "end": 39,
-          "name": "昧蔡",
-          "category": "person"
+          "entity_id": "person_dy_030",
+          "entity_name": "昧蔡",
+          "text": "昧蔡"
         },
         {
           "start": 41,
           "end": 43,
-          "name": "毋寡",
-          "category": "person"
+          "entity_id": "person_dy_021",
+          "entity_name": "毋寡",
+          "text": "毋寡"
         },
         {
           "start": 46,
           "end": 48,
-          "name": "蝉封",
-          "category": "person"
+          "entity_id": "person_dy_031",
+          "entity_name": "蟬封",
+          "text": "蟬封"
         }
       ]
     },
@@ -3412,38 +3340,37 @@
         {
           "start": 29,
           "end": 31,
-          "name": "敦煌",
-          "category": "place"
+          "entity_id": "place_dy_022",
+          "entity_name": "敦煌",
+          "text": "燉煌"
         },
         {
           "start": 35,
           "end": 37,
-          "name": "酒泉郡",
-          "category": "place"
+          "entity_id": "place_dy_036",
+          "entity_name": "酒泉郡",
+          "text": "酒泉"
         },
         {
           "start": 45,
           "end": 47,
-          "name": "盐泽",
-          "category": "place"
+          "entity_id": "place_dy_014",
+          "entity_name": "鹽澤",
+          "text": "鹽水"
         },
         {
           "start": 54,
           "end": 56,
-          "name": "仑头（轮台）",
-          "category": "place"
-        },
-        {
-          "start": 57,
-          "end": 59,
-          "name": "轮台戍（仑头田卒）",
-          "category": "concept"
+          "entity_id": "place_dy_049",
+          "entity_name": "侖頭",
+          "text": "侖頭"
         },
         {
           "start": 67,
-          "end": 69,
-          "name": "轮台戍（仑头田卒）",
-          "category": "concept"
+          "end": 71,
+          "entity_id": "concept_dy_013",
+          "entity_name": "護田積粟",
+          "text": "護田積粟"
         }
       ]
     },
@@ -3454,62 +3381,37 @@
         {
           "start": 0,
           "end": 3,
-          "name": "司马迁（太史公）",
-          "category": "person"
-        },
-        {
-          "start": 5,
-          "end": 8,
-          "name": "禹本纪",
-          "category": "concept"
+          "entity_id": "person_dy_014",
+          "entity_name": "司馬遷（太史公）",
+          "text": "太史公"
         },
         {
           "start": 12,
           "end": 14,
-          "name": "昆仑山",
-          "category": "place"
+          "entity_id": "place_dy_056",
+          "entity_name": "崑崙",
+          "text": "崑崙"
         },
         {
           "start": 15,
           "end": 17,
-          "name": "昆仑山",
-          "category": "place"
-        },
-        {
-          "start": 49,
-          "end": 51,
-          "name": "张骞",
-          "category": "person"
+          "entity_id": "place_dy_056",
+          "entity_name": "崑崙",
+          "text": "崑崙"
         },
         {
           "start": 52,
           "end": 54,
-          "name": "大夏",
-          "category": "place"
-        },
-        {
-          "start": 59,
-          "end": 61,
-          "name": "河源",
-          "category": "place"
+          "entity_id": "place_dy_007",
+          "entity_name": "大夏",
+          "text": "大夏"
         },
         {
           "start": 68,
           "end": 70,
-          "name": "昆仑山",
-          "category": "place"
-        },
-        {
-          "start": 86,
-          "end": 88,
-          "name": "《尚书》",
-          "category": "concept"
-        },
-        {
-          "start": 93,
-          "end": 96,
-          "name": "禹本纪",
-          "category": "concept"
+          "entity_id": "place_dy_056",
+          "entity_name": "崑崙",
+          "text": "崑崙"
         }
       ]
     },
@@ -3520,56 +3422,44 @@
         {
           "start": 0,
           "end": 4,
-          "name": "索隐述赞体例",
-          "category": "concept"
+          "entity_id": "concept_dy_015",
+          "entity_name": "索隱述贊",
+          "text": "索隱述贊"
         },
         {
           "start": 6,
           "end": 8,
-          "name": "大宛",
-          "category": "place"
-        },
-        {
-          "start": 13,
-          "end": 15,
-          "name": "博望侯",
-          "category": "concept"
-        },
-        {
-          "start": 18,
-          "end": 20,
-          "name": "河源",
-          "category": "place"
+          "entity_id": "place_dy_001",
+          "entity_name": "大宛",
+          "text": "大宛"
         },
         {
           "start": 26,
           "end": 28,
-          "name": "条枝",
-          "category": "place"
+          "entity_id": "place_dy_024",
+          "entity_name": "條枝",
+          "text": "條枝"
         },
         {
           "start": 31,
           "end": 33,
-          "name": "汗血马（天马子）",
-          "category": "concept"
+          "entity_id": "concept_dy_004",
+          "entity_name": "汗血馬",
+          "text": "天馬"
         },
         {
           "start": 36,
           "end": 38,
-          "name": "葱岭",
-          "category": "place"
-        },
-        {
-          "start": 41,
-          "end": 43,
-          "name": "盐泽",
-          "category": "place"
+          "entity_id": "place_dy_058",
+          "entity_name": "葱嶺",
+          "text": "葱嶺"
         },
         {
           "start": 53,
           "end": 55,
-          "name": "酒泉亭鄣",
-          "category": "concept"
+          "entity_id": "concept_dy_012",
+          "entity_name": "亭鄣",
+          "text": "亭障"
         }
       ]
     }
