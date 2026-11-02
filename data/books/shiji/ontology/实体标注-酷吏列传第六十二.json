@@ -1,48 +1,61 @@
 {
   "book_id": "shiji",
-  "chapter_id": "shiji-酷吏列傳第六十二",
+  "chapter_id": "酷吏列传第六十二",
   "chapter_title": "酷吏列传第六十二",
   "version": "final",
-  "generated_at": "2026-11-02T08:39:40.588779",
+  "generated_at": "2026-11-02T09:38:53.834135",
   "paragraphs": [
     {
       "para_id": "p0",
       "text": "孔子曰：「導之以政，齊之以刑，民免而無恥。⟦0⟧導之以德，齊之以禮，有恥且格。」⟦1⟧老氏稱：「上德不德，是以有德；下德不失德，是以無德。法令滋章，盜賊多有。」太史公曰：信哉是言也！法令者治之具，而非制治清濁之源也。昔天下之網嘗密矣，⟦2⟧然姦偽萌起，其極也，上下相遁，至於不振。當是之時，吏治若救火揚沸，⟦3⟧非武健嚴酷，惡能勝其任而愉快乎！言道德者，溺其職矣。故曰「聽訟，吾猶人也，必也使無訟乎」。「下士聞道大笑之」。非虛言也。漢興，破觚而爲圜，⟦4⟧⟦5⟧斲雕而爲朴，⟦6⟧網漏於吞舟之魚，而吏治烝烝，不至於姦，黎民艾安。由是觀之，在彼不在此。⟦7⟧",
       "mentions": [
         {
-          "start": 0,
-          "end": 2,
-          "entity_id": "person_kl_002",
-          "entity_name": "孔子",
-          "text": "孔子"
+          "entity_id": "person_006",
+          "entity_name": "刘启（汉景帝）",
+          "entity_type": "person",
+          "start": 48,
+          "end": 49,
+          "surface": "上"
         },
         {
-          "start": 43,
-          "end": 45,
-          "entity_id": "person_kl_003",
-          "entity_name": "老子",
-          "text": "老氏"
+          "entity_id": "person_006",
+          "entity_name": "刘启（汉景帝）",
+          "entity_type": "person",
+          "start": 130,
+          "end": 131,
+          "surface": "上"
         },
         {
-          "start": 69,
-          "end": 73,
-          "entity_id": "event_kl_002",
-          "entity_name": "老子论法令滋章",
-          "text": "法令滋章"
+          "entity_id": "person_002",
+          "entity_name": "司马迁（太史公）",
+          "entity_type": "person",
+          "start": 85,
+          "end": 89,
+          "surface": "信哉是言"
         },
         {
+          "entity_id": "person_002",
+          "entity_name": "司马迁（太史公）",
+          "entity_type": "person",
           "start": 80,
           "end": 83,
-          "entity_id": "person_kl_001",
-          "entity_name": "司马迁（太史公）",
-          "text": "太史公"
+          "surface": "太史公"
         },
         {
-          "start": 148,
-          "end": 152,
-          "entity_id": "concept_kl_006",
-          "entity_name": "救火扬沸",
-          "text": "救火揚沸"
+          "entity_id": "person_000",
+          "entity_name": "孔子",
+          "entity_type": "person",
+          "start": 0,
+          "end": 2,
+          "surface": "孔子"
+        },
+        {
+          "entity_id": "person_001",
+          "entity_name": "老子（老聃）",
+          "entity_type": "person",
+          "start": 43,
+          "end": 45,
+          "surface": "老氏"
         }
       ]
     },
@@ -51,60 +64,84 @@
       "text": "高后時，酷吏獨有侯封，刻轢宗室，侵辱功臣。呂氏已敗，遂禽侯封之家。孝景時，鼂錯以刻深頗用術輔其資，而七國之亂，發怒於錯，錯卒以被戮。其後有郅都、寗成之屬。",
       "mentions": [
         {
+          "entity_id": "person_004",
+          "entity_name": "吕雉（高后）",
+          "entity_type": "person",
           "start": 0,
           "end": 2,
-          "entity_id": "person_kl_004",
-          "entity_name": "吕雉（高后、吕后）",
-          "text": "高后"
+          "surface": "高后"
         },
         {
-          "start": 4,
-          "end": 6,
-          "entity_id": "concept_kl_001",
-          "entity_name": "酷吏",
-          "text": "酷吏"
+          "entity_id": "person_004",
+          "entity_name": "吕雉（高后）",
+          "entity_type": "person",
+          "start": 21,
+          "end": 23,
+          "surface": "呂氏"
         },
         {
+          "entity_id": "person_003",
+          "entity_name": "侯封",
+          "entity_type": "person",
           "start": 8,
           "end": 10,
-          "entity_id": "person_kl_005",
-          "entity_name": "侯封",
-          "text": "侯封"
+          "surface": "侯封"
         },
         {
+          "entity_id": "person_003",
+          "entity_name": "侯封",
+          "entity_type": "person",
           "start": 28,
           "end": 30,
-          "entity_id": "person_kl_005",
-          "entity_name": "侯封",
-          "text": "侯封"
+          "surface": "侯封"
         },
         {
-          "start": 33,
-          "end": 35,
-          "entity_id": "person_kl_006",
-          "entity_name": "刘启（汉景帝）",
-          "text": "孝景"
-        },
-        {
+          "entity_id": "person_005",
+          "entity_name": "晁错",
+          "entity_type": "person",
           "start": 37,
           "end": 39,
-          "entity_id": "person_kl_007",
-          "entity_name": "晁错",
-          "text": "鼂錯"
+          "surface": "鼂錯"
         },
         {
+          "entity_id": "person_006",
+          "entity_name": "刘启（汉景帝）",
+          "entity_type": "person",
+          "start": 33,
+          "end": 35,
+          "surface": "孝景"
+        },
+        {
+          "entity_id": "person_007",
+          "entity_name": "郅都",
+          "entity_type": "person",
           "start": 69,
           "end": 71,
-          "entity_id": "person_kl_008",
-          "entity_name": "郅都",
-          "text": "郅都"
+          "surface": "郅都"
         },
         {
+          "entity_id": "person_008",
+          "entity_name": "宁成",
+          "entity_type": "person",
           "start": 72,
           "end": 74,
-          "entity_id": "person_kl_009",
-          "entity_name": "宁成",
-          "text": "寗成"
+          "surface": "寗成"
+        },
+        {
+          "entity_id": "person_005",
+          "entity_name": "晁错",
+          "entity_type": "person",
+          "start": 58,
+          "end": 59,
+          "surface": "錯"
+        },
+        {
+          "entity_id": "person_005",
+          "entity_name": "晁错",
+          "entity_type": "person",
+          "start": 60,
+          "end": 61,
+          "surface": "錯"
         }
       ]
     },
@@ -113,53 +150,124 @@
       "text": "郅都者，楊人也。⟦0⟧⟦1⟧⟦2⟧以郎事孝文帝。孝景時，都爲中郎將，敢直諫，面折大臣於朝。嘗從入上林，賈姬如廁，⟦3⟧野彘卒入廁。上目都，都不行。上欲自持兵救賈姬，都伏上前曰：「亡一姬復一姬進，天下所少寧賈姬等乎？陛下縱自輕，奈宗廟太后何！」上還，彘亦去。太后聞之，賜都金百斤，由此重郅都。",
       "mentions": [
         {
-          "start": 0,
-          "end": 2,
-          "entity_id": "person_kl_008",
-          "entity_name": "郅都",
-          "text": "郅都"
+          "entity_id": "person_006",
+          "entity_name": "刘启（汉景帝）",
+          "entity_type": "person",
+          "start": 48,
+          "end": 49,
+          "surface": "上"
         },
         {
-          "start": 20,
-          "end": 23,
-          "entity_id": "person_kl_041b",
-          "entity_name": "刘恒（汉文帝）",
-          "text": "孝文帝"
+          "entity_id": "person_006",
+          "entity_name": "刘启（汉景帝）",
+          "entity_type": "person",
+          "start": 65,
+          "end": 66,
+          "surface": "上"
         },
         {
+          "entity_id": "person_006",
+          "entity_name": "刘启（汉景帝）",
+          "entity_type": "person",
+          "start": 73,
+          "end": 74,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_006",
+          "entity_name": "刘启（汉景帝）",
+          "entity_type": "person",
+          "start": 84,
+          "end": 85,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_006",
+          "entity_name": "刘启（汉景帝）",
+          "entity_type": "person",
+          "start": 121,
+          "end": 122,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_006",
+          "entity_name": "刘启（汉景帝）",
+          "entity_type": "person",
           "start": 24,
           "end": 26,
-          "entity_id": "person_kl_006",
-          "entity_name": "刘启（汉景帝）",
-          "text": "孝景"
+          "surface": "孝景"
         },
         {
-          "start": 48,
-          "end": 50,
-          "entity_id": "place_kl_003",
-          "entity_name": "上林苑",
-          "text": "上林"
+          "entity_id": "person_007",
+          "entity_name": "郅都",
+          "entity_type": "person",
+          "start": 0,
+          "end": 2,
+          "surface": "郅都"
         },
         {
-          "start": 116,
-          "end": 118,
-          "entity_id": "person_kl_004",
-          "entity_name": "吕雉（高后、吕后）",
-          "text": "太后"
-        },
-        {
-          "start": 128,
-          "end": 130,
-          "entity_id": "person_kl_004",
-          "entity_name": "吕雉（高后、吕后）",
-          "text": "太后"
-        },
-        {
+          "entity_id": "person_007",
+          "entity_name": "郅都",
+          "entity_type": "person",
           "start": 142,
           "end": 144,
-          "entity_id": "person_kl_008",
-          "entity_name": "郅都",
-          "text": "郅都"
+          "surface": "郅都"
+        },
+        {
+          "entity_id": "person_009",
+          "entity_name": "刘恒（汉文帝）",
+          "entity_type": "person",
+          "start": 20,
+          "end": 22,
+          "surface": "孝文"
+        },
+        {
+          "entity_id": "person_010",
+          "entity_name": "贾姬",
+          "entity_type": "person",
+          "start": 51,
+          "end": 53,
+          "surface": "賈姬"
+        },
+        {
+          "entity_id": "person_010",
+          "entity_name": "贾姬",
+          "entity_type": "person",
+          "start": 79,
+          "end": 81,
+          "surface": "賈姬"
+        },
+        {
+          "entity_id": "person_010",
+          "entity_name": "贾姬",
+          "entity_type": "person",
+          "start": 102,
+          "end": 104,
+          "surface": "賈姬"
+        },
+        {
+          "entity_id": "person_011",
+          "entity_name": "窦太后",
+          "entity_type": "person",
+          "start": 116,
+          "end": 118,
+          "surface": "太后"
+        },
+        {
+          "entity_id": "person_011",
+          "entity_name": "窦太后",
+          "entity_type": "person",
+          "start": 128,
+          "end": 130,
+          "surface": "太后"
+        },
+        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 107,
+          "end": 109,
+          "surface": "陛下"
         }
       ]
     },
@@ -168,64 +276,96 @@
       "text": "濟南瞷氏⟦0⟧⟦1⟧宗人三百餘家，豪猾，二千石莫能制，於是景帝乃拜都爲濟南太守。至則族滅瞷氏首惡，餘皆股栗。⟦2⟧居歲餘，郡中不拾遺。旁十餘郡守畏都如大府。",
       "mentions": [
         {
-          "start": 0,
-          "end": 2,
-          "entity_id": "place_kl_004",
-          "entity_name": "济南郡",
-          "text": "濟南"
-        },
-        {
+          "entity_id": "person_006",
+          "entity_name": "刘启（汉景帝）",
+          "entity_type": "person",
           "start": 29,
           "end": 31,
-          "entity_id": "person_kl_006",
-          "entity_name": "刘启（汉景帝）",
-          "text": "景帝"
+          "surface": "景帝"
         },
         {
+          "entity_id": "place_002",
+          "entity_name": "济南郡",
+          "entity_type": "place",
+          "start": 0,
+          "end": 2,
+          "surface": "濟南"
+        },
+        {
+          "entity_id": "place_002",
+          "entity_name": "济南郡",
+          "entity_type": "place",
           "start": 35,
           "end": 37,
-          "entity_id": "place_kl_004",
-          "entity_name": "济南郡",
-          "text": "濟南"
+          "surface": "濟南"
         },
         {
-          "start": 63,
-          "end": 66,
-          "entity_id": "concept_kl_015",
-          "entity_name": "道不拾遗",
-          "text": "不拾遺"
+          "entity_id": "concept_036",
+          "entity_name": "豪强",
+          "entity_type": "concept",
+          "start": 2,
+          "end": 4,
+          "surface": "瞷氏"
+        },
+        {
+          "entity_id": "concept_036",
+          "entity_name": "豪强",
+          "entity_type": "concept",
+          "start": 44,
+          "end": 46,
+          "surface": "瞷氏"
+        },
+        {
+          "entity_id": "concept_003",
+          "entity_name": "族灭",
+          "entity_type": "concept",
+          "start": 42,
+          "end": 44,
+          "surface": "族滅"
         }
       ]
     },
     {
       "para_id": "p4",
       "text": "都爲人勇，有氣力，公廉，不發私書，問遺無所受，請寄無所聽。常自稱曰：「已倍親而仕，身固當奉職死節官下，終不顧妻子矣。」",
-      "mentions": []
+      "mentions": [
+        {
+          "entity_id": "concept_007",
+          "entity_name": "问遗无所受",
+          "entity_type": "concept",
+          "start": 17,
+          "end": 22,
+          "surface": "問遺無所受"
+        }
+      ]
     },
     {
       "para_id": "p5",
       "text": "郅都遷爲中尉。丞相條侯至貴倨也，而都揖丞相。是時民朴，畏罪自重，而都獨先嚴酷，致行法不避貴戚，列侯宗室見都側目而視，號曰「蒼鷹」。",
       "mentions": [
         {
+          "entity_id": "person_007",
+          "entity_name": "郅都",
+          "entity_type": "person",
           "start": 0,
           "end": 2,
-          "entity_id": "person_kl_008",
-          "entity_name": "郅都",
-          "text": "郅都"
+          "surface": "郅都"
         },
         {
-          "start": 9,
-          "end": 11,
-          "entity_id": "person_kl_021",
-          "entity_name": "周亚夫（条侯）",
-          "text": "條侯"
-        },
-        {
+          "entity_id": "concept_004",
+          "entity_name": "苍鹰",
+          "entity_type": "concept",
           "start": 61,
           "end": 63,
-          "entity_id": "concept_kl_007",
-          "entity_name": "苍鹰",
-          "text": "蒼鷹"
+          "surface": "蒼鷹"
+        },
+        {
+          "entity_id": "person_012",
+          "entity_name": "周亚夫（条侯）",
+          "entity_type": "person",
+          "start": 9,
+          "end": 11,
+          "surface": "條侯"
         }
       ]
     },
@@ -234,130 +374,180 @@
       "text": "臨江王徵詣中尉府對簿，臨江王欲得刀筆爲書謝上，而都禁吏不予。魏其侯使人以聞與臨江王。臨江王旣爲書謝上，因自殺。竇太后聞之，怒，以危法中都，⟦0⟧都免歸家。孝景帝乃使使持節拜都爲鴈門太守，而便道之官，得以便宜從事。匈奴素聞郅都節，居邊，爲引兵去，竟郅都死不近鴈門。匈奴至爲偶人象郅都，⟦1⟧令騎馳射莫能中，見憚如此。匈奴患之。竇太后乃竟中都以漢法。景帝曰：「都忠臣。」欲釋之。竇太后曰：「臨江王獨非忠臣邪？」於是遂斬郅都。",
       "mentions": [
         {
+          "entity_id": "person_006",
+          "entity_name": "刘启（汉景帝）",
+          "entity_type": "person",
+          "start": 21,
+          "end": 22,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_006",
+          "entity_name": "刘启（汉景帝）",
+          "entity_type": "person",
+          "start": 49,
+          "end": 50,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_011",
+          "entity_name": "窦太后",
+          "entity_type": "person",
+          "start": 55,
+          "end": 58,
+          "surface": "竇太后"
+        },
+        {
+          "entity_id": "person_011",
+          "entity_name": "窦太后",
+          "entity_type": "person",
+          "start": 162,
+          "end": 165,
+          "surface": "竇太后"
+        },
+        {
+          "entity_id": "person_011",
+          "entity_name": "窦太后",
+          "entity_type": "person",
+          "start": 187,
+          "end": 190,
+          "surface": "竇太后"
+        },
+        {
+          "entity_id": "person_013",
+          "entity_name": "刘荣（临江王）",
+          "entity_type": "person",
           "start": 0,
           "end": 3,
-          "entity_id": "person_kl_012",
-          "entity_name": "刘荣（临江王）",
-          "text": "臨江王"
+          "surface": "臨江王"
         },
         {
+          "entity_id": "person_013",
+          "entity_name": "刘荣（临江王）",
+          "entity_type": "person",
           "start": 11,
           "end": 14,
-          "entity_id": "person_kl_012",
+          "surface": "臨江王"
+        },
+        {
+          "entity_id": "person_013",
           "entity_name": "刘荣（临江王）",
-          "text": "臨江王"
-        },
-        {
-          "start": 16,
-          "end": 18,
-          "entity_id": "concept_kl_010",
-          "entity_name": "刀笔吏",
-          "text": "刀筆"
-        },
-        {
-          "start": 30,
-          "end": 33,
-          "entity_id": "person_kl_013",
-          "entity_name": "窦婴（魏其侯）",
-          "text": "魏其侯"
-        },
-        {
+          "entity_type": "person",
           "start": 38,
           "end": 41,
-          "entity_id": "person_kl_012",
-          "entity_name": "刘荣（临江王）",
-          "text": "臨江王"
+          "surface": "臨江王"
         },
         {
+          "entity_id": "person_013",
+          "entity_name": "刘荣（临江王）",
+          "entity_type": "person",
           "start": 42,
           "end": 45,
-          "entity_id": "person_kl_012",
+          "surface": "臨江王"
+        },
+        {
+          "entity_id": "person_013",
           "entity_name": "刘荣（临江王）",
-          "text": "臨江王"
-        },
-        {
-          "start": 56,
-          "end": 58,
-          "entity_id": "person_kl_004",
-          "entity_name": "吕雉（高后、吕后）",
-          "text": "太后"
-        },
-        {
-          "start": 77,
-          "end": 79,
-          "entity_id": "person_kl_006",
-          "entity_name": "刘启（汉景帝）",
-          "text": "孝景"
-        },
-        {
-          "start": 88,
-          "end": 90,
-          "entity_id": "place_kl_005",
-          "entity_name": "雁门郡",
-          "text": "鴈門"
-        },
-        {
-          "start": 110,
-          "end": 112,
-          "entity_id": "person_kl_008",
-          "entity_name": "郅都",
-          "text": "郅都"
-        },
-        {
-          "start": 123,
-          "end": 125,
-          "entity_id": "person_kl_008",
-          "entity_name": "郅都",
-          "text": "郅都"
-        },
-        {
-          "start": 128,
-          "end": 130,
-          "entity_id": "place_kl_005",
-          "entity_name": "雁门郡",
-          "text": "鴈門"
-        },
-        {
-          "start": 138,
-          "end": 140,
-          "entity_id": "person_kl_008",
-          "entity_name": "郅都",
-          "text": "郅都"
-        },
-        {
-          "start": 163,
-          "end": 165,
-          "entity_id": "person_kl_004",
-          "entity_name": "吕雉（高后、吕后）",
-          "text": "太后"
-        },
-        {
-          "start": 173,
-          "end": 175,
-          "entity_id": "person_kl_006",
-          "entity_name": "刘启（汉景帝）",
-          "text": "景帝"
-        },
-        {
-          "start": 188,
-          "end": 190,
-          "entity_id": "person_kl_004",
-          "entity_name": "吕雉（高后、吕后）",
-          "text": "太后"
-        },
-        {
+          "entity_type": "person",
           "start": 193,
           "end": 196,
-          "entity_id": "person_kl_012",
-          "entity_name": "刘荣（临江王）",
-          "text": "臨江王"
+          "surface": "臨江王"
         },
         {
+          "entity_id": "person_014",
+          "entity_name": "窦婴（魏其侯）",
+          "entity_type": "person",
+          "start": 30,
+          "end": 33,
+          "surface": "魏其侯"
+        },
+        {
+          "entity_id": "person_006",
+          "entity_name": "刘启（汉景帝）",
+          "entity_type": "person",
+          "start": 77,
+          "end": 79,
+          "surface": "孝景"
+        },
+        {
+          "entity_id": "person_006",
+          "entity_name": "刘启（汉景帝）",
+          "entity_type": "person",
+          "start": 173,
+          "end": 175,
+          "surface": "景帝"
+        },
+        {
+          "entity_id": "person_007",
+          "entity_name": "郅都",
+          "entity_type": "person",
+          "start": 110,
+          "end": 112,
+          "surface": "郅都"
+        },
+        {
+          "entity_id": "person_007",
+          "entity_name": "郅都",
+          "entity_type": "person",
+          "start": 123,
+          "end": 125,
+          "surface": "郅都"
+        },
+        {
+          "entity_id": "person_007",
+          "entity_name": "郅都",
+          "entity_type": "person",
+          "start": 138,
+          "end": 140,
+          "surface": "郅都"
+        },
+        {
+          "entity_id": "person_007",
+          "entity_name": "郅都",
+          "entity_type": "person",
           "start": 207,
           "end": 209,
-          "entity_id": "person_kl_008",
-          "entity_name": "郅都",
-          "text": "郅都"
+          "surface": "郅都"
+        },
+        {
+          "entity_id": "place_004",
+          "entity_name": "雁门郡",
+          "entity_type": "place",
+          "start": 88,
+          "end": 90,
+          "surface": "鴈門"
+        },
+        {
+          "entity_id": "place_004",
+          "entity_name": "雁门郡",
+          "entity_type": "place",
+          "start": 128,
+          "end": 130,
+          "surface": "鴈門"
+        },
+        {
+          "entity_id": "place_014",
+          "entity_name": "匈奴",
+          "entity_type": "place",
+          "start": 106,
+          "end": 108,
+          "surface": "匈奴"
+        },
+        {
+          "entity_id": "place_014",
+          "entity_name": "匈奴",
+          "entity_type": "place",
+          "start": 131,
+          "end": 133,
+          "surface": "匈奴"
+        },
+        {
+          "entity_id": "place_014",
+          "entity_name": "匈奴",
+          "entity_type": "place",
+          "start": 157,
+          "end": 159,
+          "surface": "匈奴"
         }
       ]
     },
@@ -366,53 +556,116 @@
       "text": "寧成者，⟦0⟧穰人也。⟦1⟧以郎謁者事景帝。好氣，爲人小吏，必陵其長吏；爲人上，操下如束溼薪。⟦2⟧⟦3⟧滑賊任威。稍遷至濟南都尉，⟦4⟧而郅都爲守。始前數都尉⟦5⟧皆步入府，因吏謁守如縣令，其畏郅都如此。及成往，直陵都出其上。都素聞其聲，於是善遇，與結驩。久之，郅都死，後長安左右宗室多暴犯法，於是上召寧成爲中尉。⟦6⟧其治效郅都，其廉弗如，然宗室豪桀皆人人惴恐。",
       "mentions": [
         {
+          "entity_id": "person_006",
+          "entity_name": "刘启（汉景帝）",
+          "entity_type": "person",
+          "start": 38,
+          "end": 39,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_006",
+          "entity_name": "刘启（汉景帝）",
+          "entity_type": "person",
+          "start": 112,
+          "end": 113,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_006",
+          "entity_name": "刘启（汉景帝）",
+          "entity_type": "person",
+          "start": 150,
+          "end": 151,
+          "surface": "上"
+        },
+        {
+          "entity_id": "concept_006",
+          "entity_name": "束湿薪",
+          "entity_type": "concept",
+          "start": 43,
+          "end": 46,
+          "surface": "束溼薪"
+        },
+        {
+          "entity_id": "person_006",
+          "entity_name": "刘启（汉景帝）",
+          "entity_type": "person",
           "start": 19,
           "end": 21,
-          "entity_id": "person_kl_006",
-          "entity_name": "刘启（汉景帝）",
-          "text": "景帝"
+          "surface": "景帝"
         },
         {
-          "start": 61,
-          "end": 63,
-          "entity_id": "place_kl_004",
-          "entity_name": "济南郡",
-          "text": "濟南"
-        },
-        {
+          "entity_id": "person_007",
+          "entity_name": "郅都",
+          "entity_type": "person",
           "start": 70,
           "end": 72,
-          "entity_id": "person_kl_008",
-          "entity_name": "郅都",
-          "text": "郅都"
+          "surface": "郅都"
         },
         {
+          "entity_id": "person_007",
+          "entity_name": "郅都",
+          "entity_type": "person",
           "start": 98,
           "end": 100,
-          "entity_id": "person_kl_008",
-          "entity_name": "郅都",
-          "text": "郅都"
+          "surface": "郅都"
         },
         {
+          "entity_id": "person_007",
+          "entity_name": "郅都",
+          "entity_type": "person",
           "start": 132,
           "end": 134,
-          "entity_id": "person_kl_008",
+          "surface": "郅都"
+        },
+        {
+          "entity_id": "person_007",
           "entity_name": "郅都",
-          "text": "郅都"
-        },
-        {
-          "start": 137,
-          "end": 139,
-          "entity_id": "place_kl_001",
-          "entity_name": "长安",
-          "text": "長安"
-        },
-        {
+          "entity_type": "person",
           "start": 164,
           "end": 166,
-          "entity_id": "person_kl_008",
-          "entity_name": "郅都",
-          "text": "郅都"
+          "surface": "郅都"
+        },
+        {
+          "entity_id": "person_008",
+          "entity_name": "宁成",
+          "entity_type": "person",
+          "start": 0,
+          "end": 2,
+          "surface": "寧成"
+        },
+        {
+          "entity_id": "person_008",
+          "entity_name": "宁成",
+          "entity_type": "person",
+          "start": 152,
+          "end": 154,
+          "surface": "寧成"
+        },
+        {
+          "entity_id": "place_002",
+          "entity_name": "济南郡",
+          "entity_type": "place",
+          "start": 61,
+          "end": 63,
+          "surface": "濟南"
+        },
+        {
+          "entity_id": "place_000",
+          "entity_name": "长安",
+          "entity_type": "place",
+          "start": 137,
+          "end": 139,
+          "surface": "長安"
+        },
+        {
+          "entity_id": "place_005",
+          "entity_name": "穰县",
+          "entity_type": "place",
+          "start": 7,
+          "end": 8,
+          "surface": "穰"
         }
       ]
     },
@@ -421,11 +674,12 @@
       "text": "武帝即位，徙爲內史。外戚多毀成之短，抵罪髡鉗。是時九卿罪死即死，少被刑，而成極刑，自以爲不復收，於是解脫，⟦0⟧詐刻傳出關歸家。稱曰：「仕不至二千石，賈不至千萬，安可比人乎！」乃貰貸買陂田千餘頃，⟦1⟧假貧民，役使數千家。數年，會赦。致產數千金，爲任俠，持吏長短，出從數十騎。其使民威重於郡守。",
       "mentions": [
         {
-          "start": 0,
-          "end": 2,
-          "entity_id": "person_kl_034",
-          "entity_name": "刘彻（汉武帝）",
-          "text": "武帝"
+          "entity_id": "place_006",
+          "entity_name": "函谷关",
+          "entity_type": "place",
+          "start": 60,
+          "end": 61,
+          "surface": "關"
         }
       ]
     },
@@ -434,46 +688,68 @@
       "text": "周陽由者，其父趙兼以淮南王舅父侯周陽，故因姓周陽氏。⟦0⟧⟦1⟧由以宗家任爲郎，⟦2⟧事孝文及景帝。景帝時，由爲郡守。武帝即位，吏治尚循謹甚，然由居二千石中，最爲暴酷驕恣。所愛者，撓法活之；所憎者，曲法誅滅之。所居郡，必夷其豪。爲守，視都尉如令。爲都尉，必陵太守，奪之治。與汲黯俱爲忮，⟦3⟧司馬安之文惡，⟦4⟧俱在二千石列，同車未嘗敢均茵伏。⟦5⟧⟦6⟧",
       "mentions": [
         {
+          "entity_id": "person_015",
+          "entity_name": "周阳由",
+          "entity_type": "person",
+          "start": 0,
+          "end": 3,
+          "surface": "周陽由"
+        },
+        {
+          "entity_id": "person_030",
+          "entity_name": "刘安（淮南王）",
+          "entity_type": "person",
           "start": 10,
           "end": 13,
-          "entity_id": "person_kl_016",
-          "entity_name": "刘长（淮南王）",
-          "text": "淮南王"
+          "surface": "淮南王"
         },
         {
-          "start": 44,
-          "end": 46,
-          "entity_id": "person_kl_041b",
-          "entity_name": "刘恒（汉文帝）",
-          "text": "孝文"
+          "entity_id": "person_019",
+          "entity_name": "司马安",
+          "entity_type": "person",
+          "start": 146,
+          "end": 149,
+          "surface": "司馬安"
         },
         {
+          "entity_id": "person_006",
+          "entity_name": "刘启（汉景帝）",
+          "entity_type": "person",
           "start": 47,
           "end": 49,
-          "entity_id": "person_kl_006",
-          "entity_name": "刘启（汉景帝）",
-          "text": "景帝"
+          "surface": "景帝"
         },
         {
+          "entity_id": "person_006",
+          "entity_name": "刘启（汉景帝）",
+          "entity_type": "person",
           "start": 50,
           "end": 52,
-          "entity_id": "person_kl_006",
-          "entity_name": "刘启（汉景帝）",
-          "text": "景帝"
+          "surface": "景帝"
         },
         {
-          "start": 59,
-          "end": 61,
-          "entity_id": "person_kl_034",
-          "entity_name": "刘彻（汉武帝）",
-          "text": "武帝"
+          "entity_id": "person_009",
+          "entity_name": "刘恒（汉文帝）",
+          "entity_type": "person",
+          "start": 44,
+          "end": 46,
+          "surface": "孝文"
         },
         {
+          "entity_id": "person_016",
+          "entity_name": "赵兼",
+          "entity_type": "person",
+          "start": 7,
+          "end": 9,
+          "surface": "趙兼"
+        },
+        {
+          "entity_id": "person_018",
+          "entity_name": "汲黯",
+          "entity_type": "person",
           "start": 137,
           "end": 139,
-          "entity_id": "person_kl_017",
-          "entity_name": "汲黯",
-          "text": "汲黯"
+          "surface": "汲黯"
         }
       ]
     },
@@ -482,71 +758,128 @@
       "text": "由後爲河東都尉，時與其守勝屠公爭權，⟦0⟧相告言罪。勝屠公當抵罪，義不受刑，自殺，而由弃市。",
       "mentions": [
         {
+          "entity_id": "person_020",
+          "entity_name": "胜屠公",
+          "entity_type": "person",
+          "start": 12,
+          "end": 15,
+          "surface": "勝屠公"
+        },
+        {
+          "entity_id": "person_020",
+          "entity_name": "胜屠公",
+          "entity_type": "person",
+          "start": 26,
+          "end": 29,
+          "surface": "勝屠公"
+        },
+        {
+          "entity_id": "place_007",
+          "entity_name": "河东郡",
+          "entity_type": "place",
           "start": 3,
           "end": 5,
-          "entity_id": "place_kl_008",
-          "entity_name": "河东郡",
-          "text": "河東"
+          "surface": "河東"
         }
       ]
     },
     {
       "para_id": "p11",
       "text": "自寧成、周陽由之後，事益多，民巧法，大抵吏之治類多成、由等矣。",
-      "mentions": []
+      "mentions": [
+        {
+          "entity_id": "person_015",
+          "entity_name": "周阳由",
+          "entity_type": "person",
+          "start": 4,
+          "end": 7,
+          "surface": "周陽由"
+        },
+        {
+          "entity_id": "person_008",
+          "entity_name": "宁成",
+          "entity_type": "person",
+          "start": 1,
+          "end": 3,
+          "surface": "寧成"
+        }
+      ]
     },
     {
       "para_id": "p12",
       "text": "趙禹者，斄人。⟦0⟧⟦1⟧以佐史補中都官，⟦2⟧用廉爲令史，事太尉亞夫。亞夫爲丞相，禹爲丞相史，府中皆稱其廉平。然亞夫弗任，曰：「極知禹無害，然文深，⟦3⟧不可以居大府。」今上時，禹以刀筆吏積勞，稍遷爲御史。上以爲能，至太中大夫。與張湯論定諸律令，⟦4⟧作見知，吏傳得相監司。用法益刻，蓋自此始。",
       "mentions": [
         {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 87,
+          "end": 88,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 104,
+          "end": 105,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_012",
+          "entity_name": "周亚夫（条侯）",
+          "entity_type": "person",
           "start": 33,
           "end": 35,
-          "entity_id": "person_kl_021",
-          "entity_name": "周亚夫（条侯）",
-          "text": "亞夫"
+          "surface": "亞夫"
         },
         {
+          "entity_id": "person_012",
+          "entity_name": "周亚夫（条侯）",
+          "entity_type": "person",
           "start": 36,
           "end": 38,
-          "entity_id": "person_kl_021",
-          "entity_name": "周亚夫（条侯）",
-          "text": "亞夫"
+          "surface": "亞夫"
         },
         {
+          "entity_id": "person_012",
+          "entity_name": "周亚夫（条侯）",
+          "entity_type": "person",
           "start": 57,
           "end": 59,
-          "entity_id": "person_kl_021",
-          "entity_name": "周亚夫（条侯）",
-          "text": "亞夫"
+          "surface": "亞夫"
         },
         {
-          "start": 72,
-          "end": 74,
-          "entity_id": "concept_kl_012",
-          "entity_name": "深文",
-          "text": "文深"
+          "entity_id": "person_021",
+          "entity_name": "赵禹",
+          "entity_type": "person",
+          "start": 0,
+          "end": 2,
+          "surface": "趙禹"
         },
         {
-          "start": 86,
-          "end": 88,
-          "entity_id": "person_kl_034",
-          "entity_name": "刘彻（汉武帝）",
-          "text": "今上"
+          "entity_id": "person_022",
+          "entity_name": "张汤",
+          "entity_type": "person",
+          "start": 116,
+          "end": 118,
+          "surface": "張湯"
         },
         {
-          "start": 92,
-          "end": 94,
-          "entity_id": "concept_kl_010",
-          "entity_name": "刀笔吏",
-          "text": "刀筆"
-        },
-        {
+          "entity_id": "concept_009",
+          "entity_name": "见知法",
+          "entity_type": "concept",
           "start": 128,
           "end": 130,
-          "entity_id": "concept_kl_009",
-          "entity_name": "见知法",
-          "text": "見知"
+          "surface": "見知"
+        },
+        {
+          "entity_id": "place_008",
+          "entity_name": "斄县",
+          "entity_type": "place",
+          "start": 4,
+          "end": 5,
+          "surface": "斄"
         }
       ]
     },
@@ -555,25 +888,36 @@
       "text": "張湯者，杜人也。⟦0⟧其父爲長安丞，出，湯爲兒守舍。還而鼠盜肉，其父怒，笞湯。湯掘窟得盜鼠及餘肉，劾鼠掠治，傳爰書，訊鞫論報，⟦1⟧⟦2⟧并取鼠與肉，具獄磔堂下。⟦3⟧其父見之，視其文辭如老獄吏，大驚，遂使書獄。⟦4⟧父死後，湯爲長安吏，久之。",
       "mentions": [
         {
+          "entity_id": "person_022",
+          "entity_name": "张汤",
+          "entity_type": "person",
+          "start": 0,
+          "end": 2,
+          "surface": "張湯"
+        },
+        {
+          "entity_id": "place_000",
+          "entity_name": "长安",
+          "entity_type": "place",
           "start": 14,
           "end": 16,
-          "entity_id": "place_kl_001",
+          "surface": "長安"
+        },
+        {
+          "entity_id": "place_000",
           "entity_name": "长安",
-          "text": "長安"
-        },
-        {
-          "start": 49,
-          "end": 53,
-          "entity_id": "event_kl_015",
-          "entity_name": "张汤劾鼠磔肉",
-          "text": "劾鼠掠治"
-        },
-        {
+          "entity_type": "place",
           "start": 115,
           "end": 117,
-          "entity_id": "place_kl_001",
-          "entity_name": "长安",
-          "text": "長安"
+          "surface": "長安"
+        },
+        {
+          "entity_id": "place_009",
+          "entity_name": "杜县",
+          "entity_type": "place",
+          "start": 4,
+          "end": 5,
+          "surface": "杜"
         }
       ]
     },
@@ -582,25 +926,28 @@
       "text": "周陽侯始爲諸卿時，⟦0⟧嘗繫長安，湯傾身爲之。⟦1⟧及出爲侯，大與湯交，徧見湯貴人。湯給事內史，爲寧成掾，以湯爲無害，言大府，調爲茂陵尉，治方中。⟦2⟧",
       "mentions": [
         {
+          "entity_id": "person_023",
+          "entity_name": "田胜（周阳侯）",
+          "entity_type": "person",
           "start": 0,
           "end": 3,
-          "entity_id": "person_kl_023",
-          "entity_name": "田胜（周阳侯）",
-          "text": "周陽侯"
+          "surface": "周陽侯"
         },
         {
+          "entity_id": "person_008",
+          "entity_name": "宁成",
+          "entity_type": "person",
+          "start": 49,
+          "end": 51,
+          "surface": "寧成"
+        },
+        {
+          "entity_id": "place_000",
+          "entity_name": "长安",
+          "entity_type": "place",
           "start": 14,
           "end": 16,
-          "entity_id": "place_kl_001",
-          "entity_name": "长安",
-          "text": "長安"
-        },
-        {
-          "start": 65,
-          "end": 67,
-          "entity_id": "place_kl_011",
-          "entity_name": "茂陵",
-          "text": "茂陵"
+          "surface": "長安"
         }
       ]
     },
@@ -609,46 +956,84 @@
       "text": "武安侯爲丞相，徵湯爲史，時薦言之天子，補御史，使案事。治陳皇后蠱獄，深竟黨與。於是上以爲能，稍遷至太中大夫。與趙禹共定諸律令，務在深文，拘守職之吏。⟦0⟧已而趙禹遷爲中尉，徙爲少府，而張湯爲廷尉，兩人交驩，而兄事禹。禹爲人廉倨。爲吏以來，舍毋食客。公卿相造請禹，禹終不報謝，務在絕知友賔客之請，孤立行一意而已。見文法輙取，亦不覆案，求官屬陰罪。湯爲人多詐，舞智以御人。⟦1⟧始爲小吏，乾沒，⟦2⟧⟦3⟧與長安富賈田甲、魚翁叔之屬交私。⟦4⟧及列九卿，收接天下名士大夫，己心內雖不合，然陽浮慕之。",
       "mentions": [
         {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 41,
+          "end": 42,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_024",
+          "entity_name": "田蚡（武安侯）",
+          "entity_type": "person",
           "start": 0,
           "end": 3,
-          "entity_id": "person_kl_024",
-          "entity_name": "田蚡（武安侯）",
-          "text": "武安侯"
+          "surface": "武安侯"
         },
         {
-          "start": 16,
-          "end": 18,
-          "entity_id": "person_kl_034",
-          "entity_name": "刘彻（汉武帝）",
-          "text": "天子"
+          "entity_id": "person_025",
+          "entity_name": "陈皇后（阿娇）",
+          "entity_type": "person",
+          "start": 28,
+          "end": 31,
+          "surface": "陳皇后"
         },
         {
-          "start": 65,
-          "end": 67,
-          "entity_id": "concept_kl_012",
-          "entity_name": "深文",
-          "text": "深文"
-        },
-        {
-          "start": 202,
-          "end": 204,
-          "entity_id": "place_kl_001",
-          "entity_name": "长安",
-          "text": "長安"
-        },
-        {
-          "start": 206,
-          "end": 208,
-          "entity_id": "person_kl_026",
-          "entity_name": "田甲",
-          "text": "田甲"
-        },
-        {
+          "entity_id": "person_027",
+          "entity_name": "鱼翁叔",
+          "entity_type": "person",
           "start": 209,
           "end": 212,
-          "entity_id": "person_kl_027",
-          "entity_name": "鱼翁叔",
-          "text": "魚翁叔"
+          "surface": "魚翁叔"
+        },
+        {
+          "entity_id": "person_021",
+          "entity_name": "赵禹",
+          "entity_type": "person",
+          "start": 55,
+          "end": 57,
+          "surface": "趙禹"
+        },
+        {
+          "entity_id": "person_021",
+          "entity_name": "赵禹",
+          "entity_type": "person",
+          "start": 79,
+          "end": 81,
+          "surface": "趙禹"
+        },
+        {
+          "entity_id": "person_022",
+          "entity_name": "张汤",
+          "entity_type": "person",
+          "start": 92,
+          "end": 94,
+          "surface": "張湯"
+        },
+        {
+          "entity_id": "person_026",
+          "entity_name": "田甲",
+          "entity_type": "person",
+          "start": 206,
+          "end": 208,
+          "surface": "田甲"
+        },
+        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 16,
+          "end": 18,
+          "surface": "天子"
+        },
+        {
+          "entity_id": "place_000",
+          "entity_name": "长安",
+          "entity_type": "place",
+          "start": 202,
+          "end": 204,
+          "surface": "長安"
         }
       ]
     },
@@ -657,60 +1042,148 @@
       "text": "是時上方鄉文學，湯決大獄，欲傅古義，⟦0⟧乃請博士弟子治尚書、春秋補廷尉史，亭疑法。⟦1⟧⟦2⟧奏讞疑事，必豫先爲上分別其原，上所是，受而著讞決法廷尉，絜令⟦3⟧⟦4⟧揚主之明。奏事即譴，湯應謝，⟦5⟧鄉上意所便，必引正、監、掾史賢者，⟦6⟧曰：「固爲臣議，如上責臣，臣弗用，愚抵於此。」⟦7⟧罪常釋聞。⟦8⟧即奏事，上善之，曰：「臣非知爲此奏，乃正、監、掾史某爲之。」其欲薦吏，揚人之善蔽人之過如此。所治即上意所欲罪，予監史深禍者；即上意所欲釋，與監史輕平者。所治即豪，必舞文巧詆；即下戶羸弱，時口言，雖文致法，上財察。⟦9⟧於是往往釋湯所言。⟦10⟧湯至於大吏，內行脩也。通賔客飲食。於故人子弟爲吏及貧昆弟，調護之尤厚。其造請諸公，不避寒暑。是以湯雖文深意忌不專平，然得此聲譽。而刻深吏多爲爪牙用者，依於文學之士。丞相弘數稱其美。及治淮南、衡山、江都反獄，皆窮根本。嚴助及伍被，上欲釋之。湯爭曰：「伍被本畫反謀，而助親幸出入禁闥爪牙臣，乃交私諸侯如此，弗誅，後不可治。」於是上可論之。其治獄所排大臣自爲功，多此類。於是湯益尊任，遷爲御史大夫。⟦11⟧",
       "mentions": [
         {
-          "start": 14,
-          "end": 17,
-          "entity_id": "concept_kl_023",
-          "entity_name": "春秋决狱",
-          "text": "傅古義"
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 2,
+          "end": 3,
+          "surface": "上"
         },
         {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 57,
+          "end": 58,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 63,
+          "end": 64,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 102,
+          "end": 103,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 130,
+          "end": 131,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 159,
+          "end": 160,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 204,
+          "end": 205,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 218,
+          "end": 219,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 257,
+          "end": 258,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 391,
+          "end": 392,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 439,
+          "end": 440,
+          "surface": "上"
+        },
+        {
+          "entity_id": "concept_012",
+          "entity_name": "舞文巧诋",
+          "entity_type": "concept",
           "start": 237,
           "end": 241,
-          "entity_id": "concept_kl_011",
-          "entity_name": "舞文巧诋",
-          "text": "舞文巧詆"
+          "surface": "舞文巧詆"
         },
         {
-          "start": 327,
-          "end": 329,
-          "entity_id": "concept_kl_012",
-          "entity_name": "深文",
-          "text": "文深"
-        },
-        {
+          "entity_id": "person_030",
+          "entity_name": "刘安（淮南王）",
+          "entity_type": "person",
           "start": 369,
           "end": 371,
-          "entity_id": "person_kl_029",
-          "entity_name": "刘安（淮南王）",
-          "text": "淮南"
+          "surface": "淮南"
         },
         {
+          "entity_id": "person_031",
+          "entity_name": "刘赐（衡山王）",
+          "entity_type": "person",
           "start": 372,
           "end": 374,
-          "entity_id": "person_kl_030",
-          "entity_name": "刘赐（衡山王）",
-          "text": "衡山"
+          "surface": "衡山"
         },
         {
+          "entity_id": "person_032",
+          "entity_name": "刘建（江都王）",
+          "entity_type": "person",
           "start": 375,
           "end": 377,
-          "entity_id": "person_kl_031",
-          "entity_name": "刘建（江都王）",
-          "text": "江都"
+          "surface": "江都"
         },
         {
+          "entity_id": "person_033",
+          "entity_name": "严助",
+          "entity_type": "person",
+          "start": 385,
+          "end": 387,
+          "surface": "嚴助"
+        },
+        {
+          "entity_id": "person_034",
+          "entity_name": "伍被",
+          "entity_type": "person",
           "start": 388,
           "end": 390,
-          "entity_id": "person_kl_033",
-          "entity_name": "伍被",
-          "text": "伍被"
+          "surface": "伍被"
         },
         {
+          "entity_id": "person_034",
+          "entity_name": "伍被",
+          "entity_type": "person",
           "start": 401,
           "end": 403,
-          "entity_id": "person_kl_033",
-          "entity_name": "伍被",
-          "text": "伍被"
+          "surface": "伍被"
         }
       ]
     },
@@ -719,39 +1192,76 @@
       "text": "會渾邪等降，漢大興兵伐匈奴，山東水旱，貧民流徙，皆仰給縣官，縣官空虛。於是丞上指，請造白金及五銖錢，籠天下鹽鐵，排富商大賈，出告緡令，⟦0⟧鉏豪彊并兼之家，舞文巧詆以輔法。湯每朝奏事，語國家用，日晏，天子忘食。丞相取充位，⟦1⟧天下事皆決於湯。百姓不安其生，騷動，縣官所興，未獲其利，姦吏並侵漁，於是痛繩以罪。則自公卿以下，至于庶人，咸指湯。湯嘗病，天子至自視病，其隆貴如此。",
       "mentions": [
         {
-          "start": 1,
-          "end": 3,
-          "entity_id": "person_kl_035",
-          "entity_name": "浑邪王",
-          "text": "渾邪"
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 38,
+          "end": 39,
+          "surface": "上"
         },
         {
-          "start": 63,
-          "end": 66,
-          "entity_id": "concept_kl_024",
-          "entity_name": "告缗令",
-          "text": "告緡令"
-        },
-        {
+          "entity_id": "concept_012",
+          "entity_name": "舞文巧诋",
+          "entity_type": "concept",
           "start": 78,
           "end": 82,
-          "entity_id": "concept_kl_011",
-          "entity_name": "舞文巧诋",
-          "text": "舞文巧詆"
+          "surface": "舞文巧詆"
         },
         {
+          "entity_id": "concept_015",
+          "entity_name": "五铢钱",
+          "entity_type": "concept",
+          "start": 46,
+          "end": 49,
+          "surface": "五銖錢"
+        },
+        {
+          "entity_id": "place_014",
+          "entity_name": "匈奴",
+          "entity_type": "place",
+          "start": 11,
+          "end": 13,
+          "surface": "匈奴"
+        },
+        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
           "start": 100,
           "end": 102,
-          "entity_id": "person_kl_034",
-          "entity_name": "刘彻（汉武帝）",
-          "text": "天子"
+          "surface": "天子"
         },
         {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
           "start": 175,
           "end": 177,
-          "entity_id": "person_kl_034",
-          "entity_name": "刘彻（汉武帝）",
-          "text": "天子"
+          "surface": "天子"
+        },
+        {
+          "entity_id": "person_036",
+          "entity_name": "浑邪王",
+          "entity_type": "person",
+          "start": 1,
+          "end": 3,
+          "surface": "渾邪"
+        },
+        {
+          "entity_id": "concept_018",
+          "entity_name": "告缗令",
+          "entity_type": "concept",
+          "start": 63,
+          "end": 65,
+          "surface": "告緡"
+        },
+        {
+          "entity_id": "concept_017",
+          "entity_name": "盐铁官营",
+          "entity_type": "concept",
+          "start": 53,
+          "end": 55,
+          "surface": "鹽鐵"
         }
       ]
     },
@@ -760,74 +1270,164 @@
       "text": "匈奴來請和親，羣臣議上前。博士狄山曰：「和親便。」上問其便，山曰：「兵者凶器，未易數動。高帝欲伐匈奴，大困平城，乃遂結和親。孝惠、高后時，天下安樂。及孝文帝欲事匈奴，北邊蕭然苦兵矣。孝景時，吳楚七國反，景帝往來兩宮閒，寒心者數月。吳楚已破，竟景帝不言兵，天下富實。今自陛下舉兵擊匈奴，中國以空虛，邊民大困貧。由此觀之，不如和親。」上問湯，湯曰：「此愚儒，無知。」狄山曰：「臣固愚忠，若御史大夫湯乃詐忠。若湯之治淮南、江都，以深文痛詆諸侯，別疏骨肉，使蕃臣不自安。臣固知湯之爲詐忠。」於是上作色曰：「吾使生居一郡，能無使虜入盜乎？」曰：「不能。」曰：「居一縣？」對曰：「不能。」復曰：「居一障閒？」⟦0⟧山自度辯窮且下吏，曰：「能。」於是上遣山乘鄣。至月餘，匈奴斬山頭而去。自是以後，羣臣震慴。",
       "mentions": [
         {
-          "start": 15,
-          "end": 17,
-          "entity_id": "person_kl_036",
-          "entity_name": "狄山",
-          "text": "狄山"
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 10,
+          "end": 11,
+          "surface": "上"
         },
         {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 25,
+          "end": 26,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 165,
+          "end": 166,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 243,
+          "end": 244,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 318,
+          "end": 319,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_004",
+          "entity_name": "吕雉（高后）",
+          "entity_type": "person",
           "start": 65,
           "end": 67,
-          "entity_id": "person_kl_004",
-          "entity_name": "吕雉（高后、吕后）",
-          "text": "高后"
+          "surface": "高后"
         },
         {
-          "start": 75,
-          "end": 78,
-          "entity_id": "person_kl_041b",
-          "entity_name": "刘恒（汉文帝）",
-          "text": "孝文帝"
-        },
-        {
+          "entity_id": "person_006",
+          "entity_name": "刘启（汉景帝）",
+          "entity_type": "person",
           "start": 91,
           "end": 93,
-          "entity_id": "person_kl_006",
-          "entity_name": "刘启（汉景帝）",
-          "text": "孝景"
+          "surface": "孝景"
         },
         {
+          "entity_id": "person_006",
+          "entity_name": "刘启（汉景帝）",
+          "entity_type": "person",
           "start": 101,
           "end": 103,
-          "entity_id": "person_kl_006",
-          "entity_name": "刘启（汉景帝）",
-          "text": "景帝"
+          "surface": "景帝"
         },
         {
+          "entity_id": "person_006",
+          "entity_name": "刘启（汉景帝）",
+          "entity_type": "person",
           "start": 121,
           "end": 123,
-          "entity_id": "person_kl_006",
-          "entity_name": "刘启（汉景帝）",
-          "text": "景帝"
+          "surface": "景帝"
         },
         {
-          "start": 181,
-          "end": 183,
-          "entity_id": "person_kl_036",
-          "entity_name": "狄山",
-          "text": "狄山"
+          "entity_id": "person_009",
+          "entity_name": "刘恒（汉文帝）",
+          "entity_type": "person",
+          "start": 75,
+          "end": 77,
+          "surface": "孝文"
         },
         {
+          "entity_id": "place_014",
+          "entity_name": "匈奴",
+          "entity_type": "place",
+          "start": 0,
+          "end": 2,
+          "surface": "匈奴"
+        },
+        {
+          "entity_id": "place_014",
+          "entity_name": "匈奴",
+          "entity_type": "place",
+          "start": 48,
+          "end": 50,
+          "surface": "匈奴"
+        },
+        {
+          "entity_id": "place_014",
+          "entity_name": "匈奴",
+          "entity_type": "place",
+          "start": 80,
+          "end": 82,
+          "surface": "匈奴"
+        },
+        {
+          "entity_id": "place_014",
+          "entity_name": "匈奴",
+          "entity_type": "place",
+          "start": 139,
+          "end": 141,
+          "surface": "匈奴"
+        },
+        {
+          "entity_id": "place_014",
+          "entity_name": "匈奴",
+          "entity_type": "place",
+          "start": 328,
+          "end": 330,
+          "surface": "匈奴"
+        },
+        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 134,
+          "end": 136,
+          "surface": "陛下"
+        },
+        {
+          "entity_id": "person_030",
+          "entity_name": "刘安（淮南王）",
+          "entity_type": "person",
           "start": 205,
           "end": 207,
-          "entity_id": "person_kl_029",
-          "entity_name": "刘安（淮南王）",
-          "text": "淮南"
+          "surface": "淮南"
         },
         {
+          "entity_id": "person_032",
+          "entity_name": "刘建（江都王）",
+          "entity_type": "person",
           "start": 208,
           "end": 210,
-          "entity_id": "person_kl_031",
-          "entity_name": "刘建（江都王）",
-          "text": "江都"
+          "surface": "江都"
         },
         {
-          "start": 212,
-          "end": 214,
-          "entity_id": "concept_kl_012",
-          "entity_name": "深文",
-          "text": "深文"
+          "entity_id": "person_035",
+          "entity_name": "狄山",
+          "entity_type": "person",
+          "start": 15,
+          "end": 17,
+          "surface": "狄山"
+        },
+        {
+          "entity_id": "person_035",
+          "entity_name": "狄山",
+          "entity_type": "person",
+          "start": 181,
+          "end": 183,
+          "surface": "狄山"
         }
       ]
     },
@@ -836,11 +1436,12 @@
       "text": "湯之客田甲，雖賈人，有賢操。始湯爲小吏時，與錢通，⟦0⟧及湯爲大吏，甲所以責湯行義過失，亦有烈士風。",
       "mentions": [
         {
+          "entity_id": "person_026",
+          "entity_name": "田甲",
+          "entity_type": "person",
           "start": 3,
           "end": 5,
-          "entity_id": "person_kl_026",
-          "entity_name": "田甲",
-          "text": "田甲"
+          "surface": "田甲"
         }
       ]
     },
@@ -854,158 +1455,220 @@
       "text": "河東人李文嘗與湯有郤，已而爲御史中丞，恚，數從中文書事有可以傷湯者，不能爲地。湯有所愛史魯謁居，知湯不平，使人上蜚變告文姦事，事下湯，湯治論殺文，而湯心知謁居爲之。上問曰：「言變事縱跡安起？」湯詳驚曰：「此殆文故人怨之。」謁居病卧閭里主人，湯自往視疾，爲謁居摩足。趙國以冶鑄爲業，王數訟鐵官事，湯常排趙王。趙王求湯陰事。謁居嘗案趙王，趙王怨之，并上書告：「湯，大臣也，史謁居有病，湯至爲摩足，疑與爲大姦。」事下廷尉。謁居病死，事連其弟，弟繫導官。⟦0⟧湯亦治他囚導官，見謁居弟，欲陰爲之，而詳不省。謁居弟弗知，怨湯，使人上書告湯與謁居謀，共變告李文。事下減宣。宣嘗與湯有郤，及得此事，窮竟其事，未奏也。會人有盜發孝文園瘞錢，⟦1⟧丞相青翟朝，與湯約俱謝，至前，湯念獨丞相以四時行園，當謝，湯無與也，不謝。丞相謝，上使御史案其事。湯欲致其文丞相見知，⟦2⟧丞相患之。三長史皆害湯，欲陷之。",
       "mentions": [
         {
-          "start": 0,
-          "end": 2,
-          "entity_id": "place_kl_008",
-          "entity_name": "河东郡",
-          "text": "河東"
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 55,
+          "end": 56,
+          "surface": "上"
         },
         {
-          "start": 3,
-          "end": 5,
-          "entity_id": "person_kl_037",
-          "entity_name": "李文",
-          "text": "李文"
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 82,
+          "end": 83,
+          "surface": "上"
         },
         {
-          "start": 45,
-          "end": 47,
-          "entity_id": "person_kl_038",
-          "entity_name": "鲁谒居",
-          "text": "謁居"
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 173,
+          "end": 174,
+          "surface": "上"
         },
         {
-          "start": 77,
-          "end": 79,
-          "entity_id": "person_kl_038",
-          "entity_name": "鲁谒居",
-          "text": "謁居"
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 260,
+          "end": 261,
+          "surface": "上"
         },
         {
-          "start": 111,
-          "end": 113,
-          "entity_id": "person_kl_038",
-          "entity_name": "鲁谒居",
-          "text": "謁居"
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 356,
+          "end": 357,
+          "surface": "上"
         },
         {
-          "start": 127,
-          "end": 129,
-          "entity_id": "person_kl_038",
-          "entity_name": "鲁谒居",
-          "text": "謁居"
-        },
-        {
-          "start": 132,
-          "end": 134,
-          "entity_id": "person_kl_039",
-          "entity_name": "刘彭祖（赵王）",
-          "text": "趙國"
-        },
-        {
-          "start": 150,
-          "end": 152,
-          "entity_id": "person_kl_039",
-          "entity_name": "刘彭祖（赵王）",
-          "text": "趙王"
-        },
-        {
-          "start": 153,
-          "end": 155,
-          "entity_id": "person_kl_039",
-          "entity_name": "刘彭祖（赵王）",
-          "text": "趙王"
-        },
-        {
-          "start": 160,
-          "end": 162,
-          "entity_id": "person_kl_038",
-          "entity_name": "鲁谒居",
-          "text": "謁居"
-        },
-        {
-          "start": 164,
-          "end": 166,
-          "entity_id": "person_kl_039",
-          "entity_name": "刘彭祖（赵王）",
-          "text": "趙王"
-        },
-        {
-          "start": 167,
-          "end": 169,
-          "entity_id": "person_kl_039",
-          "entity_name": "刘彭祖（赵王）",
-          "text": "趙王"
-        },
-        {
-          "start": 185,
-          "end": 187,
-          "entity_id": "person_kl_038",
-          "entity_name": "鲁谒居",
-          "text": "謁居"
-        },
-        {
-          "start": 208,
-          "end": 210,
-          "entity_id": "person_kl_038",
-          "entity_name": "鲁谒居",
-          "text": "謁居"
-        },
-        {
-          "start": 235,
-          "end": 237,
-          "entity_id": "person_kl_038",
-          "entity_name": "鲁谒居",
-          "text": "謁居"
-        },
-        {
-          "start": 249,
-          "end": 251,
-          "entity_id": "person_kl_038",
-          "entity_name": "鲁谒居",
-          "text": "謁居"
-        },
-        {
-          "start": 265,
-          "end": 267,
-          "entity_id": "person_kl_038",
-          "entity_name": "鲁谒居",
-          "text": "謁居"
-        },
-        {
-          "start": 272,
-          "end": 274,
-          "entity_id": "person_kl_037",
-          "entity_name": "李文",
-          "text": "李文"
-        },
-        {
-          "start": 277,
-          "end": 279,
-          "entity_id": "person_kl_040",
-          "entity_name": "减宣",
-          "text": "減宣"
-        },
-        {
-          "start": 306,
-          "end": 309,
-          "entity_id": "place_kl_035",
-          "entity_name": "孝文园",
-          "text": "孝文園"
-        },
-        {
+          "entity_id": "person_041",
+          "entity_name": "庄青翟",
+          "entity_type": "person",
           "start": 315,
           "end": 319,
-          "entity_id": "person_kl_042",
-          "entity_name": "庄青翟",
-          "text": "丞相青翟"
+          "surface": "丞相青翟"
         },
         {
+          "entity_id": "person_038",
+          "entity_name": "鲁谒居",
+          "entity_type": "person",
+          "start": 44,
+          "end": 47,
+          "surface": "魯謁居"
+        },
+        {
+          "entity_id": "person_009",
+          "entity_name": "刘恒（汉文帝）",
+          "entity_type": "person",
+          "start": 306,
+          "end": 308,
+          "surface": "孝文"
+        },
+        {
+          "entity_id": "person_037",
+          "entity_name": "李文",
+          "entity_type": "person",
+          "start": 3,
+          "end": 5,
+          "surface": "李文"
+        },
+        {
+          "entity_id": "person_037",
+          "entity_name": "李文",
+          "entity_type": "person",
+          "start": 272,
+          "end": 274,
+          "surface": "李文"
+        },
+        {
+          "entity_id": "person_038",
+          "entity_name": "鲁谒居",
+          "entity_type": "person",
+          "start": 77,
+          "end": 79,
+          "surface": "謁居"
+        },
+        {
+          "entity_id": "person_038",
+          "entity_name": "鲁谒居",
+          "entity_type": "person",
+          "start": 111,
+          "end": 113,
+          "surface": "謁居"
+        },
+        {
+          "entity_id": "person_038",
+          "entity_name": "鲁谒居",
+          "entity_type": "person",
+          "start": 127,
+          "end": 129,
+          "surface": "謁居"
+        },
+        {
+          "entity_id": "person_038",
+          "entity_name": "鲁谒居",
+          "entity_type": "person",
+          "start": 160,
+          "end": 162,
+          "surface": "謁居"
+        },
+        {
+          "entity_id": "person_038",
+          "entity_name": "鲁谒居",
+          "entity_type": "person",
+          "start": 185,
+          "end": 187,
+          "surface": "謁居"
+        },
+        {
+          "entity_id": "person_038",
+          "entity_name": "鲁谒居",
+          "entity_type": "person",
+          "start": 208,
+          "end": 210,
+          "surface": "謁居"
+        },
+        {
+          "entity_id": "person_038",
+          "entity_name": "鲁谒居",
+          "entity_type": "person",
+          "start": 235,
+          "end": 237,
+          "surface": "謁居"
+        },
+        {
+          "entity_id": "person_038",
+          "entity_name": "鲁谒居",
+          "entity_type": "person",
+          "start": 249,
+          "end": 251,
+          "surface": "謁居"
+        },
+        {
+          "entity_id": "person_038",
+          "entity_name": "鲁谒居",
+          "entity_type": "person",
+          "start": 265,
+          "end": 267,
+          "surface": "謁居"
+        },
+        {
+          "entity_id": "person_039",
+          "entity_name": "刘彭祖（赵王）",
+          "entity_type": "person",
+          "start": 150,
+          "end": 152,
+          "surface": "趙王"
+        },
+        {
+          "entity_id": "person_039",
+          "entity_name": "刘彭祖（赵王）",
+          "entity_type": "person",
+          "start": 153,
+          "end": 155,
+          "surface": "趙王"
+        },
+        {
+          "entity_id": "person_039",
+          "entity_name": "刘彭祖（赵王）",
+          "entity_type": "person",
+          "start": 164,
+          "end": 166,
+          "surface": "趙王"
+        },
+        {
+          "entity_id": "person_039",
+          "entity_name": "刘彭祖（赵王）",
+          "entity_type": "person",
+          "start": 167,
+          "end": 169,
+          "surface": "趙王"
+        },
+        {
+          "entity_id": "person_040",
+          "entity_name": "减宣",
+          "entity_type": "person",
+          "start": 277,
+          "end": 279,
+          "surface": "減宣"
+        },
+        {
+          "entity_id": "place_007",
+          "entity_name": "河东郡",
+          "entity_type": "place",
+          "start": 0,
+          "end": 2,
+          "surface": "河東"
+        },
+        {
+          "entity_id": "concept_009",
+          "entity_name": "见知法",
+          "entity_type": "concept",
           "start": 371,
           "end": 373,
-          "entity_id": "concept_kl_009",
-          "entity_name": "见知法",
-          "text": "見知"
+          "surface": "見知"
+        },
+        {
+          "entity_id": "person_039",
+          "entity_name": "刘彭祖（赵王）",
+          "entity_type": "person",
+          "start": 132,
+          "end": 133,
+          "surface": "趙"
         }
       ]
     },
@@ -1014,81 +1677,124 @@
       "text": "始長史朱買臣，會稽人也。⟦0⟧讀春秋。莊助使人言買臣，買臣以楚辭與助俱幸，侍中，爲太中大夫，用事；而湯乃爲小吏，跪伏使買臣等前。已而湯爲廷尉，治淮南獄，排擠莊助，買臣固心望。及湯爲御史大夫，買臣以會稽守爲主爵都尉，列於九卿。數年，坐法廢，守長史，見湯，湯坐牀上，丞史遇買臣弗爲禮。買臣楚士，⟦1⟧深怨，常欲死之。王朝，齊人也。以術至右內史。邊通，學長短，⟦2⟧剛暴彊人也，官再至濟南相。故皆居湯右，已而失官，守長史，詘體於湯。湯數行丞相事，知此三長史素貴，常淩折之。以故三長史合謀曰：「始湯約與君謝，已而賣君；今欲劾君以宗廟事，此欲代君耳。吾知湯陰事。」使吏捕案湯左田信等，⟦3⟧⟦4⟧曰湯且欲奏請，信輙先知之，居物致富，與湯分之，及他姦事。事辭頗聞。上問湯曰：「吾所爲，賈人輙先知之，益居其物，是類有以吾謀告之者。」湯不謝。湯又詳驚曰：「固宜有。」減宣亦奏謁居等事。天子果以湯懷詐面欺，使使八輩簿責湯。⟦5⟧湯具自道無此，不服。於是上使趙禹責湯。禹至，讓湯曰：「君何不知分也。君所治夷滅者幾何人矣？今人言君皆有狀，天子重致君獄，欲令君自爲計，何多以對簿爲？」湯乃爲書謝曰：「湯無尺寸功，起刀筆吏，陛下幸致爲三公，無以塞責。然謀陷湯罪者，三長史也。」遂自殺。",
       "mentions": [
         {
-          "start": 19,
-          "end": 21,
-          "entity_id": "person_kl_032",
-          "entity_name": "严助",
-          "text": "莊助"
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 129,
+          "end": 130,
+          "surface": "上"
         },
         {
-          "start": 72,
-          "end": 74,
-          "entity_id": "person_kl_029",
-          "entity_name": "刘安（淮南王）",
-          "text": "淮南"
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 326,
+          "end": 327,
+          "surface": "上"
         },
         {
-          "start": 78,
-          "end": 80,
-          "entity_id": "person_kl_032",
-          "entity_name": "严助",
-          "text": "莊助"
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 417,
+          "end": 418,
+          "surface": "上"
         },
         {
-          "start": 156,
-          "end": 158,
-          "entity_id": "person_kl_044",
-          "entity_name": "王朝",
-          "text": "王朝"
+          "entity_id": "person_042",
+          "entity_name": "朱买臣",
+          "entity_type": "person",
+          "start": 3,
+          "end": 6,
+          "surface": "朱買臣"
         },
         {
+          "entity_id": "place_002",
+          "entity_name": "济南郡",
+          "entity_type": "place",
           "start": 189,
           "end": 191,
-          "entity_id": "place_kl_004",
-          "entity_name": "济南郡",
-          "text": "濟南"
+          "surface": "濟南"
         },
         {
-          "start": 283,
-          "end": 285,
-          "entity_id": "person_kl_046",
-          "entity_name": "田信",
-          "text": "田信"
+          "entity_id": "person_021",
+          "entity_name": "赵禹",
+          "entity_type": "person",
+          "start": 419,
+          "end": 421,
+          "surface": "趙禹"
         },
         {
-          "start": 375,
-          "end": 377,
-          "entity_id": "person_kl_040",
-          "entity_name": "减宣",
-          "text": "減宣"
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 499,
+          "end": 501,
+          "surface": "陛下"
         },
         {
-          "start": 379,
-          "end": 381,
-          "entity_id": "person_kl_038",
-          "entity_name": "鲁谒居",
-          "text": "謁居"
-        },
-        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
           "start": 384,
           "end": 386,
-          "entity_id": "person_kl_034",
-          "entity_name": "刘彻（汉武帝）",
-          "text": "天子"
+          "surface": "天子"
         },
         {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
           "start": 458,
           "end": 460,
-          "entity_id": "person_kl_034",
-          "entity_name": "刘彻（汉武帝）",
-          "text": "天子"
+          "surface": "天子"
         },
         {
-          "start": 495,
-          "end": 497,
-          "entity_id": "concept_kl_010",
-          "entity_name": "刀笔吏",
-          "text": "刀筆"
+          "entity_id": "person_030",
+          "entity_name": "刘安（淮南王）",
+          "entity_type": "person",
+          "start": 72,
+          "end": 74,
+          "surface": "淮南"
+        },
+        {
+          "entity_id": "person_038",
+          "entity_name": "鲁谒居",
+          "entity_type": "person",
+          "start": 379,
+          "end": 381,
+          "surface": "謁居"
+        },
+        {
+          "entity_id": "person_040",
+          "entity_name": "减宣",
+          "entity_type": "person",
+          "start": 375,
+          "end": 377,
+          "surface": "減宣"
+        },
+        {
+          "entity_id": "person_043",
+          "entity_name": "王朝",
+          "entity_type": "person",
+          "start": 156,
+          "end": 158,
+          "surface": "王朝"
+        },
+        {
+          "entity_id": "person_044",
+          "entity_name": "边通",
+          "entity_type": "person",
+          "start": 170,
+          "end": 172,
+          "surface": "邊通"
+        },
+        {
+          "entity_id": "person_045",
+          "entity_name": "田信",
+          "entity_type": "person",
+          "start": 283,
+          "end": 285,
+          "surface": "田信"
         }
       ]
     },
@@ -1097,39 +1803,60 @@
       "text": "湯死，家產直不過五百金，皆所得奉賜，無他業。昆弟諸子欲厚葬湯，湯母曰：「湯爲天子大臣，被汙惡言而死，何厚葬乎！」載以牛車，有棺無椁。天子聞之，曰：「非此母不能生此子。」乃盡案誅三長史。丞相青翟自殺。出田信。上惜湯。稍遷其子安世。",
       "mentions": [
         {
-          "start": 38,
-          "end": 40,
-          "entity_id": "person_kl_034",
+          "entity_id": "person_028",
           "entity_name": "刘彻（汉武帝）",
-          "text": "天子"
+          "entity_type": "person",
+          "start": 103,
+          "end": 104,
+          "surface": "上"
         },
         {
-          "start": 66,
-          "end": 68,
-          "entity_id": "person_kl_034",
-          "entity_name": "刘彻（汉武帝）",
-          "text": "天子"
-        },
-        {
+          "entity_id": "person_041",
+          "entity_name": "庄青翟",
+          "entity_type": "person",
           "start": 92,
           "end": 96,
-          "entity_id": "person_kl_042",
-          "entity_name": "庄青翟",
-          "text": "丞相青翟"
+          "surface": "丞相青翟"
         },
         {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 38,
+          "end": 40,
+          "surface": "天子"
+        },
+        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 66,
+          "end": 68,
+          "surface": "天子"
+        },
+        {
+          "entity_id": "person_045",
+          "entity_name": "田信",
+          "entity_type": "person",
           "start": 100,
           "end": 102,
-          "entity_id": "person_kl_046",
-          "entity_name": "田信",
-          "text": "田信"
+          "surface": "田信"
         },
         {
+          "entity_id": "person_046",
+          "entity_name": "张安世",
+          "entity_type": "person",
           "start": 111,
           "end": 113,
-          "entity_id": "person_kl_047",
-          "entity_name": "张安世",
-          "text": "安世"
+          "surface": "安世"
+        },
+        {
+          "entity_id": "person_047",
+          "entity_name": "张汤母",
+          "entity_type": "person",
+          "start": 31,
+          "end": 33,
+          "surface": "湯母"
         }
       ]
     },
@@ -1138,18 +1865,28 @@
       "text": "趙禹中廢，已而爲廷尉。始條侯以爲禹賊深，弗任。及禹爲少府，比九卿。禹酷急，至晚節，事益多，吏務爲嚴峻，而禹治加緩，而名爲平。王溫舒等後起，治酷於禹。禹以老，徙爲燕相。數歲，亂悖有罪，免歸。後湯十餘年，以壽卒于家。",
       "mentions": [
         {
-          "start": 12,
-          "end": 14,
-          "entity_id": "person_kl_021",
-          "entity_name": "周亚夫（条侯）",
-          "text": "條侯"
+          "entity_id": "person_055",
+          "entity_name": "王温舒",
+          "entity_type": "person",
+          "start": 62,
+          "end": 65,
+          "surface": "王溫舒"
         },
         {
-          "start": 63,
-          "end": 65,
-          "entity_id": "person_kl_059",
-          "entity_name": "王温舒",
-          "text": "溫舒"
+          "entity_id": "person_012",
+          "entity_name": "周亚夫（条侯）",
+          "entity_type": "person",
+          "start": 12,
+          "end": 14,
+          "surface": "條侯"
+        },
+        {
+          "entity_id": "person_021",
+          "entity_name": "赵禹",
+          "entity_type": "person",
+          "start": 0,
+          "end": 2,
+          "surface": "趙禹"
         }
       ]
     },
@@ -1158,74 +1895,164 @@
       "text": "義縱者，河東人也。爲少年時，嘗與張次公俱攻剽爲羣盜。⟦0⟧⟦1⟧縱有姊姁，⟦2⟧以醫幸王太后。王太后問：「有子兄弟爲官者乎？」姊曰：「有弟無行，不可。」太后乃告上，拜義姁弟縱爲中郎，⟦3⟧補上黨郡中令。⟦4⟧治敢行，少蘊藉，⟦5⟧⟦6⟧縣無逋事，舉爲第一。遷爲長陵及長安令，直法行治，不避貴戚。以捕案太后外孫脩成君子仲，⟦7⟧上以爲能，遷爲河內都尉。至則族滅其豪穰氏之屬，河內道不拾遺。而張次公亦爲郎，以勇悍從軍，敢深入，有功，爲岸頭侯。⟦8⟧",
       "mentions": [
         {
-          "start": 4,
-          "end": 6,
-          "entity_id": "place_kl_008",
-          "entity_name": "河东郡",
-          "text": "河東"
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 80,
+          "end": 81,
+          "surface": "上"
         },
         {
-          "start": 43,
-          "end": 46,
-          "entity_id": "person_kl_051",
-          "entity_name": "王太后",
-          "text": "王太后"
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 95,
+          "end": 96,
+          "surface": "上"
         },
         {
-          "start": 47,
-          "end": 50,
-          "entity_id": "person_kl_051",
-          "entity_name": "王太后",
-          "text": "王太后"
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 163,
+          "end": 164,
+          "surface": "上"
         },
         {
-          "start": 76,
-          "end": 78,
-          "entity_id": "person_kl_004",
-          "entity_name": "吕雉（高后、吕后）",
-          "text": "太后"
-        },
-        {
-          "start": 133,
-          "end": 135,
-          "entity_id": "place_kl_001",
-          "entity_name": "长安",
-          "text": "長安"
-        },
-        {
-          "start": 150,
-          "end": 152,
-          "entity_id": "person_kl_004",
-          "entity_name": "吕雉（高后、吕后）",
-          "text": "太后"
-        },
-        {
+          "entity_id": "person_052",
+          "entity_name": "修成子仲",
+          "entity_type": "person",
           "start": 154,
           "end": 159,
-          "entity_id": "person_kl_052",
-          "entity_name": "修成子仲",
-          "text": "脩成君子仲"
+          "surface": "脩成君子仲"
         },
         {
+          "entity_id": "concept_025",
+          "entity_name": "道不拾遗",
+          "entity_type": "concept",
+          "start": 188,
+          "end": 192,
+          "surface": "道不拾遺"
+        },
+        {
+          "entity_id": "person_049",
+          "entity_name": "张次公",
+          "entity_type": "person",
+          "start": 16,
+          "end": 19,
+          "surface": "張次公"
+        },
+        {
+          "entity_id": "person_049",
+          "entity_name": "张次公",
+          "entity_type": "person",
+          "start": 194,
+          "end": 197,
+          "surface": "張次公"
+        },
+        {
+          "entity_id": "person_051",
+          "entity_name": "王太后（武帝母）",
+          "entity_type": "person",
+          "start": 43,
+          "end": 46,
+          "surface": "王太后"
+        },
+        {
+          "entity_id": "person_051",
+          "entity_name": "王太后（武帝母）",
+          "entity_type": "person",
+          "start": 47,
+          "end": 50,
+          "surface": "王太后"
+        },
+        {
+          "entity_id": "person_051",
+          "entity_name": "王太后（武帝母）",
+          "entity_type": "person",
+          "start": 76,
+          "end": 78,
+          "surface": "太后"
+        },
+        {
+          "entity_id": "person_051",
+          "entity_name": "王太后（武帝母）",
+          "entity_type": "person",
+          "start": 150,
+          "end": 152,
+          "surface": "太后"
+        },
+        {
+          "entity_id": "person_048",
+          "entity_name": "义纵",
+          "entity_type": "person",
+          "start": 0,
+          "end": 2,
+          "surface": "義縱"
+        },
+        {
+          "entity_id": "person_050",
+          "entity_name": "义姁",
+          "entity_type": "person",
+          "start": 83,
+          "end": 85,
+          "surface": "義姁"
+        },
+        {
+          "entity_id": "concept_036",
+          "entity_name": "豪强",
+          "entity_type": "concept",
+          "start": 181,
+          "end": 183,
+          "surface": "穰氏"
+        },
+        {
+          "entity_id": "place_016",
+          "entity_name": "河内郡",
+          "entity_type": "place",
           "start": 170,
           "end": 172,
-          "entity_id": "place_kl_012",
-          "entity_name": "河内郡",
-          "text": "河內"
+          "surface": "河內"
         },
         {
+          "entity_id": "place_016",
+          "entity_name": "河内郡",
+          "entity_type": "place",
           "start": 186,
           "end": 188,
-          "entity_id": "place_kl_012",
-          "entity_name": "河内郡",
-          "text": "河內"
+          "surface": "河內"
         },
         {
-          "start": 189,
-          "end": 192,
-          "entity_id": "concept_kl_015",
-          "entity_name": "道不拾遗",
-          "text": "不拾遺"
+          "entity_id": "place_007",
+          "entity_name": "河东郡",
+          "entity_type": "place",
+          "start": 4,
+          "end": 6,
+          "surface": "河東"
+        },
+        {
+          "entity_id": "place_000",
+          "entity_name": "长安",
+          "entity_type": "place",
+          "start": 133,
+          "end": 135,
+          "surface": "長安"
+        },
+        {
+          "entity_id": "concept_003",
+          "entity_name": "族灭",
+          "entity_type": "concept",
+          "start": 177,
+          "end": 179,
+          "surface": "族滅"
+        },
+        {
+          "entity_id": "person_050",
+          "entity_name": "义姁",
+          "entity_type": "person",
+          "start": 35,
+          "end": 36,
+          "surface": "姁"
         }
       ]
     },
@@ -1234,109 +2061,196 @@
       "text": "寧成家居，上欲以爲郡守。御史大夫弘曰：「臣居山東爲小吏時，寧成爲濟南都尉，其治如狼牧羊。成不可使治民。」上乃拜成爲關都尉。歲餘，關東吏隸郡國出入關者，⟦0⟧號曰「寧見乳虎，無值寧成之怒」。義縱自河內遷爲南陽太守，聞寧成家居南陽，及縱至關，寧成側行送迎，然縱氣盛，弗爲禮。至郡，遂案寧氏，盡破碎其家。成坐有罪，及孔、暴之屬皆犇亡，⟦1⟧南陽吏民重足一迹。而平氏朱彊、杜衍、杜周爲縱牙爪之吏，任用，遷爲廷史。軍數出定襄，定襄吏民亂敗，於是徙縱爲定襄太守。縱至，掩定襄獄中重罪輕繫二百餘人，及賔客昆弟私入相視亦二百餘人。縱一捕鞠，曰「爲死罪解脫」。⟦2⟧是日皆報殺四百餘人。其後郡中不寒而栗，猾民佐吏爲治。⟦3⟧",
       "mentions": [
         {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 5,
+          "end": 6,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 52,
+          "end": 53,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_008",
+          "entity_name": "宁成",
+          "entity_type": "person",
+          "start": 0,
+          "end": 2,
+          "surface": "寧成"
+        },
+        {
+          "entity_id": "person_008",
+          "entity_name": "宁成",
+          "entity_type": "person",
+          "start": 29,
+          "end": 31,
+          "surface": "寧成"
+        },
+        {
+          "entity_id": "person_008",
+          "entity_name": "宁成",
+          "entity_type": "person",
+          "start": 88,
+          "end": 90,
+          "surface": "寧成"
+        },
+        {
+          "entity_id": "person_008",
+          "entity_name": "宁成",
+          "entity_type": "person",
+          "start": 107,
+          "end": 109,
+          "surface": "寧成"
+        },
+        {
+          "entity_id": "person_008",
+          "entity_name": "宁成",
+          "entity_type": "person",
+          "start": 119,
+          "end": 121,
+          "surface": "寧成"
+        },
+        {
+          "entity_id": "place_002",
+          "entity_name": "济南郡",
+          "entity_type": "place",
           "start": 32,
           "end": 34,
-          "entity_id": "place_kl_004",
-          "entity_name": "济南郡",
-          "text": "濟南"
+          "surface": "濟南"
         },
         {
-          "start": 83,
-          "end": 85,
-          "entity_id": "concept_kl_008",
-          "entity_name": "乳虎",
-          "text": "乳虎"
+          "entity_id": "person_048",
+          "entity_name": "义纵",
+          "entity_type": "person",
+          "start": 94,
+          "end": 96,
+          "surface": "義縱"
         },
         {
-          "start": 97,
-          "end": 99,
-          "entity_id": "place_kl_012",
-          "entity_name": "河内郡",
-          "text": "河內"
-        },
-        {
+          "entity_id": "place_015",
+          "entity_name": "南阳郡",
+          "entity_type": "place",
           "start": 101,
           "end": 103,
-          "entity_id": "place_kl_013",
-          "entity_name": "南阳郡",
-          "text": "南陽"
+          "surface": "南陽"
         },
         {
+          "entity_id": "place_015",
+          "entity_name": "南阳郡",
+          "entity_type": "place",
           "start": 111,
           "end": 113,
-          "entity_id": "place_kl_013",
-          "entity_name": "南阳郡",
-          "text": "南陽"
+          "surface": "南陽"
         },
         {
+          "entity_id": "place_015",
+          "entity_name": "南阳郡",
+          "entity_type": "place",
           "start": 167,
           "end": 169,
-          "entity_id": "place_kl_013",
-          "entity_name": "南阳郡",
-          "text": "南陽"
+          "surface": "南陽"
         },
         {
-          "start": 171,
-          "end": 175,
-          "entity_id": "concept_kl_016",
-          "entity_name": "重足一迹",
-          "text": "重足一迹"
+          "entity_id": "place_016",
+          "entity_name": "河内郡",
+          "entity_type": "place",
+          "start": 97,
+          "end": 99,
+          "surface": "河內"
         },
         {
-          "start": 177,
-          "end": 179,
-          "entity_id": "place_kl_014",
-          "entity_name": "平氏",
-          "text": "平氏"
-        },
-        {
-          "start": 182,
-          "end": 184,
-          "entity_id": "place_kl_015",
-          "entity_name": "杜衍",
-          "text": "杜衍"
-        },
-        {
-          "start": 185,
-          "end": 187,
-          "entity_id": "person_kl_055",
-          "entity_name": "杜周",
-          "text": "杜周"
-        },
-        {
+          "entity_id": "place_017",
+          "entity_name": "定襄郡",
+          "entity_type": "place",
           "start": 205,
           "end": 207,
-          "entity_id": "place_kl_016",
-          "entity_name": "定襄郡",
-          "text": "定襄"
+          "surface": "定襄"
         },
         {
+          "entity_id": "place_017",
+          "entity_name": "定襄郡",
+          "entity_type": "place",
           "start": 208,
           "end": 210,
-          "entity_id": "place_kl_016",
-          "entity_name": "定襄郡",
-          "text": "定襄"
+          "surface": "定襄"
         },
         {
+          "entity_id": "place_017",
+          "entity_name": "定襄郡",
+          "entity_type": "place",
           "start": 220,
           "end": 222,
-          "entity_id": "place_kl_016",
-          "entity_name": "定襄郡",
-          "text": "定襄"
+          "surface": "定襄"
         },
         {
+          "entity_id": "place_017",
+          "entity_name": "定襄郡",
+          "entity_type": "place",
           "start": 229,
           "end": 231,
-          "entity_id": "place_kl_016",
-          "entity_name": "定襄郡",
-          "text": "定襄"
+          "surface": "定襄"
         },
         {
-          "start": 288,
-          "end": 292,
-          "entity_id": "concept_kl_014",
-          "entity_name": "不寒而栗",
-          "text": "不寒而栗"
+          "entity_id": "person_054",
+          "entity_name": "杜周",
+          "entity_type": "person",
+          "start": 185,
+          "end": 187,
+          "surface": "杜周"
+        },
+        {
+          "entity_id": "person_000",
+          "entity_name": "孔子",
+          "entity_type": "person",
+          "start": 155,
+          "end": 156,
+          "surface": "孔"
+        },
+        {
+          "entity_id": "place_006",
+          "entity_name": "函谷关",
+          "entity_type": "place",
+          "start": 57,
+          "end": 58,
+          "surface": "關"
+        },
+        {
+          "entity_id": "place_006",
+          "entity_name": "函谷关",
+          "entity_type": "place",
+          "start": 64,
+          "end": 65,
+          "surface": "關"
+        },
+        {
+          "entity_id": "place_006",
+          "entity_name": "函谷关",
+          "entity_type": "place",
+          "start": 72,
+          "end": 73,
+          "surface": "關"
+        },
+        {
+          "entity_id": "place_006",
+          "entity_name": "函谷关",
+          "entity_type": "place",
+          "start": 117,
+          "end": 118,
+          "surface": "關"
+        },
+        {
+          "entity_id": "place_009",
+          "entity_name": "杜县",
+          "entity_type": "place",
+          "start": 182,
+          "end": 183,
+          "surface": "杜"
         }
       ]
     },
@@ -1345,74 +2259,124 @@
       "text": "是時趙禹、張湯以深刻爲九卿矣，然其治尚寬，輔法而行，而縱以鷹擊毛摯爲治。⟦0⟧後會五銖錢白金起，民爲姦，京師尤甚，乃以縱爲右內史，王溫舒爲中尉。溫舒至惡，其所爲不先言縱，縱必以氣淩之，敗壞其功。其治，所誅殺甚多，然取爲小治，姦益不勝，直指始出矣。吏之治以斬殺縛束爲務，閻奉以惡用矣。縱廉，其治放郅都。上幸鼎湖，病久，已而卒起幸甘泉，⟦1⟧道多不治。上怒曰：「縱以我爲不復行此道乎？」嗛之。⟦2⟧至冬，楊可方受告緡，⟦3⟧⟦4⟧縱以爲此亂民，部吏捕其爲可使者。⟦5⟧天子聞，使杜式治，以爲廢格沮事，⟦6⟧⟦7⟧弃縱市。後一歲，張湯亦死。",
       "mentions": [
         {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 150,
+          "end": 151,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 174,
+          "end": 175,
+          "surface": "上"
+        },
+        {
+          "entity_id": "concept_020",
+          "entity_name": "鹰击毛挚",
+          "entity_type": "concept",
           "start": 29,
           "end": 33,
-          "entity_id": "concept_kl_013",
-          "entity_name": "鹰击毛挚",
-          "text": "鷹擊毛摯"
+          "surface": "鷹擊毛摯"
         },
         {
-          "start": 66,
-          "end": 68,
-          "entity_id": "person_kl_059",
-          "entity_name": "王温舒",
-          "text": "溫舒"
-        },
-        {
-          "start": 72,
-          "end": 74,
-          "entity_id": "person_kl_059",
-          "entity_name": "王温舒",
-          "text": "溫舒"
-        },
-        {
-          "start": 117,
-          "end": 119,
-          "entity_id": "concept_kl_020",
-          "entity_name": "绣衣直指",
-          "text": "直指"
-        },
-        {
-          "start": 147,
-          "end": 149,
-          "entity_id": "person_kl_008",
-          "entity_name": "郅都",
-          "text": "郅都"
-        },
-        {
-          "start": 152,
-          "end": 154,
-          "entity_id": "place_kl_017",
-          "entity_name": "鼎湖",
-          "text": "鼎湖"
-        },
-        {
-          "start": 163,
-          "end": 165,
-          "entity_id": "place_kl_018",
-          "entity_name": "甘泉宫",
-          "text": "甘泉"
-        },
-        {
-          "start": 232,
-          "end": 234,
-          "entity_id": "person_kl_034",
-          "entity_name": "刘彻（汉武帝）",
-          "text": "天子"
-        },
-        {
-          "start": 237,
-          "end": 239,
-          "entity_id": "person_kl_057",
-          "entity_name": "杜式",
-          "text": "杜式"
-        },
-        {
+          "entity_id": "concept_022",
+          "entity_name": "废格沮事",
+          "entity_type": "concept",
           "start": 243,
           "end": 247,
-          "entity_id": "concept_kl_030",
-          "entity_name": "废格沮事",
-          "text": "廢格沮事"
+          "surface": "廢格沮事"
+        },
+        {
+          "entity_id": "person_055",
+          "entity_name": "王温舒",
+          "entity_type": "person",
+          "start": 65,
+          "end": 68,
+          "surface": "王溫舒"
+        },
+        {
+          "entity_id": "concept_015",
+          "entity_name": "五铢钱",
+          "entity_type": "concept",
+          "start": 41,
+          "end": 44,
+          "surface": "五銖錢"
+        },
+        {
+          "entity_id": "person_007",
+          "entity_name": "郅都",
+          "entity_type": "person",
+          "start": 147,
+          "end": 149,
+          "surface": "郅都"
+        },
+        {
+          "entity_id": "person_021",
+          "entity_name": "赵禹",
+          "entity_type": "person",
+          "start": 2,
+          "end": 4,
+          "surface": "趙禹"
+        },
+        {
+          "entity_id": "person_022",
+          "entity_name": "张汤",
+          "entity_type": "person",
+          "start": 5,
+          "end": 7,
+          "surface": "張湯"
+        },
+        {
+          "entity_id": "person_022",
+          "entity_name": "张汤",
+          "entity_type": "person",
+          "start": 262,
+          "end": 264,
+          "surface": "張湯"
+        },
+        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 232,
+          "end": 234,
+          "surface": "天子"
+        },
+        {
+          "entity_id": "person_056",
+          "entity_name": "阎奉",
+          "entity_type": "person",
+          "start": 134,
+          "end": 136,
+          "surface": "閻奉"
+        },
+        {
+          "entity_id": "person_057",
+          "entity_name": "杨可",
+          "entity_type": "person",
+          "start": 200,
+          "end": 202,
+          "surface": "楊可"
+        },
+        {
+          "entity_id": "person_058",
+          "entity_name": "杜式",
+          "entity_type": "person",
+          "start": 237,
+          "end": 239,
+          "surface": "杜式"
+        },
+        {
+          "entity_id": "concept_018",
+          "entity_name": "告缗令",
+          "entity_type": "concept",
+          "start": 204,
+          "end": 206,
+          "surface": "告緡"
         }
       ]
     },
@@ -1421,60 +2385,52 @@
       "text": "王溫舒者，陽陵人也。⟦0⟧少時椎埋爲姦。⟦1⟧已而試補縣亭長，數廢。爲吏，以治獄至廷史。事張湯，遷爲御史。督盜賊，殺傷甚多，稍遷至廣平都尉。擇郡中豪敢任吏十餘人，以爲爪牙，皆把其陰重罪，而縱使督盜賊，快其意所欲得。此人雖有百罪，弗法；即有避，因其事夷之，亦滅宗。以其故齊趙之郊盜賊不敢近廣平，廣平聲爲道不拾遺。上聞，遷爲河內太守。",
       "mentions": [
         {
-          "start": 1,
-          "end": 3,
-          "entity_id": "person_kl_059",
-          "entity_name": "王温舒",
-          "text": "溫舒"
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 155,
+          "end": 156,
+          "surface": "上"
         },
         {
-          "start": 5,
-          "end": 7,
-          "entity_id": "place_kl_019",
-          "entity_name": "阳陵",
-          "text": "陽陵"
-        },
-        {
-          "start": 15,
-          "end": 17,
-          "entity_id": "concept_kl_029",
-          "entity_name": "椎埋为奸",
-          "text": "椎埋"
-        },
-        {
-          "start": 65,
-          "end": 67,
-          "entity_id": "place_kl_020",
-          "entity_name": "广平郡",
-          "text": "廣平"
-        },
-        {
-          "start": 143,
-          "end": 145,
-          "entity_id": "place_kl_020",
-          "entity_name": "广平郡",
-          "text": "廣平"
-        },
-        {
-          "start": 146,
-          "end": 148,
-          "entity_id": "place_kl_020",
-          "entity_name": "广平郡",
-          "text": "廣平"
-        },
-        {
-          "start": 151,
-          "end": 154,
-          "entity_id": "concept_kl_015",
+          "entity_id": "concept_025",
           "entity_name": "道不拾遗",
-          "text": "不拾遺"
+          "entity_type": "concept",
+          "start": 150,
+          "end": 154,
+          "surface": "道不拾遺"
         },
         {
+          "entity_id": "person_055",
+          "entity_name": "王温舒",
+          "entity_type": "person",
+          "start": 0,
+          "end": 3,
+          "surface": "王溫舒"
+        },
+        {
+          "entity_id": "person_022",
+          "entity_name": "张汤",
+          "entity_type": "person",
+          "start": 45,
+          "end": 47,
+          "surface": "張湯"
+        },
+        {
+          "entity_id": "place_016",
+          "entity_name": "河内郡",
+          "entity_type": "place",
           "start": 160,
           "end": 162,
-          "entity_id": "place_kl_012",
-          "entity_name": "河内郡",
-          "text": "河內"
+          "surface": "河內"
+        },
+        {
+          "entity_id": "person_039",
+          "entity_name": "刘彭祖（赵王）",
+          "entity_type": "person",
+          "start": 135,
+          "end": 136,
+          "surface": "趙"
         }
       ]
     },
@@ -1483,95 +2439,140 @@
       "text": "素居廣平時，皆知河內豪姦之家，及往，九月而至。令郡具私馬五十疋，爲驛自河內至長安，部吏如居廣平時方略，捕郡中豪猾，郡中豪猾相連坐千餘家。上書請，大者至族，小者乃死，家盡沒入償臧。奏行不過二三日，得可事。論報，至流血十餘里。河內皆怪其奏，以爲神速。盡十二月，郡中毋聲，毋敢夜行，野無犬吠之盜。其頗不得，失之旁郡國，梨來，⟦0⟧會春，溫舒頓足歎曰：「嗟乎，令冬月益展一月，足吾事矣！」其好殺伐行威不愛人如此。天子聞之，以爲能，遷爲中尉。其治復放河內，徙諸名禍猾吏⟦1⟧⟦2⟧與從事，河內則楊皆、麻戊，⟦3⟧關中楊贛、成信等。義縱爲內史，憚未敢恣治。及縱死，張湯敗後，徙爲廷尉，而尹齊爲中尉。",
       "mentions": [
         {
-          "start": 2,
-          "end": 4,
-          "entity_id": "place_kl_020",
-          "entity_name": "广平郡",
-          "text": "廣平"
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 68,
+          "end": 69,
+          "surface": "上"
         },
         {
-          "start": 8,
-          "end": 10,
-          "entity_id": "place_kl_012",
-          "entity_name": "河内郡",
-          "text": "河內"
+          "entity_id": "person_022",
+          "entity_name": "张汤",
+          "entity_type": "person",
+          "start": 276,
+          "end": 278,
+          "surface": "張湯"
         },
         {
-          "start": 35,
-          "end": 37,
-          "entity_id": "place_kl_012",
-          "entity_name": "河内郡",
-          "text": "河內"
-        },
-        {
-          "start": 38,
-          "end": 40,
-          "entity_id": "place_kl_001",
-          "entity_name": "长安",
-          "text": "長安"
-        },
-        {
-          "start": 45,
-          "end": 47,
-          "entity_id": "place_kl_020",
-          "entity_name": "广平郡",
-          "text": "廣平"
-        },
-        {
-          "start": 111,
-          "end": 113,
-          "entity_id": "place_kl_012",
-          "entity_name": "河内郡",
-          "text": "河內"
-        },
-        {
-          "start": 165,
-          "end": 167,
-          "entity_id": "person_kl_059",
-          "entity_name": "王温舒",
-          "text": "溫舒"
-        },
-        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
           "start": 202,
           "end": 204,
-          "entity_id": "person_kl_034",
-          "entity_name": "刘彻（汉武帝）",
-          "text": "天子"
+          "surface": "天子"
         },
         {
+          "entity_id": "person_048",
+          "entity_name": "义纵",
+          "entity_type": "person",
+          "start": 260,
+          "end": 262,
+          "surface": "義縱"
+        },
+        {
+          "entity_id": "place_016",
+          "entity_name": "河内郡",
+          "entity_type": "place",
+          "start": 8,
+          "end": 10,
+          "surface": "河內"
+        },
+        {
+          "entity_id": "place_016",
+          "entity_name": "河内郡",
+          "entity_type": "place",
+          "start": 35,
+          "end": 37,
+          "surface": "河內"
+        },
+        {
+          "entity_id": "place_016",
+          "entity_name": "河内郡",
+          "entity_type": "place",
+          "start": 111,
+          "end": 113,
+          "surface": "河內"
+        },
+        {
+          "entity_id": "place_016",
+          "entity_name": "河内郡",
+          "entity_type": "place",
           "start": 220,
           "end": 222,
-          "entity_id": "place_kl_012",
-          "entity_name": "河内郡",
-          "text": "河內"
+          "surface": "河內"
         },
         {
+          "entity_id": "place_016",
+          "entity_name": "河内郡",
+          "entity_type": "place",
           "start": 239,
           "end": 241,
-          "entity_id": "place_kl_012",
-          "entity_name": "河内郡",
-          "text": "河內"
+          "surface": "河內"
         },
         {
+          "entity_id": "person_059",
+          "entity_name": "杨皆",
+          "entity_type": "person",
+          "start": 242,
+          "end": 244,
+          "surface": "楊皆"
+        },
+        {
+          "entity_id": "person_060",
+          "entity_name": "麻戊",
+          "entity_type": "person",
           "start": 245,
           "end": 247,
-          "entity_id": "person_kl_061",
-          "entity_name": "麻戊",
-          "text": "麻戊"
+          "surface": "麻戊"
         },
         {
+          "entity_id": "person_061",
+          "entity_name": "杨赣",
+          "entity_type": "person",
           "start": 253,
           "end": 255,
-          "entity_id": "person_kl_062",
-          "entity_name": "杨赣",
-          "text": "楊贛"
+          "surface": "楊贛"
         },
         {
+          "entity_id": "person_062",
+          "entity_name": "成信",
+          "entity_type": "person",
           "start": 256,
           "end": 258,
-          "entity_id": "person_kl_063",
-          "entity_name": "成信",
-          "text": "成信"
+          "surface": "成信"
+        },
+        {
+          "entity_id": "person_063",
+          "entity_name": "尹齐",
+          "entity_type": "person",
+          "start": 287,
+          "end": 289,
+          "surface": "尹齊"
+        },
+        {
+          "entity_id": "place_000",
+          "entity_name": "长安",
+          "entity_type": "place",
+          "start": 38,
+          "end": 40,
+          "surface": "長安"
+        },
+        {
+          "entity_id": "place_006",
+          "entity_name": "函谷关",
+          "entity_type": "place",
+          "start": 251,
+          "end": 252,
+          "surface": "關"
+        },
+        {
+          "entity_id": "concept_003",
+          "entity_name": "族灭",
+          "entity_type": "concept",
+          "start": 75,
+          "end": 76,
+          "surface": "族"
         }
       ]
     },
@@ -1580,25 +2581,76 @@
       "text": "尹齊者，東郡茌平人。⟦0⟧以刀筆稍遷至御史。事張湯，張湯數稱以爲廉武，使督盜賊，所斬伐不避貴戚。遷爲關內都尉，聲甚於寧成。上以爲能，遷爲中尉，吏民益凋敝。尹齊木彊少文，豪惡吏伏匿而善吏不能爲治，以故事多廢，抵罪。上復徙溫舒爲中尉，而楊僕以嚴酷爲主爵都尉。",
       "mentions": [
         {
-          "start": 4,
-          "end": 8,
-          "entity_id": "place_kl_021",
-          "entity_name": "东郡茌平",
-          "text": "東郡茌平"
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 61,
+          "end": 62,
+          "surface": "上"
         },
         {
-          "start": 14,
-          "end": 16,
-          "entity_id": "concept_kl_010",
-          "entity_name": "刀笔吏",
-          "text": "刀筆"
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 106,
+          "end": 107,
+          "surface": "上"
         },
         {
-          "start": 109,
-          "end": 111,
-          "entity_id": "person_kl_059",
-          "entity_name": "王温舒",
-          "text": "溫舒"
+          "entity_id": "person_008",
+          "entity_name": "宁成",
+          "entity_type": "person",
+          "start": 58,
+          "end": 60,
+          "surface": "寧成"
+        },
+        {
+          "entity_id": "person_022",
+          "entity_name": "张汤",
+          "entity_type": "person",
+          "start": 23,
+          "end": 25,
+          "surface": "張湯"
+        },
+        {
+          "entity_id": "person_022",
+          "entity_name": "张汤",
+          "entity_type": "person",
+          "start": 26,
+          "end": 28,
+          "surface": "張湯"
+        },
+        {
+          "entity_id": "person_063",
+          "entity_name": "尹齐",
+          "entity_type": "person",
+          "start": 0,
+          "end": 2,
+          "surface": "尹齊"
+        },
+        {
+          "entity_id": "person_063",
+          "entity_name": "尹齐",
+          "entity_type": "person",
+          "start": 77,
+          "end": 79,
+          "surface": "尹齊"
+        },
+        {
+          "entity_id": "person_064",
+          "entity_name": "杨仆",
+          "entity_type": "person",
+          "start": 116,
+          "end": 118,
+          "surface": "楊僕"
+        },
+        {
+          "entity_id": "place_006",
+          "entity_name": "函谷关",
+          "entity_type": "place",
+          "start": 50,
+          "end": 51,
+          "surface": "關"
         }
       ]
     },
@@ -1607,32 +2659,44 @@
       "text": "楊僕者，宜陽人也。以千夫爲吏。⟦0⟧河南守案舉以爲能，遷爲御史，使督盜賊關東。治放尹齊，以爲敢摯行。稍遷至主爵都尉，列九卿。天子以爲能。南越反，拜爲樓舩將軍，有功，封將梁侯。爲荀彘所縛。⟦1⟧⟦2⟧居久之，病死。",
       "mentions": [
         {
-          "start": 4,
-          "end": 6,
-          "entity_id": "place_kl_022",
-          "entity_name": "宜阳",
-          "text": "宜陽"
-        },
-        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
           "start": 62,
           "end": 64,
-          "entity_id": "person_kl_034",
-          "entity_name": "刘彻（汉武帝）",
-          "text": "天子"
+          "surface": "天子"
         },
         {
-          "start": 68,
-          "end": 70,
-          "entity_id": "place_kl_024",
-          "entity_name": "南越",
-          "text": "南越"
+          "entity_id": "person_063",
+          "entity_name": "尹齐",
+          "entity_type": "person",
+          "start": 41,
+          "end": 43,
+          "surface": "尹齊"
         },
         {
+          "entity_id": "person_064",
+          "entity_name": "杨仆",
+          "entity_type": "person",
+          "start": 0,
+          "end": 2,
+          "surface": "楊僕"
+        },
+        {
+          "entity_id": "person_065",
+          "entity_name": "荀彘",
+          "entity_type": "person",
           "start": 88,
           "end": 90,
-          "entity_id": "person_kl_066",
-          "entity_name": "荀彘",
-          "text": "荀彘"
+          "surface": "荀彘"
+        },
+        {
+          "entity_id": "place_006",
+          "entity_name": "函谷关",
+          "entity_type": "place",
+          "start": 36,
+          "end": 37,
+          "surface": "關"
         }
       ]
     },
@@ -1641,46 +2705,20 @@
       "text": "而溫舒復爲中尉。爲人少文，居廷惛惛不辯，⟦0⟧至於中尉則心開。督盜賊，素習關中俗，知豪惡吏，豪惡吏盡復爲用，爲方略。吏苛察，盜賊惡少年投缿⟦1⟧⟦2⟧購告言姦，置伯格長⟦3⟧⟦4⟧以牧司姦盜賊。溫舒爲人讇，善事有勢者；即無勢者，視之如奴。有勢家，雖有姦如山，弗犯；無勢者，貴戚必侵辱。舞文巧詆下戶之猾，以焄大豪。⟦5⟧⟦6⟧其治中尉如此。姦猾窮治，大抵盡靡爛獄中，行論無出者。其爪牙吏虎而冠。於是中尉部中中猾以下皆伏，有勢者爲游聲譽，稱治。治數歲，其吏多以權富。",
       "mentions": [
         {
-          "start": 1,
-          "end": 3,
-          "entity_id": "person_kl_059",
-          "entity_name": "王温舒",
-          "text": "溫舒"
-        },
-        {
-          "start": 67,
-          "end": 69,
-          "entity_id": "concept_kl_017",
-          "entity_name": "投缿告奸",
-          "text": "投缿"
-        },
-        {
-          "start": 75,
-          "end": 77,
-          "entity_id": "concept_kl_017",
-          "entity_name": "投缿告奸",
-          "text": "購告"
-        },
-        {
-          "start": 97,
-          "end": 99,
-          "entity_id": "person_kl_059",
-          "entity_name": "王温舒",
-          "text": "溫舒"
-        },
-        {
+          "entity_id": "concept_012",
+          "entity_name": "舞文巧诋",
+          "entity_type": "concept",
           "start": 142,
           "end": 146,
-          "entity_id": "concept_kl_011",
-          "entity_name": "舞文巧诋",
-          "text": "舞文巧詆"
+          "surface": "舞文巧詆"
         },
         {
-          "start": 192,
-          "end": 195,
-          "entity_id": "concept_kl_028",
-          "entity_name": "虎而冠",
-          "text": "虎而冠"
+          "entity_id": "place_006",
+          "entity_name": "函谷关",
+          "entity_type": "place",
+          "start": 37,
+          "end": 38,
+          "surface": "關"
         }
       ]
     },
@@ -1689,32 +2727,20 @@
       "text": "溫舒擊東越還，⟦0⟧議有不中意者，坐小法抵罪免。是時天子方欲作通天臺⟦1⟧而未有人，溫舒請覆中尉脫卒，得數萬人作。上說，拜爲少府。徙爲右內史，治如其故，姦邪少禁。坐法失官。復爲右輔，行中尉事。如故操。",
       "mentions": [
         {
-          "start": 0,
-          "end": 2,
-          "entity_id": "person_kl_059",
-          "entity_name": "王温舒",
-          "text": "溫舒"
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 57,
+          "end": 58,
+          "surface": "上"
         },
         {
-          "start": 3,
-          "end": 5,
-          "entity_id": "place_kl_025",
-          "entity_name": "东越",
-          "text": "東越"
-        },
-        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
           "start": 26,
           "end": 28,
-          "entity_id": "person_kl_034",
-          "entity_name": "刘彻（汉武帝）",
-          "text": "天子"
-        },
-        {
-          "start": 42,
-          "end": 44,
-          "entity_id": "person_kl_059",
-          "entity_name": "王温舒",
-          "text": "溫舒"
+          "surface": "天子"
         }
       ]
     },
@@ -1723,32 +2749,68 @@
       "text": "歲餘，會宛軍發，⟦0⟧詔徵豪吏，溫舒匿其吏華成，及人有變告溫舒受員騎錢，他姦利事，罪至族，自殺。其時兩弟及兩婚家亦各自坐他罪而族。光祿徐自爲曰：「悲夫，夫古有三族，而王溫舒罪至同時而五族乎！」",
       "mentions": [
         {
-          "start": 16,
-          "end": 18,
-          "entity_id": "person_kl_059",
+          "entity_id": "person_055",
           "entity_name": "王温舒",
-          "text": "溫舒"
+          "entity_type": "person",
+          "start": 83,
+          "end": 86,
+          "surface": "王溫舒"
         },
         {
+          "entity_id": "person_067",
+          "entity_name": "徐自为",
+          "entity_type": "person",
+          "start": 67,
+          "end": 70,
+          "surface": "徐自爲"
+        },
+        {
+          "entity_id": "person_066",
+          "entity_name": "华成",
+          "entity_type": "person",
           "start": 21,
           "end": 23,
-          "entity_id": "person_kl_067",
-          "entity_name": "华成",
-          "text": "華成"
+          "surface": "華成"
         },
         {
-          "start": 29,
-          "end": 31,
-          "entity_id": "person_kl_059",
-          "entity_name": "王温舒",
-          "text": "溫舒"
+          "entity_id": "person_067",
+          "entity_name": "徐自为",
+          "entity_type": "person",
+          "start": 65,
+          "end": 67,
+          "surface": "光祿"
         },
         {
-          "start": 84,
-          "end": 86,
-          "entity_id": "person_kl_059",
-          "entity_name": "王温舒",
-          "text": "溫舒"
+          "entity_id": "concept_003",
+          "entity_name": "族灭",
+          "entity_type": "concept",
+          "start": 43,
+          "end": 44,
+          "surface": "族"
+        },
+        {
+          "entity_id": "concept_003",
+          "entity_name": "族灭",
+          "entity_type": "concept",
+          "start": 63,
+          "end": 64,
+          "surface": "族"
+        },
+        {
+          "entity_id": "concept_003",
+          "entity_name": "族灭",
+          "entity_type": "concept",
+          "start": 80,
+          "end": 81,
+          "surface": "族"
+        },
+        {
+          "entity_id": "concept_003",
+          "entity_name": "族灭",
+          "entity_type": "concept",
+          "start": 92,
+          "end": 93,
+          "surface": "族"
         }
       ]
     },
@@ -1757,25 +2819,12 @@
       "text": "溫舒死，家直累千金。後數歲，尹齊亦以淮陽都尉病死，家直不滿五十金。所誅滅淮陽甚多，及死，仇家欲燒其尸，尸亡去歸葬。⟦0⟧",
       "mentions": [
         {
-          "start": 0,
-          "end": 2,
-          "entity_id": "person_kl_059",
-          "entity_name": "王温舒",
-          "text": "溫舒"
-        },
-        {
-          "start": 18,
-          "end": 20,
-          "entity_id": "place_kl_023",
-          "entity_name": "淮阳郡",
-          "text": "淮陽"
-        },
-        {
-          "start": 36,
-          "end": 38,
-          "entity_id": "place_kl_023",
-          "entity_name": "淮阳郡",
-          "text": "淮陽"
+          "entity_id": "person_063",
+          "entity_name": "尹齐",
+          "entity_type": "person",
+          "start": 14,
+          "end": 16,
+          "surface": "尹齊"
         }
       ]
     },
@@ -1784,109 +2833,124 @@
       "text": "自溫舒等以惡爲治，而郡守、都尉、諸侯二千石欲爲治者，其治大抵盡放溫舒，而吏民益輕犯法，盜賊滋起。南陽有梅免、白政，楚有殷中、⟦0⟧杜少，齊有徐勃，燕趙之閒有堅盧、范生之屬。大羣至數千人，擅自號，攻城邑，取庫兵，釋死罪，縛辱郡太守、都尉，殺二千石，爲檄告縣趣具食；小羣盜以百數，掠鹵鄉里者，不可勝數也。於是天子始使御史中丞、丞相長史督之。猶弗能禁也，乃使光祿大夫范昆、諸輔都尉及故九卿張德等衣繡衣，持節，虎符發兵以興擊，斬首大部或至萬餘級，及以法誅通飲食，坐連諸郡，甚者數千人。數歲，乃頗得其渠率。散卒失亡，復聚黨阻山川者，往往而羣居，無可奈何。於是作「沈命法」，⟦1⟧⟦2⟧曰羣盜起不發覺，發覺而捕弗滿品者，二千石以下至小吏主者皆死。其後小吏畏誅，雖有盜不敢發，恐不能得，坐課累府，府亦使其不言。故盜賊濅多，上下相爲匿，以文辭避法焉。⟦3⟧",
       "mentions": [
         {
-          "start": 1,
-          "end": 3,
-          "entity_id": "person_kl_059",
-          "entity_name": "王温舒",
-          "text": "溫舒"
-        },
-        {
-          "start": 32,
-          "end": 34,
-          "entity_id": "person_kl_059",
-          "entity_name": "王温舒",
-          "text": "溫舒"
-        },
-        {
-          "start": 48,
-          "end": 50,
-          "entity_id": "place_kl_013",
-          "entity_name": "南阳郡",
-          "text": "南陽"
-        },
-        {
-          "start": 51,
-          "end": 53,
-          "entity_id": "person_kl_069",
-          "entity_name": "梅免",
-          "text": "梅免"
-        },
-        {
-          "start": 54,
-          "end": 56,
-          "entity_id": "person_kl_070",
-          "entity_name": "白政",
-          "text": "白政"
-        },
-        {
-          "start": 59,
-          "end": 61,
-          "entity_id": "person_kl_071",
-          "entity_name": "殷中",
-          "text": "殷中"
-        },
-        {
-          "start": 65,
-          "end": 67,
-          "entity_id": "person_kl_072",
-          "entity_name": "杜少",
-          "text": "杜少"
-        },
-        {
-          "start": 70,
-          "end": 72,
-          "entity_id": "person_kl_073",
-          "entity_name": "徐勃",
-          "text": "徐勃"
-        },
-        {
-          "start": 73,
-          "end": 75,
-          "entity_id": "place_kl_030",
-          "entity_name": "燕赵",
-          "text": "燕趙"
-        },
-        {
-          "start": 78,
-          "end": 80,
-          "entity_id": "person_kl_074",
-          "entity_name": "坚卢",
-          "text": "堅盧"
-        },
-        {
-          "start": 81,
-          "end": 83,
-          "entity_id": "person_kl_075",
-          "entity_name": "范生",
-          "text": "范生"
-        },
-        {
-          "start": 152,
-          "end": 154,
-          "entity_id": "person_kl_034",
+          "entity_id": "person_028",
           "entity_name": "刘彻（汉武帝）",
-          "text": "天子"
+          "entity_type": "person",
+          "start": 354,
+          "end": 355,
+          "surface": "上"
         },
         {
-          "start": 180,
-          "end": 182,
-          "entity_id": "person_kl_076",
-          "entity_name": "范昆",
-          "text": "范昆"
-        },
-        {
-          "start": 195,
-          "end": 197,
-          "entity_id": "concept_kl_020",
-          "entity_name": "绣衣直指",
-          "text": "繡衣"
-        },
-        {
+          "entity_id": "concept_029",
+          "entity_name": "沈命法",
+          "entity_type": "concept",
           "start": 276,
           "end": 279,
-          "entity_id": "event_kl_032",
-          "entity_name": "作沈命法",
-          "text": "沈命法"
+          "surface": "沈命法"
+        },
+        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 152,
+          "end": 154,
+          "surface": "天子"
+        },
+        {
+          "entity_id": "place_015",
+          "entity_name": "南阳郡",
+          "entity_type": "place",
+          "start": 48,
+          "end": 50,
+          "surface": "南陽"
+        },
+        {
+          "entity_id": "person_067",
+          "entity_name": "徐自为",
+          "entity_type": "person",
+          "start": 176,
+          "end": 178,
+          "surface": "光祿"
+        },
+        {
+          "entity_id": "person_068",
+          "entity_name": "梅免",
+          "entity_type": "person",
+          "start": 51,
+          "end": 53,
+          "surface": "梅免"
+        },
+        {
+          "entity_id": "person_069",
+          "entity_name": "白政",
+          "entity_type": "person",
+          "start": 54,
+          "end": 56,
+          "surface": "白政"
+        },
+        {
+          "entity_id": "person_070",
+          "entity_name": "殷中",
+          "entity_type": "person",
+          "start": 59,
+          "end": 61,
+          "surface": "殷中"
+        },
+        {
+          "entity_id": "person_071",
+          "entity_name": "杜少",
+          "entity_type": "person",
+          "start": 65,
+          "end": 67,
+          "surface": "杜少"
+        },
+        {
+          "entity_id": "person_072",
+          "entity_name": "徐勃",
+          "entity_type": "person",
+          "start": 70,
+          "end": 72,
+          "surface": "徐勃"
+        },
+        {
+          "entity_id": "person_073",
+          "entity_name": "坚卢",
+          "entity_type": "person",
+          "start": 78,
+          "end": 80,
+          "surface": "堅盧"
+        },
+        {
+          "entity_id": "person_074",
+          "entity_name": "范生",
+          "entity_type": "person",
+          "start": 81,
+          "end": 83,
+          "surface": "范生"
+        },
+        {
+          "entity_id": "person_075",
+          "entity_name": "范昆",
+          "entity_type": "person",
+          "start": 180,
+          "end": 182,
+          "surface": "范昆"
+        },
+        {
+          "entity_id": "person_076",
+          "entity_name": "张德",
+          "entity_type": "person",
+          "start": 191,
+          "end": 193,
+          "surface": "張德"
+        },
+        {
+          "entity_id": "person_039",
+          "entity_name": "刘彭祖（赵王）",
+          "entity_type": "person",
+          "start": 74,
+          "end": 75,
+          "surface": "趙"
         }
       ]
     },
@@ -1895,102 +2959,116 @@
       "text": "減宣者，楊人也。以佐史無害給事河東守府。衞將軍青使買馬河東，見宣無害，言上，徵爲大廄丞。⟦0⟧官事辨，稍遷至御史及中丞。使治主父偃及治淮南反獄，所以微文深詆，殺者甚衆，稱爲敢決疑。數廢數起，爲御史及中丞者幾二十歲。王溫舒免中尉，而宣爲左內史。其治米鹽，事大小皆關其手，自部署縣名曹實物，官吏令丞不得擅搖，痛以重法繩之。居官數年，一切郡中爲小治辨，然獨宣以小致大，能因力行之，難以爲經。中廢。爲右扶風，坐怨成信，⟦1⟧信亡藏上林中，宣使郿令⟦2⟧格殺信，吏卒格信時，射中上林苑門，宣下吏詆罪，以爲大逆，當族，自殺。而杜周任用。",
       "mentions": [
         {
-          "start": 0,
-          "end": 2,
-          "entity_id": "person_kl_040",
-          "entity_name": "减宣",
-          "text": "減宣"
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 36,
+          "end": 37,
+          "surface": "上"
         },
         {
-          "start": 15,
-          "end": 17,
-          "entity_id": "place_kl_008",
-          "entity_name": "河东郡",
-          "text": "河東"
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 211,
+          "end": 212,
+          "surface": "上"
         },
         {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 234,
+          "end": 235,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_077",
+          "entity_name": "卫青",
+          "entity_type": "person",
           "start": 20,
           "end": 24,
-          "entity_id": "person_kl_078",
-          "entity_name": "卫青",
-          "text": "衞將軍青"
+          "surface": "衞將軍青"
         },
         {
-          "start": 27,
-          "end": 29,
-          "entity_id": "place_kl_008",
-          "entity_name": "河东郡",
-          "text": "河東"
+          "entity_id": "person_055",
+          "entity_name": "王温舒",
+          "entity_type": "person",
+          "start": 107,
+          "end": 110,
+          "surface": "王溫舒"
         },
         {
+          "entity_id": "person_078",
+          "entity_name": "主父偃",
+          "entity_type": "person",
           "start": 62,
           "end": 65,
-          "entity_id": "person_kl_079",
-          "entity_name": "主父偃",
-          "text": "主父偃"
+          "surface": "主父偃"
         },
         {
+          "entity_id": "person_030",
+          "entity_name": "刘安（淮南王）",
+          "entity_type": "person",
           "start": 67,
           "end": 69,
-          "entity_id": "person_kl_029",
-          "entity_name": "刘安（淮南王）",
-          "text": "淮南"
+          "surface": "淮南"
         },
         {
-          "start": 74,
-          "end": 78,
-          "entity_id": "concept_kl_027",
-          "entity_name": "微文深诋",
-          "text": "微文深詆"
+          "entity_id": "person_040",
+          "entity_name": "减宣",
+          "entity_type": "person",
+          "start": 0,
+          "end": 2,
+          "surface": "減宣"
         },
         {
-          "start": 108,
-          "end": 110,
-          "entity_id": "person_kl_059",
-          "entity_name": "王温舒",
-          "text": "溫舒"
-        },
-        {
-          "start": 122,
-          "end": 125,
-          "entity_id": "concept_kl_026",
-          "entity_name": "米盐之治",
-          "text": "治米鹽"
-        },
-        {
-          "start": 202,
-          "end": 204,
-          "entity_id": "person_kl_063",
-          "entity_name": "成信",
-          "text": "成信"
-        },
-        {
-          "start": 211,
-          "end": 213,
-          "entity_id": "place_kl_003",
-          "entity_name": "上林苑",
-          "text": "上林"
-        },
-        {
-          "start": 217,
-          "end": 219,
-          "entity_id": "person_kl_080",
-          "entity_name": "郿令",
-          "text": "郿令"
-        },
-        {
-          "start": 234,
-          "end": 237,
-          "entity_id": "place_kl_003",
-          "entity_name": "上林苑",
-          "text": "上林苑"
-        },
-        {
+          "entity_id": "person_054",
+          "entity_name": "杜周",
+          "entity_type": "person",
           "start": 257,
           "end": 259,
-          "entity_id": "person_kl_055",
-          "entity_name": "杜周",
-          "text": "杜周"
+          "surface": "杜周"
+        },
+        {
+          "entity_id": "person_062",
+          "entity_name": "成信",
+          "entity_type": "person",
+          "start": 202,
+          "end": 204,
+          "surface": "成信"
+        },
+        {
+          "entity_id": "place_007",
+          "entity_name": "河东郡",
+          "entity_type": "place",
+          "start": 15,
+          "end": 17,
+          "surface": "河東"
+        },
+        {
+          "entity_id": "place_007",
+          "entity_name": "河东郡",
+          "entity_type": "place",
+          "start": 27,
+          "end": 29,
+          "surface": "河東"
+        },
+        {
+          "entity_id": "place_006",
+          "entity_name": "函谷关",
+          "entity_type": "place",
+          "start": 130,
+          "end": 131,
+          "surface": "關"
+        },
+        {
+          "entity_id": "concept_003",
+          "entity_name": "族灭",
+          "entity_type": "concept",
+          "start": 251,
+          "end": 252,
+          "surface": "族"
         }
       ]
     },
@@ -1999,39 +3077,68 @@
       "text": "杜周者，⟦0⟧南陽杜衍人。⟦1⟧義縱爲南陽守，以爲爪牙，舉爲廷尉史。事張湯，湯數言其無害，至御史。使案邊失亡，⟦2⟧所論殺甚衆。奏事中上意，任用，與減宣相編，更爲中丞十餘歲。",
       "mentions": [
         {
-          "start": 0,
-          "end": 2,
-          "entity_id": "person_kl_055",
-          "entity_name": "杜周",
-          "text": "杜周"
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 67,
+          "end": 68,
+          "surface": "上"
         },
         {
-          "start": 7,
-          "end": 9,
-          "entity_id": "place_kl_013",
-          "entity_name": "南阳郡",
-          "text": "南陽"
+          "entity_id": "person_022",
+          "entity_name": "张汤",
+          "entity_type": "person",
+          "start": 35,
+          "end": 37,
+          "surface": "張湯"
         },
         {
-          "start": 9,
-          "end": 11,
-          "entity_id": "place_kl_015",
-          "entity_name": "杜衍",
-          "text": "杜衍"
-        },
-        {
-          "start": 19,
-          "end": 21,
-          "entity_id": "place_kl_013",
-          "entity_name": "南阳郡",
-          "text": "南陽"
-        },
-        {
+          "entity_id": "person_040",
+          "entity_name": "减宣",
+          "entity_type": "person",
           "start": 74,
           "end": 76,
-          "entity_id": "person_kl_040",
-          "entity_name": "减宣",
-          "text": "減宣"
+          "surface": "減宣"
+        },
+        {
+          "entity_id": "person_048",
+          "entity_name": "义纵",
+          "entity_type": "person",
+          "start": 16,
+          "end": 18,
+          "surface": "義縱"
+        },
+        {
+          "entity_id": "place_015",
+          "entity_name": "南阳郡",
+          "entity_type": "place",
+          "start": 7,
+          "end": 9,
+          "surface": "南陽"
+        },
+        {
+          "entity_id": "place_015",
+          "entity_name": "南阳郡",
+          "entity_type": "place",
+          "start": 19,
+          "end": 21,
+          "surface": "南陽"
+        },
+        {
+          "entity_id": "person_054",
+          "entity_name": "杜周",
+          "entity_type": "person",
+          "start": 0,
+          "end": 2,
+          "surface": "杜周"
+        },
+        {
+          "entity_id": "place_009",
+          "entity_name": "杜县",
+          "entity_type": "place",
+          "start": 9,
+          "end": 10,
+          "surface": "杜"
         }
       ]
     },
@@ -2040,25 +3147,44 @@
       "text": "其治與宣相放，然重遲，外寬，內深次骨。⟦0⟧⟦1⟧宣爲左內史，周爲廷尉，其治大放張湯而善候伺。上所欲擠者，因而陷之；上所欲釋者，久繫待問而微見其寃狀。客有讓周曰：「君爲天子決平，不循三尺法，⟦2⟧專以人主意指爲獄。獄者固如是乎？」周曰：「三尺安出哉？前主所是著爲律，後主所是疏爲令，當時爲是，何古之法乎！」",
       "mentions": [
         {
-          "start": 84,
-          "end": 86,
-          "entity_id": "person_kl_034",
+          "entity_id": "person_028",
           "entity_name": "刘彻（汉武帝）",
-          "text": "天子"
+          "entity_type": "person",
+          "start": 47,
+          "end": 48,
+          "surface": "上"
         },
         {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 58,
+          "end": 59,
+          "surface": "上"
+        },
+        {
+          "entity_id": "concept_030",
+          "entity_name": "三尺法",
+          "entity_type": "concept",
           "start": 91,
           "end": 94,
-          "entity_id": "concept_kl_019",
-          "entity_name": "三尺法",
-          "text": "三尺法"
+          "surface": "三尺法"
         },
         {
-          "start": 119,
-          "end": 124,
-          "entity_id": "concept_kl_019",
-          "entity_name": "三尺法",
-          "text": "三尺安出哉"
+          "entity_id": "person_022",
+          "entity_name": "张汤",
+          "entity_type": "person",
+          "start": 40,
+          "end": 42,
+          "surface": "張湯"
+        },
+        {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 84,
+          "end": 86,
+          "surface": "天子"
         }
       ]
     },
@@ -2067,18 +3193,28 @@
       "text": "至周爲廷尉，詔獄亦益多矣。二千石繫者新故相因，不減百餘人。郡吏大府舉之廷尉，⟦0⟧一歲至千餘章。章大者連逮證案數百，小者數十人；遠者數千，近者數百里。會獄，吏因責如章告劾，不服，以笞掠定之。於是聞有逮皆亡匿。獄久者至更數赦⟦1⟧十有餘歲而相告言，大抵盡詆以不道以上。⟦2⟧廷尉及中都官詔獄逮至六七萬人，吏所增加十萬餘人。",
       "mentions": [
         {
-          "start": 6,
-          "end": 8,
-          "entity_id": "concept_kl_021",
-          "entity_name": "诏狱",
-          "text": "詔獄"
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 131,
+          "end": 132,
+          "surface": "上"
         },
         {
+          "entity_id": "concept_032",
+          "entity_name": "诏狱",
+          "entity_type": "concept",
+          "start": 6,
+          "end": 8,
+          "surface": "詔獄"
+        },
+        {
+          "entity_id": "concept_032",
+          "entity_name": "诏狱",
+          "entity_type": "concept",
           "start": 142,
           "end": 144,
-          "entity_id": "concept_kl_021",
-          "entity_name": "诏狱",
-          "text": "詔獄"
+          "surface": "詔獄"
         }
       ]
     },
@@ -2087,39 +3223,44 @@
       "text": "周中廢，後爲執金吾，逐盜，捕治桑弘羊、衞皇后昆弟子刻深，天子以爲盡力無私，遷爲御史大夫。⟦0⟧家兩子，夾河爲守。其治暴酷皆甚於王溫舒等矣。杜周初徵爲廷史，有一馬，且不全；及身久任事，至三公列，子孫尊官，家訾累數巨萬矣。",
       "mentions": [
         {
+          "entity_id": "person_055",
+          "entity_name": "王温舒",
+          "entity_type": "person",
+          "start": 63,
+          "end": 66,
+          "surface": "王溫舒"
+        },
+        {
+          "entity_id": "person_080",
+          "entity_name": "桑弘羊",
+          "entity_type": "person",
           "start": 15,
           "end": 18,
-          "entity_id": "person_kl_081",
-          "entity_name": "桑弘羊",
-          "text": "桑弘羊"
+          "surface": "桑弘羊"
         },
         {
+          "entity_id": "person_081",
+          "entity_name": "卫皇后（卫子夫）",
+          "entity_type": "person",
           "start": 19,
           "end": 22,
-          "entity_id": "person_kl_082",
-          "entity_name": "卫子夫（卫皇后）",
-          "text": "衞皇后"
+          "surface": "衞皇后"
         },
         {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
           "start": 28,
           "end": 30,
-          "entity_id": "person_kl_034",
-          "entity_name": "刘彻（汉武帝）",
-          "text": "天子"
+          "surface": "天子"
         },
         {
-          "start": 64,
-          "end": 66,
-          "entity_id": "person_kl_059",
-          "entity_name": "王温舒",
-          "text": "溫舒"
-        },
-        {
+          "entity_id": "person_054",
+          "entity_name": "杜周",
+          "entity_type": "person",
           "start": 69,
           "end": 71,
-          "entity_id": "person_kl_055",
-          "entity_name": "杜周",
-          "text": "杜周"
+          "surface": "杜周"
         }
       ]
     },
@@ -2128,109 +3269,148 @@
       "text": "太史公曰：自郅都、杜周十人者，此皆以酷烈爲聲。然郅都伉直，引是非，爭天下大體。張湯以知陰陽，人主與俱上下，時數辯當否，國家賴其便。趙禹時據法守正。杜周從諛，以少言爲重。自張湯死後，網密，多詆嚴，官事濅以秏廢。九卿碌碌奉其官，救過不贍，何暇論繩墨之外乎！然此十人中，其廉者足以爲儀表，其汚者足以爲戒，⟦0⟧方略教導，禁姦止邪，一切亦皆彬彬質有其文武焉。雖慘酷，斯稱其位矣。至若蜀守馮當暴挫，廣漢李貞擅磔人，東郡彌僕鋸項，天水駱璧推咸，⟦1⟧⟦2⟧河東褚廣妄殺，京兆無忌、馮翊殷周蝮鷙，⟦3⟧水衡閻奉朴擊賣請，何足數哉！何足數哉！",
       "mentions": [
         {
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 50,
+          "end": 51,
+          "surface": "上"
+        },
+        {
+          "entity_id": "person_002",
+          "entity_name": "司马迁（太史公）",
+          "entity_type": "person",
           "start": 0,
           "end": 3,
-          "entity_id": "person_kl_001",
-          "entity_name": "司马迁（太史公）",
-          "text": "太史公"
+          "surface": "太史公"
         },
         {
+          "entity_id": "person_007",
+          "entity_name": "郅都",
+          "entity_type": "person",
           "start": 6,
           "end": 8,
-          "entity_id": "person_kl_008",
+          "surface": "郅都"
+        },
+        {
+          "entity_id": "person_007",
           "entity_name": "郅都",
-          "text": "郅都"
-        },
-        {
-          "start": 9,
-          "end": 11,
-          "entity_id": "person_kl_055",
-          "entity_name": "杜周",
-          "text": "杜周"
-        },
-        {
+          "entity_type": "person",
           "start": 24,
           "end": 26,
-          "entity_id": "person_kl_008",
-          "entity_name": "郅都",
-          "text": "郅都"
+          "surface": "郅都"
         },
         {
+          "entity_id": "person_021",
+          "entity_name": "赵禹",
+          "entity_type": "person",
+          "start": 65,
+          "end": 67,
+          "surface": "趙禹"
+        },
+        {
+          "entity_id": "person_022",
+          "entity_name": "张汤",
+          "entity_type": "person",
+          "start": 39,
+          "end": 41,
+          "surface": "張湯"
+        },
+        {
+          "entity_id": "person_022",
+          "entity_name": "张汤",
+          "entity_type": "person",
+          "start": 85,
+          "end": 87,
+          "surface": "張湯"
+        },
+        {
+          "entity_id": "person_054",
+          "entity_name": "杜周",
+          "entity_type": "person",
+          "start": 9,
+          "end": 11,
+          "surface": "杜周"
+        },
+        {
+          "entity_id": "person_054",
+          "entity_name": "杜周",
+          "entity_type": "person",
           "start": 73,
           "end": 75,
-          "entity_id": "person_kl_055",
-          "entity_name": "杜周",
-          "text": "杜周"
+          "surface": "杜周"
         },
         {
+          "entity_id": "person_056",
+          "entity_name": "阎奉",
+          "entity_type": "person",
+          "start": 246,
+          "end": 248,
+          "surface": "閻奉"
+        },
+        {
+          "entity_id": "person_082",
+          "entity_name": "冯当",
+          "entity_type": "person",
           "start": 189,
           "end": 191,
-          "entity_id": "person_kl_083",
-          "entity_name": "冯当",
-          "text": "馮當"
+          "surface": "馮當"
         },
         {
-          "start": 194,
-          "end": 196,
-          "entity_id": "place_kl_032",
-          "entity_name": "广汉",
-          "text": "廣漢"
-        },
-        {
+          "entity_id": "person_083",
+          "entity_name": "李贞",
+          "entity_type": "person",
           "start": 196,
           "end": 198,
-          "entity_id": "person_kl_084",
-          "entity_name": "李贞",
-          "text": "李貞"
+          "surface": "李貞"
         },
         {
+          "entity_id": "person_084",
+          "entity_name": "弥仆",
+          "entity_type": "person",
           "start": 204,
           "end": 206,
-          "entity_id": "person_kl_085",
-          "entity_name": "弥仆",
-          "text": "彌僕"
+          "surface": "彌僕"
         },
         {
-          "start": 209,
-          "end": 211,
-          "entity_id": "place_kl_033",
-          "entity_name": "天水",
-          "text": "天水"
-        },
-        {
+          "entity_id": "person_085",
+          "entity_name": "骆璧",
+          "entity_type": "person",
           "start": 211,
           "end": 213,
-          "entity_id": "person_kl_086",
-          "entity_name": "骆璧",
-          "text": "駱璧"
+          "surface": "駱璧"
         },
         {
-          "start": 222,
-          "end": 224,
-          "entity_id": "place_kl_008",
-          "entity_name": "河东郡",
-          "text": "河東"
-        },
-        {
+          "entity_id": "person_086",
+          "entity_name": "褚广",
+          "entity_type": "person",
           "start": 224,
           "end": 226,
-          "entity_id": "person_kl_087",
-          "entity_name": "褚广",
-          "text": "褚廣"
+          "surface": "褚廣"
         },
         {
+          "entity_id": "person_087",
+          "entity_name": "无忌",
+          "entity_type": "person",
           "start": 231,
           "end": 233,
-          "entity_id": "person_kl_088",
-          "entity_name": "无忌",
-          "text": "無忌"
+          "surface": "無忌"
         },
         {
+          "entity_id": "person_088",
+          "entity_name": "殷周",
+          "entity_type": "person",
           "start": 236,
           "end": 238,
-          "entity_id": "person_kl_089",
-          "entity_name": "殷周",
-          "text": "殷周"
+          "surface": "殷周"
+        },
+        {
+          "entity_id": "place_007",
+          "entity_name": "河东郡",
+          "entity_type": "place",
+          "start": 222,
+          "end": 224,
+          "surface": "河東"
         }
       ]
     },
@@ -2239,18 +3419,36 @@
       "text": "索隱述贊曰：太上失德，法令滋起。破觚爲圓，禁暴不止。姧偽斯熾，慘酷爰始。乳獸揚威，蒼鷹側視。舞文巧詆，懷生何恃！",
       "mentions": [
         {
-          "start": 41,
-          "end": 43,
-          "entity_id": "concept_kl_007",
-          "entity_name": "苍鹰",
-          "text": "蒼鷹"
+          "entity_id": "person_028",
+          "entity_name": "刘彻（汉武帝）",
+          "entity_type": "person",
+          "start": 7,
+          "end": 8,
+          "surface": "上"
         },
         {
+          "entity_id": "concept_012",
+          "entity_name": "舞文巧诋",
+          "entity_type": "concept",
           "start": 46,
           "end": 50,
-          "entity_id": "concept_kl_011",
-          "entity_name": "舞文巧诋",
-          "text": "舞文巧詆"
+          "surface": "舞文巧詆"
+        },
+        {
+          "entity_id": "concept_004",
+          "entity_name": "苍鹰",
+          "entity_type": "concept",
+          "start": 41,
+          "end": 43,
+          "surface": "蒼鷹"
+        },
+        {
+          "entity_id": "person_089",
+          "entity_name": "司马贞",
+          "entity_type": "person",
+          "start": 0,
+          "end": 2,
+          "surface": "索隱"
         }
       ]
     }

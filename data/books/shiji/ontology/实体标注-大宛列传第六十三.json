@@ -3,7 +3,7 @@
   "chapter_id": "shiji-大宛列傳第六十三",
   "chapter_title": "大宛列传第六十三",
   "version": "1.0",
-  "generated_at": "2026-11-02T09:26:07.211850",
+  "generated_at": "2026-11-02",
   "paragraphs": [
     {
       "para_id": "p0",
@@ -15,115 +15,159 @@
       "text": "大宛之跡，⟦0⟧⟦1⟧見自張騫。張騫，漢中人。⟦2⟧建元中爲郎。是時天子問匈奴降者，皆言匈奴破月氏王，⟦3⟧以其頭爲飲器，⟦4⟧⟦5⟧月氏遁逃而常怨仇匈奴，無與共擊之。漢方欲事滅胡，聞此言，因欲通使。道必更匈奴中，⟦6⟧乃募能使者。騫以郎應募，使月氏，與堂邑氏故胡奴甘父⟦7⟧⟦8⟧俱出隴西。經匈奴，⟦9⟧匈奴得之，傳詣單于。單于留之，曰：「月氏在吾北，漢何以得往使？吾欲使越，漢肯聽我乎？」留騫十餘歲，與妻，有子，然騫持漢節不失。",
       "mentions": [
         {
+          "entity_id": "pl_dy_004",
           "start": 0,
           "end": 2,
-          "entity_id": "place_dy_001",
-          "entity_name": "大宛",
           "text": "大宛"
         },
         {
-          "start": 19,
-          "end": 21,
-          "entity_id": "place_dy_004",
-          "entity_name": "漢中",
-          "text": "漢中"
+          "entity_id": "p_dy_001",
+          "start": 13,
+          "end": 15,
+          "text": "張騫"
         },
         {
+          "entity_id": "p_dy_001",
+          "start": 16,
+          "end": 18,
+          "text": "張騫"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 19,
+          "end": 20,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_003",
           "start": 34,
           "end": 36,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
           "text": "天子"
         },
         {
+          "entity_id": "pl_dy_002",
           "start": 37,
           "end": 39,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "e_dy_001",
           "start": 44,
-          "end": 46,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
-          "text": "匈奴"
+          "end": 50,
+          "text": "匈奴破月氏王"
         },
         {
-          "start": 47,
-          "end": 49,
-          "entity_id": "place_dy_003",
-          "entity_name": "月氏",
-          "text": "月氏"
-        },
-        {
+          "entity_id": "pl_dy_006",
           "start": 67,
           "end": 69,
-          "entity_id": "place_dy_003",
-          "entity_name": "月氏",
           "text": "月氏"
         },
         {
+          "entity_id": "pl_dy_002",
           "start": 75,
           "end": 77,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 84,
+          "end": 85,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_002",
+          "start": 89,
+          "end": 90,
+          "text": "胡"
+        },
+        {
+          "entity_id": "pl_dy_002",
           "start": 103,
           "end": 105,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
-          "start": 123,
+          "entity_id": "e_dy_002",
+          "start": 116,
+          "end": 121,
+          "text": "騫以郎應募"
+        },
+        {
+          "entity_id": "e_dy_002",
+          "start": 122,
           "end": 125,
-          "entity_id": "place_dy_003",
-          "entity_name": "月氏",
-          "text": "月氏"
+          "text": "使月氏"
         },
         {
-          "start": 133,
+          "entity_id": "p_dy_002",
+          "start": 127,
           "end": 135,
-          "entity_id": "person_dy_002",
-          "entity_name": "堂邑父（甘父）",
-          "text": "甘父"
+          "text": "堂邑氏故胡奴甘父"
         },
         {
+          "entity_id": "pl_dy_003",
           "start": 143,
           "end": 145,
-          "entity_id": "place_dy_005",
-          "entity_name": "隴西",
           "text": "隴西"
         },
         {
+          "entity_id": "pl_dy_002",
           "start": 147,
           "end": 149,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "pl_dy_002",
           "start": 153,
           "end": 155,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "p_dy_004",
+          "start": 160,
+          "end": 162,
+          "text": "單于"
+        },
+        {
+          "entity_id": "p_dy_004",
+          "start": 163,
+          "end": 165,
+          "text": "單于"
+        },
+        {
+          "entity_id": "pl_dy_006",
           "start": 171,
           "end": 173,
-          "entity_id": "place_dy_003",
-          "entity_name": "月氏",
           "text": "月氏"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 177,
+          "end": 178,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 189,
+          "end": 190,
+          "text": "漢"
+        },
+        {
+          "entity_id": "e_dy_003",
+          "start": 196,
+          "end": 201,
+          "text": "留騫十餘歲"
+        },
+        {
+          "entity_id": "p_dy_001",
+          "start": 209,
+          "end": 210,
+          "text": "騫"
+        },
+        {
+          "entity_id": "c_dy_015",
           "start": 211,
           "end": 213,
-          "entity_id": "concept_dy_008",
-          "entity_name": "漢節",
           "text": "漢節"
         }
       ]
@@ -133,109 +177,160 @@
       "text": "居匈奴中，益寬，騫因與其屬亡鄉月氏，西走數十日至大宛。大宛聞漢之饒財，欲通不得，見騫，喜，問曰：「若欲何之？」騫曰：「爲漢使月氏，而爲匈奴所閉道。今亡，唯王使人導送我。誠得至，反漢，漢之賂遺王財物不可勝言。」大宛以爲然，遣騫，⟦0⟧爲發導驛，抵康居，⟦1⟧⟦2⟧康居傳致大月氏。⟦3⟧大月氏王已爲胡所殺，立其太子爲王。⟦4⟧⟦5⟧旣臣大夏而居，⟦6⟧⟦7⟧地肥饒，少寇，志安樂，又自以遠漢，殊無報胡之心。騫從月氏至大夏，竟不能得月氏要領。⟦8⟧⟦9⟧",
       "mentions": [
         {
+          "entity_id": "pl_dy_002",
           "start": 1,
           "end": 3,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
-          "start": 15,
+          "entity_id": "p_dy_001",
+          "start": 8,
+          "end": 9,
+          "text": "騫"
+        },
+        {
+          "entity_id": "e_dy_004",
+          "start": 13,
           "end": 17,
-          "entity_id": "place_dy_003",
-          "entity_name": "月氏",
-          "text": "月氏"
+          "text": "亡鄉月氏"
         },
         {
-          "start": 24,
+          "entity_id": "e_dy_004",
+          "start": 18,
           "end": 26,
-          "entity_id": "place_dy_001",
-          "entity_name": "大宛",
-          "text": "大宛"
+          "text": "西走數十日至大宛"
         },
         {
+          "entity_id": "pl_dy_004",
           "start": 27,
           "end": 29,
-          "entity_id": "place_dy_001",
-          "entity_name": "大宛",
           "text": "大宛"
         },
         {
-          "start": 62,
-          "end": 64,
-          "entity_id": "place_dy_003",
-          "entity_name": "月氏",
-          "text": "月氏"
+          "entity_id": "pl_dy_001",
+          "start": 30,
+          "end": 31,
+          "text": "漢"
         },
         {
+          "entity_id": "p_dy_001",
+          "start": 41,
+          "end": 42,
+          "text": "騫"
+        },
+        {
+          "entity_id": "p_dy_001",
+          "start": 55,
+          "end": 56,
+          "text": "騫"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 60,
+          "end": 61,
+          "text": "漢"
+        },
+        {
+          "entity_id": "e_dy_002",
+          "start": 61,
+          "end": 64,
+          "text": "使月氏"
+        },
+        {
+          "entity_id": "pl_dy_002",
           "start": 67,
           "end": 69,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 89,
+          "end": 90,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 91,
+          "end": 92,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_004",
           "start": 104,
           "end": 106,
-          "entity_id": "place_dy_001",
-          "entity_name": "大宛",
           "text": "大宛"
         },
         {
-          "start": 122,
+          "entity_id": "p_dy_001",
+          "start": 111,
+          "end": 112,
+          "text": "騫"
+        },
+        {
+          "entity_id": "e_dy_005",
+          "start": 121,
           "end": 124,
-          "entity_id": "place_dy_006",
-          "entity_name": "康居",
-          "text": "康居"
+          "text": "抵康居"
         },
         {
+          "entity_id": "e_dy_005",
           "start": 131,
-          "end": 133,
-          "entity_id": "place_dy_006",
-          "entity_name": "康居",
-          "text": "康居"
-        },
-        {
-          "start": 135,
           "end": 138,
-          "entity_id": "place_dy_003",
-          "entity_name": "月氏",
-          "text": "大月氏"
+          "text": "康居傳致大月氏"
         },
         {
+          "entity_id": "pl_dy_006",
           "start": 142,
           "end": 145,
-          "entity_id": "place_dy_003",
-          "entity_name": "月氏",
           "text": "大月氏"
         },
         {
+          "entity_id": "pl_dy_002",
+          "start": 148,
+          "end": 149,
+          "text": "胡"
+        },
+        {
+          "entity_id": "p_dy_016",
           "start": 167,
           "end": 169,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 193,
+          "end": 194,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_002",
+          "start": 198,
+          "end": 199,
+          "text": "胡"
+        },
+        {
+          "entity_id": "p_dy_001",
+          "start": 202,
+          "end": 203,
+          "text": "騫"
+        },
+        {
+          "entity_id": "pl_dy_006",
           "start": 204,
           "end": 206,
-          "entity_id": "place_dy_003",
-          "entity_name": "月氏",
           "text": "月氏"
         },
         {
+          "entity_id": "p_dy_016",
           "start": 207,
           "end": 209,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
         },
         {
-          "start": 214,
-          "end": 216,
-          "entity_id": "place_dy_003",
-          "entity_name": "月氏",
-          "text": "月氏"
+          "entity_id": "e_dy_006",
+          "start": 210,
+          "end": 218,
+          "text": "竟不能得月氏要領"
         }
       ]
     },
@@ -244,45 +339,75 @@
       "text": "留歲餘，還，並南山，⟦0⟧欲從羌中歸，⟦1⟧復爲匈奴所得。留歲餘，單于死，⟦2⟧左谷蠡王攻其太子自立，國內亂，騫與胡妻及堂邑父俱亡歸漢。漢拜騫爲太中大夫，堂邑父爲奉使君。⟦3⟧",
       "mentions": [
         {
+          "entity_id": "pl_dy_016",
           "start": 7,
           "end": 9,
-          "entity_id": "place_dy_008",
-          "entity_name": "南山",
           "text": "南山"
         },
         {
+          "entity_id": "pl_dy_017",
           "start": 15,
           "end": 17,
-          "entity_id": "place_dy_009",
-          "entity_name": "羌中",
           "text": "羌中"
         },
         {
+          "entity_id": "pl_dy_002",
           "start": 24,
           "end": 26,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "p_dy_004",
+          "start": 33,
+          "end": 35,
+          "text": "單于"
+        },
+        {
+          "entity_id": "p_dy_008",
           "start": 40,
           "end": 44,
-          "entity_id": "person_dy_036",
-          "entity_name": "左谷蠡王",
           "text": "左谷蠡王"
         },
         {
+          "entity_id": "p_dy_001",
+          "start": 55,
+          "end": 56,
+          "text": "騫"
+        },
+        {
+          "entity_id": "p_dy_044",
+          "start": 57,
+          "end": 59,
+          "text": "胡妻"
+        },
+        {
+          "entity_id": "p_dy_002",
           "start": 60,
           "end": 63,
-          "entity_id": "person_dy_002",
-          "entity_name": "堂邑父（甘父）",
           "text": "堂邑父"
         },
         {
+          "entity_id": "e_dy_007",
+          "start": 63,
+          "end": 67,
+          "text": "俱亡歸漢"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 68,
+          "end": 69,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_001",
+          "start": 70,
+          "end": 71,
+          "text": "騫"
+        },
+        {
+          "entity_id": "p_dy_002",
           "start": 77,
           "end": 80,
-          "entity_id": "person_dy_002",
-          "entity_name": "堂邑父（甘父）",
           "text": "堂邑父"
         }
       ]
@@ -292,11 +417,34 @@
       "text": "騫爲人彊力，寬大信人，蠻夷愛之。堂邑父故胡人，善射，窮急射禽獸給食。初，騫行時百餘人，去十三歲，唯二人得還。",
       "mentions": [
         {
+          "entity_id": "p_dy_001",
+          "start": 0,
+          "end": 1,
+          "text": "騫"
+        },
+        {
+          "entity_id": "p_dy_002",
           "start": 16,
           "end": 19,
-          "entity_id": "person_dy_002",
-          "entity_name": "堂邑父（甘父）",
           "text": "堂邑父"
+        },
+        {
+          "entity_id": "pl_dy_002",
+          "start": 20,
+          "end": 21,
+          "text": "胡"
+        },
+        {
+          "entity_id": "p_dy_001",
+          "start": 36,
+          "end": 37,
+          "text": "騫"
+        },
+        {
+          "entity_id": "e_dy_007",
+          "start": 48,
+          "end": 53,
+          "text": "唯二人得還"
         }
       ]
     },
@@ -305,39 +453,40 @@
       "text": "騫身所至者大宛、大月氏、大夏、康居，而傳聞其旁大國五六，具爲天子言之。曰：",
       "mentions": [
         {
+          "entity_id": "p_dy_001",
+          "start": 0,
+          "end": 1,
+          "text": "騫"
+        },
+        {
+          "entity_id": "pl_dy_004",
           "start": 5,
           "end": 7,
-          "entity_id": "place_dy_001",
-          "entity_name": "大宛",
           "text": "大宛"
         },
         {
+          "entity_id": "pl_dy_006",
           "start": 8,
           "end": 11,
-          "entity_id": "place_dy_003",
-          "entity_name": "月氏",
           "text": "大月氏"
         },
         {
+          "entity_id": "p_dy_016",
           "start": 12,
           "end": 14,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
         },
         {
+          "entity_id": "p_dy_012",
           "start": 15,
           "end": 17,
-          "entity_id": "place_dy_006",
-          "entity_name": "康居",
           "text": "康居"
         },
         {
-          "start": 30,
-          "end": 32,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
-          "text": "天子"
+          "entity_id": "e_dy_008",
+          "start": 28,
+          "end": 34,
+          "text": "具爲天子言之"
         }
       ]
     },
@@ -346,172 +495,184 @@
       "text": "大宛在匈奴西南，在漢正西，去漢可萬里。其俗土著，耕田，田稻麥。有蒲陶酒。多善馬，⟦0⟧馬汗血，其先天馬子也。⟦1⟧有城郭屋室。其屬邑大小七十餘城，衆可數十萬。其兵弓矛騎射。其北則康居，西則大月氏，西南則大夏，東北則烏孫，東則扜冞、于窴。⟦2⟧⟦3⟧于窴之西，則水皆西流，注西海；其東水東流，注鹽澤。⟦4⟧⟦5⟧鹽澤潛行地下，其南則河源出焉。⟦6⟧多玉石，河注中國。而樓蘭、姑師⟦7⟧邑有城郭，臨鹽澤。鹽澤去長安可五千里。匈奴右方居鹽澤以東，至隴西長城，南接羌，鬲漢道焉。",
       "mentions": [
         {
+          "entity_id": "pl_dy_004",
           "start": 0,
           "end": 2,
-          "entity_id": "place_dy_001",
-          "entity_name": "大宛",
           "text": "大宛"
         },
         {
+          "entity_id": "pl_dy_002",
           "start": 3,
           "end": 5,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 9,
+          "end": 10,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 14,
+          "end": 15,
+          "text": "漢"
+        },
+        {
+          "entity_id": "c_dy_003",
           "start": 21,
           "end": 23,
-          "entity_id": "concept_dy_002",
-          "entity_name": "土著",
           "text": "土著"
         },
         {
+          "entity_id": "c_dy_009",
           "start": 32,
           "end": 35,
-          "entity_id": "concept_dy_005",
-          "entity_name": "蒲陶酒",
           "text": "蒲陶酒"
         },
         {
+          "entity_id": "c_dy_008",
           "start": 37,
           "end": 39,
-          "entity_id": "concept_dy_004",
-          "entity_name": "汗血馬",
           "text": "善馬"
         },
         {
+          "entity_id": "c_dy_008",
+          "start": 44,
+          "end": 46,
+          "text": "汗血"
+        },
+        {
+          "entity_id": "c_dy_008",
           "start": 49,
           "end": 51,
-          "entity_id": "concept_dy_004",
-          "entity_name": "汗血馬",
           "text": "天馬"
         },
         {
+          "entity_id": "p_dy_012",
           "start": 89,
           "end": 91,
-          "entity_id": "place_dy_006",
-          "entity_name": "康居",
           "text": "康居"
         },
         {
+          "entity_id": "pl_dy_006",
           "start": 94,
           "end": 97,
-          "entity_id": "place_dy_003",
-          "entity_name": "月氏",
           "text": "大月氏"
         },
         {
+          "entity_id": "p_dy_016",
           "start": 101,
           "end": 103,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
         },
         {
+          "entity_id": "pl_dy_008",
           "start": 107,
           "end": 109,
-          "entity_id": "place_dy_010",
-          "entity_name": "烏孫",
           "text": "烏孫"
         },
         {
+          "entity_id": "pl_dy_029",
           "start": 112,
           "end": 114,
-          "entity_id": "place_dy_011",
-          "entity_name": "扜冞",
           "text": "扜冞"
         },
         {
+          "entity_id": "pl_dy_028",
           "start": 115,
           "end": 117,
-          "entity_id": "place_dy_012",
-          "entity_name": "于窴",
           "text": "于窴"
         },
         {
+          "entity_id": "pl_dy_028",
           "start": 124,
           "end": 126,
-          "entity_id": "place_dy_012",
-          "entity_name": "于窴",
           "text": "于窴"
         },
         {
+          "entity_id": "pl_dy_019",
           "start": 136,
           "end": 138,
-          "entity_id": "place_dy_013",
-          "entity_name": "西海",
           "text": "西海"
         },
         {
+          "entity_id": "pl_dy_018",
           "start": 146,
           "end": 148,
-          "entity_id": "place_dy_014",
-          "entity_name": "鹽澤",
           "text": "鹽澤"
         },
         {
+          "entity_id": "pl_dy_018",
           "start": 155,
           "end": 157,
-          "entity_id": "place_dy_014",
-          "entity_name": "鹽澤",
           "text": "鹽澤"
         },
         {
+          "entity_id": "pl_dy_065",
+          "start": 165,
+          "end": 167,
+          "text": "河源"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 179,
+          "end": 181,
+          "text": "中國"
+        },
+        {
+          "entity_id": "pl_dy_021",
           "start": 183,
           "end": 185,
-          "entity_id": "place_dy_015",
-          "entity_name": "樓蘭",
           "text": "樓蘭"
         },
         {
+          "entity_id": "pl_dy_022",
           "start": 186,
           "end": 188,
-          "entity_id": "place_dy_016",
-          "entity_name": "姑師",
           "text": "姑師"
         },
         {
+          "entity_id": "pl_dy_018",
           "start": 197,
           "end": 199,
-          "entity_id": "place_dy_014",
-          "entity_name": "鹽澤",
           "text": "鹽澤"
         },
         {
+          "entity_id": "pl_dy_018",
           "start": 200,
           "end": 202,
-          "entity_id": "place_dy_014",
-          "entity_name": "鹽澤",
           "text": "鹽澤"
         },
         {
+          "entity_id": "pl_dy_030",
           "start": 203,
           "end": 205,
-          "entity_id": "place_dy_017",
-          "entity_name": "長安",
           "text": "長安"
         },
         {
+          "entity_id": "pl_dy_002",
           "start": 210,
           "end": 212,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "pl_dy_018",
           "start": 215,
           "end": 217,
-          "entity_id": "place_dy_014",
-          "entity_name": "鹽澤",
           "text": "鹽澤"
         },
         {
+          "entity_id": "pl_dy_003",
           "start": 221,
           "end": 223,
-          "entity_id": "place_dy_005",
-          "entity_name": "隴西",
           "text": "隴西"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 231,
+          "end": 232,
+          "text": "漢"
         }
       ]
     },
@@ -520,46 +681,40 @@
       "text": "烏孫在大宛東北可二千里，行國，⟦0⟧隨畜，與匈奴同俗。控弦者數萬，敢戰。故服匈奴，及盛，取其羈屬，不肯往朝會焉。",
       "mentions": [
         {
+          "entity_id": "pl_dy_008",
           "start": 0,
           "end": 2,
-          "entity_id": "place_dy_010",
-          "entity_name": "烏孫",
           "text": "烏孫"
         },
         {
+          "entity_id": "pl_dy_004",
           "start": 3,
           "end": 5,
-          "entity_id": "place_dy_001",
-          "entity_name": "大宛",
           "text": "大宛"
         },
         {
+          "entity_id": "c_dy_002",
           "start": 12,
           "end": 14,
-          "entity_id": "concept_dy_003",
-          "entity_name": "行國",
           "text": "行國"
         },
         {
+          "entity_id": "pl_dy_002",
           "start": 22,
           "end": 24,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "c_dy_004",
+          "start": 27,
+          "end": 29,
+          "text": "控弦"
+        },
+        {
+          "entity_id": "pl_dy_002",
           "start": 38,
           "end": 40,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
-        },
-        {
-          "start": 46,
-          "end": 48,
-          "entity_id": "concept_dy_010",
-          "entity_name": "羈屬",
-          "text": "羈屬"
         }
       ]
     },
@@ -568,52 +723,51 @@
       "text": "康居在大宛西北可二千里，行國，與月氏大同俗。控弦者八九萬人。與大宛鄰國。國小，南羈事月氏，東羈事匈奴。",
       "mentions": [
         {
+          "entity_id": "p_dy_012",
           "start": 0,
           "end": 2,
-          "entity_id": "place_dy_006",
-          "entity_name": "康居",
           "text": "康居"
         },
         {
+          "entity_id": "pl_dy_004",
           "start": 3,
           "end": 5,
-          "entity_id": "place_dy_001",
-          "entity_name": "大宛",
           "text": "大宛"
         },
         {
+          "entity_id": "c_dy_002",
           "start": 12,
           "end": 14,
-          "entity_id": "concept_dy_003",
-          "entity_name": "行國",
           "text": "行國"
         },
         {
+          "entity_id": "pl_dy_006",
           "start": 16,
           "end": 18,
-          "entity_id": "place_dy_003",
-          "entity_name": "月氏",
           "text": "月氏"
         },
         {
+          "entity_id": "c_dy_004",
+          "start": 22,
+          "end": 24,
+          "text": "控弦"
+        },
+        {
+          "entity_id": "pl_dy_004",
           "start": 31,
           "end": 33,
-          "entity_id": "place_dy_001",
-          "entity_name": "大宛",
           "text": "大宛"
         },
         {
+          "entity_id": "pl_dy_006",
           "start": 42,
           "end": 44,
-          "entity_id": "place_dy_003",
-          "entity_name": "月氏",
           "text": "月氏"
         },
         {
+          "entity_id": "pl_dy_002",
           "start": 48,
           "end": 50,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         }
       ]
@@ -623,38 +777,39 @@
       "text": "奄蔡⟦0⟧在康居西北可二千里，行國，與康居大同俗。控弦者十餘萬。臨大澤，無崖，蓋乃北海云。",
       "mentions": [
         {
+          "entity_id": "pl_dy_009",
           "start": 0,
           "end": 2,
-          "entity_id": "place_dy_018",
-          "entity_name": "奄蔡",
           "text": "奄蔡"
         },
         {
+          "entity_id": "p_dy_012",
           "start": 6,
           "end": 8,
-          "entity_id": "place_dy_006",
-          "entity_name": "康居",
           "text": "康居"
         },
         {
+          "entity_id": "c_dy_002",
           "start": 15,
           "end": 17,
-          "entity_id": "concept_dy_003",
-          "entity_name": "行國",
           "text": "行國"
         },
         {
+          "entity_id": "p_dy_012",
           "start": 19,
           "end": 21,
-          "entity_id": "place_dy_006",
-          "entity_name": "康居",
           "text": "康居"
         },
         {
+          "entity_id": "c_dy_004",
+          "start": 25,
+          "end": 27,
+          "text": "控弦"
+        },
+        {
+          "entity_id": "pl_dy_020",
           "start": 41,
           "end": 43,
-          "entity_id": "place_dy_019",
-          "entity_name": "北海",
           "text": "北海"
         }
       ]
@@ -664,151 +819,148 @@
       "text": "大月氏⟦0⟧在大宛西可二三千里，居媯水北。其南則大夏，西則安息，北則康居。行國也，隨畜移徙，與匈奴同俗。控弦者可一二十萬。故時彊，輕匈奴，及冒頓立，攻破月氏，至匈奴老上單于，殺月氏王，以其頭爲飲器。始月氏居敦煌、祁連閒，⟦1⟧及爲匈奴所敗，乃遠去，過宛，西擊大夏而臣之，遂都媯水北，爲王庭。其餘小衆不能去者，保南山羌，號小月氏。",
       "mentions": [
         {
+          "entity_id": "pl_dy_006",
           "start": 0,
           "end": 3,
-          "entity_id": "place_dy_003",
-          "entity_name": "月氏",
           "text": "大月氏"
         },
         {
+          "entity_id": "pl_dy_004",
           "start": 7,
           "end": 9,
-          "entity_id": "place_dy_001",
-          "entity_name": "大宛",
           "text": "大宛"
         },
         {
+          "entity_id": "pl_dy_025",
           "start": 17,
           "end": 19,
-          "entity_id": "place_dy_020",
-          "entity_name": "媯水",
           "text": "媯水"
         },
         {
+          "entity_id": "p_dy_016",
           "start": 24,
           "end": 26,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
         },
         {
+          "entity_id": "pl_dy_010",
           "start": 29,
           "end": 31,
-          "entity_id": "place_dy_021",
-          "entity_name": "安息",
           "text": "安息"
         },
         {
+          "entity_id": "p_dy_012",
           "start": 34,
           "end": 36,
-          "entity_id": "place_dy_006",
-          "entity_name": "康居",
           "text": "康居"
         },
         {
+          "entity_id": "c_dy_002",
           "start": 37,
           "end": 39,
-          "entity_id": "concept_dy_003",
-          "entity_name": "行國",
           "text": "行國"
         },
         {
+          "entity_id": "pl_dy_034",
+          "start": 44,
+          "end": 45,
+          "text": "徙"
+        },
+        {
+          "entity_id": "pl_dy_002",
           "start": 47,
           "end": 49,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "c_dy_004",
+          "start": 52,
+          "end": 54,
+          "text": "控弦"
+        },
+        {
+          "entity_id": "pl_dy_002",
           "start": 66,
           "end": 68,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "p_dy_005",
           "start": 70,
-          "end": 72,
-          "entity_id": "person_dy_004",
-          "entity_name": "冒頓單于",
-          "text": "冒頓"
+          "end": 73,
+          "text": "冒頓立"
         },
         {
-          "start": 76,
+          "entity_id": "e_dy_001",
+          "start": 75,
           "end": 78,
-          "entity_id": "place_dy_003",
-          "entity_name": "月氏",
-          "text": "月氏"
+          "text": "破月氏"
         },
         {
+          "entity_id": "pl_dy_002",
           "start": 80,
           "end": 82,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "p_dy_006",
           "start": 82,
           "end": 86,
-          "entity_id": "person_dy_005",
-          "entity_name": "老上單于",
           "text": "老上單于"
         },
         {
+          "entity_id": "pl_dy_006",
           "start": 88,
           "end": 90,
-          "entity_id": "place_dy_003",
-          "entity_name": "月氏",
           "text": "月氏"
         },
         {
+          "entity_id": "pl_dy_006",
           "start": 100,
           "end": 102,
-          "entity_id": "place_dy_003",
-          "entity_name": "月氏",
           "text": "月氏"
         },
         {
+          "entity_id": "pl_dy_023",
           "start": 103,
           "end": 105,
-          "entity_id": "place_dy_022",
-          "entity_name": "敦煌",
           "text": "敦煌"
         },
         {
+          "entity_id": "pl_dy_024",
+          "start": 106,
+          "end": 108,
+          "text": "祁連"
+        },
+        {
+          "entity_id": "pl_dy_002",
           "start": 115,
           "end": 117,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "p_dy_016",
           "start": 129,
           "end": 131,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
         },
         {
+          "entity_id": "pl_dy_025",
           "start": 137,
           "end": 139,
-          "entity_id": "place_dy_020",
-          "entity_name": "媯水",
           "text": "媯水"
         },
         {
+          "entity_id": "pl_dy_016",
           "start": 155,
           "end": 157,
-          "entity_id": "place_dy_008",
-          "entity_name": "南山",
           "text": "南山"
         },
         {
-          "start": 161,
+          "entity_id": "pl_dy_064",
+          "start": 160,
           "end": 163,
-          "entity_id": "place_dy_003",
-          "entity_name": "月氏",
-          "text": "月氏"
+          "text": "小月氏"
         }
       ]
     },
@@ -817,66 +969,57 @@
       "text": "安息⟦0⟧在大月氏西可數千里。其俗土著，耕田，田稻麥，蒲陶酒。城邑如大宛。其屬小大數百城，地方數千里，最爲大國。臨媯水，有市，民商賈用車及船，行旁國或數千里。以銀爲錢，錢如其王面，⟦1⟧王死輙更錢，效王面焉。畫革旁行以爲書記。⟦2⟧⟦3⟧其西則條枝，北有奄蔡、黎軒。⟦4⟧",
       "mentions": [
         {
+          "entity_id": "pl_dy_010",
           "start": 0,
           "end": 2,
-          "entity_id": "place_dy_021",
-          "entity_name": "安息",
           "text": "安息"
         },
         {
+          "entity_id": "pl_dy_006",
           "start": 6,
           "end": 9,
-          "entity_id": "place_dy_003",
-          "entity_name": "月氏",
           "text": "大月氏"
         },
         {
+          "entity_id": "c_dy_003",
           "start": 17,
           "end": 19,
-          "entity_id": "concept_dy_002",
-          "entity_name": "土著",
           "text": "土著"
         },
         {
+          "entity_id": "c_dy_009",
           "start": 27,
           "end": 30,
-          "entity_id": "concept_dy_005",
-          "entity_name": "蒲陶酒",
           "text": "蒲陶酒"
         },
         {
+          "entity_id": "pl_dy_004",
           "start": 34,
           "end": 36,
-          "entity_id": "place_dy_001",
-          "entity_name": "大宛",
           "text": "大宛"
         },
         {
+          "entity_id": "pl_dy_025",
           "start": 57,
           "end": 59,
-          "entity_id": "place_dy_020",
-          "entity_name": "媯水",
           "text": "媯水"
         },
         {
+          "entity_id": "p_dy_018",
           "start": 122,
           "end": 124,
-          "entity_id": "place_dy_024",
-          "entity_name": "條枝",
           "text": "條枝"
         },
         {
+          "entity_id": "pl_dy_009",
           "start": 127,
           "end": 129,
-          "entity_id": "place_dy_018",
-          "entity_name": "奄蔡",
           "text": "奄蔡"
         },
         {
+          "entity_id": "pl_dy_012",
           "start": 130,
           "end": 132,
-          "entity_id": "place_dy_025",
-          "entity_name": "黎軒",
           "text": "黎軒"
         }
       ]
@@ -886,59 +1029,51 @@
       "text": "條枝⟦0⟧在安息西數千里，臨西海。暑溼。耕田，田稻。有大鳥，卵如甕。⟦1⟧人衆甚多，往往有小君長，而安息役屬之，以爲外國。國善眩。⟦2⟧⟦3⟧安息長老傳聞條枝有弱水、西王母，而未嘗見。⟦4⟧⟦5⟧",
       "mentions": [
         {
+          "entity_id": "p_dy_018",
           "start": 0,
           "end": 2,
-          "entity_id": "place_dy_024",
-          "entity_name": "條枝",
           "text": "條枝"
         },
         {
+          "entity_id": "pl_dy_010",
           "start": 6,
           "end": 8,
-          "entity_id": "place_dy_021",
-          "entity_name": "安息",
           "text": "安息"
         },
         {
+          "entity_id": "pl_dy_019",
           "start": 14,
           "end": 16,
-          "entity_id": "place_dy_013",
-          "entity_name": "西海",
           "text": "西海"
         },
         {
+          "entity_id": "pl_dy_010",
           "start": 50,
           "end": 52,
-          "entity_id": "place_dy_021",
-          "entity_name": "安息",
           "text": "安息"
         },
         {
+          "entity_id": "pl_dy_010",
           "start": 71,
           "end": 73,
-          "entity_id": "place_dy_021",
-          "entity_name": "安息",
           "text": "安息"
         },
         {
+          "entity_id": "p_dy_018",
           "start": 77,
           "end": 79,
-          "entity_id": "place_dy_024",
-          "entity_name": "條枝",
           "text": "條枝"
         },
         {
+          "entity_id": "pl_dy_026",
           "start": 80,
           "end": 82,
-          "entity_id": "place_dy_059",
-          "entity_name": "弱水",
           "text": "弱水"
         },
         {
+          "entity_id": "c_dy_021",
           "start": 83,
           "end": 86,
-          "entity_id": "place_dy_060",
-          "entity_name": "西王母",
           "text": "西王母"
         }
       ]
@@ -948,67 +1083,70 @@
       "text": "大夏在大宛西南二千餘里媯水南。其俗土著，有城屋，與大宛同俗。無大王長，往往城邑置小長。其兵弱，畏戰。善賈市。及大月氏西徙，攻敗之，皆臣畜大夏。大夏民多，可百餘萬。其都曰藍市城，有市販賈諸物。其東南有身毒國。⟦0⟧⟦1⟧⟦2⟧",
       "mentions": [
         {
+          "entity_id": "p_dy_016",
           "start": 0,
           "end": 2,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
         },
         {
+          "entity_id": "pl_dy_004",
           "start": 3,
           "end": 5,
-          "entity_id": "place_dy_001",
-          "entity_name": "大宛",
           "text": "大宛"
         },
         {
+          "entity_id": "pl_dy_025",
           "start": 11,
           "end": 13,
-          "entity_id": "place_dy_020",
-          "entity_name": "媯水",
           "text": "媯水"
         },
         {
+          "entity_id": "c_dy_003",
           "start": 17,
           "end": 19,
-          "entity_id": "concept_dy_002",
-          "entity_name": "土著",
           "text": "土著"
         },
         {
+          "entity_id": "pl_dy_004",
           "start": 25,
           "end": 27,
-          "entity_id": "place_dy_001",
-          "entity_name": "大宛",
           "text": "大宛"
         },
         {
+          "entity_id": "pl_dy_006",
           "start": 55,
           "end": 58,
-          "entity_id": "place_dy_003",
-          "entity_name": "月氏",
           "text": "大月氏"
         },
         {
+          "entity_id": "pl_dy_034",
+          "start": 59,
+          "end": 60,
+          "text": "徙"
+        },
+        {
+          "entity_id": "p_dy_016",
           "start": 68,
           "end": 70,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
         },
         {
+          "entity_id": "p_dy_016",
           "start": 71,
           "end": 73,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
         },
         {
+          "entity_id": "pl_dy_063",
+          "start": 84,
+          "end": 87,
+          "text": "藍市城"
+        },
+        {
+          "entity_id": "p_dy_019",
           "start": 99,
-          "end": 101,
-          "entity_id": "place_dy_026",
-          "entity_name": "身毒",
-          "text": "身毒"
+          "end": 102,
+          "text": "身毒國"
         }
       ]
     },
@@ -1017,95 +1155,118 @@
       "text": "騫曰：「臣在大夏時，見卭竹杖、蜀布。⟦0⟧問曰：『安得此？』大夏國人曰：『吾賈人往市之身毒。身毒在大夏東南可數千里。其俗土著，大與大夏同，而卑溼暑熱云。其人民乘象以戰。其國臨大水焉。』⟦1⟧以騫度之，大夏去漢萬二千里，居漢西南。今身毒國又居大夏東南數千里，有蜀物，此其去蜀不遠矣。今使大夏，從羌中，險，羌人惡之；少北，則爲匈奴所得；從蜀宜徑，⟦2⟧又無寇。」",
       "mentions": [
         {
+          "entity_id": "p_dy_001",
+          "start": 0,
+          "end": 1,
+          "text": "騫"
+        },
+        {
+          "entity_id": "p_dy_016",
           "start": 6,
           "end": 8,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
         },
         {
+          "entity_id": "pl_dy_035",
+          "start": 11,
+          "end": 12,
+          "text": "卭"
+        },
+        {
+          "entity_id": "p_dy_016",
           "start": 30,
-          "end": 32,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
-          "text": "大夏"
+          "end": 34,
+          "text": "大夏國人"
         },
         {
+          "entity_id": "p_dy_019",
           "start": 43,
           "end": 45,
-          "entity_id": "place_dy_026",
-          "entity_name": "身毒",
           "text": "身毒"
         },
         {
+          "entity_id": "p_dy_019",
           "start": 46,
           "end": 48,
-          "entity_id": "place_dy_026",
-          "entity_name": "身毒",
           "text": "身毒"
         },
         {
+          "entity_id": "p_dy_016",
           "start": 49,
           "end": 51,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
         },
         {
+          "entity_id": "c_dy_003",
           "start": 60,
           "end": 62,
-          "entity_id": "concept_dy_002",
-          "entity_name": "土著",
           "text": "土著"
         },
         {
+          "entity_id": "p_dy_016",
           "start": 65,
           "end": 67,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
         },
         {
+          "entity_id": "p_dy_001",
+          "start": 96,
+          "end": 97,
+          "text": "騫"
+        },
+        {
+          "entity_id": "p_dy_016",
           "start": 100,
           "end": 102,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
         },
         {
-          "start": 115,
-          "end": 117,
-          "entity_id": "place_dy_026",
-          "entity_name": "身毒",
-          "text": "身毒"
+          "entity_id": "pl_dy_001",
+          "start": 103,
+          "end": 104,
+          "text": "漢"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 110,
+          "end": 111,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_019",
+          "start": 115,
+          "end": 118,
+          "text": "身毒國"
+        },
+        {
+          "entity_id": "p_dy_016",
           "start": 120,
           "end": 122,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
         },
         {
+          "entity_id": "p_dy_016",
           "start": 142,
           "end": 144,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
         },
         {
+          "entity_id": "pl_dy_017",
           "start": 146,
           "end": 148,
-          "entity_id": "place_dy_009",
-          "entity_name": "羌中",
           "text": "羌中"
         },
         {
+          "entity_id": "pl_dy_002",
           "start": 161,
           "end": 163,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
+        },
+        {
+          "entity_id": "e_dy_009",
+          "start": 166,
+          "end": 170,
+          "text": "從蜀宜徑"
         }
       ]
     },
@@ -1114,109 +1275,208 @@
       "text": "天子旣聞大宛及大夏、安息之屬皆大國，多奇物，土著，頗與中國同業，而兵弱，貴漢財物；其北有大月氏、康居之屬，兵彊，可以賂遺設利朝也。且誠得而以義屬之，則廣地萬里，重九譯，⟦0⟧致殊俗，威德徧於四海。天子欣然，以騫言爲然，乃令騫因蜀犍爲⟦1⟧發間使，四道並出：出駹，出冉，出徙，⟦2⟧⟦3⟧⟦4⟧出卭、僰，⟦5⟧皆各行一二千里。其北方閉氐、筰，⟦6⟧⟦7⟧⟦8⟧南方閉巂、昆明。⟦9⟧昆明之屬無君長，善寇盜，輒殺略漢使，終莫得通。然聞其西可千餘里有乘象國，名曰滇越，⟦10⟧⟦11⟧而蜀賈姦出物者或至焉，於是漢以求大夏道始通滇國。初，漢欲通西南夷，費多，道不通，罷之。及張騫言可以通大夏，乃復事西南夷。",
       "mentions": [
         {
+          "entity_id": "p_dy_003",
           "start": 0,
           "end": 2,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
           "text": "天子"
         },
         {
+          "entity_id": "pl_dy_004",
           "start": 4,
           "end": 6,
-          "entity_id": "place_dy_001",
-          "entity_name": "大宛",
           "text": "大宛"
         },
         {
+          "entity_id": "p_dy_016",
           "start": 7,
           "end": 9,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
         },
         {
+          "entity_id": "pl_dy_010",
           "start": 10,
           "end": 12,
-          "entity_id": "place_dy_021",
-          "entity_name": "安息",
           "text": "安息"
         },
         {
+          "entity_id": "c_dy_003",
           "start": 22,
           "end": 24,
-          "entity_id": "concept_dy_002",
-          "entity_name": "土著",
           "text": "土著"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 27,
+          "end": 29,
+          "text": "中國"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 37,
+          "end": 38,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_006",
           "start": 44,
           "end": 47,
-          "entity_id": "place_dy_003",
-          "entity_name": "月氏",
           "text": "大月氏"
         },
         {
+          "entity_id": "p_dy_012",
           "start": 48,
           "end": 50,
-          "entity_id": "place_dy_006",
-          "entity_name": "康居",
           "text": "康居"
         },
         {
+          "entity_id": "c_dy_012",
+          "start": 69,
+          "end": 73,
+          "text": "以義屬之"
+        },
+        {
+          "entity_id": "c_dy_011",
           "start": 80,
           "end": 83,
-          "entity_id": "concept_dy_009",
-          "entity_name": "重九譯",
           "text": "重九譯"
         },
         {
+          "entity_id": "p_dy_003",
           "start": 98,
           "end": 100,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
           "text": "天子"
         },
         {
+          "entity_id": "p_dy_001",
+          "start": 104,
+          "end": 105,
+          "text": "騫"
+        },
+        {
+          "entity_id": "p_dy_001",
+          "start": 111,
+          "end": 112,
+          "text": "騫"
+        },
+        {
+          "entity_id": "pl_dy_031",
+          "start": 114,
+          "end": 116,
+          "text": "犍爲"
+        },
+        {
+          "entity_id": "pl_dy_032",
+          "start": 129,
+          "end": 130,
+          "text": "駹"
+        },
+        {
+          "entity_id": "pl_dy_033",
+          "start": 132,
+          "end": 133,
+          "text": "冉"
+        },
+        {
+          "entity_id": "pl_dy_034",
+          "start": 135,
+          "end": 136,
+          "text": "徙"
+        },
+        {
+          "entity_id": "pl_dy_035",
+          "start": 147,
+          "end": 148,
+          "text": "卭"
+        },
+        {
+          "entity_id": "pl_dy_036",
+          "start": 149,
+          "end": 150,
+          "text": "僰"
+        },
+        {
+          "entity_id": "pl_dy_037",
+          "start": 166,
+          "end": 167,
+          "text": "氐"
+        },
+        {
+          "entity_id": "pl_dy_038",
+          "start": 168,
+          "end": 169,
+          "text": "筰"
+        },
+        {
+          "entity_id": "pl_dy_039",
+          "start": 182,
+          "end": 183,
+          "text": "巂"
+        },
+        {
+          "entity_id": "pl_dy_040",
           "start": 184,
           "end": 186,
-          "entity_id": "place_dy_042",
-          "entity_name": "昆明",
           "text": "昆明"
         },
         {
+          "entity_id": "pl_dy_040",
           "start": 190,
           "end": 192,
-          "entity_id": "place_dy_042",
-          "entity_name": "昆明",
           "text": "昆明"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 205,
+          "end": 206,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_014",
           "start": 228,
           "end": 230,
-          "entity_id": "place_dy_043",
-          "entity_name": "滇越",
           "text": "滇越"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 252,
+          "end": 253,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_016",
           "start": 255,
           "end": 257,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
         },
         {
+          "entity_id": "pl_dy_015",
           "start": 260,
           "end": 262,
-          "entity_id": "place_dy_043",
-          "entity_name": "滇越",
           "text": "滇國"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 265,
+          "end": 266,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_001",
+          "start": 283,
+          "end": 285,
+          "text": "張騫"
+        },
+        {
+          "entity_id": "p_dy_016",
           "start": 289,
           "end": 291,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
+        },
+        {
+          "entity_id": "e_dy_009",
+          "start": 292,
+          "end": 298,
+          "text": "乃復事西南夷"
         }
       ]
     },
@@ -1225,144 +1485,118 @@
       "text": "騫以校尉從大將軍擊匈奴，知水草處，軍得以不乏，乃封騫爲博望侯。⟦0⟧⟦1⟧是歲元朔六年也。其明年，騫爲衞尉，與李將軍俱出右北平擊匈奴。匈奴圍李將軍，軍失亡多；而騫後期當斬，贖爲庶人。是歲漢遣驃騎破匈奴西城數萬人，至祁連山。其明年，渾邪王率其民降漢，而金城、河西西並南山至鹽澤空無匈奴。匈奴時有候者到，而希矣。其後二年，漢擊走單于於幕北。",
       "mentions": [
         {
-          "start": 5,
-          "end": 8,
-          "entity_id": "person_dy_006",
-          "entity_name": "衛青（大將軍）",
-          "text": "大將軍"
-        },
-        {
-          "start": 9,
+          "entity_id": "e_dy_011",
+          "start": 0,
           "end": 11,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
-          "text": "匈奴"
+          "text": "騫以校尉從大將軍擊匈奴"
         },
         {
-          "start": 27,
+          "entity_id": "e_dy_011",
+          "start": 24,
           "end": 30,
-          "entity_id": "person_dy_001",
-          "entity_name": "張騫（博望侯）",
-          "text": "博望侯"
+          "text": "封騫爲博望侯"
         },
         {
-          "start": 55,
-          "end": 58,
-          "entity_id": "person_dy_007",
-          "entity_name": "李廣（李將軍）",
-          "text": "李將軍"
+          "entity_id": "p_dy_001",
+          "start": 49,
+          "end": 50,
+          "text": "騫"
         },
         {
-          "start": 60,
+          "entity_id": "e_dy_012",
+          "start": 54,
           "end": 63,
-          "entity_id": "place_dy_029",
-          "entity_name": "右北平",
-          "text": "右北平"
+          "text": "與李將軍俱出右北平"
         },
         {
+          "entity_id": "pl_dy_002",
           "start": 64,
           "end": 66,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "pl_dy_002",
           "start": 67,
           "end": 69,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "p_dy_023",
           "start": 70,
           "end": 73,
-          "entity_id": "person_dy_007",
-          "entity_name": "李廣（李將軍）",
           "text": "李將軍"
         },
         {
+          "entity_id": "e_dy_012",
+          "start": 80,
+          "end": 85,
+          "text": "騫後期當斬"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 93,
+          "end": 94,
+          "text": "漢"
+        },
+        {
+          "entity_id": "e_dy_013",
           "start": 95,
-          "end": 97,
-          "entity_id": "person_dy_008",
-          "entity_name": "霍去病（驃騎將軍）",
-          "text": "驃騎"
-        },
-        {
-          "start": 98,
           "end": 100,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
-          "text": "匈奴"
+          "text": "驃騎破匈奴"
         },
         {
-          "start": 100,
-          "end": 102,
-          "entity_id": "place_dy_034",
-          "entity_name": "西城",
-          "text": "西城"
-        },
-        {
-          "start": 107,
+          "entity_id": "e_dy_013",
+          "start": 106,
           "end": 110,
-          "entity_id": "place_dy_030",
-          "entity_name": "祁連山",
-          "text": "祁連山"
+          "text": "至祁連山"
         },
         {
+          "entity_id": "e_dy_014",
           "start": 115,
-          "end": 118,
-          "entity_id": "person_dy_009",
-          "entity_name": "渾邪王",
-          "text": "渾邪王"
+          "end": 123,
+          "text": "渾邪王率其民降漢"
         },
         {
+          "entity_id": "pl_dy_046",
           "start": 125,
           "end": 127,
-          "entity_id": "place_dy_031",
-          "entity_name": "金城",
           "text": "金城"
         },
         {
+          "entity_id": "pl_dy_047",
           "start": 128,
           "end": 130,
-          "entity_id": "place_dy_032",
-          "entity_name": "河西",
           "text": "河西"
         },
         {
+          "entity_id": "pl_dy_016",
           "start": 132,
           "end": 134,
-          "entity_id": "place_dy_008",
-          "entity_name": "南山",
           "text": "南山"
         },
         {
+          "entity_id": "pl_dy_018",
           "start": 135,
           "end": 137,
-          "entity_id": "place_dy_014",
-          "entity_name": "鹽澤",
           "text": "鹽澤"
         },
         {
+          "entity_id": "pl_dy_002",
           "start": 139,
           "end": 141,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "pl_dy_002",
           "start": 142,
           "end": 144,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
-          "start": 165,
+          "entity_id": "e_dy_015",
+          "start": 159,
           "end": 167,
-          "entity_id": "place_dy_033",
-          "entity_name": "幕北",
-          "text": "幕北"
+          "text": "漢擊走單于於幕北"
         }
       ]
     },
@@ -1371,109 +1605,226 @@
       "text": "是後天子數問騫大夏之屬。騫旣失侯，因言曰：「臣居匈奴中，聞烏孫王號昆莫，昆莫之父，匈奴西邊小國也。匈奴攻殺其父，⟦0⟧而昆莫生弃於野。烏嗛肉蜚其上，⟦1⟧⟦2⟧狼往乳之。單于怪以爲神，而收長之。及壯，使將兵，數有功，單于復以其父之民予昆莫，令長守於西城。昆莫收養其民，攻旁小邑，控弦數萬，習攻戰。單于死，昆莫乃率其衆遠徙，中立，不肯朝會匈奴。匈奴遣奇兵擊，不勝，以爲神而遠之，因羈屬之，不大攻。今單于新困於漢，而故渾邪地空無人。蠻夷俗貪漢財物，今誠以此時而厚幣賂烏孫，招以益東，居故渾邪之地，與漢結昆弟，其勢宜聽，聽則是斷匈奴右臂也。旣連烏孫，自其西大夏之屬皆可招來而爲外臣。」天子以爲然，拜騫爲中郎將，將三百人，馬各二匹，牛羊以萬數，齎金幣帛直數千巨萬，多持節副使，道可使，使遺之他旁國。",
       "mentions": [
         {
+          "entity_id": "p_dy_003",
           "start": 2,
           "end": 4,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
           "text": "天子"
         },
         {
+          "entity_id": "p_dy_001",
+          "start": 6,
+          "end": 7,
+          "text": "騫"
+        },
+        {
+          "entity_id": "p_dy_016",
           "start": 7,
           "end": 9,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
         },
         {
+          "entity_id": "p_dy_001",
+          "start": 12,
+          "end": 13,
+          "text": "騫"
+        },
+        {
+          "entity_id": "pl_dy_002",
           "start": 24,
           "end": 26,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "p_dy_013",
           "start": 29,
-          "end": 31,
-          "entity_id": "place_dy_010",
-          "entity_name": "烏孫",
-          "text": "烏孫"
+          "end": 32,
+          "text": "烏孫王"
         },
         {
+          "entity_id": "p_dy_013",
+          "start": 33,
+          "end": 35,
+          "text": "昆莫"
+        },
+        {
+          "entity_id": "p_dy_013",
+          "start": 36,
+          "end": 38,
+          "text": "昆莫"
+        },
+        {
+          "entity_id": "pl_dy_002",
           "start": 41,
           "end": 43,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "pl_dy_002",
           "start": 49,
           "end": 51,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
-          "start": 124,
-          "end": 126,
-          "entity_id": "place_dy_034",
-          "entity_name": "西城",
-          "text": "西城"
+          "entity_id": "e_dy_061",
+          "start": 60,
+          "end": 66,
+          "text": "昆莫生弃於野"
         },
         {
+          "entity_id": "e_dy_061",
+          "start": 67,
+          "end": 73,
+          "text": "烏嗛肉蜚其上"
+        },
+        {
+          "entity_id": "p_dy_004",
+          "start": 85,
+          "end": 87,
+          "text": "單于"
+        },
+        {
+          "entity_id": "p_dy_004",
+          "start": 108,
+          "end": 110,
+          "text": "單于"
+        },
+        {
+          "entity_id": "p_dy_013",
+          "start": 117,
+          "end": 119,
+          "text": "昆莫"
+        },
+        {
+          "entity_id": "p_dy_013",
+          "start": 127,
+          "end": 129,
+          "text": "昆莫"
+        },
+        {
+          "entity_id": "c_dy_004",
+          "start": 139,
+          "end": 141,
+          "text": "控弦"
+        },
+        {
+          "entity_id": "p_dy_004",
+          "start": 148,
+          "end": 150,
+          "text": "單于"
+        },
+        {
+          "entity_id": "p_dy_013",
+          "start": 152,
+          "end": 154,
+          "text": "昆莫"
+        },
+        {
+          "entity_id": "pl_dy_034",
+          "start": 159,
+          "end": 160,
+          "text": "徙"
+        },
+        {
+          "entity_id": "pl_dy_002",
           "start": 168,
           "end": 170,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "pl_dy_002",
           "start": 171,
           "end": 173,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
-          "start": 189,
-          "end": 191,
-          "entity_id": "concept_dy_010",
-          "entity_name": "羈屬",
-          "text": "羈屬"
+          "entity_id": "p_dy_004",
+          "start": 198,
+          "end": 200,
+          "text": "單于"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 203,
+          "end": 204,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_020",
+          "start": 207,
+          "end": 209,
+          "text": "渾邪"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 218,
+          "end": 219,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_008",
           "start": 231,
           "end": 233,
-          "entity_id": "place_dy_010",
-          "entity_name": "烏孫",
           "text": "烏孫"
         },
         {
-          "start": 260,
-          "end": 265,
-          "entity_id": "concept_dy_007",
-          "entity_name": "斷匈奴右臂",
-          "text": "斷匈奴右臂"
+          "entity_id": "e_dy_016",
+          "start": 234,
+          "end": 238,
+          "text": "招以益東"
         },
         {
+          "entity_id": "p_dy_020",
+          "start": 241,
+          "end": 243,
+          "text": "渾邪"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 247,
+          "end": 248,
+          "text": "漢"
+        },
+        {
+          "entity_id": "e_dy_016",
+          "start": 260,
+          "end": 266,
+          "text": "斷匈奴右臂也"
+        },
+        {
+          "entity_id": "pl_dy_008",
           "start": 269,
           "end": 271,
-          "entity_id": "place_dy_010",
-          "entity_name": "烏孫",
           "text": "烏孫"
         },
         {
+          "entity_id": "p_dy_016",
           "start": 275,
           "end": 277,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
         },
         {
+          "entity_id": "p_dy_003",
           "start": 289,
           "end": 291,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
           "text": "天子"
+        },
+        {
+          "entity_id": "e_dy_017",
+          "start": 295,
+          "end": 301,
+          "text": "拜騫爲中郎將"
+        },
+        {
+          "entity_id": "e_dy_017",
+          "start": 302,
+          "end": 306,
+          "text": "將三百人"
+        },
+        {
+          "entity_id": "c_dy_015",
+          "start": 329,
+          "end": 331,
+          "text": "持節"
         }
       ]
     },
@@ -1482,123 +1833,244 @@
       "text": "騫旣至烏孫，烏孫王昆莫見漢使如單于禮，騫大慙，知蠻夷貪，乃曰：「天子致賜，王不拜則還賜。」昆莫起拜賜，其他如故。騫諭使指曰：「烏孫能東居渾邪地，則漢遣翁主爲昆莫夫人。」烏孫國分，王老，而遠漢，未知其大小，素服屬匈奴日久矣，且又近之，其大臣皆畏胡，不欲移徙，王不能專制。騫不得其要領。昆莫有十餘子，其中子曰大祿，彊，善將衆，將衆別居萬餘騎。大祿兄爲太子，太子有子曰岑娶，而太子蚤死。臨死謂其父昆莫曰：「必以岑娶爲太子，無令他人代之。」昆莫哀而許之，卒以岑娶爲太子。大祿怒其不得代太子也，乃收其諸昆弟，將其衆畔，謀攻岑娶及昆莫。昆莫老，常恐大祿殺岑娶，予岑娶萬餘騎別居，而昆莫有萬餘騎自備，國衆分爲三，而其大總取羈屬昆莫，昆莫亦以此不敢專約於騫。",
       "mentions": [
         {
+          "entity_id": "p_dy_001",
+          "start": 0,
+          "end": 1,
+          "text": "騫"
+        },
+        {
+          "entity_id": "pl_dy_008",
           "start": 3,
           "end": 5,
-          "entity_id": "place_dy_010",
-          "entity_name": "烏孫",
           "text": "烏孫"
         },
         {
+          "entity_id": "p_dy_013",
           "start": 6,
           "end": 11,
-          "entity_id": "person_dy_010",
-          "entity_name": "昆莫（獵驕靡）",
           "text": "烏孫王昆莫"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 12,
+          "end": 13,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_004",
+          "start": 15,
+          "end": 17,
+          "text": "單于"
+        },
+        {
+          "entity_id": "p_dy_001",
+          "start": 19,
+          "end": 20,
+          "text": "騫"
+        },
+        {
+          "entity_id": "p_dy_003",
           "start": 32,
           "end": 34,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
           "text": "天子"
         },
         {
+          "entity_id": "p_dy_013",
+          "start": 45,
+          "end": 47,
+          "text": "昆莫"
+        },
+        {
+          "entity_id": "p_dy_001",
+          "start": 56,
+          "end": 57,
+          "text": "騫"
+        },
+        {
+          "entity_id": "pl_dy_008",
           "start": 63,
           "end": 65,
-          "entity_id": "place_dy_010",
-          "entity_name": "烏孫",
           "text": "烏孫"
         },
         {
+          "entity_id": "p_dy_020",
+          "start": 68,
+          "end": 70,
+          "text": "渾邪"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 73,
+          "end": 74,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_040",
+          "start": 75,
+          "end": 77,
+          "text": "翁主"
+        },
+        {
+          "entity_id": "p_dy_013",
+          "start": 78,
+          "end": 80,
+          "text": "昆莫"
+        },
+        {
+          "entity_id": "pl_dy_008",
           "start": 84,
           "end": 86,
-          "entity_id": "place_dy_010",
-          "entity_name": "烏孫",
           "text": "烏孫"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 94,
+          "end": 95,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_002",
           "start": 105,
           "end": 107,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "pl_dy_002",
+          "start": 121,
+          "end": 122,
+          "text": "胡"
+        },
+        {
+          "entity_id": "pl_dy_034",
+          "start": 126,
+          "end": 127,
+          "text": "徙"
+        },
+        {
+          "entity_id": "e_dy_018",
+          "start": 134,
+          "end": 140,
+          "text": "騫不得其要領"
+        },
+        {
+          "entity_id": "p_dy_013",
+          "start": 141,
+          "end": 143,
+          "text": "昆莫"
+        },
+        {
+          "entity_id": "p_dy_014",
           "start": 152,
           "end": 154,
-          "entity_id": "person_dy_011",
-          "entity_name": "大祿",
           "text": "大祿"
         },
         {
+          "entity_id": "p_dy_014",
           "start": 169,
           "end": 171,
-          "entity_id": "person_dy_011",
-          "entity_name": "大祿",
           "text": "大祿"
         },
         {
+          "entity_id": "p_dy_015",
           "start": 181,
           "end": 183,
-          "entity_id": "person_dy_012",
-          "entity_name": "岑娶",
           "text": "岑娶"
         },
         {
+          "entity_id": "p_dy_013",
+          "start": 195,
+          "end": 197,
+          "text": "昆莫"
+        },
+        {
+          "entity_id": "p_dy_015",
           "start": 202,
           "end": 204,
-          "entity_id": "person_dy_012",
-          "entity_name": "岑娶",
           "text": "岑娶"
         },
         {
+          "entity_id": "p_dy_013",
+          "start": 216,
+          "end": 218,
+          "text": "昆莫"
+        },
+        {
+          "entity_id": "p_dy_015",
           "start": 225,
           "end": 227,
-          "entity_id": "person_dy_012",
-          "entity_name": "岑娶",
           "text": "岑娶"
         },
         {
+          "entity_id": "p_dy_014",
           "start": 231,
           "end": 233,
-          "entity_id": "person_dy_011",
-          "entity_name": "大祿",
           "text": "大祿"
         },
         {
+          "entity_id": "p_dy_015",
           "start": 256,
           "end": 258,
-          "entity_id": "person_dy_012",
-          "entity_name": "岑娶",
           "text": "岑娶"
         },
         {
+          "entity_id": "p_dy_013",
+          "start": 259,
+          "end": 261,
+          "text": "昆莫"
+        },
+        {
+          "entity_id": "p_dy_013",
+          "start": 262,
+          "end": 264,
+          "text": "昆莫"
+        },
+        {
+          "entity_id": "p_dy_014",
           "start": 268,
           "end": 270,
-          "entity_id": "person_dy_011",
-          "entity_name": "大祿",
           "text": "大祿"
         },
         {
+          "entity_id": "p_dy_015",
           "start": 271,
           "end": 273,
-          "entity_id": "person_dy_012",
-          "entity_name": "岑娶",
           "text": "岑娶"
         },
         {
+          "entity_id": "p_dy_015",
           "start": 275,
           "end": 277,
-          "entity_id": "person_dy_012",
-          "entity_name": "岑娶",
           "text": "岑娶"
         },
         {
-          "start": 304,
-          "end": 306,
-          "entity_id": "concept_dy_010",
-          "entity_name": "羈屬",
-          "text": "羈屬"
+          "entity_id": "p_dy_013",
+          "start": 284,
+          "end": 286,
+          "text": "昆莫"
+        },
+        {
+          "entity_id": "e_dy_062",
+          "start": 293,
+          "end": 298,
+          "text": "國衆分爲三"
+        },
+        {
+          "entity_id": "p_dy_013",
+          "start": 306,
+          "end": 308,
+          "text": "昆莫"
+        },
+        {
+          "entity_id": "p_dy_013",
+          "start": 309,
+          "end": 311,
+          "text": "昆莫"
+        },
+        {
+          "entity_id": "p_dy_001",
+          "start": 319,
+          "end": 320,
+          "text": "騫"
         }
       ]
     },
@@ -1607,120 +2079,172 @@
       "text": "騫因分遣副使使大宛、康居、大月氏、大夏、安息、身毒、于窴、扜冞及諸旁國。烏孫發導譯送騫還，騫與烏孫遣使數十人，馬數十匹報謝，因令窺漢，知其廣大。",
       "mentions": [
         {
+          "entity_id": "p_dy_001",
+          "start": 0,
+          "end": 1,
+          "text": "騫"
+        },
+        {
+          "entity_id": "e_dy_019",
+          "start": 1,
+          "end": 6,
+          "text": "因分遣副使"
+        },
+        {
+          "entity_id": "pl_dy_004",
           "start": 7,
           "end": 9,
-          "entity_id": "place_dy_001",
-          "entity_name": "大宛",
           "text": "大宛"
         },
         {
+          "entity_id": "p_dy_012",
           "start": 10,
           "end": 12,
-          "entity_id": "place_dy_006",
-          "entity_name": "康居",
           "text": "康居"
         },
         {
+          "entity_id": "pl_dy_006",
           "start": 13,
           "end": 16,
-          "entity_id": "place_dy_003",
-          "entity_name": "月氏",
           "text": "大月氏"
         },
         {
+          "entity_id": "p_dy_016",
           "start": 17,
           "end": 19,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
         },
         {
+          "entity_id": "pl_dy_010",
           "start": 20,
           "end": 22,
-          "entity_id": "place_dy_021",
-          "entity_name": "安息",
           "text": "安息"
         },
         {
+          "entity_id": "p_dy_019",
           "start": 23,
           "end": 25,
-          "entity_id": "place_dy_026",
-          "entity_name": "身毒",
           "text": "身毒"
         },
         {
+          "entity_id": "pl_dy_028",
           "start": 26,
           "end": 28,
-          "entity_id": "place_dy_012",
-          "entity_name": "于窴",
           "text": "于窴"
         },
         {
+          "entity_id": "pl_dy_029",
           "start": 29,
           "end": 31,
-          "entity_id": "place_dy_011",
-          "entity_name": "扜冞",
           "text": "扜冞"
         },
         {
+          "entity_id": "e_dy_020",
           "start": 36,
-          "end": 38,
-          "entity_id": "place_dy_010",
-          "entity_name": "烏孫",
+          "end": 44,
+          "text": "烏孫發導譯送騫還"
+        },
+        {
+          "entity_id": "p_dy_001",
+          "start": 45,
+          "end": 46,
+          "text": "騫"
+        },
+        {
+          "entity_id": "pl_dy_008",
+          "start": 47,
+          "end": 49,
           "text": "烏孫"
         },
         {
-          "start": 47,
-          "end": 49,
-          "entity_id": "place_dy_010",
-          "entity_name": "烏孫",
-          "text": "烏孫"
+          "entity_id": "e_dy_020",
+          "start": 63,
+          "end": 66,
+          "text": "令窺漢"
         }
       ]
     },
     {
       "para_id": "p20",
       "text": "騫還到，拜爲大行，列於九卿。歲餘，卒。",
-      "mentions": []
+      "mentions": [
+        {
+          "entity_id": "p_dy_001",
+          "start": 0,
+          "end": 1,
+          "text": "騫"
+        },
+        {
+          "entity_id": "e_dy_021",
+          "start": 4,
+          "end": 8,
+          "text": "拜爲大行"
+        }
+      ]
     },
     {
       "para_id": "p21",
       "text": "烏孫使旣見漢人衆富厚，歸報其國，其國乃益重漢。其後歲餘，騫所遣使通大夏之屬者皆頗與其人俱來，⟦0⟧於是西北國始通於漢矣。然張騫鑿空，⟦1⟧⟦2⟧其後使往者皆稱博望侯，以爲質於外國，⟦3⟧外國由此信之。",
       "mentions": [
         {
+          "entity_id": "pl_dy_008",
           "start": 0,
           "end": 2,
-          "entity_id": "place_dy_010",
-          "entity_name": "烏孫",
           "text": "烏孫"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 5,
+          "end": 6,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 21,
+          "end": 22,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_001",
+          "start": 28,
+          "end": 29,
+          "text": "騫"
+        },
+        {
+          "entity_id": "p_dy_016",
           "start": 33,
           "end": 35,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
         },
         {
+          "entity_id": "e_dy_022",
           "start": 51,
-          "end": 58,
-          "entity_id": "event_dy_016",
-          "entity_name": "西北國始通於漢",
-          "text": "西北國始通於漢"
+          "end": 59,
+          "text": "西北國始通於漢矣"
         },
         {
+          "entity_id": "p_dy_001",
+          "start": 61,
+          "end": 63,
+          "text": "張騫"
+        },
+        {
+          "entity_id": "c_dy_001",
           "start": 63,
           "end": 65,
-          "entity_id": "concept_dy_001",
-          "entity_name": "鑿空",
           "text": "鑿空"
         },
         {
-          "start": 79,
+          "entity_id": "c_dy_005",
+          "start": 77,
           "end": 82,
-          "entity_id": "person_dy_001",
-          "entity_name": "張騫（博望侯）",
-          "text": "博望侯"
+          "text": "皆稱博望侯"
+        },
+        {
+          "entity_id": "c_dy_005",
+          "start": 83,
+          "end": 89,
+          "text": "以爲質於外國"
         }
       ]
     },
@@ -1729,186 +2253,202 @@
       "text": "自博望侯騫死後，匈奴聞漢通烏孫，怒，欲擊之。及漢使烏孫，若⟦0⟧出其南，抵大宛、大月氏相屬，烏孫乃恐，使使獻馬，願得尚漢女翁主爲昆弟。天子問羣臣議計，皆曰「必先納聘，然後乃遣女」。初，天子發書易，⟦1⟧云「神馬當從西北來」。得烏孫馬好，名曰「天馬」。及得大宛汗血馬，益壯，更名烏孫馬曰「西極」，名大宛馬曰「天馬」云。而漢始築令居以西，⟦2⟧初置酒泉郡以通西北國。因益發使抵安息、奄蔡、黎軒、條枝、身毒國。而天子好宛馬，使者相望於道。諸使外國一輩大者數百，少者百餘人，人所齎操大放博望侯時。其後益習而衰少焉。漢率一歲中使多者十餘，少者五六輩，遠者八九歲，近者數歲而反。",
       "mentions": [
         {
+          "entity_id": "p_dy_001",
           "start": 1,
           "end": 4,
-          "entity_id": "person_dy_001",
-          "entity_name": "張騫（博望侯）",
           "text": "博望侯"
         },
         {
+          "entity_id": "p_dy_001",
+          "start": 4,
+          "end": 5,
+          "text": "騫"
+        },
+        {
+          "entity_id": "pl_dy_002",
           "start": 8,
           "end": 10,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 11,
+          "end": 12,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_008",
           "start": 13,
           "end": 15,
-          "entity_id": "place_dy_010",
-          "entity_name": "烏孫",
           "text": "烏孫"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 23,
+          "end": 24,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_008",
           "start": 25,
           "end": 27,
-          "entity_id": "place_dy_010",
-          "entity_name": "烏孫",
           "text": "烏孫"
         },
         {
+          "entity_id": "pl_dy_004",
           "start": 37,
           "end": 39,
-          "entity_id": "place_dy_001",
-          "entity_name": "大宛",
           "text": "大宛"
         },
         {
+          "entity_id": "pl_dy_006",
           "start": 40,
           "end": 43,
-          "entity_id": "place_dy_003",
-          "entity_name": "月氏",
           "text": "大月氏"
         },
         {
+          "entity_id": "pl_dy_008",
           "start": 46,
           "end": 48,
-          "entity_id": "place_dy_010",
-          "entity_name": "烏孫",
           "text": "烏孫"
         },
         {
-          "start": 59,
-          "end": 63,
-          "entity_id": "person_dy_013",
-          "entity_name": "江都翁主（劉細君）",
-          "text": "漢女翁主"
+          "entity_id": "e_dy_025",
+          "start": 53,
+          "end": 55,
+          "text": "獻馬"
         },
         {
+          "entity_id": "e_dy_025",
+          "start": 56,
+          "end": 63,
+          "text": "願得尚漢女翁主"
+        },
+        {
+          "entity_id": "p_dy_003",
           "start": 67,
           "end": 69,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
           "text": "天子"
         },
         {
+          "entity_id": "c_dy_007",
+          "start": 78,
+          "end": 82,
+          "text": "必先納聘"
+        },
+        {
+          "entity_id": "p_dy_003",
           "start": 92,
           "end": 94,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
           "text": "天子"
         },
         {
+          "entity_id": "pl_dy_008",
           "start": 113,
           "end": 115,
-          "entity_id": "place_dy_010",
-          "entity_name": "烏孫",
           "text": "烏孫"
         },
         {
+          "entity_id": "c_dy_008",
           "start": 121,
           "end": 123,
-          "entity_id": "concept_dy_004",
-          "entity_name": "汗血馬",
           "text": "天馬"
         },
         {
+          "entity_id": "pl_dy_004",
           "start": 127,
           "end": 129,
-          "entity_id": "place_dy_001",
-          "entity_name": "大宛",
           "text": "大宛"
         },
         {
+          "entity_id": "c_dy_008",
           "start": 129,
-          "end": 132,
-          "entity_id": "concept_dy_004",
-          "entity_name": "汗血馬",
-          "text": "汗血馬"
+          "end": 131,
+          "text": "汗血"
         },
         {
+          "entity_id": "pl_dy_008",
           "start": 138,
           "end": 140,
-          "entity_id": "place_dy_010",
-          "entity_name": "烏孫",
           "text": "烏孫"
         },
         {
+          "entity_id": "c_dy_008",
+          "start": 143,
+          "end": 145,
+          "text": "西極"
+        },
+        {
+          "entity_id": "pl_dy_004",
           "start": 148,
           "end": 150,
-          "entity_id": "place_dy_001",
-          "entity_name": "大宛",
           "text": "大宛"
         },
         {
+          "entity_id": "c_dy_008",
           "start": 153,
           "end": 155,
-          "entity_id": "concept_dy_004",
-          "entity_name": "汗血馬",
           "text": "天馬"
         },
         {
-          "start": 162,
-          "end": 164,
-          "entity_id": "place_dy_035",
-          "entity_name": "令居",
-          "text": "令居"
+          "entity_id": "e_dy_024",
+          "start": 159,
+          "end": 166,
+          "text": "漢始築令居以西"
         },
         {
-          "start": 172,
-          "end": 175,
-          "entity_id": "place_dy_036",
-          "entity_name": "酒泉郡",
-          "text": "酒泉郡"
+          "entity_id": "e_dy_023",
+          "start": 170,
+          "end": 180,
+          "text": "初置酒泉郡以通西北國"
         },
         {
+          "entity_id": "pl_dy_010",
           "start": 186,
           "end": 188,
-          "entity_id": "place_dy_021",
-          "entity_name": "安息",
           "text": "安息"
         },
         {
+          "entity_id": "pl_dy_009",
           "start": 189,
           "end": 191,
-          "entity_id": "place_dy_018",
-          "entity_name": "奄蔡",
           "text": "奄蔡"
         },
         {
+          "entity_id": "pl_dy_012",
           "start": 192,
           "end": 194,
-          "entity_id": "place_dy_025",
-          "entity_name": "黎軒",
           "text": "黎軒"
         },
         {
+          "entity_id": "p_dy_018",
           "start": 195,
           "end": 197,
-          "entity_id": "place_dy_024",
-          "entity_name": "條枝",
           "text": "條枝"
         },
         {
+          "entity_id": "p_dy_019",
           "start": 198,
-          "end": 200,
-          "entity_id": "place_dy_026",
-          "entity_name": "身毒",
-          "text": "身毒"
+          "end": 201,
+          "text": "身毒國"
         },
         {
+          "entity_id": "p_dy_003",
           "start": 203,
           "end": 205,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
           "text": "天子"
         },
         {
+          "entity_id": "p_dy_001",
           "start": 239,
           "end": 242,
-          "entity_id": "person_dy_001",
-          "entity_name": "張騫（博望侯）",
           "text": "博望侯"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 253,
+          "end": 254,
+          "text": "漢"
         }
       ]
     },
@@ -1917,116 +2457,94 @@
       "text": "是時漢旣滅越，而蜀、西南夷皆震，請吏入朝。於是置益州、越巂、䍧牱、沈黎、汶山郡，欲地接以前通大夏。⟦0⟧乃遣使柏始昌、呂越人等歲十餘輩，出此初郡抵大夏，⟦1⟧皆復閉昆明，爲所殺，奪幣財，終莫能通至大夏焉。於是漢發三輔罪人，因巴蜀士數萬人，遣兩將軍郭昌、衞廣等往擊昆明之遮漢使者，⟦2⟧斬首虜數萬人而去。其後遣使，昆明復爲寇，竟莫能得通。而北道酒泉抵大夏，使者旣多，而外國益厭漢幣，不貴其物。",
       "mentions": [
         {
-          "start": 24,
-          "end": 26,
-          "entity_id": "place_dy_037",
-          "entity_name": "益州",
-          "text": "益州"
+          "entity_id": "pl_dy_001",
+          "start": 2,
+          "end": 3,
+          "text": "漢"
         },
         {
-          "start": 27,
-          "end": 29,
-          "entity_id": "place_dy_038",
-          "entity_name": "越巂",
-          "text": "越巂"
+          "entity_id": "e_dy_027",
+          "start": 23,
+          "end": 39,
+          "text": "置益州、越巂、䍧牱、沈黎、汶山郡"
         },
         {
-          "start": 30,
-          "end": 32,
-          "entity_id": "place_dy_039",
-          "entity_name": "䍧牱",
-          "text": "䍧牱"
-        },
-        {
-          "start": 33,
-          "end": 35,
-          "entity_id": "place_dy_040",
-          "entity_name": "沈黎",
-          "text": "沈黎"
-        },
-        {
-          "start": 36,
-          "end": 38,
-          "entity_id": "place_dy_041",
-          "entity_name": "汶山",
-          "text": "汶山"
-        },
-        {
+          "entity_id": "p_dy_016",
           "start": 46,
           "end": 48,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
         },
         {
-          "start": 55,
-          "end": 58,
-          "entity_id": "person_dy_034",
-          "entity_name": "柏始昌",
-          "text": "柏始昌"
+          "entity_id": "e_dy_029",
+          "start": 53,
+          "end": 63,
+          "text": "遣使柏始昌、呂越人等"
         },
         {
-          "start": 59,
-          "end": 62,
-          "entity_id": "person_dy_035",
-          "entity_name": "呂越人",
-          "text": "呂越人"
-        },
-        {
+          "entity_id": "p_dy_016",
           "start": 73,
           "end": 75,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
         },
         {
+          "entity_id": "pl_dy_040",
           "start": 82,
           "end": 84,
-          "entity_id": "place_dy_042",
-          "entity_name": "昆明",
           "text": "昆明"
         },
         {
+          "entity_id": "p_dy_016",
           "start": 98,
           "end": 100,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
         },
         {
-          "start": 123,
-          "end": 125,
-          "entity_id": "person_dy_032",
-          "entity_name": "郭昌",
-          "text": "郭昌"
+          "entity_id": "pl_dy_001",
+          "start": 104,
+          "end": 105,
+          "text": "漢"
         },
         {
-          "start": 131,
+          "entity_id": "pl_dy_062",
+          "start": 106,
+          "end": 108,
+          "text": "三輔"
+        },
+        {
+          "entity_id": "e_dy_028",
+          "start": 119,
           "end": 133,
-          "entity_id": "place_dy_042",
-          "entity_name": "昆明",
-          "text": "昆明"
+          "text": "遣兩將軍郭昌、衞廣等往擊昆明"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 135,
+          "end": 136,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_040",
           "start": 156,
           "end": 158,
-          "entity_id": "place_dy_042",
-          "entity_name": "昆明",
           "text": "昆明"
         },
         {
+          "entity_id": "pl_dy_050",
           "start": 171,
           "end": 173,
-          "entity_id": "place_dy_036",
-          "entity_name": "酒泉郡",
           "text": "酒泉"
         },
         {
+          "entity_id": "p_dy_016",
           "start": 174,
           "end": 176,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 187,
+          "end": 188,
+          "text": "漢"
         }
       ]
     },
@@ -2035,151 +2553,214 @@
       "text": "自博望侯開外國道以尊貴，其後從吏卒皆爭上書言外國奇怪利害，求使。天子爲其絕遠，非人所樂往，聽其言，予節，募吏民毋問所從來，爲具備人衆遣之，以廣其道。來還不能毋侵盜幣物，及使失指，天子爲其習之，輙覆案致重罪，以激怒令贖，復求使。使端無窮，而輕犯法。其吏卒亦輒復盛推外國所有，言大者予節，言小者爲副，故妄言無行之徒皆爭效之。其使皆貧人子，私縣官齎物，欲賤市以私其利外國。外國亦厭漢使人人有言輕重，⟦0⟧度漢兵遠不能至，而禁其食物以苦漢使。漢使乏絕積怨，至相攻擊。而樓蘭、姑師小國耳，⟦1⟧當空道，攻劫漢使王恢等尤甚。⟦2⟧而匈奴奇兵時時遮擊使西國者。使者爭徧言外國灾害，皆有城邑，兵弱易擊。於是天子以故遣從驃侯破奴將屬國騎及郡兵數萬，至匈河水，欲以擊胡，胡皆去。其明年，擊姑師，破奴與輕騎七百餘先至，虜樓蘭王，遂破姑師。因舉兵威以困烏孫、大宛之屬。還，封破奴爲浞野侯。⟦3⟧王恢⟦4⟧數使，爲樓蘭所苦，言天子，天子發兵令恢佐破奴擊破之，封恢爲浩侯。⟦5⟧於是酒泉列亭鄣至玉門矣。⟦6⟧⟦7⟧⟦8⟧",
       "mentions": [
         {
+          "entity_id": "p_dy_001",
           "start": 1,
           "end": 4,
-          "entity_id": "person_dy_001",
-          "entity_name": "張騫（博望侯）",
           "text": "博望侯"
         },
         {
+          "entity_id": "p_dy_003",
+          "start": 19,
+          "end": 20,
+          "text": "上"
+        },
+        {
+          "entity_id": "p_dy_003",
           "start": 32,
           "end": 34,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
           "text": "天子"
         },
         {
+          "entity_id": "c_dy_015",
+          "start": 49,
+          "end": 51,
+          "text": "予節"
+        },
+        {
+          "entity_id": "p_dy_003",
           "start": 89,
           "end": 91,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
           "text": "天子"
         },
         {
+          "entity_id": "c_dy_015",
+          "start": 139,
+          "end": 141,
+          "text": "予節"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 187,
+          "end": 188,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 200,
+          "end": 201,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 214,
+          "end": 215,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 217,
+          "end": 218,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_021",
           "start": 230,
           "end": 232,
-          "entity_id": "place_dy_015",
-          "entity_name": "樓蘭",
           "text": "樓蘭"
         },
         {
+          "entity_id": "pl_dy_022",
           "start": 233,
           "end": 235,
-          "entity_id": "place_dy_016",
-          "entity_name": "姑師",
           "text": "姑師"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 248,
+          "end": 249,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_025",
+          "start": 250,
+          "end": 252,
+          "text": "王恢"
+        },
+        {
+          "entity_id": "pl_dy_002",
           "start": 260,
           "end": 262,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "p_dy_003",
           "start": 295,
           "end": 297,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
           "text": "天子"
         },
         {
+          "entity_id": "p_dy_024",
           "start": 300,
           "end": 305,
-          "entity_id": "person_dy_015",
-          "entity_name": "趙破奴（浞野侯）",
           "text": "從驃侯破奴"
         },
         {
+          "entity_id": "pl_dy_053",
           "start": 316,
           "end": 319,
-          "entity_id": "place_dy_044",
-          "entity_name": "匈河水",
           "text": "匈河水"
         },
         {
+          "entity_id": "pl_dy_002",
+          "start": 323,
+          "end": 324,
+          "text": "胡"
+        },
+        {
+          "entity_id": "pl_dy_002",
+          "start": 325,
+          "end": 326,
+          "text": "胡"
+        },
+        {
+          "entity_id": "pl_dy_022",
           "start": 334,
           "end": 336,
-          "entity_id": "place_dy_016",
-          "entity_name": "姑師",
           "text": "姑師"
         },
         {
-          "start": 349,
-          "end": 351,
-          "entity_id": "place_dy_015",
-          "entity_name": "樓蘭",
-          "text": "樓蘭"
+          "entity_id": "p_dy_024",
+          "start": 337,
+          "end": 339,
+          "text": "破奴"
         },
         {
-          "start": 355,
+          "entity_id": "e_dy_030",
+          "start": 348,
+          "end": 352,
+          "text": "虜樓蘭王"
+        },
+        {
+          "entity_id": "e_dy_030",
+          "start": 353,
           "end": 357,
-          "entity_id": "place_dy_016",
-          "entity_name": "姑師",
-          "text": "姑師"
+          "text": "遂破姑師"
         },
         {
+          "entity_id": "pl_dy_008",
           "start": 364,
           "end": 366,
-          "entity_id": "place_dy_010",
-          "entity_name": "烏孫",
           "text": "烏孫"
         },
         {
+          "entity_id": "pl_dy_004",
           "start": 367,
           "end": 369,
-          "entity_id": "place_dy_001",
-          "entity_name": "大宛",
           "text": "大宛"
         },
         {
+          "entity_id": "p_dy_024",
+          "start": 375,
+          "end": 377,
+          "text": "破奴"
+        },
+        {
+          "entity_id": "p_dy_024",
           "start": 378,
           "end": 381,
-          "entity_id": "person_dy_015",
-          "entity_name": "趙破奴（浞野侯）",
           "text": "浞野侯"
         },
         {
+          "entity_id": "p_dy_025",
+          "start": 385,
+          "end": 387,
+          "text": "王恢"
+        },
+        {
+          "entity_id": "pl_dy_021",
           "start": 394,
           "end": 396,
-          "entity_id": "place_dy_015",
-          "entity_name": "樓蘭",
           "text": "樓蘭"
         },
         {
+          "entity_id": "p_dy_003",
           "start": 400,
           "end": 402,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
           "text": "天子"
         },
         {
+          "entity_id": "p_dy_003",
           "start": 403,
           "end": 405,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
           "text": "天子"
         },
         {
+          "entity_id": "p_dy_024",
+          "start": 410,
+          "end": 412,
+          "text": "破奴"
+        },
+        {
+          "entity_id": "e_dy_031",
+          "start": 416,
+          "end": 421,
+          "text": "封恢爲浩侯"
+        },
+        {
+          "entity_id": "e_dy_032",
           "start": 427,
-          "end": 429,
-          "entity_id": "place_dy_036",
-          "entity_name": "酒泉郡",
-          "text": "酒泉"
-        },
-        {
-          "start": 430,
-          "end": 432,
-          "entity_id": "concept_dy_012",
-          "entity_name": "亭鄣",
-          "text": "亭鄣"
-        },
-        {
-          "start": 433,
-          "end": 435,
-          "entity_id": "place_dy_045",
-          "entity_name": "玉門",
-          "text": "玉門"
+          "end": 436,
+          "text": "酒泉列亭鄣至玉門矣"
         }
       ]
     },
@@ -2188,52 +2769,81 @@
       "text": "烏孫以千匹馬聘漢女，漢遣宗室女江都翁主⟦0⟧往妻烏孫，烏孫王昆莫以爲右夫人。匈奴亦遣女妻昆莫，昆莫以爲左夫人。昆莫曰「我老」，乃令其孫岑娶妻翁主。烏孫多馬，其富人至有四五千匹馬。",
       "mentions": [
         {
+          "entity_id": "pl_dy_008",
           "start": 0,
           "end": 2,
-          "entity_id": "place_dy_010",
-          "entity_name": "烏孫",
           "text": "烏孫"
         },
         {
+          "entity_id": "p_dy_040",
+          "start": 7,
+          "end": 9,
+          "text": "漢女"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 10,
+          "end": 11,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_040",
           "start": 15,
           "end": 19,
-          "entity_id": "person_dy_013",
-          "entity_name": "江都翁主（劉細君）",
           "text": "江都翁主"
         },
         {
+          "entity_id": "pl_dy_008",
           "start": 24,
           "end": 26,
-          "entity_id": "place_dy_010",
-          "entity_name": "烏孫",
           "text": "烏孫"
         },
         {
+          "entity_id": "p_dy_013",
           "start": 27,
           "end": 32,
-          "entity_id": "person_dy_010",
-          "entity_name": "昆莫（獵驕靡）",
           "text": "烏孫王昆莫"
         },
         {
+          "entity_id": "pl_dy_002",
           "start": 38,
           "end": 40,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "p_dy_013",
+          "start": 44,
+          "end": 46,
+          "text": "昆莫"
+        },
+        {
+          "entity_id": "p_dy_013",
+          "start": 47,
+          "end": 49,
+          "text": "昆莫"
+        },
+        {
+          "entity_id": "p_dy_013",
+          "start": 55,
+          "end": 57,
+          "text": "昆莫"
+        },
+        {
+          "entity_id": "p_dy_015",
           "start": 67,
           "end": 69,
-          "entity_id": "person_dy_012",
-          "entity_name": "岑娶",
           "text": "岑娶"
         },
         {
+          "entity_id": "p_dy_040",
+          "start": 70,
+          "end": 72,
+          "text": "翁主"
+        },
+        {
+          "entity_id": "pl_dy_008",
           "start": 73,
           "end": 75,
-          "entity_id": "place_dy_010",
-          "entity_name": "烏孫",
           "text": "烏孫"
         }
       ]
@@ -2243,73 +2853,93 @@
       "text": "初，漢使至安息，安息王令將二萬騎迎於東界。東界去王都數千里。行比至，過數十城，人民相屬甚多。漢使還，而後發使隨漢使來觀漢廣大，以大鳥卵及黎軒善眩人獻于漢。⟦0⟧及宛西小國驩潛、大益，宛東姑師、扞冞、蘇薤之屬，皆隨漢使獻見天子。天子大悅。",
       "mentions": [
         {
+          "entity_id": "pl_dy_001",
+          "start": 2,
+          "end": 3,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_010",
           "start": 5,
           "end": 7,
-          "entity_id": "place_dy_021",
-          "entity_name": "安息",
           "text": "安息"
         },
         {
+          "entity_id": "p_dy_017",
           "start": 8,
-          "end": 10,
-          "entity_id": "place_dy_021",
-          "entity_name": "安息",
-          "text": "安息"
+          "end": 11,
+          "text": "安息王"
         },
         {
-          "start": 68,
-          "end": 70,
-          "entity_id": "place_dy_025",
-          "entity_name": "黎軒",
-          "text": "黎軒"
+          "entity_id": "pl_dy_001",
+          "start": 46,
+          "end": 47,
+          "text": "漢"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 55,
+          "end": 56,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 59,
+          "end": 60,
+          "text": "漢"
+        },
+        {
+          "entity_id": "e_dy_034",
+          "start": 63,
+          "end": 76,
+          "text": "以大鳥卵及黎軒善眩人獻于漢"
+        },
+        {
+          "entity_id": "pl_dy_067",
           "start": 85,
           "end": 87,
-          "entity_id": "place_dy_053",
-          "entity_name": "驩潛",
           "text": "驩潛"
         },
         {
+          "entity_id": "pl_dy_066",
           "start": 88,
           "end": 90,
-          "entity_id": "place_dy_054",
-          "entity_name": "大益",
           "text": "大益"
         },
         {
+          "entity_id": "pl_dy_022",
           "start": 93,
           "end": 95,
-          "entity_id": "place_dy_016",
-          "entity_name": "姑師",
           "text": "姑師"
         },
         {
+          "entity_id": "pl_dy_029",
           "start": 96,
           "end": 98,
-          "entity_id": "place_dy_011",
-          "entity_name": "扜冞",
           "text": "扞冞"
         },
         {
+          "entity_id": "pl_dy_068",
           "start": 99,
           "end": 101,
-          "entity_id": "place_dy_055",
-          "entity_name": "蘇薤",
           "text": "蘇薤"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 106,
+          "end": 107,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_003",
           "start": 110,
           "end": 112,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
           "text": "天子"
         },
         {
+          "entity_id": "p_dy_003",
           "start": 113,
           "end": 115,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
           "text": "天子"
         }
       ]
@@ -2319,25 +2949,40 @@
       "text": "而漢使窮河源，河源出于窴，其山多玉石，采來，⟦0⟧天子案古圖書，名河所出山曰崑崙云。",
       "mentions": [
         {
+          "entity_id": "pl_dy_001",
+          "start": 1,
+          "end": 2,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_065",
+          "start": 4,
+          "end": 6,
+          "text": "河源"
+        },
+        {
+          "entity_id": "pl_dy_065",
+          "start": 7,
+          "end": 9,
+          "text": "河源"
+        },
+        {
+          "entity_id": "pl_dy_028",
           "start": 10,
           "end": 12,
-          "entity_id": "place_dy_012",
-          "entity_name": "于窴",
           "text": "于窴"
         },
         {
+          "entity_id": "p_dy_003",
           "start": 25,
           "end": 27,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
           "text": "天子"
         },
         {
-          "start": 38,
+          "entity_id": "e_dy_035",
+          "start": 32,
           "end": 40,
-          "entity_id": "place_dy_056",
-          "entity_name": "崑崙",
-          "text": "崑崙"
+          "text": "名河所出山曰崑崙"
         }
       ]
     },
@@ -2346,18 +2991,64 @@
       "text": "是時上方數廵狩海上，乃悉從外國客，大都多人則過之，散財帛以賞賜，厚具以饒給之，以覽示漢富厚焉。於是大觳抵，出奇戲諸怪物，多聚觀者，行賞賜，酒池肉林，令外國客徧觀名倉庫府藏之積，見漢之廣大，傾駭之。及加其眩者之工，而觳抵奇戲歲增變，甚盛益興，自此始。",
       "mentions": [
         {
-          "start": 50,
+          "entity_id": "p_dy_003",
+          "start": 2,
+          "end": 3,
+          "text": "上"
+        },
+        {
+          "entity_id": "pl_dy_069",
+          "start": 7,
+          "end": 9,
+          "text": "海上"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 42,
+          "end": 43,
+          "text": "漢"
+        },
+        {
+          "entity_id": "e_dy_036",
+          "start": 49,
           "end": 52,
-          "entity_id": "concept_dy_014",
-          "entity_name": "角抵奇戲",
+          "text": "大觳抵"
+        },
+        {
+          "entity_id": "e_dy_036",
+          "start": 53,
+          "end": 59,
+          "text": "出奇戲諸怪物"
+        },
+        {
+          "entity_id": "c_dy_024",
+          "start": 69,
+          "end": 73,
+          "text": "酒池肉林"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 89,
+          "end": 90,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_046",
+          "start": 101,
+          "end": 103,
+          "text": "眩者"
+        },
+        {
+          "entity_id": "c_dy_020",
+          "start": 107,
+          "end": 109,
           "text": "觳抵"
         },
         {
-          "start": 107,
-          "end": 109,
-          "entity_id": "concept_dy_014",
-          "entity_name": "角抵奇戲",
-          "text": "觳抵"
+          "entity_id": "c_dy_020",
+          "start": 109,
+          "end": 111,
+          "text": "奇戲"
         }
       ]
     },
@@ -2366,109 +3057,130 @@
       "text": "西北外國使，更來更去。宛以西，皆自以遠，尚驕恣晏然，未可詘以禮羈縻而使也。自烏孫以西至安息，以近匈奴，匈奴困月氏也，匈奴使持單于一信，則國國傳送食，不敢留苦；及至漢使，非出幣帛不得食，不市畜不得騎用。所以然者，遠漢，而漢多財物，故必市乃得所欲，然以畏匈奴於漢使焉。宛左右以蒲陶爲酒，富人藏酒至萬餘石，久者數十歲不敗。俗嗜酒，馬嗜苜蓿。漢使取其實來，於是天子始種苜蓿、蒲陶肥饒地。及天馬多，外國使來衆，則離宮別觀旁盡種蒲萄、苜蓿極望。自大宛以西至安息，國雖頗異言，然大同俗，相知言。其人皆深眼，多鬚𩑺，善市賈，爭分銖。俗貴女子，女子所言而丈夫乃決正。其地皆無絲漆，不知鑄錢器。⟦0⟧及漢使亡卒降，教鑄作他兵器。得漢黃白金，輙以爲器，不用爲幣。",
       "mentions": [
         {
-          "start": 31,
-          "end": 33,
-          "entity_id": "concept_dy_010",
-          "entity_name": "羈屬",
-          "text": "羈縻"
-        },
-        {
+          "entity_id": "pl_dy_008",
           "start": 38,
           "end": 40,
-          "entity_id": "place_dy_010",
-          "entity_name": "烏孫",
           "text": "烏孫"
         },
         {
+          "entity_id": "pl_dy_010",
           "start": 43,
           "end": 45,
-          "entity_id": "place_dy_021",
-          "entity_name": "安息",
           "text": "安息"
         },
         {
+          "entity_id": "pl_dy_002",
           "start": 48,
           "end": 50,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "pl_dy_002",
           "start": 51,
           "end": 53,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "pl_dy_006",
           "start": 54,
           "end": 56,
-          "entity_id": "place_dy_003",
-          "entity_name": "月氏",
           "text": "月氏"
         },
         {
+          "entity_id": "pl_dy_002",
           "start": 58,
           "end": 60,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "p_dy_004",
+          "start": 62,
+          "end": 64,
+          "text": "單于"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 81,
+          "end": 82,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 106,
+          "end": 107,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 109,
+          "end": 110,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_002",
           "start": 125,
           "end": 127,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
           "text": "匈奴"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 128,
+          "end": 129,
+          "text": "漢"
+        },
+        {
+          "entity_id": "c_dy_010",
           "start": 164,
           "end": 166,
-          "entity_id": "concept_dy_006",
-          "entity_name": "苜蓿",
           "text": "苜蓿"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 167,
+          "end": 168,
+          "text": "漢"
+        },
+        {
+          "entity_id": "e_dy_037",
           "start": 176,
-          "end": 178,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
-          "text": "天子"
+          "end": 185,
+          "text": "天子始種苜蓿、蒲陶"
         },
         {
-          "start": 180,
-          "end": 182,
-          "entity_id": "concept_dy_006",
-          "entity_name": "苜蓿",
-          "text": "苜蓿"
-        },
-        {
+          "entity_id": "c_dy_008",
           "start": 190,
           "end": 192,
-          "entity_id": "concept_dy_004",
-          "entity_name": "汗血馬",
           "text": "天馬"
         },
         {
+          "entity_id": "c_dy_010",
           "start": 211,
           "end": 213,
-          "entity_id": "concept_dy_006",
-          "entity_name": "苜蓿",
           "text": "苜蓿"
         },
         {
+          "entity_id": "pl_dy_004",
           "start": 217,
           "end": 219,
-          "entity_id": "place_dy_001",
-          "entity_name": "大宛",
           "text": "大宛"
         },
         {
+          "entity_id": "pl_dy_010",
           "start": 222,
           "end": 224,
-          "entity_id": "place_dy_021",
-          "entity_name": "安息",
           "text": "安息"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 291,
+          "end": 292,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 305,
+          "end": 306,
+          "text": "漢"
         }
       ]
     },
@@ -2477,179 +3189,226 @@
       "text": "而漢使者往旣多，其少從率多進熟於天子，⟦0⟧言曰：「宛有善馬在貳師城，匿不肯與漢使。」天子旣好宛馬，聞之甘心，使壯士車令等持千金及金馬以請宛王貳師城善馬。宛國饒漢物，相與謀曰：「漢去我遠，而鹽水中數敗，⟦1⟧⟦2⟧出其北有胡寇，出其南乏水草。又且往往而絕邑，乏食者多。漢使數百人爲輩來，而常乏食，死者過半，是安能致大軍乎？無奈我何。且貳師馬，宛寶馬也。」遂不肯予漢使。漢使怒，妄言，⟦3⟧椎金馬而去。宛貴人怒曰：「漢使至輕我！」遣漢使去，令其東邊郁成遮攻殺漢使，取其財物。於是天子大怒。諸嘗使宛姚定漢等言宛兵弱，誠以漢兵不過三千人，彊弩射之，即盡虜破宛矣。天子已嘗使浞野侯攻樓蘭，以七百騎先至，虜其王，以定漢等言爲然，而欲侯寵姬李氏，拜李廣利爲貳師將軍，發屬國六千騎，及郡國惡少年數萬人，以往伐宛。期至貳師城取善馬，故號「貳師將軍」。趙始成爲軍正，故浩侯王恢使導軍，⟦4⟧而李哆爲校尉，⟦5⟧制軍事。是歲太初元年也。而關東蝗大起，蜚西至敦煌。",
       "mentions": [
         {
+          "entity_id": "pl_dy_001",
+          "start": 1,
+          "end": 2,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_003",
           "start": 16,
           "end": 18,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
           "text": "天子"
         },
         {
+          "entity_id": "c_dy_008",
           "start": 28,
           "end": 30,
-          "entity_id": "concept_dy_004",
-          "entity_name": "汗血馬",
           "text": "善馬"
         },
         {
+          "entity_id": "pl_dy_057",
           "start": 31,
           "end": 34,
-          "entity_id": "place_dy_046",
-          "entity_name": "貳師城",
           "text": "貳師城"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 39,
+          "end": 40,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_003",
           "start": 43,
           "end": 45,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
           "text": "天子"
         },
         {
+          "entity_id": "p_dy_029",
           "start": 58,
           "end": 60,
-          "entity_id": "person_dy_020",
-          "entity_name": "車令",
           "text": "車令"
         },
         {
-          "start": 71,
-          "end": 74,
-          "entity_id": "place_dy_046",
-          "entity_name": "貳師城",
-          "text": "貳師城"
-        },
-        {
-          "start": 74,
+          "entity_id": "e_dy_038",
+          "start": 61,
           "end": 76,
-          "entity_id": "concept_dy_004",
-          "entity_name": "汗血馬",
-          "text": "善馬"
+          "text": "持千金及金馬以請宛王貳師城善馬"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 80,
+          "end": 81,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 89,
+          "end": 90,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_018",
           "start": 95,
           "end": 97,
-          "entity_id": "place_dy_014",
-          "entity_name": "鹽澤",
           "text": "鹽水"
         },
         {
+          "entity_id": "pl_dy_002",
+          "start": 111,
+          "end": 112,
+          "text": "胡"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 134,
+          "end": 135,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_026",
           "start": 167,
-          "end": 170,
-          "entity_id": "concept_dy_004",
-          "entity_name": "汗血馬",
-          "text": "貳師馬"
+          "end": 169,
+          "text": "貳師"
         },
         {
-          "start": 223,
-          "end": 225,
-          "entity_id": "place_dy_047",
-          "entity_name": "郁成",
-          "text": "郁成"
+          "entity_id": "pl_dy_001",
+          "start": 181,
+          "end": 182,
+          "text": "漢"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 184,
+          "end": 185,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_047",
+          "start": 200,
+          "end": 203,
+          "text": "宛貴人"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 207,
+          "end": 208,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 215,
+          "end": 216,
+          "text": "漢"
+        },
+        {
+          "entity_id": "e_dy_039",
+          "start": 219,
+          "end": 230,
+          "text": "令其東邊郁成遮攻殺漢使"
+        },
+        {
+          "entity_id": "p_dy_003",
           "start": 238,
           "end": 240,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
           "text": "天子"
         },
         {
+          "entity_id": "p_dy_030",
           "start": 247,
           "end": 250,
-          "entity_id": "person_dy_023",
-          "entity_name": "姚定漢",
           "text": "姚定漢"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 258,
+          "end": 259,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_003",
           "start": 278,
           "end": 280,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
           "text": "天子"
         },
         {
+          "entity_id": "p_dy_024",
           "start": 283,
           "end": 286,
-          "entity_id": "person_dy_015",
-          "entity_name": "趙破奴（浞野侯）",
           "text": "浞野侯"
         },
         {
+          "entity_id": "pl_dy_021",
           "start": 287,
           "end": 289,
-          "entity_id": "place_dy_015",
-          "entity_name": "樓蘭",
           "text": "樓蘭"
         },
         {
-          "start": 319,
-          "end": 321,
-          "entity_id": "person_dy_017",
-          "entity_name": "李廣利（貳師將軍）",
-          "text": "廣利"
+          "entity_id": "p_dy_030",
+          "start": 302,
+          "end": 304,
+          "text": "定漢"
         },
         {
-          "start": 322,
+          "entity_id": "p_dy_043",
+          "start": 312,
+          "end": 316,
+          "text": "寵姬李氏"
+        },
+        {
+          "entity_id": "e_dy_040",
+          "start": 317,
           "end": 326,
-          "entity_id": "person_dy_017",
-          "entity_name": "李廣利（貳師將軍）",
-          "text": "貳師將軍"
+          "text": "拜李廣利爲貳師將軍"
         },
         {
+          "entity_id": "pl_dy_057",
           "start": 351,
           "end": 354,
-          "entity_id": "place_dy_046",
-          "entity_name": "貳師城",
           "text": "貳師城"
         },
         {
+          "entity_id": "c_dy_008",
           "start": 355,
           "end": 357,
-          "entity_id": "concept_dy_004",
-          "entity_name": "汗血馬",
           "text": "善馬"
         },
         {
+          "entity_id": "p_dy_026",
           "start": 361,
           "end": 365,
-          "entity_id": "person_dy_017",
-          "entity_name": "李廣利（貳師將軍）",
           "text": "貳師將軍"
         },
         {
+          "entity_id": "p_dy_027",
           "start": 367,
           "end": 370,
-          "entity_id": "person_dy_018",
-          "entity_name": "趙始成",
           "text": "趙始成"
         },
         {
-          "start": 375,
+          "entity_id": "p_dy_025",
+          "start": 374,
           "end": 379,
-          "entity_id": "person_dy_016",
-          "entity_name": "王恢（浩侯）",
-          "text": "浩侯王恢"
+          "text": "故浩侯王恢"
         },
         {
+          "entity_id": "p_dy_028",
           "start": 387,
           "end": 389,
-          "entity_id": "person_dy_019",
-          "entity_name": "李哆",
           "text": "李哆"
         },
         {
+          "entity_id": "e_dy_041",
           "start": 409,
-          "end": 411,
-          "entity_id": "place_dy_048",
-          "entity_name": "關東",
-          "text": "關東"
+          "end": 414,
+          "text": "關東蝗大起"
         },
         {
-          "start": 418,
+          "entity_id": "e_dy_041",
+          "start": 415,
           "end": 420,
-          "entity_id": "place_dy_022",
-          "entity_name": "敦煌",
-          "text": "敦煌"
+          "text": "蜚西至敦煌"
         }
       ]
     },
@@ -2658,80 +3417,99 @@
       "text": "貳師將軍軍旣西過鹽水，當道小國恐，各堅城守，不肯給食。攻之不能下。下者得食，不下者數日則去。比至郁成，士至者不過數千，皆飢罷。攻郁成，郁成大破之，所殺傷甚衆。貳師將軍與哆、始成等計：「至郁成尚不能舉，況至其王都乎？」引兵而還。往來二歲。還至燉煌，士不過什一二。使使上書言：「道遠多乏食；且士卒不患戰，患飢。人少，不足以拔宛。願且罷兵，益發而復往。」天子聞之，大怒，而使使遮玉門，曰軍有敢入者輒斬之！貳師恐，因留敦煌。",
       "mentions": [
         {
+          "entity_id": "p_dy_026",
           "start": 0,
           "end": 4,
-          "entity_id": "person_dy_017",
-          "entity_name": "李廣利（貳師將軍）",
           "text": "貳師將軍"
         },
         {
+          "entity_id": "pl_dy_018",
           "start": 8,
           "end": 10,
-          "entity_id": "place_dy_014",
-          "entity_name": "鹽澤",
           "text": "鹽水"
         },
         {
-          "start": 48,
+          "entity_id": "e_dy_042",
+          "start": 46,
           "end": 50,
-          "entity_id": "place_dy_047",
-          "entity_name": "郁成",
-          "text": "郁成"
+          "text": "比至郁成"
         },
         {
+          "entity_id": "p_dy_042",
           "start": 64,
           "end": 66,
-          "entity_id": "place_dy_047",
-          "entity_name": "郁成",
           "text": "郁成"
         },
         {
+          "entity_id": "p_dy_042",
           "start": 67,
           "end": 69,
-          "entity_id": "place_dy_047",
-          "entity_name": "郁成",
           "text": "郁成"
         },
         {
+          "entity_id": "p_dy_026",
           "start": 79,
           "end": 83,
-          "entity_id": "person_dy_017",
-          "entity_name": "李廣利（貳師將軍）",
           "text": "貳師將軍"
         },
         {
+          "entity_id": "p_dy_028",
+          "start": 84,
+          "end": 85,
+          "text": "哆"
+        },
+        {
+          "entity_id": "p_dy_027",
+          "start": 86,
+          "end": 88,
+          "text": "始成"
+        },
+        {
+          "entity_id": "p_dy_042",
           "start": 93,
           "end": 95,
-          "entity_id": "place_dy_047",
-          "entity_name": "郁成",
           "text": "郁成"
         },
         {
+          "entity_id": "e_dy_042",
+          "start": 108,
+          "end": 112,
+          "text": "引兵而還"
+        },
+        {
+          "entity_id": "pl_dy_023",
           "start": 120,
           "end": 122,
-          "entity_id": "place_dy_022",
-          "entity_name": "敦煌",
           "text": "燉煌"
         },
         {
+          "entity_id": "p_dy_003",
+          "start": 132,
+          "end": 133,
+          "text": "上"
+        },
+        {
+          "entity_id": "p_dy_003",
           "start": 174,
           "end": 176,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
           "text": "天子"
         },
         {
-          "start": 186,
+          "entity_id": "e_dy_043",
+          "start": 183,
           "end": 188,
-          "entity_id": "place_dy_045",
-          "entity_name": "玉門",
-          "text": "玉門"
+          "text": "使使遮玉門"
         },
         {
+          "entity_id": "p_dy_026",
+          "start": 199,
+          "end": 201,
+          "text": "貳師"
+        },
+        {
+          "entity_id": "pl_dy_023",
           "start": 205,
           "end": 207,
-          "entity_id": "place_dy_022",
-          "entity_name": "敦煌",
           "text": "敦煌"
         }
       ]
@@ -2741,115 +3519,141 @@
       "text": "其夏，漢亡浞野之兵二萬餘於匈奴。⟦0⟧公卿及議者皆願罷擊宛軍，專力攻胡。天子已業誅宛，宛小國而不能下，則大夏之屬輕漢，而宛善馬絕不來，烏孫、侖頭易苦漢使矣，⟦1⟧爲外國笑。乃案言伐宛尤不便者鄧光等，赦囚徒材官，益發惡少年及邊騎，歲餘而出燉煌者六萬人，負私從者不與。牛十萬，馬三萬餘匹，驢騾橐它以萬數。多齎糧，兵弩甚設，天下騷動，傳相奉伐宛，凡五十餘校尉。宛王城中無井，皆汲城外流水，於是乃遣水工徙其城下水空以空其城。⟦2⟧益發戍甲卒十八萬，酒泉、張掖北至居延、休屠以衞酒泉，⟦3⟧而發天下七科適，⟦4⟧及載糒給貳師。轉車人徒相連屬至敦煌。而拜習馬者二人爲執驅校尉，備破宛擇取其善馬云。",
       "mentions": [
         {
-          "start": 13,
+          "entity_id": "e_dy_044",
+          "start": 3,
           "end": 15,
-          "entity_id": "place_dy_002",
-          "entity_name": "匈奴",
-          "text": "匈奴"
+          "text": "漢亡浞野之兵二萬餘於匈奴"
         },
         {
+          "entity_id": "pl_dy_002",
+          "start": 34,
+          "end": 35,
+          "text": "胡"
+        },
+        {
+          "entity_id": "p_dy_003",
           "start": 36,
           "end": 38,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
           "text": "天子"
         },
         {
+          "entity_id": "p_dy_016",
           "start": 52,
           "end": 54,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 57,
+          "end": 58,
+          "text": "漢"
+        },
+        {
+          "entity_id": "c_dy_008",
           "start": 61,
           "end": 63,
-          "entity_id": "concept_dy_004",
-          "entity_name": "汗血馬",
           "text": "善馬"
         },
         {
+          "entity_id": "pl_dy_008",
           "start": 67,
           "end": 69,
-          "entity_id": "place_dy_010",
-          "entity_name": "烏孫",
           "text": "烏孫"
         },
         {
+          "entity_id": "pl_dy_059",
           "start": 70,
           "end": 72,
-          "entity_id": "place_dy_049",
-          "entity_name": "侖頭",
           "text": "侖頭"
         },
         {
-          "start": 95,
-          "end": 97,
-          "entity_id": "person_dy_024",
-          "entity_name": "鄧光",
-          "text": "鄧光"
+          "entity_id": "pl_dy_001",
+          "start": 74,
+          "end": 75,
+          "text": "漢"
         },
         {
-          "start": 118,
-          "end": 120,
-          "entity_id": "place_dy_022",
-          "entity_name": "敦煌",
-          "text": "燉煌"
+          "entity_id": "e_dy_045",
+          "start": 86,
+          "end": 98,
+          "text": "乃案言伐宛尤不便者鄧光等"
         },
         {
+          "entity_id": "e_dy_046",
+          "start": 114,
+          "end": 124,
+          "text": "歲餘而出燉煌者六萬人"
+        },
+        {
+          "entity_id": "p_dy_009",
+          "start": 177,
+          "end": 179,
+          "text": "宛王"
+        },
+        {
+          "entity_id": "e_dy_047",
+          "start": 194,
+          "end": 207,
+          "text": "遣水工徙其城下水空以空其城"
+        },
+        {
+          "entity_id": "e_dy_048",
+          "start": 211,
+          "end": 219,
+          "text": "益發戍甲卒十八萬"
+        },
+        {
+          "entity_id": "pl_dy_050",
           "start": 220,
           "end": 222,
-          "entity_id": "place_dy_036",
-          "entity_name": "酒泉郡",
           "text": "酒泉"
         },
         {
+          "entity_id": "pl_dy_056",
           "start": 223,
           "end": 225,
-          "entity_id": "place_dy_052",
-          "entity_name": "張掖",
           "text": "張掖"
         },
         {
+          "entity_id": "pl_dy_054",
           "start": 227,
           "end": 229,
-          "entity_id": "place_dy_050",
-          "entity_name": "居延",
           "text": "居延"
         },
         {
+          "entity_id": "pl_dy_055",
           "start": 230,
           "end": 232,
-          "entity_id": "place_dy_051",
-          "entity_name": "休屠",
           "text": "休屠"
         },
         {
+          "entity_id": "pl_dy_050",
           "start": 234,
           "end": 236,
-          "entity_id": "place_dy_036",
-          "entity_name": "酒泉郡",
           "text": "酒泉"
         },
         {
-          "start": 244,
+          "entity_id": "e_dy_049",
+          "start": 241,
           "end": 247,
-          "entity_id": "concept_dy_011",
-          "entity_name": "七科適",
-          "text": "七科適"
+          "text": "發天下七科適"
         },
         {
+          "entity_id": "e_dy_049",
+          "start": 252,
+          "end": 257,
+          "text": "載糒給貳師"
+        },
+        {
+          "entity_id": "pl_dy_023",
           "start": 266,
           "end": 268,
-          "entity_id": "place_dy_022",
-          "entity_name": "敦煌",
           "text": "敦煌"
         },
         {
+          "entity_id": "c_dy_008",
           "start": 288,
           "end": 290,
-          "entity_id": "concept_dy_004",
-          "entity_name": "汗血馬",
           "text": "善馬"
         }
       ]
@@ -2859,158 +3663,304 @@
       "text": "於是貳師後復行，兵多，而所至小國莫不迎，出食給軍。至侖頭，侖頭不下，攻數日，屠之。自此而西，平行至宛城，漢兵到者三萬人。宛兵迎擊漢兵，漢兵射敗之，宛走入葆乘其城。貳師兵欲行攻郁成，恐留行而令宛益生詐，乃先至宛，決其水源，移之，則宛固已憂困。圍其城，攻之四十餘日，其外城壞，虜宛貴人勇將煎靡。宛大恐，走入中城。宛貴人相與謀曰：「漢所爲攻宛，以王毋寡匿善馬而殺漢使。今殺王毋寡而出善馬，漢兵宜解；即不解，乃力戰而死，未晚也。」宛貴人皆以爲然，共殺其王毋寡，持其頭遣貴人使貳師，約曰：「漢毋攻我。我盡出善馬，恣所取，而給漢軍食。即不聽，我盡殺善馬，而康居之救且至。至，我居內，康居居外，與漢軍戰。漢軍熟計之，何從？」是時康居候視漢兵，漢兵尚盛，不敢進。貳師與趙始成、李哆等計：「聞宛城中新得秦人，知穿井，而其內食尚多。所爲來，誅首惡者毋寡。毋寡頭已至，如此而不許解兵，則堅守，而康居候漢罷而來救宛，破漢軍必矣。」軍吏皆以爲然，許宛之約。宛乃出其善馬，令漢自擇之，而多出食食給漢軍。漢軍取其善馬數十匹。中馬以下牡牝三千餘匹，而立宛貴人之故待遇漢使善者名昧蔡以爲宛王，⟦0⟧與盟而罷兵。終不得入中城。乃罷而引歸。",
       "mentions": [
         {
+          "entity_id": "p_dy_026",
+          "start": 2,
+          "end": 4,
+          "text": "貳師"
+        },
+        {
+          "entity_id": "pl_dy_059",
           "start": 26,
           "end": 28,
-          "entity_id": "place_dy_049",
-          "entity_name": "侖頭",
           "text": "侖頭"
         },
         {
+          "entity_id": "e_dy_050",
           "start": 29,
-          "end": 31,
-          "entity_id": "place_dy_049",
-          "entity_name": "侖頭",
-          "text": "侖頭"
+          "end": 33,
+          "text": "侖頭不下"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 52,
+          "end": 53,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 64,
+          "end": 65,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 67,
+          "end": 68,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_026",
+          "start": 81,
+          "end": 83,
+          "text": "貳師"
+        },
+        {
+          "entity_id": "p_dy_042",
           "start": 87,
           "end": 89,
-          "entity_id": "place_dy_047",
-          "entity_name": "郁成",
           "text": "郁成"
         },
         {
+          "entity_id": "p_dy_047",
+          "start": 137,
+          "end": 140,
+          "text": "宛貴人"
+        },
+        {
+          "entity_id": "p_dy_041",
           "start": 142,
           "end": 144,
-          "entity_id": "person_dy_029",
-          "entity_name": "煎靡",
           "text": "煎靡"
         },
         {
+          "entity_id": "p_dy_047",
+          "start": 154,
+          "end": 157,
+          "text": "宛貴人"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 163,
+          "end": 164,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_009",
           "start": 171,
           "end": 173,
-          "entity_id": "person_dy_021",
-          "entity_name": "毋寡",
           "text": "毋寡"
         },
         {
+          "entity_id": "c_dy_008",
           "start": 174,
           "end": 176,
-          "entity_id": "concept_dy_004",
-          "entity_name": "汗血馬",
           "text": "善馬"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 178,
+          "end": 179,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_009",
           "start": 184,
           "end": 186,
-          "entity_id": "person_dy_021",
-          "entity_name": "毋寡",
           "text": "毋寡"
         },
         {
+          "entity_id": "c_dy_008",
           "start": 188,
           "end": 190,
-          "entity_id": "concept_dy_004",
-          "entity_name": "汗血馬",
           "text": "善馬"
         },
         {
-          "start": 223,
+          "entity_id": "pl_dy_001",
+          "start": 191,
+          "end": 192,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_047",
+          "start": 211,
+          "end": 214,
+          "text": "宛貴人"
+        },
+        {
+          "entity_id": "e_dy_052",
+          "start": 219,
           "end": 225,
-          "entity_id": "person_dy_021",
-          "entity_name": "毋寡",
-          "text": "毋寡"
+          "text": "共殺其王毋寡"
         },
         {
-          "start": 248,
+          "entity_id": "p_dy_026",
+          "start": 233,
+          "end": 235,
+          "text": "貳師"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 240,
+          "end": 241,
+          "text": "漢"
+        },
+        {
+          "entity_id": "e_dy_060",
+          "start": 245,
           "end": 250,
-          "entity_id": "concept_dy_004",
-          "entity_name": "汗血馬",
-          "text": "善馬"
+          "text": "我盡出善馬"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 257,
+          "end": 258,
+          "text": "漢"
+        },
+        {
+          "entity_id": "c_dy_008",
           "start": 268,
           "end": 270,
-          "entity_id": "concept_dy_004",
-          "entity_name": "汗血馬",
           "text": "善馬"
         },
         {
+          "entity_id": "p_dy_012",
           "start": 272,
           "end": 274,
-          "entity_id": "place_dy_006",
-          "entity_name": "康居",
           "text": "康居"
         },
         {
+          "entity_id": "p_dy_012",
           "start": 285,
           "end": 287,
-          "entity_id": "place_dy_006",
-          "entity_name": "康居",
           "text": "康居"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 291,
+          "end": 292,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 295,
+          "end": 296,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_012",
           "start": 307,
           "end": 309,
-          "entity_id": "place_dy_006",
-          "entity_name": "康居",
           "text": "康居"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 311,
+          "end": 312,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 314,
+          "end": 315,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_026",
+          "start": 323,
+          "end": 325,
+          "text": "貳師"
+        },
+        {
+          "entity_id": "p_dy_027",
           "start": 326,
           "end": 329,
-          "entity_id": "person_dy_018",
-          "entity_name": "趙始成",
           "text": "趙始成"
         },
         {
+          "entity_id": "p_dy_028",
           "start": 330,
           "end": 332,
-          "entity_id": "person_dy_019",
-          "entity_name": "李哆",
           "text": "李哆"
         },
         {
+          "entity_id": "p_dy_009",
           "start": 364,
           "end": 366,
-          "entity_id": "person_dy_021",
-          "entity_name": "毋寡",
           "text": "毋寡"
         },
         {
+          "entity_id": "p_dy_009",
           "start": 367,
           "end": 369,
-          "entity_id": "person_dy_021",
-          "entity_name": "毋寡",
           "text": "毋寡"
         },
         {
+          "entity_id": "p_dy_012",
           "start": 386,
           "end": 388,
-          "entity_id": "place_dy_006",
-          "entity_name": "康居",
           "text": "康居"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 389,
+          "end": 390,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 397,
+          "end": 398,
+          "text": "漢"
+        },
+        {
+          "entity_id": "c_dy_008",
           "start": 419,
           "end": 421,
-          "entity_id": "concept_dy_004",
-          "entity_name": "汗血馬",
           "text": "善馬"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 423,
+          "end": 424,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 434,
+          "end": 435,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 437,
+          "end": 438,
+          "text": "漢"
+        },
+        {
+          "entity_id": "c_dy_008",
           "start": 441,
           "end": 443,
-          "entity_id": "concept_dy_004",
-          "entity_name": "汗血馬",
           "text": "善馬"
         },
         {
+          "entity_id": "p_dy_047",
+          "start": 460,
+          "end": 463,
+          "text": "宛貴人"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 467,
+          "end": 468,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_010",
           "start": 472,
           "end": 474,
-          "entity_id": "person_dy_030",
-          "entity_name": "昧蔡",
           "text": "昧蔡"
+        },
+        {
+          "entity_id": "p_dy_009",
+          "start": 476,
+          "end": 478,
+          "text": "宛王"
+        },
+        {
+          "entity_id": "e_dy_060",
+          "start": 482,
+          "end": 487,
+          "text": "與盟而罷兵"
         }
       ]
     },
@@ -3019,150 +3969,171 @@
       "text": "初，貳師起燉煌西，以爲人多，道上國不能食，乃分爲數軍，從南北道。校尉王申生、故鴻臚壺充國等千餘人，別到郁成。郁成城守，不肯給食其軍。王申生去大軍二百里，偵而輕之，責郁成。郁成食不肯出，窺知申生軍日少，晨用三千人攻，戮殺申生等，軍破，數人脫亡，走貳師。貳師令搜粟都尉上官桀往攻破郁成。郁成王亡走康居，桀追至康居。康居聞漢已破宛，乃出郁成王予桀，桀令四騎士縛守詣大將軍。⟦0⟧四人相謂曰：「郁成王漢國所毒，今生將去，卒失大事。」欲殺，莫敢先擊。上邽騎士趙弟最少，拔劔擊之，斬郁成王，齎頭。弟、桀等逐及大將軍。",
       "mentions": [
         {
+          "entity_id": "p_dy_026",
+          "start": 2,
+          "end": 4,
+          "text": "貳師"
+        },
+        {
+          "entity_id": "pl_dy_023",
           "start": 5,
           "end": 7,
-          "entity_id": "place_dy_022",
-          "entity_name": "敦煌",
           "text": "燉煌"
         },
         {
+          "entity_id": "p_dy_003",
+          "start": 15,
+          "end": 16,
+          "text": "上"
+        },
+        {
+          "entity_id": "p_dy_039",
           "start": 34,
           "end": 37,
-          "entity_id": "person_dy_025",
-          "entity_name": "王申生",
           "text": "王申生"
         },
         {
+          "entity_id": "p_dy_038",
           "start": 41,
-          "end": 44,
-          "entity_id": "person_dy_026",
-          "entity_name": "壺充國",
-          "text": "壺充國"
+          "end": 45,
+          "text": "壺充國等"
         },
         {
+          "entity_id": "p_dy_042",
           "start": 51,
           "end": 53,
-          "entity_id": "place_dy_047",
-          "entity_name": "郁成",
           "text": "郁成"
         },
         {
+          "entity_id": "p_dy_042",
           "start": 54,
           "end": 56,
-          "entity_id": "place_dy_047",
-          "entity_name": "郁成",
           "text": "郁成"
         },
         {
+          "entity_id": "p_dy_039",
           "start": 66,
           "end": 69,
-          "entity_id": "person_dy_025",
-          "entity_name": "王申生",
           "text": "王申生"
         },
         {
+          "entity_id": "p_dy_042",
           "start": 82,
           "end": 84,
-          "entity_id": "place_dy_047",
-          "entity_name": "郁成",
           "text": "郁成"
         },
         {
+          "entity_id": "p_dy_042",
           "start": 85,
           "end": 87,
-          "entity_id": "place_dy_047",
-          "entity_name": "郁成",
           "text": "郁成"
         },
         {
+          "entity_id": "p_dy_039",
+          "start": 94,
+          "end": 96,
+          "text": "申生"
+        },
+        {
+          "entity_id": "e_dy_054",
+          "start": 107,
+          "end": 112,
+          "text": "戮殺申生等"
+        },
+        {
+          "entity_id": "p_dy_026",
+          "start": 122,
+          "end": 124,
+          "text": "貳師"
+        },
+        {
+          "entity_id": "p_dy_026",
+          "start": 125,
+          "end": 127,
+          "text": "貳師"
+        },
+        {
+          "entity_id": "e_dy_055",
           "start": 132,
-          "end": 135,
-          "entity_id": "person_dy_027",
-          "entity_name": "上官桀",
-          "text": "上官桀"
-        },
-        {
-          "start": 138,
           "end": 140,
-          "entity_id": "place_dy_047",
-          "entity_name": "郁成",
-          "text": "郁成"
+          "text": "上官桀往攻破郁成"
         },
         {
+          "entity_id": "p_dy_042",
           "start": 141,
           "end": 144,
-          "entity_id": "person_dy_022",
-          "entity_name": "郁成王",
           "text": "郁成王"
         },
         {
+          "entity_id": "p_dy_012",
           "start": 146,
           "end": 148,
-          "entity_id": "place_dy_006",
-          "entity_name": "康居",
           "text": "康居"
         },
         {
+          "entity_id": "p_dy_012",
           "start": 152,
           "end": 154,
-          "entity_id": "place_dy_006",
-          "entity_name": "康居",
           "text": "康居"
         },
         {
+          "entity_id": "p_dy_012",
           "start": 155,
           "end": 157,
-          "entity_id": "place_dy_006",
-          "entity_name": "康居",
           "text": "康居"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 158,
+          "end": 159,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_042",
           "start": 165,
           "end": 168,
-          "entity_id": "person_dy_022",
-          "entity_name": "郁成王",
           "text": "郁成王"
         },
         {
+          "entity_id": "p_dy_021",
           "start": 179,
           "end": 182,
-          "entity_id": "person_dy_006",
-          "entity_name": "衛青（大將軍）",
           "text": "大將軍"
         },
         {
+          "entity_id": "p_dy_042",
           "start": 193,
           "end": 196,
-          "entity_id": "person_dy_022",
-          "entity_name": "郁成王",
           "text": "郁成王"
         },
         {
+          "entity_id": "pl_dy_001",
+          "start": 196,
+          "end": 197,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_061",
           "start": 220,
           "end": 222,
-          "entity_id": "place_dy_057",
-          "entity_name": "上邽",
           "text": "上邽"
         },
         {
+          "entity_id": "p_dy_033",
           "start": 224,
           "end": 226,
-          "entity_id": "person_dy_028",
-          "entity_name": "趙弟",
           "text": "趙弟"
         },
         {
-          "start": 235,
+          "entity_id": "e_dy_055",
+          "start": 234,
           "end": 238,
-          "entity_id": "person_dy_022",
-          "entity_name": "郁成王",
-          "text": "郁成王"
+          "text": "斬郁成王"
         },
         {
+          "entity_id": "p_dy_021",
           "start": 248,
           "end": 251,
-          "entity_id": "person_dy_006",
-          "entity_name": "衛青（大將軍）",
           "text": "大將軍"
         }
       ]
@@ -3172,123 +4143,130 @@
       "text": "初，貳師後行，天子使使告烏孫，大發兵并力擊宛。烏孫發二千騎往，持兩端，不肯前。貳師將軍之東，諸所過小國聞宛破，皆使其子弟從軍入獻，見天子，因以爲質焉。貳師之伐宛也，而軍正趙始成力戰，功最多；及上官桀敢深入，李哆爲謀計，軍入玉門者萬餘人，軍馬千餘匹。貳師後行，軍非乏食，戰死不能多，而將吏貪，多不愛士卒，侵牟之，以此物故衆。天子爲萬里而伐宛，不錄過，封廣利爲海西侯。又封身斬郁成王者騎士趙弟爲新畤侯。軍正趙始成爲光祿大夫，上官桀爲少府，李哆爲上黨太守。軍官吏爲九卿者三人，諸侯相、郡守、二千石者百餘人，千石以下千餘人。奮行者官過其望，⟦0⟧以適過行者皆絀其勞。⟦1⟧士卒賜直四萬金。伐宛再反，凡四歲而得罷焉。",
       "mentions": [
         {
+          "entity_id": "p_dy_026",
+          "start": 2,
+          "end": 4,
+          "text": "貳師"
+        },
+        {
+          "entity_id": "p_dy_003",
           "start": 7,
           "end": 9,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
           "text": "天子"
         },
         {
+          "entity_id": "pl_dy_008",
           "start": 12,
           "end": 14,
-          "entity_id": "place_dy_010",
-          "entity_name": "烏孫",
           "text": "烏孫"
         },
         {
+          "entity_id": "pl_dy_008",
           "start": 23,
           "end": 25,
-          "entity_id": "place_dy_010",
-          "entity_name": "烏孫",
           "text": "烏孫"
         },
         {
+          "entity_id": "p_dy_026",
           "start": 39,
           "end": 43,
-          "entity_id": "person_dy_017",
-          "entity_name": "李廣利（貳師將軍）",
           "text": "貳師將軍"
         },
         {
+          "entity_id": "p_dy_003",
           "start": 66,
           "end": 68,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
           "text": "天子"
         },
         {
+          "entity_id": "c_dy_016",
+          "start": 70,
+          "end": 74,
+          "text": "以爲質焉"
+        },
+        {
+          "entity_id": "p_dy_026",
+          "start": 75,
+          "end": 77,
+          "text": "貳師"
+        },
+        {
+          "entity_id": "p_dy_027",
           "start": 85,
           "end": 88,
-          "entity_id": "person_dy_018",
-          "entity_name": "趙始成",
           "text": "趙始成"
         },
         {
+          "entity_id": "p_dy_032",
           "start": 96,
           "end": 99,
-          "entity_id": "person_dy_027",
-          "entity_name": "上官桀",
           "text": "上官桀"
         },
         {
+          "entity_id": "p_dy_028",
           "start": 103,
           "end": 105,
-          "entity_id": "person_dy_019",
-          "entity_name": "李哆",
           "text": "李哆"
         },
         {
+          "entity_id": "pl_dy_052",
           "start": 111,
           "end": 113,
-          "entity_id": "place_dy_045",
-          "entity_name": "玉門",
           "text": "玉門"
         },
         {
+          "entity_id": "p_dy_026",
+          "start": 124,
+          "end": 126,
+          "text": "貳師"
+        },
+        {
+          "entity_id": "p_dy_003",
           "start": 161,
           "end": 163,
-          "entity_id": "person_dy_003",
-          "entity_name": "劉徹（漢武帝）",
           "text": "天子"
         },
         {
-          "start": 175,
-          "end": 177,
-          "entity_id": "person_dy_017",
-          "entity_name": "李廣利（貳師將軍）",
-          "text": "廣利"
-        },
-        {
-          "start": 178,
+          "entity_id": "e_dy_056",
+          "start": 174,
           "end": 181,
-          "entity_id": "person_dy_017",
-          "entity_name": "李廣利（貳師將軍）",
-          "text": "海西侯"
+          "text": "封廣利爲海西侯"
         },
         {
-          "start": 186,
+          "entity_id": "e_dy_055",
+          "start": 185,
           "end": 189,
-          "entity_id": "person_dy_022",
-          "entity_name": "郁成王",
-          "text": "郁成王"
+          "text": "斬郁成王"
         },
         {
+          "entity_id": "e_dy_056",
           "start": 192,
-          "end": 194,
-          "entity_id": "person_dy_028",
-          "entity_name": "趙弟",
-          "text": "趙弟"
+          "end": 198,
+          "text": "趙弟爲新畤侯"
         },
         {
+          "entity_id": "p_dy_027",
           "start": 201,
           "end": 204,
-          "entity_id": "person_dy_018",
-          "entity_name": "趙始成",
           "text": "趙始成"
         },
         {
+          "entity_id": "p_dy_032",
           "start": 210,
           "end": 213,
-          "entity_id": "person_dy_027",
-          "entity_name": "上官桀",
           "text": "上官桀"
         },
         {
+          "entity_id": "p_dy_028",
           "start": 217,
           "end": 219,
-          "entity_id": "person_dy_019",
-          "entity_name": "李哆",
           "text": "李哆"
+        },
+        {
+          "entity_id": "pl_dy_070",
+          "start": 220,
+          "end": 222,
+          "text": "上黨"
         }
       ]
     },
@@ -3297,39 +4275,76 @@
       "text": "漢已伐宛，立昧蔡爲宛王而去。歲餘，宛貴人以爲昧蔡善諛，使我國遇屠，乃相與殺昧蔡，立毋寡昆弟曰蟬封爲宛王，而遣其子入質於漢。漢因使使賂賜以鎮撫之。",
       "mentions": [
         {
+          "entity_id": "pl_dy_001",
+          "start": 0,
+          "end": 1,
+          "text": "漢"
+        },
+        {
+          "entity_id": "p_dy_010",
           "start": 6,
           "end": 8,
-          "entity_id": "person_dy_030",
-          "entity_name": "昧蔡",
           "text": "昧蔡"
         },
         {
+          "entity_id": "p_dy_009",
+          "start": 9,
+          "end": 11,
+          "text": "宛王"
+        },
+        {
+          "entity_id": "p_dy_047",
+          "start": 17,
+          "end": 20,
+          "text": "宛貴人"
+        },
+        {
+          "entity_id": "p_dy_010",
           "start": 22,
           "end": 24,
-          "entity_id": "person_dy_030",
-          "entity_name": "昧蔡",
           "text": "昧蔡"
         },
         {
-          "start": 37,
+          "entity_id": "e_dy_057",
+          "start": 34,
           "end": 39,
-          "entity_id": "person_dy_030",
-          "entity_name": "昧蔡",
-          "text": "昧蔡"
+          "text": "相與殺昧蔡"
         },
         {
+          "entity_id": "p_dy_009",
           "start": 41,
           "end": 43,
-          "entity_id": "person_dy_021",
-          "entity_name": "毋寡",
           "text": "毋寡"
         },
         {
+          "entity_id": "p_dy_011",
           "start": 46,
           "end": 48,
-          "entity_id": "person_dy_031",
-          "entity_name": "蟬封",
           "text": "蟬封"
+        },
+        {
+          "entity_id": "p_dy_009",
+          "start": 49,
+          "end": 51,
+          "text": "宛王"
+        },
+        {
+          "entity_id": "c_dy_016",
+          "start": 56,
+          "end": 58,
+          "text": "入質"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 59,
+          "end": 60,
+          "text": "漢"
+        },
+        {
+          "entity_id": "pl_dy_001",
+          "start": 61,
+          "end": 62,
+          "text": "漢"
         }
       ]
     },
@@ -3338,39 +4353,52 @@
       "text": "而漢發使十餘輩至宛西諸外國，求奇物，因風覽以伐宛之威德。而燉煌置⟦0⟧酒泉都尉；⟦1⟧西至鹽水，往往有亭。而侖頭有田卒數百人，因置使者護田積粟，以給使外國者。",
       "mentions": [
         {
+          "entity_id": "e_dy_063",
+          "start": 1,
+          "end": 13,
+          "text": "漢發使十餘輩至宛西諸外國"
+        },
+        {
+          "entity_id": "pl_dy_023",
           "start": 29,
           "end": 31,
-          "entity_id": "place_dy_022",
-          "entity_name": "敦煌",
           "text": "燉煌"
         },
         {
+          "entity_id": "pl_dy_050",
           "start": 35,
           "end": 37,
-          "entity_id": "place_dy_036",
-          "entity_name": "酒泉郡",
           "text": "酒泉"
         },
         {
+          "entity_id": "pl_dy_018",
           "start": 45,
           "end": 47,
-          "entity_id": "place_dy_014",
-          "entity_name": "鹽澤",
           "text": "鹽水"
         },
         {
+          "entity_id": "c_dy_017",
+          "start": 51,
+          "end": 52,
+          "text": "亭"
+        },
+        {
+          "entity_id": "pl_dy_059",
           "start": 54,
           "end": 56,
-          "entity_id": "place_dy_049",
-          "entity_name": "侖頭",
           "text": "侖頭"
         },
         {
-          "start": 67,
+          "entity_id": "c_dy_018",
+          "start": 57,
+          "end": 59,
+          "text": "田卒"
+        },
+        {
+          "entity_id": "e_dy_059",
+          "start": 64,
           "end": 71,
-          "entity_id": "concept_dy_013",
-          "entity_name": "護田積粟",
-          "text": "護田積粟"
+          "text": "置使者護田積粟"
         }
       ]
     },
@@ -3379,39 +4407,58 @@
       "text": "太史公曰：禹本紀言「河出崑崙。崑崙其高二千五百餘里，日月所相避隱爲光明也。其上有醴泉、瑤池」。今自張騫使大夏之後也，窮河源，惡睹本紀所謂崑崙者乎？⟦0⟧⟦1⟧故言九州山川，尚書近之矣。至禹本紀、山海經所有怪物，余不敢言之也。⟦2⟧",
       "mentions": [
         {
+          "entity_id": "p_dy_045",
           "start": 0,
           "end": 3,
-          "entity_id": "person_dy_014",
-          "entity_name": "司馬遷（太史公）",
           "text": "太史公"
         },
         {
-          "start": 12,
+          "entity_id": "c_dy_022",
+          "start": 10,
           "end": 14,
-          "entity_id": "place_dy_056",
-          "entity_name": "崑崙",
-          "text": "崑崙"
+          "text": "河出崑崙"
         },
         {
+          "entity_id": "pl_dy_027",
           "start": 15,
           "end": 17,
-          "entity_id": "place_dy_056",
-          "entity_name": "崑崙",
           "text": "崑崙"
         },
         {
+          "entity_id": "p_dy_003",
+          "start": 38,
+          "end": 39,
+          "text": "上"
+        },
+        {
+          "entity_id": "p_dy_001",
+          "start": 49,
+          "end": 51,
+          "text": "張騫"
+        },
+        {
+          "entity_id": "p_dy_016",
           "start": 52,
           "end": 54,
-          "entity_id": "place_dy_007",
-          "entity_name": "大夏",
           "text": "大夏"
         },
         {
+          "entity_id": "pl_dy_065",
+          "start": 59,
+          "end": 61,
+          "text": "河源"
+        },
+        {
+          "entity_id": "pl_dy_027",
           "start": 68,
           "end": 70,
-          "entity_id": "place_dy_056",
-          "entity_name": "崑崙",
           "text": "崑崙"
+        },
+        {
+          "entity_id": "p_dy_045",
+          "start": 105,
+          "end": 106,
+          "text": "余"
         }
       ]
     },
@@ -3420,45 +4467,51 @@
       "text": "索隱述贊曰：大宛之迹，元因愽望。始究河源，旋窺海上。條枝西入，天馬內向。葱嶺無塵，鹽池息浪。曠哉絕域，往往亭障。",
       "mentions": [
         {
-          "start": 0,
-          "end": 4,
-          "entity_id": "concept_dy_015",
-          "entity_name": "索隱述贊",
-          "text": "索隱述贊"
-        },
-        {
+          "entity_id": "pl_dy_004",
           "start": 6,
           "end": 8,
-          "entity_id": "place_dy_001",
-          "entity_name": "大宛",
           "text": "大宛"
         },
         {
+          "entity_id": "pl_dy_065",
+          "start": 18,
+          "end": 20,
+          "text": "河源"
+        },
+        {
+          "entity_id": "pl_dy_069",
+          "start": 23,
+          "end": 25,
+          "text": "海上"
+        },
+        {
+          "entity_id": "p_dy_018",
           "start": 26,
           "end": 28,
-          "entity_id": "place_dy_024",
-          "entity_name": "條枝",
           "text": "條枝"
         },
         {
+          "entity_id": "c_dy_008",
           "start": 31,
           "end": 33,
-          "entity_id": "concept_dy_004",
-          "entity_name": "汗血馬",
           "text": "天馬"
         },
         {
+          "entity_id": "pl_dy_060",
           "start": 36,
           "end": 38,
-          "entity_id": "place_dy_058",
-          "entity_name": "葱嶺",
           "text": "葱嶺"
         },
         {
+          "entity_id": "pl_dy_018",
+          "start": 41,
+          "end": 43,
+          "text": "鹽池"
+        },
+        {
+          "entity_id": "c_dy_017",
           "start": 53,
           "end": 55,
-          "entity_id": "concept_dy_012",
-          "entity_name": "亭鄣",
           "text": "亭障"
         }
       ]
