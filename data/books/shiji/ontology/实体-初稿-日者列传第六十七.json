@@ -1,0 +1,68 @@
+{
+  "book_id": "shiji",
+  "chapter_id": "shiji-日者列傳第六十七",
+  "chapter_title": "日者列传第六十七",
+  "version": "0.9",
+  "generated_at": "2026-11-02T11:20:00",
+  "entities": {
+    "persons": [
+      {"id": "person_rz_001", "name": "司馬季主", "alias": ["季主"], "note": "楚人，卜于长安东市。通《易经》，习黄帝、老子之术，博闻远见。宋忠、贾谊问其何居之卑、何行之污，季主辨「贤者之道」与「世俗所谓贤者」之别，纵论数千言，二大夫折服。太史公特为志而著之。", "evidence": ["p2"]},
+      {"id": "person_rz_002", "name": "宋忠", "alias": [], "note": "中大夫。与贾谊同日洗沐出游，入卜肆问司马季主，为其言所屈。后使匈奴，不至而还，抵罪。", "evidence": ["p3"]},
+      {"id": "person_rz_003", "name": "賈誼", "alias": ["賈生"], "note": "博士。与宋忠论议诵《易》，入市访卜者，为司马季主所屈。后为梁怀王太傅，王堕马薨，贾谊绝食毒恨而死。", "evidence": ["p3"]},
+      {"id": "person_rz_004", "name": "墨子", "alias": [], "note": "《墨子》载其北之齐遇日者事，为「日者」得名之据。", "evidence": ["p0"]},
+      {"id": "person_rz_005", "name": "伏羲", "alias": [], "note": "作八卦。", "evidence": ["p12"]},
+      {"id": "person_rz_006", "name": "周文王", "alias": ["文王"], "note": "演三百八十四爻而天下治。", "evidence": ["p12"]},
+      {"id": "person_rz_007", "name": "越王勾踐", "alias": ["勾踐"], "note": "倣文王八卦以破敌国，霸天下。", "evidence": ["p12"]},
+      {"id": "person_rz_008", "name": "老子", "alias": [], "note": "季主引其「上德不德，是以有德」「无名者万物之始」语。", "evidence": ["p13"]},
+      {"id": "person_rz_009", "name": "莊子", "alias": ["莊氏"], "note": "季主引其论君子之道。", "evidence": ["p14"]},
+      {"id": "person_rz_010", "name": "黃帝", "alias": [], "note": "司马季主所习术之所本。", "evidence": ["p21"]},
+      {"id": "person_rz_011", "name": "梁懷王", "alias": [], "note": "贾谊所傅之王，堕马薨。", "evidence": ["p19"]},
+      {"id": "person_rz_012", "name": "曾參", "alias": ["曾氏"], "note": "宋忠、贾谊自叹卜者「久而愈安，虽曾氏之义未有以异」。", "evidence": ["p18"]},
+      {"id": "person_rz_013", "name": "褚少孫", "alias": ["褚先生"], "note": "补《史记》者，为郎时游长安，观卜筮贤大夫，记司马季主事及孝武占家聚问事。", "evidence": ["p21"]},
+      {"id": "person_rz_014", "name": "孝武帝", "alias": ["孝武"], "note": "聚会占家问取妇日，制曰「避诸死忌，以五行为主」。", "evidence": ["p22"]},
+      {"id": "person_rz_015", "name": "代王", "alias": ["漢文帝"], "note": "代王入京继位，倚任卜者，见卜筮之重。", "evidence": ["p1"]},
+      {"id": "person_rz_016", "name": "太史公", "alias": ["司馬遷"], "note": "《史记》作者，志司马季主而著之。", "evidence": ["p20"]}
+    ],
+    "places": [
+      {"id": "place_rz_001", "name": "長安", "alias": ["東市"], "note": "汉都。司马季主卜于长安东市，褚少孙游观长安中。", "evidence": ["p2"]},
+      {"id": "place_rz_002", "name": "楚", "alias": [], "note": "司马季主为楚人，楚之贤大夫。", "evidence": ["p2"]},
+      {"id": "place_rz_003", "name": "齊", "alias": [], "note": "墨子北之齐遇日者；又齐张仲以击刺立名。", "evidence": ["p0"]},
+      {"id": "place_rz_004", "name": "淄水", "alias": [], "note": "墨子至淄水而返。", "evidence": ["p0"]},
+      {"id": "place_rz_005", "name": "秦", "alias": [], "note": "卜筮之事及秦可见。", "evidence": ["p1"]},
+      {"id": "place_rz_006", "name": "匈奴", "alias": [], "note": "宋忠出使之地。", "evidence": ["p19"]},
+      {"id": "place_rz_007", "name": "滎陽", "alias": [], "note": "荥阳褚氏以相牛立名。", "evidence": ["p21"]}
+    ],
+    "events": [
+      {"id": "event_rz_001", "name": "司馬季主與宋忠賈誼論辯", "note": "宋忠、贾谊游于卜肆问司马季主，季主纵论贤者之道与世俗贤者之弊数千言，二大夫折服自失。", "evidence": ["p3"]},
+      {"id": "event_rz_002", "name": "墨子北之齊遇日者", "note": "《墨子》载墨子北之齐，日者以帝杀黑龙北方、墨子色黑不可北为言，墨子不听至淄水而返。", "evidence": ["p0"]},
+      {"id": "event_rz_003", "name": "宋忠使匈奴抵罪", "note": "宋忠使匈奴，不至而还，抵罪。", "evidence": ["p19"]},
+      {"id": "event_rz_004", "name": "賈誼為梁懷王傅王墮馬薨誼死", "note": "贾谊为梁怀王太傅，王堕马薨，谊不食毒恨而死，论者谓务华绝根。", "evidence": ["p19"]},
+      {"id": "event_rz_005", "name": "孝武帝聚會占家問取婦日", "note": "孝武帝聚七家占者问某日可取妇，辩讼不决，制以五行为主。", "evidence": ["p22"]}
+    ],
+    "concepts": [
+      {"id": "concept_rz_001", "name": "日者", "note": "占候卜筮、择日算命之人。古人占候卜筮通谓之「日者」，其名据《墨子》。", "evidence": ["p0"]},
+      {"id": "concept_rz_002", "name": "卜筮", "note": "以龟甲蓍草占问吉凶。季主谓卜者「法天地，象四时，顺于仁义」，有礼有德，利大而谢少。", "evidence": ["p6"]},
+      {"id": "concept_rz_003", "name": "龜策", "note": "龟甲与蓍草，占卜之具。", "evidence": ["p12"]},
+      {"id": "concept_rz_004", "name": "易", "note": "《易经》。伏羲作八卦，文王演三百八十四爻，越王勾践倣之破敵霸天下。", "evidence": ["p12"]},
+      {"id": "concept_rz_005", "name": "陰陽", "note": "天地之道、日月之运、阴阳吉凶之本，皆季主所辩。", "evidence": ["p3"]},
+      {"id": "concept_rz_006", "name": "天命", "note": "王者之兴以卜筮决于天命。", "evidence": ["p1"]},
+      {"id": "concept_rz_007", "name": "上德不德", "note": "老子语，谓上德之人不自恃有德，因此才有德。", "evidence": ["p13"]},
+      {"id": "concept_rz_008", "name": "無名者萬物之始", "note": "老子语，宋忠、贾谊引以自叹不及卜者。", "evidence": ["p18"]},
+      {"id": "concept_rz_009", "name": "五行", "note": "汉代择日占卜流派之一，孝武帝定为取妇择日之主。", "evidence": ["p22"]}
+    ],
+    "relations": [
+      {"from": "司馬季主", "type": "論辯", "to": "宋忠", "evidence": ["p3", "p4", "p5", "p16", "p17"]},
+      {"from": "司馬季主", "type": "論辯", "to": "賈誼", "evidence": ["p3", "p4", "p5", "p16", "p17"]},
+      {"from": "宋忠", "type": "同僚", "to": "賈誼", "evidence": ["p3"]},
+      {"from": "司馬季主", "type": "卜於", "to": "長安", "evidence": ["p2"]},
+      {"from": "宋忠", "type": "出使", "to": "匈奴", "evidence": ["p19"]},
+      {"from": "賈誼", "type": "為傅", "to": "梁懷王", "evidence": ["p19"]},
+      {"from": "伏羲", "type": "始作", "to": "易", "evidence": ["p12"]},
+      {"from": "周文王", "type": "推演", "to": "易", "evidence": ["p12"]},
+      {"from": "越王勾踐", "type": "倣效", "to": "周文王", "evidence": ["p12"]},
+      {"from": "墨子", "type": "遇", "to": "日者", "evidence": ["p0"]},
+      {"from": "司馬遷", "type": "著錄", "to": "司馬季主", "evidence": ["p20"]},
+      {"from": "褚少孫", "type": "補記", "to": "司馬季主", "evidence": ["p21"]}
+    ]
+  }
+}
