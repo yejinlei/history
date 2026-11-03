@@ -1,0 +1,6486 @@
+{
+ "book_id": "zizhitongjian",
+ "chapter_id": "0017",
+ "chapter_title": "卷第十六・汉纪八・孝景皇帝下",
+ "version": 1.0,
+ "generated_at": "2026-11-03",
+ "paragraphs": [
+  {
+   "para_id": "p0",
+   "text": "⟦0⟧",
+   "mentions": []
+  },
+  {
+   "para_id": "p1",
+   "text": "前三年（丁亥、前一五四年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p2",
+   "text": "1冬，十月，梁王來朝。⟦0⟧時上未置太子，與梁王宴飲，從容言曰：⟦1⟧「千秋萬歲後傳於王。」王辭謝，雖知非至言，然心內喜；⟦2⟧太后亦然。詹事竇嬰⟦3⟧引卮酒進上曰：「天下者，高祖之天下，父子相傳，漢之約也；上何以得傳梁王！」太后由此憎嬰；⟦4⟧嬰因病免；太后除嬰門籍，不得朝請。⟦5⟧梁王以此益驕。",
+   "mentions": [
+    {
+     "entity_id": "P02",
+     "entity_name": "刘武",
+     "entity_type": "person",
+     "start": 6,
+     "end": 8,
+     "surface": "梁王"
+    },
+    {
+     "entity_id": "P02",
+     "entity_name": "刘武",
+     "entity_type": "person",
+     "start": 22,
+     "end": 24,
+     "surface": "梁王"
+    },
+    {
+     "entity_id": "P04",
+     "entity_name": "窦婴",
+     "entity_type": "person",
+     "start": 69,
+     "end": 73,
+     "surface": "詹事竇嬰"
+    },
+    {
+     "entity_id": "P91",
+     "entity_name": "刘邦",
+     "entity_type": "person",
+     "start": 88,
+     "end": 90,
+     "surface": "高祖"
+    },
+    {
+     "entity_id": "P02",
+     "entity_name": "刘武",
+     "entity_type": "person",
+     "start": 109,
+     "end": 111,
+     "surface": "梁王"
+    },
+    {
+     "entity_id": "C03",
+     "entity_name": "门籍",
+     "entity_type": "concept",
+     "start": 132,
+     "end": 134,
+     "surface": "門籍"
+    },
+    {
+     "entity_id": "P02",
+     "entity_name": "刘武",
+     "entity_type": "person",
+     "start": 143,
+     "end": 145,
+     "surface": "梁王"
+    }
+   ]
+  },
+  {
+   "para_id": "p3",
+   "text": "2春，正月，乙巳，赦。",
+   "mentions": []
+  },
+  {
+   "para_id": "p4",
+   "text": "3長星出西方。",
+   "mentions": [
+    {
+     "entity_id": "C13",
+     "entity_name": "彗星",
+     "entity_type": "concept",
+     "start": 1,
+     "end": 3,
+     "surface": "長星"
+    }
+   ]
+  },
+  {
+   "para_id": "p5",
+   "text": "4洛陽東宮災。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "L01",
+     "entity_name": "洛阳",
+     "entity_type": "place",
+     "start": 1,
+     "end": 5,
+     "surface": "洛陽東宮"
+    }
+   ]
+  },
+  {
+   "para_id": "p6",
+   "text": "5初，孝文時，吳太子入見，⟦0⟧得侍皇太子飲、博。吳太子博爭道，不恭；皇太子引博局提吳太子，殺之。⟦1⟧遣其喪歸葬，至吳，吳王慍曰：⟦2⟧「天下同宗，⟦3⟧死長安卽葬長安，何必來葬爲！」復遣喪之長安葬。吳王由此稍失藩臣之禮，稱疾不朝。⟦4⟧京師知其以子故，繫治、驗問吳使者；吳王恐，始有反謀。後使人爲秋請，⟦5⟧文帝復問之，⟦6⟧使者對曰：「王實不病；漢繫治使者數輩，吳王恐，以故遂稱病。夫『察見淵中魚不祥』；⟦7⟧唯上棄前過，與之更始。」⟦8⟧於是文帝乃赦吳使者，歸之，而賜吳王几杖，老，不朝。吳得釋其罪，謀亦益解。然其居國，以銅、鹽故，百姓無賦；⟦9⟧卒踐更，輒予平賈；⟦10⟧歲時存問茂材，賞賜閭里；他郡國吏欲來捕亡人者，公共禁弗予。如此者四十餘年。",
+   "mentions": [
+    {
+     "entity_id": "P06",
+     "entity_name": "刘贤",
+     "entity_type": "person",
+     "start": 7,
+     "end": 10,
+     "surface": "吳太子"
+    },
+    {
+     "entity_id": "P06",
+     "entity_name": "刘贤",
+     "entity_type": "person",
+     "start": 25,
+     "end": 28,
+     "surface": "吳太子"
+    },
+    {
+     "entity_id": "P06",
+     "entity_name": "刘贤",
+     "entity_type": "person",
+     "start": 42,
+     "end": 45,
+     "surface": "吳太子"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 59,
+     "end": 60,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 61,
+     "end": 63,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "L03",
+     "entity_name": "长安",
+     "entity_type": "place",
+     "start": 79,
+     "end": 81,
+     "surface": "長安"
+    },
+    {
+     "entity_id": "L03",
+     "entity_name": "长安",
+     "entity_type": "place",
+     "start": 83,
+     "end": 85,
+     "surface": "長安"
+    },
+    {
+     "entity_id": "L03",
+     "entity_name": "长安",
+     "entity_type": "place",
+     "start": 97,
+     "end": 99,
+     "surface": "長安"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 101,
+     "end": 103,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "L03",
+     "entity_name": "长安",
+     "entity_type": "place",
+     "start": 120,
+     "end": 122,
+     "surface": "京師"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 133,
+     "end": 134,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 137,
+     "end": 139,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "P27",
+     "entity_name": "刘恒",
+     "entity_type": "person",
+     "start": 156,
+     "end": 158,
+     "surface": "文帝"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 184,
+     "end": 186,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "P27",
+     "entity_name": "刘恒",
+     "entity_type": "person",
+     "start": 225,
+     "end": 227,
+     "surface": "文帝"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 229,
+     "end": 230,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 238,
+     "end": 240,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 248,
+     "end": 249,
+     "surface": "吳"
+    }
+   ]
+  },
+  {
+   "para_id": "p7",
+   "text": "鼂錯數上書言吳過，可削；文帝寬，不忍罰，以此吳日益橫。⟦0⟧及帝卽位，錯說上曰：「昔高帝初定天下，昆弟少，諸子弱，⟦1⟧大封同姓，齊七十餘城，楚四十餘城，吳五十餘城；封三庶孽，分天下半。今吳王前有太子之郤，⟦2⟧詐稱病不朝，於古法當誅。文帝弗忍，因賜几杖，德至厚，當改過自新；反益驕溢，卽山鑄錢，⟦3⟧煑海水爲鹽，誘天下亡人謀作亂。今削之亦反，不削亦反。削之，其反亟，禍小；不削，反遲，禍大。」上令公卿、列侯、宗室雜議，莫敢難；獨竇嬰爭之，由此與錯有郤。⟦4⟧及楚王戊來朝，錯因言：「戊往年爲薄太后服，私姦服舍，⟦5⟧請誅之。」詔赦，削東海郡。⟦6⟧及前年，趙王有罪，削其常山郡；膠西王卬以賣爵事有姦，⟦7⟧削其六縣。",
+   "mentions": [
+    {
+     "entity_id": "P05",
+     "entity_name": "晁错",
+     "entity_type": "person",
+     "start": 0,
+     "end": 2,
+     "surface": "鼂錯"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 6,
+     "end": 7,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "P27",
+     "entity_name": "刘恒",
+     "entity_type": "person",
+     "start": 12,
+     "end": 14,
+     "surface": "文帝"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 22,
+     "end": 23,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "P91",
+     "entity_name": "刘邦",
+     "entity_type": "person",
+     "start": 42,
+     "end": 44,
+     "surface": "高帝"
+    },
+    {
+     "entity_id": "L60",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 65,
+     "end": 66,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 71,
+     "end": 72,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 77,
+     "end": 78,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 94,
+     "end": 96,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "P27",
+     "entity_name": "刘恒",
+     "entity_type": "person",
+     "start": 118,
+     "end": 120,
+     "surface": "文帝"
+    },
+    {
+     "entity_id": "P04",
+     "entity_name": "窦婴",
+     "entity_type": "person",
+     "start": 215,
+     "end": 217,
+     "surface": "竇嬰"
+    },
+    {
+     "entity_id": "P16",
+     "entity_name": "刘戊",
+     "entity_type": "person",
+     "start": 231,
+     "end": 234,
+     "surface": "楚王戊"
+    },
+    {
+     "entity_id": "L41",
+     "entity_name": "东海郡",
+     "entity_type": "place",
+     "start": 268,
+     "end": 271,
+     "surface": "東海郡"
+    },
+    {
+     "entity_id": "P92",
+     "entity_name": "刘遂",
+     "entity_type": "person",
+     "start": 279,
+     "end": 281,
+     "surface": "趙王"
+    },
+    {
+     "entity_id": "L26",
+     "entity_name": "常山",
+     "entity_type": "place",
+     "start": 286,
+     "end": 289,
+     "surface": "常山郡"
+    },
+    {
+     "entity_id": "P09",
+     "entity_name": "刘卬",
+     "entity_type": "person",
+     "start": 290,
+     "end": 294,
+     "surface": "膠西王卬"
+    }
+   ]
+  },
+  {
+   "para_id": "p8",
+   "text": "廷臣方議削吳。吳王恐削地無已，因發謀舉事；念諸侯無足與計者，聞膠西王勇，好兵，⟦0⟧諸侯皆畏憚之，於是使中大夫應高口說膠西王曰：⟦1⟧「今者，主上任用邪臣，聽信讒賊，侵削諸侯，誅罰良重，⟦2⟧日以益甚。語有之曰：『狧穅及米。』⟦3⟧吳與膠西，知名諸侯也，一時見察，不得安肆矣。⟦4⟧吳王身有內疾，⟦5⟧不能朝請二十餘年，常患見疑，無以自白，脅肩累足，猶懼不見釋。⟦6⟧竊聞大王以爵事有過。所聞諸侯削地，罪不至此；⟦7⟧此恐不止削地而已！」王曰：「有之。子將柰何？」高曰：「吳王自以爲與大王同憂，願因時循理，棄軀以除患於天下，意亦可乎？」膠西王瞿然駭曰：⟦8⟧「寡人何敢如是！主上雖急，固有死耳，安得不事！」高曰：「御史大夫鼂錯，營惑天子，⟦9⟧侵奪諸侯，〔章：甲十五行本「侯」下有「朝廷疾怨」四字；乙十一行本同；張校同；退齋校同。〕諸侯皆有背叛之意，人事極矣。彗星出，⟦10⟧蝗蟲起，此萬世一時；而愁勞，聖人所以起也。⟦11⟧吳王內以鼂錯爲誅，外從大王後車，方洋天下，⟦12⟧所向者降，⟦13⟧所指者下，莫敢不服。大王誠幸而許之一言，則吳王率楚王略函谷關，守滎陽、敖倉之粟，距漢兵，治次舍，須大王。⟦14⟧大王幸而臨之，則天下可倂，兩主分割，不亦可乎！」王曰：「善！」歸，報吳王，吳王猶恐其不果，乃身自爲使者，至膠西面約之。膠西羣臣或聞王謀，諫曰：「諸侯地不能當漢十二，爲叛逆以憂太后，非計也。⟦15⟧今承一帝，尙云不易；⟦16⟧假令事成，兩主分爭，患乃益生。」王不聽，遂發使約齊、菑川、膠東、濟南，皆許諾。⟦17⟧",
+   "mentions": [
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 5,
+     "end": 6,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 7,
+     "end": 9,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "C01",
+     "entity_name": "削藩",
+     "entity_type": "concept",
+     "start": 10,
+     "end": 12,
+     "surface": "削地"
+    },
+    {
+     "entity_id": "P09",
+     "entity_name": "刘卬",
+     "entity_type": "person",
+     "start": 31,
+     "end": 34,
+     "surface": "膠西王"
+    },
+    {
+     "entity_id": "P08",
+     "entity_name": "应高",
+     "entity_type": "person",
+     "start": 52,
+     "end": 57,
+     "surface": "中大夫應高"
+    },
+    {
+     "entity_id": "P09",
+     "entity_name": "刘卬",
+     "entity_type": "person",
+     "start": 59,
+     "end": 62,
+     "surface": "膠西王"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 116,
+     "end": 117,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L63",
+     "entity_name": "胶西",
+     "entity_type": "place",
+     "start": 118,
+     "end": 120,
+     "surface": "膠西"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 141,
+     "end": 143,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "C01",
+     "entity_name": "削藩",
+     "entity_type": "concept",
+     "start": 198,
+     "end": 200,
+     "surface": "削地"
+    },
+    {
+     "entity_id": "C01",
+     "entity_name": "削藩",
+     "entity_type": "concept",
+     "start": 213,
+     "end": 215,
+     "surface": "削地"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 236,
+     "end": 238,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "P09",
+     "entity_name": "刘卬",
+     "entity_type": "person",
+     "start": 268,
+     "end": 271,
+     "surface": "膠西王"
+    },
+    {
+     "entity_id": "P05",
+     "entity_name": "晁错",
+     "entity_type": "person",
+     "start": 307,
+     "end": 313,
+     "surface": "御史大夫鼂錯"
+    },
+    {
+     "entity_id": "C13",
+     "entity_name": "彗星",
+     "entity_type": "concept",
+     "start": 380,
+     "end": 382,
+     "surface": "彗星"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 413,
+     "end": 415,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "P05",
+     "entity_name": "晁错",
+     "entity_type": "person",
+     "start": 417,
+     "end": 419,
+     "surface": "鼂錯"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 468,
+     "end": 470,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 471,
+     "end": 472,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L53",
+     "entity_name": "函谷关",
+     "entity_type": "place",
+     "start": 474,
+     "end": 477,
+     "surface": "函谷關"
+    },
+    {
+     "entity_id": "L09",
+     "entity_name": "荥阳",
+     "entity_type": "place",
+     "start": 479,
+     "end": 481,
+     "surface": "滎陽"
+    },
+    {
+     "entity_id": "L54",
+     "entity_name": "敖仓",
+     "entity_type": "place",
+     "start": 482,
+     "end": 484,
+     "surface": "敖倉"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 537,
+     "end": 539,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 540,
+     "end": 542,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "L63",
+     "entity_name": "胶西",
+     "entity_type": "place",
+     "start": 556,
+     "end": 558,
+     "surface": "膠西"
+    },
+    {
+     "entity_id": "L63",
+     "entity_name": "胶西",
+     "entity_type": "place",
+     "start": 562,
+     "end": 564,
+     "surface": "膠西"
+    },
+    {
+     "entity_id": "L60",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 639,
+     "end": 640,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L24",
+     "entity_name": "菑川",
+     "entity_type": "place",
+     "start": 641,
+     "end": 643,
+     "surface": "菑川"
+    }
+   ]
+  },
+  {
+   "para_id": "p9",
+   "text": "初，楚元王好書，⟦0⟧與魯申公、穆生、白生俱受詩於浮丘伯；及王楚，以三人爲中大夫。⟦1⟧穆生不耆酒；元王每置酒，常爲穆生設醴。及子夷王、孫王戊卽位，⟦2⟧常設，後乃忘設焉。⟦3⟧穆生退，曰：「可以逝矣！醴酒不設，王之意怠；不去，楚人將鉗我於市。」遂稱疾臥。申公、白生強起之，⟦4⟧曰：「獨不念先王之德與？⟦5⟧今王一旦失小禮，何足至此！」穆生曰：「易稱：『知幾其神乎！幾者，動之微，吉凶之先見者也。⟦6⟧君子見幾而作，不俟終日。』先王之所以禮吾三人者，爲道存也；今而忽之，是忘道也。忘道之人，胡可與久處，豈爲區區之禮哉！」⟦7⟧遂謝病去。申公、白生獨留。王戊稍淫暴，太傅韋孟作詩諷諫，不聽，亦去，居於鄒。⟦8⟧戊因坐削地事，遂與吳通謀。申公、白生諫戊，戊胥靡之，衣之赭衣，使雅舂於市。⟦9⟧休侯富使人諫王。⟦10⟧王曰：「季父不吾與，我起，先取季父矣！」休侯懼，乃與母太夫人奔京師。⟦11⟧",
+   "mentions": [
+    {
+     "entity_id": "P10",
+     "entity_name": "刘交",
+     "entity_type": "person",
+     "start": 2,
+     "end": 5,
+     "surface": "楚元王"
+    },
+    {
+     "entity_id": "P11",
+     "entity_name": "申公",
+     "entity_type": "person",
+     "start": 12,
+     "end": 15,
+     "surface": "魯申公"
+    },
+    {
+     "entity_id": "P12",
+     "entity_name": "穆生",
+     "entity_type": "person",
+     "start": 16,
+     "end": 18,
+     "surface": "穆生"
+    },
+    {
+     "entity_id": "P13",
+     "entity_name": "白生",
+     "entity_type": "person",
+     "start": 19,
+     "end": 21,
+     "surface": "白生"
+    },
+    {
+     "entity_id": "P14",
+     "entity_name": "浮丘伯",
+     "entity_type": "person",
+     "start": 25,
+     "end": 28,
+     "surface": "浮丘伯"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 31,
+     "end": 32,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P12",
+     "entity_name": "穆生",
+     "entity_type": "person",
+     "start": 44,
+     "end": 46,
+     "surface": "穆生"
+    },
+    {
+     "entity_id": "P12",
+     "entity_name": "穆生",
+     "entity_type": "person",
+     "start": 58,
+     "end": 60,
+     "surface": "穆生"
+    },
+    {
+     "entity_id": "P12",
+     "entity_name": "穆生",
+     "entity_type": "person",
+     "start": 89,
+     "end": 91,
+     "surface": "穆生"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 114,
+     "end": 115,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P11",
+     "entity_name": "申公",
+     "entity_type": "person",
+     "start": 128,
+     "end": 130,
+     "surface": "申公"
+    },
+    {
+     "entity_id": "P13",
+     "entity_name": "白生",
+     "entity_type": "person",
+     "start": 131,
+     "end": 133,
+     "surface": "白生"
+    },
+    {
+     "entity_id": "P12",
+     "entity_name": "穆生",
+     "entity_type": "person",
+     "start": 169,
+     "end": 171,
+     "surface": "穆生"
+    },
+    {
+     "entity_id": "P11",
+     "entity_name": "申公",
+     "entity_type": "person",
+     "start": 269,
+     "end": 271,
+     "surface": "申公"
+    },
+    {
+     "entity_id": "P13",
+     "entity_name": "白生",
+     "entity_type": "person",
+     "start": 272,
+     "end": 274,
+     "surface": "白生"
+    },
+    {
+     "entity_id": "P15",
+     "entity_name": "韦孟",
+     "entity_type": "person",
+     "start": 283,
+     "end": 287,
+     "surface": "太傅韋孟"
+    },
+    {
+     "entity_id": "L36",
+     "entity_name": "邹",
+     "entity_type": "place",
+     "start": 300,
+     "end": 301,
+     "surface": "鄒"
+    },
+    {
+     "entity_id": "C01",
+     "entity_name": "削藩",
+     "entity_type": "concept",
+     "start": 308,
+     "end": 310,
+     "surface": "削地"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 314,
+     "end": 315,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "P11",
+     "entity_name": "申公",
+     "entity_type": "person",
+     "start": 318,
+     "end": 320,
+     "surface": "申公"
+    },
+    {
+     "entity_id": "P13",
+     "entity_name": "白生",
+     "entity_type": "person",
+     "start": 321,
+     "end": 323,
+     "surface": "白生"
+    },
+    {
+     "entity_id": "C24",
+     "entity_name": "赭衣",
+     "entity_type": "concept",
+     "start": 333,
+     "end": 335,
+     "surface": "赭衣"
+    },
+    {
+     "entity_id": "P17",
+     "entity_name": "刘富",
+     "entity_type": "person",
+     "start": 345,
+     "end": 347,
+     "surface": "休侯"
+    },
+    {
+     "entity_id": "P17",
+     "entity_name": "刘富",
+     "entity_type": "person",
+     "start": 377,
+     "end": 379,
+     "surface": "休侯"
+    },
+    {
+     "entity_id": "L03",
+     "entity_name": "长安",
+     "entity_type": "place",
+     "start": 388,
+     "end": 390,
+     "surface": "京師"
+    }
+   ]
+  },
+  {
+   "para_id": "p10",
+   "text": "及削吳會稽、豫章郡書至，吳王遂先起兵，誅漢吏二千石以下；膠西、膠東、菑川、濟南、楚、趙亦皆反。楚相張尙、太傅趙夷吾諫王戊，戊殺尙、夷吾。趙相建德、內史王悍諫王遂，遂燒殺建德、悍。⟦0⟧齊王後悔，背約城守。⟦1⟧濟北王城壞未完，其郎中令劫守，王不得發兵。膠西王、膠東王爲渠率，⟦2⟧與菑川、濟南共攻齊，圍臨菑。⟦3⟧趙王遂發兵住其西界，欲待吳、楚俱進，北使匈奴與連兵。⟦4⟧",
+   "mentions": [
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 2,
+     "end": 3,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L42",
+     "entity_name": "会稽",
+     "entity_type": "place",
+     "start": 3,
+     "end": 5,
+     "surface": "會稽"
+    },
+    {
+     "entity_id": "L43",
+     "entity_name": "豫章",
+     "entity_type": "place",
+     "start": 6,
+     "end": 9,
+     "surface": "豫章郡"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 12,
+     "end": 14,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "C18",
+     "entity_name": "二千石",
+     "entity_type": "concept",
+     "start": 22,
+     "end": 25,
+     "surface": "二千石"
+    },
+    {
+     "entity_id": "L63",
+     "entity_name": "胶西",
+     "entity_type": "place",
+     "start": 28,
+     "end": 30,
+     "surface": "膠西"
+    },
+    {
+     "entity_id": "L24",
+     "entity_name": "菑川",
+     "entity_type": "place",
+     "start": 34,
+     "end": 36,
+     "surface": "菑川"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 40,
+     "end": 41,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L62",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 42,
+     "end": 43,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 47,
+     "end": 48,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P19",
+     "entity_name": "赵夷吾",
+     "entity_type": "person",
+     "start": 52,
+     "end": 57,
+     "surface": "太傅趙夷吾"
+    },
+    {
+     "entity_id": "P20",
+     "entity_name": "建德",
+     "entity_type": "person",
+     "start": 68,
+     "end": 72,
+     "surface": "趙相建德"
+    },
+    {
+     "entity_id": "P21",
+     "entity_name": "王悍",
+     "entity_type": "person",
+     "start": 73,
+     "end": 77,
+     "surface": "內史王悍"
+    },
+    {
+     "entity_id": "P20",
+     "entity_name": "建德",
+     "entity_type": "person",
+     "start": 84,
+     "end": 86,
+     "surface": "建德"
+    },
+    {
+     "entity_id": "P22",
+     "entity_name": "刘将闾",
+     "entity_type": "person",
+     "start": 92,
+     "end": 94,
+     "surface": "齊王"
+    },
+    {
+     "entity_id": "P23",
+     "entity_name": "刘志",
+     "entity_type": "person",
+     "start": 105,
+     "end": 108,
+     "surface": "濟北王"
+    },
+    {
+     "entity_id": "P09",
+     "entity_name": "刘卬",
+     "entity_type": "person",
+     "start": 126,
+     "end": 129,
+     "surface": "膠西王"
+    },
+    {
+     "entity_id": "L24",
+     "entity_name": "菑川",
+     "entity_type": "place",
+     "start": 141,
+     "end": 143,
+     "surface": "菑川"
+    },
+    {
+     "entity_id": "L60",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 148,
+     "end": 149,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L18",
+     "entity_name": "临菑",
+     "entity_type": "place",
+     "start": 151,
+     "end": 153,
+     "surface": "臨菑"
+    },
+    {
+     "entity_id": "P92",
+     "entity_name": "刘遂",
+     "entity_type": "person",
+     "start": 157,
+     "end": 160,
+     "surface": "趙王遂"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 169,
+     "end": 170,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 171,
+     "end": 172,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L76",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 177,
+     "end": 179,
+     "surface": "匈奴"
+    }
+   ]
+  },
+  {
+   "para_id": "p11",
+   "text": "吳王悉其士卒，下令國中曰：「寡人年六十二，身自將；⟦0⟧少子年十四，亦爲士卒先。諸年上與寡人同，下與少子等，皆發。」凡二十餘萬人。南使閩、東越，⟦1⟧閩、東越亦發兵從。⟦2⟧吳王起兵於廣陵，⟦3⟧西涉淮，因幷楚兵，發使遺諸侯書，罪狀鼂錯，⟦4⟧欲合兵誅之。吳、楚共攻梁，破棘壁，⟦5⟧殺數萬人；乘勝而前，銳甚。梁孝王遣將軍擊之，又敗梁兩軍，⟦6⟧士卒皆還走。梁王城守睢陽。⟦7⟧",
+   "mentions": [
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 0,
+     "end": 2,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "L16",
+     "entity_name": "东越",
+     "entity_type": "place",
+     "start": 69,
+     "end": 71,
+     "surface": "東越"
+    },
+    {
+     "entity_id": "L16",
+     "entity_name": "东越",
+     "entity_type": "place",
+     "start": 77,
+     "end": 79,
+     "surface": "東越"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 87,
+     "end": 89,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "L07",
+     "entity_name": "广陵",
+     "entity_type": "place",
+     "start": 92,
+     "end": 94,
+     "surface": "廣陵"
+    },
+    {
+     "entity_id": "L08",
+     "entity_name": "淮",
+     "entity_type": "place",
+     "start": 100,
+     "end": 101,
+     "surface": "淮"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 104,
+     "end": 105,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P05",
+     "entity_name": "晁错",
+     "entity_type": "person",
+     "start": 116,
+     "end": 118,
+     "surface": "鼂錯"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 128,
+     "end": 129,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 130,
+     "end": 131,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L04",
+     "entity_name": "梁",
+     "entity_type": "place",
+     "start": 133,
+     "end": 134,
+     "surface": "梁"
+    },
+    {
+     "entity_id": "L05",
+     "entity_name": "棘壁",
+     "entity_type": "place",
+     "start": 136,
+     "end": 138,
+     "surface": "棘壁"
+    },
+    {
+     "entity_id": "P02",
+     "entity_name": "刘武",
+     "entity_type": "person",
+     "start": 155,
+     "end": 158,
+     "surface": "梁孝王"
+    },
+    {
+     "entity_id": "L04",
+     "entity_name": "梁",
+     "entity_type": "place",
+     "start": 166,
+     "end": 167,
+     "surface": "梁"
+    },
+    {
+     "entity_id": "P02",
+     "entity_name": "刘武",
+     "entity_type": "person",
+     "start": 179,
+     "end": 181,
+     "surface": "梁王"
+    },
+    {
+     "entity_id": "L06",
+     "entity_name": "睢阳",
+     "entity_type": "place",
+     "start": 183,
+     "end": 185,
+     "surface": "睢陽"
+    }
+   ]
+  },
+  {
+   "para_id": "p12",
+   "text": "初，文帝且崩，戒太子曰：「卽有緩急，周亞夫眞可任將兵。」及七國反書聞，上乃拜中尉周亞夫爲太尉，將三十六將軍往擊吳、楚，遣曲周侯酈寄擊趙，⟦0⟧將軍欒布擊齊；復召竇嬰，拜爲大將軍，使屯滎陽監齊、趙兵。⟦1⟧",
+   "mentions": [
+    {
+     "entity_id": "P27",
+     "entity_name": "刘恒",
+     "entity_type": "person",
+     "start": 2,
+     "end": 4,
+     "surface": "文帝"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 18,
+     "end": 21,
+     "surface": "周亞夫"
+    },
+    {
+     "entity_id": "C16",
+     "entity_name": "中尉",
+     "entity_type": "concept",
+     "start": 38,
+     "end": 40,
+     "surface": "中尉"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 40,
+     "end": 43,
+     "surface": "周亞夫"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 44,
+     "end": 46,
+     "surface": "太尉"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 55,
+     "end": 56,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 57,
+     "end": 58,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P25",
+     "entity_name": "郦寄",
+     "entity_type": "person",
+     "start": 60,
+     "end": 63,
+     "surface": "曲周侯"
+    },
+    {
+     "entity_id": "P25",
+     "entity_name": "郦寄",
+     "entity_type": "person",
+     "start": 63,
+     "end": 65,
+     "surface": "酈寄"
+    },
+    {
+     "entity_id": "L62",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 66,
+     "end": 67,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P26",
+     "entity_name": "栾布",
+     "entity_type": "person",
+     "start": 71,
+     "end": 75,
+     "surface": "將軍欒布"
+    },
+    {
+     "entity_id": "L60",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 76,
+     "end": 77,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P04",
+     "entity_name": "窦婴",
+     "entity_type": "person",
+     "start": 80,
+     "end": 82,
+     "surface": "竇嬰"
+    },
+    {
+     "entity_id": "L09",
+     "entity_name": "荥阳",
+     "entity_type": "place",
+     "start": 91,
+     "end": 93,
+     "surface": "滎陽"
+    },
+    {
+     "entity_id": "L60",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 94,
+     "end": 95,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L62",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 96,
+     "end": 97,
+     "surface": "趙"
+    }
+   ]
+  },
+  {
+   "para_id": "p13",
+   "text": "初，鼂錯所更令三十章，⟦0⟧諸侯讙譁。⟦1⟧錯父聞之，從潁川來，⟦2⟧謂錯曰：「上初卽位，公爲政用事，侵削諸侯，疏人骨肉，⟦3⟧口語多怨，公何爲也？」錯曰：「固也；不如此，天子不尊，宗廟不安。」父曰：「劉氏安矣而鼂氏危，吾去公歸矣！」遂飲藥死，曰：「吾不忍見禍逮身！」後十餘日，吳、楚七國俱反，以誅錯爲名。",
+   "mentions": [
+    {
+     "entity_id": "P05",
+     "entity_name": "晁错",
+     "entity_type": "person",
+     "start": 2,
+     "end": 4,
+     "surface": "鼂錯"
+    },
+    {
+     "entity_id": "L47",
+     "entity_name": "颍川",
+     "entity_type": "place",
+     "start": 28,
+     "end": 30,
+     "surface": "潁川"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 139,
+     "end": 140,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 141,
+     "end": 142,
+     "surface": "楚"
+    }
+   ]
+  },
+  {
+   "para_id": "p14",
+   "text": "上與錯議出軍事，錯欲令上自將兵而身居守；⟦0⟧又言：「徐、僮之旁吳所未下者，可以予吳。」⟦1⟧錯素與吳相袁盎不善，⟦2⟧錯所居坐，盎輒避；盎所居坐，錯亦避；⟦3⟧兩人未嘗同堂語。及錯爲御史大夫，使吏按盎受吳王財物，抵罪；詔赦以爲庶人。吳、楚反，錯謂丞、史曰：⟦4⟧「袁盎多受吳王金錢，專爲蔽匿，言不反；今果反，欲請治盎，宜知其計謀。」丞、史曰：「事未發，治之有絕；⟦5⟧今兵西向，治之何益！且盎不宜有謀。」錯猶與未決。⟦6⟧人有告盎，盎恐，夜見竇嬰，爲言吳所以反，願至前，口對狀。嬰入言，上乃召盎。盎入見，⟦7⟧上方與錯調兵食。⟦8⟧上問盎：「今吳、楚反，於公意何如？」對曰：「不足憂也！」上曰：「吳王卽山鑄錢，煑海爲鹽，誘天下豪傑；白頭舉事，此其計不百全，豈發乎！何以言其無能爲也？」對曰：「吳銅鹽之利則有之，安得豪傑而誘之！⟦9⟧誠令吳得豪傑，亦且輔而爲誼，不反矣。吳所誘皆無賴子弟、亡命、鑄錢姦人，⟦10⟧故相誘以亂。」錯曰：「盎策之善。」上曰：「計安出？」盎對曰：「願屛左右。」上屛人，獨錯在；盎曰：「臣所言，人臣不得知。」乃屛錯。⟦11⟧錯趨避東廂，甚恨。上卒問盎，⟦12⟧對曰：「吳、楚相遺書，言高皇帝王子弟各有分地，⟦13⟧今賊臣鼂錯擅適諸侯，⟦14⟧削奪之地，以故反，欲西共誅錯，復故地而罷。方今計獨有斬錯，發使赦吳、楚七國，⟦15⟧復其故地，則兵可毋血刃而俱罷。」於是上默然良久，曰：「顧誠何如？吾不愛一人以謝天下。」盎曰：「愚計出此，唯上孰計之！」⟦16⟧乃拜盎爲太常，⟦17⟧密裝治行。⟦18⟧後十餘日，上令丞相青、中尉嘉、廷尉歐⟦19⟧劾奏錯：「不稱主上德信，欲疏羣臣、百姓，又欲以城邑予吳，無臣子禮，大逆無道。錯當要斬，⟦20⟧父母、妻子、同產無少長皆棄市。」⟦21⟧制曰：「可。」錯殊不知。壬子，上使中尉召錯，紿載行市，⟦22⟧錯衣朝衣斬東市。⟦23⟧上乃使袁盎與吳王弟子宗正德侯通使吳。⟦24⟧",
+   "mentions": [
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 32,
+     "end": 33,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 41,
+     "end": 42,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "P28",
+     "entity_name": "袁盎",
+     "entity_type": "person",
+     "start": 50,
+     "end": 54,
+     "surface": "吳相袁盎"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 102,
+     "end": 104,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 117,
+     "end": 118,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 119,
+     "end": 120,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P28",
+     "entity_name": "袁盎",
+     "entity_type": "person",
+     "start": 133,
+     "end": 135,
+     "surface": "袁盎"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 137,
+     "end": 139,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "P04",
+     "entity_name": "窦婴",
+     "entity_type": "person",
+     "start": 222,
+     "end": 224,
+     "surface": "竇嬰"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 227,
+     "end": 228,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 273,
+     "end": 274,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 275,
+     "end": 276,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 299,
+     "end": 301,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 347,
+     "end": 348,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 369,
+     "end": 370,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 385,
+     "end": 386,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 496,
+     "end": 497,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 498,
+     "end": 499,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P91",
+     "entity_name": "刘邦",
+     "entity_type": "person",
+     "start": 504,
+     "end": 507,
+     "surface": "高皇帝"
+    },
+    {
+     "entity_id": "P05",
+     "entity_name": "晁错",
+     "entity_type": "person",
+     "start": 522,
+     "end": 524,
+     "surface": "鼂錯"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 565,
+     "end": 566,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 567,
+     "end": 568,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P29",
+     "entity_name": "陶青",
+     "entity_type": "person",
+     "start": 665,
+     "end": 668,
+     "surface": "丞相青"
+    },
+    {
+     "entity_id": "P31",
+     "entity_name": "嘉",
+     "entity_type": "person",
+     "start": 669,
+     "end": 672,
+     "surface": "中尉嘉"
+    },
+    {
+     "entity_id": "P30",
+     "entity_name": "张欧",
+     "entity_type": "person",
+     "start": 673,
+     "end": 676,
+     "surface": "廷尉歐"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 706,
+     "end": 707,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "C16",
+     "entity_name": "中尉",
+     "entity_type": "concept",
+     "start": 764,
+     "end": 766,
+     "surface": "中尉"
+    },
+    {
+     "entity_id": "L39",
+     "entity_name": "东市",
+     "entity_type": "place",
+     "start": 783,
+     "end": 785,
+     "surface": "東市"
+    },
+    {
+     "entity_id": "P28",
+     "entity_name": "袁盎",
+     "entity_type": "person",
+     "start": 793,
+     "end": 795,
+     "surface": "袁盎"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 796,
+     "end": 798,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "C28",
+     "entity_name": "宗正",
+     "entity_type": "concept",
+     "start": 800,
+     "end": 802,
+     "surface": "宗正"
+    },
+    {
+     "entity_id": "P33",
+     "entity_name": "刘通",
+     "entity_type": "person",
+     "start": 802,
+     "end": 805,
+     "surface": "德侯通"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 806,
+     "end": 807,
+     "surface": "吳"
+    }
+   ]
+  },
+  {
+   "para_id": "p15",
+   "text": "謁者僕射鄧公爲校尉，上書言軍事，見上，⟦0⟧上問曰：「道軍所來，⟦1⟧聞鼂錯死，吳、楚罷不？」⟦2⟧鄧公曰：「吳爲反數十歲矣；發怒削地，以誅錯爲名，其意不在錯也。且臣恐天下之士拑口不敢復言矣。」⟦3⟧上曰：「何哉？」鄧公曰：「夫鼂錯患諸侯強大不可制，故請削之以尊京師，萬世之利也。計畫始行，卒受大戮；⟦4⟧內杜忠臣之口，外爲諸侯報仇，臣竊爲陛下不取也。」⟦5⟧於是帝喟然長息曰：「公言善，吾亦恨之！」",
+   "mentions": [
+    {
+     "entity_id": "P32",
+     "entity_name": "邓公",
+     "entity_type": "person",
+     "start": 0,
+     "end": 6,
+     "surface": "謁者僕射鄧公"
+    },
+    {
+     "entity_id": "P05",
+     "entity_name": "晁错",
+     "entity_type": "person",
+     "start": 36,
+     "end": 38,
+     "surface": "鼂錯"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 40,
+     "end": 41,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 42,
+     "end": 43,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P32",
+     "entity_name": "邓公",
+     "entity_type": "person",
+     "start": 50,
+     "end": 52,
+     "surface": "鄧公"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 55,
+     "end": 56,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "C01",
+     "entity_name": "削藩",
+     "entity_type": "concept",
+     "start": 65,
+     "end": 67,
+     "surface": "削地"
+    },
+    {
+     "entity_id": "P32",
+     "entity_name": "邓公",
+     "entity_type": "person",
+     "start": 108,
+     "end": 110,
+     "surface": "鄧公"
+    },
+    {
+     "entity_id": "P05",
+     "entity_name": "晁错",
+     "entity_type": "person",
+     "start": 114,
+     "end": 116,
+     "surface": "鼂錯"
+    },
+    {
+     "entity_id": "L03",
+     "entity_name": "长安",
+     "entity_type": "place",
+     "start": 131,
+     "end": 133,
+     "surface": "京師"
+    }
+   ]
+  },
+  {
+   "para_id": "p16",
+   "text": "袁盎、劉通至吳，吳、楚兵已攻梁壁矣。宗正以親故，先入見，諭吳王，令拜受詔。⟦0⟧吳王聞袁盎來，知其欲說，⟦1⟧笑而應曰：「我已爲東帝，尙誰拜！」不肯見盎，而留軍中，欲劫使將；⟦2⟧盎不肯，使人圍守，且殺之。盎得間，脫亡歸報。⟦3⟧",
+   "mentions": [
+    {
+     "entity_id": "P28",
+     "entity_name": "袁盎",
+     "entity_type": "person",
+     "start": 0,
+     "end": 2,
+     "surface": "袁盎"
+    },
+    {
+     "entity_id": "P33",
+     "entity_name": "刘通",
+     "entity_type": "person",
+     "start": 3,
+     "end": 5,
+     "surface": "劉通"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 6,
+     "end": 7,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 8,
+     "end": 9,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 10,
+     "end": 11,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L04",
+     "entity_name": "梁",
+     "entity_type": "place",
+     "start": 14,
+     "end": 15,
+     "surface": "梁"
+    },
+    {
+     "entity_id": "C28",
+     "entity_name": "宗正",
+     "entity_type": "concept",
+     "start": 18,
+     "end": 20,
+     "surface": "宗正"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 29,
+     "end": 31,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 40,
+     "end": 42,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "P28",
+     "entity_name": "袁盎",
+     "entity_type": "person",
+     "start": 43,
+     "end": 45,
+     "surface": "袁盎"
+    },
+    {
+     "entity_id": "C19",
+     "entity_name": "东帝",
+     "entity_type": "concept",
+     "start": 64,
+     "end": 66,
+     "surface": "東帝"
+    }
+   ]
+  },
+  {
+   "para_id": "p17",
+   "text": "太尉亞夫言於上曰：「楚兵剽輕，難與爭鋒，⟦0⟧願以梁委之，絕其食道，乃可制也。」上許之。亞夫乘六乘傳，⟦1⟧將會兵滎陽。⟦2⟧發至霸上，趙涉遮說亞夫曰：「吳王素富，懷輯死士久矣。此知將軍且行，必置間人於殽、澠阸陿之間；⟦3⟧且兵事尙〔章：甲十五行本「尙」作「上」；乙十一行本同。〕神密，將軍何不從此右去，走藍田，出武關，抵洛陽！間不過差一二日，⟦4⟧直入武庫，⟦5⟧擊鳴鼓。諸侯聞之，以爲將軍從天而下也。」太尉如其計，至洛陽，喜曰：「七國反，吾乘傳至此，不自意全。⟦6⟧今吾據滎陽，滎陽以東，無足憂者。」⟦7⟧使吏搜殽、澠間，果得吳伏兵。乃請趙涉爲護軍。",
+   "mentions": [
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 0,
+     "end": 2,
+     "surface": "太尉"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 2,
+     "end": 4,
+     "surface": "亞夫"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 10,
+     "end": 11,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L04",
+     "entity_name": "梁",
+     "entity_type": "place",
+     "start": 25,
+     "end": 26,
+     "surface": "梁"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 44,
+     "end": 46,
+     "surface": "亞夫"
+    },
+    {
+     "entity_id": "C15",
+     "entity_name": "传车",
+     "entity_type": "concept",
+     "start": 47,
+     "end": 50,
+     "surface": "六乘傳"
+    },
+    {
+     "entity_id": "L09",
+     "entity_name": "荥阳",
+     "entity_type": "place",
+     "start": 57,
+     "end": 59,
+     "surface": "滎陽"
+    },
+    {
+     "entity_id": "L10",
+     "entity_name": "霸上",
+     "entity_type": "place",
+     "start": 65,
+     "end": 67,
+     "surface": "霸上"
+    },
+    {
+     "entity_id": "P34",
+     "entity_name": "赵涉",
+     "entity_type": "person",
+     "start": 68,
+     "end": 70,
+     "surface": "趙涉"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 72,
+     "end": 74,
+     "surface": "亞夫"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 77,
+     "end": 79,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "L56",
+     "entity_name": "殽",
+     "entity_type": "place",
+     "start": 101,
+     "end": 102,
+     "surface": "殽"
+    },
+    {
+     "entity_id": "L57",
+     "entity_name": "渑",
+     "entity_type": "place",
+     "start": 103,
+     "end": 104,
+     "surface": "澠"
+    },
+    {
+     "entity_id": "L11",
+     "entity_name": "蓝田",
+     "entity_type": "place",
+     "start": 153,
+     "end": 155,
+     "surface": "藍田"
+    },
+    {
+     "entity_id": "L12",
+     "entity_name": "武关",
+     "entity_type": "place",
+     "start": 157,
+     "end": 159,
+     "surface": "武關"
+    },
+    {
+     "entity_id": "L01",
+     "entity_name": "洛阳",
+     "entity_type": "place",
+     "start": 161,
+     "end": 163,
+     "surface": "洛陽"
+    },
+    {
+     "entity_id": "L69",
+     "entity_name": "洛阳武库",
+     "entity_type": "place",
+     "start": 177,
+     "end": 179,
+     "surface": "武庫"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 203,
+     "end": 205,
+     "surface": "太尉"
+    },
+    {
+     "entity_id": "L01",
+     "entity_name": "洛阳",
+     "entity_type": "place",
+     "start": 210,
+     "end": 212,
+     "surface": "洛陽"
+    },
+    {
+     "entity_id": "L09",
+     "entity_name": "荥阳",
+     "entity_type": "place",
+     "start": 238,
+     "end": 240,
+     "surface": "滎陽"
+    },
+    {
+     "entity_id": "L09",
+     "entity_name": "荥阳",
+     "entity_type": "place",
+     "start": 241,
+     "end": 243,
+     "surface": "滎陽"
+    },
+    {
+     "entity_id": "L56",
+     "entity_name": "殽",
+     "entity_type": "place",
+     "start": 258,
+     "end": 259,
+     "surface": "殽"
+    },
+    {
+     "entity_id": "L57",
+     "entity_name": "渑",
+     "entity_type": "place",
+     "start": 260,
+     "end": 261,
+     "surface": "澠"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 265,
+     "end": 266,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "P34",
+     "entity_name": "赵涉",
+     "entity_type": "person",
+     "start": 271,
+     "end": 273,
+     "surface": "趙涉"
+    }
+   ]
+  },
+  {
+   "para_id": "p18",
+   "text": "太尉引兵東北走昌邑。⟦0⟧吳攻梁急，梁數使使條侯求救，條侯不許；⟦1⟧又使使愬條侯於上。上使告條侯救梁，亞夫不奉詔，堅壁不出；而使弓高侯等將輕騎兵出淮泗口，⟦2⟧絕吳、楚兵後，塞其饟道。⟦3⟧梁使中大夫韓安國及楚相張尙弟羽爲將軍；羽力戰，安國持重，乃得頗敗吳兵。吳兵欲西，梁城守，不敢西；⟦4⟧卽走條侯軍，會下邑，⟦5⟧欲戰。條侯堅壁不肯戰；吳糧絕卒飢，數挑戰，終不出。⟦6⟧條侯軍中夜驚，內相攻擊，擾亂至帳下，亞夫堅臥不起，頃之，復定。吳奔壁東南陬，⟦7⟧亞夫使備西北；已而其精兵果奔西北，不得入。吳、楚士卒多飢死叛散，乃引而去。二月，亞夫出精兵追擊，大破之。吳王濞棄其軍，與壯士數千人夜亡走；楚王戊自殺。",
+   "mentions": [
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 0,
+     "end": 2,
+     "surface": "太尉"
+    },
+    {
+     "entity_id": "L13",
+     "entity_name": "昌邑",
+     "entity_type": "place",
+     "start": 7,
+     "end": 9,
+     "surface": "昌邑"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 13,
+     "end": 14,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L04",
+     "entity_name": "梁",
+     "entity_type": "place",
+     "start": 15,
+     "end": 16,
+     "surface": "梁"
+    },
+    {
+     "entity_id": "L04",
+     "entity_name": "梁",
+     "entity_type": "place",
+     "start": 18,
+     "end": 19,
+     "surface": "梁"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 22,
+     "end": 24,
+     "surface": "條侯"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 27,
+     "end": 29,
+     "surface": "條侯"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 39,
+     "end": 41,
+     "surface": "條侯"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 47,
+     "end": 49,
+     "surface": "條侯"
+    },
+    {
+     "entity_id": "L04",
+     "entity_name": "梁",
+     "entity_type": "place",
+     "start": 50,
+     "end": 51,
+     "surface": "梁"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 52,
+     "end": 54,
+     "surface": "亞夫"
+    },
+    {
+     "entity_id": "P43",
+     "entity_name": "韩颓当",
+     "entity_type": "person",
+     "start": 65,
+     "end": 68,
+     "surface": "弓高侯"
+    },
+    {
+     "entity_id": "L55",
+     "entity_name": "淮泗口",
+     "entity_type": "place",
+     "start": 74,
+     "end": 77,
+     "surface": "淮泗口"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 82,
+     "end": 83,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 84,
+     "end": 85,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L04",
+     "entity_name": "梁",
+     "entity_type": "place",
+     "start": 96,
+     "end": 97,
+     "surface": "梁"
+    },
+    {
+     "entity_id": "P35",
+     "entity_name": "韩安国",
+     "entity_type": "person",
+     "start": 98,
+     "end": 104,
+     "surface": "中大夫韓安國"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 105,
+     "end": 106,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 128,
+     "end": 129,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 131,
+     "end": 132,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L04",
+     "entity_name": "梁",
+     "entity_type": "place",
+     "start": 136,
+     "end": 137,
+     "surface": "梁"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 149,
+     "end": 151,
+     "surface": "條侯"
+    },
+    {
+     "entity_id": "L14",
+     "entity_name": "下邑",
+     "entity_type": "place",
+     "start": 154,
+     "end": 156,
+     "surface": "下邑"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 163,
+     "end": 165,
+     "surface": "條侯"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 171,
+     "end": 172,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 188,
+     "end": 190,
+     "surface": "條侯"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 206,
+     "end": 208,
+     "surface": "亞夫"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 219,
+     "end": 220,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 229,
+     "end": 231,
+     "surface": "亞夫"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 250,
+     "end": 251,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 252,
+     "end": 253,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 269,
+     "end": 271,
+     "surface": "亞夫"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 281,
+     "end": 284,
+     "surface": "吳王濞"
+    },
+    {
+     "entity_id": "P16",
+     "entity_name": "刘戊",
+     "entity_type": "person",
+     "start": 298,
+     "end": 301,
+     "surface": "楚王戊"
+    }
+   ]
+  },
+  {
+   "para_id": "p19",
+   "text": "吳王之初發也，吳臣田祿伯爲大將軍。田祿伯曰：「兵屯聚而西，無他奇道，難以立功。臣願得五萬人，別循江、淮而上，⟦0⟧收淮南、長沙，入武關，與大王會，此亦一奇也。」吳王太子諫曰：「王以反爲名，此兵難以借人，人亦且反王，柰何？且擅兵而別，多他利害，⟦1⟧徒自損耳！」吳王卽不許田祿伯。",
+   "mentions": [
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 0,
+     "end": 2,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 7,
+     "end": 8,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "P37",
+     "entity_name": "田禄伯",
+     "entity_type": "person",
+     "start": 9,
+     "end": 12,
+     "surface": "田祿伯"
+    },
+    {
+     "entity_id": "P37",
+     "entity_name": "田禄伯",
+     "entity_type": "person",
+     "start": 17,
+     "end": 20,
+     "surface": "田祿伯"
+    },
+    {
+     "entity_id": "L08",
+     "entity_name": "淮",
+     "entity_type": "place",
+     "start": 50,
+     "end": 51,
+     "surface": "淮"
+    },
+    {
+     "entity_id": "L20",
+     "entity_name": "淮南",
+     "entity_type": "place",
+     "start": 58,
+     "end": 60,
+     "surface": "淮南"
+    },
+    {
+     "entity_id": "L12",
+     "entity_name": "武关",
+     "entity_type": "place",
+     "start": 65,
+     "end": 67,
+     "surface": "武關"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 80,
+     "end": 82,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 130,
+     "end": 132,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "P37",
+     "entity_name": "田禄伯",
+     "entity_type": "person",
+     "start": 135,
+     "end": 138,
+     "surface": "田祿伯"
+    }
+   ]
+  },
+  {
+   "para_id": "p20",
+   "text": "吳少將桓將軍說王曰：「吳多步兵，步兵利險；漢多車騎，車騎利平地。願大王所過城不下，直去，疾西據洛陽武庫，食敖倉粟，阻山河之險以令諸侯，雖無入關，天下固已定矣。大王徐行留下城邑，漢軍車騎至，馳入梁、楚之郊，事敗矣。」吳王問諸老將，老將曰：「此年少，椎鋒可耳，安知大慮！」⟦0⟧於是王不用桓將軍計。",
+   "mentions": [
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 0,
+     "end": 1,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "P38",
+     "entity_name": "桓将军",
+     "entity_type": "person",
+     "start": 1,
+     "end": 6,
+     "surface": "少將桓將軍"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 11,
+     "end": 12,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L69",
+     "entity_name": "洛阳武库",
+     "entity_type": "place",
+     "start": 47,
+     "end": 51,
+     "surface": "洛陽武庫"
+    },
+    {
+     "entity_id": "L54",
+     "entity_name": "敖仓",
+     "entity_type": "place",
+     "start": 53,
+     "end": 55,
+     "surface": "敖倉"
+    },
+    {
+     "entity_id": "L04",
+     "entity_name": "梁",
+     "entity_type": "place",
+     "start": 96,
+     "end": 97,
+     "surface": "梁"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 98,
+     "end": 99,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 107,
+     "end": 109,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "P38",
+     "entity_name": "桓将军",
+     "entity_type": "person",
+     "start": 142,
+     "end": 145,
+     "surface": "桓將軍"
+    }
+   ]
+  },
+  {
+   "para_id": "p21",
+   "text": "王專幷將兵。兵未渡淮，諸賓客皆得爲將、校尉、候、司馬，⟦0⟧獨周丘不用。周丘者，下邳人，⟦1⟧亡命吳，酤酒無行；⟦2⟧王薄之，不任。周丘乃上謁，說王曰：「臣以無能，不得待罪行間。⟦3⟧臣非敢求有所將也，⟦4⟧願請王一漢節，必有以報。」王乃予之。⟦5⟧周丘得節，夜馳入下邳；下邳時聞吳反，皆城守。至傳舍，召令入戶，使從者以罪斬令，⟦6⟧遂召昆弟所善豪吏告曰：「吳反，兵且至，屠下邳不過食頃；今先下，家室必完，能者封侯矣。」出，乃相告，下邳皆下。周丘一夜得三萬人，使人報吳王，遂將其兵北略城邑；比至陽城，兵十餘萬，破陽城中尉軍。⟦7⟧聞吳王敗走，自度無與共成功，⟦8⟧卽引兵歸下邳，未至，疽發背死。⟦9⟧",
+   "mentions": [
+    {
+     "entity_id": "L08",
+     "entity_name": "淮",
+     "entity_type": "place",
+     "start": 9,
+     "end": 10,
+     "surface": "淮"
+    },
+    {
+     "entity_id": "P39",
+     "entity_name": "周丘",
+     "entity_type": "person",
+     "start": 31,
+     "end": 33,
+     "surface": "周丘"
+    },
+    {
+     "entity_id": "P39",
+     "entity_name": "周丘",
+     "entity_type": "person",
+     "start": 36,
+     "end": 38,
+     "surface": "周丘"
+    },
+    {
+     "entity_id": "L37",
+     "entity_name": "下邳",
+     "entity_type": "place",
+     "start": 40,
+     "end": 42,
+     "surface": "下邳"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 49,
+     "end": 50,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "C31",
+     "entity_name": "酤酒",
+     "entity_type": "concept",
+     "start": 51,
+     "end": 53,
+     "surface": "酤酒"
+    },
+    {
+     "entity_id": "P39",
+     "entity_name": "周丘",
+     "entity_type": "person",
+     "start": 66,
+     "end": 68,
+     "surface": "周丘"
+    },
+    {
+     "entity_id": "C14",
+     "entity_name": "符节",
+     "entity_type": "concept",
+     "start": 108,
+     "end": 110,
+     "surface": "漢節"
+    },
+    {
+     "entity_id": "P39",
+     "entity_name": "周丘",
+     "entity_type": "person",
+     "start": 125,
+     "end": 127,
+     "surface": "周丘"
+    },
+    {
+     "entity_id": "L37",
+     "entity_name": "下邳",
+     "entity_type": "place",
+     "start": 133,
+     "end": 135,
+     "surface": "下邳"
+    },
+    {
+     "entity_id": "L37",
+     "entity_name": "下邳",
+     "entity_type": "place",
+     "start": 136,
+     "end": 138,
+     "surface": "下邳"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 140,
+     "end": 141,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 179,
+     "end": 180,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L37",
+     "entity_name": "下邳",
+     "entity_type": "place",
+     "start": 187,
+     "end": 189,
+     "surface": "下邳"
+    },
+    {
+     "entity_id": "L37",
+     "entity_name": "下邳",
+     "entity_type": "place",
+     "start": 216,
+     "end": 218,
+     "surface": "下邳"
+    },
+    {
+     "entity_id": "P39",
+     "entity_name": "周丘",
+     "entity_type": "person",
+     "start": 221,
+     "end": 223,
+     "surface": "周丘"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 233,
+     "end": 235,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "L38",
+     "entity_name": "阳城",
+     "entity_type": "place",
+     "start": 247,
+     "end": 249,
+     "surface": "陽城"
+    },
+    {
+     "entity_id": "L38",
+     "entity_name": "阳城",
+     "entity_type": "place",
+     "start": 256,
+     "end": 258,
+     "surface": "陽城"
+    },
+    {
+     "entity_id": "C16",
+     "entity_name": "中尉",
+     "entity_type": "concept",
+     "start": 258,
+     "end": 260,
+     "surface": "中尉"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 266,
+     "end": 268,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "L37",
+     "entity_name": "下邳",
+     "entity_type": "place",
+     "start": 286,
+     "end": 288,
+     "surface": "下邳"
+    }
+   ]
+  },
+  {
+   "para_id": "p22",
+   "text": "6壬午晦，日有食之。",
+   "mentions": [
+    {
+     "entity_id": "C12",
+     "entity_name": "日食",
+     "entity_type": "concept",
+     "start": 5,
+     "end": 9,
+     "surface": "日有食之"
+    }
+   ]
+  },
+  {
+   "para_id": "p23",
+   "text": "7吳王之棄軍亡也，軍遂潰，往往稍降太尉條侯及梁軍。⟦0⟧吳王渡淮，走丹徒，⟦1⟧保東越，⟦2⟧兵可萬餘人，收聚亡卒。漢使人以利啗東越，⟦3⟧東越卽紿吳王出勞軍，⟦4⟧使人鏦殺吳王，⟦5⟧盛其頭，馳傳以聞。⟦6⟧吳太子駒亡走閩越。吳、楚反，凡三月，皆破滅，於是諸將乃以太尉謀爲是；然梁王由此與太尉有隙。⟦7⟧",
+   "mentions": [
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 1,
+     "end": 3,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 17,
+     "end": 19,
+     "surface": "太尉"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 19,
+     "end": 21,
+     "surface": "條侯"
+    },
+    {
+     "entity_id": "L04",
+     "entity_name": "梁",
+     "entity_type": "place",
+     "start": 22,
+     "end": 23,
+     "surface": "梁"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 28,
+     "end": 30,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "L08",
+     "entity_name": "淮",
+     "entity_type": "place",
+     "start": 31,
+     "end": 32,
+     "surface": "淮"
+    },
+    {
+     "entity_id": "L15",
+     "entity_name": "丹徒",
+     "entity_type": "place",
+     "start": 34,
+     "end": 36,
+     "surface": "丹徒"
+    },
+    {
+     "entity_id": "L16",
+     "entity_name": "东越",
+     "entity_type": "place",
+     "start": 41,
+     "end": 43,
+     "surface": "東越"
+    },
+    {
+     "entity_id": "L16",
+     "entity_name": "东越",
+     "entity_type": "place",
+     "start": 64,
+     "end": 66,
+     "surface": "東越"
+    },
+    {
+     "entity_id": "L16",
+     "entity_name": "东越",
+     "entity_type": "place",
+     "start": 70,
+     "end": 72,
+     "surface": "東越"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 74,
+     "end": 76,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 87,
+     "end": 89,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "P41",
+     "entity_name": "刘驹",
+     "entity_type": "person",
+     "start": 105,
+     "end": 109,
+     "surface": "吳太子駒"
+    },
+    {
+     "entity_id": "L17",
+     "entity_name": "闽越",
+     "entity_type": "place",
+     "start": 111,
+     "end": 113,
+     "surface": "閩越"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 114,
+     "end": 115,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 116,
+     "end": 117,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 133,
+     "end": 135,
+     "surface": "太尉"
+    },
+    {
+     "entity_id": "P02",
+     "entity_name": "刘武",
+     "entity_type": "person",
+     "start": 140,
+     "end": 142,
+     "surface": "梁王"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 145,
+     "end": 147,
+     "surface": "太尉"
+    }
+   ]
+  },
+  {
+   "para_id": "p24",
+   "text": "三王之圍臨菑也，齊王使路中大夫告於天子。⟦0⟧天子復令路中大夫還報，告齊王堅守，「漢兵今破吳楚矣。」路中大夫至，三國兵圍臨菑數重，無從入。三國將與路中大夫盟曰：「若反言：『漢已破矣，⟦1⟧齊趣下三國，⟦2⟧不，且見屠。』」路中大夫旣許，至城下，望見齊王曰：「漢已發兵百萬，使太尉亞夫擊破吳、楚，方引兵救齊；齊必堅守無下！」三國將誅路中大夫。齊初圍急，陰與三國通謀，約未定；會路中大夫從漢來，其大臣乃復勸王無下三國。會漢將欒布、平陽侯等兵至齊，⟦3⟧擊破三國兵。解圍已，⟦4⟧後聞齊初與三國有謀，將欲移兵伐齊。齊孝王懼，飲藥自殺。",
+   "mentions": [
+    {
+     "entity_id": "L18",
+     "entity_name": "临菑",
+     "entity_type": "place",
+     "start": 4,
+     "end": 6,
+     "surface": "臨菑"
+    },
+    {
+     "entity_id": "P22",
+     "entity_name": "刘将闾",
+     "entity_type": "person",
+     "start": 8,
+     "end": 10,
+     "surface": "齊王"
+    },
+    {
+     "entity_id": "P40",
+     "entity_name": "路中大夫",
+     "entity_type": "person",
+     "start": 11,
+     "end": 15,
+     "surface": "路中大夫"
+    },
+    {
+     "entity_id": "P40",
+     "entity_name": "路中大夫",
+     "entity_type": "person",
+     "start": 27,
+     "end": 31,
+     "surface": "路中大夫"
+    },
+    {
+     "entity_id": "P22",
+     "entity_name": "刘将闾",
+     "entity_type": "person",
+     "start": 35,
+     "end": 37,
+     "surface": "齊王"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 45,
+     "end": 46,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 46,
+     "end": 47,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P40",
+     "entity_name": "路中大夫",
+     "entity_type": "person",
+     "start": 50,
+     "end": 54,
+     "surface": "路中大夫"
+    },
+    {
+     "entity_id": "L18",
+     "entity_name": "临菑",
+     "entity_type": "place",
+     "start": 60,
+     "end": 62,
+     "surface": "臨菑"
+    },
+    {
+     "entity_id": "P40",
+     "entity_name": "路中大夫",
+     "entity_type": "person",
+     "start": 73,
+     "end": 77,
+     "surface": "路中大夫"
+    },
+    {
+     "entity_id": "L60",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 94,
+     "end": 95,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P40",
+     "entity_name": "路中大夫",
+     "entity_type": "person",
+     "start": 111,
+     "end": 115,
+     "surface": "路中大夫"
+    },
+    {
+     "entity_id": "P22",
+     "entity_name": "刘将闾",
+     "entity_type": "person",
+     "start": 124,
+     "end": 126,
+     "surface": "齊王"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 137,
+     "end": 139,
+     "surface": "太尉"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 139,
+     "end": 141,
+     "surface": "亞夫"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 143,
+     "end": 144,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 145,
+     "end": 146,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L60",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 151,
+     "end": 152,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L60",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 153,
+     "end": 154,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P40",
+     "entity_name": "路中大夫",
+     "entity_type": "person",
+     "start": 165,
+     "end": 169,
+     "surface": "路中大夫"
+    },
+    {
+     "entity_id": "L60",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 170,
+     "end": 171,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P40",
+     "entity_name": "路中大夫",
+     "entity_type": "person",
+     "start": 187,
+     "end": 191,
+     "surface": "路中大夫"
+    },
+    {
+     "entity_id": "P26",
+     "entity_name": "栾布",
+     "entity_type": "person",
+     "start": 210,
+     "end": 212,
+     "surface": "欒布"
+    },
+    {
+     "entity_id": "L60",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 219,
+     "end": 220,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L60",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 239,
+     "end": 240,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L60",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 252,
+     "end": 253,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P22",
+     "entity_name": "刘将闾",
+     "entity_type": "person",
+     "start": 254,
+     "end": 257,
+     "surface": "齊孝王"
+    }
+   ]
+  },
+  {
+   "para_id": "p25",
+   "text": "膠西、膠東、菑川王各引兵歸國。膠西王徒跣、席藁、飲水謝太后。王太子德曰：「漢兵還，臣觀之，已罷，⟦0⟧可襲，願收王餘兵擊之！不勝而逃入海，未晚也。」王曰：「吾士卒皆已壞，不可用。」弓高侯韓頹當遺膠西王書曰：「奉詔誅不義：降者赦除其罪，復故；不降者滅之。⟦1⟧王何處？須以從事。」⟦2⟧王肉袒叩頭，詣漢軍壁謁曰：「臣卬奉法不謹，驚駭百姓，乃苦將軍遠道至于窮國，敢請菹醢之罪！」弓高侯執金鼓見之曰：「王苦軍事，願聞王發兵狀。」王頓首䣛行，⟦3⟧對曰：「今者鼂錯天子用事臣，變更高皇帝法令，侵奪諸侯地。卬等以爲不義，恐其敗亂天下，⟦4⟧七國發兵且誅錯。今聞錯已誅，卬等謹已罷兵歸。」將軍曰：「王苟以錯爲不善，何不以聞？及未有詔、虎符，擅發兵擊義國？以此觀之，意非徒欲誅錯也。」乃出詔書，爲王讀之，⟦5⟧曰：「王其自圖！」王曰：「如卬等死有餘罪！」遂自殺，太后、太子皆死。膠東王、菑川王、濟南王皆伏誅。",
+   "mentions": [
+    {
+     "entity_id": "L63",
+     "entity_name": "胶西",
+     "entity_type": "place",
+     "start": 0,
+     "end": 2,
+     "surface": "膠西"
+    },
+    {
+     "entity_id": "L24",
+     "entity_name": "菑川",
+     "entity_type": "place",
+     "start": 6,
+     "end": 8,
+     "surface": "菑川"
+    },
+    {
+     "entity_id": "P09",
+     "entity_name": "刘卬",
+     "entity_type": "person",
+     "start": 15,
+     "end": 18,
+     "surface": "膠西王"
+    },
+    {
+     "entity_id": "P42",
+     "entity_name": "刘德",
+     "entity_type": "person",
+     "start": 30,
+     "end": 34,
+     "surface": "王太子德"
+    },
+    {
+     "entity_id": "P43",
+     "entity_name": "韩颓当",
+     "entity_type": "person",
+     "start": 90,
+     "end": 93,
+     "surface": "弓高侯"
+    },
+    {
+     "entity_id": "P43",
+     "entity_name": "韩颓当",
+     "entity_type": "person",
+     "start": 93,
+     "end": 96,
+     "surface": "韓頹當"
+    },
+    {
+     "entity_id": "P09",
+     "entity_name": "刘卬",
+     "entity_type": "person",
+     "start": 97,
+     "end": 100,
+     "surface": "膠西王"
+    },
+    {
+     "entity_id": "P09",
+     "entity_name": "刘卬",
+     "entity_type": "person",
+     "start": 157,
+     "end": 158,
+     "surface": "卬"
+    },
+    {
+     "entity_id": "C25",
+     "entity_name": "菹醢",
+     "entity_type": "concept",
+     "start": 181,
+     "end": 183,
+     "surface": "菹醢"
+    },
+    {
+     "entity_id": "P43",
+     "entity_name": "韩颓当",
+     "entity_type": "person",
+     "start": 187,
+     "end": 190,
+     "surface": "弓高侯"
+    },
+    {
+     "entity_id": "P05",
+     "entity_name": "晁错",
+     "entity_type": "person",
+     "start": 226,
+     "end": 228,
+     "surface": "鼂錯"
+    },
+    {
+     "entity_id": "P91",
+     "entity_name": "刘邦",
+     "entity_type": "person",
+     "start": 236,
+     "end": 239,
+     "surface": "高皇帝"
+    },
+    {
+     "entity_id": "P09",
+     "entity_name": "刘卬",
+     "entity_type": "person",
+     "start": 248,
+     "end": 249,
+     "surface": "卬"
+    },
+    {
+     "entity_id": "P09",
+     "entity_name": "刘卬",
+     "entity_type": "person",
+     "start": 279,
+     "end": 280,
+     "surface": "卬"
+    },
+    {
+     "entity_id": "C21",
+     "entity_name": "虎符",
+     "entity_type": "concept",
+     "start": 311,
+     "end": 313,
+     "surface": "虎符"
+    },
+    {
+     "entity_id": "P09",
+     "entity_name": "刘卬",
+     "entity_type": "person",
+     "start": 362,
+     "end": 363,
+     "surface": "卬"
+    },
+    {
+     "entity_id": "L24",
+     "entity_name": "菑川",
+     "entity_type": "place",
+     "start": 386,
+     "end": 388,
+     "surface": "菑川"
+    }
+   ]
+  },
+  {
+   "para_id": "p26",
+   "text": "酈將軍兵至趙，趙王引兵還邯鄲城守。⟦0⟧酈寄攻之，七月不能下。匈奴聞吳、楚敗，亦不肯入邊。欒布破齊還，幷兵引水灌趙城；城壞，王遂自殺。",
+   "mentions": [
+    {
+     "entity_id": "P25",
+     "entity_name": "郦寄",
+     "entity_type": "person",
+     "start": 0,
+     "end": 3,
+     "surface": "酈將軍"
+    },
+    {
+     "entity_id": "L62",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 5,
+     "end": 6,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P92",
+     "entity_name": "刘遂",
+     "entity_type": "person",
+     "start": 7,
+     "end": 9,
+     "surface": "趙王"
+    },
+    {
+     "entity_id": "L19",
+     "entity_name": "邯郸",
+     "entity_type": "place",
+     "start": 12,
+     "end": 15,
+     "surface": "邯鄲城"
+    },
+    {
+     "entity_id": "P25",
+     "entity_name": "郦寄",
+     "entity_type": "person",
+     "start": 20,
+     "end": 22,
+     "surface": "酈寄"
+    },
+    {
+     "entity_id": "L76",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 31,
+     "end": 33,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 34,
+     "end": 35,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 36,
+     "end": 37,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P26",
+     "entity_name": "栾布",
+     "entity_type": "person",
+     "start": 45,
+     "end": 47,
+     "surface": "欒布"
+    },
+    {
+     "entity_id": "L60",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 48,
+     "end": 49,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L62",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 56,
+     "end": 57,
+     "surface": "趙"
+    }
+   ]
+  },
+  {
+   "para_id": "p27",
+   "text": "帝以齊首善，⟦0⟧以迫劫有謀，非其罪也，召立齊孝王太子壽，是爲懿王。",
+   "mentions": [
+    {
+     "entity_id": "L60",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 2,
+     "end": 3,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P22",
+     "entity_name": "刘将闾",
+     "entity_type": "person",
+     "start": 22,
+     "end": 25,
+     "surface": "齊孝王"
+    },
+    {
+     "entity_id": "P88",
+     "entity_name": "刘寿",
+     "entity_type": "person",
+     "start": 25,
+     "end": 28,
+     "surface": "太子壽"
+    },
+    {
+     "entity_id": "P88",
+     "entity_name": "刘寿",
+     "entity_type": "person",
+     "start": 31,
+     "end": 33,
+     "surface": "懿王"
+    }
+   ]
+  },
+  {
+   "para_id": "p28",
+   "text": "濟北王欲自殺，⟦0⟧幸全其妻子。齊人公孫玃謂濟北王曰：⟦1⟧「臣請試爲大王明說梁王，通意天子；說而不用，死未晚也。」⟦2⟧公孫玃遂見梁王曰：「夫濟北之地，東接強齊，南牽吳、越，北脅燕、趙。此四分五裂之國，⟦3⟧權不足以自守，勁不足以捍寇，又非有奇怪云以待難也；雖墜言於吳，非其正計也。⟦4⟧鄕使濟北見情實，示不從之端，⟦5⟧則吳必先歷齊，畢濟北，⟦6⟧招燕、趙而總之，如此，則山東之從結而無隙矣。⟦7⟧今吳王連諸侯之兵，敺白徒之衆，⟦8⟧西與天子爭衡；濟北獨底節不下，使吳失與而無助，跬步獨進，⟦9⟧瓦解土崩，破敗而不救者，未必非濟北之力也。夫以區區之濟北而與諸侯爭強，是以羔犢之弱而扞虎狼之敵也。⟦10⟧守職不橈，⟦11⟧可謂誠一矣。功義如此，尙見疑於上，脅肩低首，累足撫衿，使有自悔不前之心，⟦12⟧非社稷之利也。臣恐藩臣守職者疑之！臣竊料之：能歷西山，徑長樂，抵未央，攘袂而正議者，⟦13⟧獨大王耳；上有全亡之功，下有安百姓之名，德淪於骨髓，恩加於無窮，願大王留意詳惟之！」⟦14⟧孝王大說，⟦15⟧使人馳以聞；濟北王得不坐，徙封菑川。",
+   "mentions": [
+    {
+     "entity_id": "P23",
+     "entity_name": "刘志",
+     "entity_type": "person",
+     "start": 0,
+     "end": 3,
+     "surface": "濟北王"
+    },
+    {
+     "entity_id": "L60",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 16,
+     "end": 17,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P44",
+     "entity_name": "公孙玃",
+     "entity_type": "person",
+     "start": 18,
+     "end": 21,
+     "surface": "公孫玃"
+    },
+    {
+     "entity_id": "P23",
+     "entity_name": "刘志",
+     "entity_type": "person",
+     "start": 22,
+     "end": 25,
+     "surface": "濟北王"
+    },
+    {
+     "entity_id": "P02",
+     "entity_name": "刘武",
+     "entity_type": "person",
+     "start": 39,
+     "end": 41,
+     "surface": "梁王"
+    },
+    {
+     "entity_id": "P44",
+     "entity_name": "公孙玃",
+     "entity_type": "person",
+     "start": 61,
+     "end": 64,
+     "surface": "公孫玃"
+    },
+    {
+     "entity_id": "P02",
+     "entity_name": "刘武",
+     "entity_type": "person",
+     "start": 66,
+     "end": 68,
+     "surface": "梁王"
+    },
+    {
+     "entity_id": "L23",
+     "entity_name": "济北",
+     "entity_type": "place",
+     "start": 72,
+     "end": 74,
+     "surface": "濟北"
+    },
+    {
+     "entity_id": "L60",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 80,
+     "end": 81,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 84,
+     "end": 85,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L59",
+     "entity_name": "燕",
+     "entity_type": "place",
+     "start": 90,
+     "end": 91,
+     "surface": "燕"
+    },
+    {
+     "entity_id": "L62",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 92,
+     "end": 93,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 134,
+     "end": 135,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L23",
+     "entity_name": "济北",
+     "entity_type": "place",
+     "start": 147,
+     "end": 149,
+     "surface": "濟北"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 163,
+     "end": 164,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L60",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 167,
+     "end": 168,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "L23",
+     "entity_name": "济北",
+     "entity_type": "place",
+     "start": 170,
+     "end": 172,
+     "surface": "濟北"
+    },
+    {
+     "entity_id": "L59",
+     "entity_name": "燕",
+     "entity_type": "place",
+     "start": 177,
+     "end": 178,
+     "surface": "燕"
+    },
+    {
+     "entity_id": "L62",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 179,
+     "end": 180,
+     "surface": "趙"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 202,
+     "end": 204,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "C20",
+     "entity_name": "白徒",
+     "entity_type": "concept",
+     "start": 211,
+     "end": 213,
+     "surface": "白徒"
+    },
+    {
+     "entity_id": "L23",
+     "entity_name": "济北",
+     "entity_type": "place",
+     "start": 226,
+     "end": 228,
+     "surface": "濟北"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 235,
+     "end": 236,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L23",
+     "entity_name": "济北",
+     "entity_type": "place",
+     "start": 265,
+     "end": 267,
+     "surface": "濟北"
+    },
+    {
+     "entity_id": "L23",
+     "entity_name": "济北",
+     "entity_type": "place",
+     "start": 276,
+     "end": 278,
+     "surface": "濟北"
+    },
+    {
+     "entity_id": "L51",
+     "entity_name": "长乐宫",
+     "entity_type": "place",
+     "start": 380,
+     "end": 382,
+     "surface": "長樂"
+    },
+    {
+     "entity_id": "P23",
+     "entity_name": "刘志",
+     "entity_type": "person",
+     "start": 459,
+     "end": 462,
+     "surface": "濟北王"
+    },
+    {
+     "entity_id": "L24",
+     "entity_name": "菑川",
+     "entity_type": "place",
+     "start": 468,
+     "end": 470,
+     "surface": "菑川"
+    }
+   ]
+  },
+  {
+   "para_id": "p29",
+   "text": "8河間王太傅衞綰擊吳、楚有功，拜爲中尉。綰以中郎將事文帝，醇謹無他。上爲太子時，召文帝左右飲，而綰稱病不行。文帝且崩，屬上曰：「綰長者，善遇之！」故上亦寵任焉。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "P45",
+     "entity_name": "卫绾",
+     "entity_type": "person",
+     "start": 1,
+     "end": 6,
+     "surface": "河間王太傅"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 9,
+     "end": 10,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 11,
+     "end": 12,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "C16",
+     "entity_name": "中尉",
+     "entity_type": "concept",
+     "start": 17,
+     "end": 19,
+     "surface": "中尉"
+    },
+    {
+     "entity_id": "P27",
+     "entity_name": "刘恒",
+     "entity_type": "person",
+     "start": 26,
+     "end": 28,
+     "surface": "文帝"
+    },
+    {
+     "entity_id": "P27",
+     "entity_name": "刘恒",
+     "entity_type": "person",
+     "start": 41,
+     "end": 43,
+     "surface": "文帝"
+    },
+    {
+     "entity_id": "P27",
+     "entity_name": "刘恒",
+     "entity_type": "person",
+     "start": 54,
+     "end": 56,
+     "surface": "文帝"
+    },
+    {
+     "entity_id": "C27",
+     "entity_name": "长者",
+     "entity_type": "concept",
+     "start": 65,
+     "end": 67,
+     "surface": "長者"
+    }
+   ]
+  },
+  {
+   "para_id": "p30",
+   "text": "9夏，六月，乙亥，詔：「吏民爲吳王濞等所詿誤當坐及逋逃亡軍者，皆赦之。」⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 15,
+     "end": 18,
+     "surface": "吳王濞"
+    }
+   ]
+  },
+  {
+   "para_id": "p31",
+   "text": "帝欲以吳王弟德哀侯廣之子續吳，以楚元王子禮續楚。⟦0⟧竇太后曰：「吳王，老人也，宜爲宗室順善；今乃首率七國紛亂天下，柰何續其後！」不許吳，許立楚後。乙亥，徙淮陽王餘爲魯王；汝南王非爲江都王，王故吳地；立宗正禮爲楚王；立皇子端爲膠西王，勝爲中山王。⟦1⟧",
+   "mentions": [
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 3,
+     "end": 5,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 13,
+     "end": 14,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "P10",
+     "entity_name": "刘交",
+     "entity_type": "person",
+     "start": 16,
+     "end": 19,
+     "surface": "楚元王"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 22,
+     "end": 23,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P03",
+     "entity_name": "窦太后",
+     "entity_type": "person",
+     "start": 27,
+     "end": 30,
+     "surface": "竇太后"
+    },
+    {
+     "entity_id": "P07",
+     "entity_name": "刘濞",
+     "entity_type": "person",
+     "start": 33,
+     "end": 35,
+     "surface": "吳王"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 67,
+     "end": 68,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 71,
+     "end": 72,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P46",
+     "entity_name": "刘余",
+     "entity_type": "person",
+     "start": 78,
+     "end": 81,
+     "surface": "淮陽王"
+    },
+    {
+     "entity_id": "P46",
+     "entity_name": "刘余",
+     "entity_type": "person",
+     "start": 83,
+     "end": 85,
+     "surface": "魯王"
+    },
+    {
+     "entity_id": "P47",
+     "entity_name": "刘非",
+     "entity_type": "person",
+     "start": 86,
+     "end": 89,
+     "surface": "汝南王"
+    },
+    {
+     "entity_id": "P47",
+     "entity_name": "刘非",
+     "entity_type": "person",
+     "start": 91,
+     "end": 94,
+     "surface": "江都王"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 97,
+     "end": 99,
+     "surface": "吳地"
+    },
+    {
+     "entity_id": "P48",
+     "entity_name": "刘礼",
+     "entity_type": "person",
+     "start": 101,
+     "end": 104,
+     "surface": "宗正禮"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 105,
+     "end": 106,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L63",
+     "entity_name": "胶西",
+     "entity_type": "place",
+     "start": 113,
+     "end": 115,
+     "surface": "膠西"
+    },
+    {
+     "entity_id": "P50",
+     "entity_name": "刘胜",
+     "entity_type": "person",
+     "start": 119,
+     "end": 122,
+     "surface": "中山王"
+    }
+   ]
+  },
+  {
+   "para_id": "p32",
+   "text": "四年（戊子、前一五三年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p33",
+   "text": "1春，復置關，用傳出入。⟦0⟧",
+   "mentions": []
+  },
+  {
+   "para_id": "p34",
+   "text": "2夏，四月，己巳，立子榮爲皇太子，徹爲膠東王。",
+   "mentions": []
+  },
+  {
+   "para_id": "p35",
+   "text": "3六月，赦天下。",
+   "mentions": []
+  },
+  {
+   "para_id": "p36",
+   "text": "4秋，七月，臨江王閼薨。",
+   "mentions": []
+  },
+  {
+   "para_id": "p37",
+   "text": "5冬，十月，戊戌晦，⟦0⟧日有食之。⟦1⟧",
+   "mentions": [
+    {
+     "entity_id": "C12",
+     "entity_name": "日食",
+     "entity_type": "concept",
+     "start": 13,
+     "end": 17,
+     "surface": "日有食之"
+    }
+   ]
+  },
+  {
+   "para_id": "p38",
+   "text": "6初，吳、楚七國反，吳使者至淮南，淮南王欲發兵應之。其相曰：「王必欲應吳，臣願爲將。」王乃屬之。⟦0⟧相已將兵，因城守，不聽王而爲漢，⟦1⟧漢亦使曲城侯將兵救淮南，⟦2⟧以故得完。",
+   "mentions": [
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 5,
+     "end": 6,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 10,
+     "end": 11,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L20",
+     "entity_name": "淮南",
+     "entity_type": "place",
+     "start": 14,
+     "end": 16,
+     "surface": "淮南"
+    },
+    {
+     "entity_id": "P51",
+     "entity_name": "刘安",
+     "entity_type": "person",
+     "start": 17,
+     "end": 20,
+     "surface": "淮南王"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 35,
+     "end": 36,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L20",
+     "entity_name": "淮南",
+     "entity_type": "place",
+     "start": 79,
+     "end": 81,
+     "surface": "淮南"
+    }
+   ]
+  },
+  {
+   "para_id": "p39",
+   "text": "吳使者至廬江，廬江王不應，而往來使越。⟦0⟧至衡山，衡山王堅守無二心。及吳、楚已破，衡山王入朝。上以爲貞信，勞苦之，曰：⟦1⟧「南方卑濕。」徙王王於濟北以襃之。⟦2⟧廬江王以邊越，數使使相交，⟦3⟧徙爲衡山王，王江北。⟦4⟧",
+   "mentions": [
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 0,
+     "end": 1,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L21",
+     "entity_name": "庐江",
+     "entity_type": "place",
+     "start": 4,
+     "end": 6,
+     "surface": "廬江"
+    },
+    {
+     "entity_id": "P52",
+     "entity_name": "刘赐",
+     "entity_type": "person",
+     "start": 7,
+     "end": 10,
+     "surface": "廬江王"
+    },
+    {
+     "entity_id": "L22",
+     "entity_name": "衡山",
+     "entity_type": "place",
+     "start": 23,
+     "end": 25,
+     "surface": "衡山"
+    },
+    {
+     "entity_id": "P53",
+     "entity_name": "刘勃",
+     "entity_type": "person",
+     "start": 26,
+     "end": 29,
+     "surface": "衡山王"
+    },
+    {
+     "entity_id": "L02",
+     "entity_name": "吴",
+     "entity_type": "place",
+     "start": 36,
+     "end": 37,
+     "surface": "吳"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "楚",
+     "entity_type": "place",
+     "start": 38,
+     "end": 39,
+     "surface": "楚"
+    },
+    {
+     "entity_id": "P53",
+     "entity_name": "刘勃",
+     "entity_type": "person",
+     "start": 42,
+     "end": 45,
+     "surface": "衡山王"
+    },
+    {
+     "entity_id": "L23",
+     "entity_name": "济北",
+     "entity_type": "place",
+     "start": 74,
+     "end": 76,
+     "surface": "濟北"
+    },
+    {
+     "entity_id": "P52",
+     "entity_name": "刘赐",
+     "entity_type": "person",
+     "start": 83,
+     "end": 86,
+     "surface": "廬江王"
+    },
+    {
+     "entity_id": "P53",
+     "entity_name": "刘勃",
+     "entity_type": "person",
+     "start": 101,
+     "end": 104,
+     "surface": "衡山王"
+    }
+   ]
+  },
+  {
+   "para_id": "p40",
+   "text": "五年（己丑、前一五二年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p41",
+   "text": "1春，正月，作陽陵邑。⟦0⟧夏，募民徙陽陵，賜錢二十萬。",
+   "mentions": [
+    {
+     "entity_id": "L25",
+     "entity_name": "阳陵",
+     "entity_type": "place",
+     "start": 7,
+     "end": 10,
+     "surface": "陽陵邑"
+    },
+    {
+     "entity_id": "L25",
+     "entity_name": "阳陵",
+     "entity_type": "place",
+     "start": 19,
+     "end": 21,
+     "surface": "陽陵"
+    }
+   ]
+  },
+  {
+   "para_id": "p42",
+   "text": "2遣公主嫁匈奴單于。",
+   "mentions": [
+    {
+     "entity_id": "L76",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 5,
+     "end": 7,
+     "surface": "匈奴"
+    }
+   ]
+  },
+  {
+   "para_id": "p43",
+   "text": "3徙廣川王彭祖爲趙王。",
+   "mentions": [
+    {
+     "entity_id": "P54",
+     "entity_name": "刘彭祖",
+     "entity_type": "person",
+     "start": 2,
+     "end": 5,
+     "surface": "廣川王"
+    },
+    {
+     "entity_id": "L62",
+     "entity_name": "赵",
+     "entity_type": "place",
+     "start": 8,
+     "end": 9,
+     "surface": "趙"
+    }
+   ]
+  },
+  {
+   "para_id": "p44",
+   "text": "4濟北貞王勃薨。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "P53",
+     "entity_name": "刘勃",
+     "entity_type": "person",
+     "start": 1,
+     "end": 5,
+     "surface": "濟北貞王"
+    }
+   ]
+  },
+  {
+   "para_id": "p45",
+   "text": "六年（庚寅、前一五一年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p46",
+   "text": "1冬，十二月，雷，霖雨。⟦0⟧",
+   "mentions": []
+  },
+  {
+   "para_id": "p47",
+   "text": "2初，上爲太子，薄太后以薄氏女爲妃；及卽位，爲皇后，無寵。秋，九月，皇后薄氏廢。",
+   "mentions": [
+    {
+     "entity_id": "E15",
+     "entity_name": "废薄皇后",
+     "entity_type": "event",
+     "start": 34,
+     "end": 39,
+     "surface": "皇后薄氏廢"
+    }
+   ]
+  },
+  {
+   "para_id": "p48",
+   "text": "3楚文王禮薨。",
+   "mentions": [
+    {
+     "entity_id": "P48",
+     "entity_name": "刘礼",
+     "entity_type": "person",
+     "start": 1,
+     "end": 4,
+     "surface": "楚文王"
+    }
+   ]
+  },
+  {
+   "para_id": "p49",
+   "text": "4初，燕王臧荼有孫女曰臧兒，嫁爲槐里王仲妻，生男信與兩女而仲死；⟦0⟧更嫁長陵田氏，⟦1⟧生男蚡、勝。⟦2⟧文帝時，臧兒長女爲金王孫婦，生女俗。⟦3⟧臧兒卜筮之，曰：「兩女皆當貴。」臧兒乃奪金氏婦，金氏怒，不肯予決；⟦4⟧內之太子宮，生男徹。徹方在身⟦5⟧時，王夫人夢日入其懷。",
+   "mentions": [
+    {
+     "entity_id": "L59",
+     "entity_name": "燕",
+     "entity_type": "place",
+     "start": 3,
+     "end": 4,
+     "surface": "燕"
+    },
+    {
+     "entity_id": "P55",
+     "entity_name": "臧儿",
+     "entity_type": "person",
+     "start": 11,
+     "end": 13,
+     "surface": "臧兒"
+    },
+    {
+     "entity_id": "L48",
+     "entity_name": "槐里",
+     "entity_type": "place",
+     "start": 16,
+     "end": 18,
+     "surface": "槐里"
+    },
+    {
+     "entity_id": "P56",
+     "entity_name": "王仲",
+     "entity_type": "person",
+     "start": 18,
+     "end": 20,
+     "surface": "王仲"
+    },
+    {
+     "entity_id": "L49",
+     "entity_name": "长陵",
+     "entity_type": "place",
+     "start": 37,
+     "end": 39,
+     "surface": "長陵"
+    },
+    {
+     "entity_id": "P27",
+     "entity_name": "刘恒",
+     "entity_type": "person",
+     "start": 54,
+     "end": 56,
+     "surface": "文帝"
+    },
+    {
+     "entity_id": "P55",
+     "entity_name": "臧儿",
+     "entity_type": "person",
+     "start": 58,
+     "end": 60,
+     "surface": "臧兒"
+    },
+    {
+     "entity_id": "P60",
+     "entity_name": "金王孙",
+     "entity_type": "person",
+     "start": 63,
+     "end": 66,
+     "surface": "金王孫"
+    },
+    {
+     "entity_id": "P55",
+     "entity_name": "臧儿",
+     "entity_type": "person",
+     "start": 75,
+     "end": 77,
+     "surface": "臧兒"
+    },
+    {
+     "entity_id": "P55",
+     "entity_name": "臧儿",
+     "entity_type": "person",
+     "start": 91,
+     "end": 93,
+     "surface": "臧兒"
+    },
+    {
+     "entity_id": "P60",
+     "entity_name": "金王孙",
+     "entity_type": "person",
+     "start": 95,
+     "end": 97,
+     "surface": "金氏"
+    },
+    {
+     "entity_id": "P60",
+     "entity_name": "金王孙",
+     "entity_type": "person",
+     "start": 99,
+     "end": 101,
+     "surface": "金氏"
+    },
+    {
+     "entity_id": "P61",
+     "entity_name": "王娡",
+     "entity_type": "person",
+     "start": 130,
+     "end": 133,
+     "surface": "王夫人"
+    }
+   ]
+  },
+  {
+   "para_id": "p50",
+   "text": "及帝卽位，長男榮爲太子；其母栗姬，齊人也。長公主嫖欲以女嫁太子，⟦0⟧栗姬以後宮諸美人皆因長公主見帝，故怒而不許；長公主欲與王夫人男徹，⟦1⟧王夫人許之。由是長公主日讒栗姬而譽王夫人〔章：甲十五行本「人」下有「男」字；乙十一行本同；孔本同。〕之美；⟦2⟧帝亦自賢之，又有曩者所夢日符，⟦3⟧計未有所定。王夫人知帝嗛栗姬，⟦4⟧因怒未解，陰使人趣大行⟦5⟧請立栗姬爲皇后。帝怒曰：「是而所宜言邪！」⟦6⟧遂按誅大行。",
+   "mentions": [
+    {
+     "entity_id": "P63",
+     "entity_name": "栗姬",
+     "entity_type": "person",
+     "start": 14,
+     "end": 16,
+     "surface": "栗姬"
+    },
+    {
+     "entity_id": "L60",
+     "entity_name": "齐",
+     "entity_type": "place",
+     "start": 17,
+     "end": 18,
+     "surface": "齊"
+    },
+    {
+     "entity_id": "P65",
+     "entity_name": "刘嫖",
+     "entity_type": "person",
+     "start": 21,
+     "end": 25,
+     "surface": "長公主嫖"
+    },
+    {
+     "entity_id": "P63",
+     "entity_name": "栗姬",
+     "entity_type": "person",
+     "start": 35,
+     "end": 37,
+     "surface": "栗姬"
+    },
+    {
+     "entity_id": "P65",
+     "entity_name": "刘嫖",
+     "entity_type": "person",
+     "start": 45,
+     "end": 48,
+     "surface": "長公主"
+    },
+    {
+     "entity_id": "P65",
+     "entity_name": "刘嫖",
+     "entity_type": "person",
+     "start": 57,
+     "end": 60,
+     "surface": "長公主"
+    },
+    {
+     "entity_id": "P61",
+     "entity_name": "王娡",
+     "entity_type": "person",
+     "start": 62,
+     "end": 65,
+     "surface": "王夫人"
+    },
+    {
+     "entity_id": "P61",
+     "entity_name": "王娡",
+     "entity_type": "person",
+     "start": 71,
+     "end": 74,
+     "surface": "王夫人"
+    },
+    {
+     "entity_id": "P65",
+     "entity_name": "刘嫖",
+     "entity_type": "person",
+     "start": 79,
+     "end": 82,
+     "surface": "長公主"
+    },
+    {
+     "entity_id": "P63",
+     "entity_name": "栗姬",
+     "entity_type": "person",
+     "start": 84,
+     "end": 86,
+     "surface": "栗姬"
+    },
+    {
+     "entity_id": "P61",
+     "entity_name": "王娡",
+     "entity_type": "person",
+     "start": 88,
+     "end": 91,
+     "surface": "王夫人"
+    },
+    {
+     "entity_id": "P61",
+     "entity_name": "王娡",
+     "entity_type": "person",
+     "start": 151,
+     "end": 154,
+     "surface": "王夫人"
+    },
+    {
+     "entity_id": "P63",
+     "entity_name": "栗姬",
+     "entity_type": "person",
+     "start": 157,
+     "end": 159,
+     "surface": "栗姬"
+    },
+    {
+     "entity_id": "P63",
+     "entity_name": "栗姬",
+     "entity_type": "person",
+     "start": 179,
+     "end": 181,
+     "surface": "栗姬"
+    }
+   ]
+  },
+  {
+   "para_id": "p51",
+   "text": "七年（辛卯、前一五○年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p52",
+   "text": "1冬，十一月，己酉，廢太子榮爲臨江王。太子太傅竇嬰力爭不能得，乃謝病免。栗姬恚恨而死。",
+   "mentions": [
+    {
+     "entity_id": "E13",
+     "entity_name": "废栗太子",
+     "entity_type": "event",
+     "start": 10,
+     "end": 14,
+     "surface": "廢太子榮"
+    },
+    {
+     "entity_id": "P64",
+     "entity_name": "刘荣",
+     "entity_type": "person",
+     "start": 15,
+     "end": 18,
+     "surface": "臨江王"
+    },
+    {
+     "entity_id": "P04",
+     "entity_name": "窦婴",
+     "entity_type": "person",
+     "start": 23,
+     "end": 25,
+     "surface": "竇嬰"
+    },
+    {
+     "entity_id": "P63",
+     "entity_name": "栗姬",
+     "entity_type": "person",
+     "start": 36,
+     "end": 38,
+     "surface": "栗姬"
+    }
+   ]
+  },
+  {
+   "para_id": "p53",
+   "text": "2庚寅晦，日有食之。",
+   "mentions": [
+    {
+     "entity_id": "C12",
+     "entity_name": "日食",
+     "entity_type": "concept",
+     "start": 5,
+     "end": 9,
+     "surface": "日有食之"
+    }
+   ]
+  },
+  {
+   "para_id": "p54",
+   "text": "3二月，丞相陶青免。乙巳，太尉周亞夫爲丞相。罷太尉官。",
+   "mentions": [
+    {
+     "entity_id": "P29",
+     "entity_name": "陶青",
+     "entity_type": "person",
+     "start": 4,
+     "end": 8,
+     "surface": "丞相陶青"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 13,
+     "end": 15,
+     "surface": "太尉"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 15,
+     "end": 18,
+     "surface": "周亞夫"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 23,
+     "end": 25,
+     "surface": "太尉"
+    }
+   ]
+  },
+  {
+   "para_id": "p55",
+   "text": "4夏，四月，乙巳，立皇后王氏。",
+   "mentions": [
+    {
+     "entity_id": "P61",
+     "entity_name": "王娡",
+     "entity_type": "person",
+     "start": 10,
+     "end": 14,
+     "surface": "皇后王氏"
+    }
+   ]
+  },
+  {
+   "para_id": "p56",
+   "text": "5丁巳，立膠東王徹爲皇太子。",
+   "mentions": [
+    {
+     "entity_id": "P62",
+     "entity_name": "刘彻",
+     "entity_type": "person",
+     "start": 5,
+     "end": 9,
+     "surface": "膠東王徹"
+    }
+   ]
+  },
+  {
+   "para_id": "p57",
+   "text": "6是歲，以太僕劉舍爲御史大夫，⟦0⟧濟南太守郅都爲中尉。⟦1⟧",
+   "mentions": [
+    {
+     "entity_id": "P82",
+     "entity_name": "刘舍",
+     "entity_type": "person",
+     "start": 7,
+     "end": 9,
+     "surface": "劉舍"
+    },
+    {
+     "entity_id": "P66",
+     "entity_name": "郅都",
+     "entity_type": "person",
+     "start": 22,
+     "end": 24,
+     "surface": "郅都"
+    },
+    {
+     "entity_id": "C16",
+     "entity_name": "中尉",
+     "entity_type": "concept",
+     "start": 25,
+     "end": 27,
+     "surface": "中尉"
+    }
+   ]
+  },
+  {
+   "para_id": "p58",
+   "text": "始，都爲中郎將，敢直諫。嘗從入上林，賈姬如廁，⟦0⟧野彘卒來入廁。⟦1⟧上目都，都不行；上欲自持兵救賈姬。都伏上前曰：「亡一姬，復一姬進，⟦2⟧天下所少，寧賈姬等乎！陛下縱自輕，柰宗廟、太后何！」上乃還，彘亦去。太后聞之，賜都金百斤，由此重都。都爲人，勇悍公廉，不發私書，問遺無所受，⟦3⟧請謁無所聽。及爲中尉，先嚴酷，⟦4⟧行法不避貴戚；列侯、宗室見都，側目而視，號曰「蒼鷹」。⟦5⟧",
+   "mentions": [
+    {
+     "entity_id": "L50",
+     "entity_name": "上林",
+     "entity_type": "place",
+     "start": 15,
+     "end": 17,
+     "surface": "上林"
+    },
+    {
+     "entity_id": "P67",
+     "entity_name": "贾姬",
+     "entity_type": "person",
+     "start": 18,
+     "end": 20,
+     "surface": "賈姬"
+    },
+    {
+     "entity_id": "P67",
+     "entity_name": "贾姬",
+     "entity_type": "person",
+     "start": 50,
+     "end": 52,
+     "surface": "賈姬"
+    },
+    {
+     "entity_id": "P67",
+     "entity_name": "贾姬",
+     "entity_type": "person",
+     "start": 78,
+     "end": 80,
+     "surface": "賈姬"
+    },
+    {
+     "entity_id": "C16",
+     "entity_name": "中尉",
+     "entity_type": "concept",
+     "start": 153,
+     "end": 155,
+     "surface": "中尉"
+    },
+    {
+     "entity_id": "P66",
+     "entity_name": "郅都",
+     "entity_type": "person",
+     "start": 186,
+     "end": 188,
+     "surface": "蒼鷹"
+    }
+   ]
+  },
+  {
+   "para_id": "p59",
+   "text": "中元年（壬辰、前一四九年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p60",
+   "text": "1夏，四月，乙巳，赦天下。",
+   "mentions": []
+  },
+  {
+   "para_id": "p61",
+   "text": "2地震。衡山原都雨雹，大者尺八寸。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "L22",
+     "entity_name": "衡山",
+     "entity_type": "place",
+     "start": 4,
+     "end": 6,
+     "surface": "衡山"
+    },
+    {
+     "entity_id": "L75",
+     "entity_name": "原都",
+     "entity_type": "place",
+     "start": 6,
+     "end": 8,
+     "surface": "原都"
+    }
+   ]
+  },
+  {
+   "para_id": "p62",
+   "text": "二年（癸巳、前一四八年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p63",
+   "text": "1春，二月，匈奴入燕。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "L76",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 6,
+     "end": 8,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "L59",
+     "entity_name": "燕",
+     "entity_type": "place",
+     "start": 9,
+     "end": 10,
+     "surface": "燕"
+    }
+   ]
+  },
+  {
+   "para_id": "p64",
+   "text": "2三月，臨江王榮坐侵太廟壖垣爲宮，徵詣中尉府對簿。⟦0⟧臨江王欲得刀筆，爲書謝上，⟦1⟧而中尉郅都禁吏不予；魏其侯使人間與臨江王。⟦2⟧臨江王旣爲書謝上，因自殺。竇太后聞之，怒；後竟以危法中都而殺之。⟦3⟧",
+   "mentions": [
+    {
+     "entity_id": "P64",
+     "entity_name": "刘荣",
+     "entity_type": "person",
+     "start": 4,
+     "end": 8,
+     "surface": "臨江王榮"
+    },
+    {
+     "entity_id": "C16",
+     "entity_name": "中尉",
+     "entity_type": "concept",
+     "start": 19,
+     "end": 21,
+     "surface": "中尉"
+    },
+    {
+     "entity_id": "C23",
+     "entity_name": "对簿",
+     "entity_type": "concept",
+     "start": 22,
+     "end": 24,
+     "surface": "對簿"
+    },
+    {
+     "entity_id": "P64",
+     "entity_name": "刘荣",
+     "entity_type": "person",
+     "start": 28,
+     "end": 31,
+     "surface": "臨江王"
+    },
+    {
+     "entity_id": "C22",
+     "entity_name": "刀笔",
+     "entity_type": "concept",
+     "start": 33,
+     "end": 35,
+     "surface": "刀筆"
+    },
+    {
+     "entity_id": "C16",
+     "entity_name": "中尉",
+     "entity_type": "concept",
+     "start": 45,
+     "end": 47,
+     "surface": "中尉"
+    },
+    {
+     "entity_id": "P66",
+     "entity_name": "郅都",
+     "entity_type": "person",
+     "start": 47,
+     "end": 49,
+     "surface": "郅都"
+    },
+    {
+     "entity_id": "P04",
+     "entity_name": "窦婴",
+     "entity_type": "person",
+     "start": 54,
+     "end": 57,
+     "surface": "魏其侯"
+    },
+    {
+     "entity_id": "P64",
+     "entity_name": "刘荣",
+     "entity_type": "person",
+     "start": 61,
+     "end": 64,
+     "surface": "臨江王"
+    },
+    {
+     "entity_id": "P64",
+     "entity_name": "刘荣",
+     "entity_type": "person",
+     "start": 68,
+     "end": 71,
+     "surface": "臨江王"
+    },
+    {
+     "entity_id": "P03",
+     "entity_name": "窦太后",
+     "entity_type": "person",
+     "start": 81,
+     "end": 84,
+     "surface": "竇太后"
+    }
+   ]
+  },
+  {
+   "para_id": "p65",
+   "text": "3夏，四月，有星孛于西北。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "C13",
+     "entity_name": "彗星",
+     "entity_type": "concept",
+     "start": 7,
+     "end": 9,
+     "surface": "星孛"
+    }
+   ]
+  },
+  {
+   "para_id": "p66",
+   "text": "4立皇子越爲廣川王，寄爲膠東王。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "P54",
+     "entity_name": "刘彭祖",
+     "entity_type": "person",
+     "start": 6,
+     "end": 9,
+     "surface": "廣川王"
+    }
+   ]
+  },
+  {
+   "para_id": "p67",
+   "text": "5秋，九月，甲戌晦，日有食之。",
+   "mentions": [
+    {
+     "entity_id": "C12",
+     "entity_name": "日食",
+     "entity_type": "concept",
+     "start": 10,
+     "end": 14,
+     "surface": "日有食之"
+    }
+   ]
+  },
+  {
+   "para_id": "p68",
+   "text": "6初，梁孝王以至親有功，⟦0⟧得賜天子旌旗，從千乘萬騎，出蹕入警。王寵信羊勝、公孫詭，以詭爲中尉。勝、詭多奇邪計，欲使王求爲漢嗣。栗太子之廢也，⟦1⟧太后意欲以梁王爲嗣，嘗因置酒謂帝曰：「安車大駕，用梁王爲寄。」帝跪席舉身曰：「諾。」罷酒，帝以訪諸大臣，大臣袁盎等曰：「不可。昔宋宣公不立子而立弟，以生禍亂，五世不絕。⟦2⟧小不忍，害大義，故春秋大居正。」⟦3⟧由是太后議格，遂不復言。⟦4⟧王又嘗上書：「願賜容車之地，徑至長樂宮，自使梁國士衆築作甬道朝太后。」⟦5⟧袁盎等皆建以爲不可。⟦6⟧",
+   "mentions": [
+    {
+     "entity_id": "P02",
+     "entity_name": "刘武",
+     "entity_type": "person",
+     "start": 3,
+     "end": 6,
+     "surface": "梁孝王"
+    },
+    {
+     "entity_id": "P70",
+     "entity_name": "羊胜",
+     "entity_type": "person",
+     "start": 36,
+     "end": 38,
+     "surface": "羊勝"
+    },
+    {
+     "entity_id": "P71",
+     "entity_name": "公孙诡",
+     "entity_type": "person",
+     "start": 39,
+     "end": 42,
+     "surface": "公孫詭"
+    },
+    {
+     "entity_id": "C16",
+     "entity_name": "中尉",
+     "entity_type": "concept",
+     "start": 46,
+     "end": 48,
+     "surface": "中尉"
+    },
+    {
+     "entity_id": "P64",
+     "entity_name": "刘荣",
+     "entity_type": "person",
+     "start": 65,
+     "end": 68,
+     "surface": "栗太子"
+    },
+    {
+     "entity_id": "P02",
+     "entity_name": "刘武",
+     "entity_type": "person",
+     "start": 80,
+     "end": 82,
+     "surface": "梁王"
+    },
+    {
+     "entity_id": "P02",
+     "entity_name": "刘武",
+     "entity_type": "person",
+     "start": 100,
+     "end": 102,
+     "surface": "梁王"
+    },
+    {
+     "entity_id": "P28",
+     "entity_name": "袁盎",
+     "entity_type": "person",
+     "start": 129,
+     "end": 131,
+     "surface": "袁盎"
+    },
+    {
+     "entity_id": "P95",
+     "entity_name": "宋宣公",
+     "entity_type": "person",
+     "start": 139,
+     "end": 142,
+     "surface": "宋宣公"
+    },
+    {
+     "entity_id": "L51",
+     "entity_name": "长乐宫",
+     "entity_type": "place",
+     "start": 212,
+     "end": 215,
+     "surface": "長樂宮"
+    },
+    {
+     "entity_id": "L04",
+     "entity_name": "梁",
+     "entity_type": "place",
+     "start": 218,
+     "end": 220,
+     "surface": "梁國"
+    },
+    {
+     "entity_id": "P28",
+     "entity_name": "袁盎",
+     "entity_type": "person",
+     "start": 234,
+     "end": 236,
+     "surface": "袁盎"
+    }
+   ]
+  },
+  {
+   "para_id": "p69",
+   "text": "梁王由此怨袁盎及議臣，乃與羊勝、公孫詭謀，陰使人刺殺袁盎及他議臣十餘人。⟦0⟧賊未得也，於是天子意梁；⟦1⟧逐賊，果梁所爲。上遣田叔、呂季主往按梁事，捕公孫詭、羊勝；詭、勝匿王後宮。使者十餘輩至梁，責二千石急。梁相軒丘豹及內史韓安國以下舉國大索，⟦2⟧月餘弗得。安國聞詭、勝匿王所，乃入見王而泣曰：「主辱者臣死。大王無良臣，故紛紛至此。今勝、詭不得，請辭，賜死！」王曰：「何至此！」安國泣數行下，曰：「大王自度於皇帝，孰與臨江王親？」王曰：「弗如也。」安國曰：「臨江王適長太子，⟦3⟧以一言過，⟦4⟧廢王臨江；用宮垣事，卒自殺中尉府。⟦5⟧何者？治天下終不用私亂公。⟦6⟧今大王列在諸侯，訹邪臣浮說，⟦7⟧犯上禁，橈明法。⟦8⟧天子以太后故，不忍致法於大王；太后日夜涕泣，幸大王自改，大王終不覺寤。有如太后宮車卽晏駕，大王尙誰攀乎？」語未卒，王泣數行而下，⟦9⟧謝安國曰：「吾今出勝、詭。」王乃令勝、詭皆自殺，出之。上由此怨望梁王。",
+   "mentions": [
+    {
+     "entity_id": "P02",
+     "entity_name": "刘武",
+     "entity_type": "person",
+     "start": 0,
+     "end": 2,
+     "surface": "梁王"
+    },
+    {
+     "entity_id": "P28",
+     "entity_name": "袁盎",
+     "entity_type": "person",
+     "start": 5,
+     "end": 7,
+     "surface": "袁盎"
+    },
+    {
+     "entity_id": "P70",
+     "entity_name": "羊胜",
+     "entity_type": "person",
+     "start": 13,
+     "end": 15,
+     "surface": "羊勝"
+    },
+    {
+     "entity_id": "P71",
+     "entity_name": "公孙诡",
+     "entity_type": "person",
+     "start": 16,
+     "end": 19,
+     "surface": "公孫詭"
+    },
+    {
+     "entity_id": "E09",
+     "entity_name": "刺杀袁盎",
+     "entity_type": "event",
+     "start": 24,
+     "end": 28,
+     "surface": "刺殺袁盎"
+    },
+    {
+     "entity_id": "L04",
+     "entity_name": "梁",
+     "entity_type": "place",
+     "start": 49,
+     "end": 50,
+     "surface": "梁"
+    },
+    {
+     "entity_id": "L04",
+     "entity_name": "梁",
+     "entity_type": "place",
+     "start": 58,
+     "end": 59,
+     "surface": "梁"
+    },
+    {
+     "entity_id": "P72",
+     "entity_name": "田叔",
+     "entity_type": "person",
+     "start": 64,
+     "end": 66,
+     "surface": "田叔"
+    },
+    {
+     "entity_id": "P73",
+     "entity_name": "吕季主",
+     "entity_type": "person",
+     "start": 67,
+     "end": 70,
+     "surface": "呂季主"
+    },
+    {
+     "entity_id": "L04",
+     "entity_name": "梁",
+     "entity_type": "place",
+     "start": 72,
+     "end": 73,
+     "surface": "梁"
+    },
+    {
+     "entity_id": "P71",
+     "entity_name": "公孙诡",
+     "entity_type": "person",
+     "start": 76,
+     "end": 79,
+     "surface": "公孫詭"
+    },
+    {
+     "entity_id": "P70",
+     "entity_name": "羊胜",
+     "entity_type": "person",
+     "start": 80,
+     "end": 82,
+     "surface": "羊勝"
+    },
+    {
+     "entity_id": "L04",
+     "entity_name": "梁",
+     "entity_type": "place",
+     "start": 97,
+     "end": 98,
+     "surface": "梁"
+    },
+    {
+     "entity_id": "C18",
+     "entity_name": "二千石",
+     "entity_type": "concept",
+     "start": 100,
+     "end": 103,
+     "surface": "二千石"
+    },
+    {
+     "entity_id": "P74",
+     "entity_name": "轩丘豹",
+     "entity_type": "person",
+     "start": 105,
+     "end": 110,
+     "surface": "梁相軒丘豹"
+    },
+    {
+     "entity_id": "P35",
+     "entity_name": "韩安国",
+     "entity_type": "person",
+     "start": 111,
+     "end": 116,
+     "surface": "內史韓安國"
+    },
+    {
+     "entity_id": "P64",
+     "entity_name": "刘荣",
+     "entity_type": "person",
+     "start": 211,
+     "end": 214,
+     "surface": "臨江王"
+    },
+    {
+     "entity_id": "P64",
+     "entity_name": "刘荣",
+     "entity_type": "person",
+     "start": 231,
+     "end": 234,
+     "surface": "臨江王"
+    },
+    {
+     "entity_id": "C16",
+     "entity_name": "中尉",
+     "entity_type": "concept",
+     "start": 263,
+     "end": 265,
+     "surface": "中尉"
+    },
+    {
+     "entity_id": "P02",
+     "entity_name": "刘武",
+     "entity_type": "person",
+     "start": 413,
+     "end": 415,
+     "surface": "梁王"
+    }
+   ]
+  },
+  {
+   "para_id": "p70",
+   "text": "梁王恐，使鄒陽入長安，見皇后兄王信說曰：⟦0⟧「長君弟得幸於上，後宮莫及，而長君行迹多不循道理者。⟦1⟧今袁盎事卽窮竟，梁王伏誅，太后無所發怒，切齒側目於貴臣，竊爲足下憂之。」⟦2⟧長君曰：「爲之柰何？」陽曰：「長君誠能精爲上言之，得毋竟梁事；長君必固自結於太后，太后厚德長君入於骨髓，而長君之弟幸於兩宮，⟦3⟧金城之固也。⟦4⟧昔者舜之弟象，日以殺舜爲事，及舜立爲天子，封之於有卑。⟦5⟧夫仁人之於兄弟，無藏怒，無宿怨，厚親愛而已。⟦6⟧是以後世稱之。以是說天子，徼幸梁事不奏。」長君曰：「諾。」乘間入言之，⟦7⟧帝怒稍解。",
+   "mentions": [
+    {
+     "entity_id": "P02",
+     "entity_name": "刘武",
+     "entity_type": "person",
+     "start": 0,
+     "end": 2,
+     "surface": "梁王"
+    },
+    {
+     "entity_id": "P75",
+     "entity_name": "邹阳",
+     "entity_type": "person",
+     "start": 5,
+     "end": 7,
+     "surface": "鄒陽"
+    },
+    {
+     "entity_id": "L03",
+     "entity_name": "长安",
+     "entity_type": "place",
+     "start": 8,
+     "end": 10,
+     "surface": "長安"
+    },
+    {
+     "entity_id": "P57",
+     "entity_name": "王信",
+     "entity_type": "person",
+     "start": 15,
+     "end": 17,
+     "surface": "王信"
+    },
+    {
+     "entity_id": "P57",
+     "entity_name": "王信",
+     "entity_type": "person",
+     "start": 24,
+     "end": 26,
+     "surface": "長君"
+    },
+    {
+     "entity_id": "P57",
+     "entity_name": "王信",
+     "entity_type": "person",
+     "start": 38,
+     "end": 40,
+     "surface": "長君"
+    },
+    {
+     "entity_id": "P28",
+     "entity_name": "袁盎",
+     "entity_type": "person",
+     "start": 53,
+     "end": 55,
+     "surface": "袁盎"
+    },
+    {
+     "entity_id": "P02",
+     "entity_name": "刘武",
+     "entity_type": "person",
+     "start": 60,
+     "end": 62,
+     "surface": "梁王"
+    },
+    {
+     "entity_id": "P57",
+     "entity_name": "王信",
+     "entity_type": "person",
+     "start": 91,
+     "end": 93,
+     "surface": "長君"
+    },
+    {
+     "entity_id": "P57",
+     "entity_name": "王信",
+     "entity_type": "person",
+     "start": 106,
+     "end": 108,
+     "surface": "長君"
+    },
+    {
+     "entity_id": "L04",
+     "entity_name": "梁",
+     "entity_type": "place",
+     "start": 119,
+     "end": 120,
+     "surface": "梁"
+    },
+    {
+     "entity_id": "P57",
+     "entity_name": "王信",
+     "entity_type": "person",
+     "start": 122,
+     "end": 124,
+     "surface": "長君"
+    },
+    {
+     "entity_id": "P57",
+     "entity_name": "王信",
+     "entity_type": "person",
+     "start": 136,
+     "end": 138,
+     "surface": "長君"
+    },
+    {
+     "entity_id": "P57",
+     "entity_name": "王信",
+     "entity_type": "person",
+     "start": 144,
+     "end": 146,
+     "surface": "長君"
+    },
+    {
+     "entity_id": "C26",
+     "entity_name": "金城",
+     "entity_type": "concept",
+     "start": 156,
+     "end": 158,
+     "surface": "金城"
+    },
+    {
+     "entity_id": "P96",
+     "entity_name": "舜",
+     "entity_type": "person",
+     "start": 167,
+     "end": 168,
+     "surface": "舜"
+    },
+    {
+     "entity_id": "P97",
+     "entity_name": "象",
+     "entity_type": "person",
+     "start": 169,
+     "end": 171,
+     "surface": "弟象"
+    },
+    {
+     "entity_id": "P96",
+     "entity_name": "舜",
+     "entity_type": "person",
+     "start": 175,
+     "end": 176,
+     "surface": "舜"
+    },
+    {
+     "entity_id": "P96",
+     "entity_name": "舜",
+     "entity_type": "person",
+     "start": 180,
+     "end": 181,
+     "surface": "舜"
+    },
+    {
+     "entity_id": "L04",
+     "entity_name": "梁",
+     "entity_type": "place",
+     "start": 235,
+     "end": 236,
+     "surface": "梁"
+    },
+    {
+     "entity_id": "P57",
+     "entity_name": "王信",
+     "entity_type": "person",
+     "start": 241,
+     "end": 243,
+     "surface": "長君"
+    }
+   ]
+  },
+  {
+   "para_id": "p71",
+   "text": "是時，太后憂梁事不食，日夜泣不止，帝亦患之。會田叔等按梁事來還，至霸昌廐，⟦0⟧取火悉燒梁之獄辭，空手來見帝。⟦1⟧帝曰：「梁有之乎？」叔對曰：「死罪！有之。」上曰：「其事安在？」田叔曰：「上毋以梁事爲問也！」上曰：「何也？」曰：「今梁王不伏誅，是漢法不行也；伏法而太后食不甘味，臥不安席，此憂在陛下也。」上大然之，使叔等謁太后，且曰：「梁王不知也；造爲之者，獨在幸臣羊勝、公孫詭之屬爲之耳，謹已伏誅死，梁王無恙也。」⟦2⟧太后聞之，立起坐餐，氣平復。",
+   "mentions": [
+    {
+     "entity_id": "L04",
+     "entity_name": "梁",
+     "entity_type": "place",
+     "start": 6,
+     "end": 7,
+     "surface": "梁"
+    },
+    {
+     "entity_id": "P72",
+     "entity_name": "田叔",
+     "entity_type": "person",
+     "start": 23,
+     "end": 25,
+     "surface": "田叔"
+    },
+    {
+     "entity_id": "L04",
+     "entity_name": "梁",
+     "entity_type": "place",
+     "start": 27,
+     "end": 28,
+     "surface": "梁"
+    },
+    {
+     "entity_id": "L04",
+     "entity_name": "梁",
+     "entity_type": "place",
+     "start": 44,
+     "end": 45,
+     "surface": "梁"
+    },
+    {
+     "entity_id": "L04",
+     "entity_name": "梁",
+     "entity_type": "place",
+     "start": 62,
+     "end": 63,
+     "surface": "梁"
+    },
+    {
+     "entity_id": "P72",
+     "entity_name": "田叔",
+     "entity_type": "person",
+     "start": 90,
+     "end": 92,
+     "surface": "田叔"
+    },
+    {
+     "entity_id": "L04",
+     "entity_name": "梁",
+     "entity_type": "place",
+     "start": 98,
+     "end": 99,
+     "surface": "梁"
+    },
+    {
+     "entity_id": "P02",
+     "entity_name": "刘武",
+     "entity_type": "person",
+     "start": 117,
+     "end": 119,
+     "surface": "梁王"
+    },
+    {
+     "entity_id": "P02",
+     "entity_name": "刘武",
+     "entity_type": "person",
+     "start": 169,
+     "end": 171,
+     "surface": "梁王"
+    },
+    {
+     "entity_id": "P70",
+     "entity_name": "羊胜",
+     "entity_type": "person",
+     "start": 184,
+     "end": 186,
+     "surface": "羊勝"
+    },
+    {
+     "entity_id": "P71",
+     "entity_name": "公孙诡",
+     "entity_type": "person",
+     "start": 187,
+     "end": 190,
+     "surface": "公孫詭"
+    },
+    {
+     "entity_id": "P02",
+     "entity_name": "刘武",
+     "entity_type": "person",
+     "start": 202,
+     "end": 204,
+     "surface": "梁王"
+    }
+   ]
+  },
+  {
+   "para_id": "p72",
+   "text": "梁王因上書請朝。⟦0⟧旣至關，茅蘭說王，使乘布車、從兩騎入，匿於長公主園。⟦1⟧漢使使迎王，王已入關，車騎盡居外，不知王處。太后泣曰：「帝果殺吾子！」帝憂恐。於是梁王伏斧質於闕下謝罪。太后、帝大喜，相泣，復如故，悉召王從官入關。⟦2⟧然帝益疏王，不與同車輦矣。⟦3⟧帝以田叔爲賢，擢爲魯相。⟦4⟧",
+   "mentions": [
+    {
+     "entity_id": "P02",
+     "entity_name": "刘武",
+     "entity_type": "person",
+     "start": 0,
+     "end": 2,
+     "surface": "梁王"
+    },
+    {
+     "entity_id": "P76",
+     "entity_name": "茅兰",
+     "entity_type": "person",
+     "start": 15,
+     "end": 17,
+     "surface": "茅蘭"
+    },
+    {
+     "entity_id": "P65",
+     "entity_name": "刘嫖",
+     "entity_type": "person",
+     "start": 32,
+     "end": 35,
+     "surface": "長公主"
+    },
+    {
+     "entity_id": "P02",
+     "entity_name": "刘武",
+     "entity_type": "person",
+     "start": 81,
+     "end": 83,
+     "surface": "梁王"
+    },
+    {
+     "entity_id": "P72",
+     "entity_name": "田叔",
+     "entity_type": "person",
+     "start": 135,
+     "end": 137,
+     "surface": "田叔"
+    },
+    {
+     "entity_id": "P72",
+     "entity_name": "田叔",
+     "entity_type": "person",
+     "start": 142,
+     "end": 144,
+     "surface": "魯相"
+    }
+   ]
+  },
+  {
+   "para_id": "p73",
+   "text": "三年（癸巳、前一四七年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p74",
+   "text": "1冬，十一月，罷諸侯御史大夫官。",
+   "mentions": []
+  },
+  {
+   "para_id": "p75",
+   "text": "2夏，四月，地震。",
+   "mentions": []
+  },
+  {
+   "para_id": "p76",
+   "text": "3旱，禁酤酒。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "C31",
+     "entity_name": "酤酒",
+     "entity_type": "concept",
+     "start": 4,
+     "end": 6,
+     "surface": "酤酒"
+    }
+   ]
+  },
+  {
+   "para_id": "p77",
+   "text": "4三月，丁巳，立皇子乘爲清河王。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "P77",
+     "entity_name": "刘乘",
+     "entity_type": "person",
+     "start": 12,
+     "end": 15,
+     "surface": "清河王"
+    }
+   ]
+  },
+  {
+   "para_id": "p78",
+   "text": "5秋，九月，蝗。",
+   "mentions": []
+  },
+  {
+   "para_id": "p79",
+   "text": "6有星孛于西北。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "C13",
+     "entity_name": "彗星",
+     "entity_type": "concept",
+     "start": 2,
+     "end": 4,
+     "surface": "星孛"
+    }
+   ]
+  },
+  {
+   "para_id": "p80",
+   "text": "7戊戌晦，日有食之。",
+   "mentions": [
+    {
+     "entity_id": "C12",
+     "entity_name": "日食",
+     "entity_type": "concept",
+     "start": 5,
+     "end": 9,
+     "surface": "日有食之"
+    }
+   ]
+  },
+  {
+   "para_id": "p81",
+   "text": "8初，上廢栗太子，周亞夫固爭之，不得；上由此疏之。而梁孝王每朝，常與太后言條侯之短。⟦0⟧竇太后曰：「皇后兄王信可侯也。」帝讓曰：「始，南皮、章武，先帝不侯，⟦1⟧及臣卽位乃侯之；信未得封也。」竇太后曰：「人生各以時行耳。自竇長君在時，竟不得侯，死後，其子彭祖顧得侯，吾甚恨之！帝趣侯信也。」⟦2⟧帝曰：「請得與丞相議之。」上與丞相議。亞夫曰：「高皇帝約：『非劉氏不得王，非有功不得侯。』今信雖皇后兄，無功，侯之，非約也。」帝默然而止。其後匈奴王徐盧等六人降，⟦3⟧帝欲侯之以勸後。丞相亞夫曰：「彼背主降陛下，⟦4⟧陛下侯之，則何以責人臣不守節者乎？」帝曰：「丞相議不可用。」乃悉封徐盧等爲列侯。⟦5⟧亞夫因謝病。九月，戊戌，亞夫免；以御史大夫桃侯劉舍爲丞相。⟦6⟧",
+   "mentions": [
+    {
+     "entity_id": "P64",
+     "entity_name": "刘荣",
+     "entity_type": "person",
+     "start": 5,
+     "end": 8,
+     "surface": "栗太子"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 9,
+     "end": 12,
+     "surface": "周亞夫"
+    },
+    {
+     "entity_id": "P02",
+     "entity_name": "刘武",
+     "entity_type": "person",
+     "start": 26,
+     "end": 29,
+     "surface": "梁孝王"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 37,
+     "end": 39,
+     "surface": "條侯"
+    },
+    {
+     "entity_id": "P03",
+     "entity_name": "窦太后",
+     "entity_type": "person",
+     "start": 45,
+     "end": 48,
+     "surface": "竇太后"
+    },
+    {
+     "entity_id": "P57",
+     "entity_name": "王信",
+     "entity_type": "person",
+     "start": 54,
+     "end": 56,
+     "surface": "王信"
+    },
+    {
+     "entity_id": "P03",
+     "entity_name": "窦太后",
+     "entity_type": "person",
+     "start": 97,
+     "end": 100,
+     "surface": "竇太后"
+    },
+    {
+     "entity_id": "P57",
+     "entity_name": "王信",
+     "entity_type": "person",
+     "start": 113,
+     "end": 115,
+     "surface": "長君"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 168,
+     "end": 170,
+     "surface": "亞夫"
+    },
+    {
+     "entity_id": "C02",
+     "entity_name": "白马之盟",
+     "entity_type": "concept",
+     "start": 173,
+     "end": 177,
+     "surface": "高皇帝約"
+    },
+    {
+     "entity_id": "L76",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 220,
+     "end": 222,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 243,
+     "end": 245,
+     "surface": "亞夫"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 301,
+     "end": 303,
+     "surface": "亞夫"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 313,
+     "end": 315,
+     "surface": "亞夫"
+    },
+    {
+     "entity_id": "P82",
+     "entity_name": "刘舍",
+     "entity_type": "person",
+     "start": 322,
+     "end": 324,
+     "surface": "桃侯"
+    },
+    {
+     "entity_id": "P82",
+     "entity_name": "刘舍",
+     "entity_type": "person",
+     "start": 324,
+     "end": 326,
+     "surface": "劉舍"
+    }
+   ]
+  },
+  {
+   "para_id": "p82",
+   "text": "四年（乙未、前一四六年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p83",
+   "text": "1夏，蝗。",
+   "mentions": []
+  },
+  {
+   "para_id": "p84",
+   "text": "2冬，十月，戊午，日有食之。",
+   "mentions": [
+    {
+     "entity_id": "C12",
+     "entity_name": "日食",
+     "entity_type": "concept",
+     "start": 9,
+     "end": 13,
+     "surface": "日有食之"
+    }
+   ]
+  },
+  {
+   "para_id": "p85",
+   "text": "五年（丙申、前一四五年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p86",
+   "text": "1夏，立皇子舜爲常山王。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "P96",
+     "entity_name": "舜",
+     "entity_type": "person",
+     "start": 6,
+     "end": 7,
+     "surface": "舜"
+    },
+    {
+     "entity_id": "P78",
+     "entity_name": "刘舜",
+     "entity_type": "person",
+     "start": 8,
+     "end": 11,
+     "surface": "常山王"
+    }
+   ]
+  },
+  {
+   "para_id": "p87",
+   "text": "2六月，丁巳，赦天下。",
+   "mentions": []
+  },
+  {
+   "para_id": "p88",
+   "text": "3大水。",
+   "mentions": []
+  },
+  {
+   "para_id": "p89",
+   "text": "4秋，八月，己酉，未央宮東闕災。",
+   "mentions": [
+    {
+     "entity_id": "L34",
+     "entity_name": "未央宫",
+     "entity_type": "place",
+     "start": 9,
+     "end": 12,
+     "surface": "未央宮"
+    }
+   ]
+  },
+  {
+   "para_id": "p90",
+   "text": "5九月，詔：「諸獄疑，若雖文致於法⟦0⟧而於人心不厭者，輒讞之。」⟦1⟧",
+   "mentions": [
+    {
+     "entity_id": "C07",
+     "entity_name": "谳",
+     "entity_type": "concept",
+     "start": 29,
+     "end": 30,
+     "surface": "讞"
+    }
+   ]
+  },
+  {
+   "para_id": "p91",
+   "text": "6地震。",
+   "mentions": []
+  },
+  {
+   "para_id": "p92",
+   "text": "六年（丁酉、前一四四年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p93",
+   "text": "1冬，十月，梁王來朝，上疏欲留；上弗許。⟦0⟧王歸國，意忽忽不樂。⟦1⟧",
+   "mentions": [
+    {
+     "entity_id": "P02",
+     "entity_name": "刘武",
+     "entity_type": "person",
+     "start": 6,
+     "end": 8,
+     "surface": "梁王"
+    }
+   ]
+  },
+  {
+   "para_id": "p94",
+   "text": "2十一〔章：乙十一行本「一」作「二」；本同。〕月，改諸廷尉、將作等官名。⟦0⟧",
+   "mentions": []
+  },
+  {
+   "para_id": "p95",
+   "text": "3春，二月，乙卯，上行幸雍，郊五畤。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "L32",
+     "entity_name": "雍",
+     "entity_type": "place",
+     "start": 12,
+     "end": 13,
+     "surface": "雍"
+    },
+    {
+     "entity_id": "L33",
+     "entity_name": "五畤",
+     "entity_type": "place",
+     "start": 15,
+     "end": 17,
+     "surface": "五畤"
+    }
+   ]
+  },
+  {
+   "para_id": "p96",
+   "text": "4三月，雨雪。",
+   "mentions": []
+  },
+  {
+   "para_id": "p97",
+   "text": "5夏，四月，梁孝王薨。竇太后聞之，哭極哀，不食，曰：「帝果殺吾子！」帝哀懼，不知所爲；與長公主計之，乃分梁爲五國，盡立孝王男五人爲王：買爲梁王，明爲濟川王，彭離爲濟東王，定爲山陽王，不識爲濟陰王；⟦0⟧女五人皆食湯沐邑。奏之太后，太后乃說，爲帝加一餐。⟦1⟧孝王未死時，財以巨萬計，及死，藏府餘黃金尙四十餘萬斤，⟦2⟧他物稱是。⟦3⟧",
+   "mentions": [
+    {
+     "entity_id": "E18",
+     "entity_name": "梁孝王薨",
+     "entity_type": "event",
+     "start": 6,
+     "end": 10,
+     "surface": "梁孝王薨"
+    },
+    {
+     "entity_id": "P03",
+     "entity_name": "窦太后",
+     "entity_type": "person",
+     "start": 11,
+     "end": 14,
+     "surface": "竇太后"
+    },
+    {
+     "entity_id": "P65",
+     "entity_name": "刘嫖",
+     "entity_type": "person",
+     "start": 44,
+     "end": 47,
+     "surface": "長公主"
+    },
+    {
+     "entity_id": "E19",
+     "entity_name": "分梁为五国",
+     "entity_type": "event",
+     "start": 51,
+     "end": 56,
+     "surface": "分梁爲五國"
+    },
+    {
+     "entity_id": "L04",
+     "entity_name": "梁",
+     "entity_type": "place",
+     "start": 69,
+     "end": 70,
+     "surface": "梁"
+    },
+    {
+     "entity_id": "P84",
+     "entity_name": "刘明",
+     "entity_type": "person",
+     "start": 74,
+     "end": 77,
+     "surface": "濟川王"
+    },
+    {
+     "entity_id": "P85",
+     "entity_name": "刘彭离",
+     "entity_type": "person",
+     "start": 81,
+     "end": 84,
+     "surface": "濟東王"
+    },
+    {
+     "entity_id": "P86",
+     "entity_name": "刘定",
+     "entity_type": "person",
+     "start": 87,
+     "end": 90,
+     "surface": "山陽王"
+    },
+    {
+     "entity_id": "P87",
+     "entity_name": "刘不识",
+     "entity_type": "person",
+     "start": 94,
+     "end": 97,
+     "surface": "濟陰王"
+    },
+    {
+     "entity_id": "C05",
+     "entity_name": "汤沐邑",
+     "entity_type": "concept",
+     "start": 106,
+     "end": 109,
+     "surface": "湯沐邑"
+    }
+   ]
+  },
+  {
+   "para_id": "p98",
+   "text": "6上旣減笞法，⟦0⟧笞者猶不全；乃更減笞三百曰二百，笞二百曰一百。又定箠令：⟦1⟧箠長五尺，⟦2⟧其本大一寸，竹也；末薄半寸，皆平其節。當笞者笞臋；⟦3⟧畢一罪，乃更人。⟦4⟧自是笞者得全。然死刑旣重而生刑又輕，民易犯之。⟦5⟧",
+   "mentions": [
+    {
+     "entity_id": "C06",
+     "entity_name": "箠令",
+     "entity_type": "concept",
+     "start": 35,
+     "end": 37,
+     "surface": "箠令"
+    }
+   ]
+  },
+  {
+   "para_id": "p99",
+   "text": "7六月，匈奴入鴈門，至武泉，入上郡，取苑馬；⟦0⟧吏卒戰死者二千人。隴西李廣爲上郡太守，嘗從百騎出，〔章：甲十五行本「出」下有「卒」字；乙十一行本同；張校同。〕遇匈奴數千騎，見廣，以爲誘騎，⟦1⟧皆驚，上山陳。⟦2⟧廣之百騎皆大恐，欲馳還走。廣曰：「吾去大軍數十里，今如此以百騎走，匈奴追射我立盡。⟦3⟧今我留，匈奴必以我爲大軍之誘，必不敢擊我。」廣令諸騎曰：「前！」未到匈奴陣二里所，止，令曰：「皆下馬解鞍！」其騎曰：「虜多且近，卽有急，柰何？」廣曰：「彼虜以我爲走；令〔章：乙十一行本「令」作「今」；孔本同；熊校同。〕皆解鞍以示不走，用堅其意。」⟦4⟧於是胡騎遂不敢擊。有白馬將出，護其兵；⟦5⟧李廣上馬，與十餘騎奔，射殺白馬將而復還，至其騎中解鞍，令士皆縱馬臥。是時會暮，胡兵終怪之，不敢擊。夜半時，胡兵亦以爲漢有伏軍於旁，欲夜取之，胡皆引兵而去。平旦，李廣乃歸其大軍。",
+   "mentions": [
+    {
+     "entity_id": "L76",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 4,
+     "end": 6,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "L28",
+     "entity_name": "雁门",
+     "entity_type": "place",
+     "start": 7,
+     "end": 9,
+     "surface": "鴈門"
+    },
+    {
+     "entity_id": "L29",
+     "entity_name": "武泉",
+     "entity_type": "place",
+     "start": 11,
+     "end": 13,
+     "surface": "武泉"
+    },
+    {
+     "entity_id": "L30",
+     "entity_name": "上郡",
+     "entity_type": "place",
+     "start": 15,
+     "end": 17,
+     "surface": "上郡"
+    },
+    {
+     "entity_id": "C10",
+     "entity_name": "苑马",
+     "entity_type": "concept",
+     "start": 19,
+     "end": 21,
+     "surface": "苑馬"
+    },
+    {
+     "entity_id": "P90",
+     "entity_name": "李广",
+     "entity_type": "person",
+     "start": 34,
+     "end": 38,
+     "surface": "隴西李廣"
+    },
+    {
+     "entity_id": "L30",
+     "entity_name": "上郡",
+     "entity_type": "place",
+     "start": 39,
+     "end": 41,
+     "surface": "上郡"
+    },
+    {
+     "entity_id": "L76",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 81,
+     "end": 83,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "L76",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 141,
+     "end": 143,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "L76",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 156,
+     "end": 158,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "L76",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 186,
+     "end": 188,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "P90",
+     "entity_name": "李广",
+     "entity_type": "person",
+     "start": 300,
+     "end": 302,
+     "surface": "李廣"
+    },
+    {
+     "entity_id": "P90",
+     "entity_name": "李广",
+     "entity_type": "person",
+     "start": 380,
+     "end": 382,
+     "surface": "李廣"
+    }
+   ]
+  },
+  {
+   "para_id": "p100",
+   "text": "8秋，七月，辛亥晦，日有食之。",
+   "mentions": [
+    {
+     "entity_id": "C12",
+     "entity_name": "日食",
+     "entity_type": "concept",
+     "start": 10,
+     "end": 14,
+     "surface": "日有食之"
+    }
+   ]
+  },
+  {
+   "para_id": "p101",
+   "text": "9自郅都之死，長安左右宗室多暴犯法。上乃召濟南都尉南陽甯成爲中尉。其治效郅都，其廉弗如；然宗室、豪傑皆人人惴恐。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "E27",
+     "entity_name": "郅都之死",
+     "entity_type": "event",
+     "start": 2,
+     "end": 6,
+     "surface": "郅都之死"
+    },
+    {
+     "entity_id": "L03",
+     "entity_name": "长安",
+     "entity_type": "place",
+     "start": 7,
+     "end": 9,
+     "surface": "長安"
+    },
+    {
+     "entity_id": "P79",
+     "entity_name": "宁成",
+     "entity_type": "person",
+     "start": 27,
+     "end": 29,
+     "surface": "甯成"
+    },
+    {
+     "entity_id": "C16",
+     "entity_name": "中尉",
+     "entity_type": "concept",
+     "start": 30,
+     "end": 32,
+     "surface": "中尉"
+    },
+    {
+     "entity_id": "P66",
+     "entity_name": "郅都",
+     "entity_type": "person",
+     "start": 36,
+     "end": 38,
+     "surface": "郅都"
+    }
+   ]
+  },
+  {
+   "para_id": "p102",
+   "text": "10城陽共王喜薨。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "P80",
+     "entity_name": "刘喜",
+     "entity_type": "person",
+     "start": 2,
+     "end": 6,
+     "surface": "城陽共王"
+    }
+   ]
+  },
+  {
+   "para_id": "p103",
+   "text": "後元年（戊戌、前一四三年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p104",
+   "text": "1春，正月，詔曰：「獄，重事也。人有智愚，官有上下。獄疑者讞有司；有司所不能決，移廷尉；讞而後不當，讞者不爲失。⟦0⟧欲令治獄者務先寬。」⟦1⟧",
+   "mentions": [
+    {
+     "entity_id": "C07",
+     "entity_name": "谳",
+     "entity_type": "concept",
+     "start": 29,
+     "end": 30,
+     "surface": "讞"
+    },
+    {
+     "entity_id": "C07",
+     "entity_name": "谳",
+     "entity_type": "concept",
+     "start": 44,
+     "end": 45,
+     "surface": "讞"
+    },
+    {
+     "entity_id": "C07",
+     "entity_name": "谳",
+     "entity_type": "concept",
+     "start": 50,
+     "end": 51,
+     "surface": "讞"
+    }
+   ]
+  },
+  {
+   "para_id": "p105",
+   "text": "2三月，赦天下。",
+   "mentions": []
+  },
+  {
+   "para_id": "p106",
+   "text": "3夏，大酺五日，民得酤酒。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "C11",
+     "entity_name": "大酺",
+     "entity_type": "concept",
+     "start": 3,
+     "end": 5,
+     "surface": "大酺"
+    },
+    {
+     "entity_id": "C31",
+     "entity_name": "酤酒",
+     "entity_type": "concept",
+     "start": 10,
+     "end": 12,
+     "surface": "酤酒"
+    }
+   ]
+  },
+  {
+   "para_id": "p107",
+   "text": "4五月，丙戌，地震。上庸地震二十二日，⟦0⟧壞城垣。⟦1⟧",
+   "mentions": [
+    {
+     "entity_id": "L58",
+     "entity_name": "上庸",
+     "entity_type": "place",
+     "start": 10,
+     "end": 12,
+     "surface": "上庸"
+    }
+   ]
+  },
+  {
+   "para_id": "p108",
+   "text": "5秋，七月，丙午，丞相舍免。",
+   "mentions": [
+    {
+     "entity_id": "P82",
+     "entity_name": "刘舍",
+     "entity_type": "person",
+     "start": 9,
+     "end": 12,
+     "surface": "丞相舍"
+    }
+   ]
+  },
+  {
+   "para_id": "p109",
+   "text": "6乙巳晦，日有食之。",
+   "mentions": [
+    {
+     "entity_id": "C12",
+     "entity_name": "日食",
+     "entity_type": "concept",
+     "start": 5,
+     "end": 9,
+     "surface": "日有食之"
+    }
+   ]
+  },
+  {
+   "para_id": "p110",
+   "text": "7八月，壬辰，以御史大夫衞綰爲丞相，衞尉南陽直不疑爲御史大夫。⟦0⟧初，不疑爲郎，同舍有告歸，悞持其同舍郎金去。已而同舍郎覺亡，意不疑；⟦1⟧不疑謝有之，⟦2⟧買金償。後告歸者至而歸金，亡金郎大慙。以此稱爲長者，稍遷至中大夫。人或廷毀不疑，⟦3⟧以爲盜嫂。不疑聞，曰：「我乃無兄。」然終不自明也。",
+   "mentions": [
+    {
+     "entity_id": "P81",
+     "entity_name": "直不疑",
+     "entity_type": "person",
+     "start": 22,
+     "end": 25,
+     "surface": "直不疑"
+    },
+    {
+     "entity_id": "C27",
+     "entity_name": "长者",
+     "entity_type": "concept",
+     "start": 103,
+     "end": 105,
+     "surface": "長者"
+    }
+   ]
+  },
+  {
+   "para_id": "p111",
+   "text": "8帝居禁中，召周亞夫賜食，獨置大胾，⟦0⟧無切肉，又不置箸。亞夫心不平，顧謂尙席取箸。⟦1⟧上視而笑曰：「此非不足君所乎？」⟦2⟧亞夫免冠謝上，上曰：「起！」亞夫因趨出。上目送之曰：「此鞅鞅，非少主臣也。」",
+   "mentions": [
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 7,
+     "end": 10,
+     "surface": "周亞夫"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 30,
+     "end": 32,
+     "surface": "亞夫"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 65,
+     "end": 67,
+     "surface": "亞夫"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 79,
+     "end": 81,
+     "surface": "亞夫"
+    }
+   ]
+  },
+  {
+   "para_id": "p112",
+   "text": "居無何，亞夫子爲父買工官尙方甲楯五百被，可以葬者。⟦0⟧取庸苦之，不與錢。⟦1⟧庸知其盜買縣官器，怨而上變，告子，⟦2⟧事連汙亞夫。書旣聞，上下吏。吏簿責亞夫，⟦3⟧亞夫不對。上罵之曰：「吾不用也！」⟦4⟧召詣廷尉。廷尉責問曰：「君侯欲反何？」亞夫曰：「臣所買器，乃葬器也，何謂反乎？」吏曰：「君縱不欲反地上，卽欲反地下耳！」吏侵之益急。初，吏捕亞夫，亞夫欲自殺，其夫人止之，以故不得死，遂入廷尉。因不食五日，歐血而死。",
+   "mentions": [
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 4,
+     "end": 6,
+     "surface": "亞夫"
+    },
+    {
+     "entity_id": "C33",
+     "entity_name": "甲楯",
+     "entity_type": "concept",
+     "start": 14,
+     "end": 16,
+     "surface": "甲楯"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 63,
+     "end": 65,
+     "surface": "亞夫"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 77,
+     "end": 79,
+     "surface": "亞夫"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 83,
+     "end": 85,
+     "surface": "亞夫"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 122,
+     "end": 124,
+     "surface": "亞夫"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 173,
+     "end": 175,
+     "surface": "亞夫"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 176,
+     "end": 178,
+     "surface": "亞夫"
+    }
+   ]
+  },
+  {
+   "para_id": "p113",
+   "text": "9是歲，濟陰哀王不識薨。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "P87",
+     "entity_name": "刘不识",
+     "entity_type": "person",
+     "start": 4,
+     "end": 8,
+     "surface": "濟陰哀王"
+    }
+   ]
+  },
+  {
+   "para_id": "p114",
+   "text": "二年（己亥、前一四二年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p115",
+   "text": "1春，正月，地一日三動。",
+   "mentions": []
+  },
+  {
+   "para_id": "p116",
+   "text": "2三月，匈奴入鴈門，太守馮敬與戰，死。發車騎、材官屯鴈門。",
+   "mentions": [
+    {
+     "entity_id": "L76",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 4,
+     "end": 6,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "L28",
+     "entity_name": "雁门",
+     "entity_type": "place",
+     "start": 7,
+     "end": 9,
+     "surface": "鴈門"
+    },
+    {
+     "entity_id": "P89",
+     "entity_name": "冯敬",
+     "entity_type": "person",
+     "start": 10,
+     "end": 14,
+     "surface": "太守馮敬"
+    },
+    {
+     "entity_id": "C32",
+     "entity_name": "材官",
+     "entity_type": "concept",
+     "start": 23,
+     "end": 25,
+     "surface": "材官"
+    },
+    {
+     "entity_id": "L28",
+     "entity_name": "雁门",
+     "entity_type": "place",
+     "start": 26,
+     "end": 28,
+     "surface": "鴈門"
+    }
+   ]
+  },
+  {
+   "para_id": "p117",
+   "text": "3春，以歲不登，禁內郡食馬粟；沒入之。⟦0⟧",
+   "mentions": []
+  },
+  {
+   "para_id": "p118",
+   "text": "4夏，四月，詔曰：「雕文刻鏤，傷農事者也；⟦0⟧錦繡纂組，害女工者也。⟦1⟧農事傷則飢之本，女工害則寒之原也。夫飢寒並至而能亡爲非者寡矣。⟦2⟧朕親耕，后親桑，以奉宗廟粢盛、祭服，爲天下先；⟦3⟧不受獻，減太官，省繇賦，⟦4⟧欲天下務農蠶，素有蓄積，以備災害。強毋攘弱，衆毋暴寡；老耆以壽終，幼孤得遂長。⟦5⟧今歲或不登，民食頗寡，其咎安在？或詐僞爲吏，⟦6⟧以貨賂爲市，漁奪百姓，侵牟萬民。⟦7⟧縣丞，長吏也；姦法與盜盜，甚無謂也！⟦8⟧其令二千石各脩其職；不事官職、耗亂者，⟦9⟧丞相以聞，請其罪。布告天下，使明知朕意。」",
+   "mentions": [
+    {
+     "entity_id": "C18",
+     "entity_name": "二千石",
+     "entity_type": "concept",
+     "start": 222,
+     "end": 225,
+     "surface": "二千石"
+    }
+   ]
+  },
+  {
+   "para_id": "p119",
+   "text": "5五月，詔算貲四得官。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "C08",
+     "entity_name": "算貲",
+     "entity_type": "concept",
+     "start": 5,
+     "end": 7,
+     "surface": "算貲"
+    }
+   ]
+  },
+  {
+   "para_id": "p120",
+   "text": "6秋，大旱。",
+   "mentions": []
+  },
+  {
+   "para_id": "p121",
+   "text": "三年（庚子、前一四一年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p122",
+   "text": "1冬，十月，日月皆食，赤五日。",
+   "mentions": []
+  },
+  {
+   "para_id": "p123",
+   "text": "2十二月晦，雷；日如紫；五星逆行守太微；⟦0⟧月貫天廷中。",
+   "mentions": [
+    {
+     "entity_id": "L35",
+     "entity_name": "太微",
+     "entity_type": "place",
+     "start": 17,
+     "end": 19,
+     "surface": "太微"
+    },
+    {
+     "entity_id": "L35",
+     "entity_name": "太微",
+     "entity_type": "place",
+     "start": 25,
+     "end": 27,
+     "surface": "天廷"
+    }
+   ]
+  },
+  {
+   "para_id": "p124",
+   "text": "3春，正月，詔曰：「農，天下之本也。黃金、珠、玉，飢不可食，寒不可衣，以爲幣用，⟦0⟧不識其終始。間歲或不登，意爲末者衆，農民寡也。其令郡國務勸農桑，益種樹，可得衣食物。吏發民若取庸⟦1⟧采黃金、珠、玉者，坐贓爲盜。二千石聽者，與同罪。」",
+   "mentions": [
+    {
+     "entity_id": "C18",
+     "entity_name": "二千石",
+     "entity_type": "concept",
+     "start": 108,
+     "end": 111,
+     "surface": "二千石"
+    }
+   ]
+  },
+  {
+   "para_id": "p125",
+   "text": "4甲寅，皇太子冠。⟦0⟧",
+   "mentions": []
+  },
+  {
+   "para_id": "p126",
+   "text": "5甲子，帝崩于未央宮。⟦0⟧太子卽皇帝位，年十六。尊皇太后爲太皇太后，皇后爲皇太后。",
+   "mentions": [
+    {
+     "entity_id": "L34",
+     "entity_name": "未央宫",
+     "entity_type": "place",
+     "start": 7,
+     "end": 10,
+     "surface": "未央宮"
+    },
+    {
+     "entity_id": "P61",
+     "entity_name": "王娡",
+     "entity_type": "person",
+     "start": 26,
+     "end": 29,
+     "surface": "皇太后"
+    },
+    {
+     "entity_id": "P03",
+     "entity_name": "窦太后",
+     "entity_type": "person",
+     "start": 30,
+     "end": 34,
+     "surface": "太皇太后"
+    },
+    {
+     "entity_id": "P61",
+     "entity_name": "王娡",
+     "entity_type": "person",
+     "start": 38,
+     "end": 41,
+     "surface": "皇太后"
+    }
+   ]
+  },
+  {
+   "para_id": "p127",
+   "text": "6二月，癸酉，葬孝景皇帝于陽陵。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "P01",
+     "entity_name": "刘启",
+     "entity_type": "person",
+     "start": 8,
+     "end": 12,
+     "surface": "孝景皇帝"
+    },
+    {
+     "entity_id": "L25",
+     "entity_name": "阳陵",
+     "entity_type": "place",
+     "start": 13,
+     "end": 15,
+     "surface": "陽陵"
+    }
+   ]
+  },
+  {
+   "para_id": "p128",
+   "text": "7三月，封皇太后同母弟田蚡爲武安侯，⟦0⟧勝爲周陽侯。⟦1⟧",
+   "mentions": [
+    {
+     "entity_id": "P61",
+     "entity_name": "王娡",
+     "entity_type": "person",
+     "start": 5,
+     "end": 8,
+     "surface": "皇太后"
+    },
+    {
+     "entity_id": "P58",
+     "entity_name": "田蚡",
+     "entity_type": "person",
+     "start": 11,
+     "end": 13,
+     "surface": "田蚡"
+    },
+    {
+     "entity_id": "P58",
+     "entity_name": "田蚡",
+     "entity_type": "person",
+     "start": 14,
+     "end": 17,
+     "surface": "武安侯"
+    },
+    {
+     "entity_id": "P59",
+     "entity_name": "田胜",
+     "entity_type": "person",
+     "start": 23,
+     "end": 26,
+     "surface": "周陽侯"
+    }
+   ]
+  },
+  {
+   "para_id": "p129",
+   "text": "班固贊曰：孔子稱：「斯民也，三代之所以直道而行也。」⟦0⟧信哉！周、秦之敝，罔密文峻，而姦軌不勝。⟦1⟧漢興，掃除煩苛，與民休息；至于孝文，加之以恭儉；孝景遵業。五六十載之間，至於移風易俗，黎民醇厚。⟦2⟧周云成、康，漢言文、景，美矣！",
+   "mentions": [
+    {
+     "entity_id": "P93",
+     "entity_name": "班固",
+     "entity_type": "person",
+     "start": 0,
+     "end": 2,
+     "surface": "班固"
+    },
+    {
+     "entity_id": "P94",
+     "entity_name": "孔子",
+     "entity_type": "person",
+     "start": 5,
+     "end": 7,
+     "surface": "孔子"
+    }
+   ]
+  },
+  {
+   "para_id": "p130",
+   "text": "8漢興，接秦之弊，作業劇而財匱，自天子不能具鈞駟，⟦0⟧而將相或乘牛車，⟦1⟧齊民無藏蓋。⟦2⟧天下已平，高祖乃令賈人不得衣絲、乘車，重租稅以困辱之。⟦3⟧孝惠、高后時，爲天下初定，復弛商賈之律；然市井之子孫，亦不得仕宦爲吏。量吏祿，度官用，以賦於民。⟦4⟧而山川、園池、市井租稅之入，自天子以至於封君湯沐邑，皆各爲私奉養焉，不領於天子〔章：甲十五行本「子」作「下」；乙十一行本同。〕之經費。⟦5⟧漕轉山東粟以給中都官，⟦6⟧歲不過數十萬石。繼以孝文、孝景，清淨恭儉，安養天下，七十餘年之間，國家無事，非遇水旱之災，民則人給家足。都鄙廩庾皆滿，而府庫餘貨財；京師之錢累鉅萬，貫朽而不可校；⟦7⟧太倉之粟陳陳相因，⟦8⟧充溢露積於外，至腐敗不可食。衆庶街巷有馬，而阡陌之間成羣，⟦9⟧乘字牝者擯而不得聚會。⟦10⟧守閭閻者食粱肉；爲吏者長子孫，⟦11⟧居官者以爲姓號。⟦12⟧故人人自愛而重犯法，先行義而後詘〔章：甲十五行本「詘」作「絀」；乙十一行本同。〕辱焉。⟦13⟧當此之時，罔疏而民富，役財驕溢，或至兼幷、豪黨之徒，以武斷於鄕曲。⟦14⟧宗室有土、⟦15⟧公、卿、大夫以下，爭于奢侈，室廬、輿服僭于上，無限度。物盛而衰，固其變也；自是之後，孝武內窮侈靡，外攘夷狄，天下蕭然，財力耗矣！",
+   "mentions": [
+    {
+     "entity_id": "C30",
+     "entity_name": "钧驷",
+     "entity_type": "concept",
+     "start": 22,
+     "end": 24,
+     "surface": "鈞駟"
+    },
+    {
+     "entity_id": "P91",
+     "entity_name": "刘邦",
+     "entity_type": "person",
+     "start": 53,
+     "end": 55,
+     "surface": "高祖"
+    },
+    {
+     "entity_id": "C05",
+     "entity_name": "汤沐邑",
+     "entity_type": "concept",
+     "start": 151,
+     "end": 154,
+     "surface": "湯沐邑"
+    },
+    {
+     "entity_id": "L03",
+     "entity_name": "长安",
+     "entity_type": "place",
+     "start": 279,
+     "end": 281,
+     "surface": "京師"
+    },
+    {
+     "entity_id": "L40",
+     "entity_name": "太仓",
+     "entity_type": "place",
+     "start": 297,
+     "end": 299,
+     "surface": "太倉"
+    },
+    {
+     "entity_id": "C29",
+     "entity_name": "陈陈相因",
+     "entity_type": "concept",
+     "start": 301,
+     "end": 305,
+     "surface": "陳陳相因"
+    }
+   ]
+  }
+ ]
+}
