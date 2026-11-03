@@ -1,0 +1,4062 @@
+{
+ "book_id": "zizhitongjian",
+ "chapter_id": "0021",
+ "chapter_title": "卷第二十・汉纪十二・世宗孝武皇帝中之下",
+ "version": "1.0",
+ "generated_at": "2026-11-03T15:30:00+08:00",
+ "paragraphs": [
+  {
+   "para_id": "p0",
+   "text": "⟦0⟧",
+   "mentions": []
+  },
+  {
+   "para_id": "p1",
+   "text": "元狩五年（癸亥、前一一八年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p2",
+   "text": "1春，三月，甲午，丞相李蔡坐盜孝景園堧地，葬其中，當下吏，自殺。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "P02",
+     "entity_name": "李蔡",
+     "entity_type": "person",
+     "start": 11,
+     "end": 13,
+     "surface": "李蔡"
+    }
+   ]
+  },
+  {
+   "para_id": "p3",
+   "text": "2罷三銖錢，更鑄五銖錢。⟦0⟧於是民多盜鑄錢，楚地尤甚。",
+   "mentions": [
+    {
+     "entity_id": "C04",
+     "entity_name": "五铢钱",
+     "entity_type": "concept",
+     "start": 8,
+     "end": 11,
+     "surface": "五銖錢"
+    }
+   ]
+  },
+  {
+   "para_id": "p4",
+   "text": "上以爲淮陽，楚地之郊，⟦0⟧乃召拜汲黯爲淮陽太守。⟦1⟧黯伏謝不受印，詔數強予，⟦2⟧然後奉詔。黯爲上泣曰：⟦3⟧「臣自以爲塡溝壑，不復見陛下，⟦4⟧不意陛下復收用之。臣常有狗馬病，力不能任郡事。⟦5⟧臣願爲中郎，出入禁闥，補過拾遺，臣之願也。」上曰：「君薄淮陽邪？吾今召君矣。⟦6⟧顧淮陽吏民不相得，⟦7⟧吾徒得君之重，⟦8⟧臥而治之。」",
+   "mentions": [
+    {
+     "entity_id": "L01",
+     "entity_name": "淮阳",
+     "entity_type": "place",
+     "start": 3,
+     "end": 5,
+     "surface": "淮陽"
+    },
+    {
+     "entity_id": "P03",
+     "entity_name": "汲黯",
+     "entity_type": "person",
+     "start": 17,
+     "end": 19,
+     "surface": "汲黯"
+    },
+    {
+     "entity_id": "L01",
+     "entity_name": "淮阳",
+     "entity_type": "place",
+     "start": 20,
+     "end": 22,
+     "surface": "淮陽"
+    },
+    {
+     "entity_id": "L01",
+     "entity_name": "淮阳",
+     "entity_type": "place",
+     "start": 129,
+     "end": 131,
+     "surface": "淮陽"
+    },
+    {
+     "entity_id": "L01",
+     "entity_name": "淮阳",
+     "entity_type": "place",
+     "start": 143,
+     "end": 145,
+     "surface": "淮陽"
+    }
+   ]
+  },
+  {
+   "para_id": "p5",
+   "text": "黯旣辭行，過大行李息曰：「黯棄逐居郡，不得與朝廷議矣。⟦0⟧御史大夫湯，智足以拒諫，詐足以飾非，務巧佞之語，辯數之辭，非肯正爲天下言，專阿主意。主意所不欲，因而毀之；主意所欲，因而譽之。⟦1⟧好興事，舞文法，⟦2⟧內懷詐以御主心，外挾賊吏以爲威重。公列九卿，不早言之，公與之俱受其戮矣。」息畏湯，終不敢言；及湯敗，上抵息罪。⟦3⟧",
+   "mentions": [
+    {
+     "entity_id": "P04",
+     "entity_name": "李息",
+     "entity_type": "person",
+     "start": 8,
+     "end": 10,
+     "surface": "李息"
+    },
+    {
+     "entity_id": "C41",
+     "entity_name": "九卿",
+     "entity_type": "concept",
+     "start": 126,
+     "end": 128,
+     "surface": "九卿"
+    }
+   ]
+  },
+  {
+   "para_id": "p6",
+   "text": "使黯以諸侯相秩居淮陽，⟦0⟧十歲而卒。",
+   "mentions": [
+    {
+     "entity_id": "L01",
+     "entity_name": "淮阳",
+     "entity_type": "place",
+     "start": 8,
+     "end": 10,
+     "surface": "淮陽"
+    }
+   ]
+  },
+  {
+   "para_id": "p7",
+   "text": "3詔徙姦猾吏民於邊。",
+   "mentions": []
+  },
+  {
+   "para_id": "p8",
+   "text": "4夏，四月，乙卯，以太子少傅武強侯莊青翟爲丞相。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "P06",
+     "entity_name": "庄青翟",
+     "entity_type": "person",
+     "start": 17,
+     "end": 20,
+     "surface": "莊青翟"
+    }
+   ]
+  },
+  {
+   "para_id": "p9",
+   "text": "5天子病鼎湖甚，⟦0⟧巫醫無所不致，不愈。游水發根言上郡有巫，病而鬼神下之。⟦1⟧上召置，祠之甘泉，及病，使人問神君，神君言曰：「天子無憂病；病少愈，強與我會甘泉。」⟦2⟧於是病愈，遂起幸甘泉，病良已，⟦3⟧置酒壽宮。⟦4⟧神君非可得見，聞其言，言與人音等，時去時來，來則風肅然，居室帷中。神君所言，上使人受，書其言，命之曰「畫法」。⟦5⟧其所語，世俗之所知也，無絕殊者，而天子心獨喜；其事祕，世莫知也。⟦6⟧",
+   "mentions": [
+    {
+     "entity_id": "L02",
+     "entity_name": "鼎湖",
+     "entity_type": "place",
+     "start": 4,
+     "end": 6,
+     "surface": "鼎湖"
+    },
+    {
+     "entity_id": "L04",
+     "entity_name": "上郡",
+     "entity_type": "place",
+     "start": 26,
+     "end": 28,
+     "surface": "上郡"
+    },
+    {
+     "entity_id": "L03",
+     "entity_name": "甘泉",
+     "entity_type": "place",
+     "start": 47,
+     "end": 49,
+     "surface": "甘泉"
+    },
+    {
+     "entity_id": "L03",
+     "entity_name": "甘泉",
+     "entity_type": "place",
+     "start": 79,
+     "end": 81,
+     "surface": "甘泉"
+    },
+    {
+     "entity_id": "L03",
+     "entity_name": "甘泉",
+     "entity_type": "place",
+     "start": 94,
+     "end": 96,
+     "surface": "甘泉"
+    },
+    {
+     "entity_id": "L06",
+     "entity_name": "寿宫",
+     "entity_type": "place",
+     "start": 106,
+     "end": 108,
+     "surface": "壽宮"
+    },
+    {
+     "entity_id": "C24",
+     "entity_name": "画法",
+     "entity_type": "concept",
+     "start": 163,
+     "end": 165,
+     "surface": "畫法"
+    }
+   ]
+  },
+  {
+   "para_id": "p10",
+   "text": "時上卒起，幸甘泉，⟦0⟧過右內史界中，道多不治，上怒曰：「義縱以我爲不復行此道乎！」銜之。⟦1⟧",
+   "mentions": [
+    {
+     "entity_id": "L03",
+     "entity_name": "甘泉",
+     "entity_type": "place",
+     "start": 6,
+     "end": 8,
+     "surface": "甘泉"
+    },
+    {
+     "entity_id": "L05",
+     "entity_name": "右内史",
+     "entity_type": "place",
+     "start": 13,
+     "end": 16,
+     "surface": "右內史"
+    },
+    {
+     "entity_id": "P08",
+     "entity_name": "义纵",
+     "entity_type": "person",
+     "start": 29,
+     "end": 31,
+     "surface": "義縱"
+    }
+   ]
+  },
+  {
+   "para_id": "p11",
+   "text": "六年（甲子、前一一七年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p12",
+   "text": "1冬，十月，雨水，無冰。⟦0⟧",
+   "mentions": []
+  },
+  {
+   "para_id": "p13",
+   "text": "2上旣下緡錢令而尊卜式，⟦0⟧百姓終莫分財佐縣官，於是楊可告緡錢縱矣。⟦1⟧義縱以爲此亂民，部吏捕其爲可使者。天子以縱爲廢格沮事，⟦2⟧棄縱市。",
+   "mentions": [
+    {
+     "entity_id": "C02",
+     "entity_name": "缗钱令",
+     "entity_type": "concept",
+     "start": 4,
+     "end": 7,
+     "surface": "緡錢令"
+    },
+    {
+     "entity_id": "P65",
+     "entity_name": "卜式",
+     "entity_type": "person",
+     "start": 9,
+     "end": 11,
+     "surface": "卜式"
+    },
+    {
+     "entity_id": "C01",
+     "entity_name": "告缗",
+     "entity_type": "concept",
+     "start": 29,
+     "end": 31,
+     "surface": "告緡"
+    },
+    {
+     "entity_id": "P08",
+     "entity_name": "义纵",
+     "entity_type": "person",
+     "start": 38,
+     "end": 40,
+     "surface": "義縱"
+    }
+   ]
+  },
+  {
+   "para_id": "p14",
+   "text": "3郎中令李敢，怨大將軍之恨其父，⟦0⟧乃擊傷大將軍，大將軍匿諱之。居無何，⟦1⟧敢從上雍，⟦2⟧至甘泉宮獵，票騎將軍去病射殺敢。⟦3⟧去病時方貴幸，上爲諱，云鹿觸殺之。⟦4⟧",
+   "mentions": [
+    {
+     "entity_id": "C35",
+     "entity_name": "郎中令",
+     "entity_type": "concept",
+     "start": 1,
+     "end": 4,
+     "surface": "郎中令"
+    },
+    {
+     "entity_id": "P09",
+     "entity_name": "李敢",
+     "entity_type": "person",
+     "start": 4,
+     "end": 6,
+     "surface": "李敢"
+    },
+    {
+     "entity_id": "L03",
+     "entity_name": "甘泉",
+     "entity_type": "place",
+     "start": 49,
+     "end": 51,
+     "surface": "甘泉"
+    },
+    {
+     "entity_id": "P11",
+     "entity_name": "霍去病",
+     "entity_type": "person",
+     "start": 54,
+     "end": 58,
+     "surface": "票騎將軍"
+    }
+   ]
+  },
+  {
+   "para_id": "p15",
+   "text": "4夏，四月，乙巳，廟立皇子閎爲齊王，旦爲燕王，胥爲廣陵王，初作誥策。⟦0⟧",
+   "mentions": []
+  },
+  {
+   "para_id": "p16",
+   "text": "5自造白金、五銖錢後，吏民之坐盜鑄金錢死者數十萬人，其不發覺者不可勝計，⟦0⟧天下大抵無慮皆鑄金錢矣。⟦1⟧犯者衆，吏不能盡誅。",
+   "mentions": [
+    {
+     "entity_id": "C05",
+     "entity_name": "白金",
+     "entity_type": "concept",
+     "start": 3,
+     "end": 5,
+     "surface": "白金"
+    },
+    {
+     "entity_id": "C04",
+     "entity_name": "五铢钱",
+     "entity_type": "concept",
+     "start": 6,
+     "end": 9,
+     "surface": "五銖錢"
+    }
+   ]
+  },
+  {
+   "para_id": "p17",
+   "text": "6六月，詔遣博士褚大、徐偃等六人⟦0⟧分循郡國，舉兼幷之徒及守、相、爲吏有罪者。⟦1⟧",
+   "mentions": []
+  },
+  {
+   "para_id": "p18",
+   "text": "7秋，九月，冠軍景桓侯霍去病薨。⟦0⟧天子甚悼之，爲冢，像祁連山。",
+   "mentions": [
+    {
+     "entity_id": "P11",
+     "entity_name": "霍去病",
+     "entity_type": "person",
+     "start": 11,
+     "end": 14,
+     "surface": "霍去病"
+    }
+   ]
+  },
+  {
+   "para_id": "p19",
+   "text": "初，霍仲孺吏畢歸家，⟦0⟧娶婦，生子光。去病旣壯大，乃自知父爲霍仲孺。會爲票騎將軍，擊匈奴，道出河東，遣吏迎仲孺而見之，大爲買田宅奴婢而去；⟦1⟧及還，因將光西至長安，任以爲郎，稍遷至奉車都尉、⟦2⟧光祿大夫。",
+   "mentions": [
+    {
+     "entity_id": "P15",
+     "entity_name": "霍仲孺",
+     "entity_type": "person",
+     "start": 2,
+     "end": 5,
+     "surface": "霍仲孺"
+    },
+    {
+     "entity_id": "P15",
+     "entity_name": "霍仲孺",
+     "entity_type": "person",
+     "start": 31,
+     "end": 34,
+     "surface": "霍仲孺"
+    },
+    {
+     "entity_id": "P11",
+     "entity_name": "霍去病",
+     "entity_type": "person",
+     "start": 37,
+     "end": 41,
+     "surface": "票騎將軍"
+    },
+    {
+     "entity_id": "L102",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 43,
+     "end": 45,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "L07",
+     "entity_name": "河东",
+     "entity_type": "place",
+     "start": 48,
+     "end": 50,
+     "surface": "河東"
+    },
+    {
+     "entity_id": "L08",
+     "entity_name": "长安",
+     "entity_type": "place",
+     "start": 81,
+     "end": 83,
+     "surface": "長安"
+    },
+    {
+     "entity_id": "C37",
+     "entity_name": "奉车都尉",
+     "entity_type": "concept",
+     "start": 92,
+     "end": 96,
+     "surface": "奉車都尉"
+    },
+    {
+     "entity_id": "C38",
+     "entity_name": "光禄大夫",
+     "entity_type": "concept",
+     "start": 100,
+     "end": 104,
+     "surface": "光祿大夫"
+    }
+   ]
+  },
+  {
+   "para_id": "p20",
+   "text": "8是歲，大農令顏異誅。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "C36",
+     "entity_name": "大农令",
+     "entity_type": "concept",
+     "start": 4,
+     "end": 7,
+     "surface": "大農令"
+    },
+    {
+     "entity_id": "P17",
+     "entity_name": "颜异",
+     "entity_type": "person",
+     "start": 7,
+     "end": 9,
+     "surface": "顏異"
+    }
+   ]
+  },
+  {
+   "para_id": "p21",
+   "text": "初，異以廉直，稍遷至九卿。上與張湯旣造白鹿皮幣，⟦0⟧問異，異曰：「今王侯朝賀以蒼璧，直數千，而以皮薦反四十萬，⟦1⟧本末不相稱。」天子不說。⟦2⟧張湯又與異有郤，⟦3⟧及人有告異以他事，下張湯治異。⟦4⟧異與客語初令下有不便者，⟦5⟧異不應，微反脣。⟦6⟧湯奏當：「異九卿，見令不便，不入言而腹誹，論死。」自是之後，有腹誹之法比，⟦7⟧而公卿大夫多諂諛取容矣。",
+   "mentions": [
+    {
+     "entity_id": "C41",
+     "entity_name": "九卿",
+     "entity_type": "concept",
+     "start": 10,
+     "end": 12,
+     "surface": "九卿"
+    },
+    {
+     "entity_id": "P05",
+     "entity_name": "张汤",
+     "entity_type": "person",
+     "start": 15,
+     "end": 17,
+     "surface": "張湯"
+    },
+    {
+     "entity_id": "C06",
+     "entity_name": "白鹿皮币",
+     "entity_type": "concept",
+     "start": 19,
+     "end": 23,
+     "surface": "白鹿皮幣"
+    },
+    {
+     "entity_id": "P05",
+     "entity_name": "张汤",
+     "entity_type": "person",
+     "start": 74,
+     "end": 76,
+     "surface": "張湯"
+    },
+    {
+     "entity_id": "P05",
+     "entity_name": "张汤",
+     "entity_type": "person",
+     "start": 95,
+     "end": 97,
+     "surface": "張湯"
+    },
+    {
+     "entity_id": "C41",
+     "entity_name": "九卿",
+     "entity_type": "concept",
+     "start": 135,
+     "end": 137,
+     "surface": "九卿"
+    },
+    {
+     "entity_id": "C03",
+     "entity_name": "腹诽",
+     "entity_type": "concept",
+     "start": 147,
+     "end": 149,
+     "surface": "腹誹"
+    },
+    {
+     "entity_id": "C03",
+     "entity_name": "腹诽",
+     "entity_type": "concept",
+     "start": 160,
+     "end": 162,
+     "surface": "腹誹"
+    }
+   ]
+  },
+  {
+   "para_id": "p22",
+   "text": "元鼎元年（乙丑、前一一六年）⟦0⟧",
+   "mentions": []
+  },
+  {
+   "para_id": "p23",
+   "text": "1夏，五月，赦天下。",
+   "mentions": []
+  },
+  {
+   "para_id": "p24",
+   "text": "2濟東王彭離驕悍，⟦0⟧昏暮，與其奴、亡命少年數十人行剽殺人，取財物以爲好，⟦1⟧所殺發覺者百餘人，坐廢，徙上庸。⟦2⟧",
+   "mentions": [
+    {
+     "entity_id": "L11",
+     "entity_name": "济东",
+     "entity_type": "place",
+     "start": 1,
+     "end": 3,
+     "surface": "濟東"
+    },
+    {
+     "entity_id": "L10",
+     "entity_name": "上庸",
+     "entity_type": "place",
+     "start": 54,
+     "end": 56,
+     "surface": "上庸"
+    }
+   ]
+  },
+  {
+   "para_id": "p25",
+   "text": "二年（丙寅、前一一五年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p26",
+   "text": "1冬，十一月，張湯有罪，自殺。",
+   "mentions": [
+    {
+     "entity_id": "P05",
+     "entity_name": "张汤",
+     "entity_type": "person",
+     "start": 7,
+     "end": 9,
+     "surface": "張湯"
+    }
+   ]
+  },
+  {
+   "para_id": "p27",
+   "text": "初，御史中丞李文，與湯有郤，⟦0⟧湯所厚吏魯謁居陰使人上變告文姦事，事下湯治，論殺之。⟦1⟧湯心知謁居爲之，上問：「變事蹤跡安起？」湯佯驚曰：「此殆文故人怨之。」⟦2⟧謁居病，湯親爲之摩足。⟦3⟧趙王素怨湯，上書告：「湯大臣，乃與吏摩足，疑與爲大姦。」事下廷尉。謁居病死，事連其弟。弟繫導官。⟦4⟧湯亦治他囚導官，見謁居弟，欲陰爲之，而佯不省。⟦5⟧謁居弟弗知，怨湯，使人上書，告湯與謁居謀共變告李文。事下減宣，⟦6⟧宣嘗與湯有郤，及得此事，窮竟其事，未奏也。會人有盜發孝文園瘞錢，⟦7⟧丞相青翟朝，與湯約俱謝，⟦8⟧至前，⟦9⟧湯獨不謝。⟦10⟧上使御史按丞相，湯欲致其文「丞相見知」，⟦11⟧丞相患之。丞相長史朱買臣、王朝、邊通，皆故九卿、二千石，⟦12⟧仕宦絕在湯前。湯數行丞相事，⟦13⟧知三長史素貴，故陵折，丞史遇之，三長史皆怨恨，欲死之。⟦14⟧乃與丞相謀，使吏捕案賈人田信等，曰：「湯且欲奏請，信輒先知之，居物致富，⟦15⟧與湯分之。」事辭頗聞，⟦16⟧上問湯曰：「吾所爲，賈人輒先知之，益居其物，⟦17⟧是類有以吾謀告之者。」⟦18⟧湯不謝，又佯驚曰：「固宜有。」減宣亦奏謁居等事。天子以湯懷詐面欺，⟦19⟧使趙禹切責湯，湯乃爲書謝，因曰：「陷臣者，三長史也。」遂自殺。湯旣死，家產直不過五百金。昆弟諸子欲厚葬湯，湯母曰：「湯爲天子大臣，被汙惡言而死，⟦20⟧何厚葬乎！」載以牛車，有棺無槨。天子聞之，乃盡按誅三長史。十二月，壬辰，丞相青翟下獄，自殺。",
+   "mentions": [
+    {
+     "entity_id": "C32",
+     "entity_name": "御史中丞",
+     "entity_type": "concept",
+     "start": 2,
+     "end": 6,
+     "surface": "御史中丞"
+    },
+    {
+     "entity_id": "P18",
+     "entity_name": "李文",
+     "entity_type": "person",
+     "start": 6,
+     "end": 8,
+     "surface": "李文"
+    },
+    {
+     "entity_id": "P19",
+     "entity_name": "鲁谒居",
+     "entity_type": "person",
+     "start": 21,
+     "end": 24,
+     "surface": "魯謁居"
+    },
+    {
+     "entity_id": "C33",
+     "entity_name": "廷尉",
+     "entity_type": "concept",
+     "start": 128,
+     "end": 130,
+     "surface": "廷尉"
+    },
+    {
+     "entity_id": "P18",
+     "entity_name": "李文",
+     "entity_type": "person",
+     "start": 198,
+     "end": 200,
+     "surface": "李文"
+    },
+    {
+     "entity_id": "P20",
+     "entity_name": "减宣",
+     "entity_type": "person",
+     "start": 203,
+     "end": 205,
+     "surface": "減宣"
+    },
+    {
+     "entity_id": "P23",
+     "entity_name": "朱买臣",
+     "entity_type": "person",
+     "start": 307,
+     "end": 310,
+     "surface": "朱買臣"
+    },
+    {
+     "entity_id": "P24",
+     "entity_name": "王朝",
+     "entity_type": "person",
+     "start": 311,
+     "end": 313,
+     "surface": "王朝"
+    },
+    {
+     "entity_id": "P25",
+     "entity_name": "边通",
+     "entity_type": "person",
+     "start": 314,
+     "end": 316,
+     "surface": "邊通"
+    },
+    {
+     "entity_id": "C41",
+     "entity_name": "九卿",
+     "entity_type": "concept",
+     "start": 319,
+     "end": 321,
+     "surface": "九卿"
+    },
+    {
+     "entity_id": "P22",
+     "entity_name": "田信",
+     "entity_type": "person",
+     "start": 391,
+     "end": 393,
+     "surface": "田信"
+    },
+    {
+     "entity_id": "P20",
+     "entity_name": "减宣",
+     "entity_type": "person",
+     "start": 490,
+     "end": 492,
+     "surface": "減宣"
+    },
+    {
+     "entity_id": "P26",
+     "entity_name": "赵禹",
+     "entity_type": "person",
+     "start": 513,
+     "end": 515,
+     "surface": "趙禹"
+    }
+   ]
+  },
+  {
+   "para_id": "p28",
+   "text": "2春，起柏梁臺。⟦0⟧作承露盤，高二十丈，⟦1⟧大七圍，以銅爲之；上有仙人掌，以承露，和玉屑飲之，云可以長生。宮室之脩，自此日盛。",
+   "mentions": [
+    {
+     "entity_id": "L12",
+     "entity_name": "柏梁台",
+     "entity_type": "place",
+     "start": 4,
+     "end": 7,
+     "surface": "柏梁臺"
+    },
+    {
+     "entity_id": "C10",
+     "entity_name": "承露盘",
+     "entity_type": "concept",
+     "start": 12,
+     "end": 15,
+     "surface": "承露盤"
+    }
+   ]
+  },
+  {
+   "para_id": "p29",
+   "text": "3二月，以太子太傅趙周爲丞相。",
+   "mentions": [
+    {
+     "entity_id": "C39",
+     "entity_name": "太子太傅",
+     "entity_type": "concept",
+     "start": 5,
+     "end": 9,
+     "surface": "太子太傅"
+    },
+    {
+     "entity_id": "P27",
+     "entity_name": "赵周",
+     "entity_type": "person",
+     "start": 9,
+     "end": 11,
+     "surface": "趙周"
+    }
+   ]
+  },
+  {
+   "para_id": "p30",
+   "text": "4三月，辛亥，以太子太傅石慶爲御史大夫。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "C39",
+     "entity_name": "太子太傅",
+     "entity_type": "concept",
+     "start": 8,
+     "end": 12,
+     "surface": "太子太傅"
+    },
+    {
+     "entity_id": "P28",
+     "entity_name": "石庆",
+     "entity_type": "person",
+     "start": 12,
+     "end": 14,
+     "surface": "石慶"
+    }
+   ]
+  },
+  {
+   "para_id": "p31",
+   "text": "5大雨雪。⟦0⟧",
+   "mentions": []
+  },
+  {
+   "para_id": "p32",
+   "text": "6夏，大水，關東餓死者以千數。",
+   "mentions": [
+    {
+     "entity_id": "L29",
+     "entity_name": "关东",
+     "entity_type": "place",
+     "start": 6,
+     "end": 8,
+     "surface": "關東"
+    }
+   ]
+  },
+  {
+   "para_id": "p33",
+   "text": "7是歲，孔僅爲大農令，而桑弘羊爲大農中丞，⟦0⟧稍置均輸，以通貨物。⟦1⟧",
+   "mentions": [
+    {
+     "entity_id": "P29",
+     "entity_name": "孔仅",
+     "entity_type": "person",
+     "start": 4,
+     "end": 6,
+     "surface": "孔僅"
+    },
+    {
+     "entity_id": "C36",
+     "entity_name": "大农令",
+     "entity_type": "concept",
+     "start": 7,
+     "end": 10,
+     "surface": "大農令"
+    },
+    {
+     "entity_id": "P30",
+     "entity_name": "桑弘羊",
+     "entity_type": "person",
+     "start": 12,
+     "end": 15,
+     "surface": "桑弘羊"
+    },
+    {
+     "entity_id": "C07",
+     "entity_name": "均输",
+     "entity_type": "concept",
+     "start": 26,
+     "end": 28,
+     "surface": "均輸"
+    }
+   ]
+  },
+  {
+   "para_id": "p34",
+   "text": "8白金稍賤，民不寶用，竟廢之。⟦0⟧於是悉禁郡、國無鑄錢，專令上林三官鑄錢，令天下非三官錢不得行。⟦1⟧而民之鑄錢益少，計其費不能相當，惟眞工、大姦乃盜爲之。",
+   "mentions": [
+    {
+     "entity_id": "C05",
+     "entity_name": "白金",
+     "entity_type": "concept",
+     "start": 1,
+     "end": 3,
+     "surface": "白金"
+    },
+    {
+     "entity_id": "C09",
+     "entity_name": "上林三官",
+     "entity_type": "concept",
+     "start": 31,
+     "end": 35,
+     "surface": "上林三官"
+    }
+   ]
+  },
+  {
+   "para_id": "p35",
+   "text": "9渾邪王旣降漢，⟦0⟧漢兵擊逐匈奴於幕北，⟦1⟧自鹽澤以東空無匈奴，西域道可通。於是張騫建言：「烏孫王昆莫本爲匈奴臣，後兵稍強，不肯復朝事匈奴，匈奴攻不勝而遠之。⟦2⟧今單于新困於漢，而故渾邪地空無人，蠻夷俗戀故地，又貪漢財物，今誠以此時厚幣賂烏孫，招以益東，居故渾邪之地，⟦3⟧與漢結昆弟，其勢宜聽，聽則是斷匈奴右臂也。⟦4⟧旣連烏孫，自其西大夏之屬皆可招來而爲外臣。」天子以爲然，拜騫爲中郎將，將三百人，馬各二匹，牛羊以萬數，齎金幣帛直數千巨萬；多持節副使，⟦5⟧道可便，遣之他旁國。⟦6⟧",
+   "mentions": [
+    {
+     "entity_id": "L102",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 15,
+     "end": 17,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "L13",
+     "entity_name": "盐泽",
+     "entity_type": "place",
+     "start": 25,
+     "end": 27,
+     "surface": "鹽澤"
+    },
+    {
+     "entity_id": "L102",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 31,
+     "end": 33,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "L101",
+     "entity_name": "西域",
+     "entity_type": "place",
+     "start": 34,
+     "end": 36,
+     "surface": "西域"
+    },
+    {
+     "entity_id": "P31",
+     "entity_name": "张骞",
+     "entity_type": "person",
+     "start": 42,
+     "end": 44,
+     "surface": "張騫"
+    },
+    {
+     "entity_id": "P32",
+     "entity_name": "昆莫",
+     "entity_type": "person",
+     "start": 51,
+     "end": 53,
+     "surface": "昆莫"
+    },
+    {
+     "entity_id": "L102",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 55,
+     "end": 57,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "L102",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 69,
+     "end": 71,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "L102",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 72,
+     "end": 74,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "L102",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 155,
+     "end": 157,
+     "surface": "匈奴"
+    }
+   ]
+  },
+  {
+   "para_id": "p36",
+   "text": "騫旣至烏孫，昆莫見騫，禮節甚倨。騫諭指曰：⟦0⟧「烏孫能東居故地，則漢遣公主爲夫人，結爲兄弟，共距匈奴，匈奴不足破也。」烏孫自以遠漢，未知其大小；素服屬匈奴日久，且又近之，⟦1⟧其大臣皆畏匈奴，不欲移徙。騫留久之，不能得其要領，⟦2⟧因分遣副使使大宛、康居、大月氏、大夏、安息、身毒、于闐及諸旁國。烏孫發譯道送騫還，⟦3⟧使數十人，馬數十匹，隨騫報謝，因令窺漢大小。是歲，騫還，到，拜爲大行。後歲餘，騫所遣使通大夏之屬者皆頗與其人俱來，⟦4⟧於是西域始通於漢矣。",
+   "mentions": [
+    {
+     "entity_id": "P32",
+     "entity_name": "昆莫",
+     "entity_type": "person",
+     "start": 6,
+     "end": 8,
+     "surface": "昆莫"
+    },
+    {
+     "entity_id": "L102",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 49,
+     "end": 51,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "L102",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 52,
+     "end": 54,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "L102",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 76,
+     "end": 78,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "L102",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 94,
+     "end": 96,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "L101",
+     "entity_name": "西域",
+     "entity_type": "place",
+     "start": 223,
+     "end": 225,
+     "surface": "西域"
+    }
+   ]
+  },
+  {
+   "para_id": "p37",
+   "text": "西域凡三十六國，南北有大山，中央有河，⟦0⟧東西六千餘里，南北千餘里，東則接漢玉門、陽關，⟦1⟧西則限以葱嶺。⟦2⟧河有兩源，一出葱嶺，一出于窴，〔章：十四行本「窴」作「闐」；乙十一行本同；孔本同。〕合流東注鹽澤。鹽澤去玉門、陽關三百餘里。自玉門、陽關出西域有兩道：從鄯善傍南山北，循河西行至莎車，爲南道；⟦3⟧南道西踰葱嶺，則出大月氏、安息。自車師前王廷隨北山循河西行至疏勒，爲北道；⟦4⟧北道西踰葱嶺，則出大宛、康居、奄蔡焉。⟦5⟧故皆役屬匈奴，匈奴西邊日逐王，置僮僕都尉，⟦6⟧使領西域，常居焉耆、危須、尉黎間，⟦7⟧賦稅諸國，取富給焉。",
+   "mentions": [
+    {
+     "entity_id": "L101",
+     "entity_name": "西域",
+     "entity_type": "place",
+     "start": 0,
+     "end": 2,
+     "surface": "西域"
+    },
+    {
+     "entity_id": "L14",
+     "entity_name": "玉门关",
+     "entity_type": "place",
+     "start": 39,
+     "end": 41,
+     "surface": "玉門"
+    },
+    {
+     "entity_id": "L15",
+     "entity_name": "阳关",
+     "entity_type": "place",
+     "start": 42,
+     "end": 44,
+     "surface": "陽關"
+    },
+    {
+     "entity_id": "L13",
+     "entity_name": "盐泽",
+     "entity_type": "place",
+     "start": 104,
+     "end": 106,
+     "surface": "鹽澤"
+    },
+    {
+     "entity_id": "L13",
+     "entity_name": "盐泽",
+     "entity_type": "place",
+     "start": 107,
+     "end": 109,
+     "surface": "鹽澤"
+    },
+    {
+     "entity_id": "L14",
+     "entity_name": "玉门关",
+     "entity_type": "place",
+     "start": 110,
+     "end": 112,
+     "surface": "玉門"
+    },
+    {
+     "entity_id": "L15",
+     "entity_name": "阳关",
+     "entity_type": "place",
+     "start": 113,
+     "end": 115,
+     "surface": "陽關"
+    },
+    {
+     "entity_id": "L14",
+     "entity_name": "玉门关",
+     "entity_type": "place",
+     "start": 121,
+     "end": 123,
+     "surface": "玉門"
+    },
+    {
+     "entity_id": "L15",
+     "entity_name": "阳关",
+     "entity_type": "place",
+     "start": 124,
+     "end": 126,
+     "surface": "陽關"
+    },
+    {
+     "entity_id": "L101",
+     "entity_name": "西域",
+     "entity_type": "place",
+     "start": 127,
+     "end": 129,
+     "surface": "西域"
+    },
+    {
+     "entity_id": "L17",
+     "entity_name": "鄯善",
+     "entity_type": "place",
+     "start": 134,
+     "end": 136,
+     "surface": "鄯善"
+    },
+    {
+     "entity_id": "L18",
+     "entity_name": "莎车",
+     "entity_type": "place",
+     "start": 146,
+     "end": 148,
+     "surface": "莎車"
+    },
+    {
+     "entity_id": "L19",
+     "entity_name": "车师",
+     "entity_type": "place",
+     "start": 173,
+     "end": 175,
+     "surface": "車師"
+    },
+    {
+     "entity_id": "L20",
+     "entity_name": "疏勒",
+     "entity_type": "place",
+     "start": 186,
+     "end": 188,
+     "surface": "疏勒"
+    },
+    {
+     "entity_id": "L102",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 222,
+     "end": 224,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "L102",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 225,
+     "end": 227,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "C20",
+     "entity_name": "日逐王",
+     "entity_type": "concept",
+     "start": 229,
+     "end": 232,
+     "surface": "日逐王"
+    },
+    {
+     "entity_id": "C19",
+     "entity_name": "僮仆都尉",
+     "entity_type": "concept",
+     "start": 234,
+     "end": 238,
+     "surface": "僮僕都尉"
+    },
+    {
+     "entity_id": "L101",
+     "entity_name": "西域",
+     "entity_type": "place",
+     "start": 244,
+     "end": 246,
+     "surface": "西域"
+    },
+    {
+     "entity_id": "L21",
+     "entity_name": "焉耆",
+     "entity_type": "place",
+     "start": 249,
+     "end": 251,
+     "surface": "焉耆"
+    },
+    {
+     "entity_id": "L22",
+     "entity_name": "危须",
+     "entity_type": "place",
+     "start": 252,
+     "end": 254,
+     "surface": "危須"
+    },
+    {
+     "entity_id": "L23",
+     "entity_name": "尉黎",
+     "entity_type": "place",
+     "start": 255,
+     "end": 257,
+     "surface": "尉黎"
+    }
+   ]
+  },
+  {
+   "para_id": "p38",
+   "text": "烏孫王旣不肯東還，漢乃於渾邪王故地置酒泉郡，⟦0⟧稍發徙民以充實之；後又分置武威郡，⟦1⟧以絕匈奴與羌通之道。",
+   "mentions": [
+    {
+     "entity_id": "L24",
+     "entity_name": "酒泉郡",
+     "entity_type": "place",
+     "start": 18,
+     "end": 21,
+     "surface": "酒泉郡"
+    },
+    {
+     "entity_id": "L25",
+     "entity_name": "武威郡",
+     "entity_type": "place",
+     "start": 38,
+     "end": 41,
+     "surface": "武威郡"
+    },
+    {
+     "entity_id": "L102",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 47,
+     "end": 49,
+     "surface": "匈奴"
+    }
+   ]
+  },
+  {
+   "para_id": "p39",
+   "text": "天子得宛汗血馬，愛之，名曰「天馬」。使者相望於道以求之。諸使外國，一輩大者數百，少者百餘人，人所齎操大放博望侯時，⟦0⟧其後益習而衰少焉。⟦1⟧漢率一歲中使多者十餘，少者五六輩；遠者八九歲，近者數歲而反。",
+   "mentions": [
+    {
+     "entity_id": "C31",
+     "entity_name": "天马",
+     "entity_type": "concept",
+     "start": 14,
+     "end": 16,
+     "surface": "天馬"
+    },
+    {
+     "entity_id": "P31",
+     "entity_name": "张骞",
+     "entity_type": "person",
+     "start": 52,
+     "end": 55,
+     "surface": "博望侯"
+    }
+   ]
+  },
+  {
+   "para_id": "p40",
+   "text": "三年（丁卯、前一一四年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p41",
+   "text": "1冬，徙函谷關於新安。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "L27",
+     "entity_name": "函谷关",
+     "entity_type": "place",
+     "start": 4,
+     "end": 7,
+     "surface": "函谷關"
+    },
+    {
+     "entity_id": "L26",
+     "entity_name": "新安",
+     "entity_type": "place",
+     "start": 8,
+     "end": 10,
+     "surface": "新安"
+    }
+   ]
+  },
+  {
+   "para_id": "p42",
+   "text": "2春，正月，戊子，陽陵園火。",
+   "mentions": [
+    {
+     "entity_id": "L28",
+     "entity_name": "阳陵",
+     "entity_type": "place",
+     "start": 9,
+     "end": 11,
+     "surface": "陽陵"
+    }
+   ]
+  },
+  {
+   "para_id": "p43",
+   "text": "3夏，四月，雨雹。⟦0⟧",
+   "mentions": []
+  },
+  {
+   "para_id": "p44",
+   "text": "4關東郡、國十餘饑，人相食。",
+   "mentions": [
+    {
+     "entity_id": "L29",
+     "entity_name": "关东",
+     "entity_type": "place",
+     "start": 1,
+     "end": 3,
+     "surface": "關東"
+    }
+   ]
+  },
+  {
+   "para_id": "p45",
+   "text": "5常山憲王舜薨，⟦0⟧子勃嗣，坐憲王病不侍疾及居喪無禮廢，徙房陵。⟦1⟧後月餘，天子更封憲王子平爲眞定王，⟦2⟧以常山爲郡，於是五嶽皆在天子之邦矣。⟦3⟧",
+   "mentions": [
+    {
+     "entity_id": "L30",
+     "entity_name": "房陵",
+     "entity_type": "place",
+     "start": 30,
+     "end": 32,
+     "surface": "房陵"
+    }
+   ]
+  },
+  {
+   "para_id": "p46",
+   "text": "6徙代王義爲清河王。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "L31",
+     "entity_name": "清河",
+     "entity_type": "place",
+     "start": 6,
+     "end": 8,
+     "surface": "清河"
+    }
+   ]
+  },
+  {
+   "para_id": "p47",
+   "text": "7是歲，匈奴伊稚斜單于死，子烏維單于立。",
+   "mentions": [
+    {
+     "entity_id": "L102",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 4,
+     "end": 6,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "P37",
+     "entity_name": "伊稚斜单于",
+     "entity_type": "person",
+     "start": 6,
+     "end": 11,
+     "surface": "伊稚斜單于"
+    },
+    {
+     "entity_id": "P38",
+     "entity_name": "乌维单于",
+     "entity_type": "person",
+     "start": 14,
+     "end": 18,
+     "surface": "烏維單于"
+    }
+   ]
+  },
+  {
+   "para_id": "p48",
+   "text": "四年（戊辰、前一一三年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p49",
+   "text": "1冬，十月，上行幸雍，祠五畤。⟦0⟧詔曰：「今上帝，朕親郊，而后土無祀，則禮不答也，⟦1⟧其令有司議！」立后土祠於澤中圜丘。⟦2⟧上遂自夏陽東幸汾陰。⟦3⟧是時，天子始巡郡、國；河東守不意行至，不辦，自殺。⟦4⟧十一月，甲子，立后土祠於汾陰脽上，⟦5⟧上親望拜，如上帝禮。禮畢，行幸滎陽，還，至洛陽，⟦6⟧封周後姬嘉爲周子南君。⟦7⟧",
+   "mentions": [
+    {
+     "entity_id": "C18",
+     "entity_name": "五畤",
+     "entity_type": "concept",
+     "start": 12,
+     "end": 14,
+     "surface": "五畤"
+    },
+    {
+     "entity_id": "C17",
+     "entity_name": "后土",
+     "entity_type": "concept",
+     "start": 31,
+     "end": 33,
+     "surface": "后土"
+    },
+    {
+     "entity_id": "C17",
+     "entity_name": "后土",
+     "entity_type": "concept",
+     "start": 53,
+     "end": 55,
+     "surface": "后土"
+    },
+    {
+     "entity_id": "L33",
+     "entity_name": "夏阳",
+     "entity_type": "place",
+     "start": 68,
+     "end": 70,
+     "surface": "夏陽"
+    },
+    {
+     "entity_id": "L34",
+     "entity_name": "汾阴",
+     "entity_type": "place",
+     "start": 72,
+     "end": 74,
+     "surface": "汾陰"
+    },
+    {
+     "entity_id": "L07",
+     "entity_name": "河东",
+     "entity_type": "place",
+     "start": 89,
+     "end": 91,
+     "surface": "河東"
+    },
+    {
+     "entity_id": "C17",
+     "entity_name": "后土",
+     "entity_type": "concept",
+     "start": 114,
+     "end": 116,
+     "surface": "后土"
+    },
+    {
+     "entity_id": "L34",
+     "entity_name": "汾阴",
+     "entity_type": "place",
+     "start": 118,
+     "end": 120,
+     "surface": "汾陰"
+    },
+    {
+     "entity_id": "L36",
+     "entity_name": "荥阳",
+     "entity_type": "place",
+     "start": 141,
+     "end": 143,
+     "surface": "滎陽"
+    },
+    {
+     "entity_id": "L37",
+     "entity_name": "洛阳",
+     "entity_type": "place",
+     "start": 147,
+     "end": 149,
+     "surface": "洛陽"
+    },
+    {
+     "entity_id": "P39",
+     "entity_name": "姬嘉",
+     "entity_type": "person",
+     "start": 156,
+     "end": 158,
+     "surface": "姬嘉"
+    }
+   ]
+  },
+  {
+   "para_id": "p50",
+   "text": "2春，二月，中山靖王勝薨。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "L38",
+     "entity_name": "中山",
+     "entity_type": "place",
+     "start": 6,
+     "end": 8,
+     "surface": "中山"
+    }
+   ]
+  },
+  {
+   "para_id": "p51",
+   "text": "3樂成侯丁義⟦0⟧薦方士欒大，云與文成將軍同師。上方悔誅文成，⟦1⟧得欒大，大說。⟦2⟧大先事膠東康王，⟦3⟧爲人長美言，⟦4⟧多方略，而敢爲大言，處之不疑。⟦5⟧大言曰：「臣常往來海中，見安期、羨門之屬，顧以臣爲賤，不信臣；又以爲康王諸侯耳，不足與方。臣之師曰：『黃金可成而河決可塞，⟦6⟧不死之藥可得，仙人可致也。』然臣恐效文成，則方士皆掩口，惡敢言方哉！」⟦7⟧上曰：「文成食馬肝死耳。⟦8⟧子誠能脩其方，我何愛乎！」大曰：「臣師非有求人，人者求之。陛下必欲致之，則貴其使者，令爲親屬，以客禮待之，乃可使通言於神人。」於是上使驗小方，鬬旗，旗自相觸擊。⟦9⟧是時，上方憂河決而黃金不就，乃拜大爲五利將軍，又拜爲天士將軍、地士將軍、大通將軍。夏，四月，乙巳，封大爲樂通侯，⟦10⟧食邑二千戶，賜甲第，僮千人，乘輿斥車馬、帷帳、器物以充其家，⟦11⟧又以衞長公主妻之，⟦12⟧齎金十萬斤，天子親如五利之第，使者存問共給，⟦13⟧相屬於道。⟦14⟧自太主、將、相以下，⟦15⟧皆置酒其家，獻遺之。⟦16⟧天子又刻玉印曰「天道將軍」，⟦17⟧使使衣羽衣，夜立白茅上；五利將軍亦衣羽衣，立白茅上，受印，以示不臣。⟦18⟧大見數月，佩六印，⟦19⟧貴震天下。於是海上燕、齊之間，莫不搤腕自言有禁方、能神仙矣。⟦20⟧",
+   "mentions": [
+    {
+     "entity_id": "L40",
+     "entity_name": "乐成",
+     "entity_type": "place",
+     "start": 1,
+     "end": 3,
+     "surface": "樂成"
+    },
+    {
+     "entity_id": "P41",
+     "entity_name": "丁义",
+     "entity_type": "person",
+     "start": 4,
+     "end": 6,
+     "surface": "丁義"
+    },
+    {
+     "entity_id": "P42",
+     "entity_name": "栾大",
+     "entity_type": "person",
+     "start": 12,
+     "end": 14,
+     "surface": "欒大"
+    },
+    {
+     "entity_id": "P42",
+     "entity_name": "栾大",
+     "entity_type": "person",
+     "start": 35,
+     "end": 37,
+     "surface": "欒大"
+    },
+    {
+     "entity_id": "L39",
+     "entity_name": "胶东",
+     "entity_type": "place",
+     "start": 47,
+     "end": 49,
+     "surface": "膠東"
+    },
+    {
+     "entity_id": "P42",
+     "entity_name": "栾大",
+     "entity_type": "person",
+     "start": 300,
+     "end": 304,
+     "surface": "五利將軍"
+    },
+    {
+     "entity_id": "P42",
+     "entity_name": "栾大",
+     "entity_type": "person",
+     "start": 334,
+     "end": 337,
+     "surface": "樂通侯"
+    },
+    {
+     "entity_id": "C26",
+     "entity_name": "天道将军",
+     "entity_type": "concept",
+     "start": 460,
+     "end": 464,
+     "surface": "天道將軍"
+    },
+    {
+     "entity_id": "C25",
+     "entity_name": "羽衣",
+     "entity_type": "concept",
+     "start": 473,
+     "end": 475,
+     "surface": "羽衣"
+    },
+    {
+     "entity_id": "P42",
+     "entity_name": "栾大",
+     "entity_type": "person",
+     "start": 482,
+     "end": 486,
+     "surface": "五利將軍"
+    },
+    {
+     "entity_id": "C25",
+     "entity_name": "羽衣",
+     "entity_type": "concept",
+     "start": 488,
+     "end": 490,
+     "surface": "羽衣"
+    }
+   ]
+  },
+  {
+   "para_id": "p52",
+   "text": "4六月，汾陰巫錦⟦0⟧得大鼎於魏脽后土營旁，⟦1⟧河東太守以聞。天子使驗問，巫得鼎無姦詐，乃以禮祠，迎鼎至甘泉，從上行，⟦2⟧薦之宗廟及上帝，藏於甘泉宮；羣臣皆上壽賀。",
+   "mentions": [
+    {
+     "entity_id": "L34",
+     "entity_name": "汾阴",
+     "entity_type": "place",
+     "start": 4,
+     "end": 6,
+     "surface": "汾陰"
+    },
+    {
+     "entity_id": "C17",
+     "entity_name": "后土",
+     "entity_type": "concept",
+     "start": 17,
+     "end": 19,
+     "surface": "后土"
+    },
+    {
+     "entity_id": "L07",
+     "entity_name": "河东",
+     "entity_type": "place",
+     "start": 25,
+     "end": 27,
+     "surface": "河東"
+    },
+    {
+     "entity_id": "L03",
+     "entity_name": "甘泉",
+     "entity_type": "place",
+     "start": 53,
+     "end": 55,
+     "surface": "甘泉"
+    },
+    {
+     "entity_id": "L03",
+     "entity_name": "甘泉",
+     "entity_type": "place",
+     "start": 73,
+     "end": 75,
+     "surface": "甘泉"
+    }
+   ]
+  },
+  {
+   "para_id": "p53",
+   "text": "5秋，立常山憲王子商爲泗水王。⟦0⟧",
+   "mentions": []
+  },
+  {
+   "para_id": "p54",
+   "text": "6初，條侯周亞夫爲丞相，⟦0⟧趙禹爲丞相史，府中皆稱其廉平，然亞夫弗任，曰：「極知禹無害，⟦1⟧然文深，不可以居大府。」⟦2⟧及禹爲少府，比九卿爲酷急；⟦3⟧至晚節，吏務爲嚴峻，而禹更名寬平。",
+   "mentions": [
+    {
+     "entity_id": "P45",
+     "entity_name": "周亚夫",
+     "entity_type": "person",
+     "start": 5,
+     "end": 8,
+     "surface": "周亞夫"
+    },
+    {
+     "entity_id": "P26",
+     "entity_name": "赵禹",
+     "entity_type": "person",
+     "start": 15,
+     "end": 17,
+     "surface": "趙禹"
+    },
+    {
+     "entity_id": "C41",
+     "entity_name": "九卿",
+     "entity_type": "concept",
+     "start": 70,
+     "end": 72,
+     "surface": "九卿"
+    }
+   ]
+  },
+  {
+   "para_id": "p55",
+   "text": "中尉尹齊素以敢斬伐著名，⟦0⟧及爲中尉，吏民益彫敝。是歲，齊坐不勝任抵罪。⟦1⟧上乃復以王溫舒爲中尉，趙禹爲廷尉。後四年，禹以老，貶爲燕相。",
+   "mentions": [
+    {
+     "entity_id": "C34",
+     "entity_name": "中尉",
+     "entity_type": "concept",
+     "start": 0,
+     "end": 2,
+     "surface": "中尉"
+    },
+    {
+     "entity_id": "P46",
+     "entity_name": "尹齐",
+     "entity_type": "person",
+     "start": 2,
+     "end": 4,
+     "surface": "尹齊"
+    },
+    {
+     "entity_id": "C34",
+     "entity_name": "中尉",
+     "entity_type": "concept",
+     "start": 17,
+     "end": 19,
+     "surface": "中尉"
+    },
+    {
+     "entity_id": "P47",
+     "entity_name": "王温舒",
+     "entity_type": "person",
+     "start": 44,
+     "end": 47,
+     "surface": "王溫舒"
+    },
+    {
+     "entity_id": "C34",
+     "entity_name": "中尉",
+     "entity_type": "concept",
+     "start": 48,
+     "end": 50,
+     "surface": "中尉"
+    },
+    {
+     "entity_id": "P26",
+     "entity_name": "赵禹",
+     "entity_type": "person",
+     "start": 51,
+     "end": 53,
+     "surface": "趙禹"
+    },
+    {
+     "entity_id": "C33",
+     "entity_name": "廷尉",
+     "entity_type": "concept",
+     "start": 54,
+     "end": 56,
+     "surface": "廷尉"
+    }
+   ]
+  },
+  {
+   "para_id": "p56",
+   "text": "是時吏治皆以慘刻相尙，⟦0⟧獨左內史兒寬，勸農業，緩刑罰，理獄訟，務在得人心；擇用仁厚士，推情與下，不求名聲，吏民大信愛之；收租稅時，裁闊狹，與民相假貸，⟦1⟧以故租多不入。後有軍發，左內史以負租課殿，當免；⟦2⟧民聞當免，皆恐失之，大家牛車、小家擔負輸租，繈屬不絕，⟦3⟧課更以最。⟦4⟧上由此愈奇寬。",
+   "mentions": [
+    {
+     "entity_id": "P48",
+     "entity_name": "儿宽",
+     "entity_type": "person",
+     "start": 18,
+     "end": 20,
+     "surface": "兒寬"
+    }
+   ]
+  },
+  {
+   "para_id": "p57",
+   "text": "7初，南越文王遣其子嬰齊入宿衞，⟦0⟧在長安取邯鄲樛氏女，⟦1⟧生子興。文王薨，嬰齊立，乃藏其先武帝璽，⟦2⟧上書請立樛氏女爲后，興爲嗣。漢數使使者風諭嬰齊入朝。⟦3⟧嬰齊尙樂擅殺生自恣，懼入見要，用漢法比內諸侯，⟦4⟧固稱病，遂不入見。嬰齊薨，諡曰明王。太子興代立，其母爲太后。",
+   "mentions": [
+    {
+     "entity_id": "L97",
+     "entity_name": "南越",
+     "entity_type": "place",
+     "start": 3,
+     "end": 5,
+     "surface": "南越"
+    },
+    {
+     "entity_id": "L08",
+     "entity_name": "长安",
+     "entity_type": "place",
+     "start": 20,
+     "end": 22,
+     "surface": "長安"
+    },
+    {
+     "entity_id": "P51",
+     "entity_name": "樛氏",
+     "entity_type": "person",
+     "start": 25,
+     "end": 27,
+     "surface": "樛氏"
+    },
+    {
+     "entity_id": "P51",
+     "entity_name": "樛氏",
+     "entity_type": "person",
+     "start": 59,
+     "end": 61,
+     "surface": "樛氏"
+    }
+   ]
+  },
+  {
+   "para_id": "p58",
+   "text": "太后自未爲嬰齊姬時，嘗與霸陵人安國少季通。⟦0⟧是歲，上使安國少季往諭王、王太后以入朝，比內諸侯，令辯士諫大夫終軍等宣其辭，⟦1⟧勇士魏臣等輔其決，⟦2⟧衞尉路博德將兵屯桂陽⟦3⟧待使者。南越王年少，太后中國人；安國少季往，復與私通，國人頗知之，多不附太后。太后恐亂起，亦欲倚漢威，數勸王及羣臣求內屬；⟦4⟧卽因使者上書，請比內諸侯，三歲一朝，⟦5⟧除邊關。於是天子許之，賜其丞相呂嘉銀印及內史、中尉、太傅印，餘得自置；除其故黥、劓刑，用漢法，比內諸侯。使者皆留，塡撫之。⟦6⟧",
+   "mentions": [
+    {
+     "entity_id": "P52",
+     "entity_name": "安国少季",
+     "entity_type": "person",
+     "start": 15,
+     "end": 19,
+     "surface": "安國少季"
+    },
+    {
+     "entity_id": "P52",
+     "entity_name": "安国少季",
+     "entity_type": "person",
+     "start": 29,
+     "end": 33,
+     "surface": "安國少季"
+    },
+    {
+     "entity_id": "P53",
+     "entity_name": "终军",
+     "entity_type": "person",
+     "start": 55,
+     "end": 57,
+     "surface": "終軍"
+    },
+    {
+     "entity_id": "P54",
+     "entity_name": "魏臣",
+     "entity_type": "person",
+     "start": 67,
+     "end": 69,
+     "surface": "魏臣"
+    },
+    {
+     "entity_id": "P55",
+     "entity_name": "路博德",
+     "entity_type": "person",
+     "start": 79,
+     "end": 82,
+     "surface": "路博德"
+    },
+    {
+     "entity_id": "L41",
+     "entity_name": "桂阳",
+     "entity_type": "place",
+     "start": 85,
+     "end": 87,
+     "surface": "桂陽"
+    },
+    {
+     "entity_id": "L97",
+     "entity_name": "南越",
+     "entity_type": "place",
+     "start": 94,
+     "end": 96,
+     "surface": "南越"
+    },
+    {
+     "entity_id": "P52",
+     "entity_name": "安国少季",
+     "entity_type": "person",
+     "start": 106,
+     "end": 110,
+     "surface": "安國少季"
+    },
+    {
+     "entity_id": "P56",
+     "entity_name": "吕嘉",
+     "entity_type": "person",
+     "start": 190,
+     "end": 192,
+     "surface": "呂嘉"
+    },
+    {
+     "entity_id": "C34",
+     "entity_name": "中尉",
+     "entity_type": "concept",
+     "start": 198,
+     "end": 200,
+     "surface": "中尉"
+    }
+   ]
+  },
+  {
+   "para_id": "p59",
+   "text": "8上行幸雍，⟦0⟧且郊，或曰：「五帝，泰一之佐也。宜立泰一，而上親郊。」上疑未定。齊人公孫卿曰：「今年得寶鼎，其冬辛巳朔旦冬至，與黃帝時等。」卿有札書⟦1⟧曰：「黃帝得寶鼎，是歲己酉朔旦冬至，凡三百八十年，黃帝仙登于天。」因嬖人奏之。⟦2⟧上大悅，召問，卿對曰：「受此書申公，申公曰：『漢興復當黃帝之時，漢之聖者在高祖之孫且曾孫也。寶鼎出而與神通，黃帝接萬靈明庭，明庭者甘泉也。黃帝采首山銅，⟦3⟧鑄鼎於荊山下，⟦4⟧鼎旣成，有龍垂胡䫇下迎黃帝，⟦5⟧黃帝上騎龍，與羣臣後宮七十餘人俱登天。』」於是天子曰：「嗟乎！誠得如黃帝，吾視去妻子如脫屣耳！」⟦6⟧拜卿爲郎，使東候神於太室。⟦7⟧",
+   "mentions": [
+    {
+     "entity_id": "C16",
+     "entity_name": "泰一",
+     "entity_type": "concept",
+     "start": 19,
+     "end": 21,
+     "surface": "泰一"
+    },
+    {
+     "entity_id": "C16",
+     "entity_name": "泰一",
+     "entity_type": "concept",
+     "start": 27,
+     "end": 29,
+     "surface": "泰一"
+    },
+    {
+     "entity_id": "P57",
+     "entity_name": "公孙卿",
+     "entity_type": "person",
+     "start": 43,
+     "end": 46,
+     "surface": "公孫卿"
+    },
+    {
+     "entity_id": "P58",
+     "entity_name": "申公",
+     "entity_type": "person",
+     "start": 135,
+     "end": 137,
+     "surface": "申公"
+    },
+    {
+     "entity_id": "P58",
+     "entity_name": "申公",
+     "entity_type": "person",
+     "start": 138,
+     "end": 140,
+     "surface": "申公"
+    },
+    {
+     "entity_id": "L03",
+     "entity_name": "甘泉",
+     "entity_type": "place",
+     "start": 185,
+     "end": 187,
+     "surface": "甘泉"
+    },
+    {
+     "entity_id": "L43",
+     "entity_name": "太室",
+     "entity_type": "place",
+     "start": 287,
+     "end": 289,
+     "surface": "太室"
+    }
+   ]
+  },
+  {
+   "para_id": "p60",
+   "text": "五年（己巳、前一一二年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p61",
+   "text": "1冬，十月，上祠五畤於雍，遂踰隴，⟦0⟧西登崆峒。⟦1⟧隴西守以行往卒，⟦2⟧天子從官不得食，惶恐，自殺。⟦3⟧於是上北出蕭關，從數萬騎獵新秦中，以勒邊兵而歸。新秦中或千里無亭徼，於是誅北地太守以下。⟦4⟧上又幸甘泉，立泰一祠壇，所用祠具如雍一畤而有加焉。⟦5⟧五帝壇環居其下四方地，爲醊食羣神從者及北斗云。⟦6⟧十一月，辛巳朔，冬至；昧爽，⟦7⟧天子始郊拜泰一，朝朝日，夕夕月則揖。⟦8⟧其祠，列火滿壇，壇旁亨炊具。⟦9⟧有司云：「祠上有光。」又云：「晝有黃氣上屬天。」⟦10⟧太史令談、祠官寬舒等⟦11⟧請三歲天子一郊見，⟦12⟧詔從之。",
+   "mentions": [
+    {
+     "entity_id": "C18",
+     "entity_name": "五畤",
+     "entity_type": "concept",
+     "start": 8,
+     "end": 10,
+     "surface": "五畤"
+    },
+    {
+     "entity_id": "L44",
+     "entity_name": "崆峒",
+     "entity_type": "place",
+     "start": 22,
+     "end": 24,
+     "surface": "崆峒"
+    },
+    {
+     "entity_id": "L46",
+     "entity_name": "萧关",
+     "entity_type": "place",
+     "start": 61,
+     "end": 63,
+     "surface": "蕭關"
+    },
+    {
+     "entity_id": "L47",
+     "entity_name": "新秦中",
+     "entity_type": "place",
+     "start": 69,
+     "end": 72,
+     "surface": "新秦中"
+    },
+    {
+     "entity_id": "L47",
+     "entity_name": "新秦中",
+     "entity_type": "place",
+     "start": 80,
+     "end": 83,
+     "surface": "新秦中"
+    },
+    {
+     "entity_id": "L48",
+     "entity_name": "北地",
+     "entity_type": "place",
+     "start": 93,
+     "end": 95,
+     "surface": "北地"
+    },
+    {
+     "entity_id": "L03",
+     "entity_name": "甘泉",
+     "entity_type": "place",
+     "start": 106,
+     "end": 108,
+     "surface": "甘泉"
+    },
+    {
+     "entity_id": "C16",
+     "entity_name": "泰一",
+     "entity_type": "concept",
+     "start": 110,
+     "end": 112,
+     "surface": "泰一"
+    },
+    {
+     "entity_id": "C16",
+     "entity_name": "泰一",
+     "entity_type": "concept",
+     "start": 179,
+     "end": 181,
+     "surface": "泰一"
+    },
+    {
+     "entity_id": "P60",
+     "entity_name": "宽舒",
+     "entity_type": "person",
+     "start": 247,
+     "end": 249,
+     "surface": "寬舒"
+    }
+   ]
+  },
+  {
+   "para_id": "p62",
+   "text": "2南越王、王太后飭治行裝，重齎⟦0⟧爲入朝具。其相呂嘉，年長矣，相三王，宗族仕宦爲長吏者七十餘人，男盡尙王女，女盡嫁王子弟、宗室，及蒼梧秦王有連，⟦1⟧其居國中甚重，得衆心愈於王。⟦2⟧王之上書，數諫止王，王弗聽；有畔心，數稱病，不見漢使者。⟦3⟧使者皆注意嘉，勢未能誅。王、王太后亦恐嘉等先事發，⟦4⟧欲介漢使者權，謀誅嘉等，⟦5⟧乃置酒請使者，大臣皆侍坐飲。⟦6⟧嘉弟爲將，將卒居宮外。⟦7⟧酒行，太后謂嘉曰：「南越內屬，國之利也；而相君苦不便者，何也？」以激怒使者。使者狐疑相杖，⟦8⟧遂莫敢發。嘉見耳目非是，⟦9⟧卽起而出。太后怒，欲鏦嘉以矛，⟦10⟧王止太后。嘉遂出，介其弟兵就舍，⟦11⟧稱病，不肯見王及使者，陰與大臣謀作亂。王素無意誅嘉，嘉知之，以故數月不發。",
+   "mentions": [
+    {
+     "entity_id": "L97",
+     "entity_name": "南越",
+     "entity_type": "place",
+     "start": 1,
+     "end": 3,
+     "surface": "南越"
+    },
+    {
+     "entity_id": "P56",
+     "entity_name": "吕嘉",
+     "entity_type": "person",
+     "start": 25,
+     "end": 27,
+     "surface": "呂嘉"
+    },
+    {
+     "entity_id": "P64",
+     "entity_name": "赵光",
+     "entity_type": "person",
+     "start": 66,
+     "end": 70,
+     "surface": "蒼梧秦王"
+    },
+    {
+     "entity_id": "L97",
+     "entity_name": "南越",
+     "entity_type": "place",
+     "start": 208,
+     "end": 210,
+     "surface": "南越"
+    }
+   ]
+  },
+  {
+   "para_id": "p63",
+   "text": "天子聞嘉不聽命，王、王太后孤弱不能制，使者怯無決；又以爲王、王太后已附漢，獨呂嘉爲亂，不足以興兵，欲使莊參以二千人往使。⟦0⟧參曰：「以好往，數人足矣；以武往，二千人無足以爲也。」辭不可，天子罷參。郟壯士故濟北相韓千秋⟦1⟧奮曰：「以區區之越，又有王、王太后應，獨相呂嘉爲害，願得勇士三百人，必斬嘉以報。」於是天子遣千秋與王太后弟樛樂將二千人往。入越境。⟦2⟧呂嘉等乃遂反，下令國中曰：「王年少。太后，中國人也，又與使者亂，專欲內屬，盡持先王寶器入獻天子以自媚；多從人行，至長安，虜賣以爲僮僕；取自脫一時之利，無顧趙氏社稷、爲萬世慮計之意。」乃與其弟將卒攻殺王、王太后及漢使者，遣人告蒼梧秦王及其諸郡縣，立明王長男越妻子術陽侯建德爲王。⟦3⟧而韓千秋兵入，破數小邑。其後越開直道給食，⟦4⟧未至番禺四十里，⟦5⟧越以兵擊千秋等，遂滅之；使人函封漢使者節置塞上，好爲謾辭謝罪，⟦6⟧發兵守要害處。",
+   "mentions": [
+    {
+     "entity_id": "P56",
+     "entity_name": "吕嘉",
+     "entity_type": "person",
+     "start": 38,
+     "end": 40,
+     "surface": "呂嘉"
+    },
+    {
+     "entity_id": "P66",
+     "entity_name": "庄参",
+     "entity_type": "person",
+     "start": 51,
+     "end": 53,
+     "surface": "莊參"
+    },
+    {
+     "entity_id": "P61",
+     "entity_name": "韩千秋",
+     "entity_type": "person",
+     "start": 106,
+     "end": 109,
+     "surface": "韓千秋"
+    },
+    {
+     "entity_id": "P56",
+     "entity_name": "吕嘉",
+     "entity_type": "person",
+     "start": 133,
+     "end": 135,
+     "surface": "呂嘉"
+    },
+    {
+     "entity_id": "P62",
+     "entity_name": "樛乐",
+     "entity_type": "person",
+     "start": 165,
+     "end": 167,
+     "surface": "樛樂"
+    },
+    {
+     "entity_id": "P56",
+     "entity_name": "吕嘉",
+     "entity_type": "person",
+     "start": 180,
+     "end": 182,
+     "surface": "呂嘉"
+    },
+    {
+     "entity_id": "L08",
+     "entity_name": "长安",
+     "entity_type": "place",
+     "start": 237,
+     "end": 239,
+     "surface": "長安"
+    },
+    {
+     "entity_id": "P64",
+     "entity_name": "赵光",
+     "entity_type": "person",
+     "start": 292,
+     "end": 296,
+     "surface": "蒼梧秦王"
+    },
+    {
+     "entity_id": "P61",
+     "entity_name": "韩千秋",
+     "entity_type": "person",
+     "start": 322,
+     "end": 325,
+     "surface": "韓千秋"
+    },
+    {
+     "entity_id": "L65",
+     "entity_name": "番禺",
+     "entity_type": "place",
+     "start": 347,
+     "end": 349,
+     "surface": "番禺"
+    }
+   ]
+  },
+  {
+   "para_id": "p64",
+   "text": "春，三月，壬午，天子聞南越反，曰：「韓千秋雖無功，亦軍鋒之冠，⟦0⟧封其子延年爲成安侯；⟦1⟧樛樂姊爲王太后，首願屬漢，封其子廣德爲龍亢侯。」⟦2⟧",
+   "mentions": [
+    {
+     "entity_id": "L97",
+     "entity_name": "南越",
+     "entity_type": "place",
+     "start": 11,
+     "end": 13,
+     "surface": "南越"
+    },
+    {
+     "entity_id": "P61",
+     "entity_name": "韩千秋",
+     "entity_type": "person",
+     "start": 18,
+     "end": 21,
+     "surface": "韓千秋"
+    },
+    {
+     "entity_id": "P62",
+     "entity_name": "樛乐",
+     "entity_type": "person",
+     "start": 47,
+     "end": 49,
+     "surface": "樛樂"
+    }
+   ]
+  },
+  {
+   "para_id": "p65",
+   "text": "3夏，四月，赦天下。",
+   "mentions": []
+  },
+  {
+   "para_id": "p66",
+   "text": "4丁丑晦，日有食之。",
+   "mentions": []
+  },
+  {
+   "para_id": "p67",
+   "text": "5秋，遣伏波將軍路博德⟦0⟧出桂陽，下湟水；⟦1⟧樓船將軍楊僕出豫章，下湞水；⟦2⟧歸義越侯嚴爲戈船將軍，出零陵，下離水；⟦3⟧甲爲下瀨將軍，下蒼梧；⟦4⟧皆將罪人，江、淮以南樓船十萬人。越馳義侯遺別將巴、蜀罪人，發夜郎兵，下牂柯江，咸會番禺。",
+   "mentions": [
+    {
+     "entity_id": "P55",
+     "entity_name": "路博德",
+     "entity_type": "person",
+     "start": 4,
+     "end": 8,
+     "surface": "伏波將軍"
+    },
+    {
+     "entity_id": "P55",
+     "entity_name": "路博德",
+     "entity_type": "person",
+     "start": 8,
+     "end": 11,
+     "surface": "路博德"
+    },
+    {
+     "entity_id": "L41",
+     "entity_name": "桂阳",
+     "entity_type": "place",
+     "start": 15,
+     "end": 17,
+     "surface": "桂陽"
+    },
+    {
+     "entity_id": "P67",
+     "entity_name": "杨仆",
+     "entity_type": "person",
+     "start": 25,
+     "end": 29,
+     "surface": "樓船將軍"
+    },
+    {
+     "entity_id": "P67",
+     "entity_name": "杨仆",
+     "entity_type": "person",
+     "start": 29,
+     "end": 31,
+     "surface": "楊僕"
+    },
+    {
+     "entity_id": "L67",
+     "entity_name": "豫章",
+     "entity_type": "place",
+     "start": 32,
+     "end": 34,
+     "surface": "豫章"
+    },
+    {
+     "entity_id": "L75",
+     "entity_name": "苍梧",
+     "entity_type": "place",
+     "start": 72,
+     "end": 74,
+     "surface": "蒼梧"
+    },
+    {
+     "entity_id": "L86",
+     "entity_name": "夜郎",
+     "entity_type": "place",
+     "start": 108,
+     "end": 110,
+     "surface": "夜郎"
+    },
+    {
+     "entity_id": "L65",
+     "entity_name": "番禺",
+     "entity_type": "place",
+     "start": 119,
+     "end": 121,
+     "surface": "番禺"
+    }
+   ]
+  },
+  {
+   "para_id": "p68",
+   "text": "齊相卜式上書，請父子與齊習船者往死南越。天子下詔褒美式，賜爵關內侯，金六十斤，田十頃，布告天下；天下莫應。是時列侯以百數，皆莫求從軍擊越。會九月嘗酎，祭宗廟，列侯以令獻金助祭。少府省金，金有輕及色惡者，上皆令劾以不敬，奪爵者百六人。⟦0⟧辛巳，丞相趙周坐知列侯酎金輕，下獄，自殺。⟦1⟧",
+   "mentions": [
+    {
+     "entity_id": "P65",
+     "entity_name": "卜式",
+     "entity_type": "person",
+     "start": 2,
+     "end": 4,
+     "surface": "卜式"
+    },
+    {
+     "entity_id": "L97",
+     "entity_name": "南越",
+     "entity_type": "place",
+     "start": 17,
+     "end": 19,
+     "surface": "南越"
+    },
+    {
+     "entity_id": "C30",
+     "entity_name": "关内侯",
+     "entity_type": "concept",
+     "start": 30,
+     "end": 33,
+     "surface": "關內侯"
+    },
+    {
+     "entity_id": "C12",
+     "entity_name": "尝酎",
+     "entity_type": "concept",
+     "start": 72,
+     "end": 74,
+     "surface": "嘗酎"
+    },
+    {
+     "entity_id": "P27",
+     "entity_name": "赵周",
+     "entity_type": "person",
+     "start": 124,
+     "end": 126,
+     "surface": "趙周"
+    },
+    {
+     "entity_id": "C11",
+     "entity_name": "酎金",
+     "entity_type": "concept",
+     "start": 130,
+     "end": 132,
+     "surface": "酎金"
+    }
+   ]
+  },
+  {
+   "para_id": "p69",
+   "text": "6丙申，以御史大夫石慶爲丞相，封牧丘侯。⟦0⟧時國家多事，桑弘羊等致利，王溫舒之屬峻法，而兒寬等推文學，皆爲九卿，更進用事；⟦1⟧事不關決於丞相，丞相慶醇謹而已。⟦2⟧",
+   "mentions": [
+    {
+     "entity_id": "P28",
+     "entity_name": "石庆",
+     "entity_type": "person",
+     "start": 9,
+     "end": 11,
+     "surface": "石慶"
+    },
+    {
+     "entity_id": "P30",
+     "entity_name": "桑弘羊",
+     "entity_type": "person",
+     "start": 29,
+     "end": 32,
+     "surface": "桑弘羊"
+    },
+    {
+     "entity_id": "P47",
+     "entity_name": "王温舒",
+     "entity_type": "person",
+     "start": 36,
+     "end": 39,
+     "surface": "王溫舒"
+    },
+    {
+     "entity_id": "P48",
+     "entity_name": "儿宽",
+     "entity_type": "person",
+     "start": 45,
+     "end": 47,
+     "surface": "兒寬"
+    },
+    {
+     "entity_id": "C41",
+     "entity_name": "九卿",
+     "entity_type": "concept",
+     "start": 54,
+     "end": 56,
+     "surface": "九卿"
+    }
+   ]
+  },
+  {
+   "para_id": "p70",
+   "text": "7五利將軍裝治行，東入海求其師。旣而不敢入海，之太山祠。上使人隨驗，實無所見。五利妄言見其師，其方盡多不售，⟦0⟧坐誣罔，腰斬；樂成侯亦棄市。",
+   "mentions": [
+    {
+     "entity_id": "P42",
+     "entity_name": "栾大",
+     "entity_type": "person",
+     "start": 1,
+     "end": 5,
+     "surface": "五利將軍"
+    },
+    {
+     "entity_id": "L40",
+     "entity_name": "乐成",
+     "entity_type": "place",
+     "start": 64,
+     "end": 66,
+     "surface": "樂成"
+    }
+   ]
+  },
+  {
+   "para_id": "p71",
+   "text": "8西羌衆十萬人反，與匈奴通使，⟦0⟧攻故安，圍枹罕。⟦1⟧匈奴入五原，⟦2⟧殺太守。⟦3⟧",
+   "mentions": [
+    {
+     "entity_id": "L100",
+     "entity_name": "西羌",
+     "entity_type": "place",
+     "start": 1,
+     "end": 3,
+     "surface": "西羌"
+    },
+    {
+     "entity_id": "L102",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 10,
+     "end": 12,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "L102",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 29,
+     "end": 31,
+     "surface": "匈奴"
+    }
+   ]
+  },
+  {
+   "para_id": "p72",
+   "text": "六年（庚午、前一一一年）",
+   "mentions": []
+  },
+  {
+   "para_id": "p73",
+   "text": "1冬，發卒十萬人，遣將軍李息、郎中令徐自爲征西羌，平之。",
+   "mentions": [
+    {
+     "entity_id": "P04",
+     "entity_name": "李息",
+     "entity_type": "person",
+     "start": 12,
+     "end": 14,
+     "surface": "李息"
+    },
+    {
+     "entity_id": "C35",
+     "entity_name": "郎中令",
+     "entity_type": "concept",
+     "start": 15,
+     "end": 18,
+     "surface": "郎中令"
+    },
+    {
+     "entity_id": "L100",
+     "entity_name": "西羌",
+     "entity_type": "place",
+     "start": 22,
+     "end": 24,
+     "surface": "西羌"
+    }
+   ]
+  },
+  {
+   "para_id": "p74",
+   "text": "2樓船將軍楊僕入越地，先陷尋陿，⟦0⟧破石門，⟦1⟧挫越鋒，以數萬人待伏波將軍路博德至俱進，樓船居前，至番禺。南越王建德、相呂嘉城守。樓船居東南面，伏波居西北面。會暮，樓船攻敗越人，縱火燒城。⟦2⟧伏波爲營，⟦3⟧遣使者招降者，賜印綬，復縱令相招。⟦4⟧樓船力攻燒敵，驅而入伏波營中。黎旦，城中皆降。建德、嘉已夜亡入海，伏波遣人追之。校尉司馬蘇弘得建德，越郎都稽得嘉。⟦5⟧戈船、下瀨將軍兵及馳義侯所發夜郎兵未下，南越已平矣。遂以其地爲南海、蒼梧、鬱林、合浦、交趾、九眞、日南、珠厓、儋耳九郡。⟦6⟧師還，上益封伏波；封樓船爲將梁侯，蘇弘爲海常侯，都稽爲臨蔡侯，⟦7⟧及越降將蒼梧王趙光等四人皆爲侯。⟦8⟧",
+   "mentions": [
+    {
+     "entity_id": "P67",
+     "entity_name": "杨仆",
+     "entity_type": "person",
+     "start": 1,
+     "end": 5,
+     "surface": "樓船將軍"
+    },
+    {
+     "entity_id": "P67",
+     "entity_name": "杨仆",
+     "entity_type": "person",
+     "start": 5,
+     "end": 7,
+     "surface": "楊僕"
+    },
+    {
+     "entity_id": "L84",
+     "entity_name": "寻陿",
+     "entity_type": "place",
+     "start": 13,
+     "end": 15,
+     "surface": "尋陿"
+    },
+    {
+     "entity_id": "L83",
+     "entity_name": "石门",
+     "entity_type": "place",
+     "start": 20,
+     "end": 22,
+     "surface": "石門"
+    },
+    {
+     "entity_id": "P55",
+     "entity_name": "路博德",
+     "entity_type": "person",
+     "start": 35,
+     "end": 39,
+     "surface": "伏波將軍"
+    },
+    {
+     "entity_id": "P55",
+     "entity_name": "路博德",
+     "entity_type": "person",
+     "start": 39,
+     "end": 42,
+     "surface": "路博德"
+    },
+    {
+     "entity_id": "L65",
+     "entity_name": "番禺",
+     "entity_type": "place",
+     "start": 52,
+     "end": 54,
+     "surface": "番禺"
+    },
+    {
+     "entity_id": "L97",
+     "entity_name": "南越",
+     "entity_type": "place",
+     "start": 55,
+     "end": 57,
+     "surface": "南越"
+    },
+    {
+     "entity_id": "P56",
+     "entity_name": "吕嘉",
+     "entity_type": "person",
+     "start": 62,
+     "end": 64,
+     "surface": "呂嘉"
+    },
+    {
+     "entity_id": "P72",
+     "entity_name": "苏弘",
+     "entity_type": "person",
+     "start": 171,
+     "end": 173,
+     "surface": "蘇弘"
+    },
+    {
+     "entity_id": "P73",
+     "entity_name": "都稽",
+     "entity_type": "person",
+     "start": 179,
+     "end": 181,
+     "surface": "都稽"
+    },
+    {
+     "entity_id": "L86",
+     "entity_name": "夜郎",
+     "entity_type": "place",
+     "start": 201,
+     "end": 203,
+     "surface": "夜郎"
+    },
+    {
+     "entity_id": "L97",
+     "entity_name": "南越",
+     "entity_type": "place",
+     "start": 207,
+     "end": 209,
+     "surface": "南越"
+    },
+    {
+     "entity_id": "L75",
+     "entity_name": "苍梧",
+     "entity_type": "place",
+     "start": 221,
+     "end": 223,
+     "surface": "蒼梧"
+    },
+    {
+     "entity_id": "L82",
+     "entity_name": "郁林",
+     "entity_type": "place",
+     "start": 224,
+     "end": 226,
+     "surface": "鬱林"
+    },
+    {
+     "entity_id": "L76",
+     "entity_name": "合浦",
+     "entity_type": "place",
+     "start": 227,
+     "end": 229,
+     "surface": "合浦"
+    },
+    {
+     "entity_id": "L77",
+     "entity_name": "交趾",
+     "entity_type": "place",
+     "start": 230,
+     "end": 232,
+     "surface": "交趾"
+    },
+    {
+     "entity_id": "L78",
+     "entity_name": "九真",
+     "entity_type": "place",
+     "start": 233,
+     "end": 235,
+     "surface": "九眞"
+    },
+    {
+     "entity_id": "L79",
+     "entity_name": "日南",
+     "entity_type": "place",
+     "start": 236,
+     "end": 238,
+     "surface": "日南"
+    },
+    {
+     "entity_id": "L80",
+     "entity_name": "珠厓",
+     "entity_type": "place",
+     "start": 239,
+     "end": 241,
+     "surface": "珠厓"
+    },
+    {
+     "entity_id": "L81",
+     "entity_name": "儋耳",
+     "entity_type": "place",
+     "start": 242,
+     "end": 244,
+     "surface": "儋耳"
+    },
+    {
+     "entity_id": "P72",
+     "entity_name": "苏弘",
+     "entity_type": "person",
+     "start": 267,
+     "end": 269,
+     "surface": "蘇弘"
+    },
+    {
+     "entity_id": "P73",
+     "entity_name": "都稽",
+     "entity_type": "person",
+     "start": 274,
+     "end": 276,
+     "surface": "都稽"
+    },
+    {
+     "entity_id": "L75",
+     "entity_name": "苍梧",
+     "entity_type": "place",
+     "start": 288,
+     "end": 290,
+     "surface": "蒼梧"
+    },
+    {
+     "entity_id": "P64",
+     "entity_name": "赵光",
+     "entity_type": "person",
+     "start": 291,
+     "end": 293,
+     "surface": "趙光"
+    }
+   ]
+  },
+  {
+   "para_id": "p75",
+   "text": "3公孫卿候神河南，言見仙人跡緱氏城上。⟦0⟧春，天子親幸緱氏城視跡，問卿：「得毋效文成、五利乎？」卿曰：「仙者非有求人主，人主者求之；其道非寬假，神不來。言神事如迂誕，⟦1⟧積以歲月，乃可致也。」上信之。於是郡、國各除道，繕治宮觀、名山、神祠以望幸焉。⟦2⟧",
+   "mentions": [
+    {
+     "entity_id": "P57",
+     "entity_name": "公孙卿",
+     "entity_type": "person",
+     "start": 1,
+     "end": 4,
+     "surface": "公孫卿"
+    },
+    {
+     "entity_id": "L42",
+     "entity_name": "緱氏",
+     "entity_type": "place",
+     "start": 14,
+     "end": 16,
+     "surface": "緱氏"
+    },
+    {
+     "entity_id": "L42",
+     "entity_name": "緱氏",
+     "entity_type": "place",
+     "start": 28,
+     "end": 30,
+     "surface": "緱氏"
+    }
+   ]
+  },
+  {
+   "para_id": "p76",
+   "text": "4賽南越，祠泰一、后土，始用樂舞。⟦0⟧",
+   "mentions": [
+    {
+     "entity_id": "L97",
+     "entity_name": "南越",
+     "entity_type": "place",
+     "start": 2,
+     "end": 4,
+     "surface": "南越"
+    },
+    {
+     "entity_id": "C16",
+     "entity_name": "泰一",
+     "entity_type": "concept",
+     "start": 6,
+     "end": 8,
+     "surface": "泰一"
+    },
+    {
+     "entity_id": "C17",
+     "entity_name": "后土",
+     "entity_type": "concept",
+     "start": 9,
+     "end": 11,
+     "surface": "后土"
+    }
+   ]
+  },
+  {
+   "para_id": "p77",
+   "text": "5馳義侯發南夷兵，欲以擊南越。且蘭君恐遠行⟦0⟧旁國虜其老弱，乃與其衆反，殺使者及犍爲太守。⟦1⟧漢乃發巴、蜀罪人當〔嚴：「當」改「嘗」。〕擊南越者八校尉，遣中郎將郭昌、衞廣將而擊之，⟦2⟧誅且蘭及邛君、莋侯，⟦3⟧遂平南夷爲牂〔章：十四行本「牂」作「䍧」；乙十一行本同。〕柯郡。夜郎侯始倚南越，南越已滅，夜郎遂入朝，⟦4⟧上以爲夜郎王。冉駹皆振恐，請臣置吏，乃以邛都爲越巂郡，⟦5⟧莋都爲沈黎郡，⟦6⟧冉駹爲汶山郡，⟦7⟧廣漢西白馬爲武都郡。⟦8⟧",
+   "mentions": [
+    {
+     "entity_id": "L99",
+     "entity_name": "南夷",
+     "entity_type": "place",
+     "start": 5,
+     "end": 7,
+     "surface": "南夷"
+    },
+    {
+     "entity_id": "L97",
+     "entity_name": "南越",
+     "entity_type": "place",
+     "start": 12,
+     "end": 14,
+     "surface": "南越"
+    },
+    {
+     "entity_id": "P91",
+     "entity_name": "且兰君",
+     "entity_type": "person",
+     "start": 15,
+     "end": 18,
+     "surface": "且蘭君"
+    },
+    {
+     "entity_id": "L85",
+     "entity_name": "犍为",
+     "entity_type": "place",
+     "start": 41,
+     "end": 43,
+     "surface": "犍爲"
+    },
+    {
+     "entity_id": "L97",
+     "entity_name": "南越",
+     "entity_type": "place",
+     "start": 71,
+     "end": 73,
+     "surface": "南越"
+    },
+    {
+     "entity_id": "P95",
+     "entity_name": "郭昌",
+     "entity_type": "person",
+     "start": 82,
+     "end": 84,
+     "surface": "郭昌"
+    },
+    {
+     "entity_id": "P96",
+     "entity_name": "卫广",
+     "entity_type": "person",
+     "start": 85,
+     "end": 87,
+     "surface": "衞廣"
+    },
+    {
+     "entity_id": "L87",
+     "entity_name": "且兰",
+     "entity_type": "place",
+     "start": 96,
+     "end": 98,
+     "surface": "且蘭"
+    },
+    {
+     "entity_id": "P92",
+     "entity_name": "邛君",
+     "entity_type": "person",
+     "start": 99,
+     "end": 101,
+     "surface": "邛君"
+    },
+    {
+     "entity_id": "P93",
+     "entity_name": "莋侯",
+     "entity_type": "person",
+     "start": 102,
+     "end": 104,
+     "surface": "莋侯"
+    },
+    {
+     "entity_id": "L99",
+     "entity_name": "南夷",
+     "entity_type": "place",
+     "start": 110,
+     "end": 112,
+     "surface": "南夷"
+    },
+    {
+     "entity_id": "L86",
+     "entity_name": "夜郎",
+     "entity_type": "place",
+     "start": 140,
+     "end": 142,
+     "surface": "夜郎"
+    },
+    {
+     "entity_id": "L97",
+     "entity_name": "南越",
+     "entity_type": "place",
+     "start": 145,
+     "end": 147,
+     "surface": "南越"
+    },
+    {
+     "entity_id": "L97",
+     "entity_name": "南越",
+     "entity_type": "place",
+     "start": 148,
+     "end": 150,
+     "surface": "南越"
+    },
+    {
+     "entity_id": "L86",
+     "entity_name": "夜郎",
+     "entity_type": "place",
+     "start": 153,
+     "end": 155,
+     "surface": "夜郎"
+    },
+    {
+     "entity_id": "L86",
+     "entity_name": "夜郎",
+     "entity_type": "place",
+     "start": 165,
+     "end": 167,
+     "surface": "夜郎"
+    },
+    {
+     "entity_id": "L90",
+     "entity_name": "冉駹",
+     "entity_type": "place",
+     "start": 169,
+     "end": 171,
+     "surface": "冉駹"
+    },
+    {
+     "entity_id": "L88",
+     "entity_name": "邛都",
+     "entity_type": "place",
+     "start": 182,
+     "end": 184,
+     "surface": "邛都"
+    },
+    {
+     "entity_id": "L92",
+     "entity_name": "越巂郡",
+     "entity_type": "place",
+     "start": 185,
+     "end": 188,
+     "surface": "越巂郡"
+    },
+    {
+     "entity_id": "L89",
+     "entity_name": "莋都",
+     "entity_type": "place",
+     "start": 192,
+     "end": 194,
+     "surface": "莋都"
+    },
+    {
+     "entity_id": "L93",
+     "entity_name": "沈黎郡",
+     "entity_type": "place",
+     "start": 195,
+     "end": 198,
+     "surface": "沈黎郡"
+    },
+    {
+     "entity_id": "L90",
+     "entity_name": "冉駹",
+     "entity_type": "place",
+     "start": 202,
+     "end": 204,
+     "surface": "冉駹"
+    },
+    {
+     "entity_id": "L94",
+     "entity_name": "汶山郡",
+     "entity_type": "place",
+     "start": 205,
+     "end": 208,
+     "surface": "汶山郡"
+    },
+    {
+     "entity_id": "L91",
+     "entity_name": "白马",
+     "entity_type": "place",
+     "start": 215,
+     "end": 217,
+     "surface": "白馬"
+    },
+    {
+     "entity_id": "L95",
+     "entity_name": "武都郡",
+     "entity_type": "place",
+     "start": 218,
+     "end": 221,
+     "surface": "武都郡"
+    }
+   ]
+  },
+  {
+   "para_id": "p78",
+   "text": "6初，東越王餘善上書，請以卒八千人從樓船擊呂嘉；兵至揭陽，⟦0⟧以海風波爲解，不行，持兩端，陰使南越。⟦1⟧及漢破番禺，不至。楊僕上書願便引兵擊東越；上以士卒勞倦，不許，令諸校屯豫章、梅嶺以待命。⟦2⟧餘善聞樓船請誅之，漢兵臨境，乃遂反，發兵距漢道，號將軍騶力等爲吞漢將軍，入白沙、武林、梅嶺，⟦3⟧殺漢三校尉。是時，漢使大農張成、故山州侯齒將屯，⟦4⟧弗敢擊，卻就便處，皆坐畏懦誅。餘善自稱武帝。",
+   "mentions": [
+    {
+     "entity_id": "L98",
+     "entity_name": "东越",
+     "entity_type": "place",
+     "start": 3,
+     "end": 5,
+     "surface": "東越"
+    },
+    {
+     "entity_id": "P79",
+     "entity_name": "余善",
+     "entity_type": "person",
+     "start": 6,
+     "end": 8,
+     "surface": "餘善"
+    },
+    {
+     "entity_id": "P56",
+     "entity_name": "吕嘉",
+     "entity_type": "person",
+     "start": 21,
+     "end": 23,
+     "surface": "呂嘉"
+    },
+    {
+     "entity_id": "L66",
+     "entity_name": "揭阳",
+     "entity_type": "place",
+     "start": 26,
+     "end": 28,
+     "surface": "揭陽"
+    },
+    {
+     "entity_id": "L97",
+     "entity_name": "南越",
+     "entity_type": "place",
+     "start": 48,
+     "end": 50,
+     "surface": "南越"
+    },
+    {
+     "entity_id": "L65",
+     "entity_name": "番禺",
+     "entity_type": "place",
+     "start": 57,
+     "end": 59,
+     "surface": "番禺"
+    },
+    {
+     "entity_id": "P67",
+     "entity_name": "杨仆",
+     "entity_type": "person",
+     "start": 63,
+     "end": 65,
+     "surface": "楊僕"
+    },
+    {
+     "entity_id": "L98",
+     "entity_name": "东越",
+     "entity_type": "place",
+     "start": 72,
+     "end": 74,
+     "surface": "東越"
+    },
+    {
+     "entity_id": "L67",
+     "entity_name": "豫章",
+     "entity_type": "place",
+     "start": 89,
+     "end": 91,
+     "surface": "豫章"
+    },
+    {
+     "entity_id": "L68",
+     "entity_name": "梅岭",
+     "entity_type": "place",
+     "start": 92,
+     "end": 94,
+     "surface": "梅嶺"
+    },
+    {
+     "entity_id": "P79",
+     "entity_name": "余善",
+     "entity_type": "person",
+     "start": 101,
+     "end": 103,
+     "surface": "餘善"
+    },
+    {
+     "entity_id": "P80",
+     "entity_name": "驺力",
+     "entity_type": "person",
+     "start": 128,
+     "end": 130,
+     "surface": "騶力"
+    },
+    {
+     "entity_id": "L69",
+     "entity_name": "白沙",
+     "entity_type": "place",
+     "start": 138,
+     "end": 140,
+     "surface": "白沙"
+    },
+    {
+     "entity_id": "L70",
+     "entity_name": "武林",
+     "entity_type": "place",
+     "start": 141,
+     "end": 143,
+     "surface": "武林"
+    },
+    {
+     "entity_id": "L68",
+     "entity_name": "梅岭",
+     "entity_type": "place",
+     "start": 144,
+     "end": 146,
+     "surface": "梅嶺"
+    },
+    {
+     "entity_id": "P78",
+     "entity_name": "张成",
+     "entity_type": "person",
+     "start": 163,
+     "end": 165,
+     "surface": "張成"
+    },
+    {
+     "entity_id": "P79",
+     "entity_name": "余善",
+     "entity_type": "person",
+     "start": 192,
+     "end": 194,
+     "surface": "餘善"
+    }
+   ]
+  },
+  {
+   "para_id": "p79",
+   "text": "上欲復使楊僕將，爲其伐前勞，⟦0⟧以書敕責之曰：「將軍之功獨有先破石門、尋陿，非有斬將搴旗之實也，⟦1⟧烏足以驕人哉！前破番禺，捕降者以爲虜，⟦2⟧掘死人以爲獲，是一過也。使建德、呂嘉得以東越爲援，⟦3⟧是二過也。士卒暴露連歲，將軍不念其勤勞，而請乘傳行塞，⟦4⟧因用歸家，懷銀、黃，垂三組，夸鄕里，是三過也。⟦5⟧失期內顧，⟦6⟧以道惡爲解，是四過也。問君蜀刀價而陽不知，⟦7⟧挾僞干君，⟦8⟧是五過也。受詔不至蘭池，⟦9⟧明日又不對；假令將軍之吏，問之不對，令之不從，其罪何如？推此心在外，江海之間可得信乎？今東越深入，將軍能率衆以掩過不？」⟦10⟧僕惶恐對曰：「願盡死贖罪！」上乃遣橫海將軍韓說出句章，⟦11⟧浮海從東方往；樓船將軍楊僕出武林，中尉王溫舒出梅嶺，以越侯爲戈船、下瀨將軍，出若邪、白沙，⟦12⟧以擊東越。",
+   "mentions": [
+    {
+     "entity_id": "P67",
+     "entity_name": "杨仆",
+     "entity_type": "person",
+     "start": 4,
+     "end": 6,
+     "surface": "楊僕"
+    },
+    {
+     "entity_id": "L83",
+     "entity_name": "石门",
+     "entity_type": "place",
+     "start": 33,
+     "end": 35,
+     "surface": "石門"
+    },
+    {
+     "entity_id": "L84",
+     "entity_name": "寻陿",
+     "entity_type": "place",
+     "start": 36,
+     "end": 38,
+     "surface": "尋陿"
+    },
+    {
+     "entity_id": "L65",
+     "entity_name": "番禺",
+     "entity_type": "place",
+     "start": 61,
+     "end": 63,
+     "surface": "番禺"
+    },
+    {
+     "entity_id": "P56",
+     "entity_name": "吕嘉",
+     "entity_type": "person",
+     "start": 90,
+     "end": 92,
+     "surface": "呂嘉"
+    },
+    {
+     "entity_id": "L98",
+     "entity_name": "东越",
+     "entity_type": "place",
+     "start": 94,
+     "end": 96,
+     "surface": "東越"
+    },
+    {
+     "entity_id": "C22",
+     "entity_name": "三组",
+     "entity_type": "concept",
+     "start": 143,
+     "end": 145,
+     "surface": "三組"
+    },
+    {
+     "entity_id": "L98",
+     "entity_name": "东越",
+     "entity_type": "place",
+     "start": 257,
+     "end": 259,
+     "surface": "東越"
+    },
+    {
+     "entity_id": "P68",
+     "entity_name": "韩说",
+     "entity_type": "person",
+     "start": 294,
+     "end": 298,
+     "surface": "橫海將軍"
+    },
+    {
+     "entity_id": "P68",
+     "entity_name": "韩说",
+     "entity_type": "person",
+     "start": 298,
+     "end": 300,
+     "surface": "韓說"
+    },
+    {
+     "entity_id": "L71",
+     "entity_name": "句章",
+     "entity_type": "place",
+     "start": 301,
+     "end": 303,
+     "surface": "句章"
+    },
+    {
+     "entity_id": "P67",
+     "entity_name": "杨仆",
+     "entity_type": "person",
+     "start": 315,
+     "end": 319,
+     "surface": "樓船將軍"
+    },
+    {
+     "entity_id": "P67",
+     "entity_name": "杨仆",
+     "entity_type": "person",
+     "start": 319,
+     "end": 321,
+     "surface": "楊僕"
+    },
+    {
+     "entity_id": "L70",
+     "entity_name": "武林",
+     "entity_type": "place",
+     "start": 322,
+     "end": 324,
+     "surface": "武林"
+    },
+    {
+     "entity_id": "C34",
+     "entity_name": "中尉",
+     "entity_type": "concept",
+     "start": 325,
+     "end": 327,
+     "surface": "中尉"
+    },
+    {
+     "entity_id": "P47",
+     "entity_name": "王温舒",
+     "entity_type": "person",
+     "start": 327,
+     "end": 330,
+     "surface": "王溫舒"
+    },
+    {
+     "entity_id": "L68",
+     "entity_name": "梅岭",
+     "entity_type": "place",
+     "start": 331,
+     "end": 333,
+     "surface": "梅嶺"
+    },
+    {
+     "entity_id": "L72",
+     "entity_name": "若邪",
+     "entity_type": "place",
+     "start": 347,
+     "end": 349,
+     "surface": "若邪"
+    },
+    {
+     "entity_id": "L69",
+     "entity_name": "白沙",
+     "entity_type": "place",
+     "start": 350,
+     "end": 352,
+     "surface": "白沙"
+    },
+    {
+     "entity_id": "L98",
+     "entity_name": "东越",
+     "entity_type": "place",
+     "start": 359,
+     "end": 361,
+     "surface": "東越"
+    }
+   ]
+  },
+  {
+   "para_id": "p80",
+   "text": "7博望侯旣以通西域尊貴，其吏士爭上書言外國奇怪利害求使。天子爲其絕遠，非人所樂往，聽其言，⟦0⟧予節，募吏民，毋問所從來，⟦1⟧爲具備人衆遣之，⟦2⟧以廣其道。來還，不能毋侵盜幣物及使失指，⟦3⟧天子爲其習之，輒覆按致重罪，以激怒令贖，⟦4⟧復求使，使端無窮，而輕犯法。⟦5⟧其吏卒亦輒復盛推外國所有，言大者予節，言小者爲副，⟦6⟧故妄言無行之徒皆爭效之。⟦7⟧其使皆貧人子，私縣官齎物，⟦8⟧欲賤市以私其利。⟦9⟧外國亦厭漢使，人人有言輕重，⟦10⟧度漢兵遠不能至，而禁其食物以苦漢使。⟦11⟧漢使乏絕，積怨至相攻擊。而樓蘭、車師，小國當空道，⟦12⟧攻劫漢使王恢等尤甚，而匈奴奇兵又時遮擊之。使者爭言西域皆有城邑，兵弱易擊。⟦13⟧於是天子遣浮沮將軍公孫賀將萬五千騎出九原二千餘里，至浮沮井而還；⟦14⟧匈河將軍趙破奴將萬餘騎出令居數千里，至匈河水而還；⟦15⟧以斥逐匈奴，不使遮漢使，皆不見匈奴一人。乃分武威、酒泉地置張掖、敦煌郡，⟦16⟧徙民以實之。",
+   "mentions": [
+    {
+     "entity_id": "P31",
+     "entity_name": "张骞",
+     "entity_type": "person",
+     "start": 1,
+     "end": 4,
+     "surface": "博望侯"
+    },
+    {
+     "entity_id": "L101",
+     "entity_name": "西域",
+     "entity_type": "place",
+     "start": 7,
+     "end": 9,
+     "surface": "西域"
+    },
+    {
+     "entity_id": "L19",
+     "entity_name": "车师",
+     "entity_type": "place",
+     "start": 264,
+     "end": 266,
+     "surface": "車師"
+    },
+    {
+     "entity_id": "P76",
+     "entity_name": "王恢",
+     "entity_type": "person",
+     "start": 281,
+     "end": 283,
+     "surface": "王恢"
+    },
+    {
+     "entity_id": "L102",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 288,
+     "end": 290,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "L101",
+     "entity_name": "西域",
+     "entity_type": "place",
+     "start": 302,
+     "end": 304,
+     "surface": "西域"
+    },
+    {
+     "entity_id": "P74",
+     "entity_name": "公孙贺",
+     "entity_type": "person",
+     "start": 327,
+     "end": 330,
+     "surface": "公孫賀"
+    },
+    {
+     "entity_id": "L49",
+     "entity_name": "九原",
+     "entity_type": "place",
+     "start": 336,
+     "end": 338,
+     "surface": "九原"
+    },
+    {
+     "entity_id": "L50",
+     "entity_name": "浮沮井",
+     "entity_type": "place",
+     "start": 344,
+     "end": 347,
+     "surface": "浮沮井"
+    },
+    {
+     "entity_id": "P75",
+     "entity_name": "赵破奴",
+     "entity_type": "person",
+     "start": 358,
+     "end": 361,
+     "surface": "趙破奴"
+    },
+    {
+     "entity_id": "L51",
+     "entity_name": "令居",
+     "entity_type": "place",
+     "start": 366,
+     "end": 368,
+     "surface": "令居"
+    },
+    {
+     "entity_id": "L52",
+     "entity_name": "匈河水",
+     "entity_type": "place",
+     "start": 373,
+     "end": 376,
+     "surface": "匈河水"
+    },
+    {
+     "entity_id": "L102",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 386,
+     "end": 388,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "L102",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 398,
+     "end": 400,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "L53",
+     "entity_name": "张掖郡",
+     "entity_type": "place",
+     "start": 412,
+     "end": 414,
+     "surface": "張掖"
+    },
+    {
+     "entity_id": "L54",
+     "entity_name": "敦煌郡",
+     "entity_type": "place",
+     "start": 415,
+     "end": 418,
+     "surface": "敦煌郡"
+    }
+   ]
+  },
+  {
+   "para_id": "p81",
+   "text": "8是歲，齊相卜式爲御史大夫。式旣在位，乃言「郡、國多不便縣官作鹽鐵器，苦惡⟦0⟧價貴，或強令民買之；而船有算，⟦1⟧商者少，物貴。」⟦2⟧上由是不悅卜式。",
+   "mentions": [
+    {
+     "entity_id": "P65",
+     "entity_name": "卜式",
+     "entity_type": "person",
+     "start": 6,
+     "end": 8,
+     "surface": "卜式"
+    },
+    {
+     "entity_id": "C42",
+     "entity_name": "盐铁器",
+     "entity_type": "concept",
+     "start": 31,
+     "end": 34,
+     "surface": "鹽鐵器"
+    },
+    {
+     "entity_id": "P65",
+     "entity_name": "卜式",
+     "entity_type": "person",
+     "start": 74,
+     "end": 76,
+     "surface": "卜式"
+    }
+   ]
+  },
+  {
+   "para_id": "p82",
+   "text": "9初，司馬相如病且死，有遺書，頌功德，言符瑞，勸上封泰山。上感其言，會得寶鼎，上乃與公卿諸生議封禪。封禪用希曠絕，莫知其儀，而諸方士又言：「封禪者合不死之名也。⟦0⟧黃帝以上，封禪皆致怪物，與神通，秦皇帝不得上封。陛下必欲上，稍上卽無風雨，遂上封矣。」⟦1⟧上於是乃令諸儒采尙書、周官、王制之文，草封禪儀，數年不成。上以問左內史兒寬，寬曰：「封泰山，禪梁父，昭姓考瑞，帝王之盛節也；⟦2⟧然享薦之義，不著于經。⟦3⟧臣以爲封禪告成，合祛於天地神祇，⟦4⟧唯聖主所由，制定其當，⟦5⟧非羣臣之所能列。今將舉大事，優游數年，使羣臣得人人自盡，⟦6⟧終莫能成。唯天子建中和之極，兼總條貫，金聲而玉振之，⟦7⟧以順成天慶，垂萬世之基。」上乃自制儀，頗采儒術以文之。上爲封禪祠器，以示羣儒，或曰「不與古同」，於是盡罷諸儒不用。上又以古者先振兵釋旅，然後封禪。",
+   "mentions": [
+    {
+     "entity_id": "P87",
+     "entity_name": "司马相如",
+     "entity_type": "person",
+     "start": 3,
+     "end": 7,
+     "surface": "司馬相如"
+    },
+    {
+     "entity_id": "L56",
+     "entity_name": "泰山",
+     "entity_type": "place",
+     "start": 26,
+     "end": 28,
+     "surface": "泰山"
+    },
+    {
+     "entity_id": "C13",
+     "entity_name": "封禅",
+     "entity_type": "concept",
+     "start": 47,
+     "end": 49,
+     "surface": "封禪"
+    },
+    {
+     "entity_id": "C13",
+     "entity_name": "封禅",
+     "entity_type": "concept",
+     "start": 50,
+     "end": 52,
+     "surface": "封禪"
+    },
+    {
+     "entity_id": "C13",
+     "entity_name": "封禅",
+     "entity_type": "concept",
+     "start": 70,
+     "end": 72,
+     "surface": "封禪"
+    },
+    {
+     "entity_id": "C13",
+     "entity_name": "封禅",
+     "entity_type": "concept",
+     "start": 88,
+     "end": 90,
+     "surface": "封禪"
+    },
+    {
+     "entity_id": "C13",
+     "entity_name": "封禅",
+     "entity_type": "concept",
+     "start": 149,
+     "end": 151,
+     "surface": "封禪"
+    },
+    {
+     "entity_id": "P48",
+     "entity_name": "儿宽",
+     "entity_type": "person",
+     "start": 164,
+     "end": 166,
+     "surface": "兒寬"
+    },
+    {
+     "entity_id": "L56",
+     "entity_name": "泰山",
+     "entity_type": "place",
+     "start": 172,
+     "end": 174,
+     "surface": "泰山"
+    },
+    {
+     "entity_id": "L57",
+     "entity_name": "梁父",
+     "entity_type": "place",
+     "start": 176,
+     "end": 178,
+     "surface": "梁父"
+    },
+    {
+     "entity_id": "C13",
+     "entity_name": "封禅",
+     "entity_type": "concept",
+     "start": 211,
+     "end": 213,
+     "surface": "封禪"
+    },
+    {
+     "entity_id": "C13",
+     "entity_name": "封禅",
+     "entity_type": "concept",
+     "start": 330,
+     "end": 332,
+     "surface": "封禪"
+    },
+    {
+     "entity_id": "C13",
+     "entity_name": "封禅",
+     "entity_type": "concept",
+     "start": 371,
+     "end": 373,
+     "surface": "封禪"
+    }
+   ]
+  },
+  {
+   "para_id": "p83",
+   "text": "元封元年（辛未、前一一〇年）⟦0⟧",
+   "mentions": []
+  },
+  {
+   "para_id": "p84",
+   "text": "1冬，十月，下詔曰：「南越、東甌，咸伏其辜；西蠻、北夷，頗未輯睦；⟦0⟧朕將巡邊垂，躬秉武節，置十二部將軍，親帥師焉。」⟦1⟧乃行，自雲陽⟦2⟧北歷上郡、西河、五原，⟦3⟧出長城，北登單于臺，⟦4⟧至朔方，臨北河；〔章：十四行本「河」下有「勒兵十八萬騎，旌旗徑千餘里，以見武節，威匈奴」十九字；乙十一行本同；張校同。〕遣使者郭吉告單于曰：「南越王頭已縣於漢北闕。⟦5⟧今單于能戰，天子自將待邊；⟦6⟧不能，卽南面而臣於漢，何徒遠走亡匿於幕北，寒苦無水草之地，毋爲也！」語卒而單于大怒，⟦7⟧立斬主客見者，⟦8⟧而留郭吉，遷之北海上。然匈奴亦讋，⟦9⟧終不敢出。上乃還，祭黃帝冢橋山，⟦10⟧釋兵須如。⟦11⟧上曰：「吾聞黃帝不死，今有冢，何也？」公孫卿曰：「黃帝已仙上天，羣臣思慕，葬其衣冠。」⟦12⟧上歎曰：「吾後升天，羣臣亦當葬吾衣冠於東陵乎？」⟦13⟧乃還甘泉，類祠太一。⟦14⟧",
+   "mentions": [
+    {
+     "entity_id": "L97",
+     "entity_name": "南越",
+     "entity_type": "place",
+     "start": 11,
+     "end": 13,
+     "surface": "南越"
+    },
+    {
+     "entity_id": "L04",
+     "entity_name": "上郡",
+     "entity_type": "place",
+     "start": 74,
+     "end": 76,
+     "surface": "上郡"
+    },
+    {
+     "entity_id": "L102",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 140,
+     "end": 142,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "L97",
+     "entity_name": "南越",
+     "entity_type": "place",
+     "start": 170,
+     "end": 172,
+     "surface": "南越"
+    },
+    {
+     "entity_id": "L102",
+     "entity_name": "匈奴",
+     "entity_type": "place",
+     "start": 267,
+     "end": 269,
+     "surface": "匈奴"
+    },
+    {
+     "entity_id": "L62",
+     "entity_name": "桥山",
+     "entity_type": "place",
+     "start": 288,
+     "end": 290,
+     "surface": "橋山"
+    },
+    {
+     "entity_id": "L63",
+     "entity_name": "须如",
+     "entity_type": "place",
+     "start": 297,
+     "end": 299,
+     "surface": "須如"
+    },
+    {
+     "entity_id": "P57",
+     "entity_name": "公孙卿",
+     "entity_type": "person",
+     "start": 323,
+     "end": 326,
+     "surface": "公孫卿"
+    },
+    {
+     "entity_id": "L64",
+     "entity_name": "东陵",
+     "entity_type": "place",
+     "start": 370,
+     "end": 372,
+     "surface": "東陵"
+    },
+    {
+     "entity_id": "L03",
+     "entity_name": "甘泉",
+     "entity_type": "place",
+     "start": 381,
+     "end": 383,
+     "surface": "甘泉"
+    }
+   ]
+  },
+  {
+   "para_id": "p85",
+   "text": "2上以卜式不習文章，貶秩爲太子太傅，以兒寬代爲御史大夫。",
+   "mentions": [
+    {
+     "entity_id": "P65",
+     "entity_name": "卜式",
+     "entity_type": "person",
+     "start": 3,
+     "end": 5,
+     "surface": "卜式"
+    },
+    {
+     "entity_id": "C39",
+     "entity_name": "太子太傅",
+     "entity_type": "concept",
+     "start": 13,
+     "end": 17,
+     "surface": "太子太傅"
+    },
+    {
+     "entity_id": "P48",
+     "entity_name": "儿宽",
+     "entity_type": "person",
+     "start": 19,
+     "end": 21,
+     "surface": "兒寬"
+    }
+   ]
+  },
+  {
+   "para_id": "p86",
+   "text": "3漢兵入東越境，東越素發兵距險，使徇北將軍守武林。樓船將軍卒錢塘轅終古斬徇北將軍。⟦0⟧故越衍侯吳陽以其邑七百人反攻越軍於漢陽。越建成侯敖與繇王居股殺餘善，以其衆降。⟦1⟧上封終古爲禦兒侯，⟦2⟧陽爲卯石侯，居股爲東成侯，敖爲開陵侯；又封橫海將軍說爲按道侯，橫海校尉福爲繚嫈侯，東越降將多軍爲無錫侯。⟦3⟧上以閩地險阻，數反覆，⟦4⟧終爲後世患，乃詔諸將悉其民徙於江、淮之間，遂虛其地。⟦5⟧",
+   "mentions": [
+    {
+     "entity_id": "L98",
+     "entity_name": "东越",
+     "entity_type": "place",
+     "start": 4,
+     "end": 6,
+     "surface": "東越"
+    },
+    {
+     "entity_id": "L98",
+     "entity_name": "东越",
+     "entity_type": "place",
+     "start": 8,
+     "end": 10,
+     "surface": "東越"
+    },
+    {
+     "entity_id": "L70",
+     "entity_name": "武林",
+     "entity_type": "place",
+     "start": 22,
+     "end": 24,
+     "surface": "武林"
+    },
+    {
+     "entity_id": "P67",
+     "entity_name": "杨仆",
+     "entity_type": "person",
+     "start": 25,
+     "end": 29,
+     "surface": "樓船將軍"
+    },
+    {
+     "entity_id": "P85",
+     "entity_name": "辕终古",
+     "entity_type": "person",
+     "start": 32,
+     "end": 35,
+     "surface": "轅終古"
+    },
+    {
+     "entity_id": "P81",
+     "entity_name": "吴阳",
+     "entity_type": "person",
+     "start": 48,
+     "end": 50,
+     "surface": "吳陽"
+    },
+    {
+     "entity_id": "P83",
+     "entity_name": "居股",
+     "entity_type": "person",
+     "start": 72,
+     "end": 74,
+     "surface": "居股"
+    },
+    {
+     "entity_id": "P79",
+     "entity_name": "余善",
+     "entity_type": "person",
+     "start": 75,
+     "end": 77,
+     "surface": "餘善"
+    },
+    {
+     "entity_id": "P83",
+     "entity_name": "居股",
+     "entity_type": "person",
+     "start": 104,
+     "end": 106,
+     "surface": "居股"
+    },
+    {
+     "entity_id": "P68",
+     "entity_name": "韩说",
+     "entity_type": "person",
+     "start": 119,
+     "end": 123,
+     "surface": "橫海將軍"
+    },
+    {
+     "entity_id": "L98",
+     "entity_name": "东越",
+     "entity_type": "place",
+     "start": 139,
+     "end": 141,
+     "surface": "東越"
+    },
+    {
+     "entity_id": "P84",
+     "entity_name": "多军",
+     "entity_type": "person",
+     "start": 143,
+     "end": 145,
+     "surface": "多軍"
+    }
+   ]
+  },
+  {
+   "para_id": "p87",
+   "text": "4春，正月，上行幸緱氏，⟦0⟧禮祭中嶽太室，從官在山下聞若有言「萬歲」者三。⟦1⟧詔祠官加增太室祠，禁無伐其草木，以山下戶三百爲之奉邑。⟦2⟧",
+   "mentions": [
+    {
+     "entity_id": "L42",
+     "entity_name": "緱氏",
+     "entity_type": "place",
+     "start": 9,
+     "end": 11,
+     "surface": "緱氏"
+    },
+    {
+     "entity_id": "L43",
+     "entity_name": "太室",
+     "entity_type": "place",
+     "start": 19,
+     "end": 21,
+     "surface": "太室"
+    },
+    {
+     "entity_id": "L43",
+     "entity_name": "太室",
+     "entity_type": "place",
+     "start": 46,
+     "end": 48,
+     "surface": "太室"
+    }
+   ]
+  },
+  {
+   "para_id": "p88",
+   "text": "上遂東巡海上，行禮祠八神。齊人之上疏言神怪、奇方者以萬數，乃益發船，令言海中神山者數千人求蓬萊神人。公孫卿持節常先行，候名山，至東萊，⟦0⟧言：「夜見大人，長數丈，⟦1⟧就之則不見，其迹甚大，類禽獸云。」羣臣有言：「見一老父牽狗，言『吾欲見鉅公』，⟦2⟧已忽不見。」上旣見大迹，未信，及羣臣又言老父，則大以爲仙人也，宿留海上；⟦3⟧與方士傳車及間使求神仙，人以千數。⟦4⟧",
+   "mentions": [
+    {
+     "entity_id": "P57",
+     "entity_name": "公孙卿",
+     "entity_type": "person",
+     "start": 50,
+     "end": 53,
+     "surface": "公孫卿"
+    },
+    {
+     "entity_id": "L55",
+     "entity_name": "东莱",
+     "entity_type": "place",
+     "start": 64,
+     "end": 66,
+     "surface": "東萊"
+    }
+   ]
+  },
+  {
+   "para_id": "p89",
+   "text": "夏，四月，還，至奉高，⟦0⟧禮祠地主於梁父。⟦1⟧乙卯，令侍中儒者皮弁、搢紳，射牛行事，⟦2⟧封泰山下東方，⟦3⟧如郊祠泰一之禮。封廣丈二尺，高九尺，⟦4⟧其下則有玉牒書，書祕。禮畢，天子獨與侍中、奉車都尉霍子侯上泰山，⟦5⟧亦有封，其事皆禁。明日，下陰道。⟦6⟧丙辰，禪泰山下阯⟦7⟧東北肅然山，如祭后土禮，天子皆親拜見，⟦8⟧衣尙黃，而盡用樂焉。江、淮間茅三脊爲神藉，⟦9⟧五色土益雜封。其封禪祠，夜若有光，晝有白雲出封中。⟦10⟧天子從禪還，坐明堂，⟦11⟧羣臣更上壽頌功德。⟦12⟧詔曰：「朕以眇身承至尊，兢兢焉惟德菲薄，不明于禮樂，故用事八神。遭天地況施，⟦13⟧著見景象，屑然如有聞，⟦14⟧震于怪物，欲止不敢，遂登封泰山，至于梁父，然後升䄠肅然⟦15⟧自新，嘉與士大夫更始，⟦16⟧其以十月爲元封元年。行所巡至，博、奉高、蛇丘、歷城、梁父，⟦17⟧民田租逋賦，皆貸除之，無出今年算。賜天下民爵一級。」又以五載一巡狩，用事泰山，令諸侯各治邸泰山下。⟦18⟧",
+   "mentions": [
+    {
+     "entity_id": "L58",
+     "entity_name": "奉高",
+     "entity_type": "place",
+     "start": 8,
+     "end": 10,
+     "surface": "奉高"
+    },
+    {
+     "entity_id": "L57",
+     "entity_name": "梁父",
+     "entity_type": "place",
+     "start": 19,
+     "end": 21,
+     "surface": "梁父"
+    },
+    {
+     "entity_id": "L56",
+     "entity_name": "泰山",
+     "entity_type": "place",
+     "start": 48,
+     "end": 50,
+     "surface": "泰山"
+    },
+    {
+     "entity_id": "C16",
+     "entity_name": "泰一",
+     "entity_type": "concept",
+     "start": 60,
+     "end": 62,
+     "surface": "泰一"
+    },
+    {
+     "entity_id": "C14",
+     "entity_name": "玉牒书",
+     "entity_type": "concept",
+     "start": 82,
+     "end": 85,
+     "surface": "玉牒書"
+    },
+    {
+     "entity_id": "C37",
+     "entity_name": "奉车都尉",
+     "entity_type": "concept",
+     "start": 99,
+     "end": 103,
+     "surface": "奉車都尉"
+    },
+    {
+     "entity_id": "L56",
+     "entity_name": "泰山",
+     "entity_type": "place",
+     "start": 107,
+     "end": 109,
+     "surface": "泰山"
+    },
+    {
+     "entity_id": "L56",
+     "entity_name": "泰山",
+     "entity_type": "place",
+     "start": 136,
+     "end": 138,
+     "surface": "泰山"
+    },
+    {
+     "entity_id": "L59",
+     "entity_name": "肃然山",
+     "entity_type": "place",
+     "start": 145,
+     "end": 148,
+     "surface": "肅然山"
+    },
+    {
+     "entity_id": "C17",
+     "entity_name": "后土",
+     "entity_type": "concept",
+     "start": 151,
+     "end": 153,
+     "surface": "后土"
+    },
+    {
+     "entity_id": "C13",
+     "entity_name": "封禅",
+     "entity_type": "concept",
+     "start": 197,
+     "end": 199,
+     "surface": "封禪"
+    },
+    {
+     "entity_id": "L56",
+     "entity_name": "泰山",
+     "entity_type": "place",
+     "start": 315,
+     "end": 317,
+     "surface": "泰山"
+    },
+    {
+     "entity_id": "L57",
+     "entity_name": "梁父",
+     "entity_type": "place",
+     "start": 320,
+     "end": 322,
+     "surface": "梁父"
+    },
+    {
+     "entity_id": "L58",
+     "entity_name": "奉高",
+     "entity_type": "place",
+     "start": 365,
+     "end": 367,
+     "surface": "奉高"
+    },
+    {
+     "entity_id": "L57",
+     "entity_name": "梁父",
+     "entity_type": "place",
+     "start": 374,
+     "end": 376,
+     "surface": "梁父"
+    },
+    {
+     "entity_id": "L56",
+     "entity_name": "泰山",
+     "entity_type": "place",
+     "start": 417,
+     "end": 419,
+     "surface": "泰山"
+    },
+    {
+     "entity_id": "L56",
+     "entity_name": "泰山",
+     "entity_type": "place",
+     "start": 426,
+     "end": 428,
+     "surface": "泰山"
+    }
+   ]
+  },
+  {
+   "para_id": "p90",
+   "text": "天子旣已封泰山，無風雨，而方士更言蓬萊諸神若將可得，於是上欣然庶幾遇之，復東至海上望焉。⟦0⟧上欲自浮海求蓬萊，羣臣諫，莫能止。東方朔曰：「夫仙者，得之自然，不必躁求。⟦1⟧若其有道，不憂不得；若其無道，雖至蓬萊見仙人，亦無益也。臣願陛下第還宮靜處以須之，⟦2⟧仙人將自至。」上乃止。會奉車霍子侯暴病，一日死。子侯，去病子也，上甚悼之；乃遂去，並海上，⟦3⟧北至碣石，巡自遼西，歷北邊，至九原，五月，乃至甘泉。凡周行萬八千里云。",
+   "mentions": [
+    {
+     "entity_id": "L56",
+     "entity_name": "泰山",
+     "entity_type": "place",
+     "start": 5,
+     "end": 7,
+     "surface": "泰山"
+    },
+    {
+     "entity_id": "P88",
+     "entity_name": "东方朔",
+     "entity_type": "person",
+     "start": 64,
+     "end": 67,
+     "surface": "東方朔"
+    },
+    {
+     "entity_id": "L60",
+     "entity_name": "碣石",
+     "entity_type": "place",
+     "start": 181,
+     "end": 183,
+     "surface": "碣石"
+    },
+    {
+     "entity_id": "L61",
+     "entity_name": "辽西",
+     "entity_type": "place",
+     "start": 186,
+     "end": 188,
+     "surface": "遼西"
+    },
+    {
+     "entity_id": "L49",
+     "entity_name": "九原",
+     "entity_type": "place",
+     "start": 194,
+     "end": 196,
+     "surface": "九原"
+    },
+    {
+     "entity_id": "L03",
+     "entity_name": "甘泉",
+     "entity_type": "place",
+     "start": 202,
+     "end": 204,
+     "surface": "甘泉"
+    }
+   ]
+  },
+  {
+   "para_id": "p91",
+   "text": "先是，桑弘羊爲治粟都尉，領大農，⟦0⟧盡管天下鹽鐵。弘羊作平準之法，令遠方各以其物如異時商賈所轉販者⟦1⟧爲賦而相灌輸。置平準于京師，都受天下委輸。⟦2⟧大農諸官，盡籠天下之貨物，貴卽賣之，賤則買之，欲使富商大賈無所牟大利，⟦3⟧而萬物不得騰踴。至是，天子巡狩郡縣，所過賞賜，用帛百餘萬匹，錢金以巨萬計，皆取足大農。弘羊又請〔章：十四行本「請」下有「令」字；乙十一行本同；孔本同。〕吏得入粟補官及罪人贖罪。山東漕粟益歲六百萬石，一歲之中，太倉、甘泉倉滿，邊餘穀，諸物均輸，帛五百萬匹，民不益賦而天下用饒。於是弘羊賜爵左庶長，黃金再百斤焉。",
+   "mentions": [
+    {
+     "entity_id": "P30",
+     "entity_name": "桑弘羊",
+     "entity_type": "person",
+     "start": 3,
+     "end": 6,
+     "surface": "桑弘羊"
+    },
+    {
+     "entity_id": "C40",
+     "entity_name": "治粟都尉",
+     "entity_type": "concept",
+     "start": 7,
+     "end": 11,
+     "surface": "治粟都尉"
+    },
+    {
+     "entity_id": "C08",
+     "entity_name": "平准",
+     "entity_type": "concept",
+     "start": 29,
+     "end": 31,
+     "surface": "平準"
+    },
+    {
+     "entity_id": "C08",
+     "entity_name": "平准",
+     "entity_type": "concept",
+     "start": 61,
+     "end": 63,
+     "surface": "平準"
+    },
+    {
+     "entity_id": "C27",
+     "entity_name": "漕粟",
+     "entity_type": "concept",
+     "start": 205,
+     "end": 207,
+     "surface": "漕粟"
+    },
+    {
+     "entity_id": "L03",
+     "entity_name": "甘泉",
+     "entity_type": "place",
+     "start": 222,
+     "end": 224,
+     "surface": "甘泉"
+    },
+    {
+     "entity_id": "C07",
+     "entity_name": "均输",
+     "entity_type": "concept",
+     "start": 233,
+     "end": 235,
+     "surface": "均輸"
+    },
+    {
+     "entity_id": "C29",
+     "entity_name": "左庶长",
+     "entity_type": "concept",
+     "start": 258,
+     "end": 261,
+     "surface": "左庶長"
+    }
+   ]
+  },
+  {
+   "para_id": "p92",
+   "text": "是時小旱，上令官求雨。卜式言曰：「縣官當食租衣稅而已，⟦0⟧今弘羊令吏坐市列肆，販物求利，烹弘羊，天乃雨。」",
+   "mentions": [
+    {
+     "entity_id": "P65",
+     "entity_name": "卜式",
+     "entity_type": "person",
+     "start": 11,
+     "end": 13,
+     "surface": "卜式"
+    }
+   ]
+  },
+  {
+   "para_id": "p93",
+   "text": "5秋，有星孛于東井，⟦0⟧後十餘日，有星孛于三台。⟦1⟧望氣王朔言：「候獨見塡星出如瓜，食頃，復入。」⟦2⟧有司皆曰：「陛下建漢家封禪，天其報德星云。」⟦3⟧",
+   "mentions": [
+    {
+     "entity_id": "L73",
+     "entity_name": "东井",
+     "entity_type": "place",
+     "start": 7,
+     "end": 9,
+     "surface": "東井"
+    },
+    {
+     "entity_id": "L74",
+     "entity_name": "三台",
+     "entity_type": "place",
+     "start": 22,
+     "end": 24,
+     "surface": "三台"
+    },
+    {
+     "entity_id": "C23",
+     "entity_name": "望气",
+     "entity_type": "concept",
+     "start": 28,
+     "end": 30,
+     "surface": "望氣"
+    },
+    {
+     "entity_id": "P90",
+     "entity_name": "王朔",
+     "entity_type": "person",
+     "start": 30,
+     "end": 32,
+     "surface": "王朔"
+    },
+    {
+     "entity_id": "C13",
+     "entity_name": "封禅",
+     "entity_type": "concept",
+     "start": 65,
+     "end": 67,
+     "surface": "封禪"
+    }
+   ]
+  },
+  {
+   "para_id": "p94",
+   "text": "6齊懷王閎薨，無子，國除。⟦0⟧",
+   "mentions": []
+  }
+ ]
+}
