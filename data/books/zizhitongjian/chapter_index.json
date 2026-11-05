@@ -460,14 +460,26 @@
   },
   {
     "id": "zizhitongjian-0035",
-    "title": "卷第三十四・漢紀二十六・孝哀皇帝中",
-    "juan": "卷0",
-    "juan_num": 0,
+    "title": "卷第三十四・汉纪二十六・孝哀皇帝中",
+    "juan": "卷34",
+    "juan_num": 34,
     "tili": "biannian",
     "tili_name": "编年",
     "para_count": 55,
-    "char_count": 9613,
-    "annotation_count": 333
+    "char_count": 25460,
+    "annotation_count": 469,
+    "status": "completed",
+    "translation_file": "data/books/zizhitongjian/translations/白话-定稿-卷第三十四・汉纪二十六・孝哀皇帝中.md",
+    "draft_translation_file": "data/books/zizhitongjian/translations/白话-初稿-卷第三十四・汉纪二十六・孝哀皇帝中.md",
+    "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第三十四・汉纪二十六・孝哀皇帝中.json",
+    "enhancement_file": "data/books/zizhitongjian/enhancements/增强-卷第三十四・汉纪二十六・孝哀皇帝中.json",
+    "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第三十四・汉纪二十六・孝哀皇帝中.json",
+    "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第三十四・汉纪二十六・孝哀皇帝中.json",
+    "proofread_files": [
+      "data/books/zizhitongjian/proofread/校勘-卷第三十四・汉纪二十六・孝哀皇帝中.md",
+      "data/books/zizhitongjian/proofread/翻译校验-卷第三十四・汉纪二十六・孝哀皇帝中.md",
+      "data/books/zizhitongjian/proofread/本体校验-卷第三十四・汉纪二十六・孝哀皇帝中.md"
+    ]
   },
   {
     "id": "zizhitongjian-0036",
