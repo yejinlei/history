@@ -337,14 +337,28 @@
   },
   {
     "id": "zizhitongjian-0030",
-    "title": "卷第二十九・漢紀二十一・孝元皇帝下",
-    "juan": "卷0",
-    "juan_num": 0,
+    "title": "卷第二十九・汉纪二十一・孝元皇帝下",
+    "juan": "卷29",
+    "juan_num": 29,
     "tili": "biannian",
     "tili_name": "编年",
     "para_count": 87,
-    "char_count": 12077,
-    "annotation_count": 374
+    "char_count": 10547,
+    "annotation_count": 446,
+    "status": "completed",
+    "translation_file": "data/books/zizhitongjian/translations/白话-定稿-卷第二十九・汉纪二十一・孝元皇帝下.md",
+    "draft_translation_file": "data/books/zizhitongjian/translations/白话-初稿-卷第二十九・汉纪二十一・孝元皇帝下.md",
+    "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第二十九・汉纪二十一・孝元皇帝下.json",
+    "draft_annotation_file": "data/books/zizhitongjian/ontology/实体标注-初稿-卷第二十九・汉纪二十一・孝元皇帝下.json",
+    "enhancement_file": "data/books/zizhitongjian/enhancements/增强-卷第二十九・汉纪二十一・孝元皇帝下.json",
+    "draft_enhancement_file": "data/books/zizhitongjian/enhancements/增强-初稿-卷第二十九・汉纪二十一・孝元皇帝下.json",
+    "proofread_files": [
+      "data/books/zizhitongjian/proofread/校勘-卷第二十九・汉纪二十一・孝元皇帝下.md",
+      "data/books/zizhitongjian/proofread/翻译校验-卷第二十九・汉纪二十一・孝元皇帝下.md",
+      "data/books/zizhitongjian/proofread/本体校验-卷第二十九・汉纪二十一・孝元皇帝下.md"
+    ],
+    "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第二十九・汉纪二十一・孝元皇帝下.json",
+    "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第二十九・汉纪二十一・孝元皇帝下.json"
   },
   {
     "id": "zizhitongjian-0031",
