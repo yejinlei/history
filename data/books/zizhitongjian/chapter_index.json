@@ -283,17 +283,17 @@
   },
   {
     "id": "zizhitongjian-0026",
-    "title": "卷第二十六・汉纪十八・中宗孝宣皇帝中",
+    "title": "卷第二十五・漢紀十七・中宗孝宣皇帝上之下",
     "juan": "卷0",
     "juan_num": 0,
     "tili": "biannian",
     "tili_name": "编年",
     "para_count": 80,
-    "char_count": 20511,
-    "annotation_count": 172,
+    "char_count": 10739,
+    "annotation_count": 281,
     "mentions_count": 281,
-    "status": "completed",
-    "translation_file": "data/books/zizhitongjian/translations/白话-定稿-卷第二十六・汉纪十八・中宗孝宣皇帝中.md"
+    "status": "定稿上线",
+    "translation_file": "data/books/zizhitongjian/translations/白话-定稿-卷第二十五・汉纪十七・中宗孝宣皇帝上之下.md"
   },
   {
     "id": "zizhitongjian-0027",
@@ -303,8 +303,11 @@
     "tili": "biannian",
     "tili_name": "编年",
     "para_count": 44,
-    "char_count": 9410,
-    "annotation_count": 303
+    "char_count": 8435,
+    "annotation_count": 172,
+    "mentions_count": 172,
+    "status": "定稿上线",
+    "translation_file": "data/books/zizhitongjian/translations/白话-定稿-卷第二十六・汉纪十八・中宗孝宣皇帝中.md"
   },
   {
     "id": "zizhitongjian-0028",
@@ -314,8 +317,11 @@
     "tili": "biannian",
     "tili_name": "编年",
     "para_count": 85,
-    "char_count": 10244,
-    "annotation_count": 314
+    "char_count": 9243,
+    "annotation_count": 516,
+    "mentions_count": 516,
+    "status": "定稿上线",
+    "translation_file": "data/books/zizhitongjian/translations/白话-定稿-卷第二十七・汉纪十九・中宗孝宣皇帝下.md"
   },
   {
     "id": "zizhitongjian-0029",
