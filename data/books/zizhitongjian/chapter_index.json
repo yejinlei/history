@@ -412,14 +412,28 @@
   },
   {
     "id": "zizhitongjian-0033",
-    "title": "卷第三十二・漢紀二十四・孝成皇帝中",
-    "juan": "卷0",
-    "juan_num": 0,
+    "title": "卷第三十二・汉纪二十四・孝成皇帝中",
+    "juan": "卷32",
+    "juan_num": 32,
     "tili": "biannian",
     "tili_name": "编年",
-    "para_count": 64,
-    "char_count": 8370,
-    "annotation_count": 317
+    "para_count": 62,
+    "char_count": 21358,
+    "annotation_count": 345,
+    "status": "completed",
+    "translation_file": "data/books/zizhitongjian/translations/白话-定稿-卷第三十二・汉纪二十四・孝成皇帝中.md",
+    "draft_translation_file": "data/books/zizhitongjian/translations/白话-初稿-卷第三十二・汉纪二十四・孝成皇帝中.md",
+    "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第三十二・汉纪二十四・孝成皇帝中.json",
+    "draft_annotation_file": "data/books/zizhitongjian/ontology/实体标注-初稿-卷第三十二・汉纪二十四・孝成皇帝中.json",
+    "enhancement_file": "data/books/zizhitongjian/enhancements/增强-卷第三十二・汉纪二十四・孝成皇帝中.json",
+    "draft_enhancement_file": "data/books/zizhitongjian/enhancements/增强-初稿-卷第三十二・汉纪二十四・孝成皇帝中.json",
+    "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第三十二・汉纪二十四・孝成皇帝中.json",
+    "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第三十二・汉纪二十四・孝成皇帝中.json",
+    "proofread_files": [
+      "data/books/zizhitongjian/proofread/校勘-卷第三十二・汉纪二十四・孝成皇帝中.md",
+      "data/books/zizhitongjian/proofread/翻译校验-卷第三十二・汉纪二十四・孝成皇帝中.md",
+      "data/books/zizhitongjian/proofread/本体校验-卷第三十二・汉纪二十四・孝成皇帝中.md"
+    ]
   },
   {
     "id": "zizhitongjian-0034",

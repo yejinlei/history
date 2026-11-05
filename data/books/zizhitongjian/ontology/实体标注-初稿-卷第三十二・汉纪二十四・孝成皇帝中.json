@@ -1,0 +1,2723 @@
+{
+  "book_id": "zizhitongjian",
+  "chapter_id": "0033",
+  "chapter_title": "卷第三十二・汉纪二十四・孝成皇帝中",
+  "version": "draft",
+  "generated_at": "2026-11-06",
+  "annotations": [
+    {
+      "para_id": "p1",
+      "text": "汉成帝永始四年，戊申年，公元前12年。",
+      "mentions": [
+        {
+          "entity_id": "P001",
+          "entity_name": "刘骜",
+          "entity_type": "person",
+          "start": 1,
+          "end": 3,
+          "surface": "成帝"
+        }
+      ]
+    },
+    {
+      "para_id": "p2",
+      "text": "春季正月，成帝前往甘泉宫，在泰畤祭祀天神；大赦天下。三月，前往河西郡，祭祀后土神。",
+      "mentions": [
+        {
+          "entity_id": "L001",
+          "entity_name": "甘泉",
+          "entity_type": "place",
+          "start": 9,
+          "end": 12,
+          "surface": "甘泉宫"
+        },
+        {
+          "entity_id": "C015",
+          "entity_name": "泰畤",
+          "entity_type": "concept",
+          "start": 14,
+          "end": 16,
+          "surface": "泰畤"
+        },
+        {
+          "entity_id": "C016",
+          "entity_name": "后土",
+          "entity_type": "concept",
+          "start": 37,
+          "end": 39,
+          "surface": "后土"
+        }
+      ]
+    },
+    {
+      "para_id": "p3",
+      "text": "夏季，发生大旱灾。",
+      "mentions": []
+    },
+    {
+      "para_id": "p4",
+      "text": "四月癸未日，长乐宫临华殿、未央宫东司马门都发生火灾。六月甲午日，霸陵陵园的门阙发生火灾。",
+      "mentions": []
+    },
+    {
+      "para_id": "p5",
+      "text": "秋季七月辛未晦日，发生日食。",
+      "mentions": []
+    },
+    {
+      "para_id": "p6",
+      "text": "冬季十一月庚申日，大将军王商因病免职。",
+      "mentions": [
+        {
+          "entity_id": "P010",
+          "entity_name": "王商（成都侯）",
+          "entity_type": "person",
+          "start": 9,
+          "end": 14,
+          "surface": "大将军王商"
+        }
+      ]
+    },
+    {
+      "para_id": "p7",
+      "text": "梁王刘立骄横放纵没有节制，竟到了一天内十一次犯法的地步。梁相禹上奏说「刘立对外家心怀怨恨，有恶言」。主管官员查验审问，趁机揭发他与姑母园子通奸的事，上奏说「刘立行为如同禽兽，请求处死」。太中大夫谷永上书说：「臣听说根据礼制，天子在门外设屏墙，是不想让外面看见里面；因此帝王的用心，是不窥探别人闺门内的私事，不听内室的言语。《春秋》为亲属隐讳。如今梁王年少，颇有狂病，最初因恶言被查验，既没有事实根据，却揭发闺门私事，不是原奏章所指的内容。梁王的供词又不服，强行弹劾刘立，附会罗织难以查明的事，只凭一面之词定罪结案，对治道没有好处；污蔑宗室有内乱的恶名，传播宣扬到天下，这不是为公族隐讳、增朝廷荣耀、彰显圣德风化的做法。臣认为梁王年少而他的姑母年长，年龄不相配；梁国富足，足以用厚礼聘娶美女，招来妖艳的女子；他的姑母也有羞耻之心；审案的人原本是查问恶言，为什么要自己牵扯出这件事！从这三点推测，几乎不合人情，怀疑是被逼急了说错话，办案的官吏追根究底，使他不能翻供。事情还在萌芽时，施加恩惠不追究，是上策。现在已经查验依法举劾，应当趁梁王不服供词，下诏让廷尉挑选德行高尚、通晓事理的官吏重新审慎审问，证明不实的结果，判定失误的责任，再把案子交回下级官吏，以推广皇族亲附疏远的恩德，为宗室洗刷污秽淫乱的耻辱，很符合处置亲属的道义。」天子于是把案子压下不追究，下诏削去梁王五个县的封邑。",
+      "mentions": [
+        {
+          "entity_id": "P053",
+          "entity_name": "刘立",
+          "entity_type": "person",
+          "start": 2,
+          "end": 4,
+          "surface": "刘立"
+        },
+        {
+          "entity_id": "P053",
+          "entity_name": "刘立",
+          "entity_type": "person",
+          "start": 35,
+          "end": 37,
+          "surface": "刘立"
+        },
+        {
+          "entity_id": "P053",
+          "entity_name": "刘立",
+          "entity_type": "person",
+          "start": 78,
+          "end": 80,
+          "surface": "刘立"
+        },
+        {
+          "entity_id": "P026",
+          "entity_name": "谷永",
+          "entity_type": "person",
+          "start": 97,
+          "end": 99,
+          "surface": "谷永"
+        },
+        {
+          "entity_id": "P053",
+          "entity_name": "刘立",
+          "entity_type": "person",
+          "start": 232,
+          "end": 234,
+          "surface": "刘立"
+        }
+      ]
+    },
+    {
+      "para_id": "p8",
+      "text": "这一年，司隶校尉蜀郡人何武担任京兆尹。何武做官，遵守法度竭尽公正，推举善人斥退恶人，任职时没有显赫的名声，离任后常被人思念。",
+      "mentions": [
+        {
+          "entity_id": "P024",
+          "entity_name": "何武",
+          "entity_type": "person",
+          "start": 11,
+          "end": 13,
+          "surface": "何武"
+        },
+        {
+          "entity_id": "P024",
+          "entity_name": "何武",
+          "entity_type": "person",
+          "start": 19,
+          "end": 21,
+          "surface": "何武"
+        }
+      ]
+    },
+    {
+      "para_id": "p9",
+      "text": "汉成帝元延元年，己酉年，公元前12年。",
+      "mentions": []
+    },
+    {
+      "para_id": "p10",
+      "text": "春季正月己亥朔日，发生日食。",
+      "mentions": []
+    },
+    {
+      "para_id": "p11",
+      "text": "壬戌日，王商再次担任大司马、卫将军。",
+      "mentions": [
+        {
+          "entity_id": "P010",
+          "entity_name": "王商（成都侯）",
+          "entity_type": "person",
+          "start": 4,
+          "end": 6,
+          "surface": "王商"
+        }
+      ]
+    },
+    {
+      "para_id": "p12",
+      "text": "三月，成帝前往汾阴，祭祀五畤。",
+      "mentions": [
+        {
+          "entity_id": "C014",
+          "entity_name": "五畤",
+          "entity_type": "concept",
+          "start": 12,
+          "end": 14,
+          "surface": "五畤"
+        }
+      ]
+    },
+    {
+      "para_id": "p13",
+      "text": "夏季四月丁酉日，天上没有云却打雷；有流星从太阳下方往东南方向移动，四面光亮如雨落下，从申时一直到黄昏才停止。",
+      "mentions": []
+    },
+    {
+      "para_id": "p14",
+      "text": "大赦天下。",
+      "mentions": []
+    },
+    {
+      "para_id": "p15",
+      "text": "秋季七月，有彗星出现在井宿天区。",
+      "mentions": []
+    },
+    {
+      "para_id": "p16",
+      "text": "成帝因为发生灾异，广泛向群臣征求意见。北地太守谷永回答说：「称王的人亲身践行道德，承顺天地，那么五种祥瑞征兆就会按时出现，百姓长寿，吉祥的征兆一起降临；如果失道胡作非为，违逆天意暴殄天物，那么灾异的征兆就会显著出现，妖孽一起出现，饥荒接连到来；始终不悔改，恶贯满盈灾变齐备，上天就不再谴责警告，而是改命有德的人。这是天地的常道，历代帝王都一样。加上功德有厚薄，国运有长短，时代有中世末世，天道有盛衰。陛下继承八代的功业，正处在阳数的末季，经历三七的节纪，遭遇无妄的卦运，正当百六的灾厄，三种灾难不同种类，交错汇合在一起；建始元年以来，二十年间，各种大灾大异，交替蜂起，比《春秋》记载的还多。在内部就是深宫后庭，将会有骄横的臣子、凶悍的姬妾、醉酒狂悖突然发起的祸乱，北宫苑囿街巷之中、臣妾家里幽静空闲的地方会发生夏征舒、崔杼那样的弑君之乱；在外部就是天下各地，将会有樊并、苏令、陈胜、项梁那样振臂起事的祸乱。安危的分界，是宗庙最忧虑的事，这是臣谷永之所以胆战心惊，多年来预先进言的原因。下面有萌芽，然后灾变就会出现在上面，怎么能不谨慎！祸患从细微处兴起，奸邪在轻慢时产生。希望陛下端正君臣大义，不要再和一众小人轻慢戏谑宴饮；严格整饬三纲，整治后宫政务，抑制疏远骄横妒忌的宠妃，推崇亲近温婉柔顺的品行；朝廷法驾备好之后再出行，布置士兵清道之后再上路，不要再轻易独自出宫，到臣妾家里饮酒。这三点革除之后，内乱的路就堵死了。天下起兵，萌芽在百姓饥荒而官吏不体恤，兴起在百姓困苦而赋税沉重，爆发在下面怨恨离散而君主不知道。古传说：『饥荒而不减少用度，这叫奢侈，它的凶兆是灭亡。』连年郡国遭受水灾，禾麦没有收成，本是应当减少常税的时候，可是主管官员却奏请加赋，严重违背经义，违逆民心，是招怨取祸的做法。臣希望陛下不要批准加赋的奏章，减省奢侈的费用，广施恩惠，救济穷困的人，勉励农耕蚕桑，来安抚百姓的心，天下的祸乱或许就可以止息！」",
+      "mentions": [
+        {
+          "entity_id": "L004",
+          "entity_name": "北地",
+          "entity_type": "place",
+          "start": 19,
+          "end": 21,
+          "surface": "北地"
+        },
+        {
+          "entity_id": "P026",
+          "entity_name": "谷永",
+          "entity_type": "person",
+          "start": 23,
+          "end": 25,
+          "surface": "谷永"
+        },
+        {
+          "entity_id": "P026",
+          "entity_name": "谷永",
+          "entity_type": "person",
+          "start": 421,
+          "end": 423,
+          "surface": "谷永"
+        }
+      ]
+    },
+    {
+      "para_id": "p17",
+      "text": "中垒校尉刘向上书说：「臣听说帝舜告诫伯禹『不要像丹朱那样傲慢』，周公告诫周成王『不要像殷纣王那样』，圣帝明王常常用败乱的先例自我警戒，不避讳废兴的话题，所以臣敢极力陈述愚见，希望陛下留心省察！",
+      "mentions": [
+        {
+          "entity_id": "P027",
+          "entity_name": "刘向",
+          "entity_type": "person",
+          "start": 4,
+          "end": 6,
+          "surface": "刘向"
+        }
+      ]
+    },
+    {
+      "para_id": "p18",
+      "text": "谨查《春秋》二百四十二年之间，日食三十六次，如今连续三年发生日食，从建始年间以来，二十年间发生八次日食，大概两年零六个月就出现一次，古今少有。灾异有大小疏密，占验有缓急，看秦汉易代，看汉惠帝、汉昭帝没有后嗣，察昌邑王在位不能善终，看孝宣帝继起，都有灾异记载在汉代的史册上。上天的取舍，难道不是很明白吗！臣有幸托身为皇族远亲，确实看到陛下宽明的品德，希望能消除大灾异而兴起殷高宗、周成王那样的声誉，来尊崇刘氏，所以恳切地屡次冒着被处死的惩罚进言！天文难以通晓，臣虽然绘制了图呈上来，还是需要口头说明，才能明白；希望陛下赐给清闲的时间，指着图陈述情况。」奏书呈上，天子很为他的话感动，但最终没能采纳。",
+      "mentions": []
+    },
+    {
+      "para_id": "p19",
+      "text": "红阳侯王立举荐陈咸为方正；陈咸对策后，被任命为光禄大夫、给事中。丞相翟方进又上奏说「陈咸以前做九卿，因贪婪奸邪被免职，不应当被举荐为方正，充任内朝臣子」；并弹劾「红阳侯王立选举故意不按实情」。成帝下诏免去陈咸的官职，不弹劾王立。",
+      "mentions": [
+        {
+          "entity_id": "P012",
+          "entity_name": "王立",
+          "entity_type": "person",
+          "start": 3,
+          "end": 5,
+          "surface": "王立"
+        },
+        {
+          "entity_id": "P033",
+          "entity_name": "陈咸",
+          "entity_type": "person",
+          "start": 7,
+          "end": 9,
+          "surface": "陈咸"
+        },
+        {
+          "entity_id": "P033",
+          "entity_name": "陈咸",
+          "entity_type": "person",
+          "start": 13,
+          "end": 15,
+          "surface": "陈咸"
+        },
+        {
+          "entity_id": "P020",
+          "entity_name": "翟方进",
+          "entity_type": "person",
+          "start": 32,
+          "end": 34,
+          "surface": "丞相"
+        },
+        {
+          "entity_id": "P020",
+          "entity_name": "翟方进",
+          "entity_type": "person",
+          "start": 34,
+          "end": 37,
+          "surface": "翟方进"
+        },
+        {
+          "entity_id": "P033",
+          "entity_name": "陈咸",
+          "entity_type": "person",
+          "start": 42,
+          "end": 44,
+          "surface": "陈咸"
+        },
+        {
+          "entity_id": "P012",
+          "entity_name": "王立",
+          "entity_type": "person",
+          "start": 84,
+          "end": 86,
+          "surface": "王立"
+        },
+        {
+          "entity_id": "P033",
+          "entity_name": "陈咸",
+          "entity_type": "person",
+          "start": 102,
+          "end": 104,
+          "surface": "陈咸"
+        },
+        {
+          "entity_id": "P012",
+          "entity_name": "王立",
+          "entity_type": "person",
+          "start": 111,
+          "end": 113,
+          "surface": "王立"
+        }
+      ]
+    },
+    {
+      "para_id": "p20",
+      "text": "十二月乙未日，王商担任大将军。辛亥日，王商去世。他的弟弟红阳侯王立按顺序应当辅政；在此之前王立派门客通过南郡太守李尚占取开垦荒田几百顷，上书把这些田卖给官府，多领取价值一万万以上的钱，丞相司直孙宝揭发了这件事，成帝于是任用王立辅政，而废黜了他的弟弟光禄勋曲阳侯王根。庚申日，任命王根为大司马、车骑将军。",
+      "mentions": [
+        {
+          "entity_id": "P010",
+          "entity_name": "王商（成都侯）",
+          "entity_type": "person",
+          "start": 7,
+          "end": 9,
+          "surface": "王商"
+        },
+        {
+          "entity_id": "P010",
+          "entity_name": "王商（成都侯）",
+          "entity_type": "person",
+          "start": 19,
+          "end": 21,
+          "surface": "王商"
+        },
+        {
+          "entity_id": "P012",
+          "entity_name": "王立",
+          "entity_type": "person",
+          "start": 31,
+          "end": 33,
+          "surface": "王立"
+        },
+        {
+          "entity_id": "P012",
+          "entity_name": "王立",
+          "entity_type": "person",
+          "start": 45,
+          "end": 47,
+          "surface": "王立"
+        },
+        {
+          "entity_id": "P032",
+          "entity_name": "孙宝",
+          "entity_type": "person",
+          "start": 96,
+          "end": 98,
+          "surface": "孙宝"
+        },
+        {
+          "entity_id": "P012",
+          "entity_name": "王立",
+          "entity_type": "person",
+          "start": 111,
+          "end": 113,
+          "surface": "王立"
+        },
+        {
+          "entity_id": "P011",
+          "entity_name": "王根",
+          "entity_type": "person",
+          "start": 130,
+          "end": 132,
+          "surface": "王根"
+        },
+        {
+          "entity_id": "P011",
+          "entity_name": "王根",
+          "entity_type": "person",
+          "start": 139,
+          "end": 141,
+          "surface": "王根"
+        }
+      ]
+    },
+    {
+      "para_id": "p21",
+      "text": "特进、安昌侯张禹请求把平陵肥牛亭的土地赐给他；曲阳侯王根争辩，认为这块地正对平陵的寝庙，是昭帝衣冠出游的道路，应当另外赐给张禹其他地方。成帝不听，最终还是把这块地赐给了张禹。王根因此嫉妒张禹受宠，多次诋毁他。天子却更加敬重厚待张禹，每当张禹生病，就派人问候他的起居，亲自驾车去探望，成帝在张禹的床边拜见他，张禹叩头谢恩；张禹的小儿子没有官职，张禹多次看向他的小儿子；成帝就在张禹床边任命他为黄门侍郎、给事中。张禹虽然住在家里，以特进身份做天子的老师，国家每当有重大政事，一定和他商议决定。",
+      "mentions": [
+        {
+          "entity_id": "P021",
+          "entity_name": "张禹",
+          "entity_type": "person",
+          "start": 6,
+          "end": 8,
+          "surface": "张禹"
+        },
+        {
+          "entity_id": "L006",
+          "entity_name": "平陵",
+          "entity_type": "place",
+          "start": 11,
+          "end": 16,
+          "surface": "平陵肥牛亭"
+        },
+        {
+          "entity_id": "P011",
+          "entity_name": "王根",
+          "entity_type": "person",
+          "start": 26,
+          "end": 28,
+          "surface": "王根"
+        },
+        {
+          "entity_id": "L006",
+          "entity_name": "平陵",
+          "entity_type": "place",
+          "start": 38,
+          "end": 40,
+          "surface": "平陵"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "张禹",
+          "entity_type": "person",
+          "start": 61,
+          "end": 63,
+          "surface": "张禹"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "张禹",
+          "entity_type": "person",
+          "start": 84,
+          "end": 86,
+          "surface": "张禹"
+        },
+        {
+          "entity_id": "P011",
+          "entity_name": "王根",
+          "entity_type": "person",
+          "start": 87,
+          "end": 89,
+          "surface": "王根"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "张禹",
+          "entity_type": "person",
+          "start": 93,
+          "end": 95,
+          "surface": "张禹"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "张禹",
+          "entity_type": "person",
+          "start": 113,
+          "end": 115,
+          "surface": "张禹"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "张禹",
+          "entity_type": "person",
+          "start": 118,
+          "end": 120,
+          "surface": "张禹"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "张禹",
+          "entity_type": "person",
+          "start": 144,
+          "end": 146,
+          "surface": "张禹"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "张禹",
+          "entity_type": "person",
+          "start": 153,
+          "end": 155,
+          "surface": "张禹"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "张禹",
+          "entity_type": "person",
+          "start": 160,
+          "end": 162,
+          "surface": "张禹"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "张禹",
+          "entity_type": "person",
+          "start": 171,
+          "end": 173,
+          "surface": "张禹"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "张禹",
+          "entity_type": "person",
+          "start": 187,
+          "end": 189,
+          "surface": "张禹"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "张禹",
+          "entity_type": "person",
+          "start": 204,
+          "end": 206,
+          "surface": "张禹"
+        }
+      ]
+    },
+    {
+      "para_id": "p22",
+      "text": "当时官吏百姓很多上书谈论灾异的应验，指责是王氏专权导致的，成帝心里也颇为认同，但没有明确证实；于是成帝驾车到张禹的府第，屏退左右，亲自向张禹询问天变的事，顺便把官吏百姓所说的王氏专权的事告诉张禹。张禹见自己年老，子孙势弱，又和曲阳侯王根不和，害怕被王氏怨恨，就对成帝说：「《春秋》记载的日食、地震，有时是诸侯互相攻杀，夷狄侵犯中原。灾变的含意，深远难明，所以圣人很少谈论天命，不谈论怪力乱神。人性与天道，连子贡这些弟子都听不到，何况是见识浅陋的儒生说的话！陛下应当修明政事，以善政应对灾变，和臣下同享福祉，这才是经义的本意。那些新进学的小子，扰乱正道误导别人，不应该信用，用经术来判断就好了。」成帝向来信任宠爱张禹，从此开始怀疑王氏。后来曲阳侯王根以及王家众子弟听说了张禹的话，都很不高兴，于是疏远张禹。",
+      "mentions": [
+        {
+          "entity_id": "P021",
+          "entity_name": "张禹",
+          "entity_type": "person",
+          "start": 54,
+          "end": 56,
+          "surface": "张禹"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "张禹",
+          "entity_type": "person",
+          "start": 68,
+          "end": 70,
+          "surface": "张禹"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "张禹",
+          "entity_type": "person",
+          "start": 95,
+          "end": 97,
+          "surface": "张禹"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "张禹",
+          "entity_type": "person",
+          "start": 98,
+          "end": 100,
+          "surface": "张禹"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "张禹",
+          "entity_type": "person",
+          "start": 305,
+          "end": 307,
+          "surface": "张禹"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "张禹",
+          "entity_type": "person",
+          "start": 334,
+          "end": 336,
+          "surface": "张禹"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "张禹",
+          "entity_type": "person",
+          "start": 349,
+          "end": 351,
+          "surface": "张禹"
+        }
+      ]
+    },
+    {
+      "para_id": "p23",
+      "text": "前槐里令朱雲上书求见，公卿都在殿前，朱雲说：「如今朝廷的大臣，对上不能匡正君主，对下不能造福百姓，都是空占职位白吃饭的人，就是孔子所说的『鄙陋的人不能和他一起侍奉君主，如果怕失去职位，就什么事都做得出来』的那种人！臣希望陛下赐给尚方斩马剑，砍断一个佞臣的头来勉励其他人！」成帝问：「是谁？」朱雲回答说：「安昌侯张禹！」成帝大怒说：「小臣身居下位诽谤上级，在朝廷上侮辱帝师，罪该万死不能赦免！」御史把朱雲拉下殿，朱雲攀住殿上的栏杆，栏杆被拉断了。朱雲大喊说：「臣能到地下追随关龙逄、比干，足够了！只是不知道圣朝将会怎么样啊！」御史于是把朱雲带走。这时左将军辛庆忌的儿子摘下官帽，解下印绶，在殿下叩头说：「这个人向来以狂放正直闻名于世，如果他的话说得对，就不能杀；即使他说的不对，也本该宽容他。臣敢以死相争！」辛庆忌叩头流血；成帝的怒气消解，这件事才作罢。等到后来要修理栏杆的时候，成帝说：「换个新的，不用保留旧的了！」",
+      "mentions": [
+        {
+          "entity_id": "P021",
+          "entity_name": "张禹",
+          "entity_type": "person",
+          "start": 155,
+          "end": 157,
+          "surface": "张禹"
+        },
+        {
+          "entity_id": "P023",
+          "entity_name": "辛庆忌",
+          "entity_type": "person",
+          "start": 277,
+          "end": 280,
+          "surface": "辛庆忌"
+        },
+        {
+          "entity_id": "P023",
+          "entity_name": "辛庆忌",
+          "entity_type": "person",
+          "start": 353,
+          "end": 356,
+          "surface": "辛庆忌"
+        }
+      ]
+    },
+    {
+      "para_id": "p24",
+      "text": "匈奴搜谐单于将要入朝；还没进入边塞，就病死了。他的儿子且莫车继位，为车牙若鞮单于；任命囊知牙斯为左贤王。",
+      "mentions": [
+        {
+          "entity_id": "P070",
+          "entity_name": "搜谐单于",
+          "entity_type": "person",
+          "start": 2,
+          "end": 6,
+          "surface": "搜谐单于"
+        },
+        {
+          "entity_id": "P072",
+          "entity_name": "乌珠留单于",
+          "entity_type": "person",
+          "start": 43,
+          "end": 47,
+          "surface": "囊知牙斯"
+        }
+      ]
+    },
+    {
+      "para_id": "p25",
+      "text": "北地都尉张放到任几个月，又被召回担任侍中。太后给成帝写信说：「之前说的事还没有见效，富平侯又回来了，我能不说话吗！」成帝道歉说：「我现在就奉诏！」成帝于是把张放出京担任安定属国都尉；提拔少府许商、光禄勋师丹为光禄大夫，班伯为水衡都尉，都加侍中头衔，俸禄都是中二千石，每次朝见东宫太后，常常跟从在身边；遇到重大政事，都让他们向公卿传达皇帝的意旨。成帝也渐渐厌倦了游玩宴饮，重新研究经书；太后很高兴。",
+      "mentions": [
+        {
+          "entity_id": "L004",
+          "entity_name": "北地",
+          "entity_type": "place",
+          "start": 0,
+          "end": 2,
+          "surface": "北地"
+        },
+        {
+          "entity_id": "P038",
+          "entity_name": "张放",
+          "entity_type": "person",
+          "start": 4,
+          "end": 6,
+          "surface": "张放"
+        },
+        {
+          "entity_id": "P002",
+          "entity_name": "王政君",
+          "entity_type": "person",
+          "start": 21,
+          "end": 23,
+          "surface": "太后"
+        },
+        {
+          "entity_id": "P038",
+          "entity_name": "张放",
+          "entity_type": "person",
+          "start": 78,
+          "end": 80,
+          "surface": "张放"
+        },
+        {
+          "entity_id": "P037",
+          "entity_name": "许商",
+          "entity_type": "person",
+          "start": 95,
+          "end": 97,
+          "surface": "许商"
+        },
+        {
+          "entity_id": "P035",
+          "entity_name": "师丹",
+          "entity_type": "person",
+          "start": 101,
+          "end": 103,
+          "surface": "师丹"
+        },
+        {
+          "entity_id": "P036",
+          "entity_name": "班伯",
+          "entity_type": "person",
+          "start": 109,
+          "end": 111,
+          "surface": "班伯"
+        },
+        {
+          "entity_id": "P002",
+          "entity_name": "王政君",
+          "entity_type": "person",
+          "start": 137,
+          "end": 139,
+          "surface": "东宫"
+        },
+        {
+          "entity_id": "P002",
+          "entity_name": "王政君",
+          "entity_type": "person",
+          "start": 139,
+          "end": 141,
+          "surface": "太后"
+        },
+        {
+          "entity_id": "P002",
+          "entity_name": "王政君",
+          "entity_type": "person",
+          "start": 192,
+          "end": 194,
+          "surface": "太后"
+        }
+      ]
+    },
+    {
+      "para_id": "p26",
+      "text": "这一年，左将军辛庆忌去世。辛庆忌是国家的虎将，身处太平之世，匈奴、西域都亲附汉朝，敬重他的威望信义。",
+      "mentions": [
+        {
+          "entity_id": "P023",
+          "entity_name": "辛庆忌",
+          "entity_type": "person",
+          "start": 7,
+          "end": 10,
+          "surface": "辛庆忌"
+        },
+        {
+          "entity_id": "P023",
+          "entity_name": "辛庆忌",
+          "entity_type": "person",
+          "start": 13,
+          "end": 16,
+          "surface": "辛庆忌"
+        }
+      ]
+    },
+    {
+      "para_id": "p27",
+      "text": "元延二年，庚戌年，公元前11年。",
+      "mentions": []
+    },
+    {
+      "para_id": "p28",
+      "text": "春季正月，成帝前往甘泉宫，在泰畤祭天。三月，前往河东郡，祭祀后土。祭祀完毕，途中游览龙门，登上历观，攀上西岳华山然后返回。",
+      "mentions": [
+        {
+          "entity_id": "L001",
+          "entity_name": "甘泉",
+          "entity_type": "place",
+          "start": 9,
+          "end": 12,
+          "surface": "甘泉宫"
+        },
+        {
+          "entity_id": "L002",
+          "entity_name": "河东",
+          "entity_type": "place",
+          "start": 24,
+          "end": 26,
+          "surface": "河东"
+        }
+      ]
+    },
+    {
+      "para_id": "p29",
+      "text": "夏季四月，立广陵孝王的儿子刘守为广陵王。",
+      "mentions": []
+    },
+    {
+      "para_id": "p30",
+      "text": "当初，乌孙小昆弥安日被投降的人杀死，各翖侯大乱；成帝下诏征召前金城太守段会宗为左曹、中郎将、光禄大夫，派他去安抚乌孙；立安日的弟弟末振将为小昆弥，安定乌孙之后返回。当时大昆弥雌栗靡勇猛强健，末振将害怕被他吞并，派贵族乌日领假装投降，刺杀了雌栗靡；汉朝想出兵讨伐他却没能做到，派中郎将段会宗的后人立安日弟弟的儿子伊秩靡为大昆弥。过了很久，大昆弥、翕侯难栖杀死了末振将，末振将哥哥安日的儿子安犁靡代替做小昆弥。汉朝遗憾没有亲自诛杀末振将，又派段会宗去诛杀他的太子番丘；段会宗担心大军进入乌孙，会惊跑番丘，就把所征调的军队留在垫娄地区，挑选三十名擅长用弩的精兵，直接到昆弥所在的地方，召来番丘，责备他说「末振将骨肉相残，杀死汉朝公主的子孙，没有被诛杀就死了，我奉诏书来诛杀番丘」，当即用剑亲手杀死番丘。番丘的部下惊恐，骑马逃回。小昆弥乌犁靡率领几千骑兵包围段会宗，段会宗向他们说明来诛杀番丘的用意：「现在你们包围杀死我，就像拔汉朝牛身上的一根毛罢了。宛王、郅支单于的头悬挂在槀街，是乌孙人所知道的。」昆弥以下的人都服了，说：「末振将背叛汉朝，诛杀他的儿子是应该的，就不能先告诉我，让我给他最后一顿饭吃吗？」段会宗说：「预先告诉昆弥，你让他逃跑藏匿起来，就是大罪；如果给他饭吃再交给我，又伤害了骨肉恩情；所以没有先告诉你。」昆弥以下的人都哭着撤兵离开。段会宗回到长安，奏报事情经过，天子赐段会宗列侯爵位，黄金一百斤。段会宗因为乌孙局势难以安定，就留在那里处理事务。",
+      "mentions": [
+        {
+          "entity_id": "L012",
+          "entity_name": "乌孙",
+          "entity_type": "place",
+          "start": 3,
+          "end": 5,
+          "surface": "乌孙"
+        },
+        {
+          "entity_id": "P073",
+          "entity_name": "安日",
+          "entity_type": "person",
+          "start": 8,
+          "end": 10,
+          "surface": "安日"
+        },
+        {
+          "entity_id": "L011",
+          "entity_name": "金城",
+          "entity_type": "place",
+          "start": 31,
+          "end": 33,
+          "surface": "金城"
+        },
+        {
+          "entity_id": "P028",
+          "entity_name": "段会宗",
+          "entity_type": "person",
+          "start": 35,
+          "end": 38,
+          "surface": "段会宗"
+        },
+        {
+          "entity_id": "L012",
+          "entity_name": "乌孙",
+          "entity_type": "place",
+          "start": 56,
+          "end": 58,
+          "surface": "乌孙"
+        },
+        {
+          "entity_id": "P073",
+          "entity_name": "安日",
+          "entity_type": "person",
+          "start": 60,
+          "end": 62,
+          "surface": "安日"
+        },
+        {
+          "entity_id": "P074",
+          "entity_name": "末振将",
+          "entity_type": "person",
+          "start": 65,
+          "end": 68,
+          "surface": "末振将"
+        },
+        {
+          "entity_id": "L012",
+          "entity_name": "乌孙",
+          "entity_type": "place",
+          "start": 75,
+          "end": 77,
+          "surface": "乌孙"
+        },
+        {
+          "entity_id": "P075",
+          "entity_name": "雌栗靡",
+          "entity_type": "person",
+          "start": 87,
+          "end": 90,
+          "surface": "雌栗靡"
+        },
+        {
+          "entity_id": "P074",
+          "entity_name": "末振将",
+          "entity_type": "person",
+          "start": 95,
+          "end": 98,
+          "surface": "末振将"
+        },
+        {
+          "entity_id": "P075",
+          "entity_name": "雌栗靡",
+          "entity_type": "person",
+          "start": 119,
+          "end": 122,
+          "surface": "雌栗靡"
+        },
+        {
+          "entity_id": "P028",
+          "entity_name": "段会宗",
+          "entity_type": "person",
+          "start": 141,
+          "end": 144,
+          "surface": "段会宗"
+        },
+        {
+          "entity_id": "P073",
+          "entity_name": "安日",
+          "entity_type": "person",
+          "start": 148,
+          "end": 150,
+          "surface": "安日"
+        },
+        {
+          "entity_id": "P076",
+          "entity_name": "伊秩靡",
+          "entity_type": "person",
+          "start": 155,
+          "end": 158,
+          "surface": "伊秩靡"
+        },
+        {
+          "entity_id": "P074",
+          "entity_name": "末振将",
+          "entity_type": "person",
+          "start": 179,
+          "end": 182,
+          "surface": "末振将"
+        },
+        {
+          "entity_id": "P074",
+          "entity_name": "末振将",
+          "entity_type": "person",
+          "start": 183,
+          "end": 186,
+          "surface": "末振将"
+        },
+        {
+          "entity_id": "P073",
+          "entity_name": "安日",
+          "entity_type": "person",
+          "start": 188,
+          "end": 190,
+          "surface": "安日"
+        },
+        {
+          "entity_id": "P077",
+          "entity_name": "安犁靡",
+          "entity_type": "person",
+          "start": 193,
+          "end": 196,
+          "surface": "安犁靡"
+        },
+        {
+          "entity_id": "P074",
+          "entity_name": "末振将",
+          "entity_type": "person",
+          "start": 213,
+          "end": 216,
+          "surface": "末振将"
+        },
+        {
+          "entity_id": "P028",
+          "entity_name": "段会宗",
+          "entity_type": "person",
+          "start": 219,
+          "end": 222,
+          "surface": "段会宗"
+        },
+        {
+          "entity_id": "P079",
+          "entity_name": "番丘",
+          "entity_type": "person",
+          "start": 229,
+          "end": 231,
+          "surface": "番丘"
+        },
+        {
+          "entity_id": "P028",
+          "entity_name": "段会宗",
+          "entity_type": "person",
+          "start": 232,
+          "end": 235,
+          "surface": "段会宗"
+        },
+        {
+          "entity_id": "L012",
+          "entity_name": "乌孙",
+          "entity_type": "place",
+          "start": 241,
+          "end": 243,
+          "surface": "乌孙"
+        },
+        {
+          "entity_id": "P079",
+          "entity_name": "番丘",
+          "entity_type": "person",
+          "start": 247,
+          "end": 249,
+          "surface": "番丘"
+        },
+        {
+          "entity_id": "P079",
+          "entity_name": "番丘",
+          "entity_type": "person",
+          "start": 291,
+          "end": 293,
+          "surface": "番丘"
+        },
+        {
+          "entity_id": "P074",
+          "entity_name": "末振将",
+          "entity_type": "person",
+          "start": 299,
+          "end": 302,
+          "surface": "末振将"
+        },
+        {
+          "entity_id": "P079",
+          "entity_name": "番丘",
+          "entity_type": "person",
+          "start": 333,
+          "end": 335,
+          "surface": "番丘"
+        },
+        {
+          "entity_id": "P079",
+          "entity_name": "番丘",
+          "entity_type": "person",
+          "start": 345,
+          "end": 347,
+          "surface": "番丘"
+        },
+        {
+          "entity_id": "P079",
+          "entity_name": "番丘",
+          "entity_type": "person",
+          "start": 348,
+          "end": 350,
+          "surface": "番丘"
+        },
+        {
+          "entity_id": "P028",
+          "entity_name": "段会宗",
+          "entity_type": "person",
+          "start": 375,
+          "end": 378,
+          "surface": "段会宗"
+        },
+        {
+          "entity_id": "P028",
+          "entity_name": "段会宗",
+          "entity_type": "person",
+          "start": 379,
+          "end": 382,
+          "surface": "段会宗"
+        },
+        {
+          "entity_id": "P079",
+          "entity_name": "番丘",
+          "entity_type": "person",
+          "start": 390,
+          "end": 392,
+          "surface": "番丘"
+        },
+        {
+          "entity_id": "L012",
+          "entity_name": "乌孙",
+          "entity_type": "place",
+          "start": 438,
+          "end": 440,
+          "surface": "乌孙"
+        },
+        {
+          "entity_id": "P074",
+          "entity_name": "末振将",
+          "entity_type": "person",
+          "start": 460,
+          "end": 463,
+          "surface": "末振将"
+        },
+        {
+          "entity_id": "P028",
+          "entity_name": "段会宗",
+          "entity_type": "person",
+          "start": 500,
+          "end": 503,
+          "surface": "段会宗"
+        },
+        {
+          "entity_id": "P028",
+          "entity_name": "段会宗",
+          "entity_type": "person",
+          "start": 572,
+          "end": 575,
+          "surface": "段会宗"
+        },
+        {
+          "entity_id": "P028",
+          "entity_name": "段会宗",
+          "entity_type": "person",
+          "start": 590,
+          "end": 593,
+          "surface": "段会宗"
+        },
+        {
+          "entity_id": "P028",
+          "entity_name": "段会宗",
+          "entity_type": "person",
+          "start": 604,
+          "end": 607,
+          "surface": "段会宗"
+        },
+        {
+          "entity_id": "L012",
+          "entity_name": "乌孙",
+          "entity_type": "place",
+          "start": 609,
+          "end": 611,
+          "surface": "乌孙"
+        }
+      ]
+    },
+    {
+      "para_id": "p31",
+      "text": "自从乌孙分立两个昆弥，汉朝因此忧虑辛劳，没有安宁的年岁。当时康居又派王子到汉朝侍奉天子，进献贡品，都护郭舜上书说：「当初匈奴强盛的时候，并不是因为兼并了乌孙、康居的缘故；等到它向汉朝称臣，也不是因为失去了这两个国家。汉朝虽然都接受了他们的质子，可是三国之间互相馈赠，往来和以前一样；也互相侦察，看到有机可乘就发兵：关系好的时候不能互相信任，关系坏的时候也不能互相臣服役使。从现在的情况看，与乌孙结亲最终没有好处，反而给中原生出事端。但是乌孙已经和我们结亲在前，如今和匈奴都称臣，按道义不能拒绝。而康居骄横狡黠，始终不肯拜见汉朝使者；都护的官吏到他们国家，让他们坐在乌孙各位使者的下位，国王和贵人先吃喝完，才让都护的官吏吃喝，故意做出这种看不起汉朝的样子来向邻国夸耀。从这一点推测，他们为什么派王子入朝侍奉？是想做买卖，用好话行诈罢了。匈奴是百蛮中的大国，如今侍奉汉朝很周全；听说康居不拜汉使，将会让单于产生自己侍奉汉朝太卑下的想法。应当送回康居的侍子，断绝关系不再派使者，以表明汉朝不与无礼的国家交往！」汉朝因为康居刚刚通好，重视招徕远方国家，最终还是笼络不断绝关系。",
+      "mentions": [
+        {
+          "entity_id": "L012",
+          "entity_name": "乌孙",
+          "entity_type": "place",
+          "start": 2,
+          "end": 4,
+          "surface": "乌孙"
+        },
+        {
+          "entity_id": "L013",
+          "entity_name": "康居",
+          "entity_type": "place",
+          "start": 30,
+          "end": 32,
+          "surface": "康居"
+        },
+        {
+          "entity_id": "P045",
+          "entity_name": "郭舜",
+          "entity_type": "person",
+          "start": 51,
+          "end": 53,
+          "surface": "郭舜"
+        },
+        {
+          "entity_id": "L012",
+          "entity_name": "乌孙",
+          "entity_type": "place",
+          "start": 76,
+          "end": 78,
+          "surface": "乌孙"
+        },
+        {
+          "entity_id": "L013",
+          "entity_name": "康居",
+          "entity_type": "place",
+          "start": 79,
+          "end": 81,
+          "surface": "康居"
+        },
+        {
+          "entity_id": "L012",
+          "entity_name": "乌孙",
+          "entity_type": "place",
+          "start": 195,
+          "end": 197,
+          "surface": "乌孙"
+        },
+        {
+          "entity_id": "L012",
+          "entity_name": "乌孙",
+          "entity_type": "place",
+          "start": 218,
+          "end": 220,
+          "surface": "乌孙"
+        },
+        {
+          "entity_id": "L013",
+          "entity_name": "康居",
+          "entity_type": "place",
+          "start": 248,
+          "end": 250,
+          "surface": "康居"
+        },
+        {
+          "entity_id": "L012",
+          "entity_name": "乌孙",
+          "entity_type": "place",
+          "start": 282,
+          "end": 284,
+          "surface": "乌孙"
+        },
+        {
+          "entity_id": "L013",
+          "entity_name": "康居",
+          "entity_type": "place",
+          "start": 389,
+          "end": 391,
+          "surface": "康居"
+        },
+        {
+          "entity_id": "L013",
+          "entity_name": "康居",
+          "entity_type": "place",
+          "start": 420,
+          "end": 422,
+          "surface": "康居"
+        },
+        {
+          "entity_id": "L013",
+          "entity_name": "康居",
+          "entity_type": "place",
+          "start": 456,
+          "end": 458,
+          "surface": "康居"
+        }
+      ]
+    },
+    {
+      "para_id": "p32",
+      "text": "元延三年，辛亥年，公元前10年。",
+      "mentions": []
+    },
+    {
+      "para_id": "p33",
+      "text": "春季正月丙寅日，蜀郡岷山发生山崩，堵塞长江三天，江水枯竭。刘向非常厌恶这件事，说：「从前周朝岐山崩塌，泾、渭、洛三条河枯竭，周幽王就灭亡了。岐山是周朝兴起的地方。汉朝本来兴起于蜀、汉地区，如今兴起的地方山崩河枯，彗星又扫过摄提、大角星区，从参宿一直到辰宿，大概一定要灭亡了！」",
+      "mentions": [
+        {
+          "entity_id": "L014",
+          "entity_name": "蜀郡",
+          "entity_type": "place",
+          "start": 8,
+          "end": 10,
+          "surface": "蜀郡"
+        },
+        {
+          "entity_id": "L015",
+          "entity_name": "岷山",
+          "entity_type": "place",
+          "start": 10,
+          "end": 12,
+          "surface": "岷山"
+        },
+        {
+          "entity_id": "P027",
+          "entity_name": "刘向",
+          "entity_type": "person",
+          "start": 29,
+          "end": 31,
+          "surface": "刘向"
+        }
+      ]
+    },
+    {
+      "para_id": "p34",
+      "text": "二月丙午日，封淳于长为定陶侯。",
+      "mentions": [
+        {
+          "entity_id": "P014",
+          "entity_name": "淳于长",
+          "entity_type": "person",
+          "start": 7,
+          "end": 10,
+          "surface": "淳于长"
+        }
+      ]
+    },
+    {
+      "para_id": "p35",
+      "text": "三月，成帝前往雍县，祭祀五畤。",
+      "mentions": []
+    },
+    {
+      "para_id": "p36",
+      "text": "成帝想要向胡人夸耀有很多禽兽，秋季，命令右扶风征发百姓进入南山，西从陇坻，东到弘农郡，南面直到汉中，张开罗网，捕捉熊罴等禽兽，用槛车装载，运到上林苑射熊馆，用网围成圈阵，把禽兽放在里面，让胡人徒手搏斗，自己获取猎物，成帝亲自到场观看。这时候百姓不能收割庄稼。",
+      "mentions": [
+        {
+          "entity_id": "L016",
+          "entity_name": "南山",
+          "entity_type": "place",
+          "start": 29,
+          "end": 31,
+          "surface": "南山"
+        },
+        {
+          "entity_id": "L018",
+          "entity_name": "弘农",
+          "entity_type": "place",
+          "start": 39,
+          "end": 41,
+          "surface": "弘农"
+        },
+        {
+          "entity_id": "L019",
+          "entity_name": "汉中",
+          "entity_type": "place",
+          "start": 47,
+          "end": 49,
+          "surface": "汉中"
+        }
+      ]
+    },
+    {
+      "para_id": "p37",
+      "text": "元延四年，壬子年，公元前9年。",
+      "mentions": []
+    },
+    {
+      "para_id": "p38",
+      "text": "春季正月，成帝前往甘泉宫，在泰畤祭天。",
+      "mentions": [
+        {
+          "entity_id": "L001",
+          "entity_name": "甘泉",
+          "entity_type": "place",
+          "start": 9,
+          "end": 12,
+          "surface": "甘泉宫"
+        }
+      ]
+    },
+    {
+      "para_id": "p39",
+      "text": "中山王刘兴、定陶王刘欣都来朝见，中山王只带了太傅，定陶王却把太傅、国相、中尉都带来了。成帝觉得奇怪，就问定陶王，定陶王回答说：「汉朝法令规定：诸侯王朝见天子，可以随从封国的二千石官员。太傅、国相、中尉都是封国的二千石官员，所以让他们都跟着来。」成帝让他背诵《诗经》，他能熟练背诵，还能讲解。另一天，成帝问中山王：「你只带太傅来是根据什么法令？」中山王答不上来；让他背诵《尚书》，又背不下来；等到成帝在面前赐食，中山王最后一个吃完；起身离席时，袜带开了。成帝因此认为中山王没有才能，而认为定陶王贤能，多次称赞他的才能。当时诸侯王只有这两个人和成帝是最亲近的亲属，定陶王的母亲傅太后跟着定陶王来朝见，私下贿赂赵昭仪以及成帝的舅舅骠骑将军王根。赵昭仪、王根见成帝没有儿子，也想预先结交定陶王做长远打算，都接连称赞定陶王，劝成帝立他为继承人。成帝自己也觉得定陶王才能出众，为他举行加冠礼之后送他回国，当时定陶王十七岁。",
+      "mentions": [
+        {
+          "entity_id": "L032",
+          "entity_name": "中山",
+          "entity_type": "place",
+          "start": 0,
+          "end": 2,
+          "surface": "中山"
+        },
+        {
+          "entity_id": "P004",
+          "entity_name": "刘兴",
+          "entity_type": "person",
+          "start": 3,
+          "end": 5,
+          "surface": "刘兴"
+        },
+        {
+          "entity_id": "L031",
+          "entity_name": "定陶",
+          "entity_type": "place",
+          "start": 6,
+          "end": 8,
+          "surface": "定陶"
+        },
+        {
+          "entity_id": "P003",
+          "entity_name": "刘欣",
+          "entity_type": "person",
+          "start": 9,
+          "end": 11,
+          "surface": "刘欣"
+        },
+        {
+          "entity_id": "L032",
+          "entity_name": "中山",
+          "entity_type": "place",
+          "start": 16,
+          "end": 18,
+          "surface": "中山"
+        },
+        {
+          "entity_id": "L031",
+          "entity_name": "定陶",
+          "entity_type": "place",
+          "start": 25,
+          "end": 27,
+          "surface": "定陶"
+        },
+        {
+          "entity_id": "L031",
+          "entity_name": "定陶",
+          "entity_type": "place",
+          "start": 52,
+          "end": 54,
+          "surface": "定陶"
+        },
+        {
+          "entity_id": "L031",
+          "entity_name": "定陶",
+          "entity_type": "place",
+          "start": 56,
+          "end": 58,
+          "surface": "定陶"
+        },
+        {
+          "entity_id": "L032",
+          "entity_name": "中山",
+          "entity_type": "place",
+          "start": 152,
+          "end": 154,
+          "surface": "中山"
+        },
+        {
+          "entity_id": "L032",
+          "entity_name": "中山",
+          "entity_type": "place",
+          "start": 172,
+          "end": 174,
+          "surface": "中山"
+        },
+        {
+          "entity_id": "L032",
+          "entity_name": "中山",
+          "entity_type": "place",
+          "start": 205,
+          "end": 207,
+          "surface": "中山"
+        },
+        {
+          "entity_id": "L032",
+          "entity_name": "中山",
+          "entity_type": "place",
+          "start": 232,
+          "end": 234,
+          "surface": "中山"
+        },
+        {
+          "entity_id": "L031",
+          "entity_name": "定陶",
+          "entity_type": "place",
+          "start": 243,
+          "end": 245,
+          "surface": "定陶"
+        },
+        {
+          "entity_id": "L031",
+          "entity_name": "定陶",
+          "entity_type": "place",
+          "start": 280,
+          "end": 282,
+          "surface": "定陶"
+        },
+        {
+          "entity_id": "P060",
+          "entity_name": "傅太后",
+          "entity_type": "person",
+          "start": 286,
+          "end": 289,
+          "surface": "傅太后"
+        },
+        {
+          "entity_id": "L031",
+          "entity_name": "定陶",
+          "entity_type": "place",
+          "start": 291,
+          "end": 293,
+          "surface": "定陶"
+        },
+        {
+          "entity_id": "P058",
+          "entity_name": "赵昭仪",
+          "entity_type": "person",
+          "start": 302,
+          "end": 305,
+          "surface": "赵昭仪"
+        },
+        {
+          "entity_id": "P058",
+          "entity_name": "赵昭仪",
+          "entity_type": "person",
+          "start": 319,
+          "end": 322,
+          "surface": "赵昭仪"
+        },
+        {
+          "entity_id": "L031",
+          "entity_name": "定陶",
+          "entity_type": "place",
+          "start": 339,
+          "end": 341,
+          "surface": "定陶"
+        },
+        {
+          "entity_id": "L031",
+          "entity_name": "定陶",
+          "entity_type": "place",
+          "start": 353,
+          "end": 355,
+          "surface": "定陶"
+        },
+        {
+          "entity_id": "L031",
+          "entity_name": "定陶",
+          "entity_type": "place",
+          "start": 374,
+          "end": 376,
+          "surface": "定陶"
+        },
+        {
+          "entity_id": "L031",
+          "entity_name": "定陶",
+          "entity_type": "place",
+          "start": 398,
+          "end": 400,
+          "surface": "定陶"
+        }
+      ]
+    },
+    {
+      "para_id": "p40",
+      "text": "三月，成帝前往河东郡，祭祀后土。",
+      "mentions": [
+        {
+          "entity_id": "L002",
+          "entity_name": "河东",
+          "entity_type": "place",
+          "start": 7,
+          "end": 9,
+          "surface": "河东"
+        }
+      ]
+    },
+    {
+      "para_id": "p41",
+      "text": "有两块陨石坠落在关西地区。",
+      "mentions": []
+    },
+    {
+      "para_id": "p42",
+      "text": "王根举荐谷永，谷永被征召入朝，担任大司农。谷永前后上书四十多件事，内容大致重复，专门攻击成帝本人和后宫而已；他不党附王氏，成帝也知道，不怎么亲信他。谷永担任大司农一年多，生病；病假满三个月，成帝没有赐他带俸休假，当即免去官职。几个月后，谷永去世。",
+      "mentions": [
+        {
+          "entity_id": "P011",
+          "entity_name": "王根",
+          "entity_type": "person",
+          "start": 0,
+          "end": 2,
+          "surface": "王根"
+        },
+        {
+          "entity_id": "P026",
+          "entity_name": "谷永",
+          "entity_type": "person",
+          "start": 4,
+          "end": 6,
+          "surface": "谷永"
+        },
+        {
+          "entity_id": "P026",
+          "entity_name": "谷永",
+          "entity_type": "person",
+          "start": 7,
+          "end": 9,
+          "surface": "谷永"
+        },
+        {
+          "entity_id": "P026",
+          "entity_name": "谷永",
+          "entity_type": "person",
+          "start": 21,
+          "end": 23,
+          "surface": "谷永"
+        },
+        {
+          "entity_id": "P026",
+          "entity_name": "谷永",
+          "entity_type": "person",
+          "start": 74,
+          "end": 76,
+          "surface": "谷永"
+        },
+        {
+          "entity_id": "P026",
+          "entity_name": "谷永",
+          "entity_type": "person",
+          "start": 118,
+          "end": 120,
+          "surface": "谷永"
+        }
+      ]
+    },
+    {
+      "para_id": "p43",
+      "text": "汉成帝绥和元年，癸丑年，公元前8年。",
+      "mentions": []
+    },
+    {
+      "para_id": "p44",
+      "text": "春季正月，大赦天下。",
+      "mentions": []
+    },
+    {
+      "para_id": "p45",
+      "text": "成帝召丞相翟方进、御史大夫孔光、右将军廉褒、后将军朱博进入宫中，商议「中山王、定陶王谁适合做继承人」。翟方进、王根、廉褒、朱博都认为：「定陶王是皇帝兄长的儿子。礼制说：『兄弟的儿子，就如同自己的儿子。做了继承人，就是儿子了。』定陶王适合做继承人。」只有孔光认为：「礼制，立继承人要根据血缘亲疏。按照《尚书·盘庚》记载的商代王位传承，哥哥去世弟弟继位。中山王是先帝的儿子，是皇帝的亲弟弟，适合做继承人。」成帝认为「中山王没有才能，而且根据礼制，兄弟不能相继入宗庙」，没有听从孔光的意见。二月癸丑日，下诏立定陶王刘欣为皇太子，封中山王的舅舅谏大夫冯参为宜乡侯，增加中山国封邑三万户，来安慰中山王的心意；派执金吾任宏代理大鸿胪，持符节征召定陶王入京。定陶王推辞说：「臣的资质才能不足以充任太子；臣希望暂且留在京师的定陶国府邸，早晚侍奉问候陛下起居，等陛下有了亲生继承人，我就回到封国守藩。」奏书呈上，天子回复知道了。戊午日，孔光因为议论不合皇帝心意，被提拔为御史大夫；任何武为廷尉。",
+      "mentions": [
+        {
+          "entity_id": "P020",
+          "entity_name": "翟方进",
+          "entity_type": "person",
+          "start": 3,
+          "end": 5,
+          "surface": "丞相"
+        },
+        {
+          "entity_id": "P020",
+          "entity_name": "翟方进",
+          "entity_type": "person",
+          "start": 5,
+          "end": 8,
+          "surface": "翟方进"
+        },
+        {
+          "entity_id": "P025",
+          "entity_name": "孔光",
+          "entity_type": "person",
+          "start": 13,
+          "end": 15,
+          "surface": "孔光"
+        },
+        {
+          "entity_id": "P030",
+          "entity_name": "朱博",
+          "entity_type": "person",
+          "start": 25,
+          "end": 27,
+          "surface": "朱博"
+        },
+        {
+          "entity_id": "P020",
+          "entity_name": "翟方进",
+          "entity_type": "person",
+          "start": 51,
+          "end": 54,
+          "surface": "翟方进"
+        },
+        {
+          "entity_id": "P030",
+          "entity_name": "朱博",
+          "entity_type": "person",
+          "start": 61,
+          "end": 63,
+          "surface": "朱博"
+        },
+        {
+          "entity_id": "P025",
+          "entity_name": "孔光",
+          "entity_type": "person",
+          "start": 126,
+          "end": 128,
+          "surface": "孔光"
+        },
+        {
+          "entity_id": "P025",
+          "entity_name": "孔光",
+          "entity_type": "person",
+          "start": 236,
+          "end": 238,
+          "surface": "孔光"
+        },
+        {
+          "entity_id": "P025",
+          "entity_name": "孔光",
+          "entity_type": "person",
+          "start": 409,
+          "end": 411,
+          "surface": "孔光"
+        }
+      ]
+    },
+    {
+      "para_id": "p46",
+      "text": "当初，下诏寻找殷商的后裔，殷商后裔分散为十几个姓氏，寻访嫡系子孙，没能找到。匡衡、梅福都认为应该封孔子的后裔作为商汤的后代，成帝听从了，封孔吉为殷绍嘉公。三月，孔吉和周承休侯都晋升爵位为公爵，封地各一百里。",
+      "mentions": [
+        {
+          "entity_id": "P048",
+          "entity_name": "梅福",
+          "entity_type": "person",
+          "start": 41,
+          "end": 43,
+          "surface": "梅福"
+        }
+      ]
+    },
+    {
+      "para_id": "p47",
+      "text": "成帝前往雍县，祭祀五畤。",
+      "mentions": []
+    },
+    {
+      "para_id": "p48",
+      "text": "当初，孔光担任廷尉时，建议说：「末世风俗的弊病，是政事繁多，宰相的才能赶不上古代，而丞相一个人兼任三公的事务，这是政事长久荒废得不到治理的原因。应当设立三公官职。」成帝听从了。夏季四月，赐给曲阳侯王根大司马印信绶带，设置属官，撤销骠骑将军官职；任命御史大夫何武为大司空，封泛阳侯；俸禄都增加到和丞相一样，来配齐三公的职位。",
+      "mentions": [
+        {
+          "entity_id": "C001",
+          "entity_name": "三公",
+          "entity_type": "concept",
+          "start": 49,
+          "end": 51,
+          "surface": "三公"
+        },
+        {
+          "entity_id": "C001",
+          "entity_name": "三公",
+          "entity_type": "concept",
+          "start": 76,
+          "end": 78,
+          "surface": "三公"
+        },
+        {
+          "entity_id": "P011",
+          "entity_name": "王根",
+          "entity_type": "person",
+          "start": 98,
+          "end": 100,
+          "surface": "王根"
+        },
+        {
+          "entity_id": "P024",
+          "entity_name": "何武",
+          "entity_type": "person",
+          "start": 128,
+          "end": 130,
+          "surface": "何武"
+        },
+        {
+          "entity_id": "C001",
+          "entity_name": "三公",
+          "entity_type": "concept",
+          "start": 155,
+          "end": 157,
+          "surface": "三公"
+        }
+      ]
+    },
+    {
+      "para_id": "p49",
+      "text": "秋季八月庚戌日，中山孝王刘兴去世。",
+      "mentions": [
+        {
+          "entity_id": "L032",
+          "entity_name": "中山",
+          "entity_type": "place",
+          "start": 8,
+          "end": 10,
+          "surface": "中山"
+        },
+        {
+          "entity_id": "P004",
+          "entity_name": "刘兴",
+          "entity_type": "person",
+          "start": 12,
+          "end": 14,
+          "surface": "刘兴"
+        }
+      ]
+    },
+    {
+      "para_id": "p50",
+      "text": "匈奴车牙单于去世；弟弟囊知牙斯继位，为乌珠留若鞮单于。乌珠留单于继位后，任命弟弟乐为左贤王，舆为右贤王，汉朝派中郎将夏侯藩、副校尉韩容出使匈奴。",
+      "mentions": [
+        {
+          "entity_id": "P071",
+          "entity_name": "车牙单于",
+          "entity_type": "person",
+          "start": 2,
+          "end": 6,
+          "surface": "车牙单于"
+        },
+        {
+          "entity_id": "P072",
+          "entity_name": "乌珠留单于",
+          "entity_type": "person",
+          "start": 11,
+          "end": 15,
+          "surface": "囊知牙斯"
+        },
+        {
+          "entity_id": "P072",
+          "entity_name": "乌珠留单于",
+          "entity_type": "person",
+          "start": 27,
+          "end": 32,
+          "surface": "乌珠留单于"
+        },
+        {
+          "entity_id": "P039",
+          "entity_name": "夏侯藩",
+          "entity_type": "person",
+          "start": 58,
+          "end": 61,
+          "surface": "夏侯藩"
+        }
+      ]
+    },
+    {
+      "para_id": "p51",
+      "text": "有人劝王根说：「匈奴有块土地像斗一样伸入汉朝境内，正对酒泉郡。那里出产优质的箭杆材料和鹫鸟羽毛；如果得到这块地，边境会很富饶，国家有扩大领土的实利，将军的功绩也会流传无穷！」王根向成帝说了这块地的好处，成帝想直接向单于索要，又担心要不回来，损害诏命威严。王根就把成帝的意思告诉夏侯藩，让他以自己的意思向单于索要。夏侯藩到了匈奴，在谈话中劝单于说：「我见匈奴有块地伸入汉朝，正对酒泉，汉朝有三个都尉驻扎在塞上，士兵几百人，受寒辛苦，守望瞭望长期劳累，单于应该上书献出这块地，直接划割给汉朝，可以省去两个都尉的几百名士兵，来报答天子的厚恩，天子的回报一定会很丰厚！」单于说：「这是天子诏命说的，还是使者你自己要求的？」夏侯藩说：「是诏命的意旨；不过我也是为单于谋划好办法罢了。」单于说：「这是温偶駼王居住的地方，我不知道那里的地形、物产，请让我派使者去问问。」",
+      "mentions": [
+        {
+          "entity_id": "P039",
+          "entity_name": "夏侯藩",
+          "entity_type": "person",
+          "start": 138,
+          "end": 141,
+          "surface": "夏侯藩"
+        },
+        {
+          "entity_id": "P039",
+          "entity_name": "夏侯藩",
+          "entity_type": "person",
+          "start": 156,
+          "end": 159,
+          "surface": "夏侯藩"
+        },
+        {
+          "entity_id": "P039",
+          "entity_name": "夏侯藩",
+          "entity_type": "person",
+          "start": 307,
+          "end": 310,
+          "surface": "夏侯藩"
+        }
+      ]
+    },
+    {
+      "para_id": "p52",
+      "text": "夏侯藩、韩容回到汉朝后，又出使匈奴，到了之后就索要土地。单于说：「这块地父兄相传五代，汉朝都不索要，到我这代偏偏要，为什么？我已经问过温偶駼王，匈奴西边的诸侯制作帐篷和车辆，都靠这座山的木材，而且这是先父留下的土地，不敢失去。」夏侯藩返回汉朝，因求地之事被处死。单于派使者上书，把夏侯藩求地的情况报告朝廷。成帝下诏回复单于说：「夏侯藩擅自假称诏命，向单于求地，依法应当处死；经过两次大赦，现在已经将他明正典刑。」",
+      "mentions": [
+        {
+          "entity_id": "P039",
+          "entity_name": "夏侯藩",
+          "entity_type": "person",
+          "start": 0,
+          "end": 3,
+          "surface": "夏侯藩"
+        },
+        {
+          "entity_id": "P039",
+          "entity_name": "夏侯藩",
+          "entity_type": "person",
+          "start": 114,
+          "end": 117,
+          "surface": "夏侯藩"
+        },
+        {
+          "entity_id": "P039",
+          "entity_name": "夏侯藩",
+          "entity_type": "person",
+          "start": 140,
+          "end": 143,
+          "surface": "夏侯藩"
+        },
+        {
+          "entity_id": "P039",
+          "entity_name": "夏侯藩",
+          "entity_type": "person",
+          "start": 164,
+          "end": 167,
+          "surface": "夏侯藩"
+        }
+      ]
+    },
+    {
+      "para_id": "p53",
+      "text": "冬季十月甲寅日，王根因病免职。",
+      "mentions": [
+        {
+          "entity_id": "P011",
+          "entity_name": "王根",
+          "entity_type": "person",
+          "start": 8,
+          "end": 10,
+          "surface": "王根"
+        }
+      ]
+    },
+    {
+      "para_id": "p54",
+      "text": "成帝认为太子既然已经继承大宗的后嗣，就不能顾念私亲，十一月，立楚孝王的兄子刘景为定陶王。太子讨论要不要谢恩；少傅阎崇认为「作为别人后嗣的礼制，不能顾念私亲，不应当谢恩」；太傅赵玄认为「应当谢恩」，太子听从了赵玄的意见。成帝下诏问为什么谢恩，尚书弹劾赵玄，赵玄被降职为少府；任命光禄勋师丹为太傅。",
+      "mentions": [
+        {
+          "entity_id": "P055",
+          "entity_name": "刘景",
+          "entity_type": "person",
+          "start": 37,
+          "end": 39,
+          "surface": "刘景"
+        },
+        {
+          "entity_id": "L031",
+          "entity_name": "定陶",
+          "entity_type": "place",
+          "start": 40,
+          "end": 42,
+          "surface": "定陶"
+        },
+        {
+          "entity_id": "P035",
+          "entity_name": "师丹",
+          "entity_type": "person",
+          "start": 141,
+          "end": 143,
+          "surface": "师丹"
+        }
+      ]
+    },
+    {
+      "para_id": "p55",
+      "text": "当初，太子年幼的时候，祖母傅太后亲自抚养照顾他；等到做了太子，成帝下诏让傅太后、丁姬自己住在定陶国驻京府邸，不能和太子相见。过了不久，王太后想让傅太后、丁姬每十天到太子住处一次，成帝说：「太子继承正统，应当奉养陛下，不能再顾念私亲。」王太后说：「太子小时候傅太后抱养过他；现在让她到太子住处，只是报答乳母的恩情罢了，不会有什么妨碍。」于是允许傅太后可以到太子住处；丁姬因为没有抚养过太子，唯独不能去。",
+      "mentions": [
+        {
+          "entity_id": "P060",
+          "entity_name": "傅太后",
+          "entity_type": "person",
+          "start": 13,
+          "end": 16,
+          "surface": "傅太后"
+        },
+        {
+          "entity_id": "P060",
+          "entity_name": "傅太后",
+          "entity_type": "person",
+          "start": 36,
+          "end": 39,
+          "surface": "傅太后"
+        },
+        {
+          "entity_id": "P061",
+          "entity_name": "丁姬",
+          "entity_type": "person",
+          "start": 40,
+          "end": 42,
+          "surface": "丁姬"
+        },
+        {
+          "entity_id": "L031",
+          "entity_name": "定陶",
+          "entity_type": "place",
+          "start": 46,
+          "end": 48,
+          "surface": "定陶"
+        },
+        {
+          "entity_id": "P060",
+          "entity_name": "傅太后",
+          "entity_type": "person",
+          "start": 72,
+          "end": 75,
+          "surface": "傅太后"
+        },
+        {
+          "entity_id": "P061",
+          "entity_name": "丁姬",
+          "entity_type": "person",
+          "start": 76,
+          "end": 78,
+          "surface": "丁姬"
+        },
+        {
+          "entity_id": "P060",
+          "entity_name": "傅太后",
+          "entity_type": "person",
+          "start": 128,
+          "end": 131,
+          "surface": "傅太后"
+        },
+        {
+          "entity_id": "P060",
+          "entity_name": "傅太后",
+          "entity_type": "person",
+          "start": 171,
+          "end": 174,
+          "surface": "傅太后"
+        },
+        {
+          "entity_id": "P061",
+          "entity_name": "丁姬",
+          "entity_type": "person",
+          "start": 182,
+          "end": 184,
+          "surface": "丁姬"
+        }
+      ]
+    },
+    {
+      "para_id": "p56",
+      "text": "卫尉、侍中淳于长受到成帝宠爱，非常被信任重用，权贵压倒公卿，在外结交诸侯、州牧、郡守，贿赂和赏赐累积到上万万，沉迷声色。许皇后的姐姐许孊是龙雒思侯的夫人，守寡在家；淳于长和许孊私通，于是娶她做小老婆。许皇后当时住在长安宫，通过许孊贿赂淳于长，想求恢复婕妤的位置。淳于长接受许皇后的金钱、车马、衣物用品前后百余万，骗她答应为她向皇上说情，立她为左皇后。许孊每次进入长安宫，淳于长就给许孊写信，戏弄侮辱许皇后，轻慢的话什么都说；书信往来，贿赂连年不断。当时曲阳侯王根辅政，长期生病，多次请求退休。淳于长凭借外戚身份位居九卿，按顺序应当接替王根。侍中、骑都尉、光禄大夫王莽心里嫉妒淳于长受宠，私下听说了这些事。王莽侍奉曲阳侯养病时，趁机说：「淳于长见将军长期生病心里很高兴，自以为应当接替辅政，甚至对人谈论官员任命安排；」详细说了淳于长的罪过。王根发怒说：「如果是这样，为什么不报告！」王莽说：「不知道将军的心意，所以没敢说。」王根说：「快去报告东宫太后！」王莽求见太后，详细说淳于长骄纵放纵，想要取代曲阳侯；私下和长定宫贵人的姐姐私通，收受她的衣物。太后也发怒说：「孩子竟然到这种地步！去，报告皇帝！」王莽报告了成帝；成帝因为太后的缘故，免去淳于长的官职，不治罪，遣送他回到封国。",
+      "mentions": [
+        {
+          "entity_id": "P014",
+          "entity_name": "淳于长",
+          "entity_type": "person",
+          "start": 5,
+          "end": 8,
+          "surface": "淳于长"
+        },
+        {
+          "entity_id": "P056",
+          "entity_name": "许皇后",
+          "entity_type": "person",
+          "start": 60,
+          "end": 63,
+          "surface": "许皇后"
+        },
+        {
+          "entity_id": "P057",
+          "entity_name": "许孊",
+          "entity_type": "person",
+          "start": 66,
+          "end": 68,
+          "surface": "许孊"
+        },
+        {
+          "entity_id": "P014",
+          "entity_name": "淳于长",
+          "entity_type": "person",
+          "start": 82,
+          "end": 85,
+          "surface": "淳于长"
+        },
+        {
+          "entity_id": "P057",
+          "entity_name": "许孊",
+          "entity_type": "person",
+          "start": 86,
+          "end": 88,
+          "surface": "许孊"
+        },
+        {
+          "entity_id": "P056",
+          "entity_name": "许皇后",
+          "entity_type": "person",
+          "start": 100,
+          "end": 103,
+          "surface": "许皇后"
+        },
+        {
+          "entity_id": "L005",
+          "entity_name": "长安",
+          "entity_type": "place",
+          "start": 107,
+          "end": 109,
+          "surface": "长安"
+        },
+        {
+          "entity_id": "P057",
+          "entity_name": "许孊",
+          "entity_type": "person",
+          "start": 113,
+          "end": 115,
+          "surface": "许孊"
+        },
+        {
+          "entity_id": "P014",
+          "entity_name": "淳于长",
+          "entity_type": "person",
+          "start": 117,
+          "end": 120,
+          "surface": "淳于长"
+        },
+        {
+          "entity_id": "P014",
+          "entity_name": "淳于长",
+          "entity_type": "person",
+          "start": 131,
+          "end": 134,
+          "surface": "淳于长"
+        },
+        {
+          "entity_id": "P056",
+          "entity_name": "许皇后",
+          "entity_type": "person",
+          "start": 136,
+          "end": 139,
+          "surface": "许皇后"
+        },
+        {
+          "entity_id": "P057",
+          "entity_name": "许孊",
+          "entity_type": "person",
+          "start": 175,
+          "end": 177,
+          "surface": "许孊"
+        },
+        {
+          "entity_id": "L005",
+          "entity_name": "长安",
+          "entity_type": "place",
+          "start": 181,
+          "end": 183,
+          "surface": "长安"
+        },
+        {
+          "entity_id": "P014",
+          "entity_name": "淳于长",
+          "entity_type": "person",
+          "start": 185,
+          "end": 188,
+          "surface": "淳于长"
+        },
+        {
+          "entity_id": "P057",
+          "entity_name": "许孊",
+          "entity_type": "person",
+          "start": 190,
+          "end": 192,
+          "surface": "许孊"
+        },
+        {
+          "entity_id": "P056",
+          "entity_name": "许皇后",
+          "entity_type": "person",
+          "start": 199,
+          "end": 202,
+          "surface": "许皇后"
+        },
+        {
+          "entity_id": "P014",
+          "entity_name": "淳于长",
+          "entity_type": "person",
+          "start": 246,
+          "end": 249,
+          "surface": "淳于长"
+        },
+        {
+          "entity_id": "P014",
+          "entity_name": "淳于长",
+          "entity_type": "person",
+          "start": 287,
+          "end": 290,
+          "surface": "淳于长"
+        },
+        {
+          "entity_id": "P014",
+          "entity_name": "淳于长",
+          "entity_type": "person",
+          "start": 318,
+          "end": 321,
+          "surface": "淳于长"
+        },
+        {
+          "entity_id": "P014",
+          "entity_name": "淳于长",
+          "entity_type": "person",
+          "start": 362,
+          "end": 365,
+          "surface": "淳于长"
+        },
+        {
+          "entity_id": "P014",
+          "entity_name": "淳于长",
+          "entity_type": "person",
+          "start": 436,
+          "end": 439,
+          "surface": "淳于长"
+        },
+        {
+          "entity_id": "P014",
+          "entity_name": "淳于长",
+          "entity_type": "person",
+          "start": 519,
+          "end": 522,
+          "surface": "淳于长"
+        }
+      ]
+    },
+    {
+      "para_id": "p57",
+      "text": "当初，红阳侯王立没能辅政，怀疑是淳于长毁谤诬陷，一直怨恨淳于长；成帝知道这件事。等到淳于长要回封国的时候，王立的嫡长子王融向淳于长索要车马，淳于长通过王融把珍贵的宝物重重地送给王立。王立于是上密封奏章，为淳于长求情留京说：「陛下既然因为皇太后的缘故下诏免官，实在不应该再有其他处置。」于是天子起了疑心，下令主管官员查验。官吏要逮捕王融，王立让王融自杀来灭口。成帝更加怀疑他们有大奸谋，于是逮捕淳于长关押在洛阳诏狱，彻底追查。淳于长全部招认戏弄侮辱长定宫许皇后、谋划立左皇后的事，罪名到大逆不道，在狱中自杀。他的妻子儿女应当连坐的流放到合浦；母亲若送回原郡。成帝派廷尉孔光持符节将废后许氏废处昭台宫。丞相翟方进又上奏弹劾「红阳侯王立心怀奸邪，扰乱朝政，请求逮捕下狱」。成帝说：「红阳侯是我的舅舅，不忍依法治罪，遣送他回封国。」于是翟方进又上奏弹劾孙宝、钜鹿太守孙闳、河内太守赵玄，都免去官职，和前光禄大夫陈咸都回到故乡郡里。",
+      "mentions": [
+        {
+          "entity_id": "P012",
+          "entity_name": "王立",
+          "entity_type": "person",
+          "start": 6,
+          "end": 8,
+          "surface": "王立"
+        },
+        {
+          "entity_id": "P014",
+          "entity_name": "淳于长",
+          "entity_type": "person",
+          "start": 16,
+          "end": 19,
+          "surface": "淳于长"
+        },
+        {
+          "entity_id": "P014",
+          "entity_name": "淳于长",
+          "entity_type": "person",
+          "start": 28,
+          "end": 31,
+          "surface": "淳于长"
+        },
+        {
+          "entity_id": "P014",
+          "entity_name": "淳于长",
+          "entity_type": "person",
+          "start": 42,
+          "end": 45,
+          "surface": "淳于长"
+        },
+        {
+          "entity_id": "P012",
+          "entity_name": "王立",
+          "entity_type": "person",
+          "start": 53,
+          "end": 55,
+          "surface": "王立"
+        },
+        {
+          "entity_id": "P016",
+          "entity_name": "王融",
+          "entity_type": "person",
+          "start": 59,
+          "end": 61,
+          "surface": "王融"
+        },
+        {
+          "entity_id": "P014",
+          "entity_name": "淳于长",
+          "entity_type": "person",
+          "start": 62,
+          "end": 65,
+          "surface": "淳于长"
+        },
+        {
+          "entity_id": "P014",
+          "entity_name": "淳于长",
+          "entity_type": "person",
+          "start": 70,
+          "end": 73,
+          "surface": "淳于长"
+        },
+        {
+          "entity_id": "P016",
+          "entity_name": "王融",
+          "entity_type": "person",
+          "start": 75,
+          "end": 77,
+          "surface": "王融"
+        },
+        {
+          "entity_id": "P012",
+          "entity_name": "王立",
+          "entity_type": "person",
+          "start": 88,
+          "end": 90,
+          "surface": "王立"
+        },
+        {
+          "entity_id": "P012",
+          "entity_name": "王立",
+          "entity_type": "person",
+          "start": 91,
+          "end": 93,
+          "surface": "王立"
+        },
+        {
+          "entity_id": "P014",
+          "entity_name": "淳于长",
+          "entity_type": "person",
+          "start": 102,
+          "end": 105,
+          "surface": "淳于长"
+        },
+        {
+          "entity_id": "P016",
+          "entity_name": "王融",
+          "entity_type": "person",
+          "start": 165,
+          "end": 167,
+          "surface": "王融"
+        },
+        {
+          "entity_id": "P012",
+          "entity_name": "王立",
+          "entity_type": "person",
+          "start": 168,
+          "end": 170,
+          "surface": "王立"
+        },
+        {
+          "entity_id": "P016",
+          "entity_name": "王融",
+          "entity_type": "person",
+          "start": 171,
+          "end": 173,
+          "surface": "王融"
+        },
+        {
+          "entity_id": "P014",
+          "entity_name": "淳于长",
+          "entity_type": "person",
+          "start": 196,
+          "end": 199,
+          "surface": "淳于长"
+        },
+        {
+          "entity_id": "L027",
+          "entity_name": "洛阳诏狱",
+          "entity_type": "place",
+          "start": 202,
+          "end": 206,
+          "surface": "洛阳诏狱"
+        },
+        {
+          "entity_id": "P014",
+          "entity_name": "淳于长",
+          "entity_type": "person",
+          "start": 212,
+          "end": 215,
+          "surface": "淳于长"
+        },
+        {
+          "entity_id": "P056",
+          "entity_name": "许皇后",
+          "entity_type": "person",
+          "start": 226,
+          "end": 229,
+          "surface": "许皇后"
+        },
+        {
+          "entity_id": "L026",
+          "entity_name": "合浦",
+          "entity_type": "place",
+          "start": 267,
+          "end": 269,
+          "surface": "合浦"
+        },
+        {
+          "entity_id": "P025",
+          "entity_name": "孔光",
+          "entity_type": "person",
+          "start": 283,
+          "end": 285,
+          "surface": "孔光"
+        },
+        {
+          "entity_id": "P020",
+          "entity_name": "翟方进",
+          "entity_type": "person",
+          "start": 299,
+          "end": 301,
+          "surface": "丞相"
+        },
+        {
+          "entity_id": "P020",
+          "entity_name": "翟方进",
+          "entity_type": "person",
+          "start": 301,
+          "end": 304,
+          "surface": "翟方进"
+        },
+        {
+          "entity_id": "P012",
+          "entity_name": "王立",
+          "entity_type": "person",
+          "start": 313,
+          "end": 315,
+          "surface": "王立"
+        },
+        {
+          "entity_id": "P020",
+          "entity_name": "翟方进",
+          "entity_type": "person",
+          "start": 364,
+          "end": 367,
+          "surface": "翟方进"
+        },
+        {
+          "entity_id": "P033",
+          "entity_name": "陈咸",
+          "entity_type": "person",
+          "start": 401,
+          "end": 403,
+          "surface": "陈咸"
+        }
+      ]
+    },
+    {
+      "para_id": "p58",
+      "text": "翟方进智谋才能有余，兼通法律条文和官吏事务，用儒术来润饰，被称为通明通达的丞相，天子很器重他；他又善于揣摩君主的微末意旨，奏事没有不合心意的。当淳于长当权的时候，翟方进独独和淳于长交往，称赞举荐他；等到淳于长犯大逆罪被诛杀，成帝因为翟方进是大臣，替他隐瞒，翟方进内心惭愧，上书请求退休。成帝回复说：「定陵侯淳于长已经服罪，你虽然和他有交往，古书上不是说吗：『早上有过错晚上改正，君子是赞许的。』你有什么疑虑呢！请专心一意养病，不要耽误医药，好好保重身体。」翟方进起来处理政事，又分条上奏淳于长所厚待交好的京兆尹孙宝、右扶风萧育、刺史二千石以上官员，被免职的有二十多人。函谷都尉、建平侯杜业，向来和翟方进不和，翟方进上奏说「杜业接受红阳侯的信听凭请托，犯不敬罪」，杜业被免职，遣回封国。",
+      "mentions": [
+        {
+          "entity_id": "P020",
+          "entity_name": "翟方进",
+          "entity_type": "person",
+          "start": 0,
+          "end": 3,
+          "surface": "翟方进"
+        },
+        {
+          "entity_id": "C019",
+          "entity_name": "通明相",
+          "entity_type": "concept",
+          "start": 32,
+          "end": 34,
+          "surface": "通明"
+        },
+        {
+          "entity_id": "P020",
+          "entity_name": "翟方进",
+          "entity_type": "person",
+          "start": 37,
+          "end": 39,
+          "surface": "丞相"
+        },
+        {
+          "entity_id": "P014",
+          "entity_name": "淳于长",
+          "entity_type": "person",
+          "start": 72,
+          "end": 75,
+          "surface": "淳于长"
+        },
+        {
+          "entity_id": "P020",
+          "entity_name": "翟方进",
+          "entity_type": "person",
+          "start": 81,
+          "end": 84,
+          "surface": "翟方进"
+        },
+        {
+          "entity_id": "P014",
+          "entity_name": "淳于长",
+          "entity_type": "person",
+          "start": 87,
+          "end": 90,
+          "surface": "淳于长"
+        },
+        {
+          "entity_id": "P014",
+          "entity_name": "淳于长",
+          "entity_type": "person",
+          "start": 101,
+          "end": 104,
+          "surface": "淳于长"
+        },
+        {
+          "entity_id": "P020",
+          "entity_name": "翟方进",
+          "entity_type": "person",
+          "start": 116,
+          "end": 119,
+          "surface": "翟方进"
+        },
+        {
+          "entity_id": "P020",
+          "entity_name": "翟方进",
+          "entity_type": "person",
+          "start": 128,
+          "end": 131,
+          "surface": "翟方进"
+        },
+        {
+          "entity_id": "P014",
+          "entity_name": "淳于长",
+          "entity_type": "person",
+          "start": 153,
+          "end": 156,
+          "surface": "淳于长"
+        },
+        {
+          "entity_id": "P020",
+          "entity_name": "翟方进",
+          "entity_type": "person",
+          "start": 228,
+          "end": 231,
+          "surface": "翟方进"
+        },
+        {
+          "entity_id": "P014",
+          "entity_name": "淳于长",
+          "entity_type": "person",
+          "start": 243,
+          "end": 246,
+          "surface": "淳于长"
+        },
+        {
+          "entity_id": "P032",
+          "entity_name": "孙宝",
+          "entity_type": "person",
+          "start": 255,
+          "end": 257,
+          "surface": "孙宝"
+        },
+        {
+          "entity_id": "P034",
+          "entity_name": "杜业",
+          "entity_type": "person",
+          "start": 292,
+          "end": 294,
+          "surface": "杜业"
+        },
+        {
+          "entity_id": "P020",
+          "entity_name": "翟方进",
+          "entity_type": "person",
+          "start": 298,
+          "end": 301,
+          "surface": "翟方进"
+        },
+        {
+          "entity_id": "P020",
+          "entity_name": "翟方进",
+          "entity_type": "person",
+          "start": 304,
+          "end": 307,
+          "surface": "翟方进"
+        },
+        {
+          "entity_id": "P034",
+          "entity_name": "杜业",
+          "entity_type": "person",
+          "start": 311,
+          "end": 313,
+          "surface": "杜业"
+        },
+        {
+          "entity_id": "P034",
+          "entity_name": "杜业",
+          "entity_type": "person",
+          "start": 331,
+          "end": 333,
+          "surface": "杜业"
+        }
+      ]
+    },
+    {
+      "para_id": "p59",
+      "text": "成帝因为王莽首先揭发大奸恶，称赞他忠诚正直；王根趁机举荐王莽代替自己。丙寅日，任命王莽为大司马，当时他四十八岁。王莽已经超出同列大臣，继四位叔父之后辅政，想要让自己的名声超过前人，就克制自己不知疲倦。聘请各位贤良担任属官，赏赐和封邑的收入全部用来供养士人；自己衣锦曳地，母亲生病，公卿列侯派夫人探望，王莽的妻子迎接，衣服长到拖地，穿着华贵，见到的人以为是贵妇人，询问之后，才知道是他的夫人。他就是像这样伪装求名。",
+      "mentions": [
+        {
+          "entity_id": "P013",
+          "entity_name": "王莽",
+          "entity_type": "person",
+          "start": 4,
+          "end": 6,
+          "surface": "王莽"
+        },
+        {
+          "entity_id": "P011",
+          "entity_name": "王根",
+          "entity_type": "person",
+          "start": 22,
+          "end": 24,
+          "surface": "王根"
+        },
+        {
+          "entity_id": "P013",
+          "entity_name": "王莽",
+          "entity_type": "person",
+          "start": 28,
+          "end": 30,
+          "surface": "王莽"
+        },
+        {
+          "entity_id": "P013",
+          "entity_name": "王莽",
+          "entity_type": "person",
+          "start": 41,
+          "end": 43,
+          "surface": "王莽"
+        },
+        {
+          "entity_id": "P013",
+          "entity_name": "王莽",
+          "entity_type": "person",
+          "start": 56,
+          "end": 58,
+          "surface": "王莽"
+        },
+        {
+          "entity_id": "P013",
+          "entity_name": "王莽",
+          "entity_type": "person",
+          "start": 150,
+          "end": 152,
+          "surface": "王莽"
+        }
+      ]
+    },
+    {
+      "para_id": "p60",
+      "text": "丞相翟方进、大司空何武上奏说：「《春秋》的大义，是用尊贵的人治理卑贱的人，不让地位低的人凌驾于地位尊贵的人之上。刺史职位相当于下大夫却监察二千石官员，轻重不相称。臣请求撤销州牧，改设刺史来符合古制！」十二月，撤销州牧，改设刺史，俸禄为二千石。",
+      "mentions": [
+        {
+          "entity_id": "P020",
+          "entity_name": "翟方进",
+          "entity_type": "person",
+          "start": 0,
+          "end": 2,
+          "surface": "丞相"
+        },
+        {
+          "entity_id": "P020",
+          "entity_name": "翟方进",
+          "entity_type": "person",
+          "start": 2,
+          "end": 5,
+          "surface": "翟方进"
+        },
+        {
+          "entity_id": "P024",
+          "entity_name": "何武",
+          "entity_type": "person",
+          "start": 9,
+          "end": 11,
+          "surface": "何武"
+        },
+        {
+          "entity_id": "C012",
+          "entity_name": "刺史",
+          "entity_type": "concept",
+          "start": 56,
+          "end": 58,
+          "surface": "刺史"
+        },
+        {
+          "entity_id": "C011",
+          "entity_name": "州牧",
+          "entity_type": "concept",
+          "start": 86,
+          "end": 88,
+          "surface": "州牧"
+        },
+        {
+          "entity_id": "C012",
+          "entity_name": "刺史",
+          "entity_type": "concept",
+          "start": 91,
+          "end": 93,
+          "surface": "刺史"
+        },
+        {
+          "entity_id": "C011",
+          "entity_name": "州牧",
+          "entity_type": "concept",
+          "start": 106,
+          "end": 108,
+          "surface": "州牧"
+        },
+        {
+          "entity_id": "C012",
+          "entity_name": "刺史",
+          "entity_type": "concept",
+          "start": 111,
+          "end": 113,
+          "surface": "刺史"
+        }
+      ]
+    },
+    {
+      "para_id": "p61",
+      "text": "牂柯郡在水边得到十六枚古磬，议论的人认为是吉祥的征兆。刘向趁机劝说成帝：「应当兴建辟雍，设立学校，陈设礼乐，提倡雅颂的音乐，推广揖让的礼仪，来教化天下。像这样还不能治理好天下，是从来没有的事。有人说：不能把礼置办完备。礼是以教养人民为根本，如果有不完备的地方，也是不完备但还是教养了人民。刑罚的过错有时会打死人伤人，现在的刑法不是皋陶的刑法，可是主管官员请求制定法律，该删就删，该写就写，是为了补救时务。至于礼乐，就说不敢置办，这是敢于杀人却不敢教养人民。因为俎豆礼器、管弦乐器之间小小的不完备，就干脆不做，这是避开小的不完备而走向大的不完备，没有比这更糊涂的了！教化和刑法相比，刑法是次要的，这是舍弃重要的而急于次要的。教化是治理天下所依靠的；刑法是用来辅助治理的；如今废掉所依靠的而只建立辅助的东西，这不是达到太平的办法。自从京城出现悖逆不孝的子孙，以至于犯死刑、被处死的人不断，都是因为不学习五常的道理。承接千年衰周的积弊，继承暴秦的余害，百姓逐渐浸染坏风气，贪婪阴险，不懂义理，不用大的教化引导却只用刑罚驱赶，终究不会改正！」成帝把刘向的意见交给公卿讨论，丞相、大司空上奏请求建立辟雍，考察长安城南设立标记；还没兴建就停止了。当时又有人说「孔子是平民，养了三千弟子，如今天下太学的弟子太少」。于是增加弟子名额到三千人；过了一年多，又恢复原来的数量。",
+      "mentions": [
+        {
+          "entity_id": "P027",
+          "entity_name": "刘向",
+          "entity_type": "person",
+          "start": 27,
+          "end": 29,
+          "surface": "刘向"
+        },
+        {
+          "entity_id": "C002",
+          "entity_name": "辟雍",
+          "entity_type": "concept",
+          "start": 41,
+          "end": 43,
+          "surface": "辟雍"
+        },
+        {
+          "entity_id": "C004",
+          "entity_name": "五常之道",
+          "entity_type": "concept",
+          "start": 399,
+          "end": 401,
+          "surface": "五常"
+        },
+        {
+          "entity_id": "P027",
+          "entity_name": "刘向",
+          "entity_type": "person",
+          "start": 470,
+          "end": 472,
+          "surface": "刘向"
+        },
+        {
+          "entity_id": "P020",
+          "entity_name": "翟方进",
+          "entity_type": "person",
+          "start": 482,
+          "end": 484,
+          "surface": "丞相"
+        },
+        {
+          "entity_id": "C002",
+          "entity_name": "辟雍",
+          "entity_type": "concept",
+          "start": 494,
+          "end": 496,
+          "surface": "辟雍"
+        },
+        {
+          "entity_id": "L037",
+          "entity_name": "长安城南",
+          "entity_type": "place",
+          "start": 499,
+          "end": 503,
+          "surface": "长安城南"
+        }
+      ]
+    },
+    {
+      "para_id": "p62",
+      "text": "刘向见自己被皇帝信任，所以经常公开为宗室申辩，讥讽王氏和在位的大臣，他的话大多沉痛恳切，出于至诚。成帝多次想任用刘向为九卿，总是被在位的王氏子弟以及丞相、御史阻挠，所以始终没有升迁，身居大夫之列前后十多年去世。他去世后三年，王氏取代汉朝。",
+      "mentions": [
+        {
+          "entity_id": "P027",
+          "entity_name": "刘向",
+          "entity_type": "person",
+          "start": 0,
+          "end": 2,
+          "surface": "刘向"
+        },
+        {
+          "entity_id": "P027",
+          "entity_name": "刘向",
+          "entity_type": "person",
+          "start": 56,
+          "end": 58,
+          "surface": "刘向"
+        }
+      ]
+    }
+  ]
+}
