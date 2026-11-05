@@ -832,7 +832,13 @@
     "tili_name": "编年",
     "para_count": 77,
     "char_count": 10681,
-    "annotation_count": 344
+    "annotation_count": 344,
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第三十六・汉纪二十八・孝平皇帝下・王莽上.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第三十六・汉纪二十八・孝平皇帝下・王莽上.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第三十六・汉纪二十八・孝平皇帝下・王莽上.json",
+    "enhancements": "data/books/zizhitongjian/enhancements/增强-卷第三十六・汉纪二十八・孝平皇帝下・王莽上.json",
+    "proofread": "data/books/zizhitongjian/proofread/校勘-卷第三十六・汉纪二十八・孝平皇帝下・王莽上.md",
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第三十六・汉纪二十八・孝平皇帝下・王莽上.md"
   },
   {
     "id": "zizhitongjian-0038",
