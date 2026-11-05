@@ -387,14 +387,28 @@
   },
   {
     "id": "zizhitongjian-0032",
-    "title": "卷第三十一・漢紀二十三・孝成皇帝上之下",
-    "juan": "卷0",
-    "juan_num": 0,
+    "title": "卷第三十一・汉纪二十三・孝成皇帝上之下",
+    "juan": "卷31",
+    "juan_num": 31,
     "tili": "biannian",
     "tili_name": "编年",
-    "para_count": 92,
-    "char_count": 11945,
-    "annotation_count": 405
+    "para_count": 91,
+    "char_count": 10645,
+    "annotation_count": 579,
+    "status": "completed",
+    "translation_file": "data/books/zizhitongjian/translations/白话-定稿-卷第三十一・汉纪二十三・孝成皇帝上之下.md",
+    "draft_translation_file": "data/books/zizhitongjian/translations/白话-初稿-卷第三十一・汉纪二十三・孝成皇帝上之下.md",
+    "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第三十一・汉纪二十三・孝成皇帝上之下.json",
+    "draft_annotation_file": "data/books/zizhitongjian/ontology/实体标注-初稿-卷第三十一・汉纪二十三・孝成皇帝上之下.json",
+    "enhancement_file": "data/books/zizhitongjian/enhancements/增强-卷第三十一・汉纪二十三・孝成皇帝上之下.json",
+    "draft_enhancement_file": "data/books/zizhitongjian/enhancements/增强-初稿-卷第三十一・汉纪二十三・孝成皇帝上之下.json",
+    "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第三十一・汉纪二十三・孝成皇帝上之下.json",
+    "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第三十一・汉纪二十三・孝成皇帝上之下.json",
+    "proofread_files": [
+      "data/books/zizhitongjian/proofread/校勘-卷第三十一・汉纪二十三・孝成皇帝上之下.md",
+      "data/books/zizhitongjian/proofread/翻译校验-卷第三十一・汉纪二十三・孝成皇帝上之下.md",
+      "data/books/zizhitongjian/proofread/本体校验-卷第三十一・汉纪二十三・孝成皇帝上之下.md"
+    ]
   },
   {
     "id": "zizhitongjian-0033",
