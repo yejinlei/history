@@ -437,14 +437,26 @@
   },
   {
     "id": "zizhitongjian-0034",
-    "title": "卷第三十三・漢紀二十五・孝成皇帝下・孝哀皇帝上",
-    "juan": "卷0",
-    "juan_num": 0,
+    "title": "卷第三十三・汉纪二十五・孝成皇帝下・孝哀皇帝上",
+    "juan": "卷33",
+    "juan_num": 33,
     "tili": "biannian",
     "tili_name": "编年",
     "para_count": 58,
-    "char_count": 10178,
-    "annotation_count": 364
+    "char_count": 23800,
+    "annotation_count": 418,
+    "status": "completed",
+    "translation_file": "data/books/zizhitongjian/translations/白话-定稿-卷第三十三・汉纪二十五・孝成皇帝下・孝哀皇帝上.md",
+    "draft_translation_file": "data/books/zizhitongjian/translations/白话-初稿-卷第三十三・汉纪二十五・孝成皇帝下・孝哀皇帝上.md",
+    "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第三十三・汉纪二十五・孝成皇帝下・孝哀皇帝上.json",
+    "enhancement_file": "data/books/zizhitongjian/enhancements/增强-卷第三十三・汉纪二十五・孝成皇帝下・孝哀皇帝上.json",
+    "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第三十三・汉纪二十五・孝成皇帝下・孝哀皇帝上.json",
+    "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第三十三・汉纪二十五・孝成皇帝下・孝哀皇帝上.json",
+    "proofread_files": [
+      "data/books/zizhitongjian/proofread/校勘-卷第三十三・汉纪二十五・孝成皇帝下・孝哀皇帝上.md",
+      "data/books/zizhitongjian/proofread/翻译校验-卷第三十三・汉纪二十五・孝成皇帝下・孝哀皇帝上.md",
+      "data/books/zizhitongjian/proofread/本体校验-卷第三十三・汉纪二十五・孝成皇帝下・孝哀皇帝上.md"
+    ]
   },
   {
     "id": "zizhitongjian-0035",
