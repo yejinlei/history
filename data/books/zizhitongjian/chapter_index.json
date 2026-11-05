@@ -866,7 +866,13 @@
     "tili_name": "编年",
     "para_count": 86,
     "char_count": 12199,
-    "annotation_count": 368
+    "annotation_count": 368,
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第三十八・汉纪三十・王莽下.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第三十八・汉纪三十・王莽下.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第三十八・汉纪三十・王莽下.json",
+    "enhancements": "data/books/zizhitongjian/enhancements/增强-卷第三十八・汉纪三十・王莽下.json",
+    "proofread": "data/books/zizhitongjian/proofread/校勘-卷第三十八・汉纪三十・王莽下.md",
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第三十八・汉纪三十・王莽下.md"
   },
   {
     "id": "zizhitongjian-0040",
