@@ -31,7 +31,10 @@
     "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第一・周纪一・威烈王・安王・烈王.json",
     "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第一・周纪一・威烈王・安王・烈王.json",
     "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第一・周纪一・威烈王・安王・烈王.json",
-    "status": "completed"
+    "status": "completed",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第一・周纪一・威烈王・安王・烈王.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第一・周纪一・威烈王・安王・烈王.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第一・周纪一・威烈王・安王・烈王.json"
   },
   {
     "id": "zizhitongjian-0003",
@@ -47,7 +50,10 @@
     "draft_translation_file": "data/books/zizhitongjian/translations/白话-初稿-卷第二・周纪二・显王.md",
     "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第二・周纪二・显王.json",
     "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第二・周纪二・显王.json",
-    "status": "completed"
+    "status": "completed",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第二・周纪二・显王.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第二・周纪二・显王.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第二・周纪二・显王.json"
   },
   {
     "id": "zizhitongjian-0004",
@@ -63,7 +69,10 @@
     "draft_translation_file": "data/books/zizhitongjian/translations/白话-初稿-卷第三・周纪三・慎靓王・赧王上.md",
     "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第三・周纪三・慎靓王・赧王上.json",
     "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第三・周纪三・慎靓王・赧王上.json",
-    "status": "completed"
+    "status": "completed",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第三・周纪三・慎靓王・赧王上.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第三・周纪三・慎靓王・赧王上.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第三・周纪三・慎靓王・赧王上.json"
   },
   {
     "id": "zizhitongjian-0005",
@@ -79,7 +88,10 @@
     "draft_translation_file": "data/books/zizhitongjian/translations/白话-初稿-卷第四・周纪四・赧王中.md",
     "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第四・周纪四・赧王中.json",
     "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第四・周纪四・赧王中.json",
-    "status": "completed"
+    "status": "completed",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第四・周纪四・赧王中.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第四・周纪四・赧王中.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第四・周纪四・赧王中.json"
   },
   {
     "id": "zizhitongjian-0006",
@@ -96,7 +108,10 @@
     "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第五・周纪五・赧王下.json",
     "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第五・周纪五・赧王下.json",
     "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第五・周纪五・赧王下.json",
-    "status": "completed"
+    "status": "completed",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第五・周纪五・赧王下.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第五・周纪五・赧王下.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第五・周纪五・赧王下.json"
   },
   {
     "id": "zizhitongjian-0007",
@@ -113,7 +128,10 @@
     "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第六・秦纪一・昭襄王・孝文王・庄襄王・始皇帝上.json",
     "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第六・秦纪一・昭襄王・孝文王・庄襄王・始皇帝上.json",
     "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第六・秦纪一・昭襄王・孝文王・庄襄王・始皇帝上.json",
-    "status": "completed"
+    "status": "completed",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第六・秦纪一・昭襄王・孝文王・庄襄王・始皇帝上.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第六・秦纪一・昭襄王・孝文王・庄襄王・始皇帝上.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第六・秦纪一・昭襄王・孝文王・庄襄王・始皇帝上.json"
   },
   {
     "id": "zizhitongjian-0008",
@@ -130,7 +148,10 @@
     "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第七・秦纪二・始皇帝下・二世皇帝上.json",
     "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第七・秦纪二・始皇帝下・二世皇帝上.json",
     "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第七・秦纪二・始皇帝下・二世皇帝上.json",
-    "status": "completed"
+    "status": "completed",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第七・秦纪二・始皇帝下・二世皇帝上.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第七・秦纪二・始皇帝下・二世皇帝上.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第七・秦纪二・始皇帝下・二世皇帝上.json"
   },
   {
     "id": "zizhitongjian-0009",
@@ -146,7 +167,10 @@
     "draft_translation_file": "data/books/zizhitongjian/translations/白话-初稿-卷第八・秦纪三・二世皇帝下.md",
     "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第八・秦纪三・二世皇帝下.json",
     "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第八・秦纪三・二世皇帝下.json",
-    "status": "completed"
+    "status": "completed",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第八・秦纪三・二世皇帝下.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第八・秦纪三・二世皇帝下.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第八・秦纪三・二世皇帝下.json"
   },
   {
     "id": "zizhitongjian-0010",
@@ -162,7 +186,10 @@
     "draft_translation_file": "data/books/zizhitongjian/translations/白话-初稿-卷第九・汉纪一・太祖高皇帝上之上.md",
     "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第九・汉纪一・太祖高皇帝上之上.json",
     "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第九・汉纪一・太祖高皇帝上之上.json",
-    "status": "completed"
+    "status": "completed",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第九・汉纪一・太祖高皇帝上之上.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第九・汉纪一・太祖高皇帝上之上.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第九・汉纪一・太祖高皇帝上之上.json"
   },
   {
     "id": "zizhitongjian-0011",
@@ -179,7 +206,10 @@
     "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第十・汉纪二・太祖高皇帝上之下.json",
     "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第十・汉纪二・太祖高皇帝上之下.json",
     "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第十・汉纪二・太祖高皇帝上之下.json",
-    "status": "completed"
+    "status": "completed",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第十・汉纪二・太祖高皇帝上之下.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第十・汉纪二・太祖高皇帝上之下.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第十・汉纪二・太祖高皇帝上之下.json"
   },
   {
     "id": "zizhitongjian-0012",
@@ -196,7 +226,10 @@
     "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第十一・汉纪三・太祖高皇帝中.json",
     "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第十一・汉纪三・太祖高皇帝中.json",
     "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第十一・汉纪三・太祖高皇帝中.json",
-    "status": "completed"
+    "status": "completed",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第十一・汉纪三・太祖高皇帝中.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第十一・汉纪三・太祖高皇帝中.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第十一・汉纪三・太祖高皇帝中.json"
   },
   {
     "id": "zizhitongjian-0013",
@@ -213,7 +246,10 @@
     "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第十二・汉纪四・太祖高皇帝下・孝惠皇帝.json",
     "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第十二・汉纪四・太祖高皇帝下・孝惠皇帝.json",
     "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第十二・汉纪四・太祖高皇帝下・孝惠皇帝.json",
-    "status": "completed"
+    "status": "completed",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第十二・汉纪四・太祖高皇帝下・孝惠皇帝.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第十二・汉纪四・太祖高皇帝下・孝惠皇帝.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第十二・汉纪四・太祖高皇帝下・孝惠皇帝.json"
   },
   {
     "id": "zizhitongjian-0014",
@@ -230,7 +266,10 @@
     "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第十三・汉纪五・高皇后・太宗孝文皇帝上.json",
     "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第十三・汉纪五・高皇后・太宗孝文皇帝上.json",
     "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第十三・汉纪五・高皇后・太宗孝文皇帝上.json",
-    "status": "completed"
+    "status": "completed",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第十三・汉纪五・高皇后・太宗孝文皇帝上.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第十三・汉纪五・高皇后・太宗孝文皇帝上.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第十三・汉纪五・高皇后・太宗孝文皇帝上.json"
   },
   {
     "id": "zizhitongjian-0015",
@@ -247,7 +286,10 @@
     "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第十四・汉纪六・太宗孝文皇帝中.json",
     "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第十四・汉纪六・太宗孝文皇帝中.json",
     "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第十四・汉纪六・太宗孝文皇帝中.json",
-    "status": "completed"
+    "status": "completed",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第十四・汉纪六・太宗孝文皇帝中.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第十四・汉纪六・太宗孝文皇帝中.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第十四・汉纪六・太宗孝文皇帝中.json"
   },
   {
     "id": "zizhitongjian-0016",
@@ -264,7 +306,10 @@
     "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第十五・太宗孝文皇帝下・孝景皇帝上.json",
     "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第十五・太宗孝文皇帝下・孝景皇帝上.json",
     "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第十五・太宗孝文皇帝下・孝景皇帝上.json",
-    "status": "completed"
+    "status": "completed",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第十五・太宗孝文皇帝下・孝景皇帝上.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第十五・太宗孝文皇帝下・孝景皇帝上.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第十五・太宗孝文皇帝下・孝景皇帝上.json"
   },
   {
     "id": "zizhitongjian-0017",
@@ -281,7 +326,10 @@
     "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第十六・汉纪八・孝景皇帝下.json",
     "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第十六・汉纪八・孝景皇帝下.json",
     "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第十六・汉纪八・孝景皇帝下.json",
-    "status": "completed"
+    "status": "completed",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第十六・汉纪八・孝景皇帝下.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第十六・汉纪八・孝景皇帝下.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第十六・汉纪八・孝景皇帝下.json"
   },
   {
     "id": "zizhitongjian-0018",
@@ -298,7 +346,10 @@
     "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第十七・汉纪九・世宗孝武皇帝上之上.json",
     "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第十七・汉纪九・世宗孝武皇帝上之上.json",
     "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第十七・汉纪九・世宗孝武皇帝上之上.json",
-    "status": "completed"
+    "status": "completed",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第十七・汉纪九・世宗孝武皇帝上之上.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第十七・汉纪九・世宗孝武皇帝上之上.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第十七・汉纪九・世宗孝武皇帝上之上.json"
   },
   {
     "id": "zizhitongjian-0019",
@@ -315,7 +366,10 @@
     "draft_translation_file": "data/books/zizhitongjian/translations/白话-初稿-卷第十八・汉纪十・世宗孝武皇帝上之下.md",
     "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第十八・汉纪十・世宗孝武皇帝上之下.json",
     "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第十八・汉纪十・世宗孝武皇帝上之下.json",
-    "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第十八・汉纪十・世宗孝武皇帝上之下.json"
+    "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第十八・汉纪十・世宗孝武皇帝上之下.json",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第十八・汉纪十・世宗孝武皇帝上之下.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第十八・汉纪十・世宗孝武皇帝上之下.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第十八・汉纪十・世宗孝武皇帝上之下.json"
   },
   {
     "id": "zizhitongjian-0020",
@@ -332,7 +386,10 @@
     "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第十九・汉纪十一・世宗孝武皇帝中之上.json",
     "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第十九・汉纪十一・世宗孝武皇帝中之上.json",
     "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第十九・汉纪十一・世宗孝武皇帝中之上.json",
-    "status": "completed"
+    "status": "completed",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第十九・汉纪十一・世宗孝武皇帝中之上.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第十九・汉纪十一・世宗孝武皇帝中之上.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第十九・汉纪十一・世宗孝武皇帝中之上.json"
   },
   {
     "id": "zizhitongjian-0021",
@@ -349,7 +406,10 @@
     "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第二十・汉纪十二・世宗孝武皇帝中之下.json",
     "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第二十・汉纪十二・世宗孝武皇帝中之下.json",
     "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第二十・汉纪十二・世宗孝武皇帝中之下.json",
-    "status": "completed"
+    "status": "completed",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第二十・汉纪十二・世宗孝武皇帝中之下.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第二十・汉纪十二・世宗孝武皇帝中之下.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第二十・汉纪十二・世宗孝武皇帝中之下.json"
   },
   {
     "id": "zizhitongjian-0022",
@@ -366,7 +426,10 @@
     "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第二十一・汉纪十三・世宗孝武皇帝下之上.json",
     "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第二十一・汉纪十三・世宗孝武皇帝下之上.json",
     "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第二十一・汉纪十三・世宗孝武皇帝下之上.json",
-    "status": "completed"
+    "status": "completed",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第二十一・汉纪十三・世宗孝武皇帝下之上.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第二十一・汉纪十三・世宗孝武皇帝下之上.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第二十一・汉纪十三・世宗孝武皇帝下之上.json"
   },
   {
     "id": "zizhitongjian-0023",
@@ -388,7 +451,12 @@
       "data/books/zizhitongjian/proofread/本体校验-卷第二十二・汉纪十四・世宗孝武皇帝下之下.md",
       "data/books/zizhitongjian/proofread/翻译校验-卷第二十二・汉纪十四・世宗孝武皇帝下之下.md",
       "data/books/zizhitongjian/proofread/校勘-卷第二十二・汉纪十四・世宗孝武皇帝下之下.md"
-    ]
+    ],
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第二十二・汉纪十四・世宗孝武皇帝下之下.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第二十二・汉纪十四・世宗孝武皇帝下之下.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第二十二・汉纪十四・世宗孝武皇帝下之下.json",
+    "proofread": "data/books/zizhitongjian/proofread/校勘-卷第二十二・汉纪十四・世宗孝武皇帝下之下.md",
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第二十二・汉纪十四・世宗孝武皇帝下之下.md"
   },
   {
     "id": "zizhitongjian-0024",
@@ -411,7 +479,12 @@
       "data/books/zizhitongjian/proofread/翻译校验-卷第二十三・汉纪十五・孝昭皇帝上.md",
       "data/books/zizhitongjian/proofread/校勘-卷第二十三・汉纪十五・孝昭皇帝上.md",
       "data/books/zizhitongjian/proofread/本体校验-卷第二十三・汉纪十五・孝昭皇帝上.md"
-    ]
+    ],
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第二十三・汉纪十五・孝昭皇帝上.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第二十三・汉纪十五・孝昭皇帝上.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第二十三・汉纪十五・孝昭皇帝上.json",
+    "proofread": "data/books/zizhitongjian/proofread/校勘-卷第二十三・汉纪十五・孝昭皇帝上.md",
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第二十三・汉纪十五・孝昭皇帝上.md"
   },
   {
     "id": "zizhitongjian-0025",
@@ -434,7 +507,12 @@
       "data/books/zizhitongjian/proofread/翻译校验-卷第二十四・汉纪十六・孝昭皇帝下・中宗孝宣皇帝上之上.md",
       "data/books/zizhitongjian/proofread/校勘-卷第二十四・汉纪十六・孝昭皇帝下・中宗孝宣皇帝上之上.md",
       "data/books/zizhitongjian/proofread/本体校验-卷第二十四・汉纪十六・孝昭皇帝下・中宗孝宣皇帝上之上.md"
-    ]
+    ],
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第二十四・汉纪十六・孝昭皇帝下・中宗孝宣皇帝上之上.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第二十四・汉纪十六・孝昭皇帝下・中宗孝宣皇帝上之上.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第二十四・汉纪十六・孝昭皇帝下・中宗孝宣皇帝上之上.json",
+    "proofread": "data/books/zizhitongjian/proofread/校勘-卷第二十四・汉纪十六・孝昭皇帝下・中宗孝宣皇帝上之上.md",
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第二十四・汉纪十六・孝昭皇帝下・中宗孝宣皇帝上之上.md"
   },
   {
     "id": "zizhitongjian-0026",
@@ -457,7 +535,12 @@
       "data/books/zizhitongjian/proofread/翻译校验-卷第二十五・汉纪十七・中宗孝宣皇帝上之下.md",
       "data/books/zizhitongjian/proofread/本体校验-卷第二十五・汉纪十七・中宗孝宣皇帝上之下.md",
       "data/books/zizhitongjian/proofread/校勘-卷第二十五・汉纪十七・中宗孝宣皇帝上之下.md"
-    ]
+    ],
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第二十五・汉纪十七・中宗孝宣皇帝上之下.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第二十五・汉纪十七・中宗孝宣皇帝上之下.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第二十五・汉纪十七・中宗孝宣皇帝上之下.json",
+    "proofread": "data/books/zizhitongjian/proofread/校勘-卷第二十五・汉纪十七・中宗孝宣皇帝上之下.md",
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第二十五・汉纪十七・中宗孝宣皇帝上之下.md"
   },
   {
     "id": "zizhitongjian-0027",
@@ -480,7 +563,12 @@
       "data/books/zizhitongjian/proofread/翻译校验-卷第二十六・汉纪十八・中宗孝宣皇帝中.md",
       "data/books/zizhitongjian/proofread/校勘-卷第二十六・汉纪十八・中宗孝宣皇帝中.md",
       "data/books/zizhitongjian/proofread/本体校验-卷第二十六・汉纪十八・中宗孝宣皇帝中.md"
-    ]
+    ],
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第二十六・汉纪十八・中宗孝宣皇帝中.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第二十六・汉纪十八・中宗孝宣皇帝中.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第二十六・汉纪十八・中宗孝宣皇帝中.json",
+    "proofread": "data/books/zizhitongjian/proofread/校勘-卷第二十六・汉纪十八・中宗孝宣皇帝中.md",
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第二十六・汉纪十八・中宗孝宣皇帝中.md"
   },
   {
     "id": "zizhitongjian-0028",
@@ -503,7 +591,12 @@
       "data/books/zizhitongjian/proofread/翻译校验-卷第二十七・汉纪十九・中宗孝宣皇帝下.md",
       "data/books/zizhitongjian/proofread/本体校验-卷第二十七・汉纪十九・中宗孝宣皇帝下.md",
       "data/books/zizhitongjian/proofread/校勘-卷第二十七・汉纪十九・中宗孝宣皇帝下.md"
-    ]
+    ],
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第二十七・汉纪十九・中宗孝宣皇帝下.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第二十七・汉纪十九・中宗孝宣皇帝下.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第二十七・汉纪十九・中宗孝宣皇帝下.json",
+    "proofread": "data/books/zizhitongjian/proofread/校勘-卷第二十七・汉纪十九・中宗孝宣皇帝下.md",
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第二十七・汉纪十九・中宗孝宣皇帝下.md"
   },
   {
     "id": "zizhitongjian-0029",
@@ -524,7 +617,12 @@
     "enhancement_file": "data/books/zizhitongjian/enhancements/增强-卷第二十八・汉纪二十・孝元皇帝上.json",
     "proofread_files": [
       "data/books/zizhitongjian/proofread/本体校验-卷第二十八・汉纪二十・孝元皇帝上.md"
-    ]
+    ],
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第二十八・汉纪二十・孝元皇帝上.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第二十八・汉纪二十・孝元皇帝上.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第二十八・汉纪二十・孝元皇帝上.json",
+    "enhancements": "data/books/zizhitongjian/enhancements/增强-卷第二十八・汉纪二十・孝元皇帝上.json",
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第二十八・汉纪二十・孝元皇帝上.md"
   },
   {
     "id": "zizhitongjian-0030",
@@ -549,7 +647,13 @@
       "data/books/zizhitongjian/proofread/本体校验-卷第二十九・汉纪二十一・孝元皇帝下.md"
     ],
     "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第二十九・汉纪二十一・孝元皇帝下.json",
-    "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第二十九・汉纪二十一・孝元皇帝下.json"
+    "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第二十九・汉纪二十一・孝元皇帝下.json",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第二十九・汉纪二十一・孝元皇帝下.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第二十九・汉纪二十一・孝元皇帝下.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第二十九・汉纪二十一・孝元皇帝下.json",
+    "enhancements": "data/books/zizhitongjian/enhancements/增强-卷第二十九・汉纪二十一・孝元皇帝下.json",
+    "proofread": "data/books/zizhitongjian/proofread/校勘-卷第二十九・汉纪二十一・孝元皇帝下.md",
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第二十九・汉纪二十一・孝元皇帝下.md"
   },
   {
     "id": "zizhitongjian-0031",
@@ -574,7 +678,13 @@
       "data/books/zizhitongjian/proofread/校勘-卷第三十・汉纪二十二・孝成皇帝上之上.md",
       "data/books/zizhitongjian/proofread/翻译校验-卷第三十・汉纪二十二・孝成皇帝上之上.md",
       "data/books/zizhitongjian/proofread/本体校验-卷第三十・汉纪二十二・孝成皇帝上之上.md"
-    ]
+    ],
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第三十・汉纪二十二・孝成皇帝上之上.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第三十・汉纪二十二・孝成皇帝上之上.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第三十・汉纪二十二・孝成皇帝上之上.json",
+    "enhancements": "data/books/zizhitongjian/enhancements/增强-卷第三十・汉纪二十二・孝成皇帝上之上.json",
+    "proofread": "data/books/zizhitongjian/proofread/校勘-卷第三十・汉纪二十二・孝成皇帝上之上.md",
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第三十・汉纪二十二・孝成皇帝上之上.md"
   },
   {
     "id": "zizhitongjian-0032",
@@ -599,7 +709,13 @@
       "data/books/zizhitongjian/proofread/校勘-卷第三十一・汉纪二十三・孝成皇帝上之下.md",
       "data/books/zizhitongjian/proofread/翻译校验-卷第三十一・汉纪二十三・孝成皇帝上之下.md",
       "data/books/zizhitongjian/proofread/本体校验-卷第三十一・汉纪二十三・孝成皇帝上之下.md"
-    ]
+    ],
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第三十一・汉纪二十三・孝成皇帝上之下.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第三十一・汉纪二十三・孝成皇帝上之下.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第三十一・汉纪二十三・孝成皇帝上之下.json",
+    "enhancements": "data/books/zizhitongjian/enhancements/增强-卷第三十一・汉纪二十三・孝成皇帝上之下.json",
+    "proofread": "data/books/zizhitongjian/proofread/校勘-卷第三十一・汉纪二十三・孝成皇帝上之下.md",
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第三十一・汉纪二十三・孝成皇帝上之下.md"
   },
   {
     "id": "zizhitongjian-0033",
@@ -624,7 +740,13 @@
       "data/books/zizhitongjian/proofread/校勘-卷第三十二・汉纪二十四・孝成皇帝中.md",
       "data/books/zizhitongjian/proofread/翻译校验-卷第三十二・汉纪二十四・孝成皇帝中.md",
       "data/books/zizhitongjian/proofread/本体校验-卷第三十二・汉纪二十四・孝成皇帝中.md"
-    ]
+    ],
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第三十二・汉纪二十四・孝成皇帝中.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第三十二・汉纪二十四・孝成皇帝中.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第三十二・汉纪二十四・孝成皇帝中.json",
+    "enhancements": "data/books/zizhitongjian/enhancements/增强-卷第三十二・汉纪二十四・孝成皇帝中.json",
+    "proofread": "data/books/zizhitongjian/proofread/校勘-卷第三十二・汉纪二十四・孝成皇帝中.md",
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第三十二・汉纪二十四・孝成皇帝中.md"
   },
   {
     "id": "zizhitongjian-0034",
@@ -647,7 +769,13 @@
       "data/books/zizhitongjian/proofread/校勘-卷第三十三・汉纪二十五・孝成皇帝下・孝哀皇帝上.md",
       "data/books/zizhitongjian/proofread/翻译校验-卷第三十三・汉纪二十五・孝成皇帝下・孝哀皇帝上.md",
       "data/books/zizhitongjian/proofread/本体校验-卷第三十三・汉纪二十五・孝成皇帝下・孝哀皇帝上.md"
-    ]
+    ],
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第三十三・汉纪二十五・孝成皇帝下・孝哀皇帝上.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第三十三・汉纪二十五・孝成皇帝下・孝哀皇帝上.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第三十三・汉纪二十五・孝成皇帝下・孝哀皇帝上.json",
+    "enhancements": "data/books/zizhitongjian/enhancements/增强-卷第三十三・汉纪二十五・孝成皇帝下・孝哀皇帝上.json",
+    "proofread": "data/books/zizhitongjian/proofread/校勘-卷第三十三・汉纪二十五・孝成皇帝下・孝哀皇帝上.md",
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第三十三・汉纪二十五・孝成皇帝下・孝哀皇帝上.md"
   },
   {
     "id": "zizhitongjian-0035",
@@ -670,7 +798,13 @@
       "data/books/zizhitongjian/proofread/校勘-卷第三十四・汉纪二十六・孝哀皇帝中.md",
       "data/books/zizhitongjian/proofread/翻译校验-卷第三十四・汉纪二十六・孝哀皇帝中.md",
       "data/books/zizhitongjian/proofread/本体校验-卷第三十四・汉纪二十六・孝哀皇帝中.md"
-    ]
+    ],
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第三十四・汉纪二十六・孝哀皇帝中.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第三十四・汉纪二十六・孝哀皇帝中.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第三十四・汉纪二十六・孝哀皇帝中.json",
+    "enhancements": "data/books/zizhitongjian/enhancements/增强-卷第三十四・汉纪二十六・孝哀皇帝中.json",
+    "proofread": "data/books/zizhitongjian/proofread/校勘-卷第三十四・汉纪二十六・孝哀皇帝中.md",
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第三十四・汉纪二十六・孝哀皇帝中.md"
   },
   {
     "id": "zizhitongjian-0036",
@@ -681,7 +815,13 @@
     "tili_name": "编年",
     "para_count": 72,
     "char_count": 11344,
-    "annotation_count": 360
+    "annotation_count": 360,
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第三十五・汉纪二十七・孝哀皇帝下・孝平皇帝上.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第三十五・汉纪二十七・孝哀皇帝下・孝平皇帝上.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第三十五・汉纪二十七・孝哀皇帝下・孝平皇帝上.json",
+    "enhancements": "data/books/zizhitongjian/enhancements/增强-卷第三十五・汉纪二十七・孝哀皇帝下・孝平皇帝上.json",
+    "proofread": "data/books/zizhitongjian/proofread/校勘-卷第三十五・汉纪二十七・孝哀皇帝下・孝平皇帝上.md",
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第三十五・汉纪二十七・孝哀皇帝下・孝平皇帝上.md"
   },
   {
     "id": "zizhitongjian-0037",
