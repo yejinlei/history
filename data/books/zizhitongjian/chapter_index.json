@@ -821,7 +821,13 @@
     "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第三十五・汉纪二十七・孝哀皇帝下・孝平皇帝上.json",
     "enhancements": "data/books/zizhitongjian/enhancements/增强-卷第三十五・汉纪二十七・孝哀皇帝下・孝平皇帝上.json",
     "proofread": "data/books/zizhitongjian/proofread/校勘-卷第三十五・汉纪二十七・孝哀皇帝下・孝平皇帝上.md",
-    "review": "data/books/zizhitongjian/proofread/本体校验-卷第三十五・汉纪二十七・孝哀皇帝下・孝平皇帝上.md"
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第三十五・汉纪二十七・孝哀皇帝下・孝平皇帝上.md",
+    "translation_file": "data/books/zizhitongjian/translations/白话-定稿-卷第三十五・汉纪二十七・孝哀皇帝下・孝平皇帝上.md",
+    "draft_translation_file": "data/books/zizhitongjian/translations/白话-初稿-卷第三十五・汉纪二十七・孝哀皇帝下・孝平皇帝上.md",
+    "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第三十五・汉纪二十七・孝哀皇帝下・孝平皇帝上.json",
+    "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第三十五・汉纪二十七・孝哀皇帝下・孝平皇帝上.json",
+    "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第三十五・汉纪二十七・孝哀皇帝下・孝平皇帝上.json",
+    "enhancement_file": "data/books/zizhitongjian/enhancements/增强-卷第三十五・汉纪二十七・孝哀皇帝下・孝平皇帝上.json"
   },
   {
     "id": "zizhitongjian-0037",
@@ -838,7 +844,13 @@
     "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第三十六・汉纪二十八・孝平皇帝下・王莽上.json",
     "enhancements": "data/books/zizhitongjian/enhancements/增强-卷第三十六・汉纪二十八・孝平皇帝下・王莽上.json",
     "proofread": "data/books/zizhitongjian/proofread/校勘-卷第三十六・汉纪二十八・孝平皇帝下・王莽上.md",
-    "review": "data/books/zizhitongjian/proofread/本体校验-卷第三十六・汉纪二十八・孝平皇帝下・王莽上.md"
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第三十六・汉纪二十八・孝平皇帝下・王莽上.md",
+    "translation_file": "data/books/zizhitongjian/translations/白话-定稿-卷第三十六・汉纪二十八・孝平皇帝下・王莽上.md",
+    "draft_translation_file": "data/books/zizhitongjian/translations/白话-初稿-卷第三十六・汉纪二十八・孝平皇帝下・王莽上.md",
+    "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第三十六・汉纪二十八・孝平皇帝下・王莽上.json",
+    "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第三十六・汉纪二十八・孝平皇帝下・王莽上.json",
+    "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第三十六・汉纪二十八・孝平皇帝下・王莽上.json",
+    "enhancement_file": "data/books/zizhitongjian/enhancements/增强-卷第三十六・汉纪二十八・孝平皇帝下・王莽上.json"
   },
   {
     "id": "zizhitongjian-0038",
@@ -855,7 +867,13 @@
     "enhancements": "data/books/zizhitongjian/enhancements/增强-卷第三十七・汉纪二十九・王莽中.json",
     "proofread": "data/books/zizhitongjian/proofread/校勘-卷第三十七・汉纪二十九・王莽中.md",
     "review": "data/books/zizhitongjian/proofread/本体校验-卷第三十七・汉纪二十九・王莽中.md",
-    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第三十七・汉纪二十九・王莽中.json"
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第三十七・汉纪二十九・王莽中.json",
+    "translation_file": "data/books/zizhitongjian/translations/白话-定稿-卷第三十七・汉纪二十九・王莽中.md",
+    "draft_translation_file": "data/books/zizhitongjian/translations/白话-初稿-卷第三十七・汉纪二十九・王莽中.md",
+    "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第三十七・汉纪二十九・王莽中.json",
+    "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第三十七・汉纪二十九・王莽中.json",
+    "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第三十七・汉纪二十九・王莽中.json",
+    "enhancement_file": "data/books/zizhitongjian/enhancements/增强-卷第三十七・汉纪二十九・王莽中.json"
   },
   {
     "id": "zizhitongjian-0039",
@@ -872,7 +890,13 @@
     "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第三十八・汉纪三十・王莽下.json",
     "enhancements": "data/books/zizhitongjian/enhancements/增强-卷第三十八・汉纪三十・王莽下.json",
     "proofread": "data/books/zizhitongjian/proofread/校勘-卷第三十八・汉纪三十・王莽下.md",
-    "review": "data/books/zizhitongjian/proofread/本体校验-卷第三十八・汉纪三十・王莽下.md"
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第三十八・汉纪三十・王莽下.md",
+    "translation_file": "data/books/zizhitongjian/translations/白话-定稿-卷第三十八・汉纪三十・王莽下.md",
+    "draft_translation_file": "data/books/zizhitongjian/translations/白话-初稿-卷第三十八・汉纪三十・王莽下.md",
+    "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第三十八・汉纪三十・王莽下.json",
+    "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第三十八・汉纪三十・王莽下.json",
+    "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第三十八・汉纪三十・王莽下.json",
+    "enhancement_file": "data/books/zizhitongjian/enhancements/增强-卷第三十八・汉纪三十・王莽下.json"
   },
   {
     "id": "zizhitongjian-0040",
@@ -889,7 +913,13 @@
     "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第三十九・汉纪三十一・淮阳王.json",
     "enhancements": "data/books/zizhitongjian/enhancements/增强-卷第三十九・汉纪三十一・淮阳王.json",
     "proofread": "data/books/zizhitongjian/proofread/校勘-卷第三十九・汉纪三十一・淮阳王.md",
-    "review": "data/books/zizhitongjian/proofread/本体校验-卷第三十九・汉纪三十一・淮阳王.md"
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第三十九・汉纪三十一・淮阳王.md",
+    "translation_file": "data/books/zizhitongjian/translations/白话-定稿-卷第三十九・汉纪三十一・淮阳王.md",
+    "draft_translation_file": "data/books/zizhitongjian/translations/白话-初稿-卷第三十九・汉纪三十一・淮阳王.md",
+    "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第三十九・汉纪三十一・淮阳王.json",
+    "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第三十九・汉纪三十一・淮阳王.json",
+    "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第三十九・汉纪三十一・淮阳王.json",
+    "enhancement_file": "data/books/zizhitongjian/enhancements/增强-卷第三十九・汉纪三十一・淮阳王.json"
   },
   {
     "id": "zizhitongjian-0041",
@@ -906,7 +936,13 @@
     "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第四十・汉纪三十二・世祖光武皇帝上之上.json",
     "enhancements": "data/books/zizhitongjian/enhancements/增强-卷第四十・汉纪三十二・世祖光武皇帝上之上.json",
     "proofread": "data/books/zizhitongjian/proofread/校勘-卷第四十・汉纪三十二・世祖光武皇帝上之上.md",
-    "review": "data/books/zizhitongjian/proofread/本体校验-卷第四十・汉纪三十二・世祖光武皇帝上之上.md"
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第四十・汉纪三十二・世祖光武皇帝上之上.md",
+    "translation_file": "data/books/zizhitongjian/translations/白话-定稿-卷第四十・汉纪三十二・世祖光武皇帝上之上.md",
+    "draft_translation_file": "data/books/zizhitongjian/translations/白话-初稿-卷第四十・汉纪三十二・世祖光武皇帝上之上.md",
+    "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第四十・汉纪三十二・世祖光武皇帝上之上.json",
+    "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第四十・汉纪三十二・世祖光武皇帝上之上.json",
+    "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第四十・汉纪三十二・世祖光武皇帝上之上.json",
+    "enhancement_file": "data/books/zizhitongjian/enhancements/增强-卷第四十・汉纪三十二・世祖光武皇帝上之上.json"
   },
   {
     "id": "zizhitongjian-0042",
@@ -923,7 +959,13 @@
     "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第四十一・汉纪三十三・世祖光武皇帝上之下.json",
     "enhancements": "data/books/zizhitongjian/enhancements/增强-卷第四十一・汉纪三十三・世祖光武皇帝上之下.json",
     "proofread": "data/books/zizhitongjian/proofread/校勘-卷第四十一・汉纪三十三・世祖光武皇帝上之下.md",
-    "review": "data/books/zizhitongjian/proofread/本体校验-卷第四十一・汉纪三十三・世祖光武皇帝上之下.md"
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第四十一・汉纪三十三・世祖光武皇帝上之下.md",
+    "translation_file": "data/books/zizhitongjian/translations/白话-定稿-卷第四十一・汉纪三十三・世祖光武皇帝上之下.md",
+    "draft_translation_file": "data/books/zizhitongjian/translations/白话-初稿-卷第四十一・汉纪三十三・世祖光武皇帝上之下.md",
+    "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第四十一・汉纪三十三・世祖光武皇帝上之下.json",
+    "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第四十一・汉纪三十三・世祖光武皇帝上之下.json",
+    "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第四十一・汉纪三十三・世祖光武皇帝上之下.json",
+    "enhancement_file": "data/books/zizhitongjian/enhancements/增强-卷第四十一・汉纪三十三・世祖光武皇帝上之下.json"
   },
   {
     "id": "zizhitongjian-0043",
@@ -934,7 +976,19 @@
     "tili_name": "编年",
     "para_count": 106,
     "char_count": 11474,
-    "annotation_count": 340
+    "annotation_count": 340,
+    "translation_file": "data/books/zizhitongjian/translations/白话-定稿-卷第四十二・汉纪三十四・世祖光武皇帝中之上.md",
+    "draft_translation_file": "data/books/zizhitongjian/translations/白话-初稿-卷第四十二・汉纪三十四・世祖光武皇帝中之上.md",
+    "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第四十二・汉纪三十四・世祖光武皇帝中之上.json",
+    "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第四十二・汉纪三十四・世祖光武皇帝中之上.json",
+    "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第四十二・汉纪三十四・世祖光武皇帝中之上.json",
+    "enhancement_file": "data/books/zizhitongjian/enhancements/增强-卷第四十二・汉纪三十四・世祖光武皇帝中之上.json",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第四十二・汉纪三十四・世祖光武皇帝中之上.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第四十二・汉纪三十四・世祖光武皇帝中之上.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第四十二・汉纪三十四・世祖光武皇帝中之上.json",
+    "enhancements": "data/books/zizhitongjian/enhancements/增强-卷第四十二・汉纪三十四・世祖光武皇帝中之上.json",
+    "proofread": "data/books/zizhitongjian/proofread/校勘-卷第四十二・汉纪三十四・世祖光武皇帝中之上.md",
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第四十二・汉纪三十四・世祖光武皇帝中之上.md"
   },
   {
     "id": "zizhitongjian-0044",
