@@ -1172,14 +1172,31 @@
   },
   {
     "id": "zizhitongjian-0049",
-    "title": "卷第四十八・漢紀四十・孝和皇帝下",
+    "title": "卷第四十九・漢紀四十・孝和皇帝下",
     "juan": "卷0",
     "juan_num": 0,
     "tili": "biannian",
     "tili_name": "编年",
     "para_count": 140,
     "char_count": 10780,
-    "annotation_count": 323
+    "annotation_count": 323,
+    "translation_file": "data/books/zizhitongjian/translations/白话-定稿-卷第四十九・汉纪四十・孝和皇帝下.md",
+    "draft_translation_file": "data/books/zizhitongjian/translations/白话-初稿-卷第四十九・汉纪四十・孝和皇帝下.md",
+    "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第四十九・汉纪四十・孝和皇帝下.json",
+    "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第四十九・汉纪四十・孝和皇帝下.json",
+    "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第四十九・汉纪四十・孝和皇帝下.json",
+    "enhancement_file": "data/books/zizhitongjian/enhancements/增强-卷第四十九・汉纪四十・孝和皇帝下.json",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第四十九・汉纪四十・孝和皇帝下.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第四十九・汉纪四十・孝和皇帝下.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第四十九・汉纪四十・孝和皇帝下.json",
+    "enhancements": "data/books/zizhitongjian/enhancements/增强-卷第四十九・汉纪四十・孝和皇帝下.json",
+    "proofread": "data/books/zizhitongjian/proofread/校勘-卷第四十九・汉纪四十・孝和皇帝下.md",
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第四十九・汉纪四十・孝和皇帝下.md",
+    "proofread_files": [
+      "data/books/zizhitongjian/proofread/本体校验-卷第四十九・汉纪四十・孝和皇帝下.md",
+      "data/books/zizhitongjian/proofread/翻译校验-卷第四十九・汉纪四十・孝和皇帝下.md",
+      "data/books/zizhitongjian/proofread/校勘-卷第四十九・汉纪四十・孝和皇帝下.md"
+    ]
   },
   {
     "id": "zizhitongjian-0050",
