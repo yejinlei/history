@@ -1151,7 +1151,24 @@
     "tili_name": "编年",
     "para_count": 89,
     "char_count": 11086,
-    "annotation_count": 328
+    "annotation_count": 328,
+    "translation_file": "data/books/zizhitongjian/translations/白话-定稿-卷第四十七・汉纪三十九・肃宗孝章皇帝下・孝和皇帝上.md",
+    "draft_translation_file": "data/books/zizhitongjian/translations/白话-初稿-卷第四十七・汉纪三十九・肃宗孝章皇帝下・孝和皇帝上.md",
+    "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第四十七・汉纪三十九・肃宗孝章皇帝下・孝和皇帝上.json",
+    "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第四十七・汉纪三十九・肃宗孝章皇帝下・孝和皇帝上.json",
+    "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第四十七・汉纪三十九・肃宗孝章皇帝下・孝和皇帝上.json",
+    "enhancement_file": "data/books/zizhitongjian/enhancements/增强-卷第四十七・汉纪三十九・肃宗孝章皇帝下・孝和皇帝上.json",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第四十七・汉纪三十九・肃宗孝章皇帝下・孝和皇帝上.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第四十七・汉纪三十九・肃宗孝章皇帝下・孝和皇帝上.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第四十七・汉纪三十九・肃宗孝章皇帝下・孝和皇帝上.json",
+    "enhancements": "data/books/zizhitongjian/enhancements/增强-卷第四十七・汉纪三十九・肃宗孝章皇帝下・孝和皇帝上.json",
+    "proofread": "data/books/zizhitongjian/proofread/校勘-卷第四十七・汉纪三十九・肃宗孝章皇帝下・孝和皇帝上.md",
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第四十七・汉纪三十九・肃宗孝章皇帝下・孝和皇帝上.md",
+    "proofread_files": [
+      "data/books/zizhitongjian/proofread/本体校验-卷第四十七・汉纪三十九・肃宗孝章皇帝下・孝和皇帝上.md",
+      "data/books/zizhitongjian/proofread/翻译校验-卷第四十七・汉纪三十九・肃宗孝章皇帝下・孝和皇帝上.md",
+      "data/books/zizhitongjian/proofread/校勘-卷第四十七・汉纪三十九・肃宗孝章皇帝下・孝和皇帝上.md"
+    ]
   },
   {
     "id": "zizhitongjian-0049",
