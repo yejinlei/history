@@ -900,7 +900,13 @@
     "tili_name": "编年",
     "para_count": 95,
     "char_count": 12296,
-    "annotation_count": 354
+    "annotation_count": 354,
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第四十・汉纪三十二・世祖光武皇帝上之上.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第四十・汉纪三十二・世祖光武皇帝上之上.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第四十・汉纪三十二・世祖光武皇帝上之上.json",
+    "enhancements": "data/books/zizhitongjian/enhancements/增强-卷第四十・汉纪三十二・世祖光武皇帝上之上.json",
+    "proofread": "data/books/zizhitongjian/proofread/校勘-卷第四十・汉纪三十二・世祖光武皇帝上之上.md",
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第四十・汉纪三十二・世祖光武皇帝上之上.md"
   },
   {
     "id": "zizhitongjian-0042",
