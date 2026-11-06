@@ -258,10 +258,11 @@ function parseTranslation(md){
       while (i < lines.length) {
         const l = lines[i];
         if (l.match(/^\*\*第\d+段（底本/)) break;
-        if (l.startsWith('> 原文|')) { yw = l.slice(6).trim(); }
-        else if (l.startsWith('> 白话|')) { bh = l.slice(6).trim(); }
-        else if (l.startsWith('> 注：')) { zh = l.slice(4).trim(); }
-        else if (l.startsWith('> 注:')) { zh = l.slice(3).trim(); }
+        const ln = l.replace(/｜/g, '|');   // 兼容全角「｜」分隔符
+        let mm;
+        if ((mm = ln.match(/^>\s*原文\s*\|(.*)$/))) { yw = mm[1].replace(/^\d+/, '').trim(); }
+        else if ((mm = ln.match(/^>\s*白话\s*\|(.*)$/))) { bh = mm[1].trim(); }
+        else if ((mm = l.match(/^>\s*注\s*[:：]\s*(.*)$/))) { zh = mm[1].trim(); }
         i++;
       }
       paras.push({n, pn, yw, bh, zh});
@@ -321,7 +322,8 @@ function renderDuizhao(){
   const srcParas = curChData ? curChData.paras : [];
   let html = '';
   ps.forEach(function(p){
-    const src = srcParas[p.n - 1];
+    const pi = (p.pn && /^p\d+$/.test(p.pn)) ? (+p.pn.slice(1)) : (p.n - 1);  // 以「底本 pN」声明为准对齐
+    const src = srcParas[pi] || srcParas[p.n - 1];
     const ywText = src ? src.text.replace(/⟦\d+⟧/g,'') : p.yw;
     html += '<div class="duizhao-block" id="dz-p' + p.n + '">' +
       '<div class="dz-num">第 ' + p.n + ' 段</div>' +
