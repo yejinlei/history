@@ -917,7 +917,13 @@
     "tili_name": "编年",
     "para_count": 97,
     "char_count": 13080,
-    "annotation_count": 366
+    "annotation_count": 366,
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第四十一・汉纪三十三・世祖光武皇帝上之下.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第四十一・汉纪三十三・世祖光武皇帝上之下.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第四十一・汉纪三十三・世祖光武皇帝上之下.json",
+    "enhancements": "data/books/zizhitongjian/enhancements/增强-卷第四十一・汉纪三十三・世祖光武皇帝上之下.json",
+    "proofread": "data/books/zizhitongjian/proofread/校勘-卷第四十一・汉纪三十三・世祖光武皇帝上之下.md",
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第四十一・汉纪三十三・世祖光武皇帝上之下.md"
   },
   {
     "id": "zizhitongjian-0043",
