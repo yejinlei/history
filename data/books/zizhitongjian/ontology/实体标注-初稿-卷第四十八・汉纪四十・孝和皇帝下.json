@@ -1,0 +1,2881 @@
+{
+  "book_id": "zizhitongjian",
+  "chapter_id": "zizhitongjian-0049",
+  "chapter_title": "卷第四十八・汉纪四十・孝和皇帝下",
+  "version": "draft",
+  "generated_at": "2026-11-06 21:42:11",
+  "mentions": [
+    {
+      "para_id": "p3",
+      "text": "春季，正月，派遣大将军左校尉耿夔授予北匈奴于除鞬印信绶带，命中郎将任尚持符节护卫，屯驻伊吾，依照南单于的旧例行事。",
+      "mentions": [
+        {
+          "entity_id": "P013",
+          "entity_name": "大将军左校尉",
+          "entity_type": "person",
+          "start": 8,
+          "end": 14,
+          "surface": "大将军左校尉"
+        },
+        {
+          "entity_id": "P048",
+          "entity_name": "南单于",
+          "entity_type": "person",
+          "start": 48,
+          "end": 51,
+          "surface": "南单于"
+        },
+        {
+          "entity_id": "P013",
+          "entity_name": "耿夔",
+          "entity_type": "person",
+          "start": 14,
+          "end": 16,
+          "surface": "耿夔"
+        }
+      ]
+    },
+    {
+      "para_id": "p4",
+      "text": "当初，庐江人周荣被袁安征召到司徒府任职，袁安举奏窦景以及反对立北单于的奏章，都由周荣起草。窦氏的门客司徒掾徐齮十分痛恨他，威胁周荣说：「你作为袁公的心腹谋士，排挤弹劾窦氏，窦氏家的悍勇之士、刺客满布城中，你小心防备着吧！」周荣说：「我周荣是长江、淮河一带的孤苦书生，有幸能够充任宰辅属下的官吏，纵然被窦氏害死，我也心甘情愿！」于是告诫妻子儿女：「如果我突然遭遇飞来横祸，不要收殓安葬，我希望用自己这区区腐朽的身躯让朝廷警醒觉悟。」",
+      "mentions": [
+        {
+          "entity_id": "P007",
+          "entity_name": "窦景",
+          "entity_type": "person",
+          "start": 24,
+          "end": 26,
+          "surface": "窦景"
+        },
+        {
+          "entity_id": "P016",
+          "entity_name": "袁安",
+          "entity_type": "person",
+          "start": 9,
+          "end": 11,
+          "surface": "袁安"
+        },
+        {
+          "entity_id": "P016",
+          "entity_name": "袁安",
+          "entity_type": "person",
+          "start": 20,
+          "end": 22,
+          "surface": "袁安"
+        },
+        {
+          "entity_id": "P018",
+          "entity_name": "徐齮",
+          "entity_type": "person",
+          "start": 53,
+          "end": 55,
+          "surface": "徐齮"
+        },
+        {
+          "entity_id": "L032",
+          "entity_name": "庐江",
+          "entity_type": "place",
+          "start": 3,
+          "end": 5,
+          "surface": "庐江"
+        },
+        {
+          "entity_id": "P015",
+          "entity_name": "司徒",
+          "entity_type": "person",
+          "start": 14,
+          "end": 16,
+          "surface": "司徒"
+        },
+        {
+          "entity_id": "P015",
+          "entity_name": "司徒",
+          "entity_type": "person",
+          "start": 50,
+          "end": 52,
+          "surface": "司徒"
+        }
+      ]
+    },
+    {
+      "para_id": "p5",
+      "text": "三月癸丑日，司徒袁安去世。",
+      "mentions": [
+        {
+          "entity_id": "P016",
+          "entity_name": "袁安",
+          "entity_type": "person",
+          "start": 8,
+          "end": 10,
+          "surface": "袁安"
+        },
+        {
+          "entity_id": "P015",
+          "entity_name": "司徒",
+          "entity_type": "person",
+          "start": 6,
+          "end": 8,
+          "surface": "司徒"
+        }
+      ]
+    },
+    {
+      "para_id": "p6",
+      "text": "闰月丁丑日，任命太常丁鸿为司空。",
+      "mentions": [
+        {
+          "entity_id": "P015",
+          "entity_name": "丁鸿",
+          "entity_type": "person",
+          "start": 10,
+          "end": 12,
+          "surface": "丁鸿"
+        }
+      ]
+    },
+    {
+      "para_id": "p7",
+      "text": "夏季，四月丙辰日，窦笃回到京城洛阳。",
+      "mentions": [
+        {
+          "entity_id": "L001",
+          "entity_name": "洛阳",
+          "entity_type": "place",
+          "start": 15,
+          "end": 17,
+          "surface": "洛阳"
+        }
+      ]
+    },
+    {
+      "para_id": "p8",
+      "text": "六月戊戌朔日，发生日食。丁鸿上书说：「从前吕氏家族专权，皇室正统几乎被改换；汉哀帝、汉平帝末年，皇家宗庙得不到祭祀。所以即便是有周公那样的亲属关系，如果没有周公那样的品德，也不能执掌权柄。如今大将军窦笃虽然想要约束自身，不敢僭越本分，然而天下远近的官员，都惶恐地奉承他的旨意。刺史、二千石官员刚被任命时，要前去谒见、辞行，请求通报等待答复，即使已经拿到了朝廷的印信，接受了尚书台的敕令，也不敢随便离去，久的甚至要等几十天，他们背离王室，投向私人门下，这就是君主的威严受损、臣下的权势过盛的表现。人间的伦常在下面悖乱，天象就会显现出征兆，即使有隐秘的阴谋，神明也能洞察实情，降下天象警示，来告诫君主。在祸患还在萌芽时加以禁止就很容易，到了酿成大祸时再挽救就很困难；人们没有不忽略细微的小事，以致最终酿成大患的，出于恩情而不忍教诲，出于道义而不忍割舍，事情过去之后，再回看就是未来灾祸的明镜。上天不可以不刚健，不刚健日月星辰就不会明亮；君王不可以不强硬，不强硬地方官员就会横行不法。应当借这次大变故，改革朝政匡正过失，来回应上天的旨意！」",
+      "mentions": [
+        {
+          "entity_id": "P015",
+          "entity_name": "丁鸿",
+          "entity_type": "person",
+          "start": 12,
+          "end": 14,
+          "surface": "丁鸿"
+        }
+      ]
+    },
+    {
+      "para_id": "p11",
+      "text": "窦氏父子兄弟一同担任九卿、校尉等官职，布满朝廷，穰侯邓叠、邓叠的弟弟步兵校尉邓磊以及他们的母亲元、窦宪的女婿射声校尉郭举、郭举的父亲长乐少府郭璜互相勾结；元和郭举都可以在宫禁中出入，郭举得到太后的宠幸，于是一同图谋杀害皇帝，汉和帝暗中得知了他们的阴谋。这时，窦宪兄弟专揽大权，皇帝和内外的臣子无法亲自接触，和他相处的只有宦官而已。皇帝认为朝廷上下的臣子没有不依附窦宪的，只有中常侍钩盾令郑众，谨慎机敏有城府，不巴结豪强权贵，于是和郑众定计诛杀窦宪，因为窦宪当时领兵在外，怕他起兵作乱，所以忍耐着没有发动；正好赶上窦宪和邓叠都回到京城。当时清河王刘庆，受到的恩宠特别优厚，经常入宫在宫中留宿；皇帝将要发动计划，想要找《外戚传》来看，怕身边的人泄露，不敢派他们去找，就让刘庆私下向千乘王刘伉求取，夜里，单独把刘庆接入宫中；又让刘庆传话给郑众，搜集前朝诛杀外戚的先例。庚申日，皇帝临幸北宫，下诏命令执金吾、五校尉统领军队屯驻守卫南宫和北宫，关闭城门，逮捕郭璜、郭举、邓叠、邓磊，将他们全部下狱处死。派谒者仆射收缴窦宪的大将军印信绶带，改封他为冠军侯，和窦笃、窦景、窦瓌都前往各自的封国。皇帝因为太后的缘故，不想公开处死窦宪，为他挑选了严厉干练的封国相来监督他。窦宪、窦笃、窦景到达封国后，都被命令自杀。",
+      "mentions": [
+        {
+          "entity_id": "P010",
+          "entity_name": "射声校尉",
+          "entity_type": "person",
+          "start": 54,
+          "end": 58,
+          "surface": "射声校尉"
+        },
+        {
+          "entity_id": "P011",
+          "entity_name": "长乐少府",
+          "entity_type": "person",
+          "start": 66,
+          "end": 70,
+          "surface": "长乐少府"
+        },
+        {
+          "entity_id": "P007",
+          "entity_name": "窦景",
+          "entity_type": "person",
+          "start": 476,
+          "end": 478,
+          "surface": "窦景"
+        },
+        {
+          "entity_id": "P007",
+          "entity_name": "窦景",
+          "entity_type": "person",
+          "start": 533,
+          "end": 535,
+          "surface": "窦景"
+        },
+        {
+          "entity_id": "P008",
+          "entity_name": "窦瓌",
+          "entity_type": "person",
+          "start": 479,
+          "end": 481,
+          "surface": "窦瓌"
+        },
+        {
+          "entity_id": "P009",
+          "entity_name": "邓叠",
+          "entity_type": "person",
+          "start": 26,
+          "end": 28,
+          "surface": "邓叠"
+        },
+        {
+          "entity_id": "P009",
+          "entity_name": "邓叠",
+          "entity_type": "person",
+          "start": 29,
+          "end": 31,
+          "surface": "邓叠"
+        },
+        {
+          "entity_id": "P009",
+          "entity_name": "邓叠",
+          "entity_type": "person",
+          "start": 259,
+          "end": 261,
+          "surface": "邓叠"
+        },
+        {
+          "entity_id": "P009",
+          "entity_name": "邓叠",
+          "entity_type": "person",
+          "start": 430,
+          "end": 432,
+          "surface": "邓叠"
+        },
+        {
+          "entity_id": "P010",
+          "entity_name": "郭举",
+          "entity_type": "person",
+          "start": 58,
+          "end": 60,
+          "surface": "郭举"
+        },
+        {
+          "entity_id": "P010",
+          "entity_name": "郭举",
+          "entity_type": "person",
+          "start": 61,
+          "end": 63,
+          "surface": "郭举"
+        },
+        {
+          "entity_id": "P010",
+          "entity_name": "郭举",
+          "entity_type": "person",
+          "start": 79,
+          "end": 81,
+          "surface": "郭举"
+        },
+        {
+          "entity_id": "P010",
+          "entity_name": "郭举",
+          "entity_type": "person",
+          "start": 91,
+          "end": 93,
+          "surface": "郭举"
+        },
+        {
+          "entity_id": "P010",
+          "entity_name": "郭举",
+          "entity_type": "person",
+          "start": 427,
+          "end": 429,
+          "surface": "郭举"
+        },
+        {
+          "entity_id": "P011",
+          "entity_name": "郭璜",
+          "entity_type": "person",
+          "start": 70,
+          "end": 72,
+          "surface": "郭璜"
+        },
+        {
+          "entity_id": "P011",
+          "entity_name": "郭璜",
+          "entity_type": "person",
+          "start": 424,
+          "end": 426,
+          "surface": "郭璜"
+        },
+        {
+          "entity_id": "P012",
+          "entity_name": "郑众",
+          "entity_type": "person",
+          "start": 193,
+          "end": 195,
+          "surface": "郑众"
+        },
+        {
+          "entity_id": "P012",
+          "entity_name": "郑众",
+          "entity_type": "person",
+          "start": 215,
+          "end": 217,
+          "surface": "郑众"
+        },
+        {
+          "entity_id": "P012",
+          "entity_name": "郑众",
+          "entity_type": "person",
+          "start": 366,
+          "end": 368,
+          "surface": "郑众"
+        },
+        {
+          "entity_id": "P059",
+          "entity_name": "刘伉",
+          "entity_type": "person",
+          "start": 341,
+          "end": 343,
+          "surface": "刘伉"
+        },
+        {
+          "entity_id": "P009",
+          "entity_name": "穰侯",
+          "entity_type": "person",
+          "start": 24,
+          "end": 26,
+          "surface": "穰侯"
+        },
+        {
+          "entity_id": "P064",
+          "entity_name": "谒者",
+          "entity_type": "person",
+          "start": 447,
+          "end": 449,
+          "surface": "谒者"
+        }
+      ]
+    },
+    {
+      "para_id": "p12",
+      "text": "当初，河南尹张酺，屡次依法制裁窦景，等到窦氏败亡，张酺上书说：「当初窦宪等人显贵受宠的时候，群臣阿谀依附他们唯恐不及，都说窦宪接受了先帝临终顾命的嘱托，怀有伊尹、吕尚那样的忠心，甚至还把邓夫人比作周文王的母亲文母，如今威严的刑罚已经施行，又都说他们该被处死，不再顾及前后的言行，来考察折中正理。我看到夏阳侯窦瓌常常心怀忠善，之前和我交谈时，常有竭尽臣节的心意，他约束告诫自己的宾客，从来没有触犯法律。我听说君王施政对于骨肉亲属的刑罚，有三次宽宥的道义，可以宁可过于宽厚，也不要过于刻薄。如今议论的人想要为窦瓌挑选严厉干练的封国相，我担心这样逼迫太急，他一定无法保全性命，应当酌情加以宽宥，来增崇高厚的仁德。」皇帝被他的话感动，因此只有窦瓌得以保全。窦氏的宗族、宾客中凭借窦宪的关系做官的人，都被罢免官职，遣回原籍。",
+      "mentions": [
+        {
+          "entity_id": "P007",
+          "entity_name": "窦景",
+          "entity_type": "person",
+          "start": 15,
+          "end": 17,
+          "surface": "窦景"
+        },
+        {
+          "entity_id": "P008",
+          "entity_name": "窦瓌",
+          "entity_type": "person",
+          "start": 153,
+          "end": 155,
+          "surface": "窦瓌"
+        },
+        {
+          "entity_id": "P008",
+          "entity_name": "窦瓌",
+          "entity_type": "person",
+          "start": 252,
+          "end": 254,
+          "surface": "窦瓌"
+        },
+        {
+          "entity_id": "P008",
+          "entity_name": "窦瓌",
+          "entity_type": "person",
+          "start": 317,
+          "end": 319,
+          "surface": "窦瓌"
+        },
+        {
+          "entity_id": "P027",
+          "entity_name": "张酺",
+          "entity_type": "person",
+          "start": 6,
+          "end": 8,
+          "surface": "张酺"
+        },
+        {
+          "entity_id": "P027",
+          "entity_name": "张酺",
+          "entity_type": "person",
+          "start": 25,
+          "end": 27,
+          "surface": "张酺"
+        }
+      ]
+    },
+    {
+      "para_id": "p13",
+      "text": "当初，班固的家奴曾经醉酒辱骂长安令种兢，种兢趁着逮捕审讯窦氏宾客的机会，将班固逮捕入狱，班固死在狱中。班固曾经撰写《汉书》，还没有完成，皇帝下诏让班固的妹妹、曹寿的妻子班昭继续完成这部书。",
+      "mentions": [
+        {
+          "entity_id": "P019",
+          "entity_name": "班固",
+          "entity_type": "person",
+          "start": 3,
+          "end": 5,
+          "surface": "班固"
+        },
+        {
+          "entity_id": "P019",
+          "entity_name": "班固",
+          "entity_type": "person",
+          "start": 37,
+          "end": 39,
+          "surface": "班固"
+        },
+        {
+          "entity_id": "P019",
+          "entity_name": "班固",
+          "entity_type": "person",
+          "start": 44,
+          "end": 46,
+          "surface": "班固"
+        },
+        {
+          "entity_id": "P019",
+          "entity_name": "班固",
+          "entity_type": "person",
+          "start": 51,
+          "end": 53,
+          "surface": "班固"
+        },
+        {
+          "entity_id": "P019",
+          "entity_name": "班固",
+          "entity_type": "person",
+          "start": 73,
+          "end": 75,
+          "surface": "班固"
+        },
+        {
+          "entity_id": "P020",
+          "entity_name": "种兢",
+          "entity_type": "person",
+          "start": 17,
+          "end": 19,
+          "surface": "种兢"
+        },
+        {
+          "entity_id": "P020",
+          "entity_name": "种兢",
+          "entity_type": "person",
+          "start": 20,
+          "end": 22,
+          "surface": "种兢"
+        },
+        {
+          "entity_id": "L042",
+          "entity_name": "长安",
+          "entity_type": "place",
+          "start": 14,
+          "end": 16,
+          "surface": "长安"
+        }
+      ]
+    },
+    {
+      "para_id": "p14",
+      "text": "华峤评论说：班固叙事，不偏激不诡诈，不贬低不抬举，内容丰富而不杂乱，详尽而有体例，让读的人勤勉不倦而不厌烦，他能够成就名声确实是应该的啊！班固讥讽司马迁的是非标准和圣人多有违背，然而他自己的议论，常常贬斥为守节而死的人，否定正直的人，却不记述杀身成仁的美德，可见他轻视仁义、鄙视守节的态度太过分了！",
+      "mentions": [
+        {
+          "entity_id": "P019",
+          "entity_name": "班固",
+          "entity_type": "person",
+          "start": 6,
+          "end": 8,
+          "surface": "班固"
+        },
+        {
+          "entity_id": "P019",
+          "entity_name": "班固",
+          "entity_type": "person",
+          "start": 69,
+          "end": 71,
+          "surface": "班固"
+        }
+      ]
+    },
+    {
+      "para_id": "p15",
+      "text": "当初，窦宪娶妻，天下各郡国都派人送礼致贺。汉中郡也应当派官吏前往，户曹李郃劝谏刺史说：「窦将军是皇后的亲属，不修养德行礼义而专权骄横，危亡的祸患，踮起脚就可以等到；希望明府您一心效忠王室，不要和他交往。」太守坚持要派人去，李郃无法阻止，就请求自己前往，太守同意了。李郃于是一路上每到一处就停留下来，观望事态变化，走到扶风的时候，窦宪就被遣回封国了。凡是和窦宪有交往的官员都被牵连免官，唯独汉中太守没有被牵连。",
+      "mentions": [
+        {
+          "entity_id": "P051",
+          "entity_name": "李郃",
+          "entity_type": "person",
+          "start": 35,
+          "end": 37,
+          "surface": "李郃"
+        },
+        {
+          "entity_id": "P051",
+          "entity_name": "李郃",
+          "entity_type": "person",
+          "start": 111,
+          "end": 113,
+          "surface": "李郃"
+        },
+        {
+          "entity_id": "P051",
+          "entity_name": "李郃",
+          "entity_type": "person",
+          "start": 132,
+          "end": 134,
+          "surface": "李郃"
+        },
+        {
+          "entity_id": "L041",
+          "entity_name": "汉中",
+          "entity_type": "place",
+          "start": 21,
+          "end": 23,
+          "surface": "汉中"
+        },
+        {
+          "entity_id": "L041",
+          "entity_name": "汉中",
+          "entity_type": "place",
+          "start": 194,
+          "end": 196,
+          "surface": "汉中"
+        },
+        {
+          "entity_id": "C015",
+          "entity_name": "明府",
+          "entity_type": "concept",
+          "start": 84,
+          "end": 86,
+          "surface": "明府"
+        }
+      ]
+    },
+    {
+      "para_id": "p17",
+      "text": "皇帝任命袁安的儿子袁赏为郎官，任隗的儿子任屯为步兵校尉，蔡伦升任大长秋。皇帝评定功劳颁行赏赐，郑众常常推辞多的、接受少的，皇帝因此认为他贤能，常常和他商议政事，宦官掌权从此开始。",
+      "mentions": [
+        {
+          "entity_id": "P012",
+          "entity_name": "郑众",
+          "entity_type": "person",
+          "start": 47,
+          "end": 49,
+          "surface": "郑众"
+        },
+        {
+          "entity_id": "P016",
+          "entity_name": "袁安",
+          "entity_type": "person",
+          "start": 4,
+          "end": 6,
+          "surface": "袁安"
+        }
+      ]
+    },
+    {
+      "para_id": "p18",
+      "text": "秋季，七月乙丑日，太尉宋由因为是窦氏的党羽被颁策免职，自杀而死。",
+      "mentions": [
+        {
+          "entity_id": "P028",
+          "entity_name": "太尉",
+          "entity_type": "person",
+          "start": 9,
+          "end": 11,
+          "surface": "太尉"
+        }
+      ]
+    },
+    {
+      "para_id": "p20",
+      "text": "癸丑日，任命大司农尹睦为太尉。太傅邓彪因年老多病请求交还掌管机要的职务，皇帝下诏准许，命令尹睦代替邓彪统领尚书事务。",
+      "mentions": [
+        {
+          "entity_id": "P026",
+          "entity_name": "邓彪",
+          "entity_type": "person",
+          "start": 17,
+          "end": 19,
+          "surface": "邓彪"
+        },
+        {
+          "entity_id": "P026",
+          "entity_name": "邓彪",
+          "entity_type": "person",
+          "start": 49,
+          "end": 51,
+          "surface": "邓彪"
+        },
+        {
+          "entity_id": "P028",
+          "entity_name": "尹睦",
+          "entity_type": "person",
+          "start": 9,
+          "end": 11,
+          "surface": "尹睦"
+        },
+        {
+          "entity_id": "P028",
+          "entity_name": "尹睦",
+          "entity_type": "person",
+          "start": 45,
+          "end": 47,
+          "surface": "尹睦"
+        },
+        {
+          "entity_id": "P026",
+          "entity_name": "太傅",
+          "entity_type": "person",
+          "start": 15,
+          "end": 17,
+          "surface": "太傅"
+        },
+        {
+          "entity_id": "P028",
+          "entity_name": "太尉",
+          "entity_type": "person",
+          "start": 12,
+          "end": 14,
+          "surface": "太尉"
+        },
+        {
+          "entity_id": "L047",
+          "entity_name": "许",
+          "entity_type": "place",
+          "start": 41,
+          "end": 42,
+          "surface": "许"
+        }
+      ]
+    },
+    {
+      "para_id": "p23",
+      "text": "护羌校尉邓彪去世，官吏、百姓、羌人、胡人每天早晚来哭吊的有几千人。羌人、胡人有的用刀割自己，又刺杀他们的狗马牛羊，说：「邓使君已经死了，我们也都一起死吧！」之前邓训任乌桓校尉时的部下官吏士兵都在道路上奔走奔丧，以致城郭为之一空；当地官吏逮捕他们，他们也不肯听从，官吏把情况报告给校尉徐傿，徐傿叹息说：「这是义举啊！」就释放了他们。于是家家户户为邓训建立祠庙，每当有人生病，就向他祷告求福。",
+      "mentions": [
+        {
+          "entity_id": "C005",
+          "entity_name": "护羌校尉",
+          "entity_type": "concept",
+          "start": 0,
+          "end": 4,
+          "surface": "护羌校尉"
+        },
+        {
+          "entity_id": "P026",
+          "entity_name": "邓彪",
+          "entity_type": "person",
+          "start": 4,
+          "end": 6,
+          "surface": "邓彪"
+        }
+      ]
+    },
+    {
+      "para_id": "p24",
+      "text": "蜀郡太守聂尚代替邓训担任护羌校尉，想要用恩德安抚各羌人部落，于是派翻译使者招抚迷唐，让他返回大、小榆谷居住。迷唐回来之后，派他的祖母卑缺去见聂尚，聂尚亲自把她送到边塞外，为她设宴饯行，命令翻译田汜等五人护送她回到部落。迷唐于是反叛，和各部落一同将田汜等人活活屠杀肢解，用鲜血盟誓，再次进犯金城边塞。聂尚因此被免职。",
+      "mentions": [
+        {
+          "entity_id": "C002",
+          "entity_name": "大、小榆谷",
+          "entity_type": "concept",
+          "start": 46,
+          "end": 51,
+          "surface": "大、小榆谷"
+        },
+        {
+          "entity_id": "C005",
+          "entity_name": "护羌校尉",
+          "entity_type": "concept",
+          "start": 12,
+          "end": 16,
+          "surface": "护羌校尉"
+        },
+        {
+          "entity_id": "P023",
+          "entity_name": "聂尚",
+          "entity_type": "person",
+          "start": 4,
+          "end": 6,
+          "surface": "聂尚"
+        },
+        {
+          "entity_id": "P023",
+          "entity_name": "聂尚",
+          "entity_type": "person",
+          "start": 70,
+          "end": 72,
+          "surface": "聂尚"
+        },
+        {
+          "entity_id": "P023",
+          "entity_name": "聂尚",
+          "entity_type": "person",
+          "start": 73,
+          "end": 75,
+          "surface": "聂尚"
+        },
+        {
+          "entity_id": "P023",
+          "entity_name": "聂尚",
+          "entity_type": "person",
+          "start": 149,
+          "end": 151,
+          "surface": "聂尚"
+        },
+        {
+          "entity_id": "P049",
+          "entity_name": "迷唐",
+          "entity_type": "person",
+          "start": 39,
+          "end": 41,
+          "surface": "迷唐"
+        },
+        {
+          "entity_id": "P049",
+          "entity_name": "迷唐",
+          "entity_type": "person",
+          "start": 54,
+          "end": 56,
+          "surface": "迷唐"
+        },
+        {
+          "entity_id": "P049",
+          "entity_name": "迷唐",
+          "entity_type": "person",
+          "start": 109,
+          "end": 111,
+          "surface": "迷唐"
+        },
+        {
+          "entity_id": "L028",
+          "entity_name": "金城",
+          "entity_type": "place",
+          "start": 144,
+          "end": 146,
+          "surface": "金城"
+        },
+        {
+          "entity_id": "L038",
+          "entity_name": "蜀郡",
+          "entity_type": "place",
+          "start": 0,
+          "end": 2,
+          "surface": "蜀郡"
+        }
+      ]
+    },
+    {
+      "para_id": "p27",
+      "text": "戊子日，千乘贞王刘伉去世。",
+      "mentions": [
+        {
+          "entity_id": "P059",
+          "entity_name": "千乘贞王",
+          "entity_type": "person",
+          "start": 4,
+          "end": 8,
+          "surface": "千乘贞王"
+        },
+        {
+          "entity_id": "P059",
+          "entity_name": "刘伉",
+          "entity_type": "person",
+          "start": 8,
+          "end": 10,
+          "surface": "刘伉"
+        }
+      ]
+    },
+    {
+      "para_id": "p29",
+      "text": "甲寅日，太傅邓彪去世。",
+      "mentions": [
+        {
+          "entity_id": "P026",
+          "entity_name": "邓彪",
+          "entity_type": "person",
+          "start": 6,
+          "end": 8,
+          "surface": "邓彪"
+        },
+        {
+          "entity_id": "P026",
+          "entity_name": "太傅",
+          "entity_type": "person",
+          "start": 4,
+          "end": 6,
+          "surface": "太傅"
+        }
+      ]
+    },
+    {
+      "para_id": "p30",
+      "text": "戊午日，陇西郡发生地震。",
+      "mentions": [
+        {
+          "entity_id": "L029",
+          "entity_name": "陇西",
+          "entity_type": "place",
+          "start": 4,
+          "end": 6,
+          "surface": "陇西"
+        }
+      ]
+    },
+    {
+      "para_id": "p33",
+      "text": "当初，窦宪立於除鞬为北单于之后，想要护送他返回北匈奴王庭，正赶上窦宪被赦免就停止了。於除鞬自行叛变返回北方，皇帝下诏派遣将兵长史王辅率领一千多骑兵和任尚一同追击讨伐，将他斩首，消灭了他的部众。",
+      "mentions": [
+        {
+          "entity_id": "P045",
+          "entity_name": "於除鞬",
+          "entity_type": "person",
+          "start": 6,
+          "end": 9,
+          "surface": "於除鞬"
+        },
+        {
+          "entity_id": "P045",
+          "entity_name": "於除鞬",
+          "entity_type": "person",
+          "start": 42,
+          "end": 45,
+          "surface": "於除鞬"
+        }
+      ]
+    },
+    {
+      "para_id": "p34",
+      "text": "耿夔击败北匈奴之后，鲜卑人因此迁徙占据了北匈奴的旧地。留下来的匈奴余部还有十多万个帐落，都自称为鲜卑；鲜卑从此逐渐强盛起来。",
+      "mentions": [
+        {
+          "entity_id": "P013",
+          "entity_name": "耿夔",
+          "entity_type": "person",
+          "start": 0,
+          "end": 2,
+          "surface": "耿夔"
+        }
+      ]
+    },
+    {
+      "para_id": "p35",
+      "text": "冬季，十月辛未日，太尉尹睦去世。",
+      "mentions": [
+        {
+          "entity_id": "P028",
+          "entity_name": "尹睦",
+          "entity_type": "person",
+          "start": 11,
+          "end": 13,
+          "surface": "尹睦"
+        },
+        {
+          "entity_id": "P028",
+          "entity_name": "太尉",
+          "entity_type": "person",
+          "start": 9,
+          "end": 11,
+          "surface": "太尉"
+        }
+      ]
+    },
+    {
+      "para_id": "p36",
+      "text": "十一月乙丑日，太仆张酺被任命为太尉。张酺与尚书张敏等人上奏称：「射声校尉曹褒擅自制定汉朝礼仪，破坏扰乱圣人学术，应当判处死刑。」奏疏一共上了五次。和帝知道张酺拘守家学、不通达权变，虽然搁置了他们的奏疏，但曹褒所制定的汉礼最终没能推行。",
+      "mentions": [
+        {
+          "entity_id": "P010",
+          "entity_name": "射声校尉",
+          "entity_type": "person",
+          "start": 32,
+          "end": 36,
+          "surface": "射声校尉"
+        },
+        {
+          "entity_id": "P027",
+          "entity_name": "张酺",
+          "entity_type": "person",
+          "start": 9,
+          "end": 11,
+          "surface": "张酺"
+        },
+        {
+          "entity_id": "P027",
+          "entity_name": "张酺",
+          "entity_type": "person",
+          "start": 18,
+          "end": 20,
+          "surface": "张酺"
+        },
+        {
+          "entity_id": "P027",
+          "entity_name": "张酺",
+          "entity_type": "person",
+          "start": 77,
+          "end": 79,
+          "surface": "张酺"
+        },
+        {
+          "entity_id": "P028",
+          "entity_name": "太尉",
+          "entity_type": "person",
+          "start": 15,
+          "end": 17,
+          "surface": "太尉"
+        }
+      ]
+    },
+    {
+      "para_id": "p38",
+      "text": "梁王刘畅和随从官员卞忌祭祀求福，卞忌等人阿谀谄媚说：「神灵说大王应当做天子。」刘畅和他互相应答对话，被有关官员上奏弹劾，请求征召刘畅关进诏狱审讯。和帝不准许，只削去他成武、单父两个县的封邑。刘畅惭愧恐惧，上奏疏深刻自我责备说：「臣天性狂妄愚钝，不知防备禁令，自己陷入死罪，理应服罪被公开处死。陛下有圣明的品德，枉曲法令施以恩义，意外地宽赦了臣，替臣承受了污名。臣知道这样的大恩不可能再次得到，自己发誓约束自身、管教妻儿，不敢再有行为越轨、违背法度的事，不敢再有超出常度的开支，封地的租税收入有剩余，请求只享用睢阳、谷熟、虞、蒙、宁陵五个县的租税，归还剩下四个县的封邑。臣刘畅有妾三十七人，其中没有生子女的，愿意让她们返回娘家，自己只挑选谨慎规矩的奴婢二百人留下，其余配给的虎贲卫士、官骑以及各类工匠乐师、鼓吹手、仓头、奴婢，兵器弓弩、厩中马匹，都交还给原来的主管官署。臣刘畅作为皇室骨肉近亲，扰乱圣明教化，玷污清高的士流，既然得以活命，实在没有脸面再以罪恶之身居住在宽大的宫室里，享用大封国的租税，设置属官，收藏各类杂物，恳求陛下施恩准许臣的请求。」和帝下了褒美嘉奖的诏书，没有准许他的请求。",
+      "mentions": [
+        {
+          "entity_id": "L047",
+          "entity_name": "许",
+          "entity_type": "place",
+          "start": 77,
+          "end": 78,
+          "surface": "许"
+        },
+        {
+          "entity_id": "L047",
+          "entity_name": "许",
+          "entity_type": "place",
+          "start": 468,
+          "end": 469,
+          "surface": "许"
+        },
+        {
+          "entity_id": "L047",
+          "entity_name": "许",
+          "entity_type": "place",
+          "start": 490,
+          "end": 491,
+          "surface": "许"
+        }
+      ]
+    },
+    {
+      "para_id": "p39",
+      "text": "护羌校尉贯友派遣翻译使者离间各个羌人部落，用财物引诱他们，羌人的联盟因此解散。贯友于是派兵出塞，在大榆谷、小榆谷攻打迷唐，斩获敌人首级八百多颗，收缴麦子数万斛，接着沿逢留段黄河两岸修筑城堡坞壁，建造大型浮船，架设黄河浮桥，打算渡过军队攻打迷唐。迷唐率领部落向远方迁徙，到赐支河曲一带居住。",
+      "mentions": [
+        {
+          "entity_id": "C005",
+          "entity_name": "护羌校尉",
+          "entity_type": "concept",
+          "start": 0,
+          "end": 4,
+          "surface": "护羌校尉"
+        },
+        {
+          "entity_id": "P024",
+          "entity_name": "贯友",
+          "entity_type": "person",
+          "start": 4,
+          "end": 6,
+          "surface": "贯友"
+        },
+        {
+          "entity_id": "P024",
+          "entity_name": "贯友",
+          "entity_type": "person",
+          "start": 39,
+          "end": 41,
+          "surface": "贯友"
+        },
+        {
+          "entity_id": "P049",
+          "entity_name": "迷唐",
+          "entity_type": "person",
+          "start": 58,
+          "end": 60,
+          "surface": "迷唐"
+        },
+        {
+          "entity_id": "P049",
+          "entity_name": "迷唐",
+          "entity_type": "person",
+          "start": 119,
+          "end": 121,
+          "surface": "迷唐"
+        },
+        {
+          "entity_id": "P049",
+          "entity_name": "迷唐",
+          "entity_type": "person",
+          "start": 122,
+          "end": 124,
+          "surface": "迷唐"
+        }
+      ]
+    },
+    {
+      "para_id": "p40",
+      "text": "南匈奴单于屯屠何去世，前任单于宣的弟弟安国继位为单于。安国最初担任左贤王时，没有好的名声；等到他做了单于，前任单于宣的嫡子右谷蠡王师子按次序转任左贤王。师子素来勇猛狡黠、富有智谋，前任单于宣和屯屠何都欣赏他的勇气果决，多次派他率军出塞，突袭北匈奴王庭，回师后受到赏赐，汉朝天子也对他特别优待。因此匈奴国中所有人都敬重师子而不依附安国，安国想杀掉他；那些新近投降的胡人，当初在塞外时多次被师子率军驱赶劫掠，大多怨恨他。安国将谋划交给这些投降的人，和他们一同商议对策。师子察觉了他们的阴谋，就迁居到五原郡边界居住，每次龙庭举行集会议事，师子总是称病不去。度辽将军皇甫稜知道这件事，也庇护师子不派他前往龙庭，安国心中的愤恨更加强烈。",
+      "mentions": [
+        {
+          "entity_id": "P047",
+          "entity_name": "南匈奴单于",
+          "entity_type": "person",
+          "start": 0,
+          "end": 5,
+          "surface": "南匈奴单于"
+        },
+        {
+          "entity_id": "P047",
+          "entity_name": "师子",
+          "entity_type": "person",
+          "start": 65,
+          "end": 67,
+          "surface": "师子"
+        },
+        {
+          "entity_id": "P047",
+          "entity_name": "师子",
+          "entity_type": "person",
+          "start": 76,
+          "end": 78,
+          "surface": "师子"
+        },
+        {
+          "entity_id": "P047",
+          "entity_name": "师子",
+          "entity_type": "person",
+          "start": 158,
+          "end": 160,
+          "surface": "师子"
+        },
+        {
+          "entity_id": "P047",
+          "entity_name": "师子",
+          "entity_type": "person",
+          "start": 193,
+          "end": 195,
+          "surface": "师子"
+        },
+        {
+          "entity_id": "P047",
+          "entity_name": "师子",
+          "entity_type": "person",
+          "start": 232,
+          "end": 234,
+          "surface": "师子"
+        },
+        {
+          "entity_id": "P047",
+          "entity_name": "师子",
+          "entity_type": "person",
+          "start": 266,
+          "end": 268,
+          "surface": "师子"
+        },
+        {
+          "entity_id": "P047",
+          "entity_name": "师子",
+          "entity_type": "person",
+          "start": 291,
+          "end": 293,
+          "surface": "师子"
+        },
+        {
+          "entity_id": "P048",
+          "entity_name": "安国",
+          "entity_type": "person",
+          "start": 19,
+          "end": 21,
+          "surface": "安国"
+        },
+        {
+          "entity_id": "P048",
+          "entity_name": "安国",
+          "entity_type": "person",
+          "start": 27,
+          "end": 29,
+          "surface": "安国"
+        },
+        {
+          "entity_id": "P048",
+          "entity_name": "安国",
+          "entity_type": "person",
+          "start": 164,
+          "end": 166,
+          "surface": "安国"
+        },
+        {
+          "entity_id": "P048",
+          "entity_name": "安国",
+          "entity_type": "person",
+          "start": 167,
+          "end": 169,
+          "surface": "安国"
+        },
+        {
+          "entity_id": "P048",
+          "entity_name": "安国",
+          "entity_type": "person",
+          "start": 208,
+          "end": 210,
+          "surface": "安国"
+        },
+        {
+          "entity_id": "P048",
+          "entity_name": "安国",
+          "entity_type": "person",
+          "start": 301,
+          "end": 303,
+          "surface": "安国"
+        },
+        {
+          "entity_id": "L021",
+          "entity_name": "五原",
+          "entity_type": "place",
+          "start": 247,
+          "end": 249,
+          "surface": "五原"
+        }
+      ]
+    },
+    {
+      "para_id": "p42",
+      "text": "永元六年春季，正月，皇甫稜被免职，朝廷任命执金吾朱徽代理度辽将军。当时南单于与使匈奴中郎将杜崇不和，就上书控告杜崇；杜崇暗示西河太守截留单于的奏章，使得单于无法向朝廷申诉。杜崇趁机与朱徽联合上书说：「南单于安国，疏远旧部胡人，亲近新近投降的人，想要杀害左贤王师子和左台且渠刘利等人；另外，匈奴右部投降的人，谋划共同胁迫安国起兵反叛，请求西河、上郡、安定三郡为此做好警戒防备。」和帝将这件事交付公卿商议，大臣们都认为：「蛮夷反覆无常，虽然难以预测，但是大军聚集，他们必定不敢动摇。现在应当派遣有谋略的使者前往单于王庭，与杜崇、朱徽以及西河太守合力，观察他们的动静。如果没有其他变故，可以让杜崇等人到安国那里，召集他身边的大臣，责罚匈奴部众中横暴侵害边境的人，共同公平定罪、该诛杀的就诛杀。如果安国不听从命令，就让使者根据形势采取临时应对策略，事情结束之后，再酌情给予赏赐，这样也足以向各个蛮夷部族显示朝廷的威严。」于是朱徽、杜崇发兵前往单于王庭。安国夜里听说汉军到来，大惊失色，抛下营帐逃走，趁机想要起兵诛杀师子。师子事先得知消息，就率领全部落的人畜进入曼柏城；安国追到城下，城门关闭，无法进入。朱徽派官吏劝解安国和解，安国不听；城池久攻不下，安国就率军驻扎在五原。杜崇、朱徽于是征调各郡骑兵紧急追击，安国的部众十分恐慌，安国的舅舅骨都侯喜为等人担心一同被诛杀，就击杀了安国，拥立师子为亭独尸逐侯鞮单于。",
+      "mentions": [
+        {
+          "entity_id": "C007",
+          "entity_name": "匈奴中郎将",
+          "entity_type": "concept",
+          "start": 40,
+          "end": 45,
+          "surface": "匈奴中郎将"
+        },
+        {
+          "entity_id": "P048",
+          "entity_name": "南单于",
+          "entity_type": "person",
+          "start": 35,
+          "end": 38,
+          "surface": "南单于"
+        },
+        {
+          "entity_id": "P048",
+          "entity_name": "南单于",
+          "entity_type": "person",
+          "start": 100,
+          "end": 103,
+          "surface": "南单于"
+        },
+        {
+          "entity_id": "P044",
+          "entity_name": "朱徽",
+          "entity_type": "person",
+          "start": 24,
+          "end": 26,
+          "surface": "朱徽"
+        },
+        {
+          "entity_id": "P044",
+          "entity_name": "朱徽",
+          "entity_type": "person",
+          "start": 91,
+          "end": 93,
+          "surface": "朱徽"
+        },
+        {
+          "entity_id": "P044",
+          "entity_name": "朱徽",
+          "entity_type": "person",
+          "start": 262,
+          "end": 264,
+          "surface": "朱徽"
+        },
+        {
+          "entity_id": "P044",
+          "entity_name": "朱徽",
+          "entity_type": "person",
+          "start": 408,
+          "end": 410,
+          "surface": "朱徽"
+        },
+        {
+          "entity_id": "P044",
+          "entity_name": "朱徽",
+          "entity_type": "person",
+          "start": 497,
+          "end": 499,
+          "surface": "朱徽"
+        },
+        {
+          "entity_id": "P044",
+          "entity_name": "朱徽",
+          "entity_type": "person",
+          "start": 535,
+          "end": 537,
+          "surface": "朱徽"
+        },
+        {
+          "entity_id": "P047",
+          "entity_name": "师子",
+          "entity_type": "person",
+          "start": 129,
+          "end": 131,
+          "surface": "师子"
+        },
+        {
+          "entity_id": "P047",
+          "entity_name": "师子",
+          "entity_type": "person",
+          "start": 453,
+          "end": 455,
+          "surface": "师子"
+        },
+        {
+          "entity_id": "P047",
+          "entity_name": "师子",
+          "entity_type": "person",
+          "start": 456,
+          "end": 458,
+          "surface": "师子"
+        },
+        {
+          "entity_id": "P047",
+          "entity_name": "师子",
+          "entity_type": "person",
+          "start": 589,
+          "end": 591,
+          "surface": "师子"
+        },
+        {
+          "entity_id": "P048",
+          "entity_name": "安国",
+          "entity_type": "person",
+          "start": 103,
+          "end": 105,
+          "surface": "安国"
+        },
+        {
+          "entity_id": "P048",
+          "entity_name": "安国",
+          "entity_type": "person",
+          "start": 159,
+          "end": 161,
+          "surface": "安国"
+        },
+        {
+          "entity_id": "P048",
+          "entity_name": "安国",
+          "entity_type": "person",
+          "start": 298,
+          "end": 300,
+          "surface": "安国"
+        },
+        {
+          "entity_id": "P048",
+          "entity_name": "安国",
+          "entity_type": "person",
+          "start": 345,
+          "end": 347,
+          "surface": "安国"
+        },
+        {
+          "entity_id": "P048",
+          "entity_name": "安国",
+          "entity_type": "person",
+          "start": 422,
+          "end": 424,
+          "surface": "安国"
+        },
+        {
+          "entity_id": "P048",
+          "entity_name": "安国",
+          "entity_type": "person",
+          "start": 480,
+          "end": 482,
+          "surface": "安国"
+        },
+        {
+          "entity_id": "P048",
+          "entity_name": "安国",
+          "entity_type": "person",
+          "start": 504,
+          "end": 506,
+          "surface": "安国"
+        },
+        {
+          "entity_id": "P048",
+          "entity_name": "安国",
+          "entity_type": "person",
+          "start": 509,
+          "end": 511,
+          "surface": "安国"
+        },
+        {
+          "entity_id": "P048",
+          "entity_name": "安国",
+          "entity_type": "person",
+          "start": 521,
+          "end": 523,
+          "surface": "安国"
+        },
+        {
+          "entity_id": "P048",
+          "entity_name": "安国",
+          "entity_type": "person",
+          "start": 550,
+          "end": 552,
+          "surface": "安国"
+        },
+        {
+          "entity_id": "P048",
+          "entity_name": "安国",
+          "entity_type": "person",
+          "start": 560,
+          "end": 562,
+          "surface": "安国"
+        },
+        {
+          "entity_id": "P048",
+          "entity_name": "安国",
+          "entity_type": "person",
+          "start": 584,
+          "end": 586,
+          "surface": "安国"
+        },
+        {
+          "entity_id": "L019",
+          "entity_name": "曼柏",
+          "entity_type": "place",
+          "start": 476,
+          "end": 478,
+          "surface": "曼柏"
+        },
+        {
+          "entity_id": "L021",
+          "entity_name": "五原",
+          "entity_type": "place",
+          "start": 529,
+          "end": 531,
+          "surface": "五原"
+        }
+      ]
+    },
+    {
+      "para_id": "p43",
+      "text": "己卯日，司徒丁鸿去世。",
+      "mentions": [
+        {
+          "entity_id": "P015",
+          "entity_name": "丁鸿",
+          "entity_type": "person",
+          "start": 6,
+          "end": 8,
+          "surface": "丁鸿"
+        },
+        {
+          "entity_id": "P015",
+          "entity_name": "司徒",
+          "entity_type": "person",
+          "start": 4,
+          "end": 6,
+          "surface": "司徒"
+        }
+      ]
+    },
+    {
+      "para_id": "p44",
+      "text": "二月丁未日，朝廷任命司空刘方为司徒，太常张奋为司空。",
+      "mentions": [
+        {
+          "entity_id": "P041",
+          "entity_name": "张奋",
+          "entity_type": "person",
+          "start": 20,
+          "end": 22,
+          "surface": "张奋"
+        },
+        {
+          "entity_id": "P015",
+          "entity_name": "司徒",
+          "entity_type": "person",
+          "start": 15,
+          "end": 17,
+          "surface": "司徒"
+        }
+      ]
+    },
+    {
+      "para_id": "p47",
+      "text": "西域都护班超征调龟兹、鄯善等八国的军队共计七万余人讨伐焉耆，大军抵达焉耆城下，将焉耆王广、尉犁王汎等人诱骗到陈睦过去驻守的城池，将他们斩首，首级传送到京城；接着放纵士兵劫掠，斩杀五千多人，俘获俘虏一万五千人，改立焉耆左侯元孟为焉耆王。班超在焉耆停留半年，安抚当地民众。于是西域五十多个国家全部送纳人质归附汉朝，远至西海之滨，四万里外的国家，都经过辗转翻译前来进贡。",
+      "mentions": [
+        {
+          "entity_id": "C003",
+          "entity_name": "西域都护",
+          "entity_type": "concept",
+          "start": 0,
+          "end": 4,
+          "surface": "西域都护"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "班超",
+          "entity_type": "person",
+          "start": 4,
+          "end": 6,
+          "surface": "班超"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "班超",
+          "entity_type": "person",
+          "start": 117,
+          "end": 119,
+          "surface": "班超"
+        },
+        {
+          "entity_id": "L015",
+          "entity_name": "西海",
+          "entity_type": "place",
+          "start": 157,
+          "end": 159,
+          "surface": "西海"
+        }
+      ]
+    },
+    {
+      "para_id": "p48",
+      "text": "南单于师子继位后，投降的胡人五六百人在夜里袭击师子，安集掾王恬率领护卫士兵与他们交战，击败了叛军。于是投降的胡人互相惊扰煽动，十五个部落二十多万人全部反叛，胁迫拥立前单于屯屠何的儿子薁鞬日逐王逢侯为单于，接着杀戮劫掠官吏百姓，焚烧邮亭、庐帐，携带车辆辎重向朔方郡方向行进，想要逃到大漠以北。九月癸丑日，朝廷任命光禄勋邓鸿代理车骑将军事务，与越骑校尉冯柱、代理度辽将军朱徽率领左右羽林军、北军五校士兵以及郡国迹射士、边境驻军，乌桓校尉任尚率领乌桓、鲜卑军队共计四万人讨伐叛军。当时南单于和中郎将杜崇驻扎在牧师城，逢侯率领一万多骑兵围攻他们。冬季，十一月，邓鸿等人率军抵达美稷，逢侯这才解除包围离开，向满夷谷方向退去。南单于派儿子率领一万骑兵以及杜崇统领的四千骑兵，与邓鸿等人一起在大城塞追击逢侯，斩杀四千多人。任尚率领鲜卑、乌桓军队在满夷谷截击逢侯，又大败叛军，前后一共斩杀一万七千多人。逢侯于是率领部众逃出塞外，汉军无法追击，就撤军返回。",
+      "mentions": [
+        {
+          "entity_id": "L020",
+          "entity_name": "满夷谷",
+          "entity_type": "place",
+          "start": 299,
+          "end": 302,
+          "surface": "满夷谷"
+        },
+        {
+          "entity_id": "L020",
+          "entity_name": "满夷谷",
+          "entity_type": "place",
+          "start": 366,
+          "end": 369,
+          "surface": "满夷谷"
+        },
+        {
+          "entity_id": "P048",
+          "entity_name": "南单于",
+          "entity_type": "person",
+          "start": 0,
+          "end": 3,
+          "surface": "南单于"
+        },
+        {
+          "entity_id": "P048",
+          "entity_name": "南单于",
+          "entity_type": "person",
+          "start": 239,
+          "end": 242,
+          "surface": "南单于"
+        },
+        {
+          "entity_id": "P048",
+          "entity_name": "南单于",
+          "entity_type": "person",
+          "start": 307,
+          "end": 310,
+          "surface": "南单于"
+        },
+        {
+          "entity_id": "P044",
+          "entity_name": "朱徽",
+          "entity_type": "person",
+          "start": 183,
+          "end": 185,
+          "surface": "朱徽"
+        },
+        {
+          "entity_id": "P047",
+          "entity_name": "师子",
+          "entity_type": "person",
+          "start": 3,
+          "end": 5,
+          "surface": "师子"
+        },
+        {
+          "entity_id": "P047",
+          "entity_name": "师子",
+          "entity_type": "person",
+          "start": 23,
+          "end": 25,
+          "surface": "师子"
+        },
+        {
+          "entity_id": "L018",
+          "entity_name": "美稷",
+          "entity_type": "place",
+          "start": 284,
+          "end": 286,
+          "surface": "美稷"
+        },
+        {
+          "entity_id": "L022",
+          "entity_name": "朔方",
+          "entity_type": "place",
+          "start": 128,
+          "end": 130,
+          "surface": "朔方"
+        }
+      ]
+    },
+    {
+      "para_id": "p50",
+      "text": "和帝任命尚书令江夏人黄香为东郡太守，黄香推辞说：「掌管一郡行政事务，我的才能并不合适，请求留任闲散官员，赐给我一个负责督察责罚的小职务，承担宫中和尚书台的繁杂事务。」和帝于是再次将他留任尚书令，将他的俸禄增加到二千石，十分亲近器重他。黄香也恭敬勤勉地处理各项事务，忧虑公事如同处理家事。",
+      "mentions": [
+        {
+          "entity_id": "P057",
+          "entity_name": "黄香",
+          "entity_type": "person",
+          "start": 10,
+          "end": 12,
+          "surface": "黄香"
+        },
+        {
+          "entity_id": "P057",
+          "entity_name": "黄香",
+          "entity_type": "person",
+          "start": 18,
+          "end": 20,
+          "surface": "黄香"
+        },
+        {
+          "entity_id": "P057",
+          "entity_name": "黄香",
+          "entity_type": "person",
+          "start": 117,
+          "end": 119,
+          "surface": "黄香"
+        }
+      ]
+    },
+    {
+      "para_id": "p52",
+      "text": "永元七年春季，正月，邓鸿等人率军返回，冯柱率领虎牙营留驻五原；邓鸿因作战逗留观望、贻误战机获罪，被关进监狱处死。后来和帝得知朱徽、杜崇与匈奴失和，又禁止单于上书，才导致匈奴反叛，将两人都征召回京，关进监狱处死。",
+      "mentions": [
+        {
+          "entity_id": "P044",
+          "entity_name": "朱徽",
+          "entity_type": "person",
+          "start": 62,
+          "end": 64,
+          "surface": "朱徽"
+        },
+        {
+          "entity_id": "L021",
+          "entity_name": "五原",
+          "entity_type": "place",
+          "start": 28,
+          "end": 30,
+          "surface": "五原"
+        }
+      ]
+    },
+    {
+      "para_id": "p60",
+      "text": "五月，河内郡、汝南郡发生蝗灾。",
+      "mentions": [
+        {
+          "entity_id": "L033",
+          "entity_name": "汝南",
+          "entity_type": "place",
+          "start": 7,
+          "end": 9,
+          "surface": "汝南"
+        }
+      ]
+    },
+    {
+      "para_id": "p61",
+      "text": "南匈奴右温禺犊王乌居战反叛，逃出塞外。秋季，七月，度辽将军庞奋、越骑校尉冯柱追击击败了他，将他剩余的部众以及其他投降的胡人共二万多人迁徙到安定郡、北地郡安置。",
+      "mentions": [
+        {
+          "entity_id": "P033",
+          "entity_name": "庞奋",
+          "entity_type": "person",
+          "start": 29,
+          "end": 31,
+          "surface": "庞奋"
+        }
+      ]
+    },
+    {
+      "para_id": "p62",
+      "text": "车师后部王涿鞮反叛，攻击车师前王尉毕大，俘获了他的妻子儿女。",
+      "mentions": [
+        {
+          "entity_id": "L013",
+          "entity_name": "车师",
+          "entity_type": "place",
+          "start": 0,
+          "end": 2,
+          "surface": "车师"
+        },
+        {
+          "entity_id": "L013",
+          "entity_name": "车师",
+          "entity_type": "place",
+          "start": 12,
+          "end": 14,
+          "surface": "车师"
+        }
+      ]
+    },
+    {
+      "para_id": "p67",
+      "text": "护羌校尉贯友去世，朝廷任命汉阳太守史充接替他的职务。史充到任后，征发湟中的羌人、胡人军队出塞攻打迷唐。迷唐迎击并打败了史充的军队，杀死数百人。史充因此获罪被征召回京，朝廷任命代郡太守吴祉接替他。",
+      "mentions": [
+        {
+          "entity_id": "C005",
+          "entity_name": "护羌校尉",
+          "entity_type": "concept",
+          "start": 0,
+          "end": 4,
+          "surface": "护羌校尉"
+        },
+        {
+          "entity_id": "P024",
+          "entity_name": "贯友",
+          "entity_type": "person",
+          "start": 4,
+          "end": 6,
+          "surface": "贯友"
+        },
+        {
+          "entity_id": "P049",
+          "entity_name": "迷唐",
+          "entity_type": "person",
+          "start": 48,
+          "end": 50,
+          "surface": "迷唐"
+        },
+        {
+          "entity_id": "P049",
+          "entity_name": "迷唐",
+          "entity_type": "person",
+          "start": 51,
+          "end": 53,
+          "surface": "迷唐"
+        }
+      ]
+    },
+    {
+      "para_id": "p69",
+      "text": "永元九年春季，三月庚辰日，陇西郡发生地震。",
+      "mentions": [
+        {
+          "entity_id": "L029",
+          "entity_name": "陇西",
+          "entity_type": "place",
+          "start": 13,
+          "end": 15,
+          "surface": "陇西"
+        }
+      ]
+    },
+    {
+      "para_id": "p71",
+      "text": "西域长史王林攻打车师后王，将他斩首。",
+      "mentions": [
+        {
+          "entity_id": "L013",
+          "entity_name": "车师",
+          "entity_type": "place",
+          "start": 8,
+          "end": 10,
+          "surface": "车师"
+        }
+      ]
+    },
+    {
+      "para_id": "p76",
+      "text": "闰八月辛巳日，皇太后窦氏驾崩。当初，梁贵人死后，宫中的事情隐秘，没有人知道皇帝是梁氏所生。舞阴公主的儿子梁扈派堂兄梁䄠向三公府呈上文书，认为「汉朝旧有制度，尊崇皇帝的生母，而梁贵人亲自生育了皇上，却没有获得尊号，请求为她申辩议定尊号。」太尉张酺向皇帝说明情况，皇帝感伤哀痛了很久，说：「你认为这件事该怎么办？」张酺请求追尊梁贵人的尊号，录用抚恤各位舅父。皇帝听从了他的建议。恰逢梁贵人的姐姐、南阳人樊调的妻子梁嫕上书为自己申诉说：「我的父亲梁竦冤死在牢狱之中，尸骨没有被掩埋；母亲年逾七十，和弟弟梁棠等人远在边远之地，不知道是死是活。请求允许我收殓梁竦的朽骨，让母亲、弟弟能够返回原籍郡国。」皇帝召见梁嫕，才知道梁贵人冤死的情况。三公上奏说：「请求依照光武帝废黜吕太后的旧例，贬去窦太后的尊号，不应当让她和先帝合葬。」百官也有很多人上书进言。皇帝亲手写诏书说：「窦氏虽然不遵守法度，但太后常常自我减省克制。我侍奉她十年，深思大义：礼制中，臣子没有贬损尊长的条文，从恩情上讲不忍心分离，从道义上讲不忍心亏待。查考前代，上官太后也没有被废黜，这件事不要再议论了！」丙申日，安葬章德皇后。",
+      "mentions": [
+        {
+          "entity_id": "P027",
+          "entity_name": "张酺",
+          "entity_type": "person",
+          "start": 120,
+          "end": 122,
+          "surface": "张酺"
+        },
+        {
+          "entity_id": "P027",
+          "entity_name": "张酺",
+          "entity_type": "person",
+          "start": 155,
+          "end": 157,
+          "surface": "张酺"
+        },
+        {
+          "entity_id": "P028",
+          "entity_name": "太尉",
+          "entity_type": "person",
+          "start": 118,
+          "end": 120,
+          "surface": "太尉"
+        },
+        {
+          "entity_id": "L047",
+          "entity_name": "许",
+          "entity_type": "place",
+          "start": 270,
+          "end": 271,
+          "surface": "许"
+        }
+      ]
+    },
+    {
+      "para_id": "p77",
+      "text": "烧当羌首领迷唐率领部众八千人侵犯陇西，胁迫塞内各羌人部落合计步骑兵三万人击败了陇西郡的军队，杀死大夏县县长。皇帝下诏派遣代理征西将军刘尚、越骑校尉赵世作为他的副将，率领汉军、羌人、胡人共三万人讨伐他们。刘尚驻扎在狄道，赵世驻扎在枹罕；刘尚派遣司马寇盱监督各郡的军队，从四面一同会合。迷唐恐惧，抛下老弱部众，逃入临洮以南。刘尚等人追到高山，大败迷唐，斩杀一千多敌人。迷唐退走，汉军死伤也很多，不能再追击，就回师了。",
+      "mentions": [
+        {
+          "entity_id": "P049",
+          "entity_name": "迷唐",
+          "entity_type": "person",
+          "start": 5,
+          "end": 7,
+          "surface": "迷唐"
+        },
+        {
+          "entity_id": "P049",
+          "entity_name": "迷唐",
+          "entity_type": "person",
+          "start": 141,
+          "end": 143,
+          "surface": "迷唐"
+        },
+        {
+          "entity_id": "P049",
+          "entity_name": "迷唐",
+          "entity_type": "person",
+          "start": 171,
+          "end": 173,
+          "surface": "迷唐"
+        },
+        {
+          "entity_id": "P049",
+          "entity_name": "迷唐",
+          "entity_type": "person",
+          "start": 182,
+          "end": 184,
+          "surface": "迷唐"
+        },
+        {
+          "entity_id": "L029",
+          "entity_name": "陇西",
+          "entity_type": "place",
+          "start": 16,
+          "end": 18,
+          "surface": "陇西"
+        },
+        {
+          "entity_id": "L029",
+          "entity_name": "陇西",
+          "entity_type": "place",
+          "start": 39,
+          "end": 41,
+          "surface": "陇西"
+        }
+      ]
+    },
+    {
+      "para_id": "p78",
+      "text": "九月庚申日，司徒刘方被颁策免职，自杀。",
+      "mentions": [
+        {
+          "entity_id": "P015",
+          "entity_name": "司徒",
+          "entity_type": "person",
+          "start": 6,
+          "end": 8,
+          "surface": "司徒"
+        }
+      ]
+    },
+    {
+      "para_id": "p80",
+      "text": "清河王刘庆这才敢请求为母亲宋贵人祭扫坟墓，皇帝答应了他，下诏让太官四季供给祭祀用具。刘庆流着泪说：「母亲在世时我虽然没能奉养，最终能够供奉祭祀，我的心愿就满足了！」他想请求为母亲修建祠堂，又怕有自比于恭怀梁皇后的嫌疑，于是不敢说，常常对着身边的人哭泣，认为这是终身的遗憾。后来他上书说：「外祖母王氏年老，请求让她到洛阳治病。」于是皇帝下诏让宋氏家族全部返回京城，任命刘庆的舅舅宋衍、宋俊、宋盖、宋暹等人都为郎官。",
+      "mentions": [
+        {
+          "entity_id": "L001",
+          "entity_name": "洛阳",
+          "entity_type": "place",
+          "start": 157,
+          "end": 159,
+          "surface": "洛阳"
+        }
+      ]
+    },
+    {
+      "para_id": "p81",
+      "text": "十一月癸卯日，任命卫尉河南人吕盖为司徒。",
+      "mentions": [
+        {
+          "entity_id": "P036",
+          "entity_name": "吕盖",
+          "entity_type": "person",
+          "start": 14,
+          "end": 16,
+          "surface": "吕盖"
+        },
+        {
+          "entity_id": "P015",
+          "entity_name": "司徒",
+          "entity_type": "person",
+          "start": 17,
+          "end": 19,
+          "surface": "司徒"
+        }
+      ]
+    },
+    {
+      "para_id": "p82",
+      "text": "十二月丙寅日，司空张奋被免职。壬申日，任命太仆韩棱为司空。",
+      "mentions": [
+        {
+          "entity_id": "P041",
+          "entity_name": "张奋",
+          "entity_type": "person",
+          "start": 9,
+          "end": 11,
+          "surface": "张奋"
+        }
+      ]
+    },
+    {
+      "para_id": "p83",
+      "text": "西域都护定远侯班超派遣属官甘英出使大秦、条支，走到西海的尽头，这些地方都是前代人没有到过的，甘英全面了解了当地的风土人情，带回了那里珍奇物产的记载。走到安息的西部边界，面对着大海，想要渡海，船夫对甘英说：「海面辽阔，往来的人如果遇到顺风，三个月才能渡过去，如果遇到逆风，也有需要两年的；所以入海的人都要带上三年的粮食，海上航行容易使人思念故土、留恋家人，常常有人死亡。」甘英于是停止了西行。",
+      "mentions": [
+        {
+          "entity_id": "C003",
+          "entity_name": "西域都护",
+          "entity_type": "concept",
+          "start": 0,
+          "end": 4,
+          "surface": "西域都护"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "班超",
+          "entity_type": "person",
+          "start": 7,
+          "end": 9,
+          "surface": "班超"
+        },
+        {
+          "entity_id": "L015",
+          "entity_name": "西海",
+          "entity_type": "place",
+          "start": 25,
+          "end": 27,
+          "surface": "西海"
+        },
+        {
+          "entity_id": "L045",
+          "entity_name": "条支",
+          "entity_type": "place",
+          "start": 20,
+          "end": 22,
+          "surface": "条支"
+        }
+      ]
+    },
+    {
+      "para_id": "p85",
+      "text": "夏季五月，京城洛阳发生大水灾。",
+      "mentions": [
+        {
+          "entity_id": "L001",
+          "entity_name": "洛阳",
+          "entity_type": "place",
+          "start": 7,
+          "end": 9,
+          "surface": "洛阳"
+        }
+      ]
+    },
+    {
+      "para_id": "p86",
+      "text": "秋季七月己巳日，司空韩棱去世。八月丙子日，任命太常泰山人鲁恭为司空。",
+      "mentions": [
+        {
+          "entity_id": "P038",
+          "entity_name": "鲁恭",
+          "entity_type": "person",
+          "start": 28,
+          "end": 30,
+          "surface": "鲁恭"
+        }
+      ]
+    },
+    {
+      "para_id": "p88",
+      "text": "代理征西将军刘尚、越骑校尉赵世因畏惧懦弱被征召回京，关进监狱，免去官职。谒者王信统领刘尚的军营驻扎在枹罕，谒者耿谭统领赵世的军营驻扎在白石。耿谭于是设置悬赏，各部落有不少人前来归附。迷唐恐惧，于是请求投降；王信、耿谭就接受了他的投降，停止用兵。十二月，迷唐等人率领部落民众到京城朝见，进献贡品。",
+      "mentions": [
+        {
+          "entity_id": "P049",
+          "entity_name": "迷唐",
+          "entity_type": "person",
+          "start": 91,
+          "end": 93,
+          "surface": "迷唐"
+        },
+        {
+          "entity_id": "P049",
+          "entity_name": "迷唐",
+          "entity_type": "person",
+          "start": 126,
+          "end": 128,
+          "surface": "迷唐"
+        },
+        {
+          "entity_id": "P064",
+          "entity_name": "谒者",
+          "entity_type": "person",
+          "start": 36,
+          "end": 38,
+          "surface": "谒者"
+        },
+        {
+          "entity_id": "P064",
+          "entity_name": "谒者",
+          "entity_type": "person",
+          "start": 53,
+          "end": 55,
+          "surface": "谒者"
+        }
+      ]
+    },
+    {
+      "para_id": "p90",
+      "text": "当初，居巢侯刘般去世，他的儿子刘恺应当继承爵位，刘恺声称父亲的遗愿，要把爵位让给哥哥刘宪，自己逃走了很久，主管官员上奏请求撤销刘恺的封国。肃宗（章帝）赞赏他的义行，特别宽待他，刘恺还是不肯出来。过了十多年，主管官员再次上奏这件事，侍中贾逵上书说：「孔子说『能以礼让治理国家，还有什么困难呢』。主管官员不推究他乐于行善的心意，却用寻常的法令来约束他，恐怕这不是鼓励谦让风气、成就宽宏教化的做法。」皇帝采纳了他的意见，下诏说：「国家的法律推崇善行，成全别人的美德，准许刘宪继承爵位；但这是遇事的权宜处置，以后不能以此为先例。」于是征召刘恺，任命他为郎官。",
+      "mentions": [
+        {
+          "entity_id": "L047",
+          "entity_name": "许",
+          "entity_type": "place",
+          "start": 231,
+          "end": 232,
+          "surface": "许"
+        }
+      ]
+    },
+    {
+      "para_id": "p91",
+      "text": "南匈奴单于师子去世，单于长的儿子檀继位，就是万氏尸逐鞮单于。",
+      "mentions": [
+        {
+          "entity_id": "P047",
+          "entity_name": "南匈奴单于",
+          "entity_type": "person",
+          "start": 0,
+          "end": 5,
+          "surface": "南匈奴单于"
+        },
+        {
+          "entity_id": "P047",
+          "entity_name": "师子",
+          "entity_type": "person",
+          "start": 5,
+          "end": 7,
+          "surface": "师子"
+        }
+      ]
+    },
+    {
+      "para_id": "p94",
+      "text": "皇帝趁朝会的机会，召见诸位儒者，让中大夫鲁丕和侍中贾逵、尚书令黄香等人就几个经义问题互相辩难，皇帝认为鲁丕的说法很好，散朝后，特别赐给他衣冠。鲁丕趁机上书说：「我听说讲解经书的人，是传述先师的学说，不是自己创立的说法，所以不能互相谦让；互相谦让道理就讲不明白，就像圆规、方矩、秤锤、秤杆不能歪斜一样。辩难的人一定要明确他的依据，解说的人务必确立他的义理，浮华无用的言论，不要摆在面前，所以不用费尽精神思考而道术就会更加显明。对持有不同师法的人，让他们各自说明自己师承的学说，广泛观览他们的义理，不要让浅陋的人因为言论获罪，避免让偏远地方的学问有遗失不见的遗憾。」",
+      "mentions": [
+        {
+          "entity_id": "P057",
+          "entity_name": "黄香",
+          "entity_type": "person",
+          "start": 31,
+          "end": 33,
+          "surface": "黄香"
+        }
+      ]
+    },
+    {
+      "para_id": "p98",
+      "text": "九月戊午日，太尉张酺被免职。丙寅日，任命大司农张禹为太尉。",
+      "mentions": [
+        {
+          "entity_id": "P027",
+          "entity_name": "张酺",
+          "entity_type": "person",
+          "start": 8,
+          "end": 10,
+          "surface": "张酺"
+        },
+        {
+          "entity_id": "P034",
+          "entity_name": "张禹",
+          "entity_type": "person",
+          "start": 23,
+          "end": 25,
+          "surface": "张禹"
+        },
+        {
+          "entity_id": "P028",
+          "entity_name": "太尉",
+          "entity_type": "person",
+          "start": 6,
+          "end": 8,
+          "surface": "太尉"
+        },
+        {
+          "entity_id": "P028",
+          "entity_name": "太尉",
+          "entity_type": "person",
+          "start": 26,
+          "end": 28,
+          "surface": "太尉"
+        }
+      ]
+    },
+    {
+      "para_id": "p99",
+      "text": "烧当羌首领迷唐朝见之后，他剩下的部众不足两千人，饥饿困窘无法生存，进入金城郡居住。皇帝命令迷唐率领他的部众返回大、小榆谷；迷唐认为汉朝修建了河桥，军队往来无常，旧地不能再居住，以部众饥饿为借口，不肯远迁出塞。护羌校尉吴祉等人赐给迷唐很多金帛，让他买谷物、买牲畜，催促他率部出塞，部众反而更加猜疑惊惧。这一年，迷唐再次反叛，胁迫湟中各胡人部落抢掠之后离去，王信、耿谭、吴祉都因此获罪被征召回京。",
+      "mentions": [
+        {
+          "entity_id": "C002",
+          "entity_name": "大、小榆谷",
+          "entity_type": "concept",
+          "start": 55,
+          "end": 60,
+          "surface": "大、小榆谷"
+        },
+        {
+          "entity_id": "C005",
+          "entity_name": "护羌校尉",
+          "entity_type": "concept",
+          "start": 104,
+          "end": 108,
+          "surface": "护羌校尉"
+        },
+        {
+          "entity_id": "P049",
+          "entity_name": "迷唐",
+          "entity_type": "person",
+          "start": 5,
+          "end": 7,
+          "surface": "迷唐"
+        },
+        {
+          "entity_id": "P049",
+          "entity_name": "迷唐",
+          "entity_type": "person",
+          "start": 45,
+          "end": 47,
+          "surface": "迷唐"
+        },
+        {
+          "entity_id": "P049",
+          "entity_name": "迷唐",
+          "entity_type": "person",
+          "start": 61,
+          "end": 63,
+          "surface": "迷唐"
+        },
+        {
+          "entity_id": "P049",
+          "entity_name": "迷唐",
+          "entity_type": "person",
+          "start": 114,
+          "end": 116,
+          "surface": "迷唐"
+        },
+        {
+          "entity_id": "P049",
+          "entity_name": "迷唐",
+          "entity_type": "person",
+          "start": 154,
+          "end": 156,
+          "surface": "迷唐"
+        },
+        {
+          "entity_id": "L028",
+          "entity_name": "金城",
+          "entity_type": "place",
+          "start": 35,
+          "end": 37,
+          "surface": "金城"
+        }
+      ]
+    },
+    {
+      "para_id": "p102",
+      "text": "迷唐又回到赐支河曲，率兵逼近边塞。护羌校尉周鲔和金城太守侯霸，会同各郡军队、属国的羌人、胡人共计三万人出塞，到达允川。侯霸击败迷唐，迷唐的部众溃散，投降的有六千多人，被分别迁徙到汉阳、安定、陇西。迷唐势力于是衰弱，远远越过赐支河的源头，投靠发羌居住。很久之后，迷唐病死，他的儿子前来投降，部众不满几十户。",
+      "mentions": [
+        {
+          "entity_id": "C005",
+          "entity_name": "护羌校尉",
+          "entity_type": "concept",
+          "start": 17,
+          "end": 21,
+          "surface": "护羌校尉"
+        },
+        {
+          "entity_id": "P049",
+          "entity_name": "迷唐",
+          "entity_type": "person",
+          "start": 0,
+          "end": 2,
+          "surface": "迷唐"
+        },
+        {
+          "entity_id": "P049",
+          "entity_name": "迷唐",
+          "entity_type": "person",
+          "start": 63,
+          "end": 65,
+          "surface": "迷唐"
+        },
+        {
+          "entity_id": "P049",
+          "entity_name": "迷唐",
+          "entity_type": "person",
+          "start": 66,
+          "end": 68,
+          "surface": "迷唐"
+        },
+        {
+          "entity_id": "P049",
+          "entity_name": "迷唐",
+          "entity_type": "person",
+          "start": 98,
+          "end": 100,
+          "surface": "迷唐"
+        },
+        {
+          "entity_id": "P049",
+          "entity_name": "迷唐",
+          "entity_type": "person",
+          "start": 130,
+          "end": 132,
+          "surface": "迷唐"
+        },
+        {
+          "entity_id": "L028",
+          "entity_name": "金城",
+          "entity_type": "place",
+          "start": 24,
+          "end": 26,
+          "surface": "金城"
+        },
+        {
+          "entity_id": "L029",
+          "entity_name": "陇西",
+          "entity_type": "place",
+          "start": 95,
+          "end": 97,
+          "surface": "陇西"
+        }
+      ]
+    },
+    {
+      "para_id": "p106",
+      "text": "戊辰日，司徒吕盖因年老多病请求退休。",
+      "mentions": [
+        {
+          "entity_id": "P036",
+          "entity_name": "吕盖",
+          "entity_type": "person",
+          "start": 6,
+          "end": 8,
+          "surface": "吕盖"
+        },
+        {
+          "entity_id": "P015",
+          "entity_name": "司徒",
+          "entity_type": "person",
+          "start": 4,
+          "end": 6,
+          "surface": "司徒"
+        }
+      ]
+    },
+    {
+      "para_id": "p107",
+      "text": "巫蛮许圣因为郡中收税不公平，心怀怨恨，于是造反；辛卯日，进犯南郡。",
+      "mentions": [
+        {
+          "entity_id": "L047",
+          "entity_name": "许",
+          "entity_type": "place",
+          "start": 2,
+          "end": 3,
+          "surface": "许"
+        }
+      ]
+    },
+    {
+      "para_id": "p109",
+      "text": "春季，安定郡归降羌人烧何部反叛，郡兵进击消灭了他们。当时西海以及大、小榆谷一带不再有羌人寇患，隃麋侯相曹凤上书说：「自从建武年间以来，西羌触犯法令的，常常从烧当部开始，之所以这样，是因为他们居住在大、小榆谷，土地肥沃，有西海的鱼盐之利，倚仗黄河作为坚固的屏障。另外，靠近边塞的各部，容易做非法之事，朝廷难以征讨，所以能够强大，常在各部中称雄，依仗他们的勇力，招引诱惑羌人、胡人。如今他们衰败困窘，党羽外援败坏溃散，逃亡逃窜，远远投靠发羌。臣认为应当趁此时恢复建立西海郡县，规划巩固大、小榆谷地区，广泛设置屯田，阻断羌胡往来勾结的道路，遏制断绝狂妄狡诈之徒觊觎窥伺的源头。同时种植谷物使边境富足，减省转运物资的劳役，国家就可以没有西方的忧患了。」和帝听从了他的建议，修整旧西海郡，迁徙金城西部都尉来驻守该地，任命曹凤为金城西部都尉，屯驻龙耆。后来增广屯田，屯田沿黄河两岸分布，共有三十四部。这项功业即将建成，恰逢永初年间，各部羌人反叛，于是废止。",
+      "mentions": [
+        {
+          "entity_id": "C002",
+          "entity_name": "大、小榆谷",
+          "entity_type": "concept",
+          "start": 32,
+          "end": 37,
+          "surface": "大、小榆谷"
+        },
+        {
+          "entity_id": "C002",
+          "entity_name": "大、小榆谷",
+          "entity_type": "concept",
+          "start": 98,
+          "end": 103,
+          "surface": "大、小榆谷"
+        },
+        {
+          "entity_id": "C002",
+          "entity_name": "大、小榆谷",
+          "entity_type": "concept",
+          "start": 240,
+          "end": 245,
+          "surface": "大、小榆谷"
+        },
+        {
+          "entity_id": "P025",
+          "entity_name": "曹凤",
+          "entity_type": "person",
+          "start": 51,
+          "end": 53,
+          "surface": "曹凤"
+        },
+        {
+          "entity_id": "P025",
+          "entity_name": "曹凤",
+          "entity_type": "person",
+          "start": 355,
+          "end": 357,
+          "surface": "曹凤"
+        },
+        {
+          "entity_id": "L015",
+          "entity_name": "西海",
+          "entity_type": "place",
+          "start": 28,
+          "end": 30,
+          "surface": "西海"
+        },
+        {
+          "entity_id": "L015",
+          "entity_name": "西海",
+          "entity_type": "place",
+          "start": 110,
+          "end": 112,
+          "surface": "西海"
+        },
+        {
+          "entity_id": "L015",
+          "entity_name": "西海",
+          "entity_type": "place",
+          "start": 231,
+          "end": 233,
+          "surface": "西海"
+        },
+        {
+          "entity_id": "L015",
+          "entity_name": "西海",
+          "entity_type": "place",
+          "start": 335,
+          "end": 337,
+          "surface": "西海"
+        },
+        {
+          "entity_id": "L028",
+          "entity_name": "金城",
+          "entity_type": "place",
+          "start": 341,
+          "end": 343,
+          "surface": "金城"
+        },
+        {
+          "entity_id": "L028",
+          "entity_name": "金城",
+          "entity_type": "place",
+          "start": 358,
+          "end": 360,
+          "surface": "金城"
+        }
+      ]
+    },
+    {
+      "para_id": "p111",
+      "text": "夏季四月，朝廷派遣使者督率荆州兵一万多人，分路讨伐巫蛮许圣等人，大败叛军。许圣等人请求投降，朝廷将他们全部迁徙安置到江夏郡。",
+      "mentions": [
+        {
+          "entity_id": "L047",
+          "entity_name": "许",
+          "entity_type": "place",
+          "start": 27,
+          "end": 28,
+          "surface": "许"
+        },
+        {
+          "entity_id": "L047",
+          "entity_name": "许",
+          "entity_type": "place",
+          "start": 37,
+          "end": 38,
+          "surface": "许"
+        }
+      ]
+    },
+    {
+      "para_id": "p115",
+      "text": "班超久在边远异域，年老思念故土，上书请求归国说：「臣不敢奢望能到酒泉郡，只希望活着进入玉门关。现在谨派儿子班勇随安息国进献贡品的使者进入边塞，趁臣还活着，让班勇亲眼见到中原故土。」朝廷很久没有答复，班超的妹妹曹大家上书说：「蛮夷的本性，悖逆作乱、欺侮老人；而班超年事已高，早晚就要离世，长久不见有人替代，恐怕会开启奸邪为乱的源头，滋生叛逆作乱的心思。而卿大夫都只顾一时权宜，没人肯做长远考虑，如果突然发生暴乱，班超的气力不能随心应对，就会上损国家累世建立的功业，下弃忠臣竭力取得的成果，实在令人痛心！所以班超万里归国表达忠诚，自己陈述困苦危急，伸长脖子遥望朝廷，至今已经三年，没有被朝廷省察采纳。妾私下听说古时十五岁接受兵器参军，六十岁归还家乡，也有休息不再任职的制度。所以妾敢冒死为班超乞求哀怜，乞求让班超在剩余的年岁里，能够活着回来，再次见到宫阙朝廷，使国家没有远征的烦劳，西域没有突发事变的忧患，班超也能长久蒙受周文王葬骨那样的恩惠，田子方哀怜老马那样的仁德。」和帝被她的话感动，于是征召班超回朝。八月，班超到达洛阳，被任命为射声校尉；九月，班超去世。",
+      "mentions": [
+        {
+          "entity_id": "P010",
+          "entity_name": "射声校尉",
+          "entity_type": "person",
+          "start": 466,
+          "end": 470,
+          "surface": "射声校尉"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "班超",
+          "entity_type": "person",
+          "start": 0,
+          "end": 2,
+          "surface": "班超"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "班超",
+          "entity_type": "person",
+          "start": 99,
+          "end": 101,
+          "surface": "班超"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "班超",
+          "entity_type": "person",
+          "start": 129,
+          "end": 131,
+          "surface": "班超"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "班超",
+          "entity_type": "person",
+          "start": 205,
+          "end": 207,
+          "surface": "班超"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "班超",
+          "entity_type": "person",
+          "start": 252,
+          "end": 254,
+          "surface": "班超"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "班超",
+          "entity_type": "person",
+          "start": 342,
+          "end": 344,
+          "surface": "班超"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "班超",
+          "entity_type": "person",
+          "start": 352,
+          "end": 354,
+          "surface": "班超"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "班超",
+          "entity_type": "person",
+          "start": 401,
+          "end": 403,
+          "surface": "班超"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "班超",
+          "entity_type": "person",
+          "start": 447,
+          "end": 449,
+          "surface": "班超"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "班超",
+          "entity_type": "person",
+          "start": 455,
+          "end": 457,
+          "surface": "班超"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "班超",
+          "entity_type": "person",
+          "start": 474,
+          "end": 476,
+          "surface": "班超"
+        },
+        {
+          "entity_id": "L001",
+          "entity_name": "洛阳",
+          "entity_type": "place",
+          "start": 459,
+          "end": 461,
+          "surface": "洛阳"
+        },
+        {
+          "entity_id": "L027",
+          "entity_name": "酒泉",
+          "entity_type": "place",
+          "start": 32,
+          "end": 34,
+          "surface": "酒泉"
+        }
+      ]
+    },
+    {
+      "para_id": "p116",
+      "text": "班超被征召时，朝廷以西域都护任尚代替他任都护。任尚对班超说：「君侯在外国三十多年，而我侥幸承接您的职位，责任重大而智谋短浅，您应该有话教导我！」班超说：「我年老糊涂，没有什么智慧。您多次身居高位，哪里是我班超能比得上的！如果一定要我说，我愿意进献愚见：塞外的官吏士卒，本来就不是孝子顺孙，都是因为犯罪被迁徙到边地屯戍的；而蛮夷怀着鸟兽一样的心性，难以教养、容易败乱。如今您性情严厉急躁，水太清澈就没有大鱼，为政过于苛察就不能得到下属的和同，应该宽松简易，宽恕小的过失，只把握大的原则就可以了。」班超离开后，任尚私下对自己亲近的人说：「我以为班君会有奇策，现在他说的，不过是平常的话罢了。」任尚后来果然破坏了边境的和睦，正如班超所说的那样。",
+      "mentions": [
+        {
+          "entity_id": "C003",
+          "entity_name": "西域都护",
+          "entity_type": "concept",
+          "start": 10,
+          "end": 14,
+          "surface": "西域都护"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "班超",
+          "entity_type": "person",
+          "start": 0,
+          "end": 2,
+          "surface": "班超"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "班超",
+          "entity_type": "person",
+          "start": 26,
+          "end": 28,
+          "surface": "班超"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "班超",
+          "entity_type": "person",
+          "start": 72,
+          "end": 74,
+          "surface": "班超"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "班超",
+          "entity_type": "person",
+          "start": 102,
+          "end": 104,
+          "surface": "班超"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "班超",
+          "entity_type": "person",
+          "start": 247,
+          "end": 249,
+          "surface": "班超"
+        },
+        {
+          "entity_id": "P021",
+          "entity_name": "班超",
+          "entity_type": "person",
+          "start": 311,
+          "end": 313,
+          "surface": "班超"
+        }
+      ]
+    },
+    {
+      "para_id": "p117",
+      "text": "当初，太傅邓禹曾经对人说：「我统领百万大军，从来没有妄杀过一个人，后代必定有兴起的人。」他的儿子护羌校尉邓训，有个女儿叫邓绥，性情孝顺友爱，喜好典籍，常常白天修习妇功，晚上诵读经书经典，家人称她为「诸生」。她的叔父邓陔说：「我听说救活千人的人，子孙会受封爵。兄长邓训做谒者时，被派去修治石臼河，每年救活数千人，天道可以信赖，家族必定会蒙受福泽。」邓绥后来被选入宫中成为贵人，她恭谨小心，举止都合乎法度，侍奉阴皇后，对待同级的妃嫔，常常克制自己居人之下，即使是宫女仆役，她都施加恩惠、厚待他们，和帝非常赞赏她。她曾经生病，和帝特意让她的母亲、兄弟入宫照料医药，不限制天数，邓贵人推辞说：「宫禁是极为重要的地方，却让外家久在宫禁之内，对上会让陛下蒙受偏爱私家的讥议，对下会让贱妾遭到不知足的诽谤，上下都受到损害，我实在不愿意这样！」和帝说：「别人都把多次入宫当作荣耀，贵人反而以此为忧啊！」每次有宴会，妃嫔们都争相修饰打扮，只有邓贵人崇尚朴素，如果她的衣服有和阴皇后同色的，就立刻换下；如果同时进见，她不敢正坐并立，行走时就躬身表示谦卑；和帝每次询问事情，她常常迟疑退让后才回答，不敢抢在阴皇后之前说话。阴皇后身材矮小，举止时有失礼仪，身边的人都掩口发笑，只有邓贵人悲伤不乐，为她遮掩避讳，就像自己犯了过失一样。和帝知道贵人劳心委屈自己，感叹说：「修养德行的辛劳，竟然到了这种地步！」后来阴皇后恩宠衰减，邓贵人每当要被进见时，就以生病推辞。当时和帝多次失去皇子，邓贵人忧虑继嗣不多，多次挑选才人进献给和帝，以博和帝的欢心。阴皇后见邓贵人的德行声誉一天比一天高，非常嫉妒她；和帝曾经卧病，情况危急，阴皇后私下说：「我要是掌权，不让邓家再有活口！」邓贵人听说后，流着泪说：「我竭尽诚心侍奉皇后，竟然不被她护佑。如今我应当跟着皇帝去死，上以报答皇帝的恩德，中以解除宗族的祸患，下不让皇后遭到人彘那样的讥评。」当即要喝毒药自尽。宫人赵玉坚决阻止她，于是谎称「刚才有使者来，皇上的病已经好了」，邓贵人才停了下来。第二天，皇帝果然痊愈了。等到阴皇后被废，邓贵人设法营救，没能成功；和帝想立邓贵人为皇后，邓贵人更声称病重，深居简出加以推辞。冬季十月辛卯日，和帝下诏立邓贵人为皇后；邓皇后辞谢推让，不得已，然后才即位。她下令全部禁止郡国进贡物品，每年四季只供应纸墨就可以了。和帝每次想给邓氏家族加官进爵，邓皇后就苦苦哀求谦让，所以她的哥哥邓骘在和帝在位时官职不过虎贲中郎将。",
+      "mentions": [
+        {
+          "entity_id": "C005",
+          "entity_name": "护羌校尉",
+          "entity_type": "concept",
+          "start": 48,
+          "end": 52,
+          "surface": "护羌校尉"
+        },
+        {
+          "entity_id": "P004",
+          "entity_name": "邓绥",
+          "entity_type": "person",
+          "start": 60,
+          "end": 62,
+          "surface": "邓绥"
+        },
+        {
+          "entity_id": "P004",
+          "entity_name": "邓绥",
+          "entity_type": "person",
+          "start": 173,
+          "end": 175,
+          "surface": "邓绥"
+        },
+        {
+          "entity_id": "P026",
+          "entity_name": "太傅",
+          "entity_type": "person",
+          "start": 3,
+          "end": 5,
+          "surface": "太傅"
+        },
+        {
+          "entity_id": "P064",
+          "entity_name": "谒者",
+          "entity_type": "person",
+          "start": 134,
+          "end": 136,
+          "surface": "谒者"
+        }
+      ]
+    },
+    {
+      "para_id": "p118",
+      "text": "丁酉日，司空巢堪被罢免。",
+      "mentions": [
+        {
+          "entity_id": "P037",
+          "entity_name": "巢堪",
+          "entity_type": "person",
+          "start": 6,
+          "end": 8,
+          "surface": "巢堪"
+        }
+      ]
+    },
+    {
+      "para_id": "p119",
+      "text": "十一月癸卯日，任命大司农沛国人徐防为司空。徐防上书，认为：「汉朝设立十四家博士，设置甲乙科来勉励学者。臣见太学考试博士弟子，都凭个人意见立说，不遵守家法，互相包容隐瞒，开启了奸邪之路。每次有策试，就产生争议诉讼，议论纷乱错杂，互相指责是非。孔子称道『阐述而不创作』，又说『我还能见到史官存疑阙文的态度』。如今不依从章句之学，妄生穿凿附会之说，认为遵从师法是不合道义，随意立说是合乎道理，轻慢侮弄学术，逐渐形成风气，实在不是诏书选拔人才的本意。改变浮薄、遵从忠厚，是三代通行的原则；专心精研、致力根本，是儒学首先提倡的。臣认为博士以及甲乙科策试，应当依从各家的章句，出五十道难题来考试，解释详明的列为上等，引文明确的评为高说。如果不依从先师的学说，经义有互相矛盾攻击的，都判定为错误。」和帝听从了他的建议。",
+      "mentions": [
+        {
+          "entity_id": "P039",
+          "entity_name": "徐防",
+          "entity_type": "person",
+          "start": 15,
+          "end": 17,
+          "surface": "徐防"
+        },
+        {
+          "entity_id": "P039",
+          "entity_name": "徐防",
+          "entity_type": "person",
+          "start": 21,
+          "end": 23,
+          "surface": "徐防"
+        },
+        {
+          "entity_id": "L036",
+          "entity_name": "沛国",
+          "entity_type": "place",
+          "start": 12,
+          "end": 14,
+          "surface": "沛国"
+        }
+      ]
+    },
+    {
+      "para_id": "p120",
+      "text": "这一年，首次封大长秋郑众为鄛乡侯。",
+      "mentions": [
+        {
+          "entity_id": "P012",
+          "entity_name": "郑众",
+          "entity_type": "person",
+          "start": 10,
+          "end": 12,
+          "surface": "郑众"
+        }
+      ]
+    },
+    {
+      "para_id": "p125",
+      "text": "冬季十月戊申日，和帝临幸章陵；戊午日，前往云梦。当时太尉张禹留守京城，听说皇帝要去江陵，认为不应冒险远游，派驿马呈上谏书。和帝下诏回复说：「祭祀陵庙已经完毕，本当南下祭祀长江；恰好接到你的奏书，到汉水畔就掉转车驾返回。」十一月甲申日，回到宫中。",
+      "mentions": [
+        {
+          "entity_id": "P034",
+          "entity_name": "张禹",
+          "entity_type": "person",
+          "start": 28,
+          "end": 30,
+          "surface": "张禹"
+        },
+        {
+          "entity_id": "P028",
+          "entity_name": "太尉",
+          "entity_type": "person",
+          "start": 26,
+          "end": 28,
+          "surface": "太尉"
+        }
+      ]
+    },
+    {
+      "para_id": "p126",
+      "text": "岭南旧时进贡新鲜龙眼、荔枝，十里设置一个驿站，五里设置一个候堠，日夜传送。临武县长汝南人唐羌上书说：「臣听说在上位的人不把享用美味当作恩德，在下位的人不把进献膳食当作功劳。臣见交趾七郡进献新鲜龙眼等物，传送急速如同鸟惊风发；南方州郡土地炎热，路上毒虫猛兽不断，甚至有遭遇危险死亡的祸害。死去的人不能复生，后来的人还可以挽救。这两样东西进献到殿上，未必能延年益寿。」和帝下诏说：「远方国家的珍奇食物，本来是用来供奉宗庙的，如果伤害百姓，哪里是爱民的本意，现在敕令太官不要再接受这类进献！」",
+      "mentions": [
+        {
+          "entity_id": "L033",
+          "entity_name": "汝南",
+          "entity_type": "place",
+          "start": 41,
+          "end": 43,
+          "surface": "汝南"
+        }
+      ]
+    },
+    {
+      "para_id": "p130",
+      "text": "辛酉日，司徒鲁恭被罢免。",
+      "mentions": [
+        {
+          "entity_id": "P038",
+          "entity_name": "鲁恭",
+          "entity_type": "person",
+          "start": 6,
+          "end": 8,
+          "surface": "鲁恭"
+        },
+        {
+          "entity_id": "P015",
+          "entity_name": "司徒",
+          "entity_type": "person",
+          "start": 4,
+          "end": 6,
+          "surface": "司徒"
+        }
+      ]
+    },
+    {
+      "para_id": "p131",
+      "text": "庚午日，任命光禄勋张酺为司徒；八月己酉日，张酺去世。冬季十月辛卯日，任命司空徐防为司徒，大鸿胪陈宠为司空。",
+      "mentions": [
+        {
+          "entity_id": "C013",
+          "entity_name": "大鸿胪",
+          "entity_type": "concept",
+          "start": 44,
+          "end": 47,
+          "surface": "大鸿胪"
+        },
+        {
+          "entity_id": "P027",
+          "entity_name": "张酺",
+          "entity_type": "person",
+          "start": 9,
+          "end": 11,
+          "surface": "张酺"
+        },
+        {
+          "entity_id": "P027",
+          "entity_name": "张酺",
+          "entity_type": "person",
+          "start": 21,
+          "end": 23,
+          "surface": "张酺"
+        },
+        {
+          "entity_id": "P039",
+          "entity_name": "徐防",
+          "entity_type": "person",
+          "start": 38,
+          "end": 40,
+          "surface": "徐防"
+        },
+        {
+          "entity_id": "P015",
+          "entity_name": "司徒",
+          "entity_type": "person",
+          "start": 12,
+          "end": 14,
+          "surface": "司徒"
+        },
+        {
+          "entity_id": "P015",
+          "entity_name": "司徒",
+          "entity_type": "person",
+          "start": 41,
+          "end": 43,
+          "surface": "司徒"
+        }
+      ]
+    },
+    {
+      "para_id": "p137",
+      "text": "秋季九月，辽东太守耿夔进击高句丽，打败了他们。",
+      "mentions": [
+        {
+          "entity_id": "P013",
+          "entity_name": "耿夔",
+          "entity_type": "person",
+          "start": 9,
+          "end": 11,
+          "surface": "耿夔"
+        }
+      ]
+    },
+    {
+      "para_id": "p138",
+      "text": "冬季十二月辛未日，和帝在章德前殿驾崩。当初，和帝的皇子接连夭折，前后有十多个，后来出生的皇子就秘密送到民间养育，群臣都不知道。等到和帝驾崩，邓皇后才从民间接回皇子。长子刘胜，患有久治不愈的疾病；小儿子刘隆，出生才一百多天，被迎立为皇太子，当天夜里，就登上皇帝位，就是汉殇帝。尊邓皇后为皇太后，太后临朝听政。这时刚刚遭遇大丧，法禁还不完备，宫中丢失了一箧大珠；太后想如果拷打审问，必定会有无罪的人受牵连，于是亲自检看宫人，观察她们的神色，偷窃的人立刻自首认罪。另外，和帝的宠人吉成，他的侍从们一起诬告吉成施行巫蛊，吉成被下到掖庭拷问，供词和证据都看起来确凿。太后认为吉成是先帝身边的人，自己待他有恩，平时他都没有恶言，现在反而做这种事，不合人情；于是亲自召见吉成核实审问，果然是侍从们诬陷，人们没有不叹服，认为太后圣明的。",
+      "mentions": [
+        {
+          "entity_id": "L044",
+          "entity_name": "章德前殿",
+          "entity_type": "place",
+          "start": 12,
+          "end": 16,
+          "surface": "章德前殿"
+        },
+        {
+          "entity_id": "P002",
+          "entity_name": "汉殇帝",
+          "entity_type": "person",
+          "start": 133,
+          "end": 136,
+          "surface": "汉殇帝"
+        },
+        {
+          "entity_id": "P002",
+          "entity_name": "刘隆",
+          "entity_type": "person",
+          "start": 100,
+          "end": 102,
+          "surface": "刘隆"
+        },
+        {
+          "entity_id": "P003",
+          "entity_name": "刘胜",
+          "entity_type": "person",
+          "start": 84,
+          "end": 86,
+          "surface": "刘胜"
+        },
+        {
+          "entity_id": "P053",
+          "entity_name": "吉成",
+          "entity_type": "person",
+          "start": 237,
+          "end": 239,
+          "surface": "吉成"
+        },
+        {
+          "entity_id": "P053",
+          "entity_name": "吉成",
+          "entity_type": "person",
+          "start": 249,
+          "end": 251,
+          "surface": "吉成"
+        },
+        {
+          "entity_id": "P053",
+          "entity_name": "吉成",
+          "entity_type": "person",
+          "start": 256,
+          "end": 258,
+          "surface": "吉成"
+        },
+        {
+          "entity_id": "P053",
+          "entity_name": "吉成",
+          "entity_type": "person",
+          "start": 282,
+          "end": 284,
+          "surface": "吉成"
+        },
+        {
+          "entity_id": "P053",
+          "entity_name": "吉成",
+          "entity_type": "person",
+          "start": 328,
+          "end": 330,
+          "surface": "吉成"
+        }
+      ]
+    },
+    {
+      "para_id": "p140",
+      "text": "洛阳令广汉人王涣，为人立身公平正直，能够以明察举发隐藏的奸恶之事，表面施行严苛的政令，内心却怀着仁慈之心。凡是他判决的案件，人们没有不心悦诚服的，京城的人都认为他断案如神，这一年他在任上去世，百姓挤满道路，没有不叹息流泪的。王涣的灵柩西归家乡，路过弘农，百姓都在路旁摆上盘案祭奠，官吏询问缘故，百姓都说：「平时我们带米到洛阳，被官吏士卒掠夺，常常损失一半，自从王君任职，就不再被侵夺冤枉，所以来报答他的恩德。」洛阳百姓为他建立祠庙、创作诗歌，每次祭祀，就奏乐歌唱这些诗来进献给他。太后下诏说：「忠良的官吏，是国家得以治理的依靠，访求他们十分勤勉，得到的却非常少，现在任命王涣的儿子王石为郎中，来勉励勤勉政事的人。」",
+      "mentions": [
+        {
+          "entity_id": "P020",
+          "entity_name": "洛阳令",
+          "entity_type": "person",
+          "start": 0,
+          "end": 3,
+          "surface": "洛阳令"
+        },
+        {
+          "entity_id": "P052",
+          "entity_name": "王涣",
+          "entity_type": "person",
+          "start": 6,
+          "end": 8,
+          "surface": "王涣"
+        },
+        {
+          "entity_id": "P052",
+          "entity_name": "王涣",
+          "entity_type": "person",
+          "start": 112,
+          "end": 114,
+          "surface": "王涣"
+        },
+        {
+          "entity_id": "P052",
+          "entity_name": "王涣",
+          "entity_type": "person",
+          "start": 285,
+          "end": 287,
+          "surface": "王涣"
+        },
+        {
+          "entity_id": "L001",
+          "entity_name": "洛阳",
+          "entity_type": "place",
+          "start": 160,
+          "end": 162,
+          "surface": "洛阳"
+        },
+        {
+          "entity_id": "L001",
+          "entity_name": "洛阳",
+          "entity_type": "place",
+          "start": 205,
+          "end": 207,
+          "surface": "洛阳"
+        },
+        {
+          "entity_id": "L039",
+          "entity_name": "广汉",
+          "entity_type": "place",
+          "start": 3,
+          "end": 5,
+          "surface": "广汉"
+        }
+      ]
+    }
+  ]
+}
