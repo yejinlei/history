@@ -1339,7 +1339,24 @@
     "tili_name": "编年",
     "para_count": 138,
     "char_count": 11539,
-    "annotation_count": 286
+    "annotation_count": 286,
+    "translation_file": "data/books/zizhitongjian/translations/白话-定稿-卷第五十二・汉纪四十四・孝顺皇帝下・孝冲皇帝.md",
+    "draft_translation_file": "data/books/zizhitongjian/translations/白话-初稿-卷第五十二・汉纪四十四・孝顺皇帝下・孝冲皇帝.md",
+    "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第五十二・汉纪四十四・孝顺皇帝下・孝冲皇帝.json",
+    "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第五十二・汉纪四十四・孝顺皇帝下・孝冲皇帝.json",
+    "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第五十二・汉纪四十四・孝顺皇帝下・孝冲皇帝.json",
+    "enhancement_file": "data/books/zizhitongjian/enhancements/增强-卷第五十二・汉纪四十四・孝顺皇帝下・孝冲皇帝.json",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第五十二・汉纪四十四・孝顺皇帝下・孝冲皇帝.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第五十二・汉纪四十四・孝顺皇帝下・孝冲皇帝.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第五十二・汉纪四十四・孝顺皇帝下・孝冲皇帝.json",
+    "enhancements": "data/books/zizhitongjian/enhancements/增强-卷第五十二・汉纪四十四・孝顺皇帝下・孝冲皇帝.json",
+    "proofread": "data/books/zizhitongjian/proofread/校勘-卷第五十二・汉纪四十四・孝顺皇帝下・孝冲皇帝.md",
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第五十二・汉纪四十四・孝顺皇帝下・孝冲皇帝.md",
+    "proofread_files": [
+      "data/books/zizhitongjian/proofread/本体校验-卷第五十二・汉纪四十四・孝顺皇帝下・孝冲皇帝.md",
+      "data/books/zizhitongjian/proofread/翻译校验-卷第五十二・汉纪四十四・孝顺皇帝下・孝冲皇帝.md",
+      "data/books/zizhitongjian/proofread/校勘-卷第五十二・汉纪四十四・孝顺皇帝下・孝冲皇帝.md"
+    ]
   },
   {
     "id": "zizhitongjian-0054",
