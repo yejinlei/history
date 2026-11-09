@@ -1423,7 +1423,24 @@
     "tili_name": "编年",
     "para_count": 72,
     "char_count": 11430,
-    "annotation_count": 331
+    "annotation_count": 331,
+    "translation_file": "data/books/zizhitongjian/translations/白话-定稿-卷第五十五・汉纪四十七・孝桓皇帝中.md",
+    "draft_translation_file": "data/books/zizhitongjian/translations/白话-初稿-卷第五十五・汉纪四十七・孝桓皇帝中.md",
+    "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第五十五・汉纪四十七・孝桓皇帝中.json",
+    "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第五十五・汉纪四十七・孝桓皇帝中.json",
+    "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第五十五・汉纪四十七・孝桓皇帝中.json",
+    "enhancement_file": "data/books/zizhitongjian/enhancements/增强-定稿-卷第五十五・汉纪四十七・孝桓皇帝中.json",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第五十五・汉纪四十七・孝桓皇帝中.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第五十五・汉纪四十七・孝桓皇帝中.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第五十五・汉纪四十七・孝桓皇帝中.json",
+    "enhancements": "data/books/zizhitongjian/enhancements/增强-定稿-卷第五十五・汉纪四十七・孝桓皇帝中.json",
+    "proofread": "data/books/zizhitongjian/proofread/校勘-卷第五十五・汉纪四十七・孝桓皇帝中.md",
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第五十五・汉纪四十七・孝桓皇帝中.md",
+    "proofread_files": [
+      "data/books/zizhitongjian/proofread/本体校验-卷第五十五・汉纪四十七・孝桓皇帝中.md",
+      "data/books/zizhitongjian/proofread/翻译校验-卷第五十五・汉纪四十七・孝桓皇帝中.md",
+      "data/books/zizhitongjian/proofread/校勘-卷第五十五・汉纪四十七・孝桓皇帝中.md"
+    ]
   },
   {
     "id": "zizhitongjian-0057",
