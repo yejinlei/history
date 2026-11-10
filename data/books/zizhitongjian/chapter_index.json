@@ -1563,7 +1563,24 @@
     "tili_name": "编年",
     "para_count": 96,
     "char_count": 12321,
-    "annotation_count": 311
+    "annotation_count": 311,
+    "translation_file": "data/books/zizhitongjian/translations/白话-定稿-卷第六十・汉纪五十二・孝献皇帝乙.md",
+    "draft_translation_file": "data/books/zizhitongjian/translations/白话-初稿-卷第六十・汉纪五十二・孝献皇帝乙.md",
+    "entity_final": "data/books/zizhitongjian/ontology/实体-定稿-卷第六十・汉纪五十二・孝献皇帝乙.json",
+    "entity_draft": "data/books/zizhitongjian/ontology/实体-初稿-卷第六十・汉纪五十二・孝献皇帝乙.json",
+    "annotation_file": "data/books/zizhitongjian/ontology/实体标注-卷第六十・汉纪五十二・孝献皇帝乙.json",
+    "enhancement_file": "data/books/zizhitongjian/enhancements/增强-定稿-卷第六十・汉纪五十二・孝献皇帝乙.json",
+    "translation": "data/books/zizhitongjian/translations/白话-定稿-卷第六十・汉纪五十二・孝献皇帝乙.md",
+    "entities": "data/books/zizhitongjian/ontology/实体-定稿-卷第六十・汉纪五十二・孝献皇帝乙.json",
+    "mentions": "data/books/zizhitongjian/ontology/实体标注-卷第六十・汉纪五十二・孝献皇帝乙.json",
+    "enhancements": "data/books/zizhitongjian/enhancements/增强-定稿-卷第六十・汉纪五十二・孝献皇帝乙.json",
+    "proofread": "data/books/zizhitongjian/proofread/校勘-卷第六十・汉纪五十二・孝献皇帝乙.md",
+    "review": "data/books/zizhitongjian/proofread/本体校验-卷第六十・汉纪五十二・孝献皇帝乙.md",
+    "proofread_files": [
+      "data/books/zizhitongjian/proofread/本体校验-卷第六十・汉纪五十二・孝献皇帝乙.md",
+      "data/books/zizhitongjian/proofread/翻译校验-卷第六十・汉纪五十二・孝献皇帝乙.md",
+      "data/books/zizhitongjian/proofread/校勘-卷第六十・汉纪五十二・孝献皇帝乙.md"
+    ]
   },
   {
     "id": "zizhitongjian-0062",
